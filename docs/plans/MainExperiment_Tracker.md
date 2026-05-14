@@ -5,19 +5,20 @@
 
 ---
 
-# 🎯 지금 상황 (한눈에)
+# 🎯 지금 상황 (한눈에)  ※ 2026-05-14 업데이트
 
 ```
-████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2/14 단계 완료 (14%)
+████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 5/14 단계 완료 (36%)
 ```
 
 | 단계 | 상태 | 환경 |
 |---|---|:---:|
 | ✅ **0. 전제 조건 점검** | 완료 (2026-05-12) | 💻 Mac |
-| ✅ **1. Profiler 본 실행** (1,000명) | **완료 ★ 1,000/1,000, $0.83, 4h 17분** | 💻 Mac |
-| 🟡 **2. Teacher Distillation** | **← 지금 여기 (다음 작업)** | 💻 Mac |
-| ⬜ 2.5. GitHub → RunPod 동기화 | 대기 | 🔄 |
-| ⬜ 3. QLoRA 파인튜닝 | 대기 | ☁️ RunPod |
+| ✅ **1. Profiler 본 실행 v1** | 완료 — temporal leakage 발견 후 폐기 | 💻 Mac |
+| ✅ **1.v2 Profiler 재생성** | **완료 ★ 1,000명 Profile, $0.84, 5h 40m** | 💻 Mac |
+| ✅ **2. Teacher Distillation** | **완료 ★ 578줄 (정합성 정리 후), $3.30, 9h 1m** | 💻 Mac |
+| ✅ **2.5. GitHub + HF Hub 동기화** | **완료** [`kkminari/TransferJudge`](https://github.com/kkminari/TransferJudge) + `kwaksuobusi/transferjudge-data` | 🔄 |
+| 🟡 **3. QLoRA 파인튜닝** | **← 지금 여기 (다음 작업)** | ☁️ RunPod |
 | ⬜ 4a. Ablation (c) Ours | 대기 | ☁️ RunPod |
 | ⬜ 4b. Ablation (a)(b)(d)(f) | 대기 | 💻 + ☁️ |
 | ⬜ 4c. Ablation (e) 전통 CDR | 대기 | ☁️ RunPod |
@@ -26,12 +27,25 @@
 | ⬜ 6. 결과 분석 + 통계 | 대기 | 💻 Mac |
 | ⬜ 7. 논문 초고 | 대기 | 💻 Mac |
 
-**누적 비용**: $0.83 (Phase 1) | **누적 시간**: ~4시간 | **남은 예상 비용**: ~$25~40
+**누적 비용**: **$4.32** (Phase 0~2.5) | **누적 시간**: **~17h** | **남은 예상**: ~$10~15 (Phase 3~5)
 
-**다음 액션**:
+**Phase 2 최종 데이터** (Codex 외부 리뷰 1차·2차 반영, 8개 결함 모두 수정):
+- 학습 데이터: **`data/teacher_train_main.jsonl` · 578줄**
+- 분할: train 578 / valid 100 / test 100 — **train·valid·test 누수 0건**
+- 정합성: out-of-candidate 0 · duplicate 0 · title exact mismatch 0 · BLOCK leakage 0 · GT title leakage 0 · 7-pattern 완전성 100%
+- 정리 이력: orphan 1 제거, low-signal 23 제거, title 79 정규화
+
+**다음 액션 (RunPod GPU 환경에서)**:
 ```bash
-python3 scripts/check_main_progress.py    # 진행 상태 자동 확인
-# 또는 본 파일에서 Phase 2 섹션 찾기 (↓ 아래)
+git clone https://github.com/kkminari/TransferJudge.git && cd TransferJudge
+pip install -r requirements.txt
+export HF_TOKEN=hf_새토큰   # https://huggingface.co/settings/tokens
+huggingface-cli login --token $HF_TOKEN
+python3 scripts/download_data_runpod.py --repo kwaksuobusi/transferjudge-data
+nohup python3 scripts/train_judge.py \
+  --training-data data/teacher_train_main.jsonl \
+  --output checkpoints/judge_v1 > logs/train.log 2>&1 &
+tail -f logs/train.log
 ```
 
 ---
