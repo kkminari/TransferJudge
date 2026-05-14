@@ -1,0 +1,77 @@
+{
+  "user_id": "AEWZYNWHF7ECRFTJXXMYBJEAV2QA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, historical, drama",
+      "evidence": [
+        "\"We've had a great time watching 'Murdoch Mysteries'.\"",
+        "\"We have the complete set of 'Jesse Stone' mysteries, and have watched them several times.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Excellent programme, well worth watching.\"",
+        "\"Interesting, well thought out film.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"While this programme started off a bit slow, it did pick up, and is very good.\"",
+        "\"Copper is a good show, and interesting to watch, but... it is too graphic.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Amazon should review the films they put on their site, and avoid such wastes as this!\"",
+        "\"I can't believe the writers and producers think people were so profane in that time period.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Tom Selleck, Murdoch Mysteries",
+      "evidence": [
+        "\"The only thing Tom Selleck has acted in that I didn't like was 'Magnum, P. I.'\"",
+        "\"We've enjoyed it more and more every episode we watch [Murdoch Mysteries].\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Great show!!! We've enjoyed it more and more every episode we watch.\"",
+        "\"Interesting, well thought out film.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I saw this movie several years ago on PBS, and have been trying to find a DVD of it.\"",
+        "\"It is a shame that no more are reported to be in the works.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for mystery and drama genres, particularly enjoying shows like 'Murdoch Mysteries' and 'Jesse Stone'. They value production quality and emotional engagement, often expressing a desire for well-crafted narratives without excessive profanity or graphic content."
+}

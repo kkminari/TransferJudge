@@ -1,0 +1,86 @@
+{
+  "user_id": "AEWCUX5UKUYPDZJIOB6XMLCBJ3KA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, crime drama, nostalgia",
+      "evidence": [
+        "\"Good plot. Mostly just gang-related crime drama with a little family feud thrown.\"",
+        "\"This is now an epic nostalgia trip for former fans...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot makes no sense... episodic, not allowing for much character building nor climatic storytelling.\"",
+        "\"The plot ruined what was otherwise a decent CG film.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The ending was disappointing and some scenes were downright boring but the movie was fun.\"",
+        "\"I liked Zero Charisma, but it could use improvement... allowing for a lot of boredom to set in.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"I don't expect the best animation quality, but this often just seemed lazily animated...\"",
+        "\"The animation quality is nothing special, but it isn't bad.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The action sequences are just that cool.\"",
+        "\"The CG scenes are pretty fun to watch despite being not-so-well thought out.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"Overall, the movie was an unforgettable experience that will stick with me for years to come.\"",
+        "\"I liked it, but I entered the movie thinking it was going to be more of a kung fu film.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "plot_holes",
+      "value": "high",
+      "evidence": [
+        "\"There are plot holes the size of meteors and open-ended dialogue that keeps you rolling your eyes in annoyance.\"",
+        "\"The plot makes no sense...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user enjoys action and crime drama genres, often with a nostalgic element. They prefer straightforward narratives but express frustration with plot holes and pacing issues, indicating a mixed emotional engagement with the content."
+}

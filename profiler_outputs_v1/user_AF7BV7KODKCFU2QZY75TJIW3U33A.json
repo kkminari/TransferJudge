@@ -1,0 +1,77 @@
+{
+  "user_id": "AF7BV7KODKCFU2QZY75TJIW3U33A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "suspense, comedy, informative",
+      "evidence": [
+        "\"Suspenseful, humorous, always a twist to the story, good actors/actresses.\"",
+        "\"This movie was more comedy than scary.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good stories, more past info on the characters.\"",
+        "\"Enjoyable, exciting mysteries and stories that our whole family watches.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Hours of interesting and funny watching.\"",
+        "\"No commercials, no time outs, great games.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I enjoy the program. Hours of interesting and funny watching.\"",
+        "\"The filming is fantastic, the fish are extraordinary, the stories are enthralling.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Jeremy Wade",
+      "evidence": [
+        "\"Great collection. The whole family enjoys watching them.\"",
+        "\"I have much admiration for Jeremy because he is very brave and strong.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, immersive experiences",
+      "evidence": [
+        "\"The filming is fantastic, the fish are extraordinary, the stories are enthralling.\"",
+        "\"An exciting series that displays God's craftsmanship in every creature.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"This was very informative and sad.\"",
+        "\"Now she was able to finish the movie, watching it with the same man she married almost 60 years ago.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys suspenseful and comedic narratives with a preference for fast pacing and engaging stories. They appreciate visual spectacle and immersive experiences, particularly in the works of Jeremy Wade, while showing a moderate emotional engagement with the content."
+}

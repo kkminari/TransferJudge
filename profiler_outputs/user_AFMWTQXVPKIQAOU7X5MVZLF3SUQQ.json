@@ -1,0 +1,74 @@
+{
+  "user_id": "AFMWTQXVPKIQAOU7X5MVZLF3SUQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, classic",
+      "evidence": [
+        "\"Great wholesome family movie\"",
+        "\"A classic that all kids should have the chance to watch.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Such a good movie nothing to. Ot like about it.\"",
+        "\"Good quality video wholesome family movie.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Great wholesome family movie\"",
+        "\"Still great wholesome kids movie\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Quality is the same as it was when released no issues with viewing.\"",
+        "\"Great price great quality all in one complete series.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Good quality video wholesome family movie.\"",
+        "\"Great quality wholesome funny movie\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Great wholesome family movie\"",
+        "\"The younger kids all loved it just the same as the older kids some 20 years ago.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly and classic movies, valuing quality and emotional resonance. They enjoy simple narratives with a slower pacing, indicating a taste for wholesome content that appeals to both children and adults."
+}

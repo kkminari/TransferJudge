@@ -1,0 +1,77 @@
+{
+  "user_id": "AEWSIDHR7LJEZKD4PRWISMH3PQ4A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, thriller",
+      "evidence": [
+        "Enjoyed this series. It presented a view of another part of the medical field I knew little about and presented it in very interesting story's.",
+        "We thoroughly enjoyed watching Angie Harmon in 'The Women's Murder Club' series adapted from James Patterson's books."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "I've enjoyed the Killing, a very suspenceful story with a number of twists and turns.",
+        "The stories intertwine between corporate law issues and then there are people oriented issues dealing with child advadacy."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Enjoyed this series. We hope it will be renewed for a 7th season.",
+        "Good movie overall, but they could have restrained the use of the F--- word, and still have an excellent movie."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "I especially enjoyed that the use of the F..... bomb was in very limited use.",
+        "It's sad that the series did not get picked up for continuation."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "Have enjoyed Simon Baker's character.",
+        "We also enjoy reading the books by Tess Gerritsen, whose novels this series is loosely based."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "The characters are enjoyable watch and the story lines are usually quite interesting.",
+        "I hope the public likes this series, so that another season and Bosch story can be told."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It's sad that the series did not get picked up for continuation.",
+        "I really enjoy this series. The characters are enjoyable watch and the story lines are usually quite interesting."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and thriller genres, particularly those with complex narratives and engaging characters. They show a strong loyalty to specific creators and appreciate emotional resonance in their viewing experiences."
+}

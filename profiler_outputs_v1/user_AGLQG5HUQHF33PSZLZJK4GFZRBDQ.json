@@ -1,0 +1,77 @@
+{
+  "user_id": "AGLQG5HUQHF33PSZLZJK4GFZRBDQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, action",
+      "evidence": [
+        "only THE BEST classic sci-fi film ever!",
+        "Spartacus shows Rome in all its naked brutality"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "intriguing writing but episode after episode was a boring repeat of the previous episode.",
+        "this story line unfaithful to the Gene Roddenberry mythology."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "lame plots for season 2. I can say no more. it became a teenage hormone fest!",
+        "some mysteries are solved while others are opened up."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Tense, well written and well acted story!",
+        "Starz is to be commended for this brave production."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "John Barrowman, Star Wars",
+      "evidence": [
+        "Can't go wrong with John Barrowman for sure!",
+        "The original, history-making Star Wars trilogy is a worthy investment."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, immersive world-building",
+      "evidence": [
+        "The digital update makes for a more intense experience.",
+        "Nothing is hidden from view."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I couldn't help but cry at the end.",
+        "It keeps you guessing!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for sci-fi and drama genres, appreciating high-quality production and emotional storytelling. They exhibit mixed feelings towards narrative complexity and pacing, indicating a desire for engaging plots but also a tolerance for slower developments when well-executed."
+}

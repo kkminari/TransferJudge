@@ -1,0 +1,76 @@
+{
+  "user_id": "AF5BOGRX3W5UZEDCVJVVXLYN4LUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "anime, action, drama",
+      "evidence": [
+        "\"Samurai Champloo\" modernizes the samurai story, throwing in hip-hop elements...",
+        "\"Full Metal Panic\" perfectly exemplifies the series' best qualities: the ability to seemingly combine genres..."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "The story doesn't hold as tightly together, and goes all over the place...",
+        "The series doesn't shy away from more abstract or philosophical ideas about what is right or wrong..."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "The first half of the 26-episode series drags along with episode after unconnected episode...",
+        "This may be the slowest disc of the series, which is saying a lot considering the dripping-molasses pace..."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The animation in this series is superb.",
+        "The art is at its best since the pilot episode, and the music is also in top form."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Shinichiro Watanabe",
+      "evidence": [
+        "anything directed by Shinichiro Watanabe will always have the label \"from the makers of Cowboy Bebop.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "The \"Champloo\" style is cool. Disc-scratching, beats, and blurry-style camera movement make for awesome imagery...",
+        "The animation in this series is superb. Experienced viewers will be in awe of the way the artists have used CGI..."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "The three-part \"Homelands\" story is arguably the best the series has to offer, an experience that will stick strongly...",
+        "The tragedy can bring tears at its most poignant moments."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for anime, particularly those that blend genres and offer high-quality animation. They appreciate emotional depth and sensory experiences in storytelling, while showing mixed feelings towards narrative complexity and pacing."
+}

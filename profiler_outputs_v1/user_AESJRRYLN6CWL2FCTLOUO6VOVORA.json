@@ -1,0 +1,77 @@
+{
+  "user_id": "AESJRRYLN6CWL2FCTLOUO6VOVORA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, period, classic",
+      "evidence": [
+        "\"This DVD Documentary-style tribute to general aviation...\"",
+        "\"Perhaps I am a sucker for 'period' movies.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"...the method of story telling works beautifully.\"",
+        "\"...good to see a law enforcement officer who is a 'good guy.'\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"...good to see a law enforcement officer who is a 'good guy.'\"",
+        "\"...the story of the man who came to America with no money...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...well written, well acted, beautiful photography.\"",
+        "\"...wonderful attention to detail re period settings.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"...the cast and the method of story telling works beautifully.\"",
+        "\"...I am impressed and delighted to be able to watch it again.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric music",
+      "evidence": [
+        "\"...a masterpiece of photography, music...\"",
+        "\"...gorgeous airplanes and wonderful interviews with pilots...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...brought tears, stayed with me.\"",
+        "\"...good to see a law enforcement officer who is a 'good guy.'\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and period pieces, valuing high production quality and visual storytelling. They appreciate simple narratives that evoke emotional resonance, though they exhibit low brand loyalty to specific creators."
+}

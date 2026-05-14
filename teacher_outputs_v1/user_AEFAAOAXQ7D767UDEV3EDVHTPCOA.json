@@ -1,0 +1,159 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for action and drama suggests a liking for fast-paced narratives, which can translate to action-oriented and dramatic novels. However, the tropes and execution in books may differ from films, so this preference should inform but not dominate recommendations.",
+      "transferred_insight": "Prefer action-oriented and dramatic fiction, but with an understanding of different narrative styles in books.",
+      "confidence": 0.75
+    },
+    "narrative_complexity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's preference for simple narratives indicates a desire for straightforward storytelling, which directly applies to books. This suggests a preference for accessible plots without complex structures.",
+      "transferred_insight": "Prefer straightforward, simple narratives in books.",
+      "confidence": 0.8
+    },
+    "pacing_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The strong preference for fast pacing in films translates directly to a preference for fast-paced books. This indicates a desire for engaging, quick reads that maintain momentum.",
+      "transferred_insight": "Prefer fast-paced, engaging books that keep the reader's attention.",
+      "confidence": 0.9
+    },
+    "quality_sensitivity": {
+      "decision": "PARTIAL",
+      "rationale": "High quality sensitivity in film suggests the user values well-crafted narratives and strong performances in books as well. However, the specific aspects of quality may differ between media.",
+      "transferred_insight": "Prefer well-reviewed books with strong writing and engaging plots.",
+      "confidence": 0.7
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "Low brand loyalty indicates that the user does not have a strong attachment to specific authors, making this pattern irrelevant for book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "The preference for visual spectacle is specific to film and does not translate to the book medium, where visual elements are not a primary focus.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "emotional_resonance": {
+      "decision": "PARTIAL",
+      "rationale": "The user's medium emotional engagement suggests a preference for books that evoke some emotional response, but not necessarily deep emotional narratives. This can guide recommendations towards engaging but not overly heavy reads.",
+      "transferred_insight": "Prefer books with moderate emotional depth and engaging character dynamics.",
+      "confidence": 0.65
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "0316129070",
+      "title": "Abaddon's Gate (The Expanse, 3)",
+      "score": 0.92,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference"
+      ],
+      "reasoning": "This book features fast-paced action and straightforward storytelling, aligning well with the user's preferences for engaging narratives. The blend of action and drama in a sci-fi setting also caters to their genre interests."
+    },
+    {
+      "rank": 2,
+      "item_id": "B00BQYZM2K",
+      "title": "Yesterday's Echo: A Novel (The Rick Cahill Series Book 1)",
+      "score": 0.88,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference"
+      ],
+      "reasoning": "This thriller offers a fast-paced plot with a straightforward narrative, appealing to the user's preference for action and drama. The engaging storyline is likely to keep the reader's attention throughout."
+    },
+    {
+      "rank": 3,
+      "item_id": "B36",
+      "title": "Mine (Ties That Bind)",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference"
+      ],
+      "reasoning": "This book features action and adventure with a simple narrative structure, making it a good fit for the user's taste. The pacing is likely to be engaging, keeping the reader invested."
+    },
+    {
+      "rank": 4,
+      "item_id": "B00OBOA2IG",
+      "title": "Flurry of the Snombies: A Branches Book (The Notebook of Doom #7)",
+      "score": 0.8,
+      "applied_patterns": [
+        "narrative_complexity",
+        "pacing_preference"
+      ],
+      "reasoning": "This children's book has a fast-paced plot and simple narrative, making it accessible and engaging. It aligns with the user's preference for straightforward storytelling."
+    },
+    {
+      "rank": 5,
+      "item_id": "B00505UQ90",
+      "title": "ProntoPass NAPLEX® Pharmacy Review Combo",
+      "score": 0.75,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "While not a traditional narrative, this review book is well-structured and straightforward, appealing to the user's preference for quality and clarity in writing."
+    },
+    {
+      "rank": 6,
+      "item_id": "B40",
+      "title": "Dark Waters (Cragg & Fidelis Mysteries)",
+      "score": 0.73,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference"
+      ],
+      "reasoning": "This mystery novel features a straightforward plot and engaging pacing, which aligns with the user's preferences for action and drama in a narrative."
+    },
+    {
+      "rank": 7,
+      "item_id": "B00B9238SO",
+      "title": "132 Chia Seed Recipes Cookbook",
+      "score": 0.7,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "This cookbook is well-reviewed and offers clear, simple recipes, appealing to the user's preference for quality and straightforward content."
+    },
+    {
+      "rank": 8,
+      "item_id": "B01ICNMME8",
+      "title": "NO5CASE Anti Fall Series Ultra Thin Case for Samsung Galaxy S6 Edge Plus 5.7 inch(Black 1)",
+      "score": 0.65,
+      "applied_patterns": [],
+      "reasoning": "While not a book, this product is well-rated and straightforward, appealing to the user's quality sensitivity."
+    },
+    {
+      "rank": 9,
+      "item_id": "B000PB3MFO",
+      "title": "The Great American Bathroom Book Set volume I, II and III",
+      "score": 0.6,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "This set is well-reviewed and offers a variety of engaging content, appealing to the user's preference for quality."
+    },
+    {
+      "rank": 10,
+      "item_id": "B00AJLQEMS",
+      "title": "Batman and Robin 15 (2012) 'Death In The Family'",
+      "score": 0.55,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This graphic novel features action and straightforward storytelling, appealing to the user's interests in action and drama."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference were blocked as they do not translate to book recommendations.",
+  "overall_strategy": "Focused on transferring the user's preferences for fast-paced, simple narratives while blocking irrelevant patterns. Recommendations emphasize action and drama, aligning with the user's core interests."
+}

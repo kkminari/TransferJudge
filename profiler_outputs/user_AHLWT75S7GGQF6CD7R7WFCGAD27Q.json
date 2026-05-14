@@ -1,0 +1,76 @@
+{
+  "user_id": "AHLWT75S7GGQF6CD7R7WFCGAD27Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy, war, science fiction, documentary",
+      "evidence": [
+        "\"I like action movies and funny movies and movies where people discover themselves overcoming challenges.\"",
+        "\"If you like the action genre, then 24 has a lot to offer.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Not much of that here.\"",
+        "\"The characters are never fully developed.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It was a fun action-packed movie.\"",
+        "\"If you like shooting and science fiction, then you will too.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The acting was fine.\"",
+        "\"The uniforms, acting, sets, equipment were absolutely on mark.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Not a Redford 'fan' per se, but he and Nick do a great job.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Has aliens, guns, explosions, and all the while most of the actors keep their makeup and hair looking good.\"",
+        "\"It has lots of big-screen touches for a small-screen show.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Sorry Mark, but this movie was a real downer.\"",
+        "\"I wanted to go to Gambler's Anonymous after watching.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action-packed and comedic films, often favoring straightforward narratives with fast pacing. They show a moderate sensitivity to production quality but lack strong loyalty to specific creators, and their emotional engagement tends to be low."
+}

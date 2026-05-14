@@ -1,0 +1,165 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's preference for classic and family-friendly films translates well to books that are similarly themed, such as classic literature and family-oriented stories. This pattern is highly transferable as both media can evoke similar themes and values.",
+      "transferred_insight": "Prefer classic literature and family-friendly novels",
+      "confidence": 0.8
+    },
+    "narrative_complexity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for simple narratives suggests a tendency towards straightforward storytelling, but this may not dominate their book choices. Accessible narratives are preferred, but some complexity can be acceptable.",
+      "transferred_insight": "Prefer accessible narratives with moderate complexity",
+      "confidence": 0.6
+    },
+    "pacing_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's fast-paced preference directly applies to books, indicating a desire for engaging, quick reads that maintain a brisk narrative flow. This is a strong indicator for selecting page-turners.",
+      "transferred_insight": "Prefer fast-paced, engaging reads",
+      "confidence": 0.75
+    },
+    "quality_sensitivity": {
+      "decision": "BLOCK",
+      "rationale": "The user's low quality sensitivity suggests that they do not prioritize high production values or literary prestige, which does not translate well to book recommendations. This pattern is too weak to inform choices.",
+      "transferred_insight": null,
+      "confidence": 0.4
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "Loyalty to Matthew McConaughey, an actor, does not have a direct equivalent in the book world. Recommending based on actor loyalty would likely lead to negative transfer.",
+      "transferred_insight": null,
+      "confidence": 0.6
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's preference for visual spectacle is specific to film and does not apply to books, which rely on text rather than visual elements. This pattern should not influence book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.5
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high emotional resonance preference indicates a desire for books that evoke strong feelings and connections, which is a quality that can be found in both films and literature.",
+      "transferred_insight": "Prefer emotionally resonant stories with depth",
+      "confidence": 0.7
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "0486282118",
+      "title": "A Christmas Carol (Great Illustrated Classics) by Charles Dickens (2008) Paperback",
+      "score": 0.9,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This classic tale is family-friendly and emotionally resonant, making it a perfect fit for the user's preferences. Its straightforward narrative and fast-paced storytelling align well with their reading style."
+    },
+    {
+      "rank": 2,
+      "item_id": "0199538487",
+      "title": "Pride and Prejudice by Jane Austen",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "A classic novel that combines family themes with emotional depth, this book is accessible and engaging, appealing to the user's love for classic literature and family-friendly stories."
+    },
+    {
+      "rank": 3,
+      "item_id": "0749024038",
+      "title": "The Mathematical Bridge (Nighthawk, 2)",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference"
+      ],
+      "reasoning": "This book offers a simple narrative structure and is likely to be engaging and fast-paced, aligning with the user's preferences for straightforward storytelling."
+    },
+    {
+      "rank": 4,
+      "item_id": "1595545468",
+      "title": "Runaway Saint",
+      "score": 0.75,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This novel features family dynamics and emotional themes, making it relatable and engaging for the user. Its accessible narrative style fits their preference for simpler stories."
+    },
+    {
+      "rank": 5,
+      "item_id": "1477809473",
+      "title": "Crimes of Memory (A Detective Jackson Mystery)",
+      "score": 0.7,
+      "applied_patterns": [
+        "genre_preference",
+        "pacing_preference"
+      ],
+      "reasoning": "This mystery novel is likely to be fast-paced and engaging, appealing to the user's preference for quick reads while still being family-friendly."
+    },
+    {
+      "rank": 6,
+      "item_id": "B075QLX92W",
+      "title": "Ride the Storm",
+      "score": 0.65,
+      "applied_patterns": [
+        "genre_preference",
+        "pacing_preference"
+      ],
+      "reasoning": "This fantasy novel may offer an engaging and fast-paced narrative, appealing to the user's desire for family-friendly content, even if it strays slightly from classic literature."
+    },
+    {
+      "rank": 7,
+      "item_id": "1590792130",
+      "title": "Frozen Teardrop: The Tragedy and Triumph of Figure Skating's 'Queen of Spin'",
+      "score": 0.6,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This memoir may resonate emotionally with the user, providing a personal and engaging story that aligns with their preference for family-friendly narratives."
+    },
+    {
+      "rank": 8,
+      "item_id": "B08CPHH4W4",
+      "title": "Ivory Rangers",
+      "score": 0.55,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This book features themes of family and protection, which may appeal to the user's interests, although it may not be as fast-paced as they prefer."
+    },
+    {
+      "rank": 9,
+      "item_id": "0415666805",
+      "title": "Pompeii and Herculaneum: A Sourcebook",
+      "score": 0.5,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "While this book is more historical than narrative, it may still appeal to the user's interest in classic themes and family-friendly content."
+    },
+    {
+      "rank": 10,
+      "item_id": "B000CQ36JY",
+      "title": "Roger the Racer (A Little Engine Book)",
+      "score": 0.45,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This children's book is family-friendly and likely to resonate emotionally with the user, making it a suitable choice for reading with their daughter."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty to Matthew McConaughey and sensory preferences for visual spectacle were blocked due to negative transfer potential. Quality sensitivity was also blocked due to low relevance.",
+  "overall_strategy": "Focused on transferring genre preferences and emotional resonance while applying partial insights from narrative complexity and pacing. Recommendations emphasize classic and family-friendly themes that align with the user's profile."
+}

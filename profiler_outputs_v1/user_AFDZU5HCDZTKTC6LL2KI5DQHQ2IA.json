@@ -1,0 +1,77 @@
+{
+  "user_id": "AFDZU5HCDZTKTC6LL2KI5DQHQ2IA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, drama",
+      "evidence": [
+        "Just a classic movie that can play in the background without having to worry about what's on.",
+        "I just felt this movie showed its ok to to do this."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I just felt this movie showed its ok to to do this.",
+        "This was fine. . . . . . . . . . . . . . .. . . . . . . . .  ..... . . . . ..."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Just a time capsule that I get lost in every time.",
+        "If you don't turn that unit off you will be a zombie like some of these folks."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Hats off to you all. Thanks to James May for being a Big Kid at Heart!",
+        "I wish that more War movies were made in this fashion."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "James May",
+      "evidence": [
+        "Thanks to James May for being a Big Kid at Heart!",
+        "Hollywood needs more actors like Tom Hanks."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "atmospheric",
+      "evidence": [
+        "Just a classic movie that can play in the background without having to worry about what's on.",
+        "I just felt this movie showed its ok to to do this."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I don't know but what ever the number it is, it's not enough.",
+        "Life was so much simpler without all the confusion the way it is now."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys classic romance and drama films, often appreciating their simplicity and emotional resonance. They show a strong preference for high-quality production and have a notable loyalty to creators like James May, indicating a taste for thoughtful and atmospheric storytelling."
+}

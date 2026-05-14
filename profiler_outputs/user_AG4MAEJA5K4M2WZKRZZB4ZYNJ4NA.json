@@ -1,0 +1,77 @@
+{
+  "user_id": "AG4MAEJA5K4M2WZKRZZB4ZYNJ4NA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "suspense, drama",
+      "evidence": [
+        "\"Suspense and intrigue At every turn.\"",
+        "\"Excellent plot and fine acting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Too many loose ends that must have been overlooked or were left on the cutting room floor.\"",
+        "\"Very easily could have won 'Best Picture' of the year at the Oscars.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Fast paced with funny situations throughout.\"",
+        "\"Suspenseful from beginning to end.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Well written and produced.\"",
+        "\"Few movies are made these days with the depth and care used in this film.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific directors or actors mentioned.",
+        "General praise for performances without specific names."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"One can sense the ebb and flow of emotions that are ever present.\"",
+        "\"Feel the grit and grime of the campaign.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It touched on many of the typical issues that are common in a combat environment.\"",
+        "\"Brought tears, stayed with me.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys suspenseful and dramatic narratives with a preference for fast pacing and high production quality. They appreciate emotional depth in storytelling but show low loyalty to specific creators."
+}

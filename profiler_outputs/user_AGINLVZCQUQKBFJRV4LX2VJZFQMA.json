@@ -1,0 +1,77 @@
+{
+  "user_id": "AGINLVZCQUQKBFJRV4LX2VJZFQMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, drama",
+      "evidence": [
+        "Love silly movies but Chevy just doesn’t do it for me...",
+        "The story is beautiful and Cloris Leachman makes it so funny!"
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good movie about first love, but sad too.",
+        "Didn't like it..."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "We laughed so hard we were crying.",
+        "It's great for teens and adults."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "this is of the highest quality.",
+        "Cloris Leachman makes it so funny!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I love Mireille Enos, she's such a great actress.",
+        "Sam Elliot! Handsome as ever too."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "this show makes me sob, but I love to see the human strength.",
+        "the stories are shocking and sadly they are all true."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "My god I hope I'm half as strong as these courageous survivors.",
+        "It was quite a treat."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented and comedic films, often appreciating emotional depth and high production quality. They prefer fast-paced narratives that evoke strong feelings, though they show some ambivalence towards specific creators."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AHVILU45N4CGN4B5INY54BMXN77A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Okay movie",
+        "Another great planet of the apes 🎥"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good 🎥",
+        "great item"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "stupid",
+        "okay"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "great movie",
+        "excellent"
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Another great planet of the apes 🎥"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "good movie",
+        "awesome movie"
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Okay movie",
+        "stupid"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a generally positive view of movies, often expressing enjoyment but with mixed feelings about specific titles. They seem to prefer straightforward narratives and are less concerned with production quality."
+}

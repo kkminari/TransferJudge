@@ -1,0 +1,74 @@
+{
+  "user_id": "AE63IY2VV2QNP4BLIEEOP7YMQVCQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, thriller, sci-fi",
+      "evidence": [
+        "\"A dark South African urban legend film!\"",
+        "\"Beautiful Vampire movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good story, acting, soundtrack...and subtitles were perfect!\"",
+        "\"Very good story...good acting!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Brilliant film. I can only say it’s a thrill ride!\"",
+        "\"Tense! Very tense! Very good acting! Beautifully filmed!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent soundtrack that pulls you in and out of tension.\"",
+        "\"Beautifully filmed, acted, written.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high energy, atmospheric music",
+      "evidence": [
+        "\"Excellent soundtrack that pulls you in and out of tension.\"",
+        "\"I’d love to know who did the Morphine-ish bass/sax/trumpet driven soundtrack.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A beautiful story. I can't imagine the reality of it, except...for the spirit. Truly inspiring!\"",
+        "\"Hit the right nerve kind of movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror, thriller, and sci-fi genres, enjoying fast-paced narratives with high production quality. They appreciate atmospheric music and emotional depth in films, indicating a taste for engaging and immersive storytelling."
+}

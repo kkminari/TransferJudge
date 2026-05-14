@@ -1,0 +1,77 @@
+{
+  "user_id": "AH2O4SAPCBB6S5X766NWNRNABLMQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama, action, thriller",
+      "evidence": [
+        "\"This show is so high energy and engaging!\"",
+        "\"Castle is one of those shows to which I always look forward. It is a rare combination of mystery, action, humor, and romance.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The story is so compelling and the acting so good that you can't stop watching.\"",
+        "\"There is a big surprise following Season 3, so I expect the stories that follow to be just as unique and interesting as the previous seasons.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Action-packed, suspenseful, clever, witty.\"",
+        "\"The action is ongoing and engaging.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The casting is wonderful and I won't miss a single episode.\"",
+        "\"The film is very creative, and the acting is wonderful.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"I love all of the Jesse Stone movies. Tom Selleck is perfect in the role...\"",
+        "\"I won't miss anything that stars Benedict Cumberbatch.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The stories were varied and you have both the mystery of the crime and the police force politics.\"",
+        "\"This is a show unlike my usual fare, because there is so much unknown.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I have loved this show from the beginning, and I wait with baited breath each season to see whether it will be renewed.\"",
+        "\"The stories have become so suspenseful that I can't wait for the next episode.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for engaging mystery and action dramas with complex narratives and fast pacing. They appreciate high production quality and show loyalty to specific actors and series, often seeking emotional resonance in their viewing experiences."
+}

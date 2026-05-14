@@ -1,0 +1,77 @@
+{
+  "user_id": "AE4O7IS6XFTDMTZFXLJ37KXI5VPA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, superhero",
+      "evidence": [
+        "\"I love the Fast Five series. They are pure action & enjoyment.\"",
+        "\"This movie was not good at all. They took the classic DC character & made him a brooding hero...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The action was great & the ending made me wish it would have continued.\"",
+        "\"I thought the story felt rushed.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I felt this one kept me on the edge of my seat.\"",
+        "\"They are pure action & enjoyment.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I think this was a great purchase. I liked the book better but the movie was still great.\"",
+        "\"This has to be one of the worst movies I've ever seen.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I love the Fast Five series.\"",
+        "\"I think this character should get a 2nd movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The action was great & the ending made me wish it would have continued.\"",
+        "\"The match with CM Punk vs Terry Funk was really good...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"This has to be one of the worst movies I've ever seen.\"",
+        "\"I felt it was good but not great like the 1st 3 movies.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and superhero genres, enjoying fast-paced narratives with visual spectacle. They show some brand loyalty, particularly towards series like Fast Five, but their emotional engagement with the content appears to be low."
+}

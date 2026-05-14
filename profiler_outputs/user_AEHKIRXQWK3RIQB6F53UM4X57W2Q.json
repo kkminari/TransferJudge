@@ -1,0 +1,77 @@
+{
+  "user_id": "AEHKIRXQWK3RIQB6F53UM4X57W2Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama, action",
+      "evidence": [
+        "I love American horror story and I am beyond excited that I can watch this with Amazon.",
+        "I love love love this show!!!! I can not wait till next season!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I was blown away by season 1 and this season did not disappoint!",
+        "This show along w/ breaking bad was just cast perfectly!!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Everything about this show is simply Amazing!",
+        "I am beyond hooked! I'm actually watching it all over again!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The acting is top notch!!!",
+        "the men are so easy on the eyes and the women are just beautiful."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for Breaking Bad and American Horror Story",
+      "evidence": [
+        "I'm a big Breaking Bad fan so naturally I had to watch this!",
+        "I love American horror story and I am beyond excited that I can watch this with Amazon."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I love that there is truth behind this show. that is one of my favorite things about it!",
+        "I was a little worried about how raunchy it would be to be honest but what little there is its done tastefully."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "this made my daughters Valentines day!!",
+        "it really makes you think."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-oriented and action-packed dramas, often praising the quality of acting and production. They exhibit loyalty to specific shows like Breaking Bad and American Horror Story, and they appreciate fast-paced narratives that evoke emotional responses."
+}

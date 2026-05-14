@@ -1,0 +1,77 @@
+{
+  "user_id": "AFNQUAZS5VACMP3C4AQO35TB35TQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama",
+      "evidence": [
+        "I love this show. Jay Hernandez is hot and the cast, stories and action are great.",
+        "This season has had both good episodes and not so good episodes. Pretty much like every tv series. It has humor, action, and drama."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Most of the episodes were good. Some were boring.",
+        "I don't like writing reviews about shows' season before the season is over."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Slow but good",
+        "I honestly thought season 3 was rather boring."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "The star isn't as good looking as Richard Dean Anderson but this show isn't about looks.",
+        "Paul Rudd does a wonderful acting job and the support cast is great."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I was a fan of the old MacGyver.",
+        "I love the Flash! Awesome show! Awesome cast! Awesome episodes!"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "This was an awesome season.",
+        "Awesome premiere & finale! Many good episodes in between."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I love this show! Makes me mad that it's been cancelled!",
+        "I will never forgive them for that."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and drama genres, often expressing emotional engagement with the shows they watch. They appreciate quality performances but have mixed feelings about narrative complexity and pacing, indicating a preference for straightforward storytelling."
+}

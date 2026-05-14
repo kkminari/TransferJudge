@@ -1,0 +1,77 @@
+{
+  "user_id": "AFLAKSK3CPICE6XUJJVPP7TU4SWA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, classic, holiday",
+      "evidence": [
+        "\"Great kids movie, grandkids love it, classic movie!\"",
+        "\"Great Christmas classic, can’t go a holiday season without watching\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great movie for kids and adults\"",
+        "\"Good movie, always liked Brian Keith\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Great classic movie, Edward g Robinson at his best\"",
+        "\"Great Disney movie, classic!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great movie for kids and adults\"",
+        "\"Always like this movie, glad to add this to my movie collection\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Charles Kuralt, Disney",
+      "evidence": [
+        "\"Love Charles kuralt, always watched him on the road and Sunday morning, miss hearing his voice, this is a most have!\"",
+        "\"Great feel good movie, thanks Disney!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Great movie for kids and adults\"",
+        "\"Great Christmas classic, can’t go a holiday season without watching\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Great movie for kids and adults\"",
+        "\"Bought as a present for my father inlaw, he just loved it\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly and classic films, particularly those with holiday themes. They appreciate simple narratives and emotional resonance, often enjoying works by Charles Kuralt and Disney."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AGY7SGYYSQRQBAW4LGLKPIRVN6NA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, documentary, comedy",
+      "evidence": [
+        "\"I like reading mysteries, but I usually can't watch them on TV because it is too easy for me to guess the outcome.\"",
+        "\"This movie provided insight on a part of San Francisco lesbian culture with which I was unfamiliar.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The interweaving of themes, plots and characters comprising nontraditional/nonlinear story arcs is refreshing.\"",
+        "\"Thorough and thought provoking with a clear timeline and the benefit of several perspectives.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The pacing was sometimes awkward and a couple of the plot lines were a little heavy handed.\"",
+        "\"The plots are well timed and don't give everything away too early.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Fabulous casting and absolutely great set dressing pulled me in and got my total suspension of disbelief buy in.\"",
+        "\"Enjoying this quite a bit. The acting is pretty solid and the plots are well timed.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This man is a storyteller of the highest order. His comedy is hilarious without needing the crutch of being cruel or mean spirited.\"",
+        "\"A completely addictive binge watching TV experience with great acting and engaging story lines which really satisfy and stay with you.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It was interesting to hear the women's personal stories in the context of the larger history of our civil rights movement.\"",
+        "\"MUCH funnier than we expected. A highlight of our week and proof this comedian has stayed relevant all these years.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex narratives, particularly in the mystery and documentary genres, and appreciates high production quality. They have a strong emotional engagement with the content they consume, often finding it thought-provoking and entertaining."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AFF6OQC45TOX3WJKQQATLT34PB7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "cartoons, horror",
+      "evidence": [
+        "\"One of the greatest cartoons of all time.\"",
+        "\"Classic horror bad guy. Great movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great story.\"",
+        "\"Great!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The single most excessively gory film ever made. Enjoy!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Not bad.\"",
+        "\"OK\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love these cartoons. Really brings me back.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Classic horror bad guy. Great movie.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Great!\"",
+        "\"Pretty good.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for cartoons and horror genres, enjoying simple narratives with fast pacing. They appreciate visual spectacle but are less concerned with production quality and emotional depth."
+}

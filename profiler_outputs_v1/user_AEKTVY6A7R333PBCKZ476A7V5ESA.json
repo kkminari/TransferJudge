@@ -1,0 +1,77 @@
+{
+  "user_id": "AEKTVY6A7R333PBCKZ476A7V5ESA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, educational",
+      "evidence": [
+        "\"I have watched this excellent documentary multiple times.\"",
+        "\"One of the best documentaries that I have seen about the Biblical scriptures regarding Armageddon.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It is important and based on scripture.\"",
+        "\"Educational, non-biased and I had a hard time taking a break from watching it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I had a hard time taking a break from watching it.\"",
+        "\"I will watch both of them more than once!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"It is presented so well.\"",
+        "\"Accurate and well done film.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Ken Burns",
+      "evidence": [
+        "\"as are all of Ken Burn documentaries.\"",
+        "\"Ken Burns Never Disappoints\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "informative, educational",
+      "evidence": [
+        "\"so much information presented in this documentary that I never knew.\"",
+        "\"The film footage of so much history is a treasure.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"These are scary times and many people are seduced by the new age apostasies.\"",
+        "\"I was thrilled to find a movie about these two short but rich verses!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for documentaries, particularly those that are educational and well-produced, such as those by Ken Burns. They appreciate informative content that resonates emotionally and are sensitive to production quality, indicating a taste for thoughtful and engaging narratives."
+}

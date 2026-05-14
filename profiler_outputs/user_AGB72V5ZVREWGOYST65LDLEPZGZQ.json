@@ -1,0 +1,77 @@
+{
+  "user_id": "AGB72V5ZVREWGOYST65LDLEPZGZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "loved move just wanted the ending to be a little diffrent",
+        "not what I expected"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "this movie was really good but I thought it would be mmore",
+        "good movie a surprise ending"
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "disappointed in this movie",
+        "this movie I have watch a hundred times great for helping young people with not only bulling but one who was raped"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "this was for a friend",
+        "excilent"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "loved move just wanted the ending to be a little diffrent",
+        "was very shocked by this movie burned it"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "this movie I have watch a hundred times great for helping young people with not only bulling but one who was raped",
+        "good movie a surprise ending"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "this movie I have watch a hundred times great for helping young people with not only bulling but one who was raped",
+        "was very shocked by this movie burned it"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for simple narratives with a focus on emotional impact, often enjoying movies that resonate on a personal level. They express mixed feelings about genre preferences and pacing, indicating a varied taste in films."
+}

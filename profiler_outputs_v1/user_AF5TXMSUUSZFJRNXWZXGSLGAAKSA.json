@@ -1,0 +1,89 @@
+{
+  "user_id": "AF5TXMSUUSZFJRNXWZXGSLGAAKSA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "nostalgic entertainment, yoga, comedy",
+      "evidence": [
+        "We have several Peggy Cappy DVDs and use them all.",
+        "It seems that it would have grown and developed if it had more time."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It takes adjusting your expectations to enjoy Lucy's last TV series.",
+        "No, this show wasn't great."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "It is mainly stretches to warm up or relax.",
+        "It may be considered a bonus but the Tai Chi segment is a wonderful extra."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "It was amazing being able to 'be there' and witness something special from such an amazing musical group.",
+        "This bio is well produced and a pleasure to watch."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to Peggy Cappy and Doris Day",
+      "evidence": [
+        "I buy all of Peggy's videos and liked this one a lot.",
+        "Doris Day was such a special person."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory atmosphere",
+      "evidence": [
+        "The setting is spectacular and soothing, featuring views of Glacier National Park.",
+        "Her voice is soothing."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Lucy manages to have you by the throat by the end.",
+        "It makes a boring task easy to do."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "nostalgia_preference",
+      "value": "high",
+      "evidence": [
+        "It holds special sentimental value to be able to watch Lucy in action.",
+        "We grew up watching Doris Day's movies."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user has a strong preference for nostalgic and calming entertainment, particularly enjoying yoga and classic comedy. They value emotional resonance and sensory experiences, often reflecting on the sentimental value of the content they consume."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGGNGZ7GZXHEXDDSPEALWS2XHVMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "nostalgia, documentary, musical",
+      "evidence": [
+        "\"For true boomer nostalgia nuts\"",
+        "\"Great docudrama of the east coast mob...also good to watch in conjunction with AMC's Beginnings of the Mob\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"minimal plot but lots of colorful scenes\"",
+        "\"the villainous banker who coerces the father to give him his daughter to save him from financial ruin...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"the villain gets his..All that was missing was a saw mill or a girl tied to railroad tracks.\"",
+        "\"Well produced but it is the 'same old, same old' story.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the two strip colors, of course are crisp and the film itself is spotlessly cleaned.\"",
+        "\"the print is only fair, but this is film that has been in the 'cheap dvd' library for years.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Busby Berkeley, early Hollywood",
+      "evidence": [
+        "\"One of Busby Berkeley's most controversial films.\"",
+        "\"I am a fan of these old 'revue' movies from the early age of Talkies.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"the brilliance is exhibited by a fashion show (ala The Women).\"",
+        "\"the camera focuses on each of the girl's faces.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Really brings back memories.....\"",
+        "\"If you remember being a kid like me... you'll get a kick out of remembering these old adventures...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for nostalgic content, particularly from early Hollywood and musicals. They appreciate high production quality and emotional resonance, often reflecting on memories associated with the films they watch."
+}

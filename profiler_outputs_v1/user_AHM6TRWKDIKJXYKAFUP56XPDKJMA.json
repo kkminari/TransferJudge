@@ -1,0 +1,77 @@
+{
+  "user_id": "AHM6TRWKDIKJXYKAFUP56XPDKJMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama, comedy",
+      "evidence": [
+        "Very good family movie. True story.",
+        "Loved this movie. I'm a horse show lover."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good family show but very slow to get interested in.",
+        "If you cant follow a movie that flips from past to present at anytime.....do not watch."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Good family show but very slow to get interested in.",
+        "As usual the 2nd of a movie loses the funny stuff."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "She was a bad-a$$ as I figured she would be but it just seemed like a cheaply made movie to me.",
+        "This was the worst movie I believe I have ever seen!"
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Channing Tatum, Keanu Reeves",
+      "evidence": [
+        "Just about anything Channing Tatum is a must watch for me.",
+        "love watching Keanu Reeves!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "emotional engagement",
+      "evidence": [
+        "This is a 'pull at your heart strings' movie.",
+        "Very good but break out the tissues."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Loved this movie. The ending was a shocker for me.",
+        "This was a very good movie. Kept me interested throughout the entire time."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented films with emotional depth and a preference for well-known actors like Channing Tatum and Keanu Reeves. They appreciate engaging narratives but may be sensitive to pacing and production quality."
+}

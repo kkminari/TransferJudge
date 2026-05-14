@@ -1,0 +1,76 @@
+{
+  "user_id": "AHC2OBCLEPUSOFQIZGHOBWSVNGBA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, comedy",
+      "evidence": [
+        "\"Great western with some real history thrown in.\"",
+        "\"Funny old movie. Peters Sellers was great in all the Pink Panther movies.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good story. It could have happened if not for all the brave men and women that fought.\"",
+        "\"Good story,would have been so much better without all the ugly curse words.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Has to get better. Moving too slow.\"",
+        "\"Too long.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Perhaps the quality of the film in those days were not made to last long.\"",
+        "\"Enjoyed the story, but the picture was poor.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Great actors and actresses in England. They seem more real that our American tv 'stars'\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Great actors and great stories. It is nice to watch a program with no foul language.\"",
+        "\"I think that these actors did a great job protraying the men and women who fought and died for the freedom of every American.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"If not for the curse words, I think every high school student should watch this in some type of American history class.\"",
+        "\"I was born in 1945 and as a young boy I had the privledge of hearing some of these men speak of the hell that they experienced in the Pacific and in Europe.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama, historical narratives, and comedies, often favoring stories with strong emotional resonance. They prefer slower pacing and are less concerned with production quality, indicating a focus on storytelling and character development."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFNRGI7ORHPIDYPCNVEYFEKBU3SA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy, family, documentary",
+      "evidence": [
+        "If you are a fan of the Fairly Odd Parents TV Show or if you just want to see something funny, give this DVD a shot.",
+        "This is a great movie... It features Catwoman, Riddler, Joker, and The Penguin on one movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "This DVD was just OK, it wasn't good, and it wasn't bad.",
+        "The plot isn't much, it is to save their parents."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "The only reason why it got 4 stars instead of 5 stars is because it dragged on and on in a couple of places.",
+        "This movie is much better for the younger set of people."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "The DVD however lacks special features that other DVD's have.",
+        "This is a very good DVD."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "If you liked Toy Story or Toy Story 2, you MUST see this movie.",
+        "Goldeneye is a great Bond film and is a must buy just like most other 007 films."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "This movie is very funny.",
+        "It is an amazing movie that everyone should see."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "I was very pleased with what I saw.",
+        "This is a great addition to a DVD collection."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of action and comedy films, often favoring family-friendly content. They have a moderate sensitivity to production quality and prefer straightforward narratives, though they appreciate films that evoke some emotional response."
+}

@@ -1,0 +1,73 @@
+{
+  "user_id": "AFXZ3GV575HZ5B25IYU4W5JBVGXQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, holiday",
+      "evidence": [
+        "\"A safe place for our kids is such a factor anymore.\"",
+        "\"Great for 3 year old.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Just ok\"",
+        "\"It was just ok.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"A Christmas Snow is about family forgiveness and learning to trust again. I really loved hearing the story from the Bible being read.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Sorry, I didn't like this one.\"",
+        "\"It was just ok.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"We like Daniel Tiger!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "atmospheric music",
+      "evidence": [
+        "\"Good sing along songs.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A Christmas Snow is about family forgiveness and learning to trust again.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented and holiday-themed content, often appreciating simple narratives with emotional depth. They show a preference for slower pacing and are less concerned with production quality, focusing instead on the overall experience and emotional resonance of the stories."
+}

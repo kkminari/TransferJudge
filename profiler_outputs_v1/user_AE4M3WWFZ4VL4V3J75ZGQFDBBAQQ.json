@@ -1,0 +1,76 @@
+{
+  "user_id": "AE4M3WWFZ4VL4V3J75ZGQFDBBAQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"great\"",
+        "\"very good show\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"great\"",
+        "\"good show\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"great\"",
+        "\"very good\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"great\"",
+        "\"loved it\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "none",
+      "evidence": [
+        "\"bad show for these 3 shows they are to old to be doing this\""
+      ],
+      "confidence": 0.2,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"great movie!!!\"",
+        "\"very good\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"great\"",
+        "\"good show\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user generally expresses positive sentiments towards the shows and movies they review, often using simple affirmations like 'great' and 'very good'. However, there is little evidence of specific genre preferences or emotional depth in their reviews."
+}

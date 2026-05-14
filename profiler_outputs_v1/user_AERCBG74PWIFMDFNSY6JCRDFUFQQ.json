@@ -1,0 +1,75 @@
+{
+  "user_id": "AERCBG74PWIFMDFNSY6JCRDFUFQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Like watching this",
+        "funny movie"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Like watching this",
+        "thanks"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Like watching this",
+        "thanks"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "the last 2 discs have some spots that are messed up"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "happy to find it to add to our collection"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "Like watching this",
+        "thanks"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "thanks",
+        "great buy"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a generally positive attitude towards movies but provides minimal specific feedback. Their reviews suggest a preference for simple, entertaining content without strong emotional engagement or specific genre loyalty."
+}

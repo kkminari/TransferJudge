@@ -1,0 +1,88 @@
+{
+  "user_id": "AHZAITXFLNSJ3LCX7HRXE62ALJVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "war, drama",
+      "evidence": [
+        "\"Herting Forest hurts the heart. Watch this war movie\"",
+        "\"Heroism comes in strange and unexpected ways. Fury explores ...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The themes of how well this movie is written present themselves as an attractive way of mapping out the progress of the movie as it precedes.\"",
+        "\"The ending was a little sad in that virtue kept wanting to break forth in the lives of these rich folks.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This movie shows this on a personal level.\"",
+        "\"It's a tough movie to get through because of the ennui and sad isolation.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Just watching the images of this movie is worth the time, energy and price if you wish to own it.\"",
+        "\"Tom Sellick's acting in the Jesse Stone series is always thoughtful and well-played.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Tom Sellick",
+      "evidence": [
+        "\"Tom Sellick's acting in the Jesse Stone series is always thoughtful and well-played.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Stunning color and composition\"",
+        "\"Special effects pretty nifty too.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie shows this on a personal level.\"",
+        "\"It is a thoughtful and provoking movie that helps you to understand what troops offered in this operation.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "educational_value",
+      "value": "high",
+      "evidence": [
+        "\"Good for use to train in drone trauma assessment.\"",
+        "\"This movie is worth the watch if only to see some of the forces at work to diminish the United States.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user has a strong preference for war and drama genres, appreciating complex narratives and high production quality. They value emotional resonance and educational content in films, while showing some loyalty to Tom Sellick's performances."
+}

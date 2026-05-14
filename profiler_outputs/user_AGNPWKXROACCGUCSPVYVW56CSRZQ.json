@@ -1,0 +1,77 @@
+{
+  "user_id": "AGNPWKXROACCGUCSPVYVW56CSRZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "classic, comedy, drama",
+      "evidence": [
+        "\"I love 1950's Tony Curtis movies.......This one is terrific.\"",
+        "\"This is one of my all time favorite movies....I saw this movie when I was a kid and fell in love with it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Just an all out fun movie....Did I mention that I have strange taste in movies.......\"",
+        "\"It's got Tony Curtis and Piper Laurie.....that's all I need.......but it might not be enough for everyone else.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I remember all of them from my childhood. They're my 'feel good' movies.\"",
+        "\"I will admit this film is a lot campier than I remembered. What I thought was a very romantic and visually beautiful movie ......is really just plain funny.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The cast, the production, the stories and the music are the very best.\"",
+        "\"great underwater scenes....\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to classic actors",
+      "evidence": [
+        "\"Rita Hayworth is my all time favorite actress....she can do no wrong as far as I'm concerned.....If she's in it ....I love it !!!!!!!!\"",
+        "\"any movie with Romola Garai is worth seeing......fantastic actress !!!!!!!!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific sensory",
+      "evidence": [
+        "\"great underwater scenes....\"",
+        "\"great color, great actors and good stories.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I have been waiting for decades for this movie to be released on any type of home video...Just an all out fun movie....\"",
+        "\"Can't get enough of it. Highly recommended.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic films and comedies, particularly those featuring beloved actors from the 1950s. They appreciate high production quality and enjoy simple, fast-paced narratives that evoke strong emotional responses."
+}

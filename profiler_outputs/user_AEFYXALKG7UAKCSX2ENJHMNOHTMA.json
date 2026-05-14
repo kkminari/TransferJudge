@@ -1,0 +1,77 @@
+{
+  "user_id": "AEFYXALKG7UAKCSX2ENJHMNOHTMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, sci-fi, family, comedy",
+      "evidence": [
+        "\"I LOVED THE WHOLE TRILOGY. GREAT ENTERTAINMENT.\"",
+        "\"This was a very good story telling and wholesome entertainment for the whole family.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The premise of this story is simple enough and perhaps even predictable, yet it has the elements of a great fable that can be retold over and over.\"",
+        "\"If you want reality perhaps one of the many so called reality shows so popular today is your forte.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"A LITTLE SLOW IN THE START but by and by it draws you in and entertains as it assembles a team of fighters for a cause.\"",
+        "\"I was mase to think of the Frost Giants fron nordic mythology as I watched this video and wonder if the tale could have been based on that.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I think it was cast well and the setting of New Zealand was once again perfect carrying on the continuity of the former Tolkein movies.\"",
+        "\"The anniversary edition is excellent, the images are sharp and the spooky black and white contrasts are presented crisp and clear.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love ERBdom and this was a great movie.\"",
+        "\"I was not disappointed by what I saw. Its a great SciFi thriller even though a little vague in theory.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Good performances and believable settings and costumes. AAA rating on this gem.\"",
+        "\"The great group of actors are into their characters completely.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I was delighted with a colorful and historic tale.\"",
+        "\"This has to be my favorite sci fi movie. I have watched it again and again. I never get bored with it.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy and sci-fi genres, enjoying family-friendly and comedic films. They appreciate high production quality and emotional resonance, often favoring simple narratives that are entertaining and engaging."
+}

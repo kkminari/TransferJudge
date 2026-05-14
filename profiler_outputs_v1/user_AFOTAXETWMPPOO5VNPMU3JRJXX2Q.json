@@ -1,0 +1,77 @@
+{
+  "user_id": "AFOTAXETWMPPOO5VNPMU3JRJXX2Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, drama, comedy, action, thriller",
+      "evidence": [
+        "\"This is my favorite Bergman film. It's got horror, humor, drama and strangeness.\"",
+        "\"I thought the whole point of this was that the situation was the breeding ground for the nazi mentality, which made the long goodbye at the end so poignant.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Sometimes it becomes totally nonsensical, like they're fighting inside, then suddenly they're outside.\"",
+        "\"These movies are high fairy tales, horror, love and mythology all in one.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"There isn't tons of action (definitely not 'non-stop' like the cover says...) but what there is, is great.\"",
+        "\"I only wish there were a bit more a-battlin', but I can always watch it again.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"I thought the lighting was dogma '95, too...\"",
+        "\"I only wish there were a bit more a-battlin', but I can always watch it again.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I bought all of Mr. Kurosawa's available films.\"",
+        "\"I pretty much saw that this was the director of Godzilla vs Gigan and Godzilla vs Megalon and took the plunge.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"I'm a huge fan of model-effects, and this has loads of them. And first-rate explosions.\"",
+        "\"Oh so slowly did this film coax a tear from each my eyes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Oh so slowly did this film coax a tear from each my eyes.\"",
+        "\"I enjoyed it utterly, remain rather haunted, and would recommend its study...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a diverse range of genres, particularly horror, drama, and comedy, often appreciating films with emotional depth and sensory experiences. They show a moderate level of brand loyalty to specific directors and a mixed preference for narrative complexity and pacing, indicating a nuanced taste in storytelling."
+}

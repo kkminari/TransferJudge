@@ -1,0 +1,72 @@
+{
+  "user_id": "AEV7DL4ZPEG6UBE6FOWII254H7WA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "unknown",
+      "evidence": [
+        "No specific genres mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "narrative_complexity": {
+      "value": "unknown",
+      "evidence": [
+        "No specific narrative complexity mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "unknown",
+      "evidence": [
+        "No specific pacing mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "'They arrived in excellent condition.'",
+        "'Was in perfect condition. Ty'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "unknown",
+      "evidence": [
+        "No specific creators mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "unknown",
+      "evidence": [
+        "No specific sensory preferences mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'Love this movie'",
+        "'Love love this movie'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user expresses a strong emotional connection to the movies they review, frequently stating their love for them. However, there is a lack of specific genre, narrative complexity, pacing, or brand preferences evident in the reviews."
+}

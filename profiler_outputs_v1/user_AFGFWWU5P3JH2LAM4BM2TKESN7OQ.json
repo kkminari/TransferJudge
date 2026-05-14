@@ -1,0 +1,76 @@
+{
+  "user_id": "AFGFWWU5P3JH2LAM4BM2TKESN7OQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama",
+      "evidence": [
+        "\"Fairly decent sci-fi show. a few twists in the story line have made this program interesting.\"",
+        "\"Passable sci-fi scenario. A little on the weird side, but entertaining.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Mildly entertaining. Somewhat over-acted.. Stereotype characters.\"",
+        "\"Very good show. Well written, good character development. Twisty plots.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"plot moves very slowly, and characters are not introduced well.\"",
+        "\"Found it boring\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Very well done production. Beautifully photographed. Great story lines. Quality all around.\"",
+        "\"Great production, scenery is outstanding, as is the acting.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Always have been a fan of Titus Welliver since his appearances on NYPD Blue and Deadwood.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"photography is good, but the night exterior and interior scenes are very dark and hard to see on a small tablet screen\"",
+        "\"Great production, scenery is outstanding, as is the acting.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Waste of an hour of my time.\"",
+        "\"OK for mild entertainment. Fair to middling.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for sci-fi and drama genres, with a notable sensitivity to production quality. They tend to favor slower-paced narratives but express mixed feelings about narrative complexity and emotional engagement."
+}

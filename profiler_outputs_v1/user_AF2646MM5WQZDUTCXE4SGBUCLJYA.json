@@ -1,0 +1,77 @@
+{
+  "user_id": "AF2646MM5WQZDUTCXE4SGBUCLJYA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance",
+      "evidence": [
+        "\"I would highly recommend this touching movie.\"",
+        "\"I truly enjoyed this slow moving and gentle film, with it's melodic music adding to the mood throughout.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It was a nicely paced nostalgic view of warm and slow-living summer days.\"",
+        "\"I found it a bit too predictable, but I still enjoyed it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I truly enjoyed this slow moving and gentle film, with it's melodic music adding to the mood throughout.\"",
+        "\"This is a well portrayed story of a loving and kind woman who was totally used and abused...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I chose it merely because I have always liked Clarian Hinds and selected the movie because of him.\"",
+        "\"The actors were well cast, with Kate Capshaw giving a wonderful and touching performance...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I have always loved all the Star Trek series, even the somewhat corny early ones!\"",
+        "\"I chose it merely because I have always liked Clarian Hinds...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"...the music's undertones which matched in it's subtleness.\"",
+        "\"...the nostalgic feel and mood it brought to the screen.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I was pleasantly surprised with this movie's ability to touch me as it did.\"",
+        "\"I truly enjoyed this slow moving and gentle film...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and romance genres, particularly enjoying slow-paced films with high emotional resonance. They value quality performances and have a nostalgic appreciation for storytelling that evokes deep feelings."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHQ52ANSOZV6IA3NPO25WHUFCO5A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, biopic, thriller",
+      "evidence": [
+        "\"A thinly veiled 'biography' of David Bowie...\"",
+        "\"Worth watching even if you are not a fan of Reagan and Thatcher.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"...a sturdy framework on which is woven a fascinating web of intertwined plots, twists, turns, and unexpected discoveries.\"",
+        "\"...the emphasis is the result of focus groups or surveys or some other heavy-handed mechanism that determines the themes.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"...some of the characters are becoming a bit too idiosyncratic for my taste, but still not cardboard.\"",
+        "\"...I'm getting tired of explosions somehow dominating the science.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Well written, acted, and produced.\"",
+        "\"...the cultural and artistic significance of this discovery is astounding, and the visuals are great.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Executive producer is Ridley Scott; that says a lot.\"",
+        "\"...the unmistakable, ungraspable style of Wes Anderson...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Great for pretty images and arresting time-lapse sequences...\"",
+        "\"...the fog of war.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A totally absorbing and disorienting tale about the bravery of some, the cowardice of others...\"",
+        "\"...added a dimension of understanding and appreciation that made it even better.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex dramas and biopics with high production quality and emotional depth. They appreciate intricate narratives and are sensitive to the quality of storytelling and visuals, often highlighting the work of notable directors. While they have mixed feelings about pacing, they generally favor engaging and thought-provoking content."
+}

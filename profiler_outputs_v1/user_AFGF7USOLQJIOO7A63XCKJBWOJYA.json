@@ -1,0 +1,74 @@
+{
+  "user_id": "AFGF7USOLQJIOO7A63XCKJBWOJYA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, fantasy",
+      "evidence": [
+        "\"I loved this movie, a real family movie\"",
+        "\"It was a great fantasy movie. I enjoyed the graphics very much.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I liked it well enough, nice movie\"",
+        "\"I was an ok movie. It wasn't one of my favorites\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I found it repeating the same stuff over and over in different places. I turned it off before it was done.\"",
+        "\"I couldn't even get past 20 minutes of this movie. I turned it off.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"acting by Matthew McConaughey was great\"",
+        "\"I enjoyed this movie very much, I highly recommend it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"I enjoyed the graphics very much.\"",
+        "\"Action packed and an overall entertains film.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I enjoyed this movie very much.\"",
+        "\"I liked this movie very much, recommend it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family and fantasy movies, often appreciating visual elements and simple narratives. They show a mixed response to pacing and narrative complexity, indicating a preference for straightforward storytelling without heavy emotional engagement."
+}

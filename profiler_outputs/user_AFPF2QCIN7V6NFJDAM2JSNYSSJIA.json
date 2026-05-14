@@ -1,0 +1,76 @@
+{
+  "user_id": "AFPF2QCIN7V6NFJDAM2JSNYSSJIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, classic, drama",
+      "evidence": [
+        "\"If you are looking to purchase a good set of old mysteries made in a time when mystery movies were at their peak; then this is a very good set.\"",
+        "\"This is a classic film with a great cast, the likes of which we will never see again.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plots are easy to follow...IF you pay attention;\"",
+        "\"The writing is barely above amateurish.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This is not a movie for action buffs, or for those with short attention spans. This is a movie for people who enjoy classic movies with great actors, and who do not mind a slower paced film.\"",
+        "\"It moves with all of the excitement of dripping sap.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I could not find one redeeming aspect of this film. Maybe the cinematography is okay, but not worth rating more than half a star.\"",
+        "\"The quality of writing in Stone Cold; Night Passage; and Death in Paradise is exceptional.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Universal deserves no one's loyalty. Universal is home of vast numbers of greed merchants.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This movie is excellent, has great atmosphere, and solid performances.\"",
+        "\"Each one has its own luster and shine.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I wish I could give this film zero stars. I would.\"",
+        "\"The writing is barely above amateurish.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic and mystery genres, appreciating high-quality storytelling but often finds narratives to be simple and pacing slow. They express significant dissatisfaction with production quality when it falls short, indicating a discerning taste in media."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHLRLWT4WQ7UGQDAB3PV26ZQSU6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, musical",
+      "evidence": [
+        "great movie stories that will make you want to believe in romance again.",
+        "I love all Elvis Movies ❤"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I just love it.",
+        "This movie is a treasure!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I was disappointed when season 5 finished and no more seasons after it.",
+        "I just can't get enough of it, best Actors, best series ever!!!!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "needed to collect Elvis Presley Movies on DVDs too... love all his productions!!!",
+        "I love it love it!"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Elvis Presley, Barbara Streisand",
+      "evidence": [
+        "Barbara Streisand is a phenomenal Actress I love her movies.",
+        "Love all Elvis Movies ❤"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "I love everything about this show, The Clothings, The Funitures, The way it shows life in the 50s 60s, I just love it.",
+        "Beautiful Concert!!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Sad movies but I love them both!!",
+        "It is incredible how Elvis life was, he was an amaizing Son,Cousin,Friend,Husband and Dad :("
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for romance and musical genres, particularly enjoying the works of Elvis Presley and Barbara Streisand. They appreciate simple narratives and emotional resonance, often reflecting on the sentimental value of the content they consume."
+}

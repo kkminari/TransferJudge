@@ -1,0 +1,77 @@
+{
+  "user_id": "AHGIGLKEPSFH7ARNMWPG47BEA64Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "western, thriller, horror",
+      "evidence": [
+        "One of the great westerns",
+        "Solid EOTWAWKI horror movie."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Weak story and poor character development.",
+        "Not bad, a little long"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Long winded and boring",
+        "Snooze fest"
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Low budget, worth a watch",
+        "bad acting, bad graphics, bad story."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Gillian Anderson could rad the phonebook for two hours and I'd watch.",
+        "Scott does his normal job of great acting"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "Hyper stylized slow-motion violence.",
+        "A great cast makes this messy movie well worth a watch."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Deeply depressing movie, could not finish it.",
+        "terrible show"
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for westerns and thrillers, but has a low tolerance for slow pacing and weak narratives. They seem to prioritize entertainment over high production quality, with a tendency to enjoy visual spectacle but not necessarily emotional depth."
+}

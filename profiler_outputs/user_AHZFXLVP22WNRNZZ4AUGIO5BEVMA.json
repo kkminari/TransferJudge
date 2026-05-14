@@ -1,0 +1,74 @@
+{
+  "user_id": "AHZFXLVP22WNRNZZ4AUGIO5BEVMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama",
+      "evidence": [
+        "\"Great story, in fact all three I great to watch. Family movie\"",
+        "\"Very cute movie, family friendly\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Different pace, enjoyed the story very much\"",
+        "\"Found this to be a interesting tale, rather slow with the need to reveal the complex characters in this plot, kept me guessing.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Found this to be a interesting tale, rather slow with the need to reveal the complex characters in this plot, kept me guessing.\"",
+        "\"Different pace, enjoyed the story very much,\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Nice story good acting\"",
+        "\"Loved this movie, subject matter is very moving and some great actors.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Learning to cope and forgive. Well done\"",
+        "\"Duty, honor and respect are found in this movie. I loved it, bought it and watch when I need to revisit the heart of America.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This was and is a great movie, I was raised during this period when polio was of great concern.\"",
+        "\"Loved this movie, subject matter is very moving and some great actors.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for family-oriented and dramatic films, often appreciating emotional depth and character-driven narratives. They tend to enjoy slower-paced stories that evoke strong feelings, although they are less focused on specific creators or high production quality."
+}

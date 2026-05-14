@@ -1,0 +1,77 @@
+{
+  "user_id": "AEU7CZU6RJXVUPP7HWFWISVOPR6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, period drama",
+      "evidence": [
+        "\"Great period drama.\"",
+        "\"Great show. Having been brought up on the wrong side of the Iron Curtain...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Dull, wooden script and one-dimensional, caricatural characters.\"",
+        "\"Subtlety and understatement were replaced by heavy-handedness, obviousness and downright bad narrative lines and dialogue.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This is a slow and pretentious wanna be art-film...\"",
+        "\"Predictably pretentious. Interesting first 20 minutes, then it goes haughty and self-righteous.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great series, solid storyline, well-written dialogue and beautifully filmed.\"",
+        "\"If bad acting is not a deterrent for you...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I used to love Almodovar. This film's premise is utterly preposterous though...\"",
+        "\"...not exactly at the level of _The Sopranos_, but very good nonetheless.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"There is a great deal of attention paid to period detail, behavior, etc.\"",
+        "\"The music is spot on.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "mixed",
+      "evidence": [
+        "\"I so wanted to like this film. However, it was unwatchable.\"",
+        "\"A film about 'the great 1970s' where women were treated horribly...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for drama and period pieces, valuing high production quality and sensory experiences. However, they express disappointment with narrative complexity and pacing in several reviews, indicating a mixed emotional engagement with the content."
+}

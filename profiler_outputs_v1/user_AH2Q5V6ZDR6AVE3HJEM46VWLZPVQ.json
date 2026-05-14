@@ -1,0 +1,77 @@
+{
+  "user_id": "AH2Q5V6ZDR6AVE3HJEM46VWLZPVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, action, comedy",
+      "evidence": [
+        "\"This is the best of the Star Trek from an arc and storytelling perspective.\"",
+        "\"I really enjoy Peter Capaldi as the doctor.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"It feels very plot driven.\"",
+        "\"This episode did have a few well done 'quiet moments' that helped offset the frantic ticking of plot resolution boxes that filled the rest of the show.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"This is not at all what it is. It has humor, but it's an emotionally wrenching and very beautiful story...\"",
+        "\"I also thought the regeneration ending was dragged out a little too long...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Superb writing with a few clunkers here and there.\"",
+        "\"Great acting. Both lead characters are flawed.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Star Trek, Doctor Who, Marvel",
+      "evidence": [
+        "\"This is the best of the Star Trek from an arc and storytelling perspective.\"",
+        "\"I really enjoy Peter Capaldi as the doctor.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Pixar is almost always exceptional, and this is one of those times.\"",
+        "\"The whole course focuses on the Gothic Cathedral more than others...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It has humor, but it's an emotionally wrenching and very beautiful story...\"",
+        "\"This is a classic. I just love it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and drama genres, particularly enjoying series like Star Trek and Doctor Who. They appreciate high production quality and emotional depth in storytelling, often favoring character-driven narratives over purely plot-driven ones."
+}

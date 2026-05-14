@@ -1,0 +1,77 @@
+{
+  "user_id": "AF5CYY6ZTSJ4L5IZRAESGBB6VNHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary, film noir, musical",
+      "evidence": [
+        "\"Absolutely skillful and artful 'erotic film noir'...\"",
+        "\"This is a great musical, comedy, and murder movie all in one.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"...discover different story angles each time I see it.\"",
+        "\"...the screenplay itself seems a little contrived.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"...character development and screenplay. No need for special effects...\"",
+        "\"...the screenplay seems to portray the central character... in an almost one dimensional manner.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting by Michael Caine and the rest of the crew is flawless...\"",
+        "\"Fine performances by Robert DeNiro, Jeremy Irons, and Liam Neeson give this excellent screenplay the acting it truly deserves.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for specific actors and directors",
+      "evidence": [
+        "\"...the final collaboration between Frances Coppola and Mario Puzo.\"",
+        "\"...DeNiro's conversion from an outright killer and slaver...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"...the film draws you into the war effort...\"",
+        "\"...the jungle and waterfall scenes are spectacular.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...this is one of these films that will be valuable over time...\"",
+        "\"...the movie takes you back to 1961, and makes you feel like you are witnessing actual historical events.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex dramas and documentaries, often valuing high production quality and strong performances from actors. They appreciate films that evoke deep emotional responses and are thought-provoking, while showing a tendency towards slower pacing and character development."
+}

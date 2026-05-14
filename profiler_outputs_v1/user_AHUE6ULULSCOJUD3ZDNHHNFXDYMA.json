@@ -1,0 +1,70 @@
+{
+  "user_id": "AHUE6ULULSCOJUD3ZDNHHNFXDYMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"American movies have become so dull and boring because they all seem to follow the same old 'recipe' except for artists like Quentin Tarrantino and Oliver Stone. Foreign movies have become much more entertaining for our family.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Intrigue and stories within stories. It kept all the adults in the family on the edge of their seat the entire time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It is the best show we've seen in years!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Truly an awesome performance! Much better than the movie!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "mixed",
+      "evidence": [
+        "\"except for artists like Quentin Tarrantino and Oliver Stone.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The way Griffth weaved the four stories together was fantastical and a great leap and risk then and even still today.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"We put 'Intolerance' on late in the evening not realizing what we getting into. From the start we were captured and enthralled by the message and the medium.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for complex narratives and high-quality productions, often appreciating intricate storytelling that keeps them engaged. They express a mixed sentiment towards specific genres, indicating a preference for unique and entertaining content, particularly from notable directors."
+}

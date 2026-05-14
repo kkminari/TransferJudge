@@ -1,0 +1,77 @@
+{
+  "user_id": "AE4XIU2Z22PEXCEKXAHZ6T4VI6RQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical drama, family drama",
+      "evidence": [
+        "\"If you enjoy historical drama this is a good one.\"",
+        "\"A rich telling of this dramatic tale of family, history and complicated relationships.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The story is embellished some for dramatic purposes but it brings the point across very well.\"",
+        "\"It tackles some very serious issues without sugarcoating.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I wanted to be drawn in more to the plot however it played into the stereotypical unhappy wife...\"",
+        "\"If you are patient and watch in its entirety it conveys a very interesting discussion.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The characters were well developed and evoked passion for them.\"",
+        "\"Strong performances and a compelling story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I loved every single minute and couldn't stop watching.\"",
+        "\"I was instantly drawn into the sweeping beauty of this movie.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"I was instantly drawn into the sweeping beauty of this movie.\"",
+        "\"Beautifully filmed and fascinating story.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Touching and compelling as you root for Poldark and his wife...\"",
+        "\"It can be very blunt and vulgar at times which may not be appealing to some.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for historical and family dramas, appreciating complex narratives and high production quality. They enjoy slow-paced storytelling that evokes deep emotional responses, often drawn in by rich character development and sensory experiences."
+}

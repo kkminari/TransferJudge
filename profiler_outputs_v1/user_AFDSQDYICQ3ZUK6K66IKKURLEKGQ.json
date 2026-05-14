@@ -1,0 +1,77 @@
+{
+  "user_id": "AFDSQDYICQ3ZUK6K66IKKURLEKGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "My favorite John Wayne movie - funny, heartfelt, and all in all just a good movie to lift one's spirits.",
+        "Love the movie, except the Danny DeVito part."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "This movie was in the same vein as Grand Torino, easy to watch and it makes one fuzzy inside.",
+        "Movie was good, simply because Steve Martin and John Candy made it so."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Would love to see something with more interest, but I also realize that not every compilation can be perfect.",
+        "Hated for it to end."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the writing superb, the acting worthy of nominations, and directing off the charts!",
+        "Good acting and scriptwork is excellent."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Clint Eastwood, Steve Martin, John Candy",
+      "evidence": [
+        "Clint Eastwood. What more do I need to say?",
+        "Both are so very unique in their skills and match up perfectly together."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and emotional engagement",
+      "evidence": [
+        "Color and filming nice, and all actors did their job.",
+        "Still is sharp and crisp today, with good acting, dialogue, and action."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Hated for it to end.",
+        "My favorite John Wayne movie - funny, heartfelt, and all in all just a good movie to lift one's spirits."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted comedies and dramas, often appreciating the performances of well-known actors like Clint Eastwood and Steve Martin. They value high production quality and emotional engagement, indicating a preference for films that evoke strong feelings while being easy to watch."
+}

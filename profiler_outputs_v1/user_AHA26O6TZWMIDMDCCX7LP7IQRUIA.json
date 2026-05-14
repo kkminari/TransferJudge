@@ -1,0 +1,77 @@
+{
+  "user_id": "AHA26O6TZWMIDMDCCX7LP7IQRUIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"the last scene of the last episode is that of a 22 year female singing to her 17 year old husband about how happy she will be to 'serving him as her king'\"",
+        "\"I like a good mystery but not at the expense of my intelligence.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Too much use of the 'the blood is on my clothes because I stumbled upon the victim when they were already dead'!\"",
+        "\"the townspeople behave reasonably given the circumstances.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Boring\"",
+        "\"Not bad. Pretty good illustration of how people live together in one room for a year.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"well made.\"",
+        "\"Most realistic earthquake movie I have ever seen.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Best reality show on tv\"",
+        "\"Interesting show. Real reality rather than manufactured drama.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"beautiful dancing\"",
+        "\"Excellent documentary. Watched this documentary at a documentary festival and rushed to buy it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Clearly lays out the different devastating experiences of African Americans and Africans.\"",
+        "\"Not a downer because it ends with nuggets of hope.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for high-quality productions and emotionally resonant content, often appreciating realistic portrayals. They express mixed feelings towards genre and narrative complexity, indicating a desire for engaging stories without overly complicated plots."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEJS5UNAX5R5KAHBO7QVSYJXJ3RQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, romance, comedy",
+      "evidence": [
+        "Family friendly movie. Deals w/ loss, follow your dreams, and of course, the animals are so cool.",
+        "A great story w/ romance, family dynamics, greed, and much more."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "A great story that has humor, adventure, and a 'must see' for the family.",
+        "Good storyline, keeps you interested as well as laughing."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "A 'must see'. John Candy as well as the cast of characters will delight you w/ many laughs and keep you entertained.",
+        "A great story of love, patience, ..told w/ humor and heartfelt storyline."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "A great portrayal of what to be thankful for in your life and not always looking and/or comparing yourself w/ 'what others have'.",
+        "Filled w/ inspiration, exercise your faith as well as a fantastic story."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "John Wayne, John Candy, Audrey Hepburn",
+      "evidence": [
+        "A 'must see' for John Wayne fans. Mr. Wayne's 'cowboy' portrayals are 'timeless'.",
+        "A movie filled w/ laughs, great cast of characters, a family depicted w/ your 'different' relatives."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "definitely 'tugs @ your heart strings'..",
+        "A great story that has humor, adventure, and a 'must see' for the family."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "A heartwarming story of a young girl during WW II...definitely 'tugs @ your heart strings'..",
+        "A great story of love, patience, ..told w/ humor and heartfelt storyline."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly movies with strong themes of love, friendship, and humor. They prefer simple narratives with fast pacing and high emotional resonance, often appreciating classic actors and their performances."
+}

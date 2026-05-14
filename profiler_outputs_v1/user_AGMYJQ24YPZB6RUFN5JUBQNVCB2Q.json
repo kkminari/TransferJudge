@@ -1,0 +1,69 @@
+{
+  "user_id": "AGMYJQ24YPZB6RUFN5JUBQNVCB2Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "Love this set of Mama's Family.",
+        "Great movie. Sad but true how the Catholic priests were protected while innocent children suffered."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Very entertaining.",
+        "Great movie."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Slow moving; disappointed with ending."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great movie and great price",
+        "Very insightful story."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "Sad but true how the Catholic priests were protected while innocent children suffered."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and dramas, often appreciating straightforward storytelling. They have a mixed response to pacing, with some reviews indicating disappointment with slower narratives, but overall, they find entertainment value in the movies they watch."
+}

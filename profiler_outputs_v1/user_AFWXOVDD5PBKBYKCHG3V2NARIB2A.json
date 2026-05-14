@@ -1,0 +1,77 @@
+{
+  "user_id": "AFWXOVDD5PBKBYKCHG3V2NARIB2A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama, romance",
+      "evidence": [
+        "\"Obviously the writer/ director, Rian Johnson, is an Agatha Christi fan.\"",
+        "\"Yet another 'the homo has to die' movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A predictable story with wooden actors.\"",
+        "\"The story line is rather old hat but set in a very rugged area of northern England.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The pace is slow and the camera work good if not exceptional.\"",
+        "\"I thought we were past all that.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I wasn't thrilled for the first few episodes... but Billy BobThornton and Willian Hurt and a very good cast make it worth it...\"",
+        "\"Good scripts; good performances.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Hugh Laurie is an excellent villain. Olivia Coleman is excellent.\"",
+        "\"I already have an opinion White the episodes are good and well written and acted.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual atmosphere",
+      "evidence": [
+        "\"Beautiful sets.\"",
+        "\"The beautiful locale is never really identified - where is it?\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"This is a really stupid movie.\"",
+        "\"I expected Fleabag to be witty and satirical. Instead I found it to be vulgar and irritating.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a mixed preference for mystery and drama genres, often leaning towards simple narratives with slow pacing. They express low sensitivity to production quality and emotional engagement, indicating a focus on entertainment rather than depth."
+}

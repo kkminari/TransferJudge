@@ -1,0 +1,77 @@
+{
+  "user_id": "AE3W4YD6AZ5B2ZO3K5XUOVKUZCFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fitness, drama",
+      "evidence": [
+        "\"I like Tony Hortons Power Half Hour Series best\"",
+        "\"Interesting film, but I liked Hotel Rwanda better.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good film. Very emotional. Action moving, from almost the beginning.\"",
+        "\"A very good film. I always like it when the bad guys get caught.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Good film. Very emotional. Action moving, from almost the beginning.\"",
+        "\"A funny movie, but serious at the same time. I liked it. It does keep you on the edge of your seat.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"The film is quite an old production, which caused me to change my mind in watching it.\"",
+        "\"This dvd & some of her others are really old, and not much to them.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Tony Horton",
+      "evidence": [
+        "\"I like all of Tony Hortons Power Half Hour Workouts.\"",
+        "\"I have several 10 Minute Solution Dvd's, & I've been very pleased with most of them.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and emotional engagement",
+      "evidence": [
+        "\"Good film. Very emotional. Action moving, from almost the beginning.\"",
+        "\"I wish all racists would go away. In Gods eyes, we are all equal.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Good film. Very emotional. Action moving, from almost the beginning.\"",
+        "\"It's hard to believe this stuff happens, but it does, unfortunately:(\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for fitness-related content, particularly workouts by Tony Horton, while also enjoying emotionally engaging films with straightforward narratives. They tend to prioritize emotional impact over production quality, indicating a strong connection to the themes of equality and personal growth in the films they appreciate."
+}

@@ -1,0 +1,75 @@
+{
+  "user_id": "AHV5GPRYHXEKNIBXQ2M4AV7XYAGA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical fiction",
+      "evidence": [
+        "\"Was a great historical fiction to watch!!!\"",
+        "\"This is a great show for people who love period pieces and for all others who just like drama.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"I felt like it had lots of layers and viewpoints... Family politics added to the complexity of show as well....\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I liked it, but it seemed clear that they were ready for the series to be over.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great acting!!!!\"",
+        "\"For anyone who has liked previous series by Sorkin, this is very good....\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Aaron Sorkin, HBO",
+      "evidence": [
+        "\"For anyone who has liked previous series by Sorkin, this is very good....\"",
+        "\"Another great show by HBO.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I felt like it had lots of layers and viewpoints...\"",
+        "\"Very nice story.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I am still hooked even after they killed off... Oops, don't want to give away too much....\"",
+        "\"This is one of the best of the masterpiece series-- it is completely addictive and I hope it continues for several more seasons.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and historical fiction, particularly those with complex narratives and high production quality. They show a preference for works by Aaron Sorkin and HBO, and their reviews indicate a strong emotional engagement with the content."
+}

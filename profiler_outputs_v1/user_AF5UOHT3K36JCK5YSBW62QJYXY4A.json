@@ -1,0 +1,89 @@
+{
+  "user_id": "AF5UOHT3K36JCK5YSBW62QJYXY4A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, thriller, noir, war, family",
+      "evidence": [
+        "\"I really liked this movie! Just a great story--a noir without all the sexiness and femme fatale silliness.\"",
+        "\"I love movies about commando raids and this one about the forerunners to the Navy Seals is a keeper!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I thought it was just ok. I was pleasantly surprised by the special effects in the ocean! That looked very good and real. Unfortunately, I found the story kind of boring though.\"",
+        "\"I think it could have been improved by adding a little more conflict and suspense.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I found the story and pacing just average.\"",
+        "\"I prefer it when scenes are allowed to linger and develop and reveal more about the people involved.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I was surprised at how good the production and direction was and how realistic everything looked for a film made in 1943.\"",
+        "\"The print of this release is very clear for a film from 1936. (Better than some films from the 50's.)\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have seen many John Wayne films over the last few years and I have to say I'm not really a fan of his in general.\"",
+        "\"I liked that it showed me something I've never thought much about before—that is, the plight of those who lived in the border states during the Civil War.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmosphere",
+      "evidence": [
+        "\"The special effects of the bombing scene are fantastic and are better than the pathetic CGI nonsense of today.\"",
+        "\"This film has plenty of atmosphere, from the beautiful CA coastline, to the city scenes in San Francisco.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The juxtaposition of these two things is emotionally powerful.\"",
+        "\"It shows how the power of suffering can lead us into deeper union with God.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "subtitles_preference",
+      "value": "high",
+      "evidence": [
+        "\"I loved the Fugitive Complete Series DVDs because they all had subtitles!\"",
+        "\"I think we need Paul Drake to put a few of his men on the case!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys films with strong narratives, particularly in the drama and thriller genres, and appreciates high production quality. They prefer slower pacing that allows for character development and emotional depth, often valuing visual atmosphere and the use of subtitles in their viewing experience."
+}

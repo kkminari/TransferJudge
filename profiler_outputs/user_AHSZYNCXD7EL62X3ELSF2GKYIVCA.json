@@ -1,0 +1,74 @@
+{
+  "user_id": "AHSZYNCXD7EL62X3ELSF2GKYIVCA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action/adventure, historical, thriller",
+      "evidence": [
+        "\"Very good action/adventure series.\"",
+        "\"The concept that Japan and Germany won WWII and now rule the United States is interesting albeit far fetched.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The flipping back and forth between the periods was somewhat confusing at times.\"",
+        "\"I had a hard time coming to grips with the episode timeline that it took to travel from Canon City, in the 'Neutral Zone', back to San Francisco.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The ending was really anti-climatic to me.\"",
+        "\"I can do without the love making scenes.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Powerful, real, and gritty.\"",
+        "\"Placement of insignias on both Marines' and sailors' uniforms were not accurate.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Much of the film used in this series is footage from Nazi and allied archives the intertwining of the stock propaganda film and the historic re-enactment was excellent.\"",
+        "\"I enjoyed watching the series on my KINDLE FIRE...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "mixed",
+      "evidence": [
+        "\"Not as good as Season 1.\"",
+        "\"I had a hard time coming to grips with the episode timeline that it took to travel from Canon City, in the 'Neutral Zone', back to San Francisco.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action/adventure and historical narratives, showing a preference for high production quality. They have mixed feelings about narrative complexity and pacing, indicating a nuanced taste that values both engaging storytelling and visual authenticity."
+}

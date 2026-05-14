@@ -1,0 +1,70 @@
+{
+  "user_id": "AHWN2A67YVQPECDN6QBNCRO75JSA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "No specific genres mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Reviews are generally positive but do not indicate complexity."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "No specific pacing preferences mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Focuses on enjoyment rather than production quality."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "mixed",
+      "evidence": [
+        "No specific sensory experiences mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Reviews express enjoyment but lack emotional depth."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user expresses a strong overall enjoyment of the movies and TV shows they review, consistently giving high ratings. However, there is a lack of specific preferences or detailed feedback, making it difficult to ascertain their tastes in genres, narrative complexity, or emotional engagement."
+}

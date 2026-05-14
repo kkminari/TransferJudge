@@ -1,0 +1,77 @@
+{
+  "user_id": "AGBOC6SXIETUML5PGFJFVXI2FF7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, adventure, action",
+      "evidence": [
+        "\"This movie is nothing short of amazing!!\"",
+        "\"I love this movie and I love that my kids love this movie!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's really just a grunged out version of boy loves girl but is too afraid to tell her...\"",
+        "\"The story is about an engaged-widowed-working mother who is constantly bickering with her funky-opinionated-guitar-playing teenage daughter.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The effects in this movie are amazing! I was blown away! The action scenes and sword fighting is superb, never a dull moment.\"",
+        "\"It's funny, it's intelligent, it's fast-paced, and has a great cast.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is spectacular!! Especially by Johnny Depp...\"",
+        "\"The special features: HBO Behind the Scenes documentary...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Jerry Bruckheimer is the producer of this action-packed-hilarious movie...\"",
+        "\"Kevin Smith is so smart it's almost sickening!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"The effects in this movie are amazing! I was blown away!\"",
+        "\"So funny it will make your gut and facial muscles hurt!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It's a beautiful story about father and son, the lengths that any parent will go to in order to protect their children...\"",
+        "\"It's a really good, heartwarming, charming story.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly comedies and adventure films, often highlighting humor and emotional depth. They appreciate high production quality and fast-paced narratives, indicating a taste for engaging and visually spectacular content."
+}

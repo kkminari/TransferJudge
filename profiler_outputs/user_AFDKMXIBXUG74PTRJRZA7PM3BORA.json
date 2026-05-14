@@ -1,0 +1,77 @@
+{
+  "user_id": "AFDKMXIBXUG74PTRJRZA7PM3BORA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, drama",
+      "evidence": [
+        "I never tire of stories of Arthur and Merlin",
+        "It was a love story -- very bittersweet"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "the story was told wonderfully",
+        "the underlying concept of the movie is good -- but it moves so slow"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "the underlying concept of the movie is good -- but it moves so slow",
+        "I fell asleep during the middle of it"
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the actors were great - the friendship, love, humor and loyalty",
+        "the cast was great!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I love this series!",
+        "I cannot get enough of this series."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I cried the whole last episode",
+        "It was a tear jerker --- but it was thought provoking too."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I cried the whole last episode",
+        "It was a story of friends and how they are not always in the same place emotionally"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy and drama genres, particularly enjoying stories with emotional depth and character development. They appreciate high production quality but tend to favor slower-paced narratives, often resonating deeply with the emotional aspects of the stories."
+}

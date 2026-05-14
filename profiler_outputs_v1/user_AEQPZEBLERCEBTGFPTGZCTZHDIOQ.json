@@ -1,0 +1,77 @@
+{
+  "user_id": "AEQPZEBLERCEBTGFPTGZCTZHDIOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "crime, drama, nordic noir",
+      "evidence": [
+        "\"Nordic noir has become very popular\"",
+        "\"Good cast, complex but not convoluted, likable and believable.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "medium",
+      "evidence": [
+        "\"Good cast, complex but not convoluted, likable and believable.\"",
+        "\"Believable, well acted, if somewhat predictable at times.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"I doubt you will want to binge watch it.\"",
+        "\"enough episodes to keep you engaged for a rainy weekend or such.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great acting by the leads and supporting cast.\"",
+        "\"Believable, well acted, if somewhat predictable at times.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"i still like Luther the best of the Brit cop series.\"",
+        "\"I like this better than 'Lewis' but less than the original Morse series.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Great action and special effects.\"",
+        "\"Hard to beat if you enjoy adult soap opera style stuff.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"What a wonderful series and time capsule of the years following WWII.\"",
+        "\"I dislike some of the characters which does not distract from my enjoyment.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys crime and drama genres, particularly Nordic noir, and appreciates high production quality and engaging storylines. They have a moderate preference for narrative complexity and sensory experiences, but show mixed feelings towards pacing and emotional resonance."
+}

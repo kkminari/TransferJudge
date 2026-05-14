@@ -1,0 +1,77 @@
+{
+  "user_id": "AFIJ27DZY3DWRA2KEUAAFYF2QV6Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, romance",
+      "evidence": [
+        "\"some humor, some romance, some action\"",
+        "\"fun to watch and liked the characters\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"I have to keep reminding myself of which way the timelines were going\"",
+        "\"unrelenting darkness and heaviness at every moment\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"kept me engaged\"",
+        "\"dull, disappointing and creepy\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Well acted, kept me engaged\"",
+        "\"while it's obviously a low budget movie, still one of the best movies I've seen\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Tina Fey, Mindy Kaling, Psych",
+      "evidence": [
+        "\"I love Tina Fey, but generally leave her movies feeling disappointed\"",
+        "\"Love Psych and have been waiting for this movie anxiously\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and emotional engagement",
+      "evidence": [
+        "\"great chemistry, poignant with its statement about the fragility of relationships\"",
+        "\"some great fight scenes, imaginative, and touching\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"brought tears\"",
+        "\"very pleasant surprise\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of comedy, drama, and romance, often appreciating character-driven narratives with emotional depth. They show a preference for engaging storytelling and have a notable loyalty to creators like Tina Fey and Mindy Kaling, while also valuing production quality to some extent."
+}

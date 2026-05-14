@@ -1,0 +1,76 @@
+{
+  "user_id": "AFGPC4CBWRMNORBGNOMG3UOR6IAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy",
+      "evidence": [
+        "classic comedy",
+        "my favorite comedy"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "good movie",
+        "always my favorite"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "good movie",
+        "funny movie"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "good movie",
+        "always my favorite"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Sandra Bullock",
+      "evidence": [
+        "love sandra movies"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "light-hearted",
+      "evidence": [
+        "funny but touching",
+        "good movie"
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "funny but touching",
+        "daughter loved it"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy films, particularly those that are light-hearted and evoke emotional responses. They show some brand loyalty to Sandra Bullock and appreciate simple narratives that are entertaining and engaging."
+}

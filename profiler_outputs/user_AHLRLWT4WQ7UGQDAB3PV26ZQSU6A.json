@@ -1,0 +1,77 @@
+{
+  "user_id": "AHLRLWT4WQ7UGQDAB3PV26ZQSU6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, musical",
+      "evidence": [
+        "great movie stories that will make you want to believe in romance again",
+        "I love all Elvis Movies"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I just can't get enough of it, best Actors, best series ever",
+        "I love everything about this show"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I remember watching this show and I loved it then and I still love it",
+        "I was disappointed when season 5 finished and no more seasons after it"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "love her movies",
+        "I love all Elvis Movies"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for Elvis Presley and Barbara Streisand",
+      "evidence": [
+        "Barbara Streisand is a phenomenal Actress I love her movies",
+        "love all his productions!!!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I just love it",
+        "the way it shows life in the 50s 60s, I just love it"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Sad movies but I love them both!!",
+        "I was disappointed when season 5 finished and no more seasons after it"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for romance and musical genres, particularly enjoying the works of Elvis Presley and Barbara Streisand. They appreciate simple narratives with a slower pacing, focusing more on emotional resonance and character-driven stories rather than high production quality."
+}

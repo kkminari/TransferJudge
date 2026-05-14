@@ -1,0 +1,76 @@
+{
+  "user_id": "AGWYO37TDDDSQR7TSNOSS2BNWAAQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, music, classic",
+      "evidence": [
+        "love their music",
+        "Its Elvis need I say more."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "great movie",
+        "very funny"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "love this one the best",
+        "love this one"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I collect all Elvis movies and will give 5 stars if in good condition"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Elvis Presley",
+      "evidence": [
+        "I collect all Elvis movies",
+        "Its Elvis need I say more."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "great movie",
+        "love their music"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "love this one the best",
+        "I have thoroughly enjoyed viewing it several times."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and musical films, particularly those featuring Elvis Presley. They prefer simple narratives with fast pacing and have a strong emotional connection to the movies they love."
+}

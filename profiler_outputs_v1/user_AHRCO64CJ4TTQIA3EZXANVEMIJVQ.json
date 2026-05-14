@@ -1,0 +1,77 @@
+{
+  "user_id": "AHRCO64CJ4TTQIA3EZXANVEMIJVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, comedy, thriller",
+      "evidence": [
+        "\"A must see action movie! Plenty of action and drama!\"",
+        "\"Excellent action flick! A real tense, white knuckler of a movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A good popcorn flick, not something one might want to repeatedly watch.\"",
+        "\"The story line is a bit vague and loose.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Fast-paced with excellent story line! An edge of your seat ride!\"",
+        "\"Tense to the end.....\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Amazing acting, excellent script!\"",
+        "\"Well scripted, excellent actors, and musical score made me forget all except living with the characters in the movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"First went to the theater, then had to add it to our collection!\"",
+        "\"A must see movie! Especially if action movies are a favorite!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, emotional engagement",
+      "evidence": [
+        "\"I was living the moment locked in time with Hugh Jackman, Russell Crowe, Anne Hathaway, et al.\"",
+        "\"Add action with humor and Guardians of the Galaxy does it all!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"But you may have to get out the kleenex box though....\"",
+        "\"A very sweet film! The period is just about the turn of the 1900's.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and drama films, often enjoying fast-paced narratives with high production quality. They appreciate emotional engagement in movies, indicating a taste for stories that resonate on a personal level."
+}

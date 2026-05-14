@@ -1,0 +1,77 @@
+{
+  "user_id": "AEKUFIQBLCGPEO7JIWIW6KQDFI6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, crime, action",
+      "evidence": [
+        "\"I enjoyed Mad Women with the main character. The movie is awesome.\"",
+        "\"Major Crimes is a great show to watch. It has the dynamics with the characters and how they deal with the crime scene.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I love this show. The relationship between Kate Beckett and Richard Castle is what got me 'hooked' up to this show.\"",
+        "\"I enjoyed this show because of the dynamics between the characters.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It has the dynamics with the characters and how they deal with the crime scene.\"",
+        "\"I really enjoyed this show very much. I have been watching the episodes, repeatedly.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I love this show. I can watch it over and over.\"",
+        "\"I enjoyed this show, which I continued to watch it, repeatedly.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"I have been following The Closer series since it began in 2005.\"",
+        "\"I am a huge fan of Green Arrow from my childhood years.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "character-driven",
+      "evidence": [
+        "\"I love this show because how the story context of 'Sherlock Holmes' is blended into the modern version in the U.S. atmosphere.\"",
+        "\"The relationship between Kate Beckett and Richard Castle is what got me 'hooked' up to this show.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This show touches on the social issues that was an on-going problem when I was in high school (e.g. LGBT&Q, Bullying, 'outcast', etc).\"",
+        "\"I love the characters: Philip and Elizabeth. They are my favorite, which is the reason I enjoyed this show, so much.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and crime genres, enjoying character-driven narratives with emotional depth. They demonstrate brand loyalty to specific shows and appreciate character dynamics, often watching their favorites repeatedly."
+}

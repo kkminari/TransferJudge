@@ -1,0 +1,77 @@
+{
+  "user_id": "AHZX5KIWIVBIKN2B2C736U2L7EPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, drama",
+      "evidence": [
+        "\"A six-hour reenactment of Napoleon's life...\"",
+        "\"Epic historical drama and Best Picture Oscar Award for 2000\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Myriad layers in a substantive tale\"",
+        "\"What humanity this great literary work captures!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The only downside is the actors speak with a pronounced accent, so you have to listen closely to understand every word.\"",
+        "\"A comprehensive and thorough three and a half hour documentary\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Impressive in the depth of this six-hour program and its attention to historical accuracy\"",
+        "\"By-the-book historical accuracy, much of the dialogue is verbatim from what is known\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Christian Clavier was superb in the role of Napoleon, and so was the acting of John Malkovich, Isabella Rossellini...\"",
+        "\"Russell Crowe...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Hong Kong's Chek Lap Kok Airport is an architectural and engineering marvel\"",
+        "\"The narrative begins with the backgrounds of his mother, Letizia, and father, Carlo...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"What humanity this great literary work captures!\"",
+        "\"It is in pain that we find the meaning of life\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for historical dramas with complex narratives and high production quality. They appreciate slow pacing that allows for depth and emotional resonance, indicating a taste for stories that evoke strong feelings and explore intricate human experiences."
+}

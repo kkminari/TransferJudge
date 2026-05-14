@@ -1,0 +1,77 @@
+{
+  "user_id": "AFMHTJXTRFCKMV4SF2W4QMYMKSKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama",
+      "evidence": [
+        "This was an awesome docudrama.",
+        "A real tear jerker. Loved this movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great viewing pleasure. GAC is the best!!!!",
+        "Awesome movie!!! Love anything Frank Grillo!!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Amazing movie. You will feel all different emotions watching it.",
+        "Good movie. Glad I finally watched it."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The reason everything that happens in the movie was powerful.",
+        "Leonardo DiCaprio did a fantastic job."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Frank Grillo, Ghost Adventures",
+      "evidence": [
+        "Love anything Frank Grillo!!",
+        "One of my favorite ghost hunting teams."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "emotional impact",
+      "evidence": [
+        "A real tear jerker. Loved this movie.",
+        "You will feel all different emotions watching it."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "A real tear jerker. Loved this movie.",
+        "Amazing movie. You will feel all different emotions watching it."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for emotionally impactful dramas and documentaries, often highlighting their enjoyment of specific actors like Frank Grillo. They appreciate high production quality and tend to favor fast-paced narratives that evoke a range of emotions."
+}

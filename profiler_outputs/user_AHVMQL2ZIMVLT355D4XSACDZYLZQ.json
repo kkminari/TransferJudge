@@ -1,0 +1,77 @@
+{
+  "user_id": "AHVMQL2ZIMVLT355D4XSACDZYLZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, suspense",
+      "evidence": [
+        "\"it's pretty funny, British humor\"",
+        "\"It's a very good 'Suspense' type movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Though short on storyline, I think this is a pretty good casting.\"",
+        "\"It's funny, but it's probably best if you're already a fan of Reno 911.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Very funny riffing of this movie!\"",
+        "\"A movie that started 'so bad it's great' can only be improved by the guys at RiffTrax.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Great performances, but there is a reason that stage actors wear stage makeup.\"",
+        "\"Bad acting. Bad Special Effects. Bad story. Skip.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love both of the lead actors in the film (Steve Coogan in Alan Partridge and Judi Dench in As Time Goes By and EVERYTHING ELSE!)\"",
+        "\"A great addition to the Alan Partridge franchise.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Great casting. Great acting, and a very poignant story.\"",
+        "\"The story had sharp dialogue and wonderful character arcs and character development all the way around.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I really enjoyed this movie. Great casting. Great acting, and a very poignant story.\"",
+        "\"I LOVE that Philomena FORGAVE the evil nun in the end.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and dramas, particularly those with strong performances and emotional depth. They prefer fast-paced narratives and show a moderate sensitivity to production quality, while expressing a fondness for specific actors without strong brand loyalty."
+}

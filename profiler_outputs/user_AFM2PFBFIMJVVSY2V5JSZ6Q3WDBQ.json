@@ -1,0 +1,77 @@
+{
+  "user_id": "AFM2PFBFIMJVVSY2V5JSZ6Q3WDBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama, comedy, romance",
+      "evidence": [
+        "\"I am an avid British mystery fan and if wishes come true....I am ready for Endeavor Season 3!\"",
+        "\"The old musicals are my all time favorites!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The characters are genuine and the situations they find themselves in are believable.\"",
+        "\"This is one of my all time favorite films.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This is one of my all time favorite films. I own it so am a little ashamed to admit how many time I have watched it.\"",
+        "\"I could have asked for nothing better than 'Lewis'\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The series is filled with many of my favorite actors. 'Vicious' is certainly a landmark series and worth every minute of your time.\"",
+        "\"Maggie Smith and Judi Dench are perfection.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for specific actors and series",
+      "evidence": [
+        "\"I watch all of David Tennant's accomplishments with great delight.\"",
+        "\"I love that the show is filmed in various countries, and that I get to see such beautiful and unique cars.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The setting is deliciously exotic and beautiful and as always Maggie Smith and Judi Dench are perfection.\"",
+        "\"I loved this film as a child. A film the whole family can watch together and laugh all the way through!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I cried when Morse truly was no longer with us.\"",
+        "\"This is one of my all time favorite films. I share it with friends, I watch it when I feel down, I watch it when I feel good.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for British mysteries and dramas, often enjoying character-driven narratives with emotional depth. They appreciate high production quality and have a fondness for specific actors, indicating a loyalty to familiar series and genres."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHS3GTIZNWWQT3IQ7KJEE2JR6KCA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance",
+      "evidence": [
+        "\"very sweet and charming love story...\"",
+        "\"good human interest story with George Peppard....\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"good story-- funny and sad....good ending...\"",
+        "\"just a wholesome show...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"very touching movie and great cast and acting\"",
+        "\"have always liked this movie since it came out years ago...true to life and also a sad movie.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"good acting and good cast....wonderful story and tear jerker\"",
+        "\"Joaquin should have gotten an award for his portrayal of johnny cash\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"have watched it many times...\"",
+        "\"wished I had STARTED WATCHING IT 30 YEARS AGO....\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"the ending with song 'ave maria' is touching\"",
+        "\"the music as usual by john barry is awesome...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"definitely a tear jerky and was not given the credit it deserved....\"",
+        "\"brought tears\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and romance genres, enjoying simple narratives with emotional depth. They appreciate high production quality and are particularly moved by touching stories and music, indicating a taste for heartfelt and charming content."
+}

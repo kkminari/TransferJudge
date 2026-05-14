@@ -1,0 +1,74 @@
+{
+  "user_id": "AEW4YQ6BWCU2WCG252KILXQK2GDQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, horror, thriller",
+      "evidence": [
+        "\"The story is actually sad.\"",
+        "\"This is the worst of all the 'Paranormal' type of movies.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot is a bit more of a just-write-the-story-as-we-go-along type.\"",
+        "\"The suspense and climax is thin in this movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It is a slow-burning story, but the ending makes it well worth the watch.\"",
+        "\"A nice and slow build up to nowhere.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"The acting was mediocre.\"",
+        "\"The character development is pretty much shallow if not predictable.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"The creep factor is not really strong.\"",
+        "\"The gore and/or blood factor was not overused.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Not worth the money to own.\"",
+        "\"I was expecting a lot more out of this movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for slow-paced dramas and thrillers, often expressing disappointment in narrative complexity and emotional engagement. They tend to focus more on the story than on production quality, indicating a mixed overall taste in movies."
+}

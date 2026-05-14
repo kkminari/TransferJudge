@@ -1,0 +1,77 @@
+{
+  "user_id": "AGHHAIZE7JYH72NFY6EPVJBNAMJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, zombie",
+      "evidence": [
+        "\"top fav zombie movie\"",
+        "\"my favorite british comedy since my teens.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Works perfect online, can watch anywhere!\"",
+        "\"Good movie\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great fight scenes and a lil romance to boot\"",
+        "\"if you love zombies, and proper gentlemen, this movie is what you have been looking for!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Works perfect online, can watch anywhere!\"",
+        "\"Always loved this movie!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "Red Dwarf",
+      "evidence": [
+        "\"Red Dwarf is my fav!\"",
+        "\"Love having them all available on Prime!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, action choreography",
+      "evidence": [
+        "\"Great fight scenes and a lil romance to boot\"",
+        "\"Works perfect online, can watch anywhere!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"It's a good sad story, though they do not show enough of what is troubling the world.\"",
+        "\"Like it alot, online viewing works perfect\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted comedies and zombie-themed content, particularly favoring the series 'Red Dwarf'. They prefer fast-paced narratives with a focus on entertainment rather than production quality, indicating a casual viewing preference."
+}

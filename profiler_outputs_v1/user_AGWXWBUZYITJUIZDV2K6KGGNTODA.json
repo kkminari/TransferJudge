@@ -1,0 +1,72 @@
+{
+  "user_id": "AGWXWBUZYITJUIZDV2K6KGGNTODA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama",
+      "evidence": [
+        "\"It is equal to Training Day however it's more action.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great movie\"",
+        "\"Very interesting!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I watch all 10 episode in two day. Want more!\"",
+        "\"EXCELLENT MOVIE, IT HOLD YOUR ATTENTION.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great Acting.\"",
+        "\"Good Movie\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"kept me laughing\"",
+        "\"Really funny\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"It was a intteresting Movie however I believe it could mislead the uninform watcher about how God manifest his ways; that why I rated it two star.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for action and drama genres, favoring fast-paced narratives that hold attention. They appreciate high production quality and humor, but their emotional engagement appears to be low, focusing more on entertainment value."
+}

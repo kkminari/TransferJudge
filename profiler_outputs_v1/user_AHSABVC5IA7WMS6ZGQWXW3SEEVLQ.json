@@ -1,0 +1,77 @@
+{
+  "user_id": "AHSABVC5IA7WMS6ZGQWXW3SEEVLQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, western, film noir",
+      "evidence": [
+        "\"A story of sacrifice simply because she cannot change who she is: an uncultured woman... Just a really poignant drama that still resonates today.\"",
+        "\"Pretty great film noir. Rita Hayworth is beautiful, Orson Welles is great... Dark and twisted.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The film suffers from too many competing story lines that do not get fleshed out enough.\"",
+        "\"Dissatisfaction is really the word... you can tell that the writers were having trouble bringing it together and the ending is just garbage.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"This is not my favorite. It really doesn't rise above a common Republic film.\"",
+        "\"A good story for Wayne to solidify the screen persona he would be known for... not much depth.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Fantastic story of the ending of the old west... John Ford's last great film and really an exclamation point for the greatest directing career of the Golden era.\"",
+        "\"Excellent remaster and production quality.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I own many John Wayne films and have seen hundreds of films from the WW 2 period.\"",
+        "\"Highly recommend to any fan of Warner Bros films.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The visual is eye popping. The dialogue is top notch.\"",
+        "\"Stanwyck has an unforgettable performance as a mother who does the right thing yet still loses in the end.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A story of sacrifice simply because she cannot change who she is... makes you really pause.\"",
+        "\"Next to Red River this is my favorite western... tragic.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for dramatic films, particularly those with emotional depth and high production quality. They appreciate complex narratives but also express mixed feelings about pacing and story execution in some films."
+}

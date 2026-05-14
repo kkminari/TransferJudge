@@ -1,0 +1,77 @@
+{
+  "user_id": "AHDAHOT2ZUQ6MEYZQHRH7VE5HD3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "biographical, feel-good, drama",
+      "evidence": [
+        "\"I loved Mr. Rogers... The story made me tear up slightly...\"",
+        "\"This was a moving story that told of the origins of the paralympic games...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot was too contrived and I could see the twists coming a mile away.\"",
+        "\"The script was marginal and predictable.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The pace of this movie was so slow and so downbeat that I could barely sit through it.\"",
+        "\"I was on the edge of my seat from almost beginning to end.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I think that was to hide the pain he felt. Good job by all.\"",
+        "\"The CGI was really outstanding. I kept asking myself how they did it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love Colin Firth and have for years.\"",
+        "\"I am a big fan of the West Wing and this is on par, if not better than that.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The graphics were fantastic, especially for a tv series.\"",
+        "\"The story made me tear up slightly and I was taken on a journey of learning to accept...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The story made me tear up slightly and I was taken on a journey of learning to accept...\"",
+        "\"I could only feel sad for the loss of Mr. Rogers in the world, a good man with a kind heart.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys biographical and feel-good films that evoke strong emotional responses. They appreciate high production quality and are sensitive to pacing, showing a preference for engaging narratives, though they sometimes find plots predictable. Overall, they value storytelling that resonates on a personal level and provides a meaningful experience."
+}

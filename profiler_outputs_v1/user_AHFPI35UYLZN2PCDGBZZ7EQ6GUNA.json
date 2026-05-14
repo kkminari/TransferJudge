@@ -1,0 +1,77 @@
+{
+  "user_id": "AHFPI35UYLZN2PCDGBZZ7EQ6GUNA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, classic, documentary, thriller",
+      "evidence": [
+        "If you like the old B/W sci-fi movies of yester-year, then you'll love this collection of sci-fi classics!",
+        "One of the best thrillers ever made, this classic is a must for any movie collector."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "If you like a great story line and fantastic fight scenes, then this is the movie to watch!",
+        "This dvd covers community policing and laws while giving the student a basic understanding of each."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "The main character fights his way to the top of a gang infested apartment complex while delivering some of the most fantastic fight scenes I have seen in a long time!",
+        "Great classic movie. The classic duel at the end between the devils guitarist 'Steve Vai' and the kid is priceless!!!!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "If your not sure what women want from a man or relationship, then this dvd is a must see!",
+        "This is a great training tool to introduce your students to the various careers available to them in Public Safety."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Paul Mooney keeps it REAL once again, in this dvd on 'White America'.",
+        "Excellent training dvd on treating gunshot wounds."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "The classic duel at the end between the devils guitarist 'Steve Vai' and the kid is priceless!!!!",
+        "Nothing like the monster tree coming alive and coming after people for revenge!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Great classic movie. The classic duel at the end between the devils guitarist 'Steve Vai' and the kid is priceless!!!!",
+        "If you like a great story line and fantastic fight scenes, then this is the movie to watch!"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys classic and sci-fi genres, particularly appreciating fast-paced narratives with visual spectacles. They show a preference for straightforward storytelling and are less concerned with production quality, focusing more on engaging content."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AH7D5YKJ5QYC4WHR7TVMWDFM5GBA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, comedy, adventure, detective",
+      "evidence": [
+        "\"This film was made before its time. Today's sifi audience loves it.\"",
+        "\"This series featuring regenerating Doctors has been around off and on for 50 years. It is lighthearted, adventurous, funny and strange.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"I hate a film that has a story so thin that I basically see the movie by watching the trailer.\"",
+        "\"Had to watch until the end since it was complex and I wanted to see how it all worked out.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The film is paced slowly due to the nature of the reality of space travel...\"",
+        "\"It is a colorful and loud and fast-moving story that calls for popcorn and good speakers...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The sound is excellent given the recording technology of the 1970's when the film was released.\"",
+        "\"Good film to watch twice. First time you learn the general story, the second time you see more details.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Thanks to the director.\"",
+        "\"If you like The Hobbit films, you owe it to yourself to get the Extended Edition.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Keep your subwoofer on because there are lots of effects that use it.\"",
+        "\"Watch Doctor Who a day after it airs in London.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Discusses real human issues and problems. (But cleverly disguised as talking animal issues)\"",
+        "\"It is a colorful and loud and fast-moving story that calls for popcorn and good speakers...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of sci-fi, comedy, and adventure genres, with a preference for films that offer both quality production and emotional depth. They appreciate complex narratives but also enjoy fast-paced, entertaining experiences, indicating a diverse taste in movies and TV shows."
+}

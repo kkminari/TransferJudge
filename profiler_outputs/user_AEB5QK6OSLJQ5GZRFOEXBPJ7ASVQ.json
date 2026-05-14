@@ -1,0 +1,77 @@
+{
+  "user_id": "AEB5QK6OSLJQ5GZRFOEXBPJ7ASVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, children's entertainment",
+      "evidence": [
+        "\"Good family movie for the Rock fan.\"",
+        "\"Grandkids loved the video and it is good clean entertainment for the little ones.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Love this movie from beginning to end. One of my favorite roles for Morgan Freeman.\"",
+        "\"Good family movie for the Rock fan.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Still enjoy watching.\"",
+        "\"Love this movie from beginning to end.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Very well put together movie with bad guys as the favorite characters who grab your attention.\"",
+        "\"Shipping time and quality of video were great.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Purchased as a gift and he loves it.\"",
+        "\"Enjoy every season.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Music keeps them interested and it is a break from what is normally on television.\"",
+        "\"Love this movie from beginning to end.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Love this movie from beginning to end. One of my favorite roles for Morgan Freeman.\"",
+        "\"Still enjoy watching.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for family-friendly and children's entertainment, often enjoying simple narratives that evoke positive emotions. They value production quality and have a high emotional resonance with the content they watch."
+}

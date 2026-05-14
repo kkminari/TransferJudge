@@ -1,0 +1,75 @@
+{
+  "user_id": "AFF6OQC45TOX3WJKQQATLT34PB7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animation, horror",
+      "evidence": [
+        "\"One of the greatest cartoons of all time.\"",
+        "\"Classic horror bad guy. Great movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great!\"",
+        "\"Not bad.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The single most excessively gory film ever made. Enjoy!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great!\"",
+        "\"Not bad.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love these cartoons. Really brings me back.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Great story.\"",
+        "\"Classic cartoons. I love this box set.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Really brings me back.\"",
+        "\"Great story.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for animation and horror genres, enjoying both classic cartoons and gory films. They appreciate simple narratives and tend to focus on emotional resonance rather than production quality."
+}

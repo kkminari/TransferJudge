@@ -1,0 +1,76 @@
+{
+  "user_id": "AHGIW43KKIKH26ZMCE63OXQCMPDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Husband liked this series so much he bought the 4th season",
+        "Kids love this movie"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good movie",
+        "Good for movie night"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Good movie",
+        "Loved this series"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Good movie",
+        "Good"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Husband liked this series so much he bought the 4th season"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "Good",
+        "Good for movie night"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Very interesting. Loved it",
+        "Kids loved the movie"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a generally positive view of movies and series, often expressing enjoyment without delving into specific genres or complex narratives. Their reviews suggest a preference for simple, entertaining content that is suitable for family viewing."
+}

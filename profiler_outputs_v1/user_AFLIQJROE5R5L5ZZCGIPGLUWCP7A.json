@@ -1,0 +1,77 @@
+{
+  "user_id": "AFLIQJROE5R5L5ZZCGIPGLUWCP7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "'very boring. waste of time.'",
+        "'the outcome was very predictable.'"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'the outcome was very predictable.'",
+        "'the plot drags on and on.'"
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "'the plot drags on and on.'",
+        "'did not finish. it was hard to watch.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "'great in showing progression of events.'",
+        "'great show.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "'can't wait to see season five.'",
+        "'great show.'"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "'Dialogue is hard to understand'",
+        "'dark scenes are not pleasant to watch.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "'very boring. waste of time.'",
+        "'did not finish. it was hard to watch.'"
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for straightforward narratives with a tendency towards slower pacing, often finding plots predictable and boring. While they appreciate good storytelling, they do not seem to prioritize production quality or emotional engagement in their viewing experience."
+}

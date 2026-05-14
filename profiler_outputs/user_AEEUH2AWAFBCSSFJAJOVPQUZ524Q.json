@@ -1,0 +1,77 @@
+{
+  "user_id": "AEEUH2AWAFBCSSFJAJOVPQUZ524Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, comedy",
+      "evidence": [
+        "\"good old fun from the 70's, but made today.\"",
+        "\"If you liked Shaun of the Dead, you'll love End of Days.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Weird, improbable and kinda fun.\"",
+        "\"Not Gone With The Wind, but it's no Gigli, either.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"They are never as good as the original, but it was still fun.\"",
+        "\"OK, but not worth the cash.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Good sound and picture. But I expect that, now days.\"",
+        "\"A well acted and well made movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I grew up in the 60's and 70's. Kung Fu Theater was a Saturday morning staple.\"",
+        "\"Tom died last month and when I heard about it took me back to my teen years.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"A bit campy and cheezy by today's standard, but I remember seeing this at the local drive in, when it first came out.\"",
+        "\"Makes you take a look at your life. Let the anger go and choose a happy attitude.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"Good movie. Makes you take a look at your life.\"",
+        "\"Classic movie. A bit campy and cheezy by today's standard, but I remember seeing this at the local drive in.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of action, drama, and comedy films, often appreciating nostalgic elements and character-driven stories. They show a moderate sensitivity to production quality and a mixed preference for narrative complexity and pacing, indicating a diverse taste in movies."
+}

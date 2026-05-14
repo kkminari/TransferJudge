@@ -1,0 +1,71 @@
+{
+  "user_id": "AH4TBW45B3NW4HEXHEFPZ3BT5NQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "anime, isekai",
+      "evidence": [
+        "\"I enjoy watching a Good or Funny (plus Action battle like) Isekai story.\"",
+        "\"If it a Isekai from japan, I want it.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"this anime was made for Adults, and I'm in my 60ths.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I enjoy watching a Good or Funny (plus Action battle like) Isekai story.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"the sound track was to low on the DVD, I had to go as high as 99, just so I could hear what was being said on the DVD.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"this anime was made for Adults, and I'm in my 60ths.\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"this make me laugh...! It's anime and I love this sh#t!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"this anime was made for Adults, and I'm in my 60ths.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for anime, particularly isekai stories, and enjoys fast-paced narratives. They seem to prioritize entertainment and emotional engagement over production quality, indicating a preference for fun and engaging content."
+}

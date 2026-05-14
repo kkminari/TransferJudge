@@ -1,0 +1,86 @@
+{
+  "user_id": "AHBM5ZYEJ6Y4TIYSEVFPDQAEP47A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama",
+      "evidence": [
+        "\"My 21/2 year old granddaughter laughs out loud at this cartoon!\"",
+        "\"I really enjoyed this series! It exalts the human spirit while remaining true to the period.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's a good little series...worth watching.\"",
+        "\"Fun, interesting show...a bit different in a good way.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"They tackle some tough issues and yet manage to make the show not totally about the issues.\"",
+        "\"It's a good, believable storyline; great acting and beautiful photography.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Everything about this performance is first class...the story, the actors and actresses, the costumes, the cinematography.\"",
+        "\"great acting and beautiful photography.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual, emotional",
+      "evidence": [
+        "\"the story, the actors and actresses, the costumes, the cinematography.\"",
+        "\"I will watch again someday.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I will watch again someday.\"",
+        "\"It exalts the human spirit while remaining true to the period.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "dislike_for_offensive_content",
+      "value": "high",
+      "evidence": [
+        "\"I did not finish the series because it was offensive to my Christianity.\"",
+        "\"I simply could not tolerate all the disgusting characters in this series.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys family-friendly and dramatic content with a strong emphasis on quality production. They prefer simple narratives that evoke emotional responses but have a strong aversion to offensive themes and characters."
+}

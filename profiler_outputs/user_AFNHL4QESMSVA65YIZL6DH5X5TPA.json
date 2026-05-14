@@ -1,0 +1,74 @@
+{
+  "user_id": "AFNHL4QESMSVA65YIZL6DH5X5TPA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, educational",
+      "evidence": [
+        "\"Great family movie that teaches team work and trust\"",
+        "\"Educational and entertaining\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Easy to follow, great to watch to learn more about the history\"",
+        "\"Like the movie a little slow\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Like the movie a little slow\"",
+        "\"Not that good for the money invested in to it. Expect more from this franchise\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Over hyped, good action decent story\"",
+        "\"Not that good for the money invested in to it. Expect more from this franchise\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Great movie, gives a great lesson. A multi watch movie.\"",
+        "\"Funny and entertaining movie that everyone will enjoy\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Great movie that will be part of our yearly watch\"",
+        "\"Great family movie that Evey generation can enjoy\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented and educational content, often favoring simple narratives that are easy to follow. They appreciate emotional resonance in films, indicating a preference for movies that provide meaningful lessons and entertainment for all ages."
+}

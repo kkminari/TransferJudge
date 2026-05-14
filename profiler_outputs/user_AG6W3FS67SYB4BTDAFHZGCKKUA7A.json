@@ -1,0 +1,77 @@
+{
+  "user_id": "AG6W3FS67SYB4BTDAFHZGCKKUA7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama",
+      "evidence": [
+        "For fans of speculative fiction, this is definitely worth watching.",
+        "The concept of programmable people seemed intriguing."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "The story had too many plot lines, and nothing was really resolved.",
+        "It wanted to be something novel, but it tried too hard and became tedious."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "It caused too much stress. Real people don't live through all that without a little more jail time and a bit more death.",
+        "The first three seasons had horrible acting and poor plot lines that didn't quite match the rest of the series."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "The acting levels were mixed: some good, some bad.",
+        "The writing and acting were good, but sometimes the plot disturbed me."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Joss Weaton doesn't disappoint.",
+        "Adrian Paul brought more life to the TV production than Christopher Lambert did for the movie."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Beautiful scenery and good acting.",
+        "The story is especially poignant for those who have lived through something similar."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "The story is especially poignant for those who have lived through something similar.",
+        "It was painful to watch, but I suspected that and did not attempt this until now."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for sci-fi and drama genres, appreciating complex narratives but often feeling overwhelmed by them. They have a mixed sensitivity to production quality and emotional engagement, indicating a nuanced taste that values both storytelling and character development."
+}

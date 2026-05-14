@@ -1,0 +1,77 @@
+{
+  "user_id": "AEYVYEQVFLTISY4AGLZAVCA5HCWA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, animation, classic",
+      "evidence": [
+        "\"I like old black and whites or OLD color movies.\"",
+        "\"We love love love these Veggie Tales dvd's\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This has a nice plot and ending.\"",
+        "\"Love this show we watch it a lot\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I get tired of all the screaming and shooting noise of todays movies.\"",
+        "\"Not my cup of tea. Its just noisy and stupid\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I could not get the rapper off fast enough. I like the box it come in great packaging.\"",
+        "\"I have never had to return 1 for any reason.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Veggie Tales, Duck Tales",
+      "evidence": [
+        "\"We love these they are so much fun to watch.\"",
+        "\"We have all of the Duck Tails now :-)\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual, nostalgic",
+      "evidence": [
+        "\"I like old black and whites or OLD color movies.\"",
+        "\"This is a family show that my grand son loves\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I bought this for my grandson and he flipped when he opened it.\"",
+        "\"This is my favorite show in all the Hobbit Lord of the Rings.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly and classic animated content, particularly enjoying Veggie Tales and Duck Tales. They favor simple narratives with a slower pace, valuing emotional connections over high production quality."
+}

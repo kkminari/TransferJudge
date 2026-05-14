@@ -1,0 +1,77 @@
+{
+  "user_id": "AHSAEPPJUODL45QTRPM45RM74ZTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, war, historical",
+      "evidence": [
+        "\"Excellent piece of work by Spielberg. One of the best depictions of the ETO operation that I have viewed.\"",
+        "\"This is one of the most intense movies that I've seen.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"It requires serious concentration which is great.\"",
+        "\"The connectivity is absent from many sections of the movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It is fast paced but nothing seems to be developing.\"",
+        "\"Another intriguing fast paced season with the cast at CTU.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great acting. Streep and Hanks are far better than those who won oscars.\"",
+        "\"I loved these comments and was drawn back in time. Band of Brothers and Pacific are first rate, well done with excellent camera work.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Spielberg",
+      "evidence": [
+        "\"Excellent piece of work by Spielberg.\"",
+        "\"Band of Brothers and Pacific are first rate, well done with excellent camera work.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent music. The ending summary puts all of the major characters into their real life perspective.\"",
+        "\"The film does a great job of depicting the harshness of the environment.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is a good reminder of those who paid the ultimate price for us and the role of the USMC in the Pacific Theater.\"",
+        "\"It is rewarding to see the entire series in a short interval.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and war genres, particularly those with high production quality and emotional depth. They appreciate complex narratives and are sensitive to pacing, showing mixed feelings about fast-paced storytelling."
+}

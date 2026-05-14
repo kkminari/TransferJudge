@@ -1,0 +1,77 @@
+{
+  "user_id": "AFV32GJ5G2WKBCRNK5JBXQJFP44Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, reality",
+      "evidence": [
+        "Totally charming movie! Hilarious, poignant, educational...all of it!",
+        "I love Survivor, and Season One has to be my all time favorite!"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "Machiavellian plots, sub-plots and sub-sub-plots artfully orchestrated and written.",
+        "The plot was not what I expected from the Trailers, but that's okay."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "This movie was slow paced as her life unfolded on the screen, and unraveled even more.",
+        "I can't see myself watching the movie again anytime soon."
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Well acted. Well done!",
+        "The acting, and the script, is great!"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for specific actors",
+      "evidence": [
+        "I love Dev Patel and would watch anything he stars in.",
+        "Anything he's in, I love."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I was shocked by the ending.",
+        "I'm immersed in each character without reservation."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "We cry every time. Can't help it!",
+        "I was happy she was feisty, persistent, gutsy and brave!"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and comedy, often enjoying complex narratives with high production quality. They exhibit brand loyalty towards specific actors and appreciate emotional depth in the content they consume."
+}

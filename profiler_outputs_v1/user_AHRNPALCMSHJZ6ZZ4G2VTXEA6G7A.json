@@ -1,0 +1,70 @@
+{
+  "user_id": "AHRNPALCMSHJZ6ZZ4G2VTXEA6G7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "No specific genres mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The reviews do not indicate a preference for complex narratives."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "No specific pacing preferences mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Focuses on condition rather than production quality."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "No sensory experiences mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Reviews focus on gifts and condition rather than emotional impact."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has provided numerous positive reviews but lacks specific preferences in genres, narrative complexity, or emotional engagement. Their reviews primarily focus on the condition of items and their suitability as gifts, indicating a low sensitivity to production quality and sensory experiences."
+}

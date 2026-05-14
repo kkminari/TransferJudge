@@ -1,0 +1,77 @@
+{
+  "user_id": "AGBVLWOPQ6P7UIOIISONSNMCXF4A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "reality, end-time",
+      "evidence": [
+        "I'm a big Survivor fan.",
+        "I Like end-time movies."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Entertaining.",
+        "I enjoyed the self documentary."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "I'm always fascinated by the social aspect of this game.",
+        "Good watch."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "It's as if they are trying to compensate by using bad language for lack of writing abilities.",
+        "I hope to see more episodes."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Survivor",
+      "evidence": [
+        "I'm a big Survivor fan.",
+        "I'm never disappointed with the different type of players."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "atmospheric",
+      "evidence": [
+        "It made me think of during the Roman times.",
+        "I wonder how far away we really are from turning back to this form of 'entertainment'."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It made me think.",
+        "One can only hope that history will not repeat itself."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for reality shows, particularly 'Survivor', and enjoys end-time movies. They appreciate engaging narratives but are less concerned with production quality, focusing more on entertainment value and emotional impact."
+}

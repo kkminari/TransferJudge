@@ -1,0 +1,77 @@
+{
+  "user_id": "AEPQYIWZZ2QS5DPLAAB42KX73KNA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, drama",
+      "evidence": [
+        "\"I don't like a lot of the new series because of the violence and the language.\"",
+        "\"I would recommend this movie to be seen by anyone, especially families together...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The storyline never gets old! It's a wonderful story.\"",
+        "\"I just love this version of Pride and Prejudice.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I like to watch it in the evening just before I go to sleep.\"",
+        "\"It's safe for all to watch.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I can certainly understand why 'Andy Sipowitz' won so many Emmys for this part!\"",
+        "\"The acting was ok, but I did not like the story of cheating and getting away with it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I watched it because I am a Barbra S fan.\"",
+        "\"I love all the characters, especially Andy Sipawitz?\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It brought back a lot of childhood memories!\"",
+        "\"I really enjoyed it and give it five stars.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It was fun to watch.\"",
+        "\"This is one of the best stories ever written.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly dramas with simple narratives and a slow pacing. They have a strong appreciation for quality production and emotional resonance, often reminiscing about childhood memories through their viewing experiences."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AGHRHVHMJHG2OAC7GEYM3OPZ5O4A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Too raunchy for me.",
+        "Love the suspense and action of this series."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I like the storyline. Not quite as entranced with it as I'd hoped.",
+        "Movie was ok"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Love the suspense and action of this series.",
+        "Really caught off guard with this one."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Poor acting. Actress must have been hired for her looks.",
+        "I enjoyed the book more then the movie."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Loved this movie since it came out. Watched it with my kids and now my grandkids."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "Love the suspense and action of this series.",
+        "Great movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Not quite as entranced with it as I'd hoped.",
+        "Movie was ok"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced movies and series, particularly those with suspense and action. They have mixed feelings about narrative complexity and production quality, indicating a preference for straightforward storytelling over emotional depth."
+}

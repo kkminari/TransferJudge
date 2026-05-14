@@ -1,0 +1,77 @@
+{
+  "user_id": "AHP2ONSDKKOKFEOGQPJ72NYQ7UIQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, horror, thriller, sci-fi",
+      "evidence": [
+        "\"The best action movie I've seen in years\"",
+        "\"If you like old school fun and somewhat campy horror, and if you love Halloween, you will LOVE Trick r Treat.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A simple yet effective story that makes you actually care about what's going on.\"",
+        "\"The plot was interesting but predictable.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This is what an action movie is supposed to be. Stunning visuals, amazing REAL stunts.\"",
+        "\"It's a tight 82 minutes that's packed with enough fun and iconic Halloween images.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The Blu-Ray is reference quality. The level of detail is stunning. The sound will blow you away.\"",
+        "\"The musical score is AWFUL. So grating.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I'm a big Tarantino fan and have been since Reservoir Dogs.\"",
+        "\"I loved Christopher Nolan before it was cool.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Lot's of arbitrary 'pretty colors' just for their own sake.\"",
+        "\"Stunning visuals, amazing REAL stunts.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Seeing it like this made me emotional.\"",
+        "\"This film will make your blood boil.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and horror genres, appreciating visual spectacle and emotional impact in films. They tend to favor fast-paced narratives and show a high sensitivity to production quality, while also expressing mixed feelings about narrative complexity and brand loyalty."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AG4FLFOEWMY26L6SXKEE26UTOD2A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "western, adventure",
+      "evidence": [
+        "\"We have liked all of the seasons of Wyatt Earp that we have gotten. It was a great series\"",
+        "\"The movie was as good as I remember from when I was a child. Good adventure and the scenery in India can't be beat.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot is somewhat disjointed.\"",
+        "\"The acting is typical of the 1950's era television but overall this was a great purchase.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I love every episode. This is one that I will watch many times\"",
+        "\"I am looking forward to taking the time to sit down and watch the great entertainment that is part of the Perry Mason experience.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The picture and sound on these discs have been excellent.\"",
+        "\"The digital remastering of this product was excellent.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have always liked the way that it truly follows the history of Sheriff Earp.\"",
+        "\"I enjoyed this movie the first time I saw it and nothing has changed.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The picture quality and sound are very good.\"",
+        "\"I was impressed with the picture and sound quality.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I had forgotten how much I enjoyed this show when it was on and I am now getting the pleasure of rewatching each season.\"",
+        "\"I love every episode. This is one that I will watch many times.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for westerns and adventure genres, enjoying shows with high production quality and emotional resonance. They favor slower-paced narratives that allow for rewatching and savoring the experience."
+}

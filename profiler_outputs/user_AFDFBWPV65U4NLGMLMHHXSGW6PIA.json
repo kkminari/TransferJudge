@@ -1,0 +1,76 @@
+{
+  "user_id": "AFDFBWPV65U4NLGMLMHHXSGW6PIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family",
+      "evidence": [
+        "\"One of the funniest movies I've ever seen.\"",
+        "\"Goonies Forever!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A great movie.\"",
+        "\"It was good\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Killer humor. Cast is awesome\"",
+        "\"One of the funniest movies I've ever seen.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"What a great production, pictures, scenes, story line.\"",
+        "\"Peace Lovely Peace no loud music narration or anything but beautifully made tours.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Jim Hensen, I Will Always Love You for being green.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It is proof that a movie doesn't have to be R rated to be good!\"",
+        "\"Peace Lovely Peace no loud music narration or anything but beautifully made tours.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie is gonna leave a mark!!\"",
+        "\"One of the funniest movies I've ever seen.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and family-oriented films, appreciating humor and light-hearted narratives. They value production quality and emotional impact, often enjoying films that leave a lasting impression."
+}

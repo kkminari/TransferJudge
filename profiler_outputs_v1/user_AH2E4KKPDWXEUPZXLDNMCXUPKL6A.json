@@ -1,0 +1,77 @@
+{
+  "user_id": "AH2E4KKPDWXEUPZXLDNMCXUPKL6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "martial arts, comedy",
+      "evidence": [
+        "The Office is a hilarious series, especially after you get to know the characters.",
+        "If you're trying to learn Hapkido from home, or just reviewing, these DVDs by Master Song are some of the best for the money."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "You get the techniques and the katas and bunkai.",
+        "Overall a good teaching on the form."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "The material and the way it's presented is excellent.",
+        "Very nicely done. Good explanations on Wing Chun theory and fighting technique."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Top quality teaching and video. Typical of YMAA. Their stuff is always first rate quality.",
+        "Filming and sound all very well done. A+ job!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "YMAA, Master Song",
+      "evidence": [
+        "Typical of YMAA. Their stuff is always first rate quality.",
+        "If you want to really get down with no nonsense and work the Mook Jong and understand the fighting concepts this is the DVD for you!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual clarity, practical demonstrations",
+      "evidence": [
+        "Different camera angles and speeds, showing close ups of the hand positions and footwork.",
+        "All the moves explained well with the applications."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "It's ok if you want to learn some katas, but Ted Tabura was nowhere in the video at all.",
+        "Nothing at all new. Kind of a wasted opportunity to get deeper into things."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for martial arts and comedy genres, particularly valuing high production quality and clear instructional content. They appreciate practical demonstrations and straightforward narratives, while emotional engagement appears to be less significant in their viewing experience."
+}

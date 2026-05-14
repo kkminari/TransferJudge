@@ -1,0 +1,76 @@
+{
+  "user_id": "AGYSUIRCID5ZAOXMXIVX2IECH5WA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama",
+      "evidence": [
+        "\"Great family movie!\"",
+        "\"A wonderful family movie!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A good movie, with a good message.\"",
+        "\"A great movie to watch!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"A good movie, but very depressing.\"",
+        "\"This is a very depressing movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"A good movie.\"",
+        "\"A great movie!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love Jennifer Garner, but it was not worth the wait.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "emotional, heartwarming",
+      "evidence": [
+        "\"A warm and touching movie. Wonderful!\"",
+        "\"It is a sad movie with a happy ending.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I had compassion for the owner of the property.\"",
+        "\"It is so good, that I purchased others to give as gifts.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-oriented and emotional films, often enjoying simple narratives with heartwarming themes. They express a mix of feelings towards pacing and production quality, indicating a focus on the emotional impact of the stories."
+}

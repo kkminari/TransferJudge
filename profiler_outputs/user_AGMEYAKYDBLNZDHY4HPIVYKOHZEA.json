@@ -1,0 +1,77 @@
+{
+  "user_id": "AGMEYAKYDBLNZDHY4HPIVYKOHZEA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, dislikes kid shows",
+      "evidence": [
+        "I don't like kid shows. Don't know why my kindle downloaded this.",
+        "I prefer Sci-fi and science, not high drama."
+      ],
+      "confidence": 1.0,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "There really is no season long story arc, so watching them in any order doesn't ruin the enjoyment.",
+        "It posed more questions than answered."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I find that movies like this are boring and pointless.",
+        "Watched about 5 minutes... and that was it."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I don't understand why Amazon keeps posting this junk to my kindle.",
+        "Plus there are no subtitles."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I had read the PKD book, so I know what's going to happen.",
+        "I hope it gets picked up."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I really liked the look of this show.",
+        "It posed more questions than answered."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Don't understand why this would AT ALL be interesting to watch.",
+        "I find that movies like this are boring and pointless."
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong dislike for kid shows and prefers sci-fi content. They tend to favor straightforward narratives and show low sensitivity to production quality, indicating a focus on content over form."
+}

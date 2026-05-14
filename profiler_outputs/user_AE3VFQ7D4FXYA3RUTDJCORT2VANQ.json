@@ -1,0 +1,77 @@
+{
+  "user_id": "AE3VFQ7D4FXYA3RUTDJCORT2VANQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, historical, old movies, b-movies",
+      "evidence": [
+        "\"An excellent documentary discussing their year of touring before he hit mega stardom.\"",
+        "\"I love trashy old b-movies and I bought this especially for Teenage Gang Debs.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A fun little film to watch especially if you love Hank and old movies!\"",
+        "\"Can't go wrong with this one. A fun watch if you love old b-movies!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"If you're a fan of 70's horror that depends more on creepy atmosphere than special effects and gore, than you will dig this movie.\"",
+        "\"Overall, it's worth a watch!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"They did a great job with the costume design and sets.\"",
+        "\"Intense movie and great acting!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Kirk Acevedo, Elvis",
+      "evidence": [
+        "\"the best surprise was seeing Kirk Acevedo unexpectedly appear in this...\"",
+        "\"As a huge Elvis fan, I highly recommend this video about his early years...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The movie was visually beautiful, full of great acting, an the storyline was both fascinating and inspiring.\"",
+        "\"Very interesting plot and in spite of it being a young cast, it never comes across as being a 'teen horror flick'.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I can see why it was her favorite...\"",
+        "\"Be still my beating heart!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for documentaries and historical content, particularly related to music history and old movies. They appreciate simple narratives with emotional depth and are sensitive to production quality, especially in terms of acting and visual appeal."
+}

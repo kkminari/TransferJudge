@@ -1,0 +1,76 @@
+{
+  "user_id": "AHFYDQPA4MUQPHC6RZHS6BQD47EQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, horror, adventure",
+      "evidence": [
+        "\"It was quite a horror movie, you have to pay attention or you missed the plot\"",
+        "\"I like adventure movies\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Interesting plot line but the vocabulary was terrible\"",
+        "\"It was not too bad a movie\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I enjoyed the action movie vocabulary was bad.\"",
+        "\"It was a very enjoyable movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"the vocabulary was terrible\"",
+        "\"the language is so bad I could only watch it for about 20 minutes\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Mel Gibson",
+      "evidence": [
+        "\"I always enjoy Mel Gibson\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual action",
+      "evidence": [
+        "\"It helps us understand our military better, what they want through\"",
+        "\"It was very enjoyable\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"not bad\"",
+        "\"It was not too bad a movie\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and horror movies, showing a preference for fast-paced storytelling. They have a low sensitivity to production quality and express enjoyment for Mel Gibson's work, indicating a potential loyalty to specific actors."
+}

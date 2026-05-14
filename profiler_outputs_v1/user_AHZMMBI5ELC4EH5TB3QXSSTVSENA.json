@@ -1,0 +1,77 @@
+{
+  "user_id": "AHZMMBI5ELC4EH5TB3QXSSTVSENA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romantic comedy, drama",
+      "evidence": [
+        "\"This movie is about a woman of faith and how she uses to exercise and show it.\"",
+        "\"It's a cute film with a familiar storyline but an interesting twist.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"This story is an highly populated, intertwined, multi-layered, mystery thriller/love story.\"",
+        "\"Even minor characters have place and background in the large scheme of the story.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It starts a little slow but gains momentum.\"",
+        "\"The scripts are a bit less believable and the stories - well....cheesy.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"good directing, very good acting, excellent writing and the setting and costumes appropriate and believable.\"",
+        "\"The caliber of performance is astounding!!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I knew this in advance since I am familiar with the director/writers work.\"",
+        "\"I have read all the books.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The sets are outrageously stunning as are the costumes.\"",
+        "\"It is raw in its portrayal of vulnerability.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"You will cry. No way around it.\"",
+        "\"It is a heart-wrenching and heart warming movie.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys romantic comedies and dramas with complex narratives and high production quality. They appreciate emotional depth and sensory experiences in films, while showing mixed feelings towards pacing and brand loyalty."
+}

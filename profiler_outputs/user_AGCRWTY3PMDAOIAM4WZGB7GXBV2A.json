@@ -1,0 +1,71 @@
+{
+  "user_id": "AGCRWTY3PMDAOIAM4WZGB7GXBV2A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "I thought this was a strange book with strange characters. Not what I expected from Maggie Smith."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "it was very predictable.",
+        "kinda slow."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "kept moving.",
+        "kinda slow."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I thought there would actually be more information.",
+        "Wouldn't recommend."
+      ],
+      "confidence": 0.4,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Nice scenery."
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Wouldn't recommend."
+      ],
+      "confidence": 0.4,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a mixed taste in genres, with a tendency towards predictable narratives and a preference for simple storytelling. They appreciate visual elements like scenery but do not prioritize high production quality or emotional depth in their viewing experiences."
+}

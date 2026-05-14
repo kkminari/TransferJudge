@@ -1,0 +1,74 @@
+{
+  "user_id": "AFKJ5XBFP42OX67RXDZCN2J2JGZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Love the characters and the show, but this Blu-ray collection is sub par.",
+        "STARDUST is one of my favorite films of 2007."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Hopelessly convoluted plot, unintelligible dialog, and NO subtitles.",
+        "I couldn't sort it out."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "dialog is fast-paced, off the cuff, and laced with SF technical jargon."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "this Blu-ray edition looks like cr*p warmed over.",
+        "Time for somebody to pony up the cash and give this great film the meticulous 4K digital restoration."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I have been catching flack for years on Amazon for rating HBO's Sopranos Season 1 Blu-ray offering 1 Star."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "I saw a bright, clear, totally colorful 3-dimensional image so good I quickly forgot I was wearing the new polarizing glasses."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "I cannot even watch it.",
+        "this Blu-ray edition looks like cr*p warmed over."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for fast-paced narratives but has a low tolerance for narrative complexity, often finding plots convoluted. They are highly sensitive to production quality, expressing dissatisfaction with poor visual and audio experiences, while their emotional engagement appears to be low."
+}

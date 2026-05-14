@@ -1,0 +1,77 @@
+{
+  "user_id": "AHKNZZDRCYDFOD3YIPWNA6LQWCAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, comedy, family, war, baseball",
+      "evidence": [
+        "\"Great Star Trek series. I’m working on owning the complete Star Trek TV series. Can’t help it I’m a Star Trek fanatics.\"",
+        "\"Great addition to my video collection. Especially when you like baseball movies. Thanks\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Corny & really unbelievable, unrealistic plot. But entertaining.\"",
+        "\"Great entertainment. Recommend to all.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great addition to my video collection. Especially when you like baseball movies. Thanks\"",
+        "\"Love this movie. One of Nicolas Cage early films. Recommend to all\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good value. Two movies for the price of one. Both these movies are a good comedy with similar story line.\"",
+        "\"Great addition to my video collection. Especially when you like baseball movies. Thanks\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for Star Trek and Robin Williams",
+      "evidence": [
+        "\"Can’t help it I’m a Star Trek fanatics.\"",
+        "\"If like Robin Williams crazy comedy, you will love this DVD set.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Highway to Heaven not only a good TV Series, it presents a positive light on our Christian Walk in life...\"",
+        "\"Love these old TV Series. I grew up watching this series on TV.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...presents a positive light on our Christian Walk in life, and that God is there for us.\"",
+        "\"Great entertainment. Recommend to all.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and comedy genres, particularly enjoying the Star Trek series and works featuring Robin Williams. They appreciate simple narratives with fast pacing and show a high emotional resonance with content that presents positive messages."
+}

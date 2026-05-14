@@ -1,0 +1,75 @@
+{
+  "user_id": "AF2N266E2IHFEGU52LBRRW2CXGRQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "This is a good movie. I saw it when it first aired in 1994.",
+        "I love this series of movies!"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great movie! Thanks!",
+        "Love this show!"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Kick ass show!!!",
+        "Awesome item! Thanks!"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great movie! Thanks!",
+        "Awesome product! Received! Thanks!!"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I love Jamie Lee Curtis!!"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "Great movie! Thanks!",
+        "Awesome product! Very happy!!!"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "This movie sucked! The first one is much better!!!"
+      ],
+      "confidence": 0.3,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user generally enjoys movies and shows, often expressing satisfaction with simple and fast-paced content. However, their reviews lack depth in genre preferences and emotional engagement, indicating a focus on entertainment rather than narrative complexity or production quality."
+}

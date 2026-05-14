@@ -1,0 +1,74 @@
+{
+  "user_id": "AHWJYBBSTKG2P4AQXA5RQE65D2KA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, action, romance, horror",
+      "evidence": [
+        "\"Really is an amazing movie!! What an amazing god sent family.\"",
+        "\"This one was the scary one. Reminds you of being scared as a child...takes you back.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good action, good story, can have it's corny moments.\"",
+        "\"This movie was funny and descent story.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Drawn out story, set in the 80s.\"",
+        "\"I thought this movie was good and know I know how hard their job is..I could not imagine..\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great action, story line and actors!!\"",
+        "\"Great story, and morals.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Better if you seen it there instead of TV or if you have an 80 inch or higher for the colors, action, beautiful set.\"",
+        "\"This one was the scary one. Reminds you of being scared as a child...takes you back.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A year jerker for undying love!\"",
+        "\"I loved the story, acting, and the ending.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-oriented and action-packed films, often appreciating emotional depth and visual spectacle. They enjoy straightforward narratives but have mixed feelings about pacing, indicating a balance between engaging stories and slower developments."
+}

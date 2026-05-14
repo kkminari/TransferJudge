@@ -1,0 +1,77 @@
+{
+  "user_id": "AFKTUETNCIVXGG3WEV5VVBXGWCJQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, thriller, action",
+      "evidence": [
+        "\"Saw 'Spy' on a plane ride and could not stop laughing.\"",
+        "\"The purge movies are very disturbing.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This film is fun to watch and has a nice pacing.\"",
+        "\"The story can be dramatic, which comes with the subject.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This film is fun to watch and has a nice pacing.\"",
+        "\"'47 meters down' is fast paced, scary, suspenseful and surprising.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great performances. I love one scene between Eddie and Matti Nykänen.\"",
+        "\"The Acting makes '12 years a Slave' easy to watch, despite some rather bloody scenes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I love working with Luc Besson, McG and Kevin Costner, so I knew what to expect.\"",
+        "\"Normally we do not binge watch, but 'Transparent' kept us up all night.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The images and framing is excellent, and if you get the chance to see this masterpiece in 3D, do it, it is well worth it.\"",
+        "\"Great Images & Music. Very well done, this movie is full of surprises and not pretentious at all.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Laughs & Tears guaranteed.\"",
+        "\"The theme of the show reminds a little bit of some of the attitudes from the 70's, so it is right down my alley.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of comedy, drama, and action films, with a strong preference for fast-paced narratives. They appreciate high production quality and emotional depth in storytelling, often highlighting performances and cinematography."
+}

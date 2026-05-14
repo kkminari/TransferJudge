@@ -1,0 +1,77 @@
+{
+  "user_id": "AGBQ5GISB2F6AGNFQQTDHYKM5CXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, romance",
+      "evidence": [
+        "\"One of my all time favorite comedies.\"",
+        "\"I love this movie! I highly recommend this DVD to anyone who hasn't yet seen this movie.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Granted it is a little long, but such a wonderful movie that you can't help but to think about days later.\"",
+        "\"This movie is adorable. Yes, it is a Disney film and yes, it has its cheesy times to it, but hey I am a huge fan of cheesy movies.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Granted it is a little long, but such a wonderful movie that you can't help but to think about days later.\"",
+        "\"This movie has a modern 'Beauty and the Beast' twist to it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"This arrived on time and in perfect condition.\"",
+        "\"This came on time and the packaging was in perfect condition.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love this movie and highly recommend this to any 80's movie fans out there.\"",
+        "\"I could not find this on DVD for the longest time, and now here it is finally!!!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This movie is wonderful! I highly recommend this movie to any teenager and mom out there.\"",
+        "\"This film deserves more recognition than it got. This movie adaptation is absolutely beautiful.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie is wonderful!! Granted it is a little long, but such a wonderful movie that you can't help but to think about days later.\"",
+        "\"I absolutely love this movie. One of my favorite movies to watch around the holidays.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies and family-oriented films, often enjoying light-hearted and cheesy narratives. They value emotional resonance and tend to appreciate simple storytelling, while showing less concern for production quality."
+}

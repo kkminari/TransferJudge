@@ -1,0 +1,77 @@
+{
+  "user_id": "AG34YL63WPSTQSRQYSZKWW4DWRIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fitness, workout",
+      "evidence": [
+        "This is an interval style workout.",
+        "Denise Austin leads a terrific doable workout for the beginner."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Previewing the DVD, showed an excellent simple yoga program incorporating props.",
+        "This is a good pilates inspired workout on the ball."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "This is an interval style workout.",
+        "No continuity between segments."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Agree that this is an excellently produced video.",
+        "Denise shows proper alignment for each stretch."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Denise Austin, Kathy Smith",
+      "evidence": [
+        "Denise Austin leads a terrific doable workout for the beginner.",
+        "Kathy Smith, why on earth did you use a ball too small for your height?"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory quality",
+      "evidence": [
+        "the film shots did not show a lot of body alignment.",
+        "the audio was poor, could not adjust the volume higher."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Did not feel got a good workout.",
+        "Agree that this is an excellently produced video, however, overweight/beginners stay away from this video."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for fitness and workout videos, particularly those that are simple and well-produced. They express mixed feelings about pacing and emotional engagement, indicating a focus on quality and brand loyalty to specific instructors."
+}

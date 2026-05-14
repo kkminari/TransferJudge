@@ -1,0 +1,77 @@
+{
+  "user_id": "AF4KF47ZZC3UJPZHQCGBUDZRZZDQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy, documentary",
+      "evidence": [
+        "\"If you like action, you'll love this one!\"",
+        "\"If you enjoy raunchy comedies this is the one for you!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot is good - easy to follow.\"",
+        "\"The plot is fun and easy to follow and her real life hubby in her movies is always something that I look for.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Fun, fast-paced, action-packed!!!\"",
+        "\"This movie was all it's trumped up to be. Denzel Washington won an Oscar for his role. It was gritty and real with a twist.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The makeup artists on this show should get an Oscar.\"",
+        "\"It amazes me how well-directed the fight scenes were as well.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I love Melissa McCarthy and love the constants that follow her through each film.\"",
+        "\"Anything Jason Bateman touches is gold.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Moana immerses you into the Pacific ocean and its many islands in the most intimate of ways.\"",
+        "\"The angle that you watched the battle from as the viewer was perfect - you could almost FEEL the blows as the camera kept pace with Reeves.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I cried several times while hearing Pacific Islanders speak with such pride and emotion about wanting their culture to be known and appreciated by others.\"",
+        "\"A moving portrayal\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fast-paced action and comedy films, often enjoying well-produced content with emotional depth. They appreciate simple narratives and have a notable loyalty to specific actors, particularly Melissa McCarthy and Jason Bateman."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGBV3LD3PDYUNKFFNU3OGZGRWIOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, historical, detective",
+      "evidence": [
+        "\"I love Endeavour. Sean Evans is brilliant as young Morse.\"",
+        "\"If you are a fan of historical drama's then you'll love London Hospital.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Each of the 4 episodes is a stand alone story but after watching each I enjoyed going back and watching all 4 together.\"",
+        "\"It's a good mix of comedy and drama I just wish they had chosen better music and video for segues.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Patience is a virtue!\"",
+        "\"You don’t know the final results.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Brilliant acting by Martin Freeman and supporting cast.\"",
+        "\"I just wish they had chosen better music and video for segues.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"I'm a huge Castle fan even though the writing is weak...\"",
+        "\"Shaun Evans does a brilliant job as young Morse.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and atmospheric",
+      "evidence": [
+        "\"This dark and quirky period drama takes place in Victorian Dublin.\"",
+        "\"It's based on true documents, records and personal notes.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It's sad ITV didn't continue with this series as I like it more than Lewis.\"",
+        "\"It tells of the beginnings of the London hospital located in the roughest and poorest part of London and their successes and self sacrifices in the face of danger and many illnesses before medicine as we know it today.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama, particularly historical and detective genres, and appreciates well-developed characters and narratives. They enjoy slower-paced storytelling with emotional depth and have a notable loyalty to specific actors and series."
+}

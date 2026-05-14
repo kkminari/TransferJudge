@@ -1,0 +1,71 @@
+{
+  "user_id": "AETBVOH6K46FCRXMJ4G2ZW5K3UHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "No specific genres mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great movie! Creative script, good drama, and a little humor added!"
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "No specific pacing preferences mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "We would have purchased the season for aprox 15.00 which is what most season run for, but it was overpriced at 34.00."
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "Absolutely loved this series! Can't wait for season 3!"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Absolutely loved it. Hope to see season 3!!!",
+        "Loved it!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user generally enjoys simple narratives with a good mix of drama and humor, showing a strong emotional connection to the content. They express a willingness to engage with series but have concerns about pricing, indicating a focus on value over high production quality."
+}

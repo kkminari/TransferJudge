@@ -1,0 +1,180 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's enjoyment of drama and thriller can partially translate to books, particularly in genres that emphasize character development and suspense. However, the comedic aspect may not have a direct equivalent in literature, so recommendations should focus on drama and thriller novels.",
+      "transferred_insight": "Prefer drama and thriller novels, with a cautious approach to comedic elements.",
+      "confidence": 0.75
+    },
+    "narrative_complexity": {
+      "decision": "TRANSFER",
+      "rationale": "A preference for simple narratives suggests that the user enjoys straightforward storytelling, which is applicable in both books and films. This indicates a preference for accessible and engaging plots without excessive complexity.",
+      "transferred_insight": "Prefer straightforward, accessible narratives in books.",
+      "confidence": 0.8
+    },
+    "pacing_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's fast-paced viewing preference translates directly to a desire for quick, engaging reads. This suggests a preference for books that maintain a high level of tension and excitement throughout.",
+      "transferred_insight": "Prefer fast-paced, engaging books that keep the reader on the edge of their seat.",
+      "confidence": 0.85
+    },
+    "quality_sensitivity": {
+      "decision": "PARTIAL",
+      "rationale": "While the user values high production quality in films, this sensitivity may not directly apply to books. However, it suggests a preference for well-reviewed and polished literary works.",
+      "transferred_insight": "Prefer highly-rated and well-crafted books.",
+      "confidence": 0.7
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user's low brand loyalty indicates that they do not have a strong attachment to specific authors or creators, which does not translate into book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's preference for visual spectacle is specific to film and does not apply to the literary medium, where visual elements are not a factor.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high emotional engagement with stories suggests a preference for books that evoke strong feelings and resonate on a deeper level, which is applicable across both media.",
+      "transferred_insight": "Prefer emotionally impactful books that evoke strong feelings.",
+      "confidence": 0.8
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "B082J19WTQ",
+      "title": "Wanted by Her Two MC Men (Curvy Women Wanted Book 19)",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This thriller features a fast-paced plot with emotional stakes, aligning well with the user's preferences for drama and thrillers. The straightforward narrative style makes it accessible and engaging."
+    },
+    {
+      "rank": 2,
+      "item_id": "0123456789",
+      "title": "Sweet Revenge (Goldy Culinary Mystery, Book 14)",
+      "score": 0.82,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This mystery combines elements of drama and suspense with a fast-paced narrative, appealing to the user's love for thrillers and emotional engagement."
+    },
+    {
+      "rank": 3,
+      "item_id": "B00652Y1OS",
+      "title": "The Pilot's Daughter",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This thriller offers a gripping story with emotional depth, matching the user's preference for fast-paced narratives that resonate emotionally."
+    },
+    {
+      "rank": 4,
+      "item_id": "B003WUYRBI",
+      "title": "London Fields (Vintage International)",
+      "score": 0.78,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This novel combines elements of drama and dark humor, providing a straightforward narrative that keeps the reader engaged while exploring emotional themes."
+    },
+    {
+      "rank": 5,
+      "item_id": "B048511402X",
+      "title": "The Man Behind the Bridge: Colonel Toosey and the River Kwai",
+      "score": 0.76,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This historical narrative offers a compelling story with emotional depth, appealing to the user's preference for engaging and impactful storytelling."
+    },
+    {
+      "rank": 6,
+      "item_id": "B000OK0CNQ",
+      "title": "Tempter",
+      "score": 0.75,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book features a straightforward narrative with elements of suspense and emotional engagement, aligning well with the user's preferences."
+    },
+    {
+      "rank": 7,
+      "item_id": "B004R96TMI",
+      "title": "Prom",
+      "score": 0.74,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This coming-of-age story combines drama and emotional resonance, with a fast-paced narrative that appeals to the user's reading preferences."
+    },
+    {
+      "rank": 8,
+      "item_id": "B0182PS2XQ",
+      "title": "Arcadian Nights: Stories from Greek Myths by John Spurling (2015-09-24)",
+      "score": 0.72,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This collection of stories offers engaging narratives with emotional depth, appealing to the user's preference for drama and thrillers."
+    },
+    {
+      "rank": 9,
+      "item_id": "B000CRTKM0",
+      "title": "Guideposts Condensed Books",
+      "score": 0.7,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This collection features various stories that resonate emotionally, with straightforward narratives that align with the user's preferences."
+    },
+    {
+      "rank": 10,
+      "item_id": "B000QA5OM8",
+      "title": "Transistor Technology Volume 1",
+      "score": 0.68,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "While this book is more technical, it offers clear and accessible narratives that may appeal to the user's preference for straightforward storytelling."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference were blocked due to their medium-specific nature and low transferability.",
+  "overall_strategy": "Focused on the user's strong preferences for drama, thrillers, and emotional engagement while ensuring recommendations feature straightforward narratives and fast pacing. Blocked patterns that would lead to negative transfer."
+}

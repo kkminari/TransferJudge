@@ -1,0 +1,75 @@
+{
+  "user_id": "AFITYE5KVL75QJDR7DVQVGIFUG5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, musical",
+      "evidence": [
+        "'I LOVE PRINCE'",
+        "'I LOVE WILLIE NELSON'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'Love this movie'",
+        "'OMG! SO AWESOME!!!'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "'So so funny me and my grandson have the whole collection'",
+        "'Love it I LOVE WILLIE NELSON'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "'Not as good as we thought it was going to be'"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "'I LOVE PRINCE'",
+        "'I LOVE WILLIE NELSON'"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "'OMG LOVE it not as good as the first but isn't that how it goes.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'Love this'",
+        "'GRANDSON LOVED IT'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for family-friendly and musical genres, often expressing love for specific artists like Prince and Willie Nelson. They enjoy simple narratives with fast pacing, and their emotional engagement is high, particularly in relation to their grandson's enjoyment of the content."
+}

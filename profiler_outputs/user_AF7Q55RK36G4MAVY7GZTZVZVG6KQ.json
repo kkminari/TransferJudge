@@ -1,0 +1,76 @@
+{
+  "user_id": "AF7Q55RK36G4MAVY7GZTZVZVG6KQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "law enforcement, drama, sci-fi",
+      "evidence": [
+        "\"Best Cop Show Ever\"",
+        "\"Great sci-fi classic\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Four guys get into a bad situation that just keeps getting worse every episode.\"",
+        "\"The bad guys seem to have won, but then there really aren't any good guys in this patch of Royal history.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I hate it when I find myself rooting for the bad guys. In spite of that this is a good series.\"",
+        "\"I really liked this show. The actors, especially Tim Roth were amazing. The story lines were suspenseful and character interactions and relationships were captivating.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is good and the characters are interesting.\"",
+        "\"The characters and special effects are great. You can almost believe they are real.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I generally avoid FBI shows, this one is good, perhaps because it bears little resemblance to the real FBI.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The characters and special effects are great. You can almost believe they are real.\"",
+        "\"Listening to the complex symphonic theme music at the beginning and end of each episode almost makes watching an episode worthwhile.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The family dynamic is very touching.\"",
+        "\"Extremely well done. The bad guys seem to have won, but then there really aren't any good guys in this patch of Royal history.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys law enforcement dramas and sci-fi series, often appreciating strong character dynamics and engaging storylines. They show a preference for fast-paced narratives with high production quality, while also valuing emotional depth in the content they consume."
+}

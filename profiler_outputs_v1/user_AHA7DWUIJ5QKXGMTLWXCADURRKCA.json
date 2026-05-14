@@ -1,0 +1,77 @@
+{
+  "user_id": "AHA7DWUIJ5QKXGMTLWXCADURRKCA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, family, romance",
+      "evidence": [
+        "\"A powerful portrayal by gifted actors in a timeless story.\"",
+        "\"This series is worth buying because it is SO much better when we can watch all seasons continuously... a captivating love story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"I think the movie script could (and SHOULD) have been improved by a simple explanation...\"",
+        "\"I found it interesting and, unlike some reviewers, didn't mind the docudrama format.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I think it could have been whittled down by about 15-20 minutes...\"",
+        "\"...captivating love story - by the end, I think we all want Daniel and Erin to be in a strong, happy marriage in real life.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent! And guess what? A well-made production can convey the nastiness of bad guys without all the foul language...\"",
+        "\"...the darkness associated with the evil queen is over the top. Everything else is superb!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I can't imagine anyone but Richard Harris as King Arthur.\"",
+        "\"...the stellar acting of the incomparable Gregory Peck and Charlton Heston...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"...the music in this one can be a little too sharp and loud but it was pretty.\"",
+        "\"...the timeless music - to my heart's content.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...I can identify to an extent and cry with all those impacted by the hurt and disappointment...\"",
+        "\"Real life story of redemption and forgiveness. A must-see for anyone who has struggled to forgive.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and emotional storytelling, often appreciating high production quality and strong performances. They enjoy narratives that evoke deep feelings, though they have mixed feelings about pacing and narrative complexity."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AH6DYU7RO5VXCJ6X3W6HCRTFYZXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, romance",
+      "evidence": [
+        "\"Hilarious! Whole family loved it and declared it the best one yet!\"",
+        "\"Outstanding acting coupled with nuanced writing and assured direction makes this a film that resonates about love and life.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Slow pace, pedantic writing, stereotypical characters, predictable plot\"",
+        "\"Just as the first season seemed to predict the rise of reality TV, the second season was ahead of the 'Me Too' curve, demonstrating the callousness of men towards women in writing and producing\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Slow pace, pedantic writing, stereotypical characters, predictable plot\"",
+        "\"Exquisitely directed film with nuanced acting. The ending(s) just didn't fit the character's developmental arc.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Every aspect of the show was great - acting, directing, writing, production.\"",
+        "\"Exquisitely directed film with nuanced acting.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "No strong loyalty to directors or actors evident."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"A true adventure story, well told.\"",
+        "\"The filmmakers do a fine job of combing their personal history with a more objective view of The Farm.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Outstanding! Hearwarming, inspiring and heart breaking. This true story must be seen!\"",
+        "\"Sensitive, funny, and lovingly done. A great view into arranged marriage in this country.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and dramas with strong emotional resonance and high production quality. They have mixed feelings about narrative complexity and pacing, indicating a preference for engaging storytelling but with some reservations about predictability and pacing issues."
+}

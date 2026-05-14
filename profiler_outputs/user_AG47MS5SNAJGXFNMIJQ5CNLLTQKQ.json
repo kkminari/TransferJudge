@@ -1,0 +1,77 @@
+{
+  "user_id": "AG47MS5SNAJGXFNMIJQ5CNLLTQKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy, drama, sci-fi",
+      "evidence": [
+        "\"I love big dumb action movies, they're my bread and butter.\"",
+        "\"I'm a HUGE Bond fan.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The plot isn't exactly the sharpest but the show manages to push through that...\"",
+        "\"It's more complex, more thrilling, and more entertaining.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The clips along at a good pace, and there is hardly any filler.\"",
+        "\"I like to consider myself a sort of action movie connoisseur...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The acting is hilarious, the fight scenes are fun to watch...\"",
+        "\"The picture quality is amazing and the soundtrack has never sounded better.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for specific actors/directors",
+      "evidence": [
+        "\"I love JCVD...\"",
+        "\"I'm a huge Batman fan.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It's so self-aware...\"",
+        "\"The movie is dripping with attitude.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It's a great addition to the Drafthouse Films collection.\"",
+        "\"It's the type of series that hooks you from the first episode and doesn't let you go.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and comedy genres, often enjoying films that are fast-paced and entertaining. They appreciate both the emotional depth and the engaging narratives, while showing loyalty to specific actors like Jean-Claude Van Damme and franchises like Bond and Batman."
+}

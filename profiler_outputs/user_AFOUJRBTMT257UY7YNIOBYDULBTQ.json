@@ -1,0 +1,74 @@
+{
+  "user_id": "AFOUJRBTMT257UY7YNIOBYDULBTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "wholesome, family-friendly, light romance",
+      "evidence": [
+        "\"Wholesome movie, a nice change\"",
+        "\"Good clean movie which had some sweet romance!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good story, beautiful horse\"",
+        "\"Good story line with some amazing horses\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"a bit slow in places but a good message\"",
+        "\"Really kept my interest, good story line...good ending.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Was entertaining with some funny parts\"",
+        "\"Funny and some good humor throughout the movie, kept my interest\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"awesome scenery and story line and the most beautiful horses\"",
+        "\"uplifting film, good story line\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"uplifting film, good story line\"",
+        "\"Good concept to bring her daughter into the picture, she had doubts but came to realize that she could not move forward without God.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys wholesome, family-friendly films with simple narratives and uplifting themes. They appreciate good storylines and emotional resonance, though they have mixed feelings about pacing and production quality."
+}

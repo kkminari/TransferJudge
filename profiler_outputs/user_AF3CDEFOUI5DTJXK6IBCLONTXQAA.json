@@ -1,0 +1,77 @@
+{
+  "user_id": "AF3CDEFOUI5DTJXK6IBCLONTXQAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, Christmas, cozy mystery",
+      "evidence": [
+        "\"This was a fun and sweet Christmas movie that can be enjoyed by the entire family.\"",
+        "\"Perfect cozy mystery that is fun, charming, and suspensful.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The film is constanly moving and I rooted for the protagonist right from that start!\"",
+        "\"The plot has a nice pace and the acting is great.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The film is constanly moving and I rooted for the protagonist right from that start!\"",
+        "\"The movie has a nice pacing, is funny, charming, and all around entertaining!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I was looking forward to this movie being a fun Christmas film to share with the family, but instead was disappointed with a slow story, poor plot design, and boring characters.\"",
+        "\"The stories were a little slow and some of the plot points were not believable.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Hallmark",
+      "evidence": [
+        "\"One of the best Hallmark movies I've seen, and there are lots of them!\"",
+        "\"A great collection for Hallmark fans who like a touch of magic in their movies!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"A very heart-warming family film! The plot has a nice pace and the acting is great.\"",
+        "\"The film has a nice uniqueness that makes it very original in concept and storytelling!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A charming Christmas movie about acceptance, forgiveness, and love.\"",
+        "\"Very intriguing and captivating!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly films, particularly Christmas and cozy mysteries, with a preference for fast-paced narratives. They show strong loyalty to Hallmark productions and appreciate emotional resonance in storytelling, while being less concerned with production quality."
+}

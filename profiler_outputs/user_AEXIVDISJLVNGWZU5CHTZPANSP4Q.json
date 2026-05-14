@@ -1,0 +1,77 @@
+{
+  "user_id": "AEXIVDISJLVNGWZU5CHTZPANSP4Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, mystery",
+      "evidence": [
+        "the 2004 version of North and South is perhaps my favorite period drama of all time",
+        "I absolutely love this series. They are much better than the books"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "weak and predictable story line",
+        "the story line and acting in this program were excellent"
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "the first few minutes of this movie, during which her determination since childhood is described, I found tedious",
+        "the combination of humor, gorgeous scenery, series topics and the characters' flaws make this an excellent series"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the acting is outstanding, the costumes and set are gorgeous",
+        "the story line and acting in this program were excellent"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I have read all of the Maigret mysteries available in English, and seen the English language films",
+        "I thought that the story line and acting in this program were excellent"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "the sheer force of nature - the surf pounding the shore, the gale-force winds and rain lashing the stone house",
+        "this series is beautiful, subtle and moving"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "You feel all the pain",
+        "this movie is as passionate and gripping as the whirlpool pulling the main characters into its vortex"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and romance, particularly in period settings, and appreciates high production quality. They enjoy emotionally resonant stories with rich character development, though they may prefer simpler narratives and slower pacing."
+}

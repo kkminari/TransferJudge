@@ -1,0 +1,77 @@
+{
+  "user_id": "AHNF6SGUCYLEA35ULQYYCVLJMGXQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, extreme horror, art house",
+      "evidence": [
+        "\"This is what real horror movies should do; shock the audience and make them feel as uncomfortable as possible.\"",
+        "\"If you're a fan of real horror - not Blumhouse style of horror - you should check it out.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"This film requires your full attention to dialogue and little things tucked away in the background.\"",
+        "\"Guadagnino shows the utmost respect in recreating the story while adding his own personal touch to it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Yes, this movie is slow paced and takes time to develop story and character.\"",
+        "\"It's an art house, slow burn horror comparable to something like The Witch or Lars Von Trier's Anti-Christ.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"This release has amazing PQ & AQ, a booklet with liner notes on the film and a hard slipcover.\"",
+        "\"It's a well made movie with great practical effects, NOT CGI as one reviewer stated.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Dario Argento, Luca Guadagnino",
+      "evidence": [
+        "\"One of my favorite Dario Argento films...\"",
+        "\"I would highly recommend this movie to anyone who is a fan of art house cinema and or horror movies.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric",
+      "evidence": [
+        "\"Great performances from the cast with some strange and creepy atmosphere.\"",
+        "\"This is a beautifully well made movie that held my interest...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"If you're looking for a popcorn horror with jump scares and blood and gore you might want to pass.\"",
+        "\"This is what real horror movies should do; shock the audience and make them feel as uncomfortable as possible.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror films, particularly those that are extreme and art house in nature. They appreciate complex narratives and slow pacing, valuing high production quality and strong performances. The user shows loyalty to notable directors like Dario Argento and Luca Guadagnino, indicating a refined taste in the horror genre."
+}

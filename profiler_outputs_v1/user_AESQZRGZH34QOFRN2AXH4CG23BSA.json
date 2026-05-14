@@ -1,0 +1,74 @@
+{
+  "user_id": "AESQZRGZH34QOFRN2AXH4CG23BSA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "psychological, drama, comedy",
+      "evidence": [
+        "\"there's a difference in sci-fi and psychological, this was psychological.\"",
+        "\"I love comedy and the truth makes it better and more funny\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Pay attention or be lost. Good acting and drama\"",
+        "\"Good movie if you like one of those murder mystery things that’s more psychological with reasoning.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Predictable, but good psycho acting by Russell\"",
+        "\"A good old fashioned tear jerker with some laughs along the way!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Good acting in a true story that shows the hardships of bullying and society displaying their opinion.\"",
+        "\"Very good character per trails. Especially for a reenactment of a true story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Good movie if you know football and gambling and like drama.\"",
+        "\"Good movie of you like twisters\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Sentimental, understanding, priceless tearjerker that show the price of life and how to appreciate it\"",
+        "\"Very good acting helps make it a very touching movie.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys psychological dramas and comedies, often appreciating complex narratives and high-quality acting. They have a strong emotional connection to the content, favoring films that evoke deep feelings and resonate on a personal level."
+}

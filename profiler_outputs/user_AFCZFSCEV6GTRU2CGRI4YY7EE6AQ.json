@@ -1,0 +1,76 @@
+{
+  "user_id": "AFCZFSCEV6GTRU2CGRI4YY7EE6AQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary, psychological thriller",
+      "evidence": [
+        "\"Perfect for history lovers!\"",
+        "\"This is one of the best dramas on TV.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story lines for this show just keep getting juicier.\"",
+        "\"It felt natural... like it was always going to end this way.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I binge watched season 1 in 2 days!\"",
+        "\"I watched season 1 & season 2 in 2 DAYS!!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"You can tell the producers spent a lot of money on the production of this film but the storyline and premise is insulting to my intelligence.\"",
+        "\"I wish they wouldn't have shown her breast cancer scars. It's a little too much for me!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Spike Lee",
+      "evidence": [
+        "\"I have watched a lot of Spike Lee films in the past and loved them.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I enjoyed getting the backstory on Beth and the shooting.\"",
+        "\"It goes way beyond stealing, it explores the psyche of the teens.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I felt emotionally attached to the younger characters.\"",
+        "\"This is one of my favorite series I ever watched!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fast-paced dramas and documentaries, often binge-watching series. They appreciate emotional depth and character development, particularly in works by Spike Lee, while showing less concern for production quality."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFN6UPQEKQUALSTZ76F7ISMT6KOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "spy, action, drama",
+      "evidence": [
+        "Absolutely the best entertainment there is if you like: spies, guns, spy services for countries, delight, some killings, many beatings, some quite vicious, and spilling of blood.",
+        "This show has a great deal of humanity, competence in its producing, a very believable science-fiction story which JUST ABOUT COULD ACTUALLY HAPPEN."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "THERE IS NO MESSAGE OF RIGHT OR WRONG HERE//NOTHING ENLIGHTENING//NOTHING SUPER UNIQUE///BUT IT IS ENTERTAINING//THAT IS ABOUT IT!!",
+        "A low-budget sort-of-a-woman's picture, a B Movie, with very little story(really), but sometimes a man gets sick of SIRLOIN STEAK AND BIG BUDGET PICTURES."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Don't even think about watching anything else, after you watch an hour of '24/Live Another Day,' because it powers up your senses.",
+        "WOULD I WANT THOSE GUYS AFTER ME, WHEN I SEE THOSE SHIPS COMING IN MY DIRECTION, I TURN INTO A ROCKET ENGINE--FAST."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "A VERY HIGH QUALITY WORK, FOR THE CIA AND THE WAY THESE AMERICAN PATRIOTS, WORK!!",
+        "superb cast who does a fine job// hard to believe this terrific work is on American TV."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Frankly, I DID NOT EXPECT THE CW NETWORK would be capable of turning out such great realistic ENTERTAINMENT!!",
+        "I am very happy for her/SHE LOOKS REALLY, REALLY HAPPY IN WEDDING PHOTOGRAPHS."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "This is really very, very exciting spy stuff.",
+        "it powers up your senses, and so everything else looks like you are watching 'paint drying.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "THERE IS NO MESSAGE OF RIGHT OR WRONG HERE//NOTHING ENLIGHTENING//NOTHING SUPER UNIQUE///BUT IT IS ENTERTAINING//THAT IS ABOUT IT!!",
+        "I watched it all the way through, hoping she would get a 2nd chance against the two men who attempted to rape her."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced, high-quality entertainment, particularly in the spy and action genres. They appreciate engaging narratives but do not seek deep emotional or complex storytelling, favoring straightforward entertainment instead."
+}

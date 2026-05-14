@@ -1,0 +1,77 @@
+{
+  "user_id": "AHE7FSSQOFZOKYXEZA5T5IQSRRRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action, adventure, animation, sci-fi",
+      "evidence": [
+        "\"If you love samurai dramas, this is something to watch!\"",
+        "\"This animated movie was well done!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The plotline is heartbreaking, as is the end, but overall, it is worth having your heart broken.\"",
+        "\"I recommend watching this movie, at least more than once to understand it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It was amazing! I look forward to new Marvel movies!\"",
+        "\"The danger just gets bigger, and bigger, yet, the entertainment never gets old!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"This movie is great! Recommended for all ages!\"",
+        "\"It was beautifully rendered, and just shows that the larger than life characters on the screen are portrayed by people.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I look forward to new Marvel movies!\"",
+        "\"Agent Margaret 'Peggy' Carter once again graces the tv screen with her beautiful yet tough as nails self!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"I love watching this show. I can see different places without leaving my house.\"",
+        "\"It reminded me of events in human history, and how greed can consume people. Beautifully done!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Very moving. This is a story about a boy that can move objects with his mind.\"",
+        "\"The plotline is heartbreaking, as is the end, but overall, it is worth having your heart broken.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for emotionally resonant dramas and action-adventure films, often appreciating high production quality. They enjoy narratives that evoke deep feelings and are drawn to visually stunning and immersive experiences."
+}

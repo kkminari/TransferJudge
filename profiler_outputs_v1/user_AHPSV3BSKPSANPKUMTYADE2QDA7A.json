@@ -1,0 +1,77 @@
+{
+  "user_id": "AHPSV3BSKPSANPKUMTYADE2QDA7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "crime, drama, comedy",
+      "evidence": [
+        "\"One of the best crime stories I have seen in recent years.\"",
+        "\"Great writing. Amazing blend of comedy and sorrow.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Very entertaining with enough twists to keep you on your toes.\"",
+        "\"Terrific cast delivering complicated human stories.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"If you were a fan of West Wing, you will love this. Don't start watching it unless you are prepared to marathon the entire series.\"",
+        "\"Great quirky characters, witty dialogue, and an excellent soundtrack.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Well written with excellent performances and production values.\"",
+        "\"Superbly acted and directed.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Aaron Sorkin, Christopher Guest",
+      "evidence": [
+        "\"Sorkin at his best. Sharp, funny, well written.\"",
+        "\"It has Christopher Guest's hallmarks all over it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory engagement",
+      "evidence": [
+        "\"Great writing and pseudo documentary style humor.\"",
+        "\"Great characters, entertaining dialog, fine acting.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"You will come to care about every one of them.\"",
+        "\"Thought provoking edgy drama with great writing and riveting performances.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for crime and drama genres, appreciating complex narratives with engaging characters and high production quality. They show loyalty to notable creators like Aaron Sorkin and Christopher Guest, and value emotional depth in storytelling."
+}

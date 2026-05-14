@@ -1,0 +1,76 @@
+{
+  "user_id": "AHTFDW3RS4YR6QSFZIIBON5NF4CQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, historical, Christian-themed",
+      "evidence": [
+        "\"Christian films are getting better and better.\"",
+        "\"Band of Brothers is masterful, a story powerfully and wonderfully, and well told.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It is a beautiful story, well told, and I will buy it because it is one of the few DVD movies I would put in a home library.\"",
+        "\"The story is concise yet professionally done.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The series certainly comes out better than many current movies in the theatre.\"",
+        "\"It does not go overboard. It is accurate, believable, yet told in with the most modern means of film making.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I was rather struck by the quality of writing AND production.\"",
+        "\"Wonderful production, wonderful actors.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I think Churches could use it profitably to talk about faith and how it should express itself in day to day life.\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"You will understand how soldiers become a band of brothers. I swear, you feel like you are there.\"",
+        "\"It tells a pungent, concise story of what happened in Benghazi.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Emotional response. I have not read the book.\"",
+        "\"It is a beautiful story, well told, and I will buy it because it is one of the few DVD movies I would put in a home library.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for well-produced documentaries and historical narratives, particularly those with Christian themes. They appreciate quality storytelling that evokes emotional responses and prefer slower-paced narratives that allow for deeper engagement with the material."
+}

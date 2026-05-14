@@ -1,0 +1,77 @@
+{
+  "user_id": "AEQPZEBLERCEBTGFPTGZCTZHDIOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "crime, drama, comedy",
+      "evidence": [
+        "\"Good cast, complex but not convoluted, likable and believable.\"",
+        "\"The show is funny and well acted but sometimes a little over the edge.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Good cast, complex but not convoluted, likable and believable.\"",
+        "\"The film was a very good synopsis of the novel.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Not up to many of the British crime series but worth watching although I doubt you will want to binge watch it.\"",
+        "\"Believable, well acted, if somewhat predictable at times.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great acting by the leads and supporting cast.\"",
+        "\"PBS at its best............I like this better than 'Lewis' but less than the original Morse series.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"i still like Luther the best of the Brit cop series.\"",
+        "\"I suggest you watch the original W(V)alander series also if you enjoy this.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"What a wonderful series and time capsule of the years following WWII and the difficulties of returning to normalcy after being such an integral part of the war effort.\"",
+        "\"Entertaining but nowhere as good as the book that was awesome.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"What a wonderful series and time capsule of the years following WWII and the difficulties of returning to normalcy after being such an integral part of the war effort.\"",
+        "\"I dislike some of the characters which does not distract from my enjoyment.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex crime and drama series with strong acting and production quality. They appreciate engaging storylines and emotional depth, although they have mixed feelings about pacing and brand loyalty."
+}

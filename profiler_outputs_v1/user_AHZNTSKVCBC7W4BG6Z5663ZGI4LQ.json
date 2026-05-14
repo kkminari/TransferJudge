@@ -1,0 +1,77 @@
+{
+  "user_id": "AHZNTSKVCBC7W4BG6Z5663ZGI4LQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, fantasy, action",
+      "evidence": [
+        "\"Cinderella three movie collection is great for little kids\"",
+        "\"great for your twilight collection\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great movie\"",
+        "\"Good to have if you’re a fan\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"A great movie to watch\"",
+        "\"this finished my Hellraiser collection\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"1 of the best buys to date\"",
+        "\"another great purchase by me\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Power Rangers, Twilight",
+      "evidence": [
+        "\"a must have for power ranger fans\"",
+        "\"great for your twilight collection\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"best to get if you like the originals\"",
+        "\"Good purchase, but some episodes have sound issues\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"1 of the best Christian Movies\"",
+        "\"Great to have if you grew up watching this show\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for family-friendly and fantasy genres, particularly enjoying series and collections that cater to nostalgic interests. They value straightforward narratives and fast pacing, with a notable loyalty to franchises like Power Rangers and Twilight."
+}

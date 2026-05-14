@@ -1,0 +1,77 @@
+{
+  "user_id": "AGARQDOE4BFFJAMV6SWP5VH74PVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy",
+      "evidence": [
+        "\"seminal Zucker brothers effort. Stands by itself as a gut-bustingly clever, irreverent comedy;\"",
+        "\"this movie was the first (popularly successful), breaking new ground for cinematic comedy, and is packed to the gills with quotable lines.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Hits all the right notes for entertainment, as well as being a masterful exhibition of mastery of the craft.\"",
+        "\"Funny, clever, silly, largely entertaining due to the personalities of the presenters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"over before I was ready. Definitely not a Hollywood formula product.\"",
+        "\"a gut-bustingly clever, irreverent comedy; fans of later Zucker triumphs will recognize embryonic gags, lines, plots and other elements.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"well done all around: writing, acting, directing, editing, cinematography.\"",
+        "\"stiff acting, stilted writing, amateurish editing, all props and costumes fresh, new and clean.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Zucker brothers, Abrahams/Zucker/Zucker",
+      "evidence": [
+        "\"If you appreciate this (or other) Abrahams/Zucker/Zucker laugh riots, treat yourself to a heaping helping of 'Kentucky Fried Movie'\"",
+        "\"fans of later Zucker triumphs will recognize embryonic gags, lines, plots and other elements.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"the familiar but wickedly clever writing never fail to entertain.\"",
+        "\"engaging characters, well told.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"A real downer of a story, engaging characters, well told.\"",
+        "\"the underlying humor will surely be obvious to all.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy, particularly works by the Zucker brothers and similar creators. They appreciate high production quality and engaging storytelling, favoring fast-paced narratives that are clever and entertaining."
+}

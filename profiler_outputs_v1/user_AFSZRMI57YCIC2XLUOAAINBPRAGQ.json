@@ -1,0 +1,76 @@
+{
+  "user_id": "AFSZRMI57YCIC2XLUOAAINBPRAGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, thriller, comedy",
+      "evidence": [
+        "\"This film has always been one of my favorites from Arnold, ever since I was 12 years old.\"",
+        "\"Vacation, in a nutshell, is a hilarious disaster waiting to happen.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"...the movie falsely climaxes at the end with a few dead people, no real resolution, and little explanation of anything.\"",
+        "\"...the film leaves a lot to be desired by the viewer.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"...this whole 2 hour stretch focused on the first 25 minutes of the original Left Behind.\"",
+        "\"...the movie became one of the biggest ADD plot deviations of all time.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Bad acting, bad scripts, bad production.\"",
+        "\"...the DVD has almost NO options...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I believe there are two different versions of this DVD; one has the full screen version and THX Surround Sound...\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"...the audio and visual effects of this DVD are AWESOME...\"",
+        "\"...the battle is against the mayor of the town, who has a bloodthirsty lust to exterminate all of the 'ambassadors of the Gospel...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"...the film leaves a lot to be desired by the viewer.\"",
+        "\"...I regret spending a dollar to rent this. Please skip it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for action and comedy genres, but has a low tolerance for poor production quality and narrative complexity. They tend to favor visual spectacle but are often left disappointed by the emotional impact and pacing of the films they watch."
+}

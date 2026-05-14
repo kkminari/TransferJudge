@@ -1,0 +1,77 @@
+{
+  "user_id": "AGKNDWTTS6L2TUOKQOWRLZ36AR5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "western",
+      "evidence": [
+        "\"Best western of all time. Good quality.\"",
+        "\"My favorite western series. Good stories.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good stories.\"",
+        "\"Very enjoyable western. Good quality.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Good stories.\"",
+        "\"I really enjoyed this series of movies.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Picture quality and sound are very good.\"",
+        "\"Good quality, cannot wait for season two.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"big Danzel fan.\"",
+        "\"James Arness great as Marshall Dillon.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory quality",
+      "evidence": [
+        "\"all have good picture quality and sound.\"",
+        "\"Picture and sound quality were very good.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I was disappointed in this movie. Kathi\"",
+        "\"Entertaining.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for westerns, appreciating both the quality of production and the simplicity of storytelling. They enjoy good visual and auditory experiences but show mixed feelings towards emotional engagement and brand loyalty."
+}

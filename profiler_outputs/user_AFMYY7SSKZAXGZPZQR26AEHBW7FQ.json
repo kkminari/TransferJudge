@@ -1,0 +1,71 @@
+{
+  "user_id": "AFMYY7SSKZAXGZPZQR26AEHBW7FQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"great family movie\"",
+        "\"great story line\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"great story line\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"great family movie\"",
+        "\"fantastic family movie\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"the studio did a good job getting the message across\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.1,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"great story line\"",
+        "\"fantastic family movie\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I recommend it to my friends and family\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user expresses a general appreciation for family-oriented movies with simple storylines. However, their reviews lack depth and specific preferences, making it difficult to ascertain strong genre or emotional preferences."
+}

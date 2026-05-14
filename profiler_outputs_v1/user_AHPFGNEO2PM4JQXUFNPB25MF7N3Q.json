@@ -1,0 +1,77 @@
+{
+  "user_id": "AHPFGNEO2PM4JQXUFNPB25MF7N3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, action, adventure",
+      "evidence": [
+        "\"Uplifting story of a family struggling with sickness and their ability to overcome obstacles in their path.\"",
+        "\"Entertaining adventure story and characters well worth the rental price.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good easy going straight forward entertaining movie.\"",
+        "\"Predictable!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This one starts out calm but in usual 007 style takes off like a rocket.\"",
+        "\"Gritty straight forward action. In your face nonstop.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Cinematography is above average and acting is well done.\"",
+        "\"The only good you can take from this movie is remember your wedding vows and be true to your family.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for Bond films",
+      "evidence": [
+        "\"One of my favorite films.\"",
+        "\"One of the best Bond films ever.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Special effects outstanding.\"",
+        "\"Cinematography was excellent I would highly recommend this to anyone interested in nature.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Warms your heart to see the relationship grow and the bond strengthened as time goes by.\"",
+        "\"True tale of man's ability to persevere.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented films with fast pacing and a preference for visual spectacle. They appreciate straightforward narratives and show a strong loyalty to the Bond franchise, valuing emotional resonance in their viewing experiences."
+}

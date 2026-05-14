@@ -1,0 +1,77 @@
+{
+  "user_id": "AH6YK44UR7IEEID2QKJ4THY73LRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action, mystery",
+      "evidence": [
+        "Unusual mystery...drama. little twists and turns..",
+        "Love the action and underlying values."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "Multiple plots.",
+        "The plot..holds strong. Does not crumble."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Excellant..fast moving, with hidden hints of what is up with this..",
+        "Love the action and underlying values."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The visuals are realistic, characters are believable, the story line keeps me involved.",
+        "actors are so not acting ...like they are 5he real xharacters"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I find dwayne Johnson...always presents a strong character.",
+        "I am a transformer fan..love the computers generated imagery."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "love the computers generated imagery",
+        "The visuals are realistic, characters are believable."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Deals with death and life on the same time line.",
+        "Captures my human interest with personal business intertwining."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fast-paced dramas and action films with complex narratives and high production quality. They appreciate visual spectacle and emotional depth in storytelling, indicating a taste for engaging and immersive experiences."
+}

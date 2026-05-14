@@ -1,0 +1,74 @@
+{
+  "user_id": "AFJF274IUSLTRIZFRL5S5OMKENPA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's shows",
+      "evidence": [
+        "\"Daniel Tiger's Neighborhood is a wonderful show for kids.\"",
+        "\"A really good kids show without a lot of mature themes or violence.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It is perfect for toddlers and kindergarteners.\"",
+        "\"This is a great kids show with a lot of kid humor but adults can still watch and not be bored.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This show is a big hit in our house! It's hard to find that keep kids engaged but this show does quite well.\"",
+        "\"Mater is hilarious! Good value for the $$$$!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"It is hard to find good quality kids shows.\"",
+        "\"This is a great kids show. My niece and nephew just love Fireman Sam.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual humor",
+      "evidence": [
+        "\"This is a funny show. It is a silly, funny show that kids can watch.\"",
+        "\"Super cute movie. The bugs in this movie are soooooo cute!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"My niece and nephew love this movie. This is a great kids movie as there is lots of great characters and action.\"",
+        "\"Nephew loves this movie. I bought this on my kindle and he loves watching it again and again.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for children's shows that are simple and engaging, with a focus on humor and educational content. They value high production quality and emotional resonance, particularly in shows that entertain both kids and adults."
+}

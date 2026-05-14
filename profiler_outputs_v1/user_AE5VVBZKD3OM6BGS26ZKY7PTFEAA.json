@@ -1,0 +1,77 @@
+{
+  "user_id": "AE5VVBZKD3OM6BGS26ZKY7PTFEAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action",
+      "evidence": [
+        "\"Action packed.\"",
+        "\"A source of joy and entertainment! Poirot is a full-rounded character who carries each case from inception to fruition with 'grace' and ease.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Found the storyline to be complicated and so was able to go for a coffee break a couple of times.\"",
+        "\"The story bears the largest responsibility in The Sea of Trees.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It is not necessary for a movie to have an intelligent 'story'!\"",
+        "\"The story stayed believable (as opposed to other stories about Mars where preachiness can get in the way).\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"A film's story is always the final arbiter for a successful film but acting, directing and production values must provide equal measure for that overall success to transcend.\"",
+        "\"Writing, acting, directing and production are first class and set a very high standard indeed!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Love Naomi Watts' film work. She provides a lot more than simple female lead creds she carries her films.\"",
+        "\"I have not written many film reviews over the past year or so because, honestly, I have not been moved by the majority for the films I have watched during that timeframe.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"I make it a habit to re-watch the 'Unforgiven' around once a year for the purpose of rekindling my ability to 'smell' the rain.\"",
+        "\"The audience is provided with the rationale and the necessary back-story of his wife's personality and her diminishment as she becomes ill and eventually passes away.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I will remember and cherish this story and this film for the rest of my life.\"",
+        "\"The film's production values leap to the center stage with so much pain and sorrow offset by a simple, beautiful, orchid flower that returns late in the story.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for drama and action films, valuing high production quality and emotional resonance. They appreciate complex narratives but have mixed feelings about pacing, indicating a nuanced taste in storytelling."
+}

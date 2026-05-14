@@ -1,0 +1,77 @@
+{
+  "user_id": "AHPFGNEO2PM4JQXUFNPB25MF7N3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, action, adventure",
+      "evidence": [
+        "\"Uplifting story of a family struggling with sickness and their ability to overcome obstacles in their path.\"",
+        "\"Entertaining adventure story and characters well worth the rental price.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good easy going straight forward entertaining movie.\"",
+        "\"This one kept pace with the times and was not true to the original series.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This pilot episode took off fast and got my attention.\"",
+        "\"Very good story line keeping the viewer totally engaged and feeling part of the journey.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Cinematography was excellent I would highly recommend this to anyone interested in nature.\"",
+        "\"Cinematography is above average and acting is well done.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"One of my favorite films.\"",
+        "\"Bond fans new and old will not be disappointed as the writers have done a great job connecting this secret agents story to date.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Uplifting story of a family struggling with sickness and their ability to overcome obstacles in their path.\"",
+        "\"This documentary was very informative and very entertaining the cinematography was excellent.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Warms your heart to see the relationship grow and the bond strengthened as time goes by.\"",
+        "\"True tale of man's ability to persevere.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys uplifting family stories and fast-paced action films, often appreciating straightforward narratives. They show a moderate sensitivity to production quality and emotional impact, favoring films that evoke strong feelings and connections."
+}

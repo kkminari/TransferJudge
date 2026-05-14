@@ -1,0 +1,74 @@
+{
+  "user_id": "AESVD75VHHELCGHQRRLZ2XYWZJ5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, thriller",
+      "evidence": [
+        "\"I loved this movie. A little James Bond and intrigue and romance.\"",
+        "\"This was a different twist on an old theme.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The story has lots of twists and turns and just when you think you know where the next turn will be, it twists in another direction; love it.\"",
+        "\"Kept me guessing and watching.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I wanted to watch the entire series in one sitting but only the late, wee hours of the evening forced me to turn off the TV.\"",
+        "\"This is an intense, exciting show that I simply can not stop watching.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I was on the edge of my sofa watching this one.\"",
+        "\"The ending was thought-provoking.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I was hooked on this series from the first episode of the first season.\"",
+        "\"Wow, so great. Let me say this: This show is addictive and the worse part of it is when it ends.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I simply did NOT want this one to end.\"",
+        "\"I hope you love it as much as I did. I finished the series a few days ago and am still thinking about it.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama, romance, and thrillers with complex narratives and fast pacing. They value high production quality and emotional resonance, often finding themselves deeply engaged and addicted to the shows they watch."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEAWAXXDJHHRCZVULVBMHAKMTULQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, sci-fi, drama",
+      "evidence": [
+        "a MUST for HORROR Fans.",
+        "I'm all about a scary movie. This qualifies as an interesting sci-fi flick."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great drama, funny and entertaining.",
+        "Very interesting."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Slightly less scary than the original, but the original is my favorite horror movie.",
+        "I wish they could update it or start all over."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I love all of the Universe seasons. I use them to sleep at night to manipulate my dreams.",
+        "Good series, do you doubt HBO??"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Chris Evans, HBO",
+      "evidence": [
+        "Plus, I love Chris Evens.",
+        "Good series, do you doubt HBO??"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I love fantasizing about the newest discoveries (and most up-to-date).",
+        "Loveable, huggable and so endearing."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "One of the best movies ever.",
+        "It still brings joy to my heart."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror and sci-fi genres, often enjoying simple narratives that evoke emotional responses. They show loyalty to specific creators like Chris Evans and HBO, and appreciate content that resonates emotionally, often using it for relaxation and dream manipulation."
+}

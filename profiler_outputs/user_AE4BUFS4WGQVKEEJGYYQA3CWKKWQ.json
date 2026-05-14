@@ -1,0 +1,75 @@
+{
+  "user_id": "AE4BUFS4WGQVKEEJGYYQA3CWKKWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, fantasy",
+      "evidence": [
+        "I love sci-fi. Awesome movie!",
+        "Great Fantasy Movie!!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Simple the best movie and the music so fantastic!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Awesome classic!",
+        "Great Selection! Great Price!! Great Service!!!"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great Selection! Great Price!! Great Service!!!"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Classic Steve Reeves!!",
+        "Loved this movie growing up. Great addition to my Tony Curtis library"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "the music so fantastic!",
+        "Had to have this for the soundtrack!!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Wife's favorite movie! Classic!",
+        "Loved this movie growing up, Classic!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and fantasy genres, enjoying simple narratives with fast pacing. They value emotional resonance and sensory experiences, particularly in music, while showing less concern for production quality and brand loyalty."
+}

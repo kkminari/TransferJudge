@@ -1,0 +1,77 @@
+{
+  "user_id": "AGLP7AQIX573W72GZHHEBMGUMTPA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family, emotional",
+      "evidence": [
+        "\"I can't tell you how long I've waited to get my hands on this movie... it has an amazing way of taking a simple enough storyline, adding a whole lot of emotion...\"",
+        "\"What a beautiful and touching movie... This is one of the most powerful episodes I have ever seen--it's so REAL and therefore incredibly effective.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"It allows her to share what SHE is going through and tell the story of how she, as a four-year-old child, is coping.\"",
+        "\"...the story is incredibly real, as is the acting and the presented situations.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"You need to watch this film with an open heart... only through a wide-open heart can you truly get as much out of this movie as possible.\"",
+        "\"...it's a really GOOD teen movie!!! I'm not sure why or how this film touched me so much, but it truly did.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is unbelievably outstanding--it really is.\"",
+        "\"Great time and diligence must have been put into this movie, and you can really tell.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I can't understand how anybody couldn't like it.\"",
+        "\"...you will never forget this movie.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "emotional depth",
+      "evidence": [
+        "\"...you will most likely be genuinely touched and forever changed by Ponette's lesson.\"",
+        "\"...the story is incredibly real, as is the acting and the presented situations.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...you will most likely be genuinely touched and forever changed by Ponette's lesson.\"",
+        "\"...it's a truly beautiful story that moved me so deeply.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for emotionally resonant dramas that explore complex narratives and character development. They value high production quality and are sensitive to the emotional depth of the stories, often seeking films that leave a lasting impact."
+}

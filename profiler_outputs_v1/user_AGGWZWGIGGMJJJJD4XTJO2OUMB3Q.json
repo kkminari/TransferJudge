@@ -1,0 +1,77 @@
+{
+  "user_id": "AGGWZWGIGGMJJJJD4XTJO2OUMB3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, action",
+      "evidence": [
+        "\"I love this show because its just plain fun.\"",
+        "\"A wonderful production, classic bard, great acting!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Fun closing to an amazing series.\"",
+        "\"I love this show. Fun, entertaining, and interesting.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Watched the first season in just a few days.\"",
+        "\"Fun and entertaining. Costuming and sets are done very well.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great cast as well!\"",
+        "\"Beautiful and thrilling. Hiddleston is once again brilliant and the supporting cast was very good!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love this show. Fun, entertaining, and interesting.\"",
+        "\"I love this production\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"A fun beautifully done movie. It is a feast for the eyes.\"",
+        "\"Wonderful show with amazing backdrops and costuming.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This show makes you feel empathy for the other side.\"",
+        "\"I have been amazed by this movie ever since I saw it years ago.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fun and entertaining content, often with strong visual elements and high production quality. They prefer straightforward narratives and fast pacing, while showing a high emotional engagement with the stories they watch."
+}

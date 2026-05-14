@@ -1,0 +1,77 @@
+{
+  "user_id": "AE2GD63V4JJD7D6Y3JPN72PQRBJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, legal drama",
+      "evidence": [
+        "\"Fascinating period piece, well written, well acted, and the subject is worthy and historical.\"",
+        "\"I love legal dramas if the dialog is bright and crisp and the story makes sense.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story moves along with a decent pacing.\"",
+        "\"It should have been nominated and won more awards.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "moderate",
+      "evidence": [
+        "\"The story moves along with a decent pacing.\"",
+        "\"It draws one in and it is very good.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Superb quality in all respects! Keep them coming!\"",
+        "\"It is just well done and first class all around.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Michael Connelly",
+      "evidence": [
+        "\"I have read nearly all of the Michael Connelly books.\"",
+        "\"This production is first rate. All the actors are well cast.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Felt so real and alive ---all the way around.\"",
+        "\"It delivers the real deal. Tells it like it is, thus very interesting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"So sad, yet so important to honor these men.\"",
+        "\"It should have been nominated and won more awards.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for historical and legal dramas, valuing high production quality and emotional resonance in storytelling. They show loyalty to Michael Connelly's works and appreciate narratives that are engaging yet straightforward."
+}

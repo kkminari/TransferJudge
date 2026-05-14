@@ -1,0 +1,161 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for action, drama, comedy, and thriller films suggests a taste for engaging narratives. This partially translates to books, particularly in genres like thrillers and dramatic fiction, but the tropes and storytelling methods differ between media.",
+      "transferred_insight": "Prefer engaging thrillers and dramatic novels, with some comedic elements.",
+      "confidence": 0.75
+    },
+    "narrative_complexity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's preference for simple narratives in films directly applies to books. They likely enjoy straightforward plots that are easy to follow, avoiding overly complex or literary styles.",
+      "transferred_insight": "Prefer straightforward, easy-to-follow narratives in books.",
+      "confidence": 0.8
+    },
+    "pacing_preference": {
+      "decision": "TRANSFER",
+      "rationale": "A strong preference for fast-paced narratives in films translates directly to a preference for quick, engaging reads in books. This suggests a desire for books that maintain a high level of tension and excitement.",
+      "transferred_insight": "Prefer fast-paced, engaging books that keep the reader on the edge of their seat.",
+      "confidence": 0.9
+    },
+    "quality_sensitivity": {
+      "decision": "PARTIAL",
+      "rationale": "While the user shows high sensitivity to quality in films, this does not directly translate to books. However, they likely appreciate well-written books with strong character development and engaging plots.",
+      "transferred_insight": "Prefer well-written books with strong character development and engaging plots.",
+      "confidence": 0.7
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user's low brand loyalty in films indicates they do not have a strong attachment to specific authors or book series. This pattern does not transfer to book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's preference for visual spectacle and emotional engagement in films does not apply to books, as the sensory experience is fundamentally different. This pattern is medium-specific and should not influence book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "emotional_resonance": {
+      "decision": "PARTIAL",
+      "rationale": "The user values emotional engagement in films, which can partially translate to books. They likely enjoy stories that evoke strong feelings, but the emotional impact can vary significantly between media.",
+      "transferred_insight": "Prefer books that evoke strong emotional responses and resonate on a personal level.",
+      "confidence": 0.75
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "B002LE87RQ",
+      "title": "Fools Rush In (Weddings by Bella, Book 1)",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book combines elements of comedy and drama, aligning with the user's genre preferences. Its straightforward narrative and engaging pacing make it a suitable choice for someone who enjoys fast-paced reads with emotional depth."
+    },
+    {
+      "rank": 2,
+      "item_id": "B039LE87RQ",
+      "title": "African Witch: A Modern Tale of Magical Harm",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference"
+      ],
+      "reasoning": "This thriller set in a vibrant setting offers a fast-paced narrative that aligns with the user's preference for action and drama. The straightforward plot structure makes it accessible and engaging."
+    },
+    {
+      "rank": 3,
+      "item_id": "B0007G2P96",
+      "title": "The Great Buffalo Hunt",
+      "score": 0.75,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This book presents a dramatic historical narrative that is likely to engage the user. Its straightforward storytelling aligns with their preference for simple narratives."
+    },
+    {
+      "rank": 4,
+      "item_id": "B006FLAERW",
+      "title": "The Wireless Officer",
+      "score": 0.7,
+      "applied_patterns": [
+        "narrative_complexity",
+        "pacing_preference"
+      ],
+      "reasoning": "This action-adventure book features a simple narrative structure and is likely to maintain a fast pace, appealing to the user's preferences for engaging and straightforward stories."
+    },
+    {
+      "rank": 5,
+      "item_id": "B000H0OFZO",
+      "title": "BUGGLAR BROTHERS & VEE-DUBB (Read Aloud Topsy-Turvy Library)",
+      "score": 0.65,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This book offers a light-hearted narrative that may appeal to the user's comedic side while maintaining a simple structure, making it an easy read."
+    },
+    {
+      "rank": 6,
+      "item_id": "B0017L4EJ4",
+      "title": "Harmon Genealogy (Southern Branch) with Biographical Sketches, 1700 - 1924",
+      "score": 0.6,
+      "applied_patterns": [
+        "narrative_complexity"
+      ],
+      "reasoning": "While this book is more factual, its straightforward presentation may appeal to the user's preference for simple narratives, providing an engaging read without complexity."
+    },
+    {
+      "rank": 7,
+      "item_id": "B000KO5F7Y",
+      "title": "Batman and Robin - from Alfred to Zowie!",
+      "score": 0.55,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This book offers a fun and engaging narrative that aligns with the user's interest in action and drama, while its simple storytelling makes it accessible."
+    },
+    {
+      "rank": 8,
+      "item_id": "B005DB6QTA",
+      "title": "Print Workshop",
+      "score": 0.5,
+      "applied_patterns": [
+        "narrative_complexity"
+      ],
+      "reasoning": "This book provides straightforward instructions and projects, appealing to the user's preference for simplicity in narratives."
+    },
+    {
+      "rank": 9,
+      "item_id": "B098R56QBP",
+      "title": "No One Goes Alone: A Novel",
+      "score": 0.45,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This novel may offer a dramatic narrative that aligns with the user's interests, though its complexity is uncertain."
+    },
+    {
+      "rank": 10,
+      "item_id": "B0007G2P96",
+      "title": "The Great Buffalo Hunt",
+      "score": 0.4,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This book presents a dramatic historical narrative that is likely to engage the user. Its straightforward storytelling aligns with their preference for simple narratives."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference were blocked due to low transferability to books.",
+  "overall_strategy": "Focused on the user's strong preferences for genre, narrative simplicity, and fast pacing while blocking patterns that do not translate well to the book medium. Recommendations emphasize engaging, straightforward narratives that align with their cinematic tastes."
+}

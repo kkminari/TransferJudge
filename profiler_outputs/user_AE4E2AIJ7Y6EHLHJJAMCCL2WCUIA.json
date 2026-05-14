@@ -1,0 +1,76 @@
+{
+  "user_id": "AE4E2AIJ7Y6EHLHJJAMCCL2WCUIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama",
+      "evidence": [
+        "\"I was looking for a show to watch after GOT and this is NOT it.\"",
+        "\"Disappointed. Too slow and deliberate, plus way too un-realistic for us.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The movie is Boring. no real fighting scenes at all.\"",
+        "\"This movie just steals the title name and throws in some decent action scenes around the same premise.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"the show is so SLOW and BORING.\"",
+        "\"Great action and non-stop entertainment.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Quality seems sub-par.\"",
+        "\"I have really noticed the 'Sound Difference' in these re-made 4K movies.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Disappointed. Too slow and deliberate, plus way too un-realistic for us.\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Great 3D package. Avatar is amazing in 3D, almost an entirely different movie.\"",
+        "\"The enhanced Sound brings a new element to the movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Putrid movie. Very Cheesy.\"",
+        "\"This is purely a rental, definitely not a movie to buy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fast-paced action and is critical of slow narratives, often finding them boring. They value production quality but show little brand loyalty, indicating a focus on entertainment over emotional engagement."
+}

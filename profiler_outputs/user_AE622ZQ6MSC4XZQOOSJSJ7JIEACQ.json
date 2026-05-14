@@ -1,0 +1,76 @@
+{
+  "user_id": "AE622ZQ6MSC4XZQOOSJSJ7JIEACQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, historical, drama",
+      "evidence": [
+        "\"Great movie for youngsters.\"",
+        "\"Love Diana Gabaldon's stories.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Beautiful, uplifting story you can watch over and over.\"",
+        "\"This is an inviting story of life in the '40s...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I wish there had been a little more character development.\"",
+        "\"This is a little boring.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The music is beautiful, and although the story has a sad ending...\"",
+        "\"The storyline shows the difference in classes and yet shows how all humans have similar emotions.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Diana Gabaldon",
+      "evidence": [
+        "\"Love Diana Gabaldon's stories. Have read all of the books in the Outlander series.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Beautiful, uplifting story you can watch over and over.\"",
+        "\"The story line is interesting, sometimes tough to watch...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This film provided insight to other possibilities. I highly recommend this interesting video.\"",
+        "\"The music is beautiful, the story is wholesome, and it is a window to how things used to be.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys uplifting and family-oriented stories, often with historical elements. They show a strong preference for high-quality production and emotional resonance, particularly valuing the works of Diana Gabaldon."
+}

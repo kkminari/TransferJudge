@@ -1,0 +1,74 @@
+{
+  "user_id": "AFWYZO2J2OB5XW574I3YICEV2GTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama",
+      "evidence": [
+        "\"Good family film. Enjoyable for all ages.\"",
+        "\"Shows problems within a family but demonstrates the strength of family members supporting one another.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Light plot, good story and very enjoyable.\"",
+        "\"Simple but pretty enjoyable flick. Good light entertainment.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Movie moves fast, has humor and is enjoyable.\"",
+        "\"Easy to watch flick. Enjoyable.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good acting from great actors.\"",
+        "\"Good movie to watch but you have to watch carefully to keep in touch with what is going on.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "none",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Shows how love can transcend many problems and faith in God can give you strength.\"",
+        "\"Great story and happy ending.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Very good movie revealing trials & tribulations of once successful elderly in retirement.\"",
+        "\"Interesting movie showing the power of friendship and lack of. In the end, love overcomes all.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented films with simple narratives and fast pacing. They appreciate emotional depth and positive messages, often valuing the overall experience over high production quality."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEMFT6HG7CS6ZJWAV6JJ7QWS474A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, comedy, drama",
+      "evidence": [
+        "\"This is an engaging and eye-opening documentary about how America...\"",
+        "\"Anti-hero, dark-comedy, playful parody on the conventional notion of comics and heroes.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The documentary is marred -- quite seriously, in my opinion -- by a delivery that is slow and enervating.\"",
+        "\"The issues I have with it... may not even be issues for other customers.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The delivery that is slow and enervating.\"",
+        "\"Scenes are very short, and the DVD will play through all scenes if left running.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Visually stunning, with a delightfully ethnically divers cast.\"",
+        "\"Brilliant acting, phenomenal music...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love this movie.\"",
+        "\"I am not reviewing the movie, but the Blu-ray DVD.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory ambiance",
+      "evidence": [
+        "\"I wanted something that would provide very background ambiance.\"",
+        "\"The rain sound is very high quality, and it varies subtly and gently over time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A wonderful story with amazing animation... engaging, delightful, and touching.\"",
+        "\"Carey's portrayal of Truman is phenomenal in its depth and breadth of feeling.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and comedies, valuing high production quality and emotional depth. They tend to favor slower pacing and simple narratives, while their brand loyalty is low, indicating a focus on content rather than creators."
+}

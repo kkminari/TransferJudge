@@ -1,0 +1,77 @@
+{
+  "user_id": "AFUFER23B7ZMPYKO7DU67YIKILVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, comedy",
+      "evidence": [
+        "\"Not my favorite Sci-fy by any measure.\"",
+        "\"I love it when comedy can be combined with SciFy and Warehouse 13 does a pretty good job.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"better acting would go a long way to help the show, as would a more complex plot.\"",
+        "\"the many different events that occur seem other worldly, they are mostly plausible.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It was as though everyone was getting used to a new job and were afraid to do anything that might ruffle anyone else's feathers.\"",
+        "\"The season waffles a little in the middle but has a strong finish.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"better acting would go a long way to help the show, as would a more complex plot.\"",
+        "\"the director must really emphasize facial expression, as the main characters are rife with facial expressions that contribute so much to the show.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Piper Perabo is really comfortable with her role as a spy by now and does not disappoint.\"",
+        "\"Anna Torv is an amazing actress, often playing two slightly different roles in the same episode.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"the season is also filled with plenty of humor but not too much.\"",
+        "\"This is a very well written comedy with the leading role played by Ashley Rickards.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I still feel that this is a great program to watch for those of us who are older and are trying to grasp what today's younger folks are up to.\"",
+        "\"This is a good show for old and young viewers, as the older viewers can look back at their early teen years and remember their own awkwardness on the subject of romanced.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys sci-fi and comedy genres, often appreciating shows that blend humor with engaging narratives. They show a moderate sensitivity to production quality and emotional resonance, indicating a preference for character-driven stories with relatable themes."
+}

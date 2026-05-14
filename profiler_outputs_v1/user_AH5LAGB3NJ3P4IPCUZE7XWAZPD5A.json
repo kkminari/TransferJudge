@@ -1,0 +1,77 @@
+{
+  "user_id": "AH5LAGB3NJ3P4IPCUZE7XWAZPD5A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, classic",
+      "evidence": [
+        "Loved it as a kid. Still enjoying it as an adult.",
+        "Good John Wayne Movie, had never heard of or seen this movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great Show",
+        "Good Show ready for next season"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Good Show ready for next season",
+        "Loved it as a kid. Still enjoying it as an adult."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great movie ! Item as advertised, fast shipping",
+        "Awesome Movie Marvel Continues to Impress and Amaze."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "John Wayne, Marvel",
+      "evidence": [
+        "Good John Wayne Movie, had never heard of or seen this movie.",
+        "Awesome Movie Marvel Continues to Impress and Amaze."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "Awesome Movie Marvel Continues to Impress and Amaze.",
+        "Great Movie, used to watch this with my Grandmother."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Loved it as a kid. Still enjoying it as an adult.",
+        "My Grandfather and I Enjoyed it."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly and classic films, often enjoying them with family members. They appreciate simple narratives and emotional connections, particularly with nostalgic content."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AH6DYU7RO5VXCJ6X3W6HCRTFYZXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, comedy",
+      "evidence": [
+        "\"A true love story!\"",
+        "\"Funny and spot on commentary about the election cycle, Congress, cynicism, ambition, ego and much more.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"There are so many layers to this.\"",
+        "\"Nuanced, well written, directed and acted parody of reality shows...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Very watchable until the end, then meh.\"",
+        "\"Hilarious\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent writing, acting, production and story line.\"",
+        "\"Exquisitely directed film with nuanced acting.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Hats off to Ms. Kudrow and the entire production.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Moving and worth watching.\"",
+        "\"Emotionally rich, evocative and made the songs popular...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Outstanding! Hearwarming, inspiring and heart breaking.\"",
+        "\"In some ways I felt uplifted and in other ways, deeply saddened...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex narratives with strong emotional resonance, particularly in the drama and romance genres. They appreciate high production quality and nuanced storytelling, often highlighting the performances and direction in their reviews."
+}

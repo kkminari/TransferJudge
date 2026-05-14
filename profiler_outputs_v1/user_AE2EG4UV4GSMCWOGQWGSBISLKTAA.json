@@ -1,0 +1,77 @@
+{
+  "user_id": "AE2EG4UV4GSMCWOGQWGSBISLKTAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "Christian, family-friendly",
+      "evidence": [
+        "\"I'm more a 'God's Not Dead', 'Facing the Giants', and things like that kind of person.\"",
+        "\"As with all their other movies, the Kendrick brothers know exactly how to portray real people and how God works in our lives.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Just wanted a feel good, light-hearted one.\"",
+        "\"The idea is a good one but I didn't think there was much depth or development of the story.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This was a major disappointment. It is so drawn out.\"",
+        "\"I didn't think there was much depth or development of the story.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"None of the actors would be nominated for an award, but it was cute enough.\"",
+        "\"I can't really remember much about the movie or how it ended. That should tell you something.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Kendrick brothers",
+      "evidence": [
+        "\"I love all the movies by these guys.\"",
+        "\"As with all their other movies, the Kendrick brothers know exactly how to portray real people and how God works in our lives.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, uplifting",
+      "evidence": [
+        "\"I walk away feeling uplifted.\"",
+        "\"This one has a special meaning to me because Miss Clara's character was inspired by Molly Bruno.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I am reminded how faithful God is in every situation.\"",
+        "\"This movie didn't give any new insight, as a matter of fact, less.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for Christian and family-friendly films, particularly those by the Kendrick brothers. They favor simple narratives with a slower pace and are more focused on emotional and uplifting experiences rather than high production quality."
+}

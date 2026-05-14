@@ -1,0 +1,77 @@
+{
+  "user_id": "AHW3P5MHYV7AKHOYCR54KO7AVVJQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed (likes thoughtful performances, dislikes poorly executed narratives)",
+      "evidence": [
+        "\"Fantastic film - beats the Hunger Games any day of the week.\"",
+        "\"Such an embarrassment of a movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The movie showed her in more motels and other people's houses in actually on the Pacific Crest Trail, and was an outright ad for REI...\"",
+        "\"A woman founds a tech startup and the only other woman featured... is her frazzled assistant...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It's like a bad stereotype. The premise was a good one but the movie was very, very bad.\"",
+        "\"...while it's fast paced, he also breaks it up perfectly in prepping you for each new move...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Phenomenal acting well written and terrific cinematography.\"",
+        "\"Horrible! Terrible acting - Greg Kinnear cannot save this movie...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"This is the stuff DeNiro should do more of.\"",
+        "\"Kerry Washington was great and I'd love to have seen more of her...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Very moving and inspiring.\"",
+        "\"...some beautiful touching moments at the end.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Thoughtful performances that really go deep into the culture and struggles...\"",
+        "\"One of the finest movies I've seen in many many years.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for high-quality films with thoughtful performances and emotional depth, while expressing significant dissatisfaction with poorly executed narratives. They have mixed feelings about genre and pacing, indicating a nuanced taste that values both storytelling and production quality."
+}

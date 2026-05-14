@@ -1,0 +1,73 @@
+{
+  "user_id": "AHNP6PDFQHHJZC2E7BWOLCOYQLEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance",
+      "evidence": [
+        "Love this movie",
+        "Love this show"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good movie",
+        "Movie is 45 mins long and pointless story line wasted money"
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Loved this movie definitely would watch again"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Good movie",
+        "Love this movie"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "Good movie",
+        "Love this movie"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Love this movie",
+        "Loved this movie definitely would watch again"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for romance films, often expressing love for the movies they watch. They tend to favor simple narratives and are less concerned with production quality, focusing more on emotional impact and enjoyment."
+}

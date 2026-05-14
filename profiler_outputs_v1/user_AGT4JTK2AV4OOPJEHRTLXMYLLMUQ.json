@@ -1,0 +1,77 @@
+{
+  "user_id": "AGT4JTK2AV4OOPJEHRTLXMYLLMUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, historical, British films, intelligent films",
+      "evidence": [
+        "\"I prefer some of the older movies that treated this same subject in a much more interesting and less labored manner.\"",
+        "\"One of those brilliant, small, British films that unfortunately don't get promoted enough.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Beautifully creative.....complicated plot design that fits together like a jigsaw puzzle.\"",
+        "\"If you're looking for a film that will make you think and has a wonderful 'twist' for an ending....look no further.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I find it completely enjoyable, if at times a bit slow.\"",
+        "\"I lost interest almost immediately.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Brilliant direction, production and acting.\"",
+        "\"I know people who won't watch it because of the title....their loss.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love BBC programming but it has just not been available once it has had it's run on PBS....\"",
+        "\"If you like Sondheim and have not seen this on PBS and other places it is worth the money!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Just having filmed access to the locations they visit is wonderful, but the commentators think out of the box and have very creative and credible ideas.\"",
+        "\"I love Matthew Bourne's choreography and the creativity and insight that his productions bring to more contemporary stagings of the old classics.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A truly special, little British film that will keep you mesmerized from beginning to end.\"",
+        "\"If you have no imagination....avoid at all costs!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for intelligent and complex narratives, particularly in documentaries and British films. They value high production quality and enjoy sensory experiences, while also appreciating emotional resonance in the content they consume."
+}

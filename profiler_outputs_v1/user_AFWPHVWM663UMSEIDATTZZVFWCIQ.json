@@ -1,0 +1,76 @@
+{
+  "user_id": "AFWPHVWM663UMSEIDATTZZVFWCIQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, opera, historical",
+      "evidence": [
+        "\"A chilling reminder of mid-20th century Eastern Europe, with it's ruthless twisted violence of battling ideologies...\"",
+        "\"A touching and beautifully sung Boheme\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Chilling and well produced, seems to be a real, and almost sympathetic, exploration of what makes President Obama tick.\"",
+        "\"This may not be the perfect Tosca, but it will do until one comes along.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"...a nicely balanced vision of a tragically divided nation...\"",
+        "\"...fast-paced, sensitive film version based on Sardou's play...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great production.\"",
+        "\"...beautifully cast...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"...one of my top favorites -- and I have MANY Toscas...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"...brings the characters to life\"",
+        "\"...wonderful productions of these once-obscure operas...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...a chilling reminder of mid-20th century Eastern Europe...\"",
+        "\"What a wonderful operatic era is ours!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and opera, appreciating complex narratives and high production quality. They value emotional resonance and sensory experiences in their viewing choices, indicating a taste for impactful storytelling."
+}

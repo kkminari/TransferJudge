@@ -1,0 +1,77 @@
+{
+  "user_id": "AHK7MKV2HHLQGDMBC76DVN2C37IQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, intrigue",
+      "evidence": [
+        "\"Sweet story; nice shots of Paris\"",
+        "\"The intrigue keeps me coming back!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Interesting story - did not like the characterizations\"",
+        "\"I guess I am just over Woody Allen's whining and neurotic style\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Interesting ending. Challenging understanding the Scottish accent though\"",
+        "\"Good acting. Story began creeping me out.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent movie. Certainly had me fooled.\"",
+        "\"Good acting. Story began creeping me out.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I like Jeff Daniels and Sam Waterson so I stuck with it.\"",
+        "\"Timothy Olyphant is great as a Kentucky boy.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It portrayed the pain and suffering the victims of the concentration camps had to face their lifetime.\"",
+        "\"Good acting. Story began creeping me out.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It portrayed the pain and suffering the victims of the concentration camps had to face their lifetime.\"",
+        "\"I am always curious to see what Timothy Olyphant is going to get into!! Good acting by all\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and intrigue, often appreciating strong acting and storytelling. They show a preference for high-quality production and emotional depth, while their narrative complexity and pacing preferences are more mixed."
+}

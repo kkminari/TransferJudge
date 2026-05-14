@@ -1,0 +1,73 @@
+{
+  "user_id": "AGRR7D3H7KTOUA4B3XOCF47YDJZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, thriller",
+      "evidence": [
+        "\"Clever storyline.\"",
+        "\"Thrilling!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Several twists in the story were really exciting.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Exciting end to this series.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Production disappointing.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"Armitage is perfect for the part he plays!\"",
+        "\"Armitage is the best.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Clever plot well executed.\"",
+        "\"Terrific acting.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I found the film a depressing trip into the mind of a poor soul who has lost her sister.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for fantasy and thriller genres, appreciating clever storylines and complex narratives with exciting twists. They value high production quality and exhibit loyalty to specific actors, particularly Armitage, while also enjoying fast-paced storytelling."
+}

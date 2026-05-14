@@ -1,0 +1,77 @@
+{
+  "user_id": "AFYNOOVX45ZRV3N3SUP57R6RBDZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, adventure, fantasy",
+      "evidence": [
+        "\"The interplay between them in any situation is a lesson in something that can’t be taught.\"",
+        "\"If you loved HP you'll enjoy this first installment of the new franchise.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Never a dull moment once she falls through to Wonderland and meets Hatter.\"",
+        "\"The show is really funny and at times touchingly so.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It hits the ground running and never disappoints.\"",
+        "\"Fun, fast paced, exciting. It has it all.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The writer and director have made a charming, slightly gritty, today version of the Carrol masterpiece.\"",
+        "\"Acting is so good that you come to care for these people.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for specific creators",
+      "evidence": [
+        "\"Dare I say it-it may be better than the original films.\"",
+        "\"Can't wait for the new show, Amazon!!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This film will stay with you long after it's over.\"",
+        "\"You will find yourself just smiling every time you see her.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It will put and keep a very large smile on your face.\"",
+        "\"I was left at the end with the feeling I'd just seen something brilliant.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and adventure genres, enjoying fast-paced narratives with high production quality. They exhibit brand loyalty to specific creators and appreciate emotional resonance in their viewing experiences."
+}

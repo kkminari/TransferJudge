@@ -1,0 +1,77 @@
+{
+  "user_id": "AG2AJ47R7Z5OITHXRKYBHHBBXBUA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, drama, comedy",
+      "evidence": [
+        "\"Very good drama. Good history lesson too.\"",
+        "\"Typical Brit TV with great acting and great building of characters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Very light nice set of episodes for binge watching on a weekend.\"",
+        "\"Just a continuation of a great series.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Nice and light with good characters that you can like or hate.\"",
+        "\"Very light nice set of episodes for binge watching on a weekend.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The Brits certainly know how to develop a story and their characters.\"",
+        "\"Outstanding performance by Otoole.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Typical Gervais\"",
+        "\"Great acting and great building of characters.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Nice insight into Churchill's thought processes and into his spiritual side that he so coveted in others.\"",
+        "\"Very good drama. Good history lesson too.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"A little silly but outstanding performance by Otoole.\"",
+        "\"Downer of a story.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted dramas and historical narratives, often appreciating character development and production quality. They show a preference for simple storytelling and slower pacing, with less emphasis on emotional depth."
+}

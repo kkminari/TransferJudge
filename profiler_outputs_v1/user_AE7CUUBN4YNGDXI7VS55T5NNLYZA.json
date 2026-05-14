@@ -1,0 +1,77 @@
+{
+  "user_id": "AE7CUUBN4YNGDXI7VS55T5NNLYZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, romance",
+      "evidence": [
+        "\"Needed a nice romantic comedy\"",
+        "\"The most underloved series ever. Edgy and very, very funny.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great fun! Don't miss it!\"",
+        "\"Sweet and funny.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Compelling viewing. From the base camp to the death zone, you won't want to miss a minute.\"",
+        "\"Great, pulls-no-punches television. Not for the feint of heart.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I liked Kiera Knightly version better\"",
+        "\"It was pretty good, but other versions are better.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Americans is the best series on TV.\"",
+        "\"I have no idea why this very funny, edgy comedy never caught on.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Very funny movie with a lot of heart.\"",
+        "\"The story has a lot of heart. Very well written.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A little edgy, but the story has a lot of heart.\"",
+        "\"Loved it both times!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted comedies and dramas with a romantic touch, often favoring fast-paced narratives. They appreciate emotional depth and humor, while showing less concern for production quality and brand loyalty."
+}

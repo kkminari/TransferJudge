@@ -1,0 +1,77 @@
+{
+  "user_id": "AG7UFLXNZRUUBZKF37N322PRQM7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, animation",
+      "evidence": [
+        "\"WE LOVE BOB'S BURGERS!!!  Plain and simple :)\"",
+        "\"I just love Ancient Aliens!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I love all of these comedians!\"",
+        "\"Just as good as when I was a kid.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The DVD arrived in great shape as well as fast!\"",
+        "\"I watched again because it was so enjoyable, with my 6 year old daughter who also loved it!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I just love Ancient Aliens!\"",
+        "\"I simply love Criminal Minds and love having the seasons available any time I like!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Bob's Burgers, Ancient Aliens",
+      "evidence": [
+        "\"WE LOVE BOB'S BURGERS!!!  Plain and simple :)\"",
+        "\"I just love Ancient Aliens!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual humor, family-friendly atmosphere",
+      "evidence": [
+        "\"I swear the Madagascar movies just keep getting better.\"",
+        "\"It's wonderful to see the diversity and similarities of us all.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is wonderful to see the diversity and similarities of us all.\"",
+        "\"My daughter and I love Scooby and this series is great.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and family-oriented animated shows, particularly enjoying titles like 'Bob's Burgers' and 'Ancient Aliens'. They appreciate simple narratives with fast pacing and have a high emotional resonance with content that promotes diversity and family values."
+}

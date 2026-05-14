@@ -1,0 +1,74 @@
+{
+  "user_id": "AG2QM5VRS5Q3UKTJI4JH7B7PP6CQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, family-friendly",
+      "evidence": [
+        "Love this new show it is a lot of fast action but still has all of the cool rescue stuff",
+        "Great show for the family, it is magical."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I liked this, not a lot of all that who's sleeping with who type stuff, I am really tired of all that garbage."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Love this new show it is a lot of fast action but still has all of the cool rescue stuff",
+        "Great acting, lots of wonderful stories."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "I have to say the quality is great in all departments.",
+        "Love the show, and it looks really good on Blu-ray."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Titus Welliver",
+      "evidence": [
+        "Titus Welliver is a great actor. I have seen him in a lot of stuff over the years."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "Love the show, and it looks really good on Blu-ray.",
+        "Great show for the family, it is magical."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Did not do it for me at all. It was not funny, and the writing was a sub standard."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action-packed, family-friendly shows with high production quality. They prefer straightforward narratives and fast pacing, while showing some loyalty to specific actors like Titus Welliver. Emotional engagement appears to be less of a priority for this user."
+}

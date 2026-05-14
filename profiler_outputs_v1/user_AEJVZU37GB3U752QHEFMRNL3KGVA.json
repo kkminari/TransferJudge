@@ -1,0 +1,77 @@
+{
+  "user_id": "AEJVZU37GB3U752QHEFMRNL3KGVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action, classic",
+      "evidence": [
+        "\"Great Sci-Fi episode\"",
+        "\"Love these dinosaurs movies so\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Terrific story line could almost be credible.\"",
+        "\"The storyline continues to the next dvd.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This movie is so fun to watch and full of action.\"",
+        "\"Great action shots, awesome computer generated scenes and a touch of romance to boot.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Awesome quality for used dvd.\"",
+        "\"The quality of the disk was in excellent condition.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Have been purchasing 007 movies to complete my collection.\"",
+        "\"Love the Star Wars saga, its like the character become your friends.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, action choreography",
+      "evidence": [
+        "\"Great special effects and action shots.\"",
+        "\"Had some very good special effects.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Great selections on one package deal.\"",
+        "\"This is not what I thought it was.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced, action-packed movies, particularly in the sci-fi and classic genres. They appreciate high production quality and visual effects but show less emphasis on emotional depth or complex narratives."
+}

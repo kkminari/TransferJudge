@@ -1,0 +1,162 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's strong preference for drama and romance translates directly to books in these genres, as both mediums share similar emotional and thematic elements.",
+      "transferred_insight": "Prefer drama and romance novels that evoke deep emotions and feature strong character relationships.",
+      "confidence": 0.8
+    },
+    "narrative_complexity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for simple narratives suggests they may enjoy accessible storytelling in books, but literary works can still vary in complexity.",
+      "transferred_insight": "Prefer accessible narratives that are straightforward but may include some depth.",
+      "confidence": 0.7
+    },
+    "pacing_preference": {
+      "decision": "PARTIAL",
+      "rationale": "A preference for slow pacing indicates a liking for character-driven stories, but this can vary in books where pacing can be influenced by narrative style.",
+      "transferred_insight": "Prefer slower-paced books that allow for character development and emotional exploration.",
+      "confidence": 0.6
+    },
+    "quality_sensitivity": {
+      "decision": "TRANSFER",
+      "rationale": "High sensitivity to quality in films suggests the user will also appreciate well-crafted books with strong writing and production values.",
+      "transferred_insight": "Prefer highly-rated books with strong writing and production quality.",
+      "confidence": 0.7
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user's loyalty to specific actors does not translate to authors, as the connection is not relevant in the literary context.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "Sensory preferences related to visual and auditory experiences in film do not apply to books, which rely on text and imagination.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high appreciation for emotional depth in films directly applies to their reading preferences, indicating a desire for books that evoke strong feelings.",
+      "transferred_insight": "Prefer books that evoke deep emotions and resonate on a personal level.",
+      "confidence": 0.9
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "1982138920",
+      "title": "Already Enough: A Path to Self-Acceptance",
+      "score": 0.95,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book focuses on self-acceptance and emotional growth, aligning perfectly with the user's preference for deep emotional narratives and high-quality writing."
+    },
+    {
+      "rank": 2,
+      "item_id": "41",
+      "title": "Rose Red",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "A historical romance that explores themes of love and revenge, this book fits the user's drama and romance preferences while offering emotional depth."
+    },
+    {
+      "rank": 3,
+      "item_id": "27",
+      "title": "Against All Odds: Life Beyond The Limits",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book tells a story of resilience and personal growth, appealing to the user's desire for emotional narratives and character-driven stories."
+    },
+    {
+      "rank": 4,
+      "item_id": "23",
+      "title": "Umbrian Twilight: Tra Il Lusco E Il Brusco",
+      "score": 0.78,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "A memoir that delves into personal memories and emotional experiences, this book resonates with the user's appreciation for heartfelt storytelling."
+    },
+    {
+      "rank": 5,
+      "item_id": "13",
+      "title": "Dandelion Wine",
+      "score": 0.75,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This literary work captures the essence of childhood and nostalgia, appealing to the user's love for emotional depth and accessible narratives."
+    },
+    {
+      "rank": 6,
+      "item_id": "8",
+      "title": "Life on a Road Less Traveled: Or, Memoirs from Behind the Scenes of History",
+      "score": 0.73,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This memoir offers insights into personal experiences and emotional journeys, aligning with the user's preference for drama and emotional resonance."
+    },
+    {
+      "rank": 7,
+      "item_id": "41",
+      "title": "The Far Battleground",
+      "score": 0.7,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "While primarily a fiction piece, it offers a straightforward narrative that may appeal to the user's preference for simple storytelling."
+    },
+    {
+      "rank": 8,
+      "item_id": "31",
+      "title": "An Hour to Kill: ...and other short stories",
+      "score": 0.68,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This collection of short stories provides accessible narratives that can evoke emotional responses, fitting the user's preferences."
+    },
+    {
+      "rank": 9,
+      "item_id": "19",
+      "title": "On A Chinese Screen",
+      "score": 0.65,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This book offers a series of vignettes that may appeal to the user's interest in character-driven stories and emotional exploration."
+    },
+    {
+      "rank": 10,
+      "item_id": "17",
+      "title": "Red Hair",
+      "score": 0.6,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This romance novel features a bold protagonist and an adventurous narrative, appealing to the user's love for romance and simple storytelling."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference were blocked as they do not translate to the book medium.",
+  "overall_strategy": "Focused on transferring the user's strong preferences for drama, emotional resonance, and quality while applying partial insights for narrative complexity and pacing. Blocked irrelevant patterns to ensure recommendations align with the user's literary tastes."
+}

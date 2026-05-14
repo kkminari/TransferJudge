@@ -1,0 +1,77 @@
+{
+  "user_id": "AFY75BPDN2HJXIXX5Y55KTGBVDGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "vintage, old movies, space, murder mystery",
+      "evidence": [
+        "I love old films so it was a very good one!!",
+        "I love old murder mysteries and I liked these!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Interesting story, great scenery, and good actors.",
+        "A vintage movie about an American Officer and Russian Ballerina falling in love at war time."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "A vintage 1950s “scary” Space movie. Just my opinion that they are fun to watch and a good price.",
+        "If you like old vintage ‘scary’ movies then this collection is right for you."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Film was not great. Blotchy and the special effects were not very good but the price was right.",
+        "Good film quality. Price was right."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "Always liked (a young) Rod Taylor and this Yvette Minnex the actors in this movie.",
+        "I’m a Gene Tierney fan so I like her movies."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Interesting story, great scenery, and good actors.",
+        "A must for Disney collectors or Haley Mills fans!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Not the best story but not the worse.",
+        "If you like old vintage ‘scary’ movies then this collection is right for you."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for vintage and old movies, particularly in genres like space and murder mysteries. They appreciate simple narratives and are less concerned with production quality, focusing more on the enjoyment of classic films."
+}

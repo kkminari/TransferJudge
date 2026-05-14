@@ -1,0 +1,76 @@
+{
+  "user_id": "AHLZUU3B6DH2AFDUHJW6CUEV5PSQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, action",
+      "evidence": [
+        "\"If you can get by the unlikely premise, and that the Grounder women can only find low cut t-shirts in the radiated landscape of post apocalyptic Earth, it's a fun, guilty pleasure sci-fi show.\"",
+        "\"I enjoyed the show for many years and still enjoy the show even with the changes...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The drama seemed overdone from time to time with closeups, quick camera shaking, and music.\"",
+        "\"...once the big secret is revealed, I sort of lost interest.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The last season was wonderful - the tension got more intense with each episode.\"",
+        "\"...the story continues at a realistic pace with fine acting and storytelling.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Production and effects were top notch, and the acting was strong.\"",
+        "\"...the animation, which for the most part was very well done...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"For me, BTAS is the best portrayal of Batman alongside Denny O'Neil's portrayal.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The music was very cool -- really takes you back to the older films.\"",
+        "\"...each contestant appears to really know his survival stuff -- each in, his own way, comes up with solutions to deal with their environment.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "mixed",
+      "evidence": [
+        "\"...the death of Apollo is more forceful.\"",
+        "\"...the tension got more intense with each episode.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of sci-fi and drama with a strong emphasis on production quality. They appreciate well-crafted narratives but have mixed feelings about pacing and emotional depth, often valuing entertainment and sensory experiences."
+}

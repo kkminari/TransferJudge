@@ -1,0 +1,77 @@
+{
+  "user_id": "AESVD75VHHELCGHQRRLZ2XYWZJ5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, thriller",
+      "evidence": [
+        "\"A little James Bond and intrigue and romance.\"",
+        "\"This was a different twist on an old theme.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The story has lots of twists and turns and just when you think you know where the next turn will be, it twists in another direction; love it.\"",
+        "\"Kept me guessing and watching.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I had great difficulty turning the TV off!\"",
+        "\"I was on the edge of my sofa watching this one.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Bryan Cranston at his best.\"",
+        "\"The ending was thought-provoking.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Amazon",
+      "evidence": [
+        "\"Amazon, congrats and bring the next season back SOON.\"",
+        "\"Amazon has a winner on their hands. Thanks, Amazon!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "immersive experience",
+      "evidence": [
+        "\"I was on the edge of my sofa watching this one.\"",
+        "\"I simply did NOT want this one to end.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I hope you love it as much as I did.\"",
+        "\"Can't wait to tune in the next couple of episodes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama, romance, and thrillers with complex narratives and fast pacing. They appreciate high production quality and are loyal to Amazon's offerings, often finding the content emotionally resonant and immersive."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHKGN33XMVT72VDKMMMGAZUZO5OQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama",
+      "evidence": [
+        "great story lines, super action, and wonderful acting",
+        "great plot, actors, plotline, and action"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "fun one with great acting",
+        "great story lines, super action, and wonderful acting"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "great story lines, super action, and wonderful acting",
+        "great plot, actors, plotline, and action"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "well written and superbly acted; very insightful coverage of a variety of issues",
+        "great acting, writing, story lines"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "always a great actor",
+        "great acting, writing, story lines"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "incredible writing, acting (and nice to look at too)",
+        "great acting, writing, story lines"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "well written and superbly acted; very insightful coverage of a variety of issues",
+        "somehow just a little less enticing than the first season"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and drama series with fast pacing and high production quality. They appreciate well-written and acted content, though they show low loyalty to specific creators. Emotional engagement is moderate, indicating a preference for entertaining yet insightful narratives."
+}

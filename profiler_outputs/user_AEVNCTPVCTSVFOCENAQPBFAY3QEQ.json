@@ -1,0 +1,77 @@
+{
+  "user_id": "AEVNCTPVCTSVFOCENAQPBFAY3QEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, faith-based",
+      "evidence": [
+        "\"A wonderful movie for seniors to watch\"",
+        "\"Anything Tyler Perry does is entertaining with life lessons included.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Very entertaining and meaningful ...\"",
+        "\"A good example of a young man coming into his own and a father made proud\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This series is very informative in giving the public a view on the struggles and intellect necessary to protect our public.\"",
+        "\"I love knowing the history of the greats movie stars.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the technology employed to produce this movie far surpasses anything that could ever be imagined.\"",
+        "\"I could tell what book the scene were taken from.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for specific actors/directors",
+      "evidence": [
+        "\"Always like and thing done by John Wayne\"",
+        "\"I love Jeremy Brett in the role of that famous British sleuth, Sherlock Holmes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"the story of Christ is always uplifting.\"",
+        "\"I love the family heritage demonstrated from generation to generation.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I just can't say enough about how much I enjoyed this production.\"",
+        "\"shows God's promises remain even when we don't trust Him ...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and faith-based narratives, often appreciating historical context and emotional depth. They show high sensitivity to production quality and brand loyalty towards specific actors, particularly John Wayne and Jeremy Brett."
+}

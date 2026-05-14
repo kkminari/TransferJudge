@@ -1,0 +1,77 @@
+{
+  "user_id": "AFESXBO5BNH7D7GGUQ73PILKNC3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, comedy, drama",
+      "evidence": [
+        "\"I love Agatha Christi mysteries no matter who the start is. They are always fun, full of intrigue...\"",
+        "\"I love Charlie Chan movies. They are from a different era...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The mysteries aren't easy to figure out...\"",
+        "\"The plots are complicated but are always saved.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Covert Affairs keeps your interest and is fast paced.\"",
+        "\"I was watching it on TV, had to go do something else. Upset I missed the end...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The actors fit their roles and each adds a lot to the relationships and the story.\"",
+        "\"Excelent plots and perfect actors in each role.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Agatha Christie, Bruce Willis",
+      "evidence": [
+        "\"I love what the male quirky detective brings to the mysteries of Agatha Christi.\"",
+        "\"Of course, Bruce Willis is my favorite actors.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, engaging",
+      "evidence": [
+        "\"The cast seems real, not just acting...\"",
+        "\"He has a way of getting it calmed down and moving on.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I wish there were more seasons of it.\"",
+        "\"I keep thinking there will be a sequel.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for mystery genres, particularly those with complex narratives and engaging characters. They enjoy fast-paced storytelling and have a high sensitivity to production quality, often expressing loyalty to specific creators like Agatha Christie and Bruce Willis."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AFEKX5ZISN2RVZCZT7QQUYOO3ITQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "disliked: drama, family",
+      "evidence": [
+        "\"I am tired of movies about dysfunctional families.\"",
+        "\"Terrible, depressing, unnecessarily violent.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Slept through this movie- moved really slow.\"",
+        "\"What a waste of time and money, I would like both back.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Slept through this movie- moved really slow.\"",
+        "\"Snore fest.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I can't understand how they ever got Toomy Lee Jones or Hillary Swank to make this movie.\"",
+        "\"The singing was poor, the concept was ok but there wasn't really anyone to connect to in the movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Great photography.\"",
+        "\"Action packed.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Terrible, depressing, unnecessarily violent.\"",
+        "\"A disappointment.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong dislike for slow-paced and emotionally heavy films, particularly those centered around drama and dysfunctional families. They appreciate action and visual elements but do not seem to have strong brand loyalty or a high sensitivity to production quality."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AG55JJ7AZLA2W3VMXBDKIVTRSOUA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, romance",
+      "evidence": [
+        "\"I so Love this movie! An all time favorite of mine.\"",
+        "\"This was a very real movie. I so loved watching all the toasts from the different weddings.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"If you want a movie that is extremely predictable and fakey, this isn't for you.\"",
+        "\"It is a great family movie, date night movie, well...anytime movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I am so glad that I didn't listen to the bad reviews. Too slow? I am not sure where it would have been slow.\"",
+        "\"I think what you think of this movie depends on your tastes.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The writing, the characters, the acting, the scenery, everything about it is absolutely perfect to me.\"",
+        "\"The Cinematography alone is so beautiful and mesmerizing.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I don't understand the haters either.\"",
+        "\"I was so surprised by this movie! I wasn't sure about watching it, really.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, emotional engagement",
+      "evidence": [
+        "\"I love the story line. It's just to me, such a beautiful movie!\"",
+        "\"The acting was great, the sets were great, loved the cinematography and the story line.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I feel like I am actually there. This place is my escape and the characters are all my eccentric but lovable friends.\"",
+        "\"It is sad to say how well I can see that to be true.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and comedy films that are visually stunning and emotionally engaging. They appreciate high production quality and tend to enjoy slower-paced narratives that allow for character development and emotional depth."
+}

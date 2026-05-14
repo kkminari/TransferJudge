@@ -1,0 +1,77 @@
+{
+  "user_id": "AGVCIIMAXDFLI34URBDKVIJC6L3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action, horror, comedy",
+      "evidence": [
+        "'Batman V Superman' is a DC comics fans dream come true.",
+        "'It Follows' is easily one of the best horror movies you'll likely see this year."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "'BvS' was never meant to be your father's comic book film. It's meant to be darker. Grittier.",
+        "'Automata' has a fairly straightforward Story(both fascinating and wholly unoriginal)."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "'BvS' has been hacked up by the studio to shorten its run time as it's VERY obvious that there are scenes missing throughout the film.",
+        "'The Interview' wears somewhat thin, and the comedy often fails to generate real laughs."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "I don't see much of an improvement worthy of paying a premium for this collection.",
+        "'It Follows' creates tension with an amazing musical score, great atmosphere/camera direction."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Zach Snyder, Guillermo del Toro",
+      "evidence": [
+        "I've been a long time defender of director Zach Snyder.",
+        "I respect what Guillermo del Toro tried to do."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "'It Follows' creates tension with an amazing musical score.",
+        "'Batman V Superman' is visually stunning to me."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'Grave of the Fireflies' is a film that reaches emotionally jarring heights.",
+        "In all my years of watching Anime films only 2 have been so moving enough to bring me to tears."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of genres, particularly sci-fi, action, and horror, with a strong appreciation for quality production and emotional depth. They show loyalty to specific directors and value narrative complexity, though they have mixed feelings about pacing in films."
+}

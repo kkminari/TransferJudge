@@ -1,0 +1,77 @@
+{
+  "user_id": "AFDSQDYICQ3ZUK6K66IKKURLEKGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, comedy",
+      "evidence": [
+        "\"My favorite John Wayne movie - funny, heartfelt, and all in all just a good movie to lift one's spirits.\"",
+        "\"Good acting and scriptwork is excellent.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Acting was bad, scripts predictable, and dialogue painful to listen to.\"",
+        "\"Best part of this smarmy series? The cars.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Good acting and scriptwork is excellent.\"",
+        "\"Love everything about this series and this box set is absolutely brilliant in its packaging.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the writing superb, the acting worthy of nominations, and directing off the charts!\"",
+        "\"Good acting and scriptwork is excellent.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Bob is superb.\"",
+        "\"Dylan is simply superb in this short-lived TV series - I wish it had lasted longer.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"this is a superb series with genuinely good acting.\"",
+        "\"Love everything about this series and this box set is absolutely brilliant in its packaging.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Was surprised and saddened when this show was cancelled.\"",
+        "\"My favorite John Wayne movie - funny, heartfelt, and all in all just a good movie to lift one's spirits.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action, drama, and comedy genres, with a strong appreciation for high-quality production values. They prefer straightforward narratives and fast pacing, while also valuing emotional resonance in their viewing experiences."
+}

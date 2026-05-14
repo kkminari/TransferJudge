@@ -1,0 +1,77 @@
+{
+  "user_id": "AF23Z3HMQSO4YIIUTKZLSRQOPEXQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"good show\"",
+        "\"good movie\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"good show\"",
+        "\"good movie\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"it has the makings of a really good show, but its uneven\"",
+        "\"it felt self consciously produced. As if the director underestimated American viewers powers of observation.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"budget TV. I thought we were past this.\"",
+        "\"This film was well-made, but the film felt too formulaic.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Matt is really getting it done.\"",
+        "\"ron Perlman is really good.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"powerful movie with an important truth at the center.\"",
+        "\"it felt self consciously produced.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"the consequences of selfishness ripple across time and are as destructive as a bomb.\"",
+        "\"the hardest challenge any human will face in this life is being who they say they are.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a mixed preference for genres, with a tendency towards simple narratives and a moderate sensitivity to production quality. They value emotional resonance highly, indicating a preference for content that evokes deep feelings and reflections on human experiences."
+}

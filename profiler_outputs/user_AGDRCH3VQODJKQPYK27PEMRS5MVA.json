@@ -1,0 +1,77 @@
+{
+  "user_id": "AGDRCH3VQODJKQPYK27PEMRS5MVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, sci-fi",
+      "evidence": [
+        "Great Fantasy",
+        "This is a MUST HAVE for any SciFi fan."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "The plot is not easy to figure out and that makes for a good show to me.",
+        "The plot is thickening and the suspense is just at the right amount."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Captivated by the very first show and the ending of this season just leaves you hungry to find out more.",
+        "Very exciting and intriguing!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The actors play their parts with excitement and makes the movie intriguing at every turn!",
+        "Quality entertainment without dealing with obscene gestures."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I have watched this movie over and over.",
+        "This is a timeless Classic!"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Pulls you into the plot.",
+        "Very well done."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Loved the ending of this chapter!",
+        "Brought tears."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy and sci-fi genres, enjoying complex narratives with fast pacing. They value high production quality and emotional engagement, often finding themselves captivated by the stories and characters."
+}

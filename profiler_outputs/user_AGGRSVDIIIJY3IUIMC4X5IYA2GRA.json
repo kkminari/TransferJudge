@@ -1,0 +1,77 @@
+{
+  "user_id": "AGGRSVDIIIJY3IUIMC4X5IYA2GRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "superhero, action, animation",
+      "evidence": [
+        "\"The Young Justice is what the Teen Titans television series should have been.\"",
+        "\"This is one of the best Batman videos in the Warner Brothers canon.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"There are decent individual storylines and story arcs throughout the season.\"",
+        "\"The plot has several twists and turns, including a new threat that arises just when they think that everything is back to normal.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"There is a lot of action.\"",
+        "\"The animation is very good but there are no real standout sequences, just good solid work.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The animation is easily the poorest I've seen in recent years from the DC animators.\"",
+        "\"The animation is very good, the portrayal of Wonder Woman spot on, the action and battle sequences are superb.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for DC Universe",
+      "evidence": [
+        "\"It's still a worthwhile addition to the Warner Brothers DC Universe canon and I can recommend it.\"",
+        "\"This is one of the best DC Universe videos that the Warner Brothers animation studio has produced.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The animation is very good, the portrayal of Wonder Woman spot on, the action and battle sequences are superb.\"",
+        "\"Some of the animations sequences are amazing, which takes this video up a notch.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I really liked that the movie kept me guessing.\"",
+        "\"I found this to be a very satisfying and engrossing story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for superhero and action genres, particularly within the DC Universe. They appreciate complex narratives with fast pacing and high production quality, showing a notable loyalty to the brand. Emotional engagement is significant in their viewing experience, indicating a desire for stories that resonate deeply."
+}

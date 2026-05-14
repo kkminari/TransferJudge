@@ -1,0 +1,77 @@
+{
+  "user_id": "AH4EPSRN6H4VJUBJK3PXCF24FLNQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, romance",
+      "evidence": [
+        "\"Funny as heck, I love this money, it's got a great hearting message to it and you'll love the funny easy moments.\"",
+        "\"it's a great romantic comedy and set the bar for so many to come.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"we watch movies for entertainment, for the way it makes you feel.\"",
+        "\"it's got a great moral to the story that young kids just don't seem to get anymore from the entertainment industry.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It's a good opportunity to laugh with those you care about.\"",
+        "\"it's a pretty classic Bill Murray movie, it's a good chuckle at the holidays.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I just watched the movie and felt like a kid again, I sang along with all the songs.\"",
+        "\"Don't listen to those professional review morons and watch the movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I adore Mary Poppins, I have since the first time I saw it as a small child.\"",
+        "\"The Wizard of Oz is in my top 5 favorite movies.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"it makes you feel for the characters and feel with the situation going on.\"",
+        "\"I just watched the movie and felt like a kid again, I sang along with all the songs.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"it makes you feel for the characters and feel with the situation going on.\"",
+        "\"I wish they would go back to a moral time of cinema.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for light-hearted comedies and family films, often valuing emotional resonance and simple narratives. They enjoy movies that evoke feelings of nostalgia and connection, particularly those with moral messages."
+}

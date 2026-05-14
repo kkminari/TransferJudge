@@ -1,0 +1,77 @@
+{
+  "user_id": "AFN3JJNIUAQULOJ55OMQLWWPRHRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "crime drama, family drama, British drama",
+      "evidence": [
+        "This is the best of British drama - crime drama at its best",
+        "This series continues to be a delight to watch well produced and well acted and overall a good family series in the traditions of top class British television."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "This funny series takes you into a slice of life in England and Wales - find the first series and watch it first then you will have a clear flow of the story of Gavin and Stacey.",
+        "Love it - its a true classic TV show if this does not make you laugh then I guess there is no hope for you"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "This series continues to be a delight to watch well produced and well acted and overall a good family series in the traditions of top class British television.",
+        "This is a classic series does not matter how many times I watch its still funny and full of great stories and laughter"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "its beautifully shot and directed - you should watch it",
+        "well produced and well acted and overall a good family series"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "Rupert Penry-Jones is a true star in this series as the lead detective of the team.",
+        "Billie Bob is amazing and the entire cast is outstanding"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "this series is a joy to watch",
+        "this funny series takes you into a slice of life in England and Wales"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "if this does not make you laugh then I guess there is no hope for you",
+        "this series is simply fun and a slice of life"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for British crime and family dramas, appreciating well-produced and engaging narratives. They value high production quality and emotional resonance, often enjoying simple, character-driven stories that evoke laughter and joy."
+}

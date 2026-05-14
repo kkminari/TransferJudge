@@ -1,0 +1,77 @@
+{
+  "user_id": "AF436NYZWOAZAPEKRJVW4RPNMHEA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, action",
+      "evidence": [
+        "\"LOTR and Hobbit are the best movie ever made.\"",
+        "\"Good action movie. I liked it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story is basic as in all avengers you can be sure to see something like this... The story is soooo old.\"",
+        "\"Story is pretty basic but I enjoyed it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Quite boring in my opinion.\"",
+        "\"May be entertaining. pretty long.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Good acting.\"",
+        "\"Great pictures, scenery.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"I love the concept of showing us what happens when They fail to stop Skynet.\"",
+        "\"I Love LOTR saga.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Great pictures, scenery.\"",
+        "\"Very nice fantasy movie. Good story. great acting.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Loved every second of it.\"",
+        "\"Enjoyed every second of it.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fantasy and action genres, particularly valuing films with good acting and visuals. They have a strong loyalty to franchises like LOTR and Terminator, and they appreciate emotional engagement in their viewing experiences."
+}

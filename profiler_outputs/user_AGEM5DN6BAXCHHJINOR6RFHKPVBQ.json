@@ -1,0 +1,77 @@
+{
+  "user_id": "AGEM5DN6BAXCHHJINOR6RFHKPVBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama, romance, horror, documentary",
+      "evidence": [
+        "\"One of the best 'mystery narratives' and one of the best tv series in the World.\"",
+        "\"This is really a horror movie and also horrible.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Intelligent stories full of suspenses.\"",
+        "\"This movie was a 'boom' in Europe, one reason is for the stars and characters...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It's full of actions and thrills.\"",
+        "\"This movie infected me... it's thrilling, rather than ghost.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"A great and amazing cinematography.\"",
+        "\"This documentary makes you feel sad at times, but let you know her better.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"His favorite actress was Grace Kelly.\"",
+        "\"I like Meryl's interpretation near the end.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The atmosphere and the soundtrack are already scary, but an intelligent theme.\"",
+        "\"You see beautiful landscape in far England.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie shows deeply that as a child, everything you see around you is in its nature.\"",
+        "\"This documentary is to remember a great soprano... powerful voice, full of vibrations and passions at the same time.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for mystery and drama genres, appreciating complex narratives and high production quality. They value emotional resonance in their viewing experiences, often highlighting the impact of storytelling and cinematography."
+}

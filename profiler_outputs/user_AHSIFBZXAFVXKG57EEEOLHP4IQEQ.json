@@ -1,0 +1,77 @@
+{
+  "user_id": "AHSIFBZXAFVXKG57EEEOLHP4IQEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, action, drama, family, sci-fi",
+      "evidence": [
+        "\"It is very hilarious as Shakespeare's comedies are meant to be.\"",
+        "\"All in all, this is great family movie, and will be a favorite of mine for the years to come.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The writing, it was all very well planned 'who done it', and when you go back and re-watch it you see where all the evidence was there.\"",
+        "\"There is so much going on, there is always something you missed the first couple of times.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Started a little slow but then it really picked up in the middle and started to fly.\"",
+        "\"You have to love 'Agent Carter'...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The cast is fantastic.\"",
+        "\"This was a humbling, and enlightening experience...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to Marvel and Joss Whedon",
+      "evidence": [
+        "\"This series turned out to be one of the best runs from the marvel Universe...\"",
+        "\"This is the best of Joss, and easily rivals the Star Trek of new, and the Star wars.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It is worth re-watching, the morals and the stories withstand the test of time.\"",
+        "\"It fills in some of the Marvel Universe gaps for the big guy.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"To say the least, this was a humbling, and enlightening experience...\"",
+        "\"It is worth re-watching, the morals and the stories withstand the test of time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies and action-packed narratives, particularly those with complex plots and engaging characters. They show high loyalty to Marvel productions and appreciate high-quality storytelling that resonates emotionally."
+}

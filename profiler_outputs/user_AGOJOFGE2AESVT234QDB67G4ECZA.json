@@ -1,0 +1,70 @@
+{
+  "user_id": "AGOJOFGE2AESVT234QDB67G4ECZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "cooking, lifestyle",
+      "evidence": [
+        "I am a fan of the PBS series and collect the books and DVDs"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "We make a lot of the items featured on the series for family and entertaining"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "We make a lot of the items featured on the series for family and entertaining"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "We have never had anyone complain yet"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "PBS series",
+      "evidence": [
+        "I am a fan of the PBS series and collect the books and DVDs"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I know I am a better host for having them"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "that makes me happy"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for cooking and lifestyle content, particularly from PBS series. They appreciate simple, family-oriented narratives that evoke happiness and emotional connection, indicating a preference for engaging yet straightforward storytelling."
+}

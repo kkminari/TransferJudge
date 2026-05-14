@@ -1,0 +1,77 @@
+{
+  "user_id": "AEIZFYVD3LXFRECEF267XMUMNGAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, animation",
+      "evidence": [
+        "Loved this clean and funny comedy special by a fresh, relatively new comedian.",
+        "One of the best animation pics ever. Love it."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I found this guy totally relatable.",
+        "It's refreshing to listen to a comedian who doesn't have to use profanity every few words or so."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "He has material that’s not only hilarious, but fresh and clean enough to get the hilarity of the joke.",
+        "Some comedians just know how to reel you in and he's one of them."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "I must say, this comedy special was very entertaining (more than most).",
+        "It's apparent she is just 'winging it' on stage, not actually taking time to practice the skill it obviously takes to be funny."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I had not heard of him before but I highly recommend viewers take the time to watch a comedian whose delivery is pot on.",
+        "I hope he is still doing stand-up as his comedian is sometimes dark but always refreshing."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I liked this comedy special more than I like most of the other ones.",
+        "It's refreshing to listen to a comedian who doesn't have to use profanity every few words or so."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I will look for this comedian in the future.",
+        "Wow! Totally unexpected pleasure."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for clean and relatable comedy, particularly enjoying animated films. They value high production quality and emotional engagement, while showing a low loyalty to specific comedians or brands."
+}

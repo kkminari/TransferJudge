@@ -1,0 +1,76 @@
+{
+  "user_id": "AGKINGMECBGXSHZWQ6UJWEYTYJVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"Love Robin Williams in all he has ever done.\"",
+        "\"Funny movie. Enjoyed it a lot and something to take you out of reality...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This was a very good movie. Kind of slow... but once into it you will see.\"",
+        "\"I kept waiting....for something but it never happened.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This was a very good movie. Kind of slow...\"",
+        "\"I almost feel asleep a number of times.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great movie. Acting is superb.\"",
+        "\"Wow. It is heartbreaking to watch.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Robin Williams",
+      "evidence": [
+        "\"Love Robin Williams in all he has ever done.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It is heartbreaking to watch.\"",
+        "\"This movie was very good. Not a movie to make you feel happy...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Wow. It is heartbreaking to watch.\"",
+        "\"A must see. Its an eye opener.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and comedy films, particularly enjoying works featuring Robin Williams. They appreciate high production quality and emotional depth, often favoring slower-paced narratives that evoke strong feelings."
+}

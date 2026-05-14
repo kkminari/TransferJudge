@@ -1,0 +1,77 @@
+{
+  "user_id": "AGIEUBK6KNOI53C2E2AQRPJWOXRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi",
+      "evidence": [
+        "\"Very few sci-fi TV shows or movies rate 5 stars, but this is one which does.\"",
+        "\"There are a lot of good sci-fi movies around.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"...the egg tortures the residents for 2 seasons for no reason that could possibly have had anything to do with the motives revealed in season 3.\"",
+        "\"If you copy something, make it better or don't bother.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Boring, boring, boring. Basically just 3 guys just sitting around talking for most of the movie.\"",
+        "\"...the ending reminded me of the ending of the 'Lost' TV series. It just barely answered the main question and left many other important questions unanswered...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The only thing separating this movie from a porno is that there's no sex.\"",
+        "\"...the cheapest DVD packaging I've ever seen...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "mixed",
+      "evidence": [
+        "\"I watched POI on TV and have watched and re-watched all the DVDs. It is one of my favorite series of all time.\"",
+        "\"...the last season of Justified was one of its best.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"Bad production values, cheesy acting, poor script, terrible background music.\"",
+        "\"...the series is still worth the cost for a Wolfe fan.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"...the ending loses 2 stars... Nobody behaved in a way that was remotely believable.\"",
+        "\"...the series is still worth the cost for a Wolfe fan.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for sci-fi content, often enjoying series that can be rewatched. However, they express dissatisfaction with pacing and production quality, indicating a critical eye for narrative coherence and execution."
+}

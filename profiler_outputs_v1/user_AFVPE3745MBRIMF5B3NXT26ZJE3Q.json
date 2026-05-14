@@ -1,0 +1,77 @@
+{
+  "user_id": "AFVPE3745MBRIMF5B3NXT26ZJE3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action, historical, foreign",
+      "evidence": [
+        "\"Excellent, very realistic police drama.\"",
+        "\"This is probably one of the best foreign films I have ever seen...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Two or three different plots are woven together to make a very enjoyable show.\"",
+        "\"The writing is original, different from most other series.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Keeps you on the edge of your seat.\"",
+        "\"This series keeps getting better and better.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is superb, the costumes are lavish, the story, based on history, is rich.\"",
+        "\"Outstanding television, outstanding writing, outstanding acting.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Band of Brothers will always be my favorite series of all time.\"",
+        "\"This series is every bit as good as Band of Brothers.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The music is wonderful and the acting is very good.\"",
+        "\"Beautifully done, Judi Dench and cast are enjoyable to watch.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I will miss all the characters in this series when I am finished watching.\"",
+        "\"This series is raw, with profane language, nudity, sex, and violence.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for high-quality dramas, particularly those with complex narratives and fast pacing. They appreciate emotional depth and sensory experiences in their viewing choices, often gravitating towards foreign films and historical content."
+}

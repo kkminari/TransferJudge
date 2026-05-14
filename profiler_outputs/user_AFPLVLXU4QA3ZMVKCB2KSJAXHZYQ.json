@@ -1,0 +1,77 @@
+{
+  "user_id": "AFPLVLXU4QA3ZMVKCB2KSJAXHZYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, superhero, horror, comedy",
+      "evidence": [
+        "\"I love the whole 'Resident Evil' movies!\"",
+        "\"I loved Power Rangers as a kid... This is basically 'The Breakfast Club' meets 'The Avengers'.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the story was rushed.\"",
+        "\"This movie was just horrible, very predictable, and very unrealistic.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"there's never a dull moment in these films\"",
+        "\"the fight between these two is very awesome, fun, & it keeps you on the edge of who will win.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I wasted money renting this. Terrible voice acting and the story was rushed.\"",
+        "\"Let this series die already!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I argue with people that he's the best Batman because he practically paved the way that other actors followed.\"",
+        "\"I love Milla Jovovich, she came a long way from her role with Christian Slater in 'Cuffs'.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"the fight between these two is very awesome, fun, & it keeps you on the edge of who will win.\"",
+        "\"I loved how this film was made using one shot.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I fell asleep while watching it because it's that bad!\"",
+        "\"This and Ant-Man are two Marvel films that I didn't care for.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and superhero genres, particularly films with fast pacing and engaging fight scenes. However, they show a low sensitivity to production quality and emotional depth, often critiquing films for being predictable or rushed."
+}

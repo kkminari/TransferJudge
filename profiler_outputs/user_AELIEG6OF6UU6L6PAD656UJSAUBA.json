@@ -1,0 +1,77 @@
+{
+  "user_id": "AELIEG6OF6UU6L6PAD656UJSAUBA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, comedy, drama",
+      "evidence": [
+        "\"The Orville has the same spirit as created by Gene Roddenberry for Star Trek...\"",
+        "\"I was immensely pleased and overwhelmingly entertained by this marvelous television series that I had bought on DVD. FIREFLY...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"This is a beautiful movie... But on their way to another location, the plane suffers mechanical problems...\"",
+        "\"This is gritty, raw and unvarnished war. It is unsettling, disturbing and very tense.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This film is a scream, and not because of the horror theme. It is downright funny...\"",
+        "\"This movie is highly entertaining and just plain fun.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The makers of Lord of the Rings invested incredible time, energy and talent in bringing Fellowship of the Ring to life...\"",
+        "\"The special effects are enormous, and buffeted by incredible CGI work.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"I give the series 5 stars, because there isn't much that could make it better than it already is.\"",
+        "\"I really hope they will come up with a feature length film, and kick-start renewed interest in this show...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The special effects sequences are astounding and altogether marvelous.\"",
+        "\"The attention to detail is evident in every frame of the film.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This film is altogether wonderful, entirely entertaining, and totally marvelous.\"",
+        "\"It is a time when certain values, lost to us now, were in full flower.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and comedy genres, particularly enjoying shows like 'The Orville' and 'Firefly'. They value high production quality and emotional resonance in films, often praising the craftsmanship behind their favorite movies."
+}

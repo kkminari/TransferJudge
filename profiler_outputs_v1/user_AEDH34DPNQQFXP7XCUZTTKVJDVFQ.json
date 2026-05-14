@@ -1,0 +1,76 @@
+{
+  "user_id": "AEDH34DPNQQFXP7XCUZTTKVJDVFQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama",
+      "evidence": [
+        "I really enjoy Vera.",
+        "I enjoy the characters and the psychology of this program."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It is an awesome entertaining program.",
+        "I really am enjoying this program."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Couldn't stop watching it.",
+        "I really got hooked on this program."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The actors are fantastic abs the stories engaging.",
+        "Wonderful story and acting!!!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "The Sopranos",
+      "evidence": [
+        "Completely addicted to The Sopranos!!!!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and emotional engagement",
+      "evidence": [
+        "I loved this series and was in middle of the 5th season.",
+        "I am captivated by it."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I absolutely loved this series.",
+        "I look forward to it always!!!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama series with engaging characters and fast pacing. They value high production quality and emotional resonance, often expressing deep enjoyment and attachment to their favorite shows."
+}

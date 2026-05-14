@@ -1,0 +1,74 @@
+{
+  "user_id": "AFSAWVRX7YTKH4IOCZ5PZA5N3BWA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, family, inspirational",
+      "evidence": [
+        "\"I loved the action and the thrills it continued throughout for me.\"",
+        "\"Love the unity of women and the history behind the sport.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good story line great observed view\"",
+        "\"Great story line great depth loved the movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Love the work and the action-packed excitement.\"",
+        "\"I loved the action and the thrills it continued throughout for me.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"this was a well written movie it provided some great information about awareness for cancer and relationships\"",
+        "\"Love the true colors of faith and what we go through!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, emotional depth",
+      "evidence": [
+        "\"Love this story and found that it has touched my life\"",
+        "\"The opportunity for little brown girls to dream and see their beauty.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Love this story and found that it has touched my life\"",
+        "\"Love the true colors of faith and what we go through!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and inspirational dramas that evoke emotional depth. They appreciate fast pacing and high production quality, often highlighting the impact of the stories on their lives."
+}

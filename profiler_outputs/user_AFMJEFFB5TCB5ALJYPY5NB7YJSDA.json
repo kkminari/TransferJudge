@@ -1,0 +1,77 @@
+{
+  "user_id": "AFMJEFFB5TCB5ALJYPY5NB7YJSDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, family, drama",
+      "evidence": [
+        "\"Good for a relaxing, evening family movie that doesn’t require thinking.\"",
+        "\"Love Downton Abbey. Romance, intrigue, comedy and set in a stylish era wit perfect costuming and the oh so very English way of life!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Ok if you are in a mood not to use your brain.\"",
+        "\"Good message, but again, it is a movie for children.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Good for a relaxing, evening family movie that doesn’t require thinking.\"",
+        "\"I like the way Alex seems to be coming off his surgeon's pedestal and is finding satisfaction as well as challenges in the free clinic.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Very poor acting on the part of Henry Winkler. Katherine Hepburn was outstanding as always but had a very small part.\"",
+        "\"There are definitely more elaborate and polished productions of this story but this one has a special place in my heart.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have watched many versions of this Jane Austen classic and this is my favorite by far!\"",
+        "\"I love this show and cannot wait for season 4.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Put one of these DVDs into your player and be whisked away on a comforting, magical journey.\"",
+        "\"I can still sit in 'my own little corner in my own little chair' and be transported to a magical place.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A portrayal of true heroes and their selflessness.\"",
+        "\"This one has a special place in my heart and in my fairy tale collection.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted family films and romantic dramas, often preferring simple narratives that evoke emotional resonance. They appreciate a comforting and nostalgic viewing experience, with a focus on character-driven stories rather than high production values."
+}

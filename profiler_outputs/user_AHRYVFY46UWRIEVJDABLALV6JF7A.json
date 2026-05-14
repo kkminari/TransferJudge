@@ -1,0 +1,77 @@
+{
+  "user_id": "AHRYVFY46UWRIEVJDABLALV6JF7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, documentary, thriller",
+      "evidence": [
+        "\"nice romantic story\"",
+        "\"Great thriller\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good movie with a good story\"",
+        "\"Pretty good story\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"character-driven, contemplative\"",
+        "\"I couldn't wait to see each episode\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I love Lacey Chabert movies she's such a sweetheart and a great actress\"",
+        "\"Good movie worth the price\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Lacey Chabert",
+      "evidence": [
+        "\"I'm a big Lacey Chabert fan\"",
+        "\"Can't possibly go wrong with a Lacey Chabert movie\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Excellent movie love conquers all\"",
+        "\"Great Christmas movie can't go wrong with Lacey Chabert\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"brought tears\"",
+        "\"beautiful ending\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for romantic stories and documentaries, particularly those featuring Lacey Chabert. They enjoy simple narratives with emotional depth and are less concerned with production quality, focusing instead on engaging stories and characters."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AEWCEKR2XBGH5XKGJXHKEDRMYJTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary",
+      "evidence": [
+        "\"I wish it were longer, I would have liked to hear stories about all of the women killed.\"",
+        "\"I found the whole story very sick and evil.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The supposed plot twist was predictable. Ended up being silly.\"",
+        "\"The story felt very detached, I didn't get a sense of who Mattie was or what he really cared about.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Film is a bit too long.\"",
+        "\"I was especially touched by the work he did at the camp with the handicap children.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I didn't care for this at all. The narration was awful, and the characters were all unsympathetic.\"",
+        "\"Great acting, but the supposed plot twist was predictable.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "none",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"I was annoyed by the book, but I'm even more annoyed that people found it so fantastic.\"",
+        "\"The only one who exhibited any emotion was Ms. Celia, and her story was just a sidenote.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I found the whole story very sick and evil.\"",
+        "\"It was all about him proving that he was 'normal'.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for drama and documentary genres but often finds narratives predictable and emotionally detached. They express a low sensitivity to production quality and a general dissatisfaction with character development and storytelling depth."
+}

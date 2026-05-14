@@ -1,0 +1,77 @@
+{
+  "user_id": "AEBSNZN3E2L4XMXWTPKYXZ4W6HTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, historical, thriller",
+      "evidence": [
+        "\"Looks like an engrossing SF series.\"",
+        "\"One of the best historical serials.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"An intellectually stimulating series. Alternate history and shifting time dimensions.\"",
+        "\"The viewer becomes caught up in the conflicting actions and values of the main characters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Predictably dumb.\"",
+        "\"A pedestrian, predictable story line made worse by stereotypical characters.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Not impressed by the production values.\"",
+        "\"Well produced with decent acting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Philip K. Dick, LeCarre",
+      "evidence": [
+        "\"If you like the Philip K Dick story, you'll like this series.\"",
+        "\"If you like LeCarre's novels you will like this series.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Interesting characters and fine acting.\"",
+        "\"The photography was beautiful, creating a believable Martian landscape.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The tension which pervades the drama, also lives in the viewer.\"",
+        "\"A compelling view of the mental state of men at war and the resulting SNAFUs.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and historical genres, particularly enjoying complex narratives with rich character development. They value high production quality and are emotionally engaged with the content, often resonating with the themes presented in the stories."
+}

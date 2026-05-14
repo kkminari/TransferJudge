@@ -1,0 +1,76 @@
+{
+  "user_id": "AG2EMBPEOCPRCTWA2N4IOBEKL42A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, sci-fi, drama",
+      "evidence": [
+        "\"Best series yet.\"",
+        "\"Great fight scenes and good acting.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Pretty formulaic......evil billionaire, irrepressible scamps getting into all kinds of mischief...filler.\"",
+        "\"The plot holes are numerous.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Story line dragged and the voice actors were sub par.\"",
+        "\"Pointless drivel in between jumping.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The only good thing was Mads Mikkelsen.\"",
+        "\"Good acting, poor special effects and great set designs.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Usually even the bad movies with J.S. are good.\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Really good special effects for Asian cinema.\"",
+        "\"Great fight scenes and good acting.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"More boring than a bag of hammers.\"",
+        "\"Bad acting and worse delivery.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for action and sci-fi genres but has a strong aversion to slow pacing and simple narratives. They are sensitive to production quality, often noting the acting and special effects, but do not exhibit strong loyalty to specific creators."
+}

@@ -1,0 +1,158 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for family, holiday, and spiritual themes suggests a liking for books that explore similar themes, but the translation from film to literature may require adjustments in tropes and storytelling styles.",
+      "transferred_insight": "Prefer family-oriented and holiday-themed novels with spiritual undertones.",
+      "confidence": 0.75
+    },
+    "narrative_complexity": {
+      "decision": "TRANSFER",
+      "rationale": "A preference for simple narratives directly applies to books, indicating a desire for straightforward storytelling without complex plots.",
+      "transferred_insight": "Prefer straightforward, uncomplicated narratives in books.",
+      "confidence": 0.85
+    },
+    "pacing_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's slow pacing preference suggests they enjoy books that allow for reflection and character development, but this may not be as critical in all book recommendations.",
+      "transferred_insight": "Prefer moderately paced narratives that allow for character development.",
+      "confidence": 0.65
+    },
+    "quality_sensitivity": {
+      "decision": "PARTIAL",
+      "rationale": "High sensitivity to quality in film suggests a preference for well-crafted books, but the specific aspects of quality may differ between media.",
+      "transferred_insight": "Prefer highly-rated and well-reviewed books.",
+      "confidence": 0.7
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "Low brand loyalty indicates that the user does not have a strong attachment to specific authors or creators, making this pattern irrelevant for book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "Sensory preferences related to emotional and heartwarming experiences in film do not translate directly to books, as the sensory experience is fundamentally different.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "A high value on emotional resonance suggests a preference for books that evoke strong feelings and inspire, which is applicable across both media.",
+      "transferred_insight": "Prefer emotionally impactful and inspiring literature.",
+      "confidence": 0.8
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "1953912486",
+      "title": "Rich Herrin A Head Coach Ahead of his time",
+      "score": 0.9,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This biography highlights the inspiring journey of a coach who positively influenced many lives, aligning with the user's preference for heartwarming and motivational stories. The straightforward narrative style fits their preference for simplicity."
+    },
+    {
+      "rank": 2,
+      "item_id": "C3",
+      "title": "Cooking for Christmas: Favorite Holiday Recipes to Share with Family and Friends",
+      "score": 0.88,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This cookbook focuses on holiday recipes, which resonates with the user's love for family and holiday themes. The emotional connection to cooking and sharing meals aligns with their preference for heartwarming narratives."
+    },
+    {
+      "rank": 3,
+      "item_id": "B07CZNWS4S",
+      "title": "TERRIFICS #2",
+      "score": 0.75,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "While this graphic novel may not be a traditional narrative, it features themes of friendship and teamwork that can resonate emotionally. The straightforward storytelling aligns with the user's preference for simple narratives."
+    },
+    {
+      "rank": 4,
+      "item_id": "B08JB7MC2B",
+      "title": "Chasing Wind",
+      "score": 0.74,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This story about friendship and overcoming barriers aligns with the user's preference for emotional and heartwarming narratives. The simple narrative structure supports their taste for uncomplicated storytelling."
+    },
+    {
+      "rank": 5,
+      "item_id": "B00AHF8I1Q",
+      "title": "Memoirs John S. Mosby (The Great Commanders)",
+      "score": 0.72,
+      "applied_patterns": [
+        "quality_sensitivity",
+        "narrative_complexity"
+      ],
+      "reasoning": "This memoir offers a straightforward account of a historical figure, appealing to the user's preference for simple narratives. The high average rating suggests quality, which aligns with their sensitivity to well-crafted stories."
+    },
+    {
+      "rank": 6,
+      "item_id": "B00DU7YLJ6",
+      "title": "In full view A true and accurate account of Lewis and Clark's arrival at the Pacific Ocean",
+      "score": 0.7,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This historical account provides a simple narrative of an important journey, appealing to the user's preference for straightforward storytelling. The high rating indicates quality, which is important to the user."
+    },
+    {
+      "rank": 7,
+      "item_id": "B00JAK4FS4",
+      "title": "Hot & Heavy: Fierce Fat Girls on Life, Love, & Fashion",
+      "score": 0.68,
+      "applied_patterns": [
+        "emotional_resonance"
+      ],
+      "reasoning": "This book explores personal stories that resonate emotionally, aligning with the user's preference for heartwarming narratives. The focus on life experiences can inspire and connect with the user."
+    },
+    {
+      "rank": 8,
+      "item_id": "B01N5FEKD3",
+      "title": "The Shill Trilogy",
+      "score": 0.66,
+      "applied_patterns": [
+        "narrative_complexity"
+      ],
+      "reasoning": "This trilogy may offer straightforward narratives that appeal to the user's preference for simplicity. The emotional undertones in the story can also resonate with their desire for heartwarming content."
+    },
+    {
+      "rank": 9,
+      "item_id": "B00NUDQNPU",
+      "title": "How to Dress a Monster",
+      "score": 0.65,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This children's book addresses fears in a light-hearted way, which can evoke emotional responses and align with the user's preference for heartwarming stories. The simple narrative style fits their taste."
+    },
+    {
+      "rank": 10,
+      "item_id": "B00AHF8I1Q",
+      "title": "Gentle Words: Shaker Music in the 20th Century",
+      "score": 0.64,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book offers a historical perspective on music, which can resonate emotionally with the user. The high rating suggests quality, aligning with their sensitivity to well-crafted narratives."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference were blocked due to their low relevance for book recommendations.",
+  "overall_strategy": "Focused on transferring the user's preferences for simple narratives, emotional resonance, and family-oriented themes while blocking irrelevant patterns. Recommendations emphasize heartwarming and inspiring stories that align with their core interests."
+}

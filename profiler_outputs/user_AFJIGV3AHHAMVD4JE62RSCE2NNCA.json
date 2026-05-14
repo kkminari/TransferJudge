@@ -1,0 +1,75 @@
+{
+  "user_id": "AFJIGV3AHHAMVD4JE62RSCE2NNCA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Run of the mill horror Japanese movie.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Slow & weird!\"",
+        "\"Boring!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Very slow!\"",
+        "\"Boring!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good movie. Watch out tho, it's a tear jerker.\"",
+        "\"Very good movie, Kept me on the edge of my seat!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"It's cute, seeing Jean-Claude as a mess up.\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Good movie. Watch out tho, it's a tear jerker.\"",
+        "\"Very funny with dry wit!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Good movie. Watch out tho, it's a tear jerker.\"",
+        "\"Very good movie, Kept me on the edge of my seat!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys emotionally impactful films, particularly those that evoke strong feelings, such as tear-jerkers. However, they have a strong dislike for slow-paced narratives and prefer straightforward storytelling over complex plots."
+}

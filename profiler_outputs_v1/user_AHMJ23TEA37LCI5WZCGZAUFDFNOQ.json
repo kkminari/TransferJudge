@@ -1,0 +1,70 @@
+{
+  "user_id": "AHMJ23TEA37LCI5WZCGZAUFDFNOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "classics",
+      "evidence": [
+        "love the non violent violence off these old movies",
+        "great performance and addition for classics"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "great service and price"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "love the non violent violence off these old movies"
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "great service and price"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.1,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "great service and price"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "touches the heart",
+        "Happy to find this wonderful delight"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for classic movies, particularly those that are non-violent and emotionally resonant. They seem to appreciate simple narratives and slower pacing, although their sensitivity to production quality is low."
+}

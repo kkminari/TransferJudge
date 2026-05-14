@@ -1,0 +1,75 @@
+{
+  "user_id": "AH35WHNYH2Y4HBDTYDMRYH33BQGA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romantic",
+      "evidence": [
+        "\"Romantic\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"ok\"",
+        "\"Decent\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Fun for it's short life\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Not\"",
+        "\"Scarey bad\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Stiller\"",
+        "\"BattlestarG!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"Cute\"",
+        "\"Good\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"ok\"",
+        "\"Decent\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for romantic content, though their overall engagement with narratives appears to be simple and low in emotional resonance. They express mixed feelings about the quality of productions, indicating a focus on entertainment rather than high production values."
+}

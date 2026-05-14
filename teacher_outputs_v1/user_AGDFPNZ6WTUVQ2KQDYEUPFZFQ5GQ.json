@@ -1,0 +1,154 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's mixed genre preference suggests an openness to various types of narratives, but it requires careful selection to avoid genres they may not enjoy. This indicates a preference for diverse literary experiences without a strong inclination towards any specific genre.",
+      "transferred_insight": "Prefer a variety of genres, including literary fiction and possibly some non-fiction.",
+      "confidence": 0.65
+    },
+    "narrative_complexity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for simple narratives indicates a tendency towards straightforward storytelling, but this does not exclude all forms of complexity. Recommendations should focus on accessible narratives that are engaging without being overly intricate.",
+      "transferred_insight": "Prefer accessible narratives that are engaging but not overly complex.",
+      "confidence": 0.6
+    },
+    "pacing_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The mixed pacing preference suggests that the user can appreciate both fast-paced and slower narratives, but there is no strong signal to favor one over the other. Recommendations should include a balance of pacing to cater to this variability.",
+      "transferred_insight": "Open to both fast-paced and slower narratives, with no strong preference.",
+      "confidence": 0.55
+    },
+    "quality_sensitivity": {
+      "decision": "TRANSFER",
+      "rationale": "The user shows a high sensitivity to quality, indicating a strong preference for well-crafted and polished works. This directly translates to a preference for highly-rated books and those recognized for their literary merit.",
+      "transferred_insight": "Prefer high-quality, well-reviewed books.",
+      "confidence": 0.85
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user's low brand loyalty suggests that they do not have a strong attachment to specific authors or creators, making this pattern irrelevant for book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's high sensory preference is tied to visual and auditory experiences in film, which do not translate to the book medium. This pattern should not influence book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user values emotional depth and resonance in their media consumption, which is a quality that can be found in literature as well. This preference can guide recommendations towards books that evoke strong emotional responses.",
+      "transferred_insight": "Prefer books with emotional depth and resonance.",
+      "confidence": 0.8
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "849448527X",
+      "title": "Camilo Sesto. Mi última canción",
+      "score": 0.9,
+      "applied_patterns": [
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This biography likely offers a deep emotional connection through the life of a beloved artist, aligning with the user's preference for high-quality and emotionally resonant narratives."
+    },
+    {
+      "rank": 2,
+      "item_id": "B0B353NCMS",
+      "title": "The Tide Is Against You",
+      "score": 0.85,
+      "applied_patterns": [
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "With a high average rating, this book likely offers a compelling narrative that resonates emotionally, appealing to the user's sensitivity to quality and emotional depth."
+    },
+    {
+      "rank": 3,
+      "item_id": "B081K5518W",
+      "title": "How Beautiful We Were: A Novel",
+      "score": 0.8,
+      "applied_patterns": [
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This novel's high rating suggests it is well-crafted and likely to evoke strong emotions, aligning well with the user's preferences for quality and emotional engagement."
+    },
+    {
+      "rank": 4,
+      "item_id": "1470109603",
+      "title": "NIST Special Publication 800-53A Guide for Assessing the Security Controls in Federal Information Systems and Organizations",
+      "score": 0.75,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "Although a technical book, its high rating indicates quality, which may appeal to the user's preference for well-regarded works, even outside of narrative fiction."
+    },
+    {
+      "rank": 5,
+      "item_id": "1861264801",
+      "title": "Hill Figures of England",
+      "score": 0.7,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book's focus on art and history, combined with a high rating, suggests it is a quality read that may resonate with the user's appreciation for beautiful and sublime experiences."
+    },
+    {
+      "rank": 6,
+      "item_id": "B0BXN47T89",
+      "title": "House Journal - R",
+      "score": 0.65,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "This journal's perfect rating indicates a high-quality product, which may appeal to the user's preference for well-crafted items, even if it is not a traditional narrative."
+    },
+    {
+      "rank": 7,
+      "item_id": "B0C9S7QHRS",
+      "title": "Mr. Keith's House",
+      "score": 0.6,
+      "applied_patterns": [
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This thriller's high rating suggests it is engaging and well-written, potentially providing the emotional depth the user seeks."
+    },
+    {
+      "rank": 8,
+      "item_id": "B0BW2RY4FG",
+      "title": "Words",
+      "score": 0.55,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book's high rating indicates quality, and while it may not be a traditional narrative, it could still resonate with the user's appreciation for meaningful content."
+    },
+    {
+      "rank": 9,
+      "item_id": "B003BCMD40",
+      "title": "Topper Dawn Dolls The Ultimate Guide",
+      "score": 0.5,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "This guide's high rating suggests it is well-regarded, appealing to the user's preference for quality, even if it is not a narrative work."
+    },
+    {
+      "rank": 10,
+      "item_id": "B0BSY4T9Y9",
+      "title": "Cute Dinosaurs Coloring Book for Kids 3-6+",
+      "score": 0.45,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "While this is a children's coloring book, its high rating indicates quality, which may appeal to the user's preference for well-crafted items."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference were blocked as they do not translate to book recommendations.",
+  "overall_strategy": "Focused on the user's strong preferences for quality and emotional resonance while applying partial insights from genre and narrative complexity. Recommendations prioritize high-rated books that align with these core values."
+}

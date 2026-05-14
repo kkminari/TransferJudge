@@ -1,0 +1,77 @@
+{
+  "user_id": "AE4VRIBJRWOBSLWALJ2OFNMGT2CA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "crime, mystery, comedy",
+      "evidence": [
+        "\"One of my favorite British Crime / Mystery shows.\"",
+        "\"Smartest written, best acted crime / mystery series.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The stories were interesting, sometimes complex...\"",
+        "\"Smartest written, best acted crime / mystery series ever...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Good drama ruined by a terrible, climatic end.\"",
+        "\"I was pretty disappointed in the movie; too slow, to boring.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The quality of the characters and their great acting skills...\"",
+        "\"Fantastic acting, story and actors\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I can't wait for the next season!\"",
+        "\"If you're a Morse fan, you'll love this show.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This show is consistently funny. Well acted and brilliantly written.\"",
+        "\"Great acting, great story, and wonderful scenery of days gone by.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I couldn't stop laughing. A serious movie that was so funny at the same time.\"",
+        "\"Very funny and poignant. Funnier than I thought it would be by far.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for crime and mystery genres, appreciating complex narratives and high-quality acting. They enjoy comedies that evoke laughter and emotional resonance, though they have mixed feelings about pacing in some shows."
+}

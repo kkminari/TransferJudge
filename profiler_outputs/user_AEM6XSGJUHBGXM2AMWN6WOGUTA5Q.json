@@ -1,0 +1,77 @@
+{
+  "user_id": "AEM6XSGJUHBGXM2AMWN6WOGUTA5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, comedy, wholesome",
+      "evidence": [
+        "\"It's clean humor and the storyline is really fun.\"",
+        "\"Hallmark Christmas movies are more fun for us than this one despite its potential.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story lines are simple and fun.\"",
+        "\"The concept is fun, but the movie didn't make us laugh, cry, awww, or feel great.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This one is my daughter least favorite of the series because it's slow going, but it's still a fun teaching video regardless.\"",
+        "\"It's uncomfortable to watch... it gave you an eerie feeling that you couldn't shake off.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I find these people relaxing, non-dramatic and they're all pretty funny.\"",
+        "\"Even though it has a scripted feel to it, they still make me laugh.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Look forward to more John Krasinski films.\"",
+        "\"Emily Blunt's is my new favorite actress.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It's clean humor and the storyline is really fun.\"",
+        "\"I find these people relaxing, non-dramatic and they're all pretty funny.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"The movie didn't deliver on feelings.\"",
+        "\"It's uncomfortable to watch.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and wholesome films, often favoring simple narratives with clean humor. They show a preference for slower pacing and are less concerned with high production quality, focusing more on the overall enjoyment and emotional impact of the content."
+}

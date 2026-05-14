@@ -1,0 +1,76 @@
+{
+  "user_id": "AEBC6VCYUMAXVK6GIAHRJ7UIMXKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, romance",
+      "evidence": [
+        "\"I am so glad to have a show that is sci-fi and believable.\"",
+        "\"Love the era and the actors did it justice. This is a story as old as time and if you are a romantic, you will love it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The plot just keeps on getting better and better! I love the twists and turns and surprises!\"",
+        "\"The first few episodes were great but it became too hard to follow.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"If you like action, adventure - you will love this. Harrison Ford is wonderful and the plot keeps you on the edge of your seat.\"",
+        "\"The plot just keeps on getting better and better!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Everything about this film was wonderful - acting; cinematography; costume design; plot; etc.\"",
+        "\"Great era and beautiful scenery well acted and casted.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have recommended this to countless people and they all have the same reaction - fabulous and cannot wait for the next one!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"You feel as if you are actually walking around Oxford and it makes you want to travel there.\"",
+        "\"Loved it in the theater and loved sharing it with my family.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"What a wonderful series this is - I am sure it will become a classic that future generations will enjoy for many years to come.\"",
+        "\"I love the story line and the characters are really terrific.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and drama genres, appreciating fast-paced narratives with high production quality. They value emotional resonance in storytelling and enjoy immersive experiences, though they show some mixed feelings towards narrative complexity."
+}

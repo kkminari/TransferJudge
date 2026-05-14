@@ -1,0 +1,77 @@
+{
+  "user_id": "AELQJU4QVCKXA4YQLD7HSZNPOYGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "character study, action, musical, gangster",
+      "evidence": [
+        "Excellent character study in a person's mental instability...",
+        "I like true to life gangster movies."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "A good character study on the reality of the mean streets and survival.",
+        "Good acting and action packed."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Good acting and action packed.",
+        "I like this kind of humor in a comedy."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "I like Steve. Good actor. Good movie.",
+        "Amazing. I like the split second details."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I enjoy Bruce Willis. Action packed.",
+        "I like Jason. A man's man."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Felt good acting put you in the situation yourself.",
+        "Powerful movie. Gritty."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "What a great classic motion picture.",
+        "Powerful movie. Gritty."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys character-driven narratives, particularly in genres like action, musicals, and gangster films. They appreciate high production quality and emotional depth in storytelling, favoring fast-paced and engaging experiences."
+}

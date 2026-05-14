@@ -1,0 +1,77 @@
+{
+  "user_id": "AHSIFBZXAFVXKG57EEEOLHP4IQEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, drama, comedy, action",
+      "evidence": [
+        "\"The House is a must see, the book described it but to see it is important.\"",
+        "\"This series turned out to be one of the best runs from the marvel Universe...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The writing, it was all very well planned 'who done it', and when you go back and re-watch it you see where all the evidence was there.\"",
+        "\"There is so much going on, there is always something you missed the first couple of times.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Started a little slow but then it really picked up in the middle and started to fly.\"",
+        "\"The movie has some very good morals...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I have to admit that I like this incarnation of Betsy Ross.\"",
+        "\"The characters are believable and far more 'Human' rather than as shallow as was sometimes the case in the book...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high to Marvel and specific actors",
+      "evidence": [
+        "\"Phil Coulson is my hero, and Daisy is so awesome.\"",
+        "\"I love Emily Browning as Laura Shadow.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"It was a humbling, and enlightening experience...\"",
+        "\"The Effects are minimal, the acting is dead pan to support the...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is worth re-watching, the morals and the stories withstand the test of time.\"",
+        "\"Going to order Season Two...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy and drama genres, particularly enjoying complex narratives with high production quality. They exhibit brand loyalty to Marvel and specific actors, and their reviews reflect a deep emotional engagement with the content they consume."
+}

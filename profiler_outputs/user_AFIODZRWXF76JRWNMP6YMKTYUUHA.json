@@ -1,0 +1,74 @@
+{
+  "user_id": "AFIODZRWXF76JRWNMP6YMKTYUUHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"good sc-fi\"",
+        "\"excellent and gripping drama.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"just ok\"",
+        "\"fair at best, too much movement in the process of filming\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"too much movement in the process of filming\"",
+        "\"too much computer graphics.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"just ok\"",
+        "\"fair\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"too much computer graphics.\"",
+        "\"too much movement in the process of filming\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"just ok\"",
+        "\"fair\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a mixed taste in genres, showing some appreciation for sci-fi and drama but also expressing dissatisfaction with certain aspects of films. They prefer fast-paced narratives but are not particularly sensitive to production quality, indicating a focus on entertainment over emotional depth."
+}

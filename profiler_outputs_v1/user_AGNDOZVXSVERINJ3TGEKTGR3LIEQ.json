@@ -1,0 +1,76 @@
+{
+  "user_id": "AGNDOZVXSVERINJ3TGEKTGR3LIEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, animation",
+      "evidence": [
+        "\"I love Curious George because it is based on the books I read as a child.\"",
+        "\"This is one of the best programs I have ever watched on television.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The character amazes me and the story line is unpredictable.\"",
+        "\"It was a bit slow and somewhat predictable, but a good storyline.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I like the movie. It was a bit slow and somewhat predictable.\"",
+        "\"Luther continues to capture my attention and the main character will keep you guessing about his next move.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"This is Leonardo DiCaprio at one of his very best performances.\"",
+        "\"The program depicts a sharp-shooter's job from the perspective of the individual who has to shoot to kill.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I can't wait for season 4; I sincerely hope that BBC will grant us with more episodes of the machinations of Luther.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"the landscape and scenery are breath taking.\"",
+        "\"Characters are humorous and funny.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I found myself cheering for all of the characters and the issues they are dealing with.\"",
+        "\"It allowed me to feel compassion for its main character and understand what it means to experience discrimination from a non-racial perspective.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama, comedy, and animation, often appreciating unpredictable storylines and emotional depth. They have a strong preference for high-quality production and sensory experiences, while their loyalty to specific creators is less pronounced. Overall, they seek engaging narratives that evoke strong emotional responses."
+}

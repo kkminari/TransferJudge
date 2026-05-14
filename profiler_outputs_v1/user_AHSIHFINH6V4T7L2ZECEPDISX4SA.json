@@ -1,0 +1,77 @@
+{
+  "user_id": "AHSIHFINH6V4T7L2ZECEPDISX4SA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"Great movie with a nice twist! My favorite kind of movie.\"",
+        "\"Hilarious! Non stop laughter!! A comedic genious..\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good plot and good acting.\"",
+        "\"Great movie, great acting! My mom and I have watched it four times.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Boring and didn’t seem to go anywhere. Don’t bother.\"",
+        "\"Not the movie I thought it was.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great acting as well. Do check it out.\"",
+        "\"Streep out does herself once again. Great cast-great plot!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Meryl Streep, Leonardo DiCaprio",
+      "evidence": [
+        "\"I really like Merryl Streep.\"",
+        "\"Great acting once again by Leonardo for sure.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual storytelling",
+      "evidence": [
+        "\"Great movie-great acting.\"",
+        "\"This performance was perfection!!! Must watch again.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is an amazing movie! Streep out does herself once again.\"",
+        "\"I really enjoyed this movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and comedy films, particularly those with good acting and engaging plots. They appreciate high production quality and emotional resonance, often enjoying movies that evoke strong feelings. However, they have shown some aversion to slow-paced narratives that lack direction."
+}

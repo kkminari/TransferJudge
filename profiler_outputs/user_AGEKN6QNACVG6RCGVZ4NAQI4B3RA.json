@@ -1,0 +1,77 @@
+{
+  "user_id": "AGEKN6QNACVG6RCGVZ4NAQI4B3RA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary, indie",
+      "evidence": [
+        "\"this is (sadly, rare) an intelligent, thoughtful, and compassionate film\"",
+        "\"the criticality of the content of this piercing, eye-opening documentary\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"brilliant adaptation of a remarkable, intelligent, creative, complex book\"",
+        "\"subtle, quiet, exquisite, a must-see for any who cherish life, nature, and art.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"quiet, poignant, beautiful\"",
+        "\"intelligent, elegantly done series sprinkled with humor\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"top-notch actors, exquisite attention to detail\"",
+        "\"brilliant adaptation... executed this so well? with panache, elegance, humor, tension, insight.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"i love miyazaki and ghibli studios\"",
+        "\"bravo for producing this beauty!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"haunting tone, exquisite nuances of art and horror, life and death\"",
+        "\"the richness of the contents of the characters, the stories, the fables\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"brought tears, stayed with me\"",
+        "\"exquisite, thought- and heart-provoking, paean to life in all of its miseries and all of the possibilities of hope and life.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for emotionally resonant, complex dramas and documentaries, often appreciating high production quality and thoughtful storytelling. They show a fondness for indie films and creators like Miyazaki, valuing rich character development and evocative narratives."
+}

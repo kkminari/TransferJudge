@@ -1,0 +1,77 @@
+{
+  "user_id": "AE4ZKVU3JPGBYSTORDCE6AFAZV2A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "superhero, comedy",
+      "evidence": [
+        "\"All-Star Superman is probably one of the five greatest Superman stories of all time\"",
+        "\"The funniest network sitcom since 'Seinfeld'\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"It methodically steps through various retellings of Turner's story and places them within the context of their times.\"",
+        "\"It feels like two movies that are kind of smashed together.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Lack of a forward moving narrative momentum is not always an issue for these sketch based SNL comedies\"",
+        "\"The film does not fit as tightly together as you would hope.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The picture is amazing, but the sequel itself remains under-cooked as ever.\"",
+        "\"The visual effects still hold up for the most part.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Sam Raimi just has a better feel for the slightly unhinged tone of the material.\"",
+        "\"Richard Donner changed all of that.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The action is fun and well-thought out, if a bit redundant.\"",
+        "\"The visual effects are a decade more advanced in the later film.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"There is real weight to the Harry Osborn arc, despite it getting a short shrift in terms of screen time.\"",
+        "\"The idea of forcing Superman to choose between being with the woman he loves and serving the world is an excellent.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex narratives, particularly in superhero and comedy genres, and values high production quality. They appreciate emotional depth in storytelling but show mixed feelings towards pacing and brand loyalty."
+}

@@ -1,0 +1,75 @@
+{
+  "user_id": "AHKZBKW6WG27LN2HMSOSP6EZUOBA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Like this movie, Entertaining.",
+        "Good History Book to Read."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Like this movie.",
+        "Like this movie."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Like this movie, Entertaining.",
+        "liked it, and bought it."
+      ],
+      "confidence": 0.3,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Like this movie.",
+        "Super vendor, very satisfied with their product."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Super vendor, very satisfied with their product."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "Product received in good condition and as scheduled."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Like this movie.",
+        "liked it, and bought it."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a general enjoyment for movies, often expressing satisfaction with their purchases. However, their reviews lack depth in genre preferences and emotional engagement, indicating a focus on entertainment rather than narrative complexity or production quality."
+}

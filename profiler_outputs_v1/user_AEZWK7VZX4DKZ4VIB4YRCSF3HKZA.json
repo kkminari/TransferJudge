@@ -1,0 +1,77 @@
+{
+  "user_id": "AEZWK7VZX4DKZ4VIB4YRCSF3HKZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, fantasy, comedy",
+      "evidence": [
+        "\"I like me some DREDD! Great movie, not what I expected. Very harsh, and violent...but some great sci-fi action.\"",
+        "\"A fantastic, fun movie full of out-of-this-world creatures and battles that are beyond belief...OF COURSE!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's good for most of the reasons given. It's also bad for the bad reasons given.\"",
+        "\"It's a Transformer movie. Seen one, seen em all.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Just watch, buy it, rent it and view it. BUT more than once.\"",
+        "\"It's fun, fast-paced, and has all the cursing & skinny dipping one needs.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I liked it. Nothing grand, but good story.\"",
+        "\"Watch the trailer, and you've seen enough. This movie has no redeeming value.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Star Wars, Peter Jackson",
+      "evidence": [
+        "\"A huge Star Wars fan, but somehow, I'd never seen this.\"",
+        "\"Forget the nay sayers and just have a good time watching it\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"A fantastic, fun movie full of out-of-this-world creatures and battles that are beyond belief...\"",
+        "\"Great movie, not what I expected. Very harsh, and violent...but some great sci-fi action.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Not the bible story I was taught for sure. Strange Sci-Fi, not good, won't be in my I'd like to see that again list.\"",
+        "\"Watch the trailer, and you've seen enough. This movie has no redeeming value.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and fantasy genres, particularly enjoying visual spectacles and fast-paced narratives. They exhibit brand loyalty to franchises like Star Wars and appreciate entertaining content, though they show less concern for production quality and emotional depth."
+}

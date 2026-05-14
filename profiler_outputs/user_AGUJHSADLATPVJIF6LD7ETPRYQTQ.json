@@ -1,0 +1,78 @@
+{
+  "user_id": "AGUJHSADLATPVJIF6LD7ETPRYQTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, comedy, true crime, horror",
+      "evidence": [
+        "\"One of my favorite action flicks because of the Fast Pace.\"",
+        "\"I really like true crime stories and so this series is really good for me\"",
+        "\"I love this version of The Masque of the Red Death.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"If you're looking for something with more depth keep looking.\"",
+        "\"The movie glosses over the information of 13 individuals.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"One of my favorite action flicks because of the Fast Pace.\"",
+        "\"I liked everything about the movie it was fun, silly, dramatic, and a plethora of other things.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Clint Eastwood never fails to produce a wonderful job in his movies.\"",
+        "\"The movie is fairly faithful to the book given the time period It was produced.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Clint Eastwood, Liam Neeson",
+      "evidence": [
+        "\"I really enjoyed Clint Eastwood whether he is starring or directing or both...\"",
+        "\"I really love this movie. Liam Neeson is very wonderful actor.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I like my grandkids to watch but I think this one's cute and recommend to my daughter.\"",
+        "\"The Masque of the Red Death in this version is well done and follows the story nicely.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This was an incredible movie with a great twist on justice for a pedophile.\"",
+        "\"Absolutely love the entire series.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced action and drama films, particularly those featuring Clint Eastwood and Liam Neeson. They appreciate high production quality and have a strong emotional connection to the content they watch, often favoring true crime and horror genres."
+}

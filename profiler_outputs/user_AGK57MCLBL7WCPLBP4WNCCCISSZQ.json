@@ -1,0 +1,77 @@
+{
+  "user_id": "AGK57MCLBL7WCPLBP4WNCCCISSZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "disaster, paranormal, family-friendly",
+      "evidence": [
+        "\"I do enjoy watching it or even binge watching it if you like disaster programs...\"",
+        "\"If you liked Muriel's Wedding then you will [probably] like this movie; if you like stories about dysfunctional Australian families...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Though, a bit predictable, it still draws you in and you can't stop watching.\"",
+        "\"This show feels fake, it sounds fake... it's just poorly acted, poorly executed; it's just poor.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Boring! Slow! Dreary! & Unimaginative!\"",
+        "\"What took this movie 90 minutes to portray could have been done in 45 min. or less.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"It's really more corny than cute; but I enjoyed it none*the*less.\"",
+        "\"Don't waste your money on this episode, it cuts off before the end...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "Confidence is low due to lack of evidence."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It's visual spectacle is much more vibrant with the cast and sets dressed and draped in much more color...\"",
+        "\"Makes me weep every time. It's pretty, darn funny too.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Makes me weep every time.\"",
+        "\"I think this episode is my favorite; it holds my interest all the way through...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys disaster and family-friendly genres, showing a preference for simple narratives and slower pacing. They value emotional resonance in their viewing experiences but are less concerned with production quality and brand loyalty."
+}

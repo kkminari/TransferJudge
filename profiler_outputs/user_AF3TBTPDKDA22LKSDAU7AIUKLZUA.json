@@ -1,0 +1,77 @@
+{
+  "user_id": "AF3TBTPDKDA22LKSDAU7AIUKLZUA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, fantasy",
+      "evidence": [
+        "\"This movie Aventures in Babysitting was one of those... a funny movie that will always bring me back to my childhood.\"",
+        "\"The Color Purple has to be one of the most emotional movies I have ever seen.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the story is bland and without a continuous plot.\"",
+        "\"many people wouldn't want to read about the movie plot, because we all know it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"this flick has it all, entertaining all the way that's why I bought it, it's a total classic now.\"",
+        "\"this movie is master genius of the comedy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent Movie, Excellent Direction, acting...well everything...a classic.\"",
+        "\"the cinematography & the acting is superb.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Mr. Spielberg understand the human intimate emotions...\"",
+        "\"Janet surely will always be one of the most accomplished dancers.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"this movie really reaches to your every sense.\"",
+        "\"this is fantasy made come true, Labyrinth has always been a favorite of mine since I was a kid.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The Color Purple has to be one of the most emotional movies I have ever seen.\"",
+        "\"this movie is great and has a lot of material that is real and shows how can you get up after a very hurtful relationship.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and drama films, often appreciating emotional depth and high production quality. They enjoy fast-paced narratives and have a fondness for nostalgic and childhood favorites, while showing less loyalty to specific creators."
+}

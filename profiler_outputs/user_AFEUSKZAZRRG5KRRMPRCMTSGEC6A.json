@@ -1,0 +1,74 @@
+{
+  "user_id": "AFEUSKZAZRRG5KRRMPRCMTSGEC6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, comedy, mystery, war",
+      "evidence": [
+        "\"Great mystery movie. Very entertaining.\"",
+        "\"This movie is a true story. I missed the event in the news. It was heart warming and I felt proud to experience this story with the actual participants being the actors in this movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Simple production with a predictable plot\"",
+        "\"Another bang-bang shoot-em-up movie. Totally predictable.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Turn the volume knob up high and feel the race cars in your family room.\"",
+        "\"Captain Marvel is a GREAT flick\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"My son works in the VFX industry and he and I are both impressed with the effects in this movie.\"",
+        "\"Pretty authentic WW II movie. The ending is awesome.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Crank Up the Volume, for a Great Movie\"",
+        "\"Great Visual Effect for an older movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It was heart warming and I felt proud to experience this story with the actual participants being the actors in this movie\"",
+        "\"This movie is based on fact. awesome!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action-packed and emotionally resonant films, particularly in the genres of drama, comedy, and war. They appreciate high production quality and visual effects but prefer straightforward narratives and fast pacing."
+}

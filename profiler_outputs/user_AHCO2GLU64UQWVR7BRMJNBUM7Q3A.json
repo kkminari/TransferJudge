@@ -1,0 +1,76 @@
+{
+  "user_id": "AHCO2GLU64UQWVR7BRMJNBUM7Q3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy",
+      "evidence": [
+        "'Good butt kickin flick !!'",
+        "'LOVE IT !'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'It killed some time. So fake it was hokey in some scenes.'",
+        "'Eh... It passes the time I suppose.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "'Awesome'",
+        "'Good butt kickin flick !!'"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "'Terrible cinematography'",
+        "'It killed some time. So fake it was hokey in some scenes.'"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "'Chris doesnt disappoint.'"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "'Good butt kickin flick !!'",
+        "'AWESOME as always !'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "'It killed some time. So fake it was hokey in some scenes.'",
+        "'Meh... not as good as ANY of the other Wolverine storylines'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and comedy films, often favoring fast-paced narratives. They show a low sensitivity to production quality and have mixed feelings about emotional engagement, indicating a preference for entertainment over depth."
+}

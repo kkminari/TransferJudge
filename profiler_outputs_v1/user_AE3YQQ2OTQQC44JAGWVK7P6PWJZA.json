@@ -1,0 +1,77 @@
+{
+  "user_id": "AE3YQQ2OTQQC44JAGWVK7P6PWJZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, comedy",
+      "evidence": [
+        "\"This is what Sci Fi is all about, investigating how advancing technology effects us while exploring the human condition.\"",
+        "\"Take some of the funny revisionist cheek of the Hercules/Xena franchise... a stunningly shot, empic, dramatic fanstasy series with great moments of comedy to boot.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "medium",
+      "evidence": [
+        "\"I find it a nice, character driven show with real sci fi concepts.\"",
+        "\"A solid Sci Fi backbone and a nice level of intrigue and twists to follow and unravel.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Some folks I know have said it is too slow for them. I find it a nice, character driven show...\"",
+        "\"The story is still topical, with the feel of a cliff notes outline.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent quality acting, production and concept.\"",
+        "\"The cinematography is stunning.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have loved bones since it first aired...\"",
+        "\"I have loved this show from the first episode.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"It's sad to see this show giving way for some of the more trendy apocalyptic shows that are now airing on Syfy...\"",
+        "\"Gritty, Riveting, Tense. A must see show for anyone who loves to watch characters react to each other and the world around them.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This woman is brilliant! I needed this. So funny, awkward, human, painful and hopeful...\"",
+        "\"Love it! Gritty, Riveting, Tense. A must see show for anyone who loves to watch characters react to each other and the world around them.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and drama genres, appreciating character-driven narratives with high production quality. They enjoy slower pacing and emotional depth in storytelling, often valuing the sensory experience of the shows they watch."
+}

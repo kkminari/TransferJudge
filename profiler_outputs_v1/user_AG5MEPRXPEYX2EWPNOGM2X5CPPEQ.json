@@ -1,0 +1,76 @@
+{
+  "user_id": "AG5MEPRXPEYX2EWPNOGM2X5CPPEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, drama, comedy",
+      "evidence": [
+        "\"An absolute must own.\"",
+        "\"Hands down one of the funniest old school movies I have seen in a good long while.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The dialogue was good yet in places felt forced.\"",
+        "\"A powerful story.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"An thrill ride from beginning to end.\"",
+        "\"Perfect pacing, I loved the use of the black and the white; it made it feel more intimate.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Solid writing, amazing acting, cinematography and music.\"",
+        "\"Great writing. Great acting.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Usually I love his movies but this one felt like a three hours of hoping something great would come of all the incredible dialogue.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The music was good. The cast was brilliant.\"",
+        "\"The scale of this was huge.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Wow one word 'speechless', loved season one and season two was even more incredible.\"",
+        "\"I'd highly recommend it!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for thrillers and comedies, appreciating high-quality production and fast pacing. They value emotional resonance in their viewing experiences, often recommending shows and movies that evoke strong feelings."
+}

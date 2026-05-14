@@ -1,0 +1,74 @@
+{
+  "user_id": "AHCL5V4P7SFR3AVLUX5XDX6AIFXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy",
+      "evidence": [
+        "\"I have always loved this simple, humorous story of a cute little town and the people who live there...\"",
+        "\"How can you go wrong with a great comedy?\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I have always loved this simple, humorous story...\"",
+        "\"It's taking a long time for her character to mature.....\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It's taking a long time for her character to mature.....\"",
+        "\"I waited for something really cool to happen, then.......... n o t h i n g.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"How can you go wrong with a movie like this? Classic...\"",
+        "\"My boys are enjoying this series! Yes, I get complaints about the computer graphics but they really like the adventures!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"I waited for something really cool to happen, then.......... n o t h i n g.\"",
+        "\"My boys were out the door in ten...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I waited for something really cool to happen, then.......... n o t h i n g.\"",
+        "\"It's taking a long time for her character to mature.....\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly comedies that are simple in narrative structure. They show a preference for slower pacing and are less concerned with production quality, focusing more on entertainment value."
+}

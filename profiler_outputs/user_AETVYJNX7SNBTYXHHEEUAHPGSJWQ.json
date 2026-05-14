@@ -1,0 +1,77 @@
+{
+  "user_id": "AETVYJNX7SNBTYXHHEEUAHPGSJWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "history, drama",
+      "evidence": [
+        "HISTORY AND DRAMA, GREAT JOB!!",
+        "I am so starved for any decent drama with science and/or history backgrounds"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I know the series is not historically accurate, but so far at least they haven't just 'STOOPID SLAPPED' us",
+        "I guess I am happy with the series because it is about something I love."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I can easily overlook their shortcomings.",
+        "I would have loved for this to have been a mini-series like 'The Winds of War, mixing history with a good fictional drama.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "the shooting is decent.",
+        "These folks have a pretty solid cast, and wardrobe, and the shooting is decent."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I eventually got to meet Ian Tattersall, who introduced me to Don.",
+        "I also HEAVILY recommend 'In Search Of Human Origins' w/ Don Johansen."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I LOVE HAVING NEW INTELLIGENT INFORMATION LAID OUT LIKE THIS SHOW DOES.",
+        "It gave me more knowledge with which to work."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "A MUST SEE! Esp. for all black kids, and even adults who have been educated in our 'WHITEWASHED HISTORY' classes.",
+        "This is a GREAT TRIBUTE TO HIS LIFE AND IN HIS OWN WORDS!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for historical and dramatic content, often appreciating series that provide educational value. They favor slower-paced narratives that allow for deeper engagement with the subject matter, and they exhibit a high sensitivity to emotional resonance in the stories they consume."
+}

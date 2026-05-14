@@ -1,0 +1,77 @@
+{
+  "user_id": "AFMF6AM7XP5MWM4HFG2ZYBACDLXQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animation, slasher, action",
+      "evidence": [
+        "\"A personal favorite of mine in the 80s Slasher genre.\"",
+        "\"The LEGO Justice League movies are pure greatness.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I still have no idea what the movie is about. But as a big action movie it is spectacular to watch.\"",
+        "\"There are definitely worse slashers BUT there are way better\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Some of the stunt work is just amazing. A nice to decompress.\"",
+        "\"So bad it was hilarious. I wish there were more episodes.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The only downside is that it doesn't feature the original Beatrix Potter illustrations.\"",
+        "\"Picture quality is amazing though.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"My personal favorite is Batman Beyond.\"",
+        "\"I'm a huge Mike Hammer fan.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The Blu-ray really brings out the color and the singing is pure greatness.\"",
+        "\"It's a very colorful show.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I like this movie. Yeah there are plot holes as big as the grand canyon.\"",
+        "\"This is just bad. Very bad.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys animated features and 80s slasher films, showing a preference for fast-paced entertainment. They appreciate visual quality but are less concerned with narrative complexity and emotional depth."
+}

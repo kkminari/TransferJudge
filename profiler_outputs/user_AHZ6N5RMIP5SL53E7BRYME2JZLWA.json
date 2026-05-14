@@ -1,0 +1,60 @@
+{
+  "user_id": "AHZ6N5RMIP5SL53E7BRYME2JZLWA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "none",
+      "evidence": [],
+      "confidence": 0.0,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "narrative_complexity": {
+      "value": "none",
+      "evidence": [],
+      "confidence": 0.0,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "none",
+      "evidence": [],
+      "confidence": 0.0,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "quality and ease of use of this item"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "none",
+      "evidence": [],
+      "confidence": 0.0,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "none",
+      "evidence": [],
+      "confidence": 0.0,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "I do not review products ever"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has not provided specific preferences regarding genres, narrative complexity, pacing, or brand loyalty. They show a high sensitivity to quality, indicating a preference for well-made products, but lack emotional engagement in their reviews."
+}

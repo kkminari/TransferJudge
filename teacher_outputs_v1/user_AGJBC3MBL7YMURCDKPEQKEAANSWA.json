@@ -1,0 +1,159 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "PARTIAL",
+      "rationale": "User enjoys drama and comedy films, which can partially translate to literary fiction and humorous novels. However, the nuances of comedy and drama in books may differ from film, so recommendations should focus on accessible narratives in these genres.",
+      "transferred_insight": "Prefer accessible literary and humorous fiction, with a focus on drama and comedy elements.",
+      "confidence": 0.75
+    },
+    "narrative_complexity": {
+      "decision": "TRANSFER",
+      "rationale": "A preference for simple narratives directly applies to book recommendations, favoring straightforward plots and clear storytelling without complex structures.",
+      "transferred_insight": "Prefer straightforward, simple narratives in books.",
+      "confidence": 0.85
+    },
+    "pacing_preference": {
+      "decision": "TRANSFER",
+      "rationale": "Fast-paced storytelling is a strong preference that translates well to books, suggesting a focus on page-turners and engaging narratives that maintain a quick tempo.",
+      "transferred_insight": "Prefer fast-paced, engaging books that keep the reader's attention.",
+      "confidence": 0.9
+    },
+    "quality_sensitivity": {
+      "decision": "PARTIAL",
+      "rationale": "User shows low quality sensitivity in film, indicating they prioritize entertainment value over production quality. This suggests a preference for enjoyable reads rather than critically acclaimed works.",
+      "transferred_insight": "Prioritize entertaining books over critically acclaimed ones.",
+      "confidence": 0.6
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "Kevin Costner is an actor, and brand loyalty to actors does not translate to authors. Recommending based on actor loyalty would lead to negative transfer.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "Visual spectacle and action choreography are specific to film and do not apply to books. This pattern should not influence book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "emotional_resonance": {
+      "decision": "PARTIAL",
+      "rationale": "User has a medium level of emotional engagement with stories, suggesting a preference for books that evoke some emotional response but are not overly heavy or dramatic.",
+      "transferred_insight": "Prefer books with moderate emotional depth and relatable themes.",
+      "confidence": 0.65
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "B0746L5TRW",
+      "title": "Against the Inquisition",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference"
+      ],
+      "reasoning": "This historical novel offers a straightforward narrative with engaging themes of resistance and freedom, aligning with the user's preference for drama and simple storytelling. The pacing is likely to keep readers engaged throughout."
+    },
+    {
+      "rank": 2,
+      "item_id": "B0084MVZ32",
+      "title": "Deep in the Heart of France: A Guide to the Loire Valley’s Contemporary Caves",
+      "score": 0.8,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "While not a traditional narrative, this guide offers an accessible exploration of a unique topic, appealing to the user's preference for simple and engaging content. It provides entertainment value through its informative style."
+    },
+    {
+      "rank": 3,
+      "item_id": "B00CRYE6CU",
+      "title": "A Murder in Macedon (Alexander the Great Mysteries, Book 1)",
+      "score": 0.78,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference"
+      ],
+      "reasoning": "This mystery novel features a straightforward plot and engaging pacing, making it a suitable choice for the user who enjoys fast-paced narratives. The historical context adds depth without overwhelming complexity."
+    },
+    {
+      "rank": 4,
+      "item_id": "B01HAATEOK",
+      "title": "Flow Production with Throughput Time Management",
+      "score": 0.75,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book offers practical insights in a straightforward manner, appealing to the user's preference for accessible content. While it may not be a traditional narrative, its engaging style can provide entertainment value."
+    },
+    {
+      "rank": 5,
+      "item_id": "B00N4FA82S",
+      "title": "By Patti J. Marinelli Puentes (6th Edition)",
+      "score": 0.73,
+      "applied_patterns": [
+        "narrative_complexity"
+      ],
+      "reasoning": "This educational book is straightforward and easy to understand, aligning with the user's preference for simple narratives. It provides valuable information in an engaging format."
+    },
+    {
+      "rank": 6,
+      "item_id": "B07VCV7TSX",
+      "title": "Ellie and the Harpmaker",
+      "score": 0.7,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This women's fiction novel likely features relatable themes and moderate emotional depth, appealing to the user's interest in drama and emotional engagement without being overly heavy."
+    },
+    {
+      "rank": 7,
+      "item_id": "B01HAATEOK",
+      "title": "The Point of Richness: A guide to financial freedom and personal richness through real estate",
+      "score": 0.68,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book provides practical advice in an accessible format, appealing to the user's preference for entertaining and straightforward content. It offers insights without overwhelming complexity."
+    },
+    {
+      "rank": 8,
+      "item_id": "B00ALJH62U",
+      "title": "Invisible Cities",
+      "score": 0.65,
+      "applied_patterns": [
+        "narrative_complexity"
+      ],
+      "reasoning": "While this book is more abstract, its simple narrative style and imaginative themes may resonate with the user's preference for straightforward storytelling, providing an engaging reading experience."
+    },
+    {
+      "rank": 9,
+      "item_id": "B08PJPR29G",
+      "title": "The Ahern Brothers Collection",
+      "score": 0.63,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This collection of romantic stories likely features engaging narratives with emotional depth, appealing to the user's interest in drama and relatable themes."
+    },
+    {
+      "rank": 10,
+      "item_id": "B00N4FA82S",
+      "title": "Acting Today: A Guide to Hollywood's New Era",
+      "score": 0.6,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This guide to acting offers straightforward advice and insights into the entertainment industry, aligning with the user's interest in drama and simple narratives."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty to Kevin Costner and sensory preferences for visual spectacle were blocked as they do not translate to book recommendations.",
+  "overall_strategy": "Focused on transferring the user's preferences for simple narratives, fast pacing, and engaging content while blocking patterns that do not apply to books. Recommendations emphasize accessible and entertaining reads."
+}

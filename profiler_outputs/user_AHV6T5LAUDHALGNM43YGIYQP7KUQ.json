@@ -1,0 +1,74 @@
+{
+  "user_id": "AHV6T5LAUDHALGNM43YGIYQP7KUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary",
+      "evidence": [
+        "\"This is such an authentic and honest look at a young woman who, because of love, got lost.\"",
+        "\"I found this series to be insightful.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It is drama so I understand that is not 'real life' but helped me look at the lives of people I do have as part of my everyday life...\"",
+        "\"I was surprised at the amount of faith portrayed in the series...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It is drama so I understand that is not 'real life' but helped me look at the lives of people...\"",
+        "\"I found great insights as a result of watching it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I liked this movie... it was sweeter than I expected it to be!\"",
+        "\"A great feel good movie...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I was touched deeply by this documentary.\"",
+        "\"It is powerful and will help you move toward compassion and understanding...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I was touched deeply by this documentary.\"",
+        "\"It is powerful and will help you move toward compassion and understanding...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for drama and documentary genres, appreciating narratives that evoke emotional resonance and insights into human experiences. They favor slower pacing and are less concerned with production quality, indicating a focus on the story and its emotional impact."
+}

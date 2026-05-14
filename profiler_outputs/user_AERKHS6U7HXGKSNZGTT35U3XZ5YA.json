@@ -1,0 +1,76 @@
+{
+  "user_id": "AERKHS6U7HXGKSNZGTT35U3XZ5YA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, comedy, drama, trash cinema",
+      "evidence": [
+        "\"Hilarious & Moving Doc, Beautiful Love Letter to Families Real & Of Choice\"",
+        "\"Perfect low budget, high noir trash wallow\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's a story of life taken as it comes, all the ups & downs and what it takes to persevere.\"",
+        "\"The narrative framing gets a little precious.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"...the kind that so often no longer gets made.\"",
+        "\"Keep your expectations extremely low and remember that you won't be getting these 40 minutes back.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Is it perfect? No. But it's charming road movie, with dreamlike locations and engaging performances.\"",
+        "\"This is some 5 star trash & I mean that in the best way possible.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Olivia Colman, Graham Norton",
+      "evidence": [
+        "\"I came because I've come to adore Olivia Colman via Fleabag, The Crown & her amazing appearances on Graham Norton.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"...the beauty of doing the best you can with what you've got.\"",
+        "\"...dreamlike locations and engaging performances.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I was crying at the end. I could not recommend this more highly.\"",
+        "\"...the bond that was forged between subject and filmmaker on camera.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys documentaries and comedic dramas, often appreciating films that are charming and emotionally resonant. They show a preference for simple narratives and are less concerned with production quality, favoring engaging performances and heartfelt storytelling."
+}

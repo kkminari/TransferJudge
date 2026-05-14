@@ -1,0 +1,76 @@
+{
+  "user_id": "AGD5LFFUGHQ527QHHI4QNZPNJGAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, thriller, comedy",
+      "evidence": [
+        "\"I have been dying for a decent sci fi thriller and I love the stalker genre.\"",
+        "\"Me and the fams just watched this again in 2021 and it is freaking hilarious!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the plot was implausible, the character development was so predictable, the storyline was horrible\"",
+        "\"Good until the incredibly predictable ending!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"fast paced and just soapy enough!\"",
+        "\"the last 30 minutes are so intense I kept jumping off my chaise annoying the crap out of my husband - really good!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I still love Will, Margot is pretty awesome too, but no. No. And No.\"",
+        "\"the writing, the story - its implausibility, the pacing, ugh - it was like scratching a chalkboard.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love everything about this movie and I love just about everything from Tennessee Williams - perfection!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric music",
+      "evidence": [
+        "\"the views are stunning and the jazz is really nice.\"",
+        "\"the chemistry between blue eyes (Newman) and violet eyes (Taylor), the drama, the amazing actors (Ives).\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This was far more touching that I ever thought it would be - although it moved slow in some parts, it was well worth the wait.\"",
+        "\"This is a touching personal look at the president and his genuine concern for the poor.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of sci-fi, thrillers, and comedies, often favoring fast-paced narratives. They show a strong preference for emotional resonance and visual appeal, but are critical of predictable storylines and low production quality."
+}

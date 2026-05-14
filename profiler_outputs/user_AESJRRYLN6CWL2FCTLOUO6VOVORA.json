@@ -1,0 +1,77 @@
+{
+  "user_id": "AESJRRYLN6CWL2FCTLOUO6VOVORA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, period, classic",
+      "evidence": [
+        "\"Perhaps I am a sucker for 'period' movies.\"",
+        "\"This DVD Documentary-style tribute to general aviation...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story of the man who came to America with no money............well, watch it........nothing not to like.\"",
+        "\"A beautifully produced and 'filmed' series.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Well acted. Great pacing etc.\"",
+        "\"The video transfer is actually very good.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Wonderful attention to detail re period settings.\"",
+        "\"The video transfer is actually very good.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I think the A and E series is well written, well acted, beautiful photography.\"",
+        "\"Ann Bancroft and Sir Anthony Hopkins and Judy Dench are wonderfully cast and are a pleasure to watch.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"masterpiece of photography, music.........written for this project, and a beautiful 'story' with gorgeous airplanes...\"",
+        "\"The Canadian scenery is a real star too.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Loved the series as a kid....starting ...early 1950's. Still enjoy it.\"",
+        "\"What a neat documentary. Worth watching on a couple of levels I think.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and period pieces, appreciating high production quality and fast pacing. They value emotional resonance in their viewing experiences, often reflecting on nostalgic favorites."
+}

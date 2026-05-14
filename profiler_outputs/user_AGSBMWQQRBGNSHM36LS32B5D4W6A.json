@@ -1,0 +1,77 @@
+{
+  "user_id": "AGSBMWQQRBGNSHM36LS32B5D4W6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "western, drama",
+      "evidence": [
+        "\"Great new western, cowboys, crooks and indians.\"",
+        "\"The story line is so true about all thieving politicians.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story line is so true about all thieving politicians.\"",
+        "\"Its nice to see all episodes in a row without commercials.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great series, found us watching 3 or 4 at a time. Its addicting.\"",
+        "\"We got addicted and watched 2 per night.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Stupid\"",
+        "\"Too bloody\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Kevin Costner",
+      "evidence": [
+        "\"Kevin costner. how can it be bad.\"",
+        "\"The great Kevin costner play another great role.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Setting are real looking, plot keeps you going.\"",
+        "\"Great show scenery and actors.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Its nice to see all episodes in a row without commercials.\"",
+        "\"Great series, found us watching 3 or 4 at a time. Its addicting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys westerns and dramas, particularly those with engaging storylines and fast pacing. They show a strong preference for Kevin Costner's work and appreciate immersive settings, indicating a taste for emotional and engaging narratives."
+}

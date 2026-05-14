@@ -1,0 +1,77 @@
+{
+  "user_id": "AFG2XTB7VISQLBTIFME7MP5JS7TQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, animation, superhero",
+      "evidence": [
+        "Best marvel movie yet, besides the the 2nd GOTG!!",
+        "DBZ fans must have here! Worth it!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Was a good story after the affects of FF7.",
+        "Movie was great, would recommend to watch."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Best marvel movie yet, besides the the 2nd GOTG!!",
+        "Watch all the DBZ movies and all most all of them are great!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "the movies are ok, but watchable!",
+        "Good shipping, and nice cover, clean."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to DBZ and Marvel",
+      "evidence": [
+        "Best marvel movie yet, besides the the 2nd GOTG!!",
+        "DBZ fans must have here! Worth it!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "Best marvel movie yet, besides the the 2nd GOTG!!",
+        "If you wanna collect all the DBZ movies and for a good price."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Sadly this movie was a let down, as a huge TMNT fan I did not like this movie.",
+        "the movies are ok, but watchable!"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action-packed and animated genres, particularly enjoying Marvel and DBZ films. They tend to favor straightforward narratives and fast pacing, while showing low sensitivity to production quality and emotional depth."
+}

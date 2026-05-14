@@ -1,0 +1,77 @@
+{
+  "user_id": "AGVY44NR3JEBY2XLLA5FGLKKMKHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "nostalgic, horror, mystery, historical",
+      "evidence": [
+        "\"I grew up with these kind of movies as a kid in the 50's, so they are very nostalgic to me.\"",
+        "\"James Wan is a good director and producer and I hope he continues in this genre.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot is weak, acting weak... Overall, not all that great, except for a look into 1950's life somewhat, which makes it worthwhile to watch.\"",
+        "\"The story itself is quite entertaining. A undercover cop who strongly resembles a notorious criminal... More talk than violence...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The pace of the movie kept your interest.\"",
+        "\"It was nicely done for a TV movie and enjoyable.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"You can tell this wasn't a Hollywood movie. It was enjoyable to watch, plenty of action scenes, humor, even a touch of religion.\"",
+        "\"The quality of the video is comparable to Alpha Video but the story itself is quite entertaining.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"James Wan is a good director and producer and I hope he continues in this genre.\"",
+        "\"I'm a fan of William Powell and Myrna Loy in their Thin Man movies.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual nostalgia",
+      "evidence": [
+        "\"The history this movie shows from the iron lung, Boulder dam, and the Streak itself makes this movie great.\"",
+        "\"Imagine a movie without sex, profanity, or gore.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It evoked a lot of memory, some still as fresh as the day it happened.\"",
+        "\"Yes, we lost quite the person with his untimely death which makes this movie very special to many of us.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for nostalgic and historical films, particularly those from the 1950s. They appreciate simple narratives and emotional resonance, often valuing entertainment over high production quality."
+}

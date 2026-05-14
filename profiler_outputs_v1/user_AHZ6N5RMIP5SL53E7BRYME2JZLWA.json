@@ -1,0 +1,70 @@
+{
+  "user_id": "AHZ6N5RMIP5SL53E7BRYME2JZLWA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "No specific genres mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The reviews do not indicate a preference for complex narratives."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "No specific pacing preferences mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "frequently mentions quality and ease of use"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No mentions of specific creators or franchises."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "mixed",
+      "evidence": [
+        "No specific sensory preferences mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "The reviews focus on product quality rather than emotional impact."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong focus on quality and ease of use in their reviews, indicating a preference for well-made products. However, there is little evidence of specific genre preferences, narrative complexity, or emotional engagement, suggesting a more functional approach to their viewing choices."
+}

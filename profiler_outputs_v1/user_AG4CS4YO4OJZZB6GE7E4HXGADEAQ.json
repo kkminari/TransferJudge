@@ -1,0 +1,76 @@
+{
+  "user_id": "AG4CS4YO4OJZZB6GE7E4HXGADEAQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama, comedy",
+      "evidence": [
+        "\"Delightful film with terrific acting... engaging tale.\"",
+        "\"Well done mystery that keeps you guessing.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Consistently mysteries with twists and turns...\"",
+        "\"Great series with complicated mysteries, interesting relationships...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Great acting but the plot was quite lacking. SLoooow.\"",
+        "\"Good escape watching as it's not realistic but is entertaining...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Delightful film with terrific acting...\"",
+        "\"Beautiful filmed and great acting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If you're a Woody fan you'll like this though it's not one of his best.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Lovely heartwarming movie... beautiful filmed and great acting.\"",
+        "\"Funny and heartwarming.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Funny and heartwarming.\"",
+        "\"Delightful story with two of my favorite actors who are always believable.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys engaging mysteries and dramas with strong acting and emotional depth. They appreciate complex narratives with twists and turns but have mixed feelings about pacing, sometimes finding plots slow. Overall, they value high production quality and sensory experiences in their viewing choices."
+}

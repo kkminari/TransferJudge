@@ -1,0 +1,76 @@
+{
+  "user_id": "AGB72V5ZVREWGOYST65LDLEPZGZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Brendan is always funny",
+        "this movie I have watch a hundred times great for helping young people with not only bulling but one who was raped"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "good movie",
+        "loved move just wanted the ending to be a little diffrent"
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "this movie was really good but I thought it would be mmore",
+        "disappointed in this movie"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "good movie",
+        "excilent"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Brendan is always funny"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "this was for a friend",
+        "good movie a surprise ending"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "this movie I have watch a hundred times great for helping young people with not only bulling but one who was raped",
+        "ending was a surprise"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys simple narratives with a focus on emotional impact, often appreciating films that evoke strong feelings. They show a low sensitivity to production quality and have mixed feelings about genre preferences, indicating a broad but not deeply defined taste in movies."
+}

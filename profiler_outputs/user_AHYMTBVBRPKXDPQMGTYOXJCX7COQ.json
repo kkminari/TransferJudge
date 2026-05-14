@@ -1,0 +1,77 @@
+{
+  "user_id": "AHYMTBVBRPKXDPQMGTYOXJCX7COQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's, educational",
+      "evidence": [
+        "\"Great educational, fun series for kids.\"",
+        "\"Excellent Animal Video!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good movie!\"",
+        "\"Great entertainment!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"My son just loved it!\"",
+        "\"My son loves this series. It's hard to find though without being price gouged.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"It was really nice to be able to get it on dvd.\"",
+        "\"Good movie!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Barney",
+      "evidence": [
+        "\"My son loves this series.\"",
+        "\"My son liked this dvd.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Great movie for a penguin lover!\"",
+        "\"My son enjoyed the animals.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"My son loves it!\"",
+        "\"My son just loved it!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for children's and educational content, particularly featuring animals. They value simple narratives that are engaging for kids, with a notable loyalty to the Barney brand, indicating a focus on family-friendly entertainment."
+}

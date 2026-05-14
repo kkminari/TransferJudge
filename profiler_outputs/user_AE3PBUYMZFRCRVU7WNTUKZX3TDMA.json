@@ -1,0 +1,76 @@
+{
+  "user_id": "AE3PBUYMZFRCRVU7WNTUKZX3TDMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "anime, adventure",
+      "evidence": [
+        "'Love seven deadly sins can't wait for the next season'",
+        "'Awsome for anime fans who love adventure'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'the story is great and the way the anime flows is just wow'",
+        "'Sad but good'"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "'the ends and openings are awesome'",
+        "'Love this anime!!!!'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "'Voices are bit off but good story'",
+        "'It was good just want the ova in English for a change'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "'I love the manga and this anime brings it out all the great things about the manga'"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "'the way the anime flows is just wow'",
+        "'the closing song is so awsome'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'Good story but beware it will make you cry'",
+        "'it made my top five'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for anime, particularly adventure genres, and enjoys fast-paced storytelling. They value emotional impact in their viewing experience but show less concern for production quality."
+}

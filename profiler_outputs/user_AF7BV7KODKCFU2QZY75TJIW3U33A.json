@@ -1,0 +1,76 @@
+{
+  "user_id": "AF7BV7KODKCFU2QZY75TJIW3U33A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "suspense, comedy, informative",
+      "evidence": [
+        "\"Suspenseful, humorous, always a twist to the story, good actors/actresses.\"",
+        "\"This movie was more comedy than scary.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good stories, more past info on the characters.\"",
+        "\"Enjoyable, exciting mysteries and stories that our whole family watches.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Hours of interesting and funny watching.\"",
+        "\"No commercials, no time outs, great games.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I like this kind of football. Good games, too.\"",
+        "\"The filming is fantastic, the fish are extraordinary, the stories are enthralling.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I was glad Woody was made available to purchase, as I loved seeing his shorts at the movie theater when I was growing up.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It strengthens my belief in Godly design to see the intricacies in how everything works together.\"",
+        "\"The stories are enthralling, and the countries he visits and people he meets are an education all by themselves.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Now she was able to finish the movie, watching it with the same man she married almost 60 years ago.\"",
+        "\"It was interesting and kept our attention the whole way through.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys suspenseful and comedic narratives with a preference for fast-paced storytelling. They appreciate engaging and informative content, often valuing emotional connections over high production quality."
+}

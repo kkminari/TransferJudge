@@ -1,0 +1,74 @@
+{
+  "user_id": "AGXE46NBGNFVQYJHVB5FL6W3HLOA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "classic, family-friendly",
+      "evidence": [
+        "\"I always loved this movie as a kid, and when I seen it for sale I had to buy it.\"",
+        "\"I am a sucker for older movies, and this was a great buy that I couldnt pass up.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Love this movie!\"",
+        "\"Very cute movie. Can't beat the price.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I love this family and laugh during every episode.\"",
+        "\"I could watch them all the time, and now I can!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The quality is great and the price makes it even better!\"",
+        "\"The DVD was in great shape, no scratches and was packaged well.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"A classic movie that never gets old!\"",
+        "\"It is one of my all time favorites and I will never get tired of watching it.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is a great price for a classic movie. Now my kids will be able to enjoy the same movies I was able to when I was younger.\"",
+        "\"I always loved this movie growing up, and when I seen it for sale I had to buy it.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic and family-friendly movies, often expressing joy and nostalgia in their reviews. They appreciate high production quality and enjoy simple, fast-paced narratives that evoke emotional resonance."
+}

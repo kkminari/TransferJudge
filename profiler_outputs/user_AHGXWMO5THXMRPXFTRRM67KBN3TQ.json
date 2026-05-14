@@ -1,0 +1,77 @@
+{
+  "user_id": "AHGXWMO5THXMRPXFTRRM67KBN3TQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy, family",
+      "evidence": [
+        "\"Non-stop action. Fun to watch, will watch again.\"",
+        "\"Great movie for all to watch. good family movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Solid entertainment throughout. Great story line, great action, we were pleasantly surprised.\"",
+        "\"Great acting, great story line, great everything.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I wanted it to keep going!\"",
+        "\"Non-stop action. Fun to watch, will watch again.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"great acting, mark wahlberg. probably my favorite of all his.\"",
+        "\"the acting was great - especially all the teens.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Dwayne Johnson, Jason Bateman",
+      "evidence": [
+        "\"I call him an acting genius after seeing this.\"",
+        "\"I only give it three because Jason Bateman is great as usual.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"very awesome. hard to watch at some points, but cried like a baby when each died.\"",
+        "\"The depictions are realistic and had me gripping my seat at times.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"cried like a baby when each died. so, so sad.\"",
+        "\"I loved it. They stayed true to the book and the acting was great.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and family-oriented films, often enjoying fast-paced narratives with high emotional impact. They show a notable appreciation for quality acting and have a fondness for specific actors like Dwayne Johnson and Jason Bateman."
+}

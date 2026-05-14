@@ -1,0 +1,89 @@
+{
+  "user_id": "AG6YHM45CMOB2HTOAJCEIND5AB7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, indie",
+      "evidence": [
+        "\"This is why I keep watching indy films; every once in a while I stumble across a tiny, perfect gem.\"",
+        "\"Dark humor with a Scots accent. Fabulous.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"A sweet movie that was more complex and far less predictable than I expected.\"",
+        "\"A puzzler which leaves me with a lot to think about.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The first episode was a little slow to develop and definitely the weakest but it got better and better.\"",
+        "\"Overacted; I tried to care. I don't care.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Every frame is perfect. Wow I loved it.\"",
+        "\"This is a terrific short with compelling characters and nice crisp production values.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If you like Coen Bros you'll probably like this.\"",
+        "\"I wish this series had lasted longer.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Visually stunning but completely unintelligible; it appears the filmmakers got caught up in the technical challenges.\"",
+        "\"Dark, brooding, and gorgeous to watch.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is a gentle bittersweet movie about being adults and being family and loving dogs.\"",
+        "\"It will stick with you.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "dark, quirky",
+      "evidence": [
+        "\"Fabulous. If you like Coen Bros you'll probably like this.\"",
+        "\"I loved it. The first episode was a little slow to develop and definitely the weakest but it got better and better.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user enjoys indie films and dramas with complex narratives and high production quality. They appreciate emotional depth and sensory experiences, particularly in visual storytelling, while having a mixed response to pacing and brand loyalty."
+}

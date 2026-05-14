@@ -1,0 +1,77 @@
+{
+  "user_id": "AH5FPYWD4PN7ZOOI5QBAMK7NMMDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, action, superhero",
+      "evidence": [
+        "\"Horror movies never do as good a job at evoking emotions of terror and sorrow from the viewer like this movie did.\"",
+        "\"The market is saturated with stale horror films, but this one kept me on edge through the entire duration.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Hard to follow dialog... Slow pace... Terrifying subject matter though.\"",
+        "\"Visually appealing, bit I felt like the rest of the movie never latched in.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"A little slow for some, but damn... What a great movie.\"",
+        "\"Most reviews gave it the 'slow burn' critique, and I can agree on some level.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"This movie had little to no redeeming qualities.\"",
+        "\"Despite poor critical reception, I actually really enjoyed this movie...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "Confidence is low due to lack of evidence."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Creeping your way back into the limelight... I hear ya!\"",
+        "\"Visually appealing, bit I felt like the rest of the movie never latched in.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Horror movies never do as good a job at evoking emotions of terror and sorrow from the viewer like this movie did.\"",
+        "\"One of the best movies I've ever seen.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for horror and action genres, appreciating films that evoke deep emotions. They have mixed feelings about narrative complexity and pacing, indicating a preference for engaging stories but with some tolerance for slower narratives."
+}

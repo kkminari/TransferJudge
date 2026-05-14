@@ -1,0 +1,73 @@
+{
+  "user_id": "AHUE6ULULSCOJUD3ZDNHHNFXDYMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Foreign movies have become much more entertaining for our family."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "Intrigue and stories within stories.",
+        "The way Griffith weaved the four stories together was fantastical."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Best TV show I have ever seen. Intrigue and stories within stories."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Outstanding movie! If one does not like this they miss the point!",
+        "Truly an awesome performance! Much better than the movie!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "mixed",
+      "evidence": [
+        "artists like Quentin Tarantino and Oliver Stone."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "captured and enthralled by the message and the medium.",
+        "the way Griffith weaved the four stories together was fantastical."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "We put 'Intolerance' on late in the evening not realizing what we getting into. From the start we were captured and enthralled by the message."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for complex narratives and high production quality, often appreciating intricate storytelling. They express a fondness for both classic and foreign films, indicating a diverse taste in genres, while also valuing emotional engagement in their viewing experiences."
+}

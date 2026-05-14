@@ -1,0 +1,73 @@
+{
+  "user_id": "AEEJOLMYJSEIZDKLG7NF3JTRIV2A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, superhero",
+      "evidence": [
+        "best of all the batman movies ever made",
+        "love this classic movie"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great movie!"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Great movie! Will Smith is amazing in every movie role he does"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great movie!"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Will Smith",
+      "evidence": [
+        "Will Smith is amazing in every movie role he does"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "love this series",
+        "great series"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "love this",
+        "love this series"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and superhero genres, particularly enjoying films featuring Will Smith. They appreciate fast-paced narratives and have a high emotional engagement with the series they love."
+}

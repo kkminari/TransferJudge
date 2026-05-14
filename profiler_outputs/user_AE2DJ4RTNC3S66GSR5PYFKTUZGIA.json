@@ -1,0 +1,77 @@
+{
+  "user_id": "AE2DJ4RTNC3S66GSR5PYFKTUZGIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "science fiction, comedy, horror",
+      "evidence": [
+        "It's one of my favorite science fiction films... even moreso than some of the latest so-called sci fi 'greats'!",
+        "This movie is, by far, the funniest science fiction comedy I have seen in years..."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The plot was all over the place.",
+        "It wasn't one of those films where you could predict each plot twist twenty minutes before it happened."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "This pay-per-view had it all. Excitement, surprises, great matches...",
+        "It's one of those few sequels that actually builds on the greatness of its predecessor."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "It has great special effects. Above all of that, it's a John Carpenter flick, which usually means it's going to be something memorable.",
+        "The one star is earned by the movie's supporting cast - the only positive part of the film, in my opinion."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "If you want to watch a good Martin Lawrence film, buy BAD BOYS or BIG MOMMA'S HOUSE.",
+        "It's one of those few films that COMPLETELY fulfilled my expectations."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "The special effects are awesome. Lucas outdid himself here.",
+        "There are special effects galore in this movie but it's the witty banter that made it for me."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It made me laugh, cry, and think.",
+        "This movie has UNIVERSAL APPEAL. I recommend it to EVERYONE who loves to laugh!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys science fiction and comedy films, often appreciating humor and emotional engagement. They prefer fast-paced narratives but show mixed feelings towards narrative complexity and production quality."
+}

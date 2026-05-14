@@ -1,0 +1,89 @@
+{
+  "user_id": "AGN5B6CV27RFPIVSSMWEZ6SADIYA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, crime, sci-fi",
+      "evidence": [
+        "\"Chicago Med is great and I love the entire Chicago franchise.\"",
+        "\"I was excited when this was announced as this was one of my favorite books growing up...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's a very linear story which already is very cinematic and would translate well from page to screen.\"",
+        "\"Most others had fallen flat and provided only casual entertainment.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The movie was just so dull and boring, going nowhere...\"",
+        "\"A solid movie. Good action, good drama. It really kept me on the edge of my seat wondering what was going to happen.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I get that certain stories require work to adapt...\"",
+        "\"The quality of these episodes is top-notch.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I kept saying 'I hope Disney doesn't screw this up again...'\"",
+        "\"I have great memories of growing up watching reruns of 'Gomer Pyle' with my father.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"I did enjoy the visual depiction of the tesseract.\"",
+        "\"...masterfully written, masterfully filmed.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The movie still gives me chills every time I watch it.\"",
+        "\"It hits the laughs in the right places, but doesn't grind jokes so far into the ground that they cease to be funny.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "character_development",
+      "value": "high",
+      "evidence": [
+        "\"It puts normal characters, who have their quirks that make them funny and interesting, into a unique, but believable situation.\"",
+        "\"...the desperation of Gatsby in his lifelong quest to obtain Daisy.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user enjoys a mix of drama and comedy, with a preference for high-quality productions that evoke strong emotional responses. They appreciate visual storytelling and character development, but have mixed feelings about narrative complexity and pacing."
+}

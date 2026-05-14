@@ -1,0 +1,77 @@
+{
+  "user_id": "AHKJY3D3JYVPG62ABI3KV56EBSWA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, heist, sci-fi",
+      "evidence": [
+        "\"I am always up for a good heist movie.\"",
+        "\"I really like this movie, its very well written.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Its not for everyone since the content can be quite complex, some may even find it 'boring'.\"",
+        "\"The story is really great and remembering when I first saw it, there were some parts I never saw coming.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I found myself pulled into the scenes and find my anxiety spiking a bit.\"",
+        "\"This is one of those movies I can watch at any time and have it play in the background if I'm busy doing something else.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The quality of streaming is great. Didn't have any problems or issues.\"",
+        "\"Great show, great characters, great actors.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I am a huge fan of Kenneth Branagh because of it.\"",
+        "\"I am a comic book fan and a big x-men fan.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I loved it. I hope you do too.\"",
+        "\"Great show with great characters. Actors have great chemistry and have you care about what happens to them.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I love this movie. Was happily surprised that it was available to view for Amazon Prime.\"",
+        "\"I became addicted to this series when I was visiting my best friend in York.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly drama, comedy, and heist films, and appreciates complex narratives that evoke strong emotional responses. They show a preference for high production quality and are loyal to certain creators, indicating a well-rounded taste in movies and TV shows."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AGM22RUMI5NGMIY2Z75XM44MYBWA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "inspirational, drama",
+      "evidence": [
+        "\"Completely enjoyed watching this little slice into America\"",
+        "\"made me cry and then cry and then cry .. and then book a flight to see my parents... a great movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"ok so 3/4 through the movie I thought .. I got it already .. not bad, not good, but a mindless entertaining movie\"",
+        "\"you have no choice but to love this movie... great acting... great story ... yep worth the buy\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"love the Ali story but this drags on, but still worth the watch\"",
+        "\"a good surprise .... enjoyed!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"great acting... great story ... yep worth the buy\"",
+        "\"whats not to love about this movie!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"made me cry... made me snort ... made me reevaluated my priorities .. love it does express the impact of this movie\"",
+        "\"smile and feel the happiness\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"made me cry and then cry and then cry .. and then book a flight to see my parents... a great movie\"",
+        "\"wow... loved it ... enough said\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys inspirational and drama genres, often seeking emotional resonance in their viewing experiences. They appreciate simple narratives and have a mixed preference for pacing, indicating a balance between engaging stories and entertainment value."
+}

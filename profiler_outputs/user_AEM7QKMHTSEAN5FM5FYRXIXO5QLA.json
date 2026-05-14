@@ -1,0 +1,77 @@
+{
+  "user_id": "AEM7QKMHTSEAN5FM5FYRXIXO5QLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, magic, family, love stories",
+      "evidence": [
+        "If you love a good monarchy, then this series is for you. There is tons of action and magic, but it also has a great story line.",
+        "If you like love stories, then this anime is perfect for you."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "there is a killer story line behind all the blood and guts that makes it perfect for either gender.",
+        "If you like love stories, then this anime is perfect for you."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "There is tons of action and magic, but it also has a great story line.",
+        "this movie is so funny! My kids laughed throughout the entire movie!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "this movie is okay, but I would not really recommend it for young children.",
+        "this series is okay. It is not one I would watch more than once."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for Bleach",
+      "evidence": [
+        "I LOVE Bleach!!! This anime is perfect for anyone.",
+        "If you do not own any Bleach, you need to see a doctor!"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "there is a killer story line behind all the blood and guts that makes it perfect for either gender.",
+        "If you like love stories, then this anime is perfect for you."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I loved this movie when I was a child, and I am 26 now. My children love the movie too!",
+        "this movie is so funny! My kids laughed throughout the entire movie!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action-packed and family-friendly content, particularly enjoying series with elements of magic and love stories. They exhibit high emotional engagement with nostalgic and humorous films, while showing loyalty to the anime 'Bleach'."
+}

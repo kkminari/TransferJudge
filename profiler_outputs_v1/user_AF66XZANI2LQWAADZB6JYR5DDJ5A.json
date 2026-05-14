@@ -1,0 +1,77 @@
+{
+  "user_id": "AF66XZANI2LQWAADZB6JYR5DDJ5A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, existential, art film",
+      "evidence": [
+        "\"This isn't a film for everyone. If you're a fan of Tarkovsky's films and other existential films, you'll most likely appreciate what 'Distant' has to offer.\"",
+        "\"The realism of Das Boot excels in drawing the viewer into the experience... Certainly one of the best submarine movies ever, if not the best.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"I will never understand it in all of its complexity. But I will certainly always appreciate and embrace it for the great achievement that it is.\"",
+        "\"Mulholland Drive is sophisticated plot illinearity that would have made William Faulkner momentarily confounded.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This film is also about the beauty of life, and that that beauty is attainable because it is found within ourselves. That's where the search for beauty needs to begin; that's where the journey toward fulfillment needs to start--within ourselves.\"",
+        "\"The pace at times is slower than our most boring days. But it's that slowness that needs to be experienced and embraced if one is going to fully appreciate the art of this film.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Everything about this film is great: the acting, the script, the direction, the cinematography.\"",
+        "\"Sokurov masterfully frames each scene as a delicate, russet-colored portrait, whose subjects are captured in soft, diffused light.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Tarkovsky, Kurosawa",
+      "evidence": [
+        "\"Tarkovsky was truly a genius, not only evident by this film, but also by the many others he directed, including Nostalghia and Solaris.\"",
+        "\"Director Akira Kurosawa blends so many moments in this film that have remained with me...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory experience",
+      "evidence": [
+        "\"There are moments in the film where the beauty of the art, combined with the musical score and scene, transcends to something intensely emotional, yet not easily describable.\"",
+        "\"The black and white scenes of personal reflection in Nostalghia excel in radiating this beauty.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is a film I never get tired of. The performances are great; the musical score is subtle, yet significant; the people and places are compelling.\"",
+        "\"The journey, paralleling the one to the Zone, is ultimately well worth it.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex, slow-paced dramas that emphasize emotional depth and high production quality. They show loyalty to renowned directors like Tarkovsky and Kurosawa, appreciating films that offer rich visual and auditory experiences."
+}

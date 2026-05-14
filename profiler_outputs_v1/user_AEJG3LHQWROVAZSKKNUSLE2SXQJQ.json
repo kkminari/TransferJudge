@@ -1,0 +1,77 @@
+{
+  "user_id": "AEJG3LHQWROVAZSKKNUSLE2SXQJQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "old hanoi Jane Fonda stuff with govt thrown in without spines",
+        "season 4--- 7.8 shameful writing- worse acting-- didnt even try"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "prepare to binge.. fast moving, always holding your attention.",
+        "boring- dude dealing with family execution's and nothing but issues"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "fast moving, always holding your attention.",
+        "stay with it--- i came back to upgrade to 5 stars from 1"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "season 4--- 7.8 shameful writing- worse acting-- didnt even try",
+        "old hanoi Jane Fonda stuff with govt thrown in without spines"
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Hope Amazon orders a full season!",
+        "great movie"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "prepare to binge.. fast moving, always holding your attention.",
+        "great movie"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "I should have read the reviews first...ugggh",
+        "ehhh- rather party with charlie than watch his self destruction in this season"
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user exhibits a preference for fast-paced narratives with straightforward storytelling. They show low sensitivity to production quality and have mixed feelings about specific genres, indicating a varied taste in content."
+}

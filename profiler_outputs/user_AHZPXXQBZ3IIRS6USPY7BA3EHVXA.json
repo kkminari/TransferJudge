@@ -1,0 +1,77 @@
+{
+  "user_id": "AHZPXXQBZ3IIRS6USPY7BA3EHVXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "I think if I was 12 it would have been great!",
+        "Time could be better spent."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "it's a nice story",
+        "good show"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "it's missing something, maybe I needed an explosion or two",
+        "yawn! I paid for it and could not watch more than 15 minutes of it."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I liked it, but I don't remember enough about it to say why.",
+        "good"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Bruce Willis",
+        "Come on it's has Morgan Freeman in a short part so of course you will like it."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "it's missing something, maybe I needed an explosion or two",
+        "good show"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "I think if I was 12 it would have been great!",
+        "didn't finish watching it"
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for simple narratives and slower pacing, often finding content forgettable or lacking emotional impact. They express mixed feelings about genres and demonstrate low brand loyalty, indicating a more casual engagement with the material."
+}

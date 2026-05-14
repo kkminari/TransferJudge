@@ -1,0 +1,74 @@
+{
+  "user_id": "AEJUL3ZZGBYTH3QBCROIJZ3XINXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, family drama",
+      "evidence": [
+        "\"Action packed. Tatiana Maslany is superior!\"",
+        "\"It is a FAMILY drama that has a key character in Amy a teen.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"I find it somewhat convoluted. I actually am getting confused with the time lines...\"",
+        "\"The writers of Warehouse 13 just keep the twists coming and make the story line interesting and moving forward.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This season was one adventure after another.\"",
+        "\"Twist and turn. Fast pace, who is going to get found out...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The costumes, scenery, and acting all terrific.\"",
+        "\"Acting, story line and characters all wonderful; they keep out the soap opera feel.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, character interactions",
+      "evidence": [
+        "\"The beautiful backdrop is a bonus.\"",
+        "\"Love the action and the chemistry between the characters.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I believe these characters. Katy Segal is truly amazing as Gemma; and I like the soft side that they bring to Jax.\"",
+        "\"With so much garbage on TV today, it is nice to have a family series that is about family.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action-packed shows with strong character interactions and family themes. They appreciate high production quality and emotional depth in storytelling, while showing a mixed response to narrative complexity."
+}

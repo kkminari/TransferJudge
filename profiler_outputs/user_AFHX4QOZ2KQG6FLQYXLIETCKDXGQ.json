@@ -1,0 +1,77 @@
+{
+  "user_id": "AFHX4QOZ2KQG6FLQYXLIETCKDXGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, fantasy, drama",
+      "evidence": [
+        "\"I grew up watching the Saturday night 'Creature feature' movies, Godzilla was my fav.\"",
+        "\"I like this story of love and family.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I like how the show travels back in time to the 1700's to see a representation of life then.\"",
+        "\"I like this series which captures your imagination from the beginning.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"After the first episode, I was hooked.\"",
+        "\"I can watch this again year after year!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Their performances are fantastic in this film that pulls on your heart and does leave tears down your face.\"",
+        "\"It is good to see a series with dialog again.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Tom Selleck, Ayn Rand",
+      "evidence": [
+        "\"great performances by Tom Sellect.\"",
+        "\"I liked it so much, I joined the Atlas Society and bought the book. I love Ayn Rand's writing and ideals.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"the story tells of the start of America and the fight against evil.\"",
+        "\"It is like these movies and the character were made for him or he was made to play this part.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"this is a very patriotic view which I share.\"",
+        "\"does leave tears down your face.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action, fantasy, and drama genres, often enjoying fast-paced narratives with high emotional resonance. They show loyalty to specific creators like Tom Selleck and Ayn Rand, and appreciate high production quality in their viewing experiences."
+}

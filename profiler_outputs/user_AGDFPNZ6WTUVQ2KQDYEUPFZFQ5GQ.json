@@ -1,0 +1,77 @@
+{
+  "user_id": "AGDFPNZ6WTUVQ2KQDYEUPFZFQ5GQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Una joya. Estupenda cinta infaltable en cualquier colección...",
+        "Una producción mediana con un resultado negativo. Un mal guión, problemas graves de iluminación."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Imperdible film, hermoso, cuidadop, sublime.",
+        "Interesante film"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Divertida, aunque se quedó a medias...",
+        "Intrincada cinta...un tanto aburrida."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Una producción mediana con un resultado negativo. Un mal guión, problemas graves de iluminación.",
+        "El dvd tiene una pésima resolución, lo más bajo que he visto."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Triología insuperable. Aunque debo de detallar que Rojo, es una obra maestra.",
+        "Imperdible pieza..."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Estupenda película remasterizada...aunque no está en español pero vale la pena verla.",
+        "Imperdible film, hermoso, cuidadop, sublime."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Imperdible film, hermoso, cuidadop, sublime.",
+        "Inolvidable cinta, buen producto y en tiempo..."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for films with high production quality and emotional resonance, often appreciating remastered classics. However, they express mixed feelings about narrative complexity and pacing, indicating a nuanced taste that values both engaging storytelling and visual appeal."
+}

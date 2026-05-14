@@ -1,0 +1,76 @@
+{
+  "user_id": "AEMYGIOMIFMVC7Z47VTSX4JPV6KQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, musical, sci-fi, action",
+      "evidence": [
+        "\"awesome documentary and storyline!!\"",
+        "\"great documentary on space\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the best of the three.\"",
+        "\"great movie just like the star wars Trilogy.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"one of the best movies and 3D is awesome\"",
+        "\"awesome movie for one of the avengers\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"outstanding acting and effects\"",
+        "\"Nice job on the beginning of Star Trek\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Amy Adams",
+      "evidence": [
+        "\"great movie for Amy Adams fans and the setting was amazing in Ireland. plan to keep looking for more Amy movies.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"3D is awesome\"",
+        "\"great movie just like the star wars Trilogy.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"struggled through this one\"",
+        "\"not as I expected\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and action-packed films, particularly those featuring Amy Adams. They appreciate high production quality and visual spectacle but have mixed feelings about emotional depth in the content they consume."
+}

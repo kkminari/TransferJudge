@@ -1,0 +1,71 @@
+{
+  "user_id": "AE7EH53E3JMLHPO6RNGKQRDL3INQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "unknown",
+      "evidence": [
+        "No specific genres mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Reviews do not indicate complex narratives."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "unknown",
+      "evidence": [
+        "No specific pacing preferences mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Focus on enjoyment rather than production quality."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "unknown",
+      "evidence": [
+        "No specific creators or franchises mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "'Brought back memories' suggests emotional and nostalgic engagement."
+      ],
+      "confidence": 0.3,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'Brought back some lost memories.'",
+        "'Brings back memories.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user expresses a strong emotional connection to the content they watch, often reminiscing about past experiences. However, their specific genre preferences, narrative complexity, and pacing are unclear, indicating a general enjoyment of movies and shows without a focus on particular styles or creators."
+}

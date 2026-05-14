@@ -1,0 +1,78 @@
+{
+  "user_id": "AHDNKKISCIEXHJMV55WXQHLKVYJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama, action, comedy",
+      "evidence": [
+        "\"very good mysteries. recommend highly.\"",
+        "\"good drama. enjoyed it so far.\"",
+        "\"this one is just for laughs. Enjoyed it very much and recommend it to anyone who likes comedy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A good movie doesn't need high tech gadgets to hold the viewers attention.\"",
+        "\"the story is interesting and his performance is very good.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"the somewhat slow pace is perfect for the actor and the mood of the movie.\"",
+        "\"I do find some episodes just 'mark time'.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"cinematography was poor. the acting was okay but directing was poor.\"",
+        "\"Good acting depends on good directing.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Tom Selleck, Paul Hogan",
+      "evidence": [
+        "\"Good movie with Tom Selleck portraying Jesse Stone.\"",
+        "\"Very entertaining movie if you like Paul Hogan and I do.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"the story is interesting and his performance is very good.\"",
+        "\"the good guys kicked a lot of bad guy behinds.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"at the end of the movie, you are left with a good feeling.\"",
+        "\"would not care to watch it again.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys mysteries, dramas, and comedies, often appreciating slower-paced narratives that focus on character development. They have a strong sensitivity to production quality and show loyalty to specific actors like Tom Selleck and Paul Hogan, indicating a preference for engaging storytelling with emotional resonance."
+}

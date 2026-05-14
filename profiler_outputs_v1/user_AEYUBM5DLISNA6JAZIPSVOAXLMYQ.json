@@ -1,0 +1,77 @@
+{
+  "user_id": "AEYUBM5DLISNA6JAZIPSVOAXLMYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi",
+      "evidence": [
+        "good Sci-Fi series",
+        "good series (all ages)"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "good show holds your interest from the beginning to end",
+        "One of our favorite binge shows"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "good show holds your interest from the beginning to end",
+        "really great series.."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "enjoyed the show",
+        "great show"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "great show",
+        "enjoyed the show"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "good show holds your interest from the beginning to end",
+        "really great series.."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "enjoyed the show",
+        "good show at first then degenerated into ?"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for sci-fi genres and enjoys shows that are engaging and fast-paced. They tend to focus more on entertainment value rather than production quality, with a low emotional resonance in their viewing experience."
+}

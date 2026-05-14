@@ -1,0 +1,77 @@
+{
+  "user_id": "AETPK3N4LA4EIYS5J2YV3VZCTCHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, mystery",
+      "evidence": [
+        "\"Such a great family movie!\"",
+        "\"The storyline was engaging and binge-worthy for mystery viewers.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's a great show that promotes creativity and learning from your surroundings.\"",
+        "\"I loved this movie as a child and I loved watching with my son!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This show offers a lot for many age groups!\"",
+        "\"I still enjoy watching it!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great family fun!\"",
+        "\"I was so happy that this DVD is from the UK, it worked great in my DVD player.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for Martin Clunes",
+      "evidence": [
+        "\"First of all, I love Martin Clunes!\"",
+        "\"Martin Clunes is fantastic!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The music and characters are a lot of fun!\"",
+        "\"Wonderful show for young children!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I couldn't stop watching it!\"",
+        "\"I was so glad that this series was available.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-oriented and mystery genres, enjoying light-hearted and engaging narratives. They express high loyalty to Martin Clunes and appreciate shows that evoke emotional resonance, often sharing the experience with their children."
+}

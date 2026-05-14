@@ -1,0 +1,77 @@
+{
+  "user_id": "AEMMKLHDREBMMD4JVNKNCAJQGQGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "music, folk",
+      "evidence": [
+        "\"When you take great Irish folk songs and turn them into a Las Vegas Strip show the result is terrible.\"",
+        "\"This is a great dvd with great music from a very talented person.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"There should have been more single and duet songs.\"",
+        "\"The only good part is that some of the original singers like Lisa Kelly were not on this disaster.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This dvd is a total waste of time. It is close to 3 hours long and boring.\"",
+        "\"The music selection is diversified with several different vocal groups.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great songs, great dvd presentation, will last a long time.\"",
+        "\"If you understand the back ground of 'Send In The Clowns' the duet that was sung is truly outstanding.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Andre Rieu, Celtic Woman",
+      "evidence": [
+        "\"As a Katherine Jenkins fan, this DVD is a must to have.\"",
+        "\"Since I have all of the Celtic Woman dvd's and cd's I feel this dvd was a little bit of a let down.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "atmospheric music, visual presentation",
+      "evidence": [
+        "\"This is great relaxing music by a great orchestra.\"",
+        "\"Overall, just a great DVD.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Dawn is simply the best singer around, who can present music in a very enjoyable environment.\"",
+        "\"This DVD is purely great music, by a great singer in a great presentation.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for music, particularly folk and orchestral genres, and values high production quality in their viewing experiences. They enjoy atmospheric music and emotional resonance, often praising the performances of specific artists like Andre Rieu and Celtic Woman, while expressing disappointment in overly complex or poorly executed presentations."
+}

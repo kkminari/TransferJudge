@@ -1,0 +1,74 @@
+{
+  "user_id": "AG6YYE56GDUPACDRB7VORQOXD43A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, romance, action, courtroom/murder, western",
+      "evidence": [
+        "One of my fav comedies of all time.",
+        "One of the best Romance films--ever! Very unique."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good film that is easy & enjoyable to watch for the whole family.",
+        "Predictable but entertaining."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Great film that never stops to take a breath.",
+        "This is unquestionably the best 'Expendables Movie' made to date."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Beautiful to watch on re-mastered Blu Ray.",
+        "The quality of this B&W 50+ yr old movie is fantastic."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "If possible, watch it in 3D. It is much more enjoyable that way.",
+        "The quality of the picture & sound on Blu Ray is excellent."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "One of the greatest courtroom//murder movies ever made with an ending that will shock you.",
+        "A classic Romantic movie. It has become a cult favorite and for good reason."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies, dramas, and romance films, often appreciating visual quality and fast pacing. They enjoy films that are easy to follow and evoke emotional responses, indicating a taste for engaging storytelling."
+}

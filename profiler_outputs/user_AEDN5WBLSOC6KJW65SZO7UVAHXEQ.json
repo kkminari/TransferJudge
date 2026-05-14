@@ -1,0 +1,77 @@
+{
+  "user_id": "AEDN5WBLSOC6KJW65SZO7UVAHXEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, drama, horror",
+      "evidence": [
+        "\"You’re Next is a very stylish Cat and Mouse film.\"",
+        "\"What can I say it's the Walking Dead!!! Enough said!!!!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Loved this movie from my teen years. A+++\"",
+        "\"Awesome movie for Halloween!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The plot the twists! You won’t ever see it coming because You’re Next!\"",
+        "\"Awesome movie! Tyler Perry is amazing at story telling!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Words can't describe this Masterpiece Jeff and his wife Silvia have created!\"",
+        "\"Great for the price!!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Tyler Perry is amazing at story telling!\"",
+        "\"Tom Hanks and the late (rip) Carrie Fisher are amazing in this movie!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Loved this movie from my teen years. A+++\"",
+        "\"Awesome movie for Halloween!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Grew up watching these guys! Thanks for all the amazing memories!\"",
+        "\"I loved the movie so much I bought it!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for thrillers and dramas, particularly those with fast pacing and engaging plots. They show a high emotional resonance with films that evoke nostalgia and memorable experiences."
+}

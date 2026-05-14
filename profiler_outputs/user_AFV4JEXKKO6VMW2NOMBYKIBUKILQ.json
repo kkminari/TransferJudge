@@ -1,0 +1,77 @@
+{
+  "user_id": "AFV4JEXKKO6VMW2NOMBYKIBUKILQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, comedy, family",
+      "evidence": [
+        "I am a huge fan of scfi fan and of godzilla.",
+        "i thought that this movie was funny."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "the movie keep on getting better",
+        "Boy was this movie boring."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "the movie keep on getting better",
+        "This is one great movie."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "the specil effects were bad",
+        "the cgi was bad and there wasnt a god gorllia"
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I always been a fan of wishbone",
+        "I am a huge fan of scfi fan and of godzilla."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "the specil effects are good once and a while",
+        "the cgi was bad"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Boy was this movie boring.",
+        "this was a terrible movie"
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys sci-fi and comedy genres, often appreciating fast-paced narratives. They show a low sensitivity to production quality and have mixed feelings about emotional engagement in the content they consume."
+}

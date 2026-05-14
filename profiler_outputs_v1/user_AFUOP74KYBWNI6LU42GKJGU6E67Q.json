@@ -1,0 +1,77 @@
+{
+  "user_id": "AFUOP74KYBWNI6LU42GKJGU6E67Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, thriller, dark comedy",
+      "evidence": [
+        "\"This mystery horror thriller grabs your attention early on and is very well acted and made.\"",
+        "\"Best Danny Devito film along with Throw Mama and one of the best dark comedies ever.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"the initial thrill slowly fizzles away as the puzzle pieces are put together.\"",
+        "\"an intentionally predictable plot twist.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"the initial thrill slowly fizzles away as the puzzle pieces are put together.\"",
+        "\"As a break-in mystery thriller, the suspenseful soundtrack does most of the legwork...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"very well acted and made.\"",
+        "\"Excellent acting from the mother and daughter main characters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I quickly got tired of the CSI shows and eventually Closer.\"",
+        "\"I stopped cable a couple years ago, mostly do streaming and 'over the air' now.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"the perfect movie for a good scare.\"",
+        "\"the suspenseful soundtrack does most of the legwork...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"You could die laughing at times despite the flip serious side of the show.\"",
+        "\"it genuinely reminded me of The Exorcist.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys horror and thriller genres, particularly those with strong acting and production quality. They appreciate emotional depth and sensory experiences in films, while showing mixed feelings towards narrative complexity and pacing."
+}

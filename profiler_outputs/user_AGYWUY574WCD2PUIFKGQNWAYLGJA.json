@@ -1,0 +1,74 @@
+{
+  "user_id": "AGYWUY574WCD2PUIFKGQNWAYLGJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "true stories, family-friendly",
+      "evidence": [
+        "great true story even my kids could watch and i didn't worry about any bad content.",
+        "Great story loved it. Being a true story makes it even better."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good show gets you thinking",
+        "loved it great movie for all ages."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Very drawn out. But good for the time it was filmed.",
+        "ended in a dumb spot but it was ok i guess"
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "it was OK not true to story but ok",
+        "Didn't like the art work but the story was done very well"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "none",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "gets people to think out of the box loved it",
+        "sad but what an amazing wife this guy had"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "shocking ending i would have never guessed how it would end",
+        "Very interesting"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys true stories and family-friendly content, often appreciating narratives that provoke thought. They prefer slower pacing and are sensitive to emotional resonance, valuing stories that evoke strong feelings, while showing less concern for production quality."
+}

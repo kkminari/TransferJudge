@@ -1,0 +1,77 @@
+{
+  "user_id": "AFHXWYUYVZPBK7V6QZXZH537NXGA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animated, family, fantasy",
+      "evidence": [
+        "\"Always loved Balto!\"",
+        "\"One of my all time favorite animated movies!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good\"",
+        "\"Funny movie. Always love Gerard Butler\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I love Spider-Man; but this definitely not my favorite version.\"",
+        "\"Don’t be a bully, cause you never know when an old lady’ll turn you into a bird!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good\"",
+        "\"It was ok to watch once... I didn’t really see what all the fuss was about.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"Love anything Harry Potter related!\"",
+        "\"I love Spider-Man, and Andrew Garfield does a great job bringing him to life!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Grew up watching these movies; I’ve always loved them!\"",
+        "\"Sounds cheesy; but actually one of my favorite vampire movies!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I love this movie, Sandra Bullock, and Ryan Reynolds\"",
+        "\"Love anything Harry Potter related!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for animated and family-friendly films, often expressing nostalgia for childhood favorites. They show loyalty to specific franchises like Harry Potter and Spider-Man, and their reviews indicate a high emotional resonance with the content they enjoy."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEOSJCN5XUQKZEMTXWDEYLSEY7ZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, drama, sci-fi, romance, horror",
+      "evidence": [
+        "\"This series provides for the Anglophile another segment of English history from 1485-1603.\"",
+        "\"I enjoyed the two films because I am an incurable sci-fi nut.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The film has a clear story line.\"",
+        "\"The story becomes less a reverse parody of 'Frankenstein' as it presents itself as a satire on who is the more human.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The writing, cinematography, acting, and storyline up to the climax is worthy of 5 stars.\"",
+        "\"I do not like black and white films, films that hinder a clear view of the characters through many scenes filmed in almost total darkness.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The film provides yet another twist on the vampire tale: this time with a Dr. Ravner as the sharp toothed prince of darkness.\"",
+        "\"The Archive Collection does a superb job of restoring the films it puts on DVD so that the viewer, no doubt, sees them better than those who viewed them 40 years ago.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I remember seeing these Dr. David Sorel (Louis Jordan) supernatural thrillers when they first aired as TV movies.\"",
+        "\"I heartily recommend this series as well as universal DVD disk players.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The film has interest to the 1970s enthusiast, who doesn't mind bawdiness.\"",
+        "\"The prospect of forcing evil to destroy itself is intriguing.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I gave the film five stars because it deeply moved me.\"",
+        "\"Beautiful story! Angelica Houston is ravishing! I highly recommend this film.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for historical dramas and sci-fi, often appreciating high production quality and emotional depth in storytelling. They enjoy narratives that evoke strong feelings and are likely to appreciate well-crafted books that explore similar themes."
+}

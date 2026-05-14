@@ -1,0 +1,72 @@
+{
+  "user_id": "AF2N266E2IHFEGU52LBRRW2CXGRQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "No specific genres mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The reviews do not indicate a preference for complex narratives."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "The user seems to enjoy engaging and quick-paced content."
+      ],
+      "confidence": 0.3,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Focuses on enjoyment rather than production quality."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "I love Jamie Lee Curtis!!",
+        "Love this show!"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "The user expresses enjoyment and emotional connection."
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Love this show!",
+        "I love Jamie Lee Curtis!!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced, engaging content and has a strong emotional connection to certain shows and actors, particularly Jamie Lee Curtis. They do not express a strong preference for specific genres or complex narratives, focusing instead on overall enjoyment."
+}

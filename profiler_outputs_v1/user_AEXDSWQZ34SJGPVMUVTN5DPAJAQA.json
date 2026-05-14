@@ -1,0 +1,71 @@
+{
+  "user_id": "AEXDSWQZ34SJGPVMUVTN5DPAJAQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "exercise, gift",
+      "evidence": [
+        "Good exercise dvd!!",
+        "bought as a gift."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Love this show!!",
+        "Great movie!!"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Love this show!!",
+        "Great movie!!"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Good exercise dvd!!",
+        "Love this show!!"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "none",
+      "evidence": [],
+      "confidence": 0.1,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "none",
+      "evidence": [],
+      "confidence": 0.1,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Love this show!!",
+        "great show!!"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for simple and fast-paced content, primarily related to exercise and gifts. However, there is little evidence of strong emotional engagement or brand loyalty."
+}

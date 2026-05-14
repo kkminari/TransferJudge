@@ -1,0 +1,77 @@
+{
+  "user_id": "AFCBMKCAAKAZOVOITDAL7SSXXH5A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sports documentaries, classic comedies",
+      "evidence": [
+        "I thoroughly enjoyed the Baltimore Colts history.",
+        "If you enjoy Hogan's Heroes, you'll love season four."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It's great to have the Landry years and player perspective from those two seasons.",
+        "What a wonderful presentation of the Dolphins 1972 season."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Hearing the perspective from guys who played on that team was entertaining, and at the same time enlightening.",
+        "It's nice to get a different perspective of the season from some of the players that experienced it."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "This is a great package with an attractive price.",
+        "Desi is a very good guitar teacher."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I was a Baltimore Colts fan growing up.",
+        "I own the first three seasons on DVD and can tell you that they are all equally great!"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "What a wonderful presentation of the Dolphins 1972 season.",
+        "You'll appreciate Dave Robinson's recollection of the Cowboys last shot at a tie."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "What a memory! It's great that NFL films archived that game since NBC stupidly deleted or 'wiped' most of the game forever.",
+        "The emotional impact of that was shared."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sports documentaries and classic comedies, enjoying both the historical and emotional aspects of these genres. They appreciate high production quality and have a preference for slower-paced narratives that provide depth and insight into the subjects they love."
+}

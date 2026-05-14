@@ -1,0 +1,77 @@
+{
+  "user_id": "AFCBMKCAAKAZOVOITDAL7SSXXH5A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, sports, comedy",
+      "evidence": [
+        "\"I thoroughly enjoyed the Baltimore Colts history.\"",
+        "\"If you enjoy Hogan's Heroes, you'll love season four.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's a very enjoyable movie.\"",
+        "\"You'll appreciate Dave Robinson's recollection of the Cowboys last shot at a tie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It's a very enjoyable movie.\"",
+        "\"What a wonderful presentation of the Dolphins 1972 season.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The music is wonderful.\"",
+        "\"Every episode was well-written.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I'm from Indiana. Yep, that's right, and I was a huge Colts / Johnny U fan.\"",
+        "\"I was a Baltimore Colts fan growing up.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory experience",
+      "evidence": [
+        "\"The music is wonderful.\"",
+        "\"The stunts that Conrad and 'his stuntmen' performed were great.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"What a memory!\"",
+        "\"The emotional impact of that was shared.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for documentaries and sports-related content, often appreciating the emotional and nostalgic aspects of these narratives. They value high production quality and enjoy simple, straightforward storytelling that evokes strong memories and feelings."
+}

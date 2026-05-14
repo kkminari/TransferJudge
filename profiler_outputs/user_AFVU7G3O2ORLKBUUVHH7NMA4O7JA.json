@@ -1,0 +1,77 @@
+{
+  "user_id": "AFVU7G3O2ORLKBUUVHH7NMA4O7JA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama, comedy",
+      "evidence": [
+        "\"Kid’s Holiday Favorite - fun for the whole family\"",
+        "\"Good story line. Somewhat predictable, but nice family film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Somewhat predictable, but nice family film.\"",
+        "\"Predictable, but good.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Good series. Had its bumps in previous seasons.\"",
+        "\"If the writers had give up some of their cherished and predictable tropes...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Well wrought production values. Wish there were more episodes.\"",
+        "\"It manages to pull together themes of good and evil in a smart, thoughtful fashion.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific mentions of favorite directors or actors.",
+        "No strong loyalty to franchises or series."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This classic rendition of Dennison's home in Africa is beautiful and full of longing.\"",
+        "\"It is aging well. A finely wrought story.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"An uplifting tale of persevering against incredible odds - and prevailing.\"",
+        "\"It is worth watching again. It is aging well.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented films with simple narratives and a focus on emotional resonance. They appreciate high production quality and tend to favor slower-paced storytelling that emphasizes character development and themes of perseverance."
+}

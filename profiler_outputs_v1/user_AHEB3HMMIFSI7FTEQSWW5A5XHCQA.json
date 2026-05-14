@@ -1,0 +1,77 @@
+{
+  "user_id": "AHEB3HMMIFSI7FTEQSWW5A5XHCQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, war, western, disaster",
+      "evidence": [
+        "\"If you love your American history, and are an avid Civil War buff, then this is the movie for you!\"",
+        "\"It's hard to beat Tom Selleck and Sam Elliott in a good ol' western.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story is really good but the movie just ends too quickly.\"",
+        "\"This is a very fun movie. All the grandkids just love it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The movie, because of the content, the telling of the story of Genghis Kahn's life and what he did, was very long.\"",
+        "\"The ending is too quick.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The CGI in the movie is so fantastic, so real!\"",
+        "\"The story, the music and the characters are priceless!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I have always been a huge Charlton Heston fan, and this movie doesn't disappoint.\"",
+        "\"It's hard to beat Tom Selleck and Sam Elliott in a good ol' western.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, emotional atmosphere",
+      "evidence": [
+        "\"The scenery is just beautiful, and the actors are quaint.\"",
+        "\"The strength of those people in WW2, and what they had to endure is what this story is all about.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The story lets you into an Irish family and warms your heart.\"",
+        "\"You just feel wonderful after watching it!!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for historical and war-themed movies, particularly those with emotional depth and high production quality. They enjoy simple narratives that evoke strong feelings and appreciate visual spectacle, especially in well-crafted stories."
+}

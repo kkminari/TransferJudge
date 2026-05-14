@@ -1,0 +1,77 @@
+{
+  "user_id": "AGAM2VCGENO4L6R2G4KDBYOKLYOA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, family, nostalgia",
+      "evidence": [
+        "If you are a Charles Bronson fan, this movie should be in your collection of DVDs.",
+        "This movie is gritty, tough and in your face . . . just exactly what it should be."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Fun escape from the reality of the day",
+        "Action-packed thrill ride for 96 minutes."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Action, more action, then action. Fit for family viewing.",
+        "Action-packed thrill ride for 96 minutes."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "If you like Emma Roberts, you'll love this movie.",
+        "Fun entertainment."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Hilary Swank fans will enjoy this movie from beginning to end.",
+        "I'm a fan of Rachel McAdams, and she brings this script to life."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "Artistic presentation of the martial arts.",
+        "Interesting move and plot line."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "This is one of the most entertaining movies I've purchased in a very long time.",
+        "Fun look at dysfunctional family . . . just like the rest of America."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action-packed and family-friendly films, often with a nostalgic touch. They prefer fast-paced narratives and are less concerned with production quality, focusing more on entertainment value."
+}

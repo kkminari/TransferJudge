@@ -1,0 +1,77 @@
+{
+  "user_id": "AEFSHNRBEM3NV23VCGZEXGVFU5MQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"I love these movies acting is great if you are down in the dumps and need a good laugh watch any of these.\"",
+        "\"Just love dexter. What. Thrills on his character Must see\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good movie waiting for two to come out seen this three times already.\"",
+        "\"Really good movie. For any baseball fan\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Very suspensfu move fast paced I would watch another time.\"",
+        "\"Love this. Saw it on. Netflix my 30 year old nephew recommend. It and boy was he right. Watched it with my cousin and she had to go buy her copy.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"What a great movie. Such a good cast. And a twist in the end. A must see if you have not seen it ,. I have watched it three times so far.\"",
+        "\"I highly recommend this very good acting by some newcomers and oprah is not in this one haha\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Love Johnny deep , who doesn't. I would run home from school to watch the dark shadows soap and. Remembering being mesmerized by barnabus Collins and cast that when this came out I had to buy it.\"",
+        "\"Tarantino great Great cast. Love it will watch again\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"What can I say I love movies with a hedge cast of characters. Keeps you guessing on who is who good movie on a rainy day.\"",
+        "\"Just love over the rainbow sad Judy died so young\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Judy Judy a movie from my childhood watched it just about every year with. My mum. Just love over the rainbow sad Judy died so young\"",
+        "\"I love these movies acting is great if you are down in the dumps and need a good laugh watch any of these.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and comedy films, often appreciating strong acting and engaging narratives. They prefer fast-paced storytelling and have a high sensitivity to production quality, indicating a taste for well-crafted films that evoke emotional responses."
+}

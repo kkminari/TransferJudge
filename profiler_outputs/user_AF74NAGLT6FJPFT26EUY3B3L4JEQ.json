@@ -1,0 +1,77 @@
+{
+  "user_id": "AF74NAGLT6FJPFT26EUY3B3L4JEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action, thriller",
+      "evidence": [
+        "\"Joaquin Phoenix did an excellent job as the dark hero.\"",
+        "\"The direction, script, and acting were all very good.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The backstory is really confusing.\"",
+        "\"More back story would help to understand the main character.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I fast forwarded the movie. I enjoyed it that way. It started too slowly...\"",
+        "\"I forced myself to watch the last 30 minutes.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent acting and screenplay.\"",
+        "\"The actors do a good job, the direction is good...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific directors or actors mentioned.",
+        "No franchises or series indicated."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I felt like I was online playing/yelling again.\"",
+        "\"This movie paints a GRIM look at the apocalyptic future but it is well worth the time.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is not a family-friendly film due to the rash of necessary violence based on the focus of the story.\"",
+        "\"OMG! This movie is the best movie ever.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama, action, and thriller genres, appreciating high-quality production and emotional depth in storytelling. They exhibit mixed feelings towards narrative complexity and pacing, indicating a preference for engaging plots but with some confusion in execution."
+}

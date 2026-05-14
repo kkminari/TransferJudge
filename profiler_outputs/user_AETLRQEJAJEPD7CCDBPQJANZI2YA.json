@@ -1,0 +1,76 @@
+{
+  "user_id": "AETLRQEJAJEPD7CCDBPQJANZI2YA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, fantasy",
+      "evidence": [
+        "\"It's watchable but sappy.......something to look at when you need a fairy tale like fix.\"",
+        "\"Hail Britannia.....an entertaining (and somewhat fanciful) tale that involves the AUTHOR of Sherlock Holmes, Arthur Conan Doyle and his 'Watson' George\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the plot follows a realistic path as Mr Selfridge and all the other cast bump and bungle heart warmingly,sometimes tragically, thru life.\"",
+        "\"the initial review was the reason I tried it and I didn't expect too much.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Four stars plus....all episodes, AFTER the first one, were really great getting better as the story progressed.\"",
+        "\"Really liked the series....most disappointed that there appears to be only one season available!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Cinematography is excellent and definitely supports the moods intended.\"",
+        "\"Character portrayals were spot on and the Hitchcockian introductions to each episode were wonderful!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Hard to beat anything with the '24' association.....had already seen it; just loved it again is all.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"the acting is remarkable and the plot follows a realistic path as Mr Selfridge and all the other cast bump and bungle heart warmingly,sometimes tragically, thru life.\"",
+        "\"Cinematography is excellent and definitely supports the moods intended.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"the ending really surprised me.\"",
+        "\"AN AMAZING SERIES WITH A TOTALLY UNEXPECTED ENDING.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and fantasy genres, with a preference for slower-paced narratives that focus on character development and emotional depth. They value high production quality and are sensitive to the emotional impact of the stories they watch."
+}

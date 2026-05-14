@@ -1,0 +1,77 @@
+{
+  "user_id": "AFLIQJROE5R5L5ZZCGIPGLUWCP7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "very boring. waste of time.",
+        "good show but all the dark scenes are not pleasant to watch."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "the outcome was very predictable.",
+        "the plot drags on and on."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "the plot drags on and on, should have been titled 2 1/2 days.",
+        "very boring. waste of time."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "great in showing progression of events.",
+        "great show."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "can't wait to see season five.",
+        "great show."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "great in showing progression of events.",
+        "very good story but hard to understand the British dialogue."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "did not finish. it was hard to watch.",
+        "very boring. waste of time."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a mixed taste in genres, with a notable dislike for slow-paced narratives that feel predictable. They appreciate shows that demonstrate good progression and storytelling, but often find certain elements hard to engage with emotionally."
+}

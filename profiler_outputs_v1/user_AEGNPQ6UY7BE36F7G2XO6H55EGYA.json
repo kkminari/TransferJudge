@@ -1,0 +1,77 @@
+{
+  "user_id": "AEGNPQ6UY7BE36F7G2XO6H55EGYA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, action, comedy, musical",
+      "evidence": [
+        "\"Great story, brilliant film work! Hugh Jackman is intense and believable even in a musical!\"",
+        "\"A bit too scary for my four year old grand daughter.. But the Tink movies are all very well made\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This movie is delightful!\"",
+        "\"Great feel good movie. Bruce Willis delivers! Billy Bob is brilliant and overall hilariously fun movie\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Really funny and neat conceptually\"",
+        "\"Enjoyed this movie!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great story, brilliant film work! Hugh Jackman is intense and believable even in a musical!\"",
+        "\"Some say it wasnt as good as the first - but- i lived it!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Hugh Jackman, Bruce Willis",
+      "evidence": [
+        "\"Hugh Jackman is intense and believable even in a musical!\"",
+        "\"Bruce Willis delivers! Billy Bob is brilliant and overall hilariously fun movie\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"This movie is delightful!\"",
+        "\"Great feel good movie. Bruce Willis delivers!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The multi-generational set of characters comprise a cast whose characters reveal a story within a story.\"",
+        "\"It will awaken your heart for what is good and right.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly films with a strong emphasis on humor and emotional resonance. They appreciate high production quality and are particularly fond of notable actors like Hugh Jackman and Bruce Willis."
+}

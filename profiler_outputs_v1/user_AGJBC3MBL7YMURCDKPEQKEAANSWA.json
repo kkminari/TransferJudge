@@ -1,0 +1,77 @@
+{
+  "user_id": "AGJBC3MBL7YMURCDKPEQKEAANSWA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, action",
+      "evidence": [
+        "\"Good movie for teens and adults.\"",
+        "\"Funny movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Can't complain, they all played good rules.\"",
+        "\"It was a good movie\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Action packed from beg to end\"",
+        "\"Suspenseful\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"It was rentable. Not something I would purchase outright.\"",
+        "\"Reasonably priced and didnt have to spend a ton at a theatre.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Kevin Costner",
+      "evidence": [
+        "\"Love love love Kevin Costner\"",
+        "\"Kevin Costner is always good.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, action choreography",
+      "evidence": [
+        "\"Action packed from beg to end\"",
+        "\"Suspenseful\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"What all moms go through\"",
+        "\"Earning respect is tough as a kid.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced dramas and comedies, particularly those featuring Kevin Costner. They appreciate engaging stories but are not overly concerned with production quality, indicating a preference for entertainment value over polish."
+}

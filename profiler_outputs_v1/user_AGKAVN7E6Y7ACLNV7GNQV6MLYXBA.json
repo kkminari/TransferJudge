@@ -1,0 +1,74 @@
+{
+  "user_id": "AGKAVN7E6Y7ACLNV7GNQV6MLYXBA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, sci-fi",
+      "evidence": [
+        "\"A fun family movie!!!!\"",
+        "\"A good 1960's sci-fi flick. Entertaining to see a fair story.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The most stupid waste of time. This movie had no story line.\"",
+        "\"Fair movie. Okay to watch once. Loosely adapted from H.G. Wells' book of the same name.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"A really good fast paced feel-good story with good acting.\"",
+        "\"Fast moving action.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Great cast. A good movie version of a real event.\"",
+        "\"A very good easy to understand production. A must see.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"A tremendous movie concerning Afro-Americans regarded as less than human and their struggle to recognized as Americans and fight for their country.\"",
+        "\"Fantastic! If you grew up with these singers and songs it is a wonderful collection.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The actors portrayed the real men in a very human way as they handled their struggles.\"",
+        "\"It is a very good movie dealing with relationships across age differences. A serious movie having some funny moments.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented films and fast-paced narratives, often appreciating visual storytelling. They show a moderate sensitivity to production quality but lack strong loyalty to specific creators, indicating a preference for engaging and emotionally resonant content."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AH55SEMFFZPUA6DTGXF766RNGWDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "inspirational, scary",
+      "evidence": [
+        "Awesome movie and so inspiring",
+        "Scared movie, especially if you've lived it"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good movie. Scarey",
+        "Awesome and different show!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Awesome as usual.",
+        "Great as always"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Very good story and actors",
+        "It is good, Timothy is awesome in his part."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "TOM SELLECK IS the best cowboy. He sits his horse just right.",
+        "Timothy is awesome in his part."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual and emotional engagement",
+      "evidence": [
+        "Awesome movie and so inspiring",
+        "Beautiful"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Awesome movie and so inspiring",
+        "Scared movie, especially if you've lived it"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys inspirational and scary movies, often appreciating simple narratives with fast pacing. They show a strong emotional engagement with the content, valuing stories that resonate deeply."
+}

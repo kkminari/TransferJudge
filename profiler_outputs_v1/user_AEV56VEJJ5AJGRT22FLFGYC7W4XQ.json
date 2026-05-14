@@ -1,0 +1,77 @@
+{
+  "user_id": "AEV56VEJJ5AJGRT22FLFGYC7W4XQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, mystery",
+      "evidence": [
+        "\"Wonderful Family Friendly Movie\"",
+        "\"The whole family enjoyed this mystery series\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A different twist on Cinderella with modern music\"",
+        "\"Love these movies, very entertaining\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Entertaining mystery\"",
+        "\"Love this movie!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Wonderful\"",
+        "\"Excellent movie!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"The first Ghostbusters will always be my favorite\"",
+        "\"Love The Glades this series should never have been cancelled\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "musical, entertaining",
+      "evidence": [
+        "\"Music score by Irving Berlin\"",
+        "\"Love these movies, very entertaining\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I really enjoyed it and may end up buying it to have and watch again\"",
+        "\"This is a terrific show that never should have been taken off the air\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly and entertaining movies, particularly those with simple narratives and engaging music. They value emotional resonance and enjoy mysteries, indicating a taste for light-hearted, feel-good content."
+}

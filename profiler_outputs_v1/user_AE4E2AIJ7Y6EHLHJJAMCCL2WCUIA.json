@@ -1,0 +1,77 @@
+{
+  "user_id": "AE4E2AIJ7Y6EHLHJJAMCCL2WCUIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama",
+      "evidence": [
+        "\"I was looking for a show to watch after GOT and this is NOT it.\"",
+        "\"Great action and non-stop entertainment.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The show is so SLOW and BORING.\"",
+        "\"Nothing ever happens and it is super slow paced with NO fighting scenes and NO action.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great action and non-stop entertainment.\"",
+        "\"It's non-stop action and twists.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Quality seems sub-par.\"",
+        "\"If it wasn't named 'Tomb Raider' I never would have seen it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"This is purely a rental, definitely not a movie to buy.\"",
+        "\"I probably won't watch it again.\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Great 3D package. Avatar is amazing in 3D, almost an entirely different movie.\"",
+        "\"The enhanced Sound brings a new element to the movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Putrid movie. Very Cheesy.\"",
+        "\"The movie is Boring.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for fast-paced action content, often expressing disappointment with slow narratives and poor quality. They appreciate visual spectacle but do not exhibit strong loyalty to specific creators or emotional engagement with the material."
+}

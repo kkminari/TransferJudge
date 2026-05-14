@@ -1,0 +1,77 @@
+{
+  "user_id": "AHFJDAE5ISRAEH5CZ5CTQDF3XSEA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"Funny stuff. Good story and well acted by the pros.\"",
+        "\"A happy ending is my kind of flick.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good entertainment.\"",
+        "\"Good story.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"A bit on the fluff side but for gals on a rainy night with a cup of hot cocoa...super watch.\"",
+        "\"Chef is the kind of film that leaves you with a 'feel good' feeling.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good story and good acting.\"",
+        "\"You wouldn't be disappointed.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"This is a great movie if you're a Tom Hanks fan.\"",
+        "\"How can you go wrong with a Nia Vardalos flick?\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"A happy ending is my kind of flick.\"",
+        "\"Good movie. A bit on the fluff side but...super watch.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Chef is the kind of film that leaves you with a 'feel good' feeling.\"",
+        "\"Just a wonderful movie for guy/gal watching.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted comedies and dramas with simple narratives and a feel-good emotional impact. They appreciate stories that are entertaining and engaging, often favoring slower-paced films that evoke positive feelings."
+}

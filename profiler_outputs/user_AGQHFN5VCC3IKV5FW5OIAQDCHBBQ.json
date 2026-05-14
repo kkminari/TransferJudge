@@ -1,0 +1,73 @@
+{
+  "user_id": "AGQHFN5VCC3IKV5FW5OIAQDCHBBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Love it!\"",
+        "\"Must see!!!\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A truly amazing Series! Informative, Emotional, Fun, and Highly Entertaining. Love it!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Love it!\"",
+        "\"Funny!\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Love it!\"",
+        "\"Must see!!!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Great to see Boris Karloff!\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"A truly amazing Series! Informative, Emotional, Fun, and Highly Entertaining. Love it!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A truly amazing Series! Informative, Emotional, Fun, and Highly Entertaining. Love it!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user expresses a strong overall enjoyment of the content they review, often using phrases like 'Love it!' and 'Must see!!!'. However, the lack of specific details in their reviews makes it difficult to pinpoint exact preferences in genres or narrative styles."
+}

@@ -1,0 +1,72 @@
+{
+  "user_id": "AFKKKCRV3XWHWQOKOBASPHKX3MTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "reality, comedy, drama",
+      "evidence": [
+        "'Project Runway is the BEST!!!'",
+        "'SO FUNNY'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'Sometimes you just need to laugh..........stupid humor is the best'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "'The fights, the glamor - RuPaul RULES!!!!!!!'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "'Just plain awful'"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "'RuPaul RULES!!!!!!!'"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "'Gore & chills'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'Absolutely the BEST'",
+        "'Still watching it - but so far it's fantastic.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for reality and comedy genres, enjoying fast-paced and simple narratives. They value emotional resonance in their viewing experiences, often expressing high enthusiasm for their favorite shows and characters."
+}

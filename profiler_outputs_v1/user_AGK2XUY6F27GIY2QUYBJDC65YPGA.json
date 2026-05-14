@@ -1,0 +1,77 @@
+{
+  "user_id": "AGK2XUY6F27GIY2QUYBJDC65YPGA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "disliked romance, comedy, and poorly executed thrillers",
+      "evidence": [
+        "\"What an absolutely repulsive and despicable movie.\"",
+        "\"Silly and moronic farce\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story just stunk. Vague, confusing, half-hearted.\"",
+        "\"No idea what they were trying to achieve with this muddled story.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"A movie that plods along to nothingness.\"",
+        "\"Extreme stretches of slow panning around whilst a morose music plays.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting, dialogue and movements of each episode are realistic and engrossing.\"",
+        "\"Good production value. Acting, dialogue, and scenery are all well done.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"The 90's called. It wants its movie back.\"",
+        "\"This season blows more than Bosch's Coltrane records.\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"dialog is super low and all the other sound effects are super high.\"",
+        "\"What a total crock.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I feel like the writers and producers are reaching for some kind of quirky Twin Peaks feel.\"",
+        "\"This has NOTHING do to with Yorkshire Ripper.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong aversion to poorly executed romantic comedies and thrillers, often criticizing their narratives and pacing. They value high production quality but show little emotional engagement with the content."
+}

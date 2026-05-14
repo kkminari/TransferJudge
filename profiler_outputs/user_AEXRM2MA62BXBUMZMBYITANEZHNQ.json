@@ -1,0 +1,77 @@
+{
+  "user_id": "AEXRM2MA62BXBUMZMBYITANEZHNQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, historical",
+      "evidence": [
+        "\"We like that these movies are light and funny.\"",
+        "\"We enjoyed this historical story as it tells of the horrendous bigotry in the south.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This is a good movie. It does follow Cheryl Strayed's book fairly well.\"",
+        "\"Great story that doesn't end like most scripts as most writers would have ended it, happily.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"This series started slowly and never managed to engage me in a plot.\"",
+        "\"The story line is captivating and stressful.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Couldn't finish viewing this DVD because it froze up.\"",
+        "\"Great scenery, good actors, and good story telling.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Two of our favorite actors do a very good in this farcical presentation.\"",
+        "\"I look forward to their next one.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Great scenery, good actors, and good story telling.\"",
+        "\"What a story of overcoming fear and survival.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Really enjoyed it!\"",
+        "\"What a story of overcoming fear and survival.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted comedies and historical dramas, appreciating good storytelling and quality production. They have a strong emotional connection to the content, often favoring narratives that evoke feelings and resonate personally."
+}

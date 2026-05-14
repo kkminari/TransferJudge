@@ -1,0 +1,77 @@
+{
+  "user_id": "AE3S4562L7B3DW5WC7KVPPASL75Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "classic, drama, war, western",
+      "evidence": [
+        "\"A must see for any serious Civil War buff.\"",
+        "\"The proverbial spaghetti western: badly directed and acted.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Uneven but predictable; don't bother.\"",
+        "\"Fine if you can overlook the gross historical inaccuracies.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This really should be titled The Longest Movie, but it is a WWII classic with EVERYBODY in it.\"",
+        "\"A decent story in its own right but not at all true to the book (which was based on a true story)\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Boring flick - not worth the money\"",
+        "\"Awful; the brothers' worst ever. Repetitive cliches that get old very fast - don't bother.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If you like Arnold, you'll love this one.\"",
+        "\"Classic Marx Bros.: doesn't get any better than this.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Stunning photography and ballet dancing by the principals in this tear jerker.\"",
+        "\"Ahhhnold at his self-deprecating best, a parody of out-of-nowhere explosions, bodies flying around, and cars crashing for no apparent reason.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Stunning photography and ballet dancing by the principals in this tear jerker.\"",
+        "\"How can you not love this timeless classic? TZ will go on forever in the hearts of its fans.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for classic films, particularly in the drama and war genres, while expressing mixed feelings towards westerns. They appreciate visual spectacle and emotional resonance but tend to prefer simpler narratives and slower pacing."
+}

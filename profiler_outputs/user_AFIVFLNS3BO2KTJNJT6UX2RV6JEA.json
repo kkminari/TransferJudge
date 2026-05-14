@@ -1,0 +1,78 @@
+{
+  "user_id": "AFIVFLNS3BO2KTJNJT6UX2RV6JEA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action, western, comedy",
+      "evidence": [
+        "\"One of the best police dramas\"",
+        "\"Good survival movie with a touch of romance thrown in\"",
+        "\"Great story telling; admirable characters\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Extremely entertaining and very well done!\"",
+        "\"One of the best TV dramas ever made, and very contemporary.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Essential viewing!\"",
+        "\"One of the best on TV\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Extremely well done. Great plot\"",
+        "\"Love this series. The discs have performed well so far.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Not as good as THE CLOSER\"",
+        "\"Have seen it many times--and always enjoyable.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Poignant!\"",
+        "\"A great, inspiring story!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Poignant!\"",
+        "\"A great, inspiring story!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama, action, and western genres, enjoying fast-paced and high-quality productions. They value emotional resonance in storytelling, often finding content that is both entertaining and inspiring."
+}

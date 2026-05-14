@@ -1,0 +1,77 @@
+{
+  "user_id": "AGNVOJUWWNGHK4MANJOZHZ6VEGJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fitness, workout",
+      "evidence": [
+        "I love JumpSport Video/DVD workouts.",
+        "I have purchased 4 different Kari Anderson workout DVDs and very glad I did."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It's broken into 20 minute segments which makes it much easier to do.",
+        "I like that the moves are not just replicas of similar moves."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "The cardio dance sections are paced quite fast.",
+        "It's paced very quickly.... which it should be but it's not for beginners."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The instructors cue exceptionally well and they are fun too!",
+        "Kari Anderson... her cueing is always on target."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to specific instructors",
+      "evidence": [
+        "I have lots of Tracey Mallett workouts.",
+        "I have most of Leah's Ballet Body workouts."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific sensory",
+      "evidence": [
+        "Your heart rate will be jacked up.",
+        "You will sweat! Your heartrate will go up!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It's a commitment to you. It's a great workout.",
+        "I am loving it."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fitness and workout DVDs, particularly those that are fast-paced and well-cued by experienced instructors. They value high production quality and show loyalty to specific fitness brands and instructors, indicating a commitment to their fitness journey."
+}

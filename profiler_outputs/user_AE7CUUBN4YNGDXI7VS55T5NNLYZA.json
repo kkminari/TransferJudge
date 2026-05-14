@@ -1,0 +1,77 @@
+{
+  "user_id": "AE7CUUBN4YNGDXI7VS55T5NNLYZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"Needed a nice romantic comedy\"",
+        "\"The most underloved series ever. Edgy and very, very funny.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great fun! Don't miss it!\"",
+        "\"Sweet and funny.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Compelling viewing. From the base camp to the death zone, you won't want to miss a minute.\"",
+        "\"Great, pulls-no-punches television. Not for the feint of heart. It's edgy, and will challenge your thinking. And it's laugh aloud funny!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great fun! Don't miss it!\"",
+        "\"I have no idea why this very funny, edgy comedy never caught on.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "General praise for various films and shows."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Very funny movie with a lot of heart.\"",
+        "\"The story has a lot of heart. Very well written.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A little edgy, but the story has a lot of heart.\"",
+        "\"I was riveted!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted comedies and dramas with fast pacing and a focus on emotional resonance. They appreciate stories that are engaging and fun, often highlighting humor and heart, but show little loyalty to specific creators or franchises."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGRGT5MM7B7W3DOZR5WB6FEONVQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, sci-fi, western",
+      "evidence": [
+        "\"The Tomorrow War is a Sci Fi action flick. It's fun.\"",
+        "\"My favorite John Wayne movie, Rio Bravo, in my opinion, is the perfect Western.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Just sit back and enjoy the movie. It's lots of action and the characters are more than likeable.\"",
+        "\"If you like cliffhangers then you might like this version of Dune.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The action is nearly non-stop.\"",
+        "\"If you like action, 'Skyscraper' delivers.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"If you're going to tear the movie apart looking for inconsistencies or logic holes, then you're sabotaging your own fun.\"",
+        "\"The special effects aren't amazing but they are good enough to overlook if you can get into the story which I did.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Diehard is my favorite movie, which makes me a Bruce Willis fan for life I guess.\"",
+        "\"I really only like Liam Neeson movies when he's a total bad ass.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The character interactions are entertaining. There is plenty of action.\"",
+        "\"It was good to see the Duke again. If you like John Wayne movies then these should entertain you as well.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I haven't finished it yet to be sure that it is as bad as I think it is.\"",
+        "\"Too much crying in this movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and sci-fi genres, enjoying fast-paced narratives with simple storytelling. They show some brand loyalty to specific actors but are less concerned with production quality, focusing more on entertainment value."
+}

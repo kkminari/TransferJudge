@@ -1,0 +1,77 @@
+{
+  "user_id": "AER35CCHQEA62UZ677KXGB4P5YHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, documentary, period pieces",
+      "evidence": [
+        "great mystery series......I love figuring out clues, and these are very difficult to figure out",
+        "we love all period pieces, but this and Downton Abby is so enjoyable."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "Fun to watch and many plot twists",
+        "great plots, always kept me guessing.....great mysteries !!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "A little slow, but great for exercising",
+        "Good portrayal. but fairly slow moving, but great plot"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "excellent commentary. I lost my grandfather (who was a physician) from Philadelphia, during this time",
+        "Gives better understandings of what went on back then. Excellent documentary"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "My wife and I love this series......we love all period pieces",
+        "Great Bond story, I liked it better than the previous."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "great footage, commentary somewhat dry. But very informative",
+        "Excellent documentary"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I lost my grandfather (who was a physician) from Philadelphia, during this time",
+        "this can be very boring. But there are a lot of actual footage of real events."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for mystery and documentary genres, often enjoying complex narratives with plot twists. They appreciate quality storytelling and emotional resonance, particularly in period pieces, while showing a mixed response to pacing."
+}

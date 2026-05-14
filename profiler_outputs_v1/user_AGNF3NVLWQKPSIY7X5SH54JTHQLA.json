@@ -1,0 +1,77 @@
+{
+  "user_id": "AGNF3NVLWQKPSIY7X5SH54JTHQLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, classic",
+      "evidence": [
+        "\"Classic movie\"",
+        "\"Funny movie\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great movie\"",
+        "\"Cute movie\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Classic movie\"",
+        "\"Cute movie\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good movie\"",
+        "\"Funny movie\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "mama's family",
+      "evidence": [
+        "\"Love mama's family\"",
+        "\"Classic tv show. Love mama's family\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and emotional engagement",
+      "evidence": [
+        "\"Classic cartoon to share with my kid's\"",
+        "\"Cute learning dvd\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"My kid's love this movie\"",
+        "\"Classic movie. Kid's love it\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly and classic comedies, often enjoying simple narratives that are cute and funny. They show loyalty to specific shows like 'Mama's Family' and value emotional engagement, particularly in content that resonates with their children."
+}

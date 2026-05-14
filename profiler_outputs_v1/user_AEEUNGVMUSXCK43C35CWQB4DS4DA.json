@@ -1,0 +1,77 @@
+{
+  "user_id": "AEEUNGVMUSXCK43C35CWQB4DS4DA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, action, sci-fi",
+      "evidence": [
+        "This is a great family, feel good movie that my husband and I really enjoyed!!!",
+        "This movie had great special effects, was quick moving but it also had a moral to it and made you think."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "This movie was fun, clever and worth watching multiple times!!",
+        "The acting was very good. The young actor that plays Ender was very good, we had not seen him before."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Fast moving with good character development.",
+        "This movie had great special effects, was quick moving but it also had a moral to it."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "mixed",
+      "evidence": [
+        "Excellent movie but the quality was horrible!!!",
+        "The acting is exceptional and the relationships are real and compelling."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I love Primeval but with so many people changing, it is not quite as much fun as the earlier seasons.",
+        "Noah Wyle is amazing and the supporting crew is awesome!"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "The special effects were amazing and the plot lines very interesting.",
+        "The FX are worthy of a box office movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "We loved it.",
+        "This series always keeps things lively and worth watching."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and action-packed movies with fast pacing and high sensory experiences, particularly those with good special effects. They appreciate engaging storylines and strong acting, although they show mixed feelings about production quality and brand loyalty."
+}

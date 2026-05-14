@@ -1,0 +1,77 @@
+{
+  "user_id": "AGARQDOE4BFFJAMV6SWP5VH74PVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "'Ground-breaking comedy'... breaking new ground for cinematic comedy",
+        "'A real downer of a story, engaging characters, well told'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'Very formulaic, not about the mission(s), rather a military couched soap opera'",
+        "'Definitely not a Hollywood formula product.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "'A real downer of a story, engaging characters, well told, over before I was ready.'",
+        "'Not entertainment, rather, a torture device.'"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "'Well done all around: writing, acting, directing, editing, cinematography.'",
+        "'Stiff acting, stilted writing, amateurish editing...'"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Zucker brothers, John Landis",
+      "evidence": [
+        "'seminal Zucker brothers effort.'",
+        "'John Landis directed this treasure trove of collected short scenes.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, clever writing",
+      "evidence": [
+        "'packed to the gills with quotable lines.'",
+        "'the familiar but wickedly clever writing never fail to entertain.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'brought tears', 'stayed with me'",
+        "'A real downer of a story, engaging characters, well told.'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and drama, particularly valuing clever writing and high production quality. They show a notable loyalty to the Zucker brothers and John Landis, while expressing a dislike for formulaic narratives and poor quality productions."
+}

@@ -1,0 +1,86 @@
+{
+  "user_id": "AH5EC47XPWW7PSOM5UBRQNOS26XQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, fantasy, action, drama",
+      "evidence": [
+        "\"Hilarious movie\"",
+        "\"I love the spin on a classic fairytale\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot was pretty irritating.\"",
+        "\"It's been done so many times that it wasn't interesting.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I fell asleep after about 20 minutes.\"",
+        "\"It is much slower than the previous two Berserk movies.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Excellent casting.\"",
+        "\"The dialogue is the best part.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"Excellent use of technology to bring the fantasy to life.\"",
+        "\"Good action. Good story.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I couldn't find a way to appreciate this movie.\"",
+        "\"It gets all Stephen Spielberg at the end. Meh.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "high",
+      "evidence": [
+        "\"If you want to giggle all the way through a movie well here you go.\"",
+        "\"Woman's version of 'The Hangover'. I didn't expect to laugh that much.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys comedies and fantasy films, often appreciating humor and visual spectacle. However, they show a preference for simpler narratives and have mixed feelings about pacing and emotional depth in the stories they watch."
+}

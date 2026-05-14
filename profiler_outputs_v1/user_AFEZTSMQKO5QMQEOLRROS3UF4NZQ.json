@@ -1,0 +1,77 @@
+{
+  "user_id": "AFEZTSMQKO5QMQEOLRROS3UF4NZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical",
+      "evidence": [
+        "\"good movie, true story. really enjoyed it.\"",
+        "\"An interesting story about what happened in the United States during World War 2 in regard to the Holocaust & what Jewish leaders and the government were and were not doing.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"cute show. will continue to watch.\"",
+        "\"It was a fun movie to watch on my kindle on a flight. Very entertaining. Typical Woody Allen stuff.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I have not been able to stop thinking about it since I saw it days ago!\"",
+        "\"Good story about families that intersect. Involves bullying so very timely. Really enjoyed the acting & storyline.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"wonderful acting with a wonderful story.\"",
+        "\"the acting is absolutely fantastic. Every character is great.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I liked this movie and really wanted to see it since it's a true story & I like the cast.\"",
+        "\"I guess I didn't read that this is an old movie.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"very, very good movie & acting!\"",
+        "\"gr8 story, good acting, very colorful\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It's a wonderful, but sad story.\"",
+        "\"I have not been able to stop thinking about it since I saw it days ago!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for drama and historical narratives, particularly those with high-quality acting and emotional depth. They appreciate slower pacing and simple storytelling, indicating a focus on character development and emotional impact over complex plots."
+}

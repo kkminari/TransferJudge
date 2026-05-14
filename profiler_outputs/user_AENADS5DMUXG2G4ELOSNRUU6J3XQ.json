@@ -1,0 +1,74 @@
+{
+  "user_id": "AENADS5DMUXG2G4ELOSNRUU6J3XQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, war, fantasy, western",
+      "evidence": [
+        "\"Fantasy tale of Romans. Entertaining, well cast.\"",
+        "\"A fun movie for history and war buffs.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Simple story of survival. Very realistic, which means not for kids.\"",
+        "\"Good movie, in Russian with subtitles. A little slow sometimes, not as fast paced as the (now) usual American war movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The story sags a bit in the middle, but the last 30 minutes are a joy to behold.\"",
+        "\"A little slow sometimes, not as fast paced as the (now) usual American war movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Well acted and directed, seems historically accurate, too.\"",
+        "\"Very impressive production values: for example, tanks appeared to be period tanks, weapons appeared to be from the correct time period.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Very intense and well made movie.\"",
+        "\"Characters' got my attention, and held it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I'm still thinking about it from time to time.\"",
+        "\"I found it absolutely wonderful.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys historical and war-themed movies, often appreciating strong acting and production quality. They have a mixed preference for narrative complexity and pacing, indicating a balance between engaging stories and character development."
+}

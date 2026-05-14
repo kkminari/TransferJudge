@@ -1,0 +1,77 @@
+{
+  "user_id": "AGRG2LVCJVH533FNYERSBPIDFDSA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, British comedy",
+      "evidence": [
+        "\"Super funny program if you like British comedy this is a must have along with Dad's Army.\"",
+        "\"It is my favorite British comedy.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great show and story telling!!!\"",
+        "\"Great story when you think one thing is happening then another Stephen Moffett is a great writer.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"super funny you laugh at every episode.\"",
+        "\"Great show so funny. I laugh very hard at this show just love it. A classic.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"sucks to Hollywood.\"",
+        "\"video quality is fair.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "Stephen Moffett, Patrick Troughton",
+      "evidence": [
+        "\"Some great stories from the Patrick Troughton era it so unfortunate that the stories were wipe.\"",
+        "\"Stephen Moffett is a great writer.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual humor",
+      "evidence": [
+        "\"So funny you have to watch again to laugh at what you missed\"",
+        "\"Great recreation the actors played the roles just like the originals.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I laugh very hard at this show just love it. A classic.\"",
+        "\"Great movie inspiration!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for British comedies, particularly those that are fast-paced and humorous. They appreciate simple storytelling and show loyalty to specific creators like Stephen Moffett and Patrick Troughton, while their focus on humor suggests a high emotional resonance with the content."
+}

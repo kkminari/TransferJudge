@@ -1,0 +1,77 @@
+{
+  "user_id": "AH7DWAWMVWI36ZRPL66SVM277D3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, classic",
+      "evidence": [
+        "\"Love this old classic....it's a favorite.\"",
+        "\"We love all the old patriotic Abbott and Costello movies.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Sometimes the story lines don't even make sense...but I love em.\"",
+        "\"Just a great classic film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"They don't make em like this anymore. Real outdoors, entertainment, boy meets girl, boy kidnaps girl etc etc etc hahaha\"",
+        "\"I play them as white noise to go to sleep by.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I don't need to watch violence and scary stuff....there is plenty of that in the 'real world'.\"",
+        "\"I love the series and the DVDs aren't worth the money.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Abbott and Costello, Disney, John Wayne",
+      "evidence": [
+        "\"We love all the old patriotic Abbott and Costello movies.\"",
+        "\"Another great John Wayne movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "light-hearted, nostalgic",
+      "evidence": [
+        "\"Another awesome two episodes of a sometimes corny...always interesting and sometimes frustrating series.\"",
+        "\"I've heard them so many times that I play them as white noise to go to sleep by.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"They are safe and I know that the good guy (Perry) will always win.\"",
+        "\"Just a great classic film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic comedies and family-friendly entertainment, often enjoying light-hearted narratives that evoke nostalgia. They value emotional resonance and simplicity in storytelling, favoring familiar characters and franchises over high production quality."
+}

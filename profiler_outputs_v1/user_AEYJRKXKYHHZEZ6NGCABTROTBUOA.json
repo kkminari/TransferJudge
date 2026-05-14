@@ -1,0 +1,77 @@
+{
+  "user_id": "AEYJRKXKYHHZEZ6NGCABTROTBUOA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy, family, drama",
+      "evidence": [
+        "\"Great fun!\"",
+        "\"Funny stuff but you gotta like silly humor, which our family does!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Don't look for any deep messages or meaning.\"",
+        "\"It was a good story. Our family members are not a huge Bat Man followers, so that might help you gauge.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Fast cars and fun.\"",
+        "\"Great show! Not for young kids, there are scenes with sex and extreme violence.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Held up well over the years.\"",
+        "\"If you liked Ace Ventura 1 you'll like Ace Ventura When Nature Calls.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Thoroughly enjoy Sherlock, happy to see the third season.\"",
+        "\"Love this series. Happy to know we can catch up on any episodes we missed!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"Great movie! Forgot how often I got tears in my eyes.\"",
+        "\"Talladega Nights is funny, with a couple of caveats.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Great movie! Forgot how often I got tears in my eyes.\"",
+        "\"Holds up over the years. My kids were babies when this hit the theaters, they enjoyed watching it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced, action-oriented films with a strong comedic element, often shared with family. They appreciate simple narratives that evoke emotional responses, particularly those that hold up over time. While they show some loyalty to specific series, their focus is more on entertainment value than production quality."
+}

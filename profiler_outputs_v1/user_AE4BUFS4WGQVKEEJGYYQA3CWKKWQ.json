@@ -1,0 +1,71 @@
+{
+  "user_id": "AE4BUFS4WGQVKEEJGYYQA3CWKKWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, fantasy",
+      "evidence": [
+        "I love sci-fi. Awesome movie!",
+        "Great Fantasy Movie!!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Simple the best movie and the music so fantastic!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Great Selection! Great Price!! Great Service!!!"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great Selection! Great Price!! Great Service!!!"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "the music so fantastic!",
+        "Had to have this for the soundtrack!!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Wife's favorite movie! Classic!",
+        "Loved this movie growing up, Classic!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for sci-fi and fantasy genres, enjoying simple narratives with high emotional resonance. They value sensory experiences, particularly music, and have a generally positive outlook on the movies they review."
+}

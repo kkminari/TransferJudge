@@ -1,0 +1,77 @@
+{
+  "user_id": "AEJMLPPDFOUQFX7WKM7NWY7GL2TA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama",
+      "evidence": [
+        "\"This is an early documentary by director Terry Zwigoff...\"",
+        "\"The film examines the ways the American-backed regime under Bautista affected individual Cubans.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The story also threads characters in and out of the plot, and many seem peripherally related to each other.\"",
+        "\"Much of 'Calendar' is deliberately paced, and beautifully shot.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Tape is completely stripped down... It has a lot to say about how personalities and memory work...\"",
+        "\"Much of 'Calendar' is deliberately paced, and beautifully shot.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"It's absolutely some of the best cinematography I have ever seen.\"",
+        "\"The writing is beautiful, and the cinematography is both original and extraordinary.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Terry Zwigoff, Atom Egoyan",
+      "evidence": [
+        "\"This is an early documentary by director Terry Zwigoff...\"",
+        "\"As with other Egoyan films I have seen...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory experience",
+      "evidence": [
+        "\"The use of the soundtrack is both inventive and emotionally effective.\"",
+        "\"The gritty unwashed feel of the movie makes it a special experience.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is by far the most affecting film about war I have ever seen.\"",
+        "\"For one reason or another, this film resonated with me more than any of his other films.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for documentaries and dramas that feature complex narratives and slow pacing. They value high production quality and are particularly moved by emotional storytelling, often resonating with the works of specific directors like Terry Zwigoff and Atom Egoyan."
+}

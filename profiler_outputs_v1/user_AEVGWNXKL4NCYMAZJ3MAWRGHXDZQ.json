@@ -1,0 +1,76 @@
+{
+  "user_id": "AEVGWNXKL4NCYMAZJ3MAWRGHXDZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, anime",
+      "evidence": [
+        "\"lots of action\"",
+        "\"I love this anime one of the greatest ones\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good storyline good action\"",
+        "\"It's a good movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"lots of action\"",
+        "\"Good storyline good action\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"It's okay seen better\"",
+        "\"It's a good movie\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"lots of action\"",
+        "\"One of the funniest shows ever\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"It's okay seen better\"",
+        "\"It's a good movie\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and anime genres, enjoying fast-paced narratives with straightforward storylines. They appreciate visual spectacle but show low sensitivity to production quality and emotional depth."
+}

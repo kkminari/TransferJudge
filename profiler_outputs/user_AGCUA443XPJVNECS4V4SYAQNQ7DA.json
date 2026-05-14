@@ -1,0 +1,76 @@
+{
+  "user_id": "AGCUA443XPJVNECS4V4SYAQNQ7DA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, documentary",
+      "evidence": [
+        "\"Do your funny bone a favor and rent this film which has some of the most outlandish scenes ever devised in a comedy.\"",
+        "\"Greatly enjoyed by my dinosaur lover, and surprisingly, even by myself who really doesn't give a wit about dinosaurs, this film was very entertaining and provided more than a few laughs :)\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The script writers certainly weren't overworked in The Wire. Every other word began with f and ended with k.\"",
+        "\"Splintered plot and wooden acting.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Rapidly losing interest.\"",
+        "\"Held my interest through Season 1, but not enough to look forward to watching a second.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"This is so well done, from filming, to costumes, to period detail, to scripting, to acting, that a five star rating doesn't seem enough.\"",
+        "\"An absolutely stunning reminder.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Difficult to give an impartial review when I think that Steve Buscemi is one of the sexiest men alive so I'm actually enjoying Boardwalk Empire more than the Sopranos.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"This is so well done, from filming, to costumes, to period detail, to scripting, to acting, that a five star rating doesn't seem enough.\"",
+        "\"Do your funny bone a favor and rent this film which has some of the most outlandish scenes ever devised in a comedy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"An absolutely stunning reminder.\"",
+        "\"Reminds me of home\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and dramas, particularly those with high production quality and emotional resonance. They have mixed feelings about narrative complexity and pacing, indicating a preference for straightforward storytelling that holds their interest without becoming convoluted."
+}

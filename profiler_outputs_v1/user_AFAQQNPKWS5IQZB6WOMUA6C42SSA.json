@@ -1,0 +1,74 @@
+{
+  "user_id": "AFAQQNPKWS5IQZB6WOMUA6C42SSA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, action, comedy",
+      "evidence": [
+        "\"Interesting documentary.\"",
+        "\"Outstanding movie with tons of action.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good story that most of us would never know.\"",
+        "\"Excellent movie about leadership and teamwork.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Outstanding movie with tons of action.\"",
+        "\"Terrific series. It is one of the way I've ever watched.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Interesting movie\"",
+        "\"Funny show with so many current political parallels.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Outstanding movie with tons of action.\"",
+        "\"Very well done...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"Although the movie is very profane and quite homophobic, it shows that when people share a common cause, they can overcome many barriers and prejudices to achieve an objective.\"",
+        "\"Excellent movie about leadership and teamwork.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action-packed films and documentaries, often appreciating straightforward storytelling. They show a preference for engaging narratives that resonate emotionally, though they are less concerned with production quality."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHIX5D4S6P5KKSNDWDTPJRW22AOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, comedy, drama, action",
+      "evidence": [
+        "\"One of the Best and Most Important Documentaries I've Seen in a Long Time!\"",
+        "\"Darkly Hilarious and Surprisingly Heartfelt!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The film runs close to 2 hours and there is about 15 minutes of footage that could have been left on the cutting room floor.\"",
+        "\"The story was interesting for the first half of the film, but I felt like it really dragged around the halfway point and really wanted it to wrap things up.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The film runs close to 2 hours and there is about 15 minutes of footage that could have been left on the cutting room floor.\"",
+        "\"It feels like the writers this season took some early drafts for episodes that had been sitting on the shelf for a few years instead of coming up with new ideas.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The only real complaint I have about is that it doesn't go into a whole lot of detail about the NSA and what he was fighting against...\"",
+        "\"The main reason why the film fails is because of its script.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Martin Scorsese, David Fincher",
+      "evidence": [
+        "\"Another Masterpiece from Martin Scorsese\"",
+        "\"...the director does an excellent job of crafting the film with a tone that's comparable to the works of David Fincher...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"...the film is very much a Dramedy and does a good job of keeping the tone balanced delivering a fair dose of laughs along with dramatic tearjerking moments...\"",
+        "\"...the cinematography and one of the best soundtracks I've heard in recent memory.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...it's a truly inspiring (and important) true story and one of the years best films.\"",
+        "\"...the film is absolutely hilarious! It never gets quite as raunchy as one might expect, but that doesn't make it any less hilarious.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and comedies, particularly those with high production quality and emotional depth. They appreciate the craftsmanship of well-known directors like Martin Scorsese and David Fincher, while favoring slower-paced narratives that allow for character development and emotional engagement."
+}

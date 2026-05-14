@@ -1,0 +1,77 @@
+{
+  "user_id": "AGL4D2VISXRT5E3B76NNKGSWT4EQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, family, animation",
+      "evidence": [
+        "\"I love this movie! Not only is it done by Jim Henson (Labyrinth one of my favorite movies of all time)\"",
+        "\"Beetlejuice is one of my favorite movies of all time. It’s funny, (besides for some of the more vulgar jokes) I love the cinematography and creepy vibe.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It might be cheesy, but it’s one of my favorites.\"",
+        "\"I love this movie! Not only is it done by Jim Henson (Labyrinth one of my favorite movies of all time) it’s sooooo sweet.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I love this movie! Not only is it done by Jim Henson (Labyrinth one of my favorite movies of all time) it’s sooooo sweet.\"",
+        "\"I loved this one!! You get to explore the world of Mariposa more!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I love the cinematography and creepy vibe.\"",
+        "\"The music, the characters, the drama!!! I’m in love and beyond excited for this anniversary edition!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Jim Henson",
+      "evidence": [
+        "\"Not only is it done by Jim Henson (Labyrinth one of my favorite movies of all time)\"",
+        "\"I love this essential 80s movie. It couldn’t get better if they tried.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, music",
+      "evidence": [
+        "\"I love the cinematography and creepy vibe.\"",
+        "\"The music, the characters, the drama!!! I’m in love and beyond excited for this anniversary edition!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It reminds me of my Mom because it’s one of her favorite Christmas movies!!!!!\"",
+        "\"I love this movie! Not only is it done by Jim Henson (Labyrinth one of my favorite movies of all time) it’s sooooo sweet.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy and family-oriented films, often enjoying simple narratives with emotional depth. They show a high sensitivity to production quality and have a fondness for the works of Jim Henson, indicating a taste for visually engaging and heartwarming stories."
+}

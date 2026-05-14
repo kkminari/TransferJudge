@@ -1,0 +1,77 @@
+{
+  "user_id": "AFNNA5E7XKNDB5T7MFWYXN64MWFQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Loved this series. I am glad that Love has no age.",
+        "The chemistry on screen between the Heavenly Healer and the King are great."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Funny and emotional",
+        "I never tire of watching this movie."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Starts slowly, but towards the middle got interesting.",
+        "Loved this from start to the end."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "The DVD arrived in a secure box. The DVD was protected and package sealed.",
+        "It was just like purchasing it from a local music store."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Lee Min Ho is amazing in this role.",
+        "I will miss watching Mr. Patrick Swayze on the big screen."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "It made me reflect how though we are in a modern world, there are still innocence that abounds.",
+        "What a wonderful bond."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Made me Laugh! I would see it several times and still love it!",
+        "You are amazed at the human spirit to never give up!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys simple narratives with emotional depth and a mix of pacing. They appreciate heartwarming stories and character-driven experiences, often reflecting on themes of love and resilience."
+}

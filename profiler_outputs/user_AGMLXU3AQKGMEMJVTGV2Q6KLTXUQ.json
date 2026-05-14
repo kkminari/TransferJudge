@@ -1,0 +1,76 @@
+{
+  "user_id": "AGMLXU3AQKGMEMJVTGV2Q6KLTXUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, adventure",
+      "evidence": [
+        "\"great comedy\"",
+        "\"Great family movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the stories are believable and interesting\"",
+        "\"enjoy the stories and the character are believable\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"great fun movie\"",
+        "\"enjoyable entertainment- likable people\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"enjoy the stories and the character are believable\"",
+        "\"good adventure\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Mel Brooks",
+      "evidence": [
+        "\"This is one of the Mel Brooks movies that is funny\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"enjoy the scenery beaches etc.\"",
+        "\"I like history and the scenery.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"not age appropriate\"",
+        "\"I was disappointed in this movie.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted comedies and family-oriented films, often appreciating believable characters and engaging stories. They show a preference for fast-paced narratives and have a fondness for Mel Brooks' work, while their emotional engagement appears to be moderate."
+}

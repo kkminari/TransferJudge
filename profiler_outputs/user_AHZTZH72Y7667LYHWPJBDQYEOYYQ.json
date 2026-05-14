@@ -1,0 +1,76 @@
+{
+  "user_id": "AHZTZH72Y7667LYHWPJBDQYEOYYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romantic comedy, drama",
+      "evidence": [
+        "\"Great little romantic comedy movie!\"",
+        "\"I've watched about 25 Korean drama series so far, and this one is in my top 5 of favorites.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Yes, it was a bit slow, but sweet ending and great soundtrack.\"",
+        "\"A fun, quirky, embarrassing, painful, humorous, raw, and poignant reflection of two people who happened to meet.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Yes, it was a bit slow, but sweet ending and great soundtrack.\"",
+        "\"Give yourself enough time to step into another world, where the tempo slows to a fresh pace, and enjoy the slow ride.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"the writing and cinematography are very good (not excellent)\"",
+        "\"No, not great acting, but still worthy!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Lead actor is Lu Si Ming (Johnny Lu), who has many TV and movie credits to his name.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"the entire series does a great job of coming to some poetic conclusions about life, being young, and growing up in their culture and timeline.\"",
+        "\"Give yourself enough time to step into another world, where the tempo slows to a fresh pace, and enjoy the slow ride.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I was emotionally invested and completely engaged.\"",
+        "\"This is a story that stays with you.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys romantic comedies and dramas, often appreciating slow-paced narratives with emotional depth. They value character development and storytelling over high production quality, indicating a preference for heartfelt and engaging stories."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEY7ZCAPZWJKOOQDUJEHIXYI5HSQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary",
+      "evidence": [
+        "\"This heartbreaking story was unknown to me.\"",
+        "\"I think it could have been cut a bit more as some scenes were strung out almost to the point of 'come on come on, move along'\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It was noted that this was one of the top 5 events where firefighters were killed in action.\"",
+        "\"Predictable but safe plot. Pretty much came clear right at the start...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It does drag just a tad too slowly for me personally.\"",
+        "\"However, it went WAY too slowly.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Story, directing, editing, music all first rate.\"",
+        "\"Beautiful settings. Sharp differences in color and lighting as it swings back and forth.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I initially watched because I really like Michael Bay's movies.\"",
+        "\"I have been a fan since the first SNL.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Beautiful settings. Sharp differences in color and lighting as it swings back and forth.\"",
+        "\"This movie, actors, settings, camera angles! All impeccable!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Such a sad story.\"",
+        "\"It was noted that this was one of the top 5 events where firefighters were killed in action.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for drama and documentary genres, often appreciating high production quality. They tend to favor slower-paced narratives that evoke emotional responses, although they express frustration with overly drawn-out storytelling."
+}

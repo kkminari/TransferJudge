@@ -1,0 +1,89 @@
+{
+  "user_id": "AGDCYHT5KWYASEGJFLTEWS7GFMCA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, horror, action, fantasy",
+      "evidence": [
+        "\"I am a sappy holiday person so am glad I didn't watch it in December, because yes, there is blood. And death. And pain. But its also hilarious and full of Santa magick.\"",
+        "\"Freaky, terrifying, unexpected twists, and moments of fun and humor.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"If you like movies with a different feel and a bit of horror, you might like this movie.\"",
+        "\"It's a good movie, and I recommend it, but wouldn't watch it again.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"...fun, hilarious, fast paced, and well casted.\"",
+        "\"I want to say more... but no spoilers!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The special effects are good - but definitely a bit busy.\"",
+        "\"It's melodramatic, horrifying in parts... other than that it's great.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Taika Waititi, Marvel",
+      "evidence": [
+        "\"I haven't come across a Taika Waititi movie that I don't love.\"",
+        "\"Can't go wrong with Marvel.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"...plenty of horror for me.\"",
+        "\"...had me giggling through the entire movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I want to say more... but no spoilers!!\"",
+        "\"...brought tears, stayed with me.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "disliked_genres",
+      "value": "campy",
+      "evidence": [
+        "\"WAY too campy for me.\"",
+        "\"Definitely a bit campy due to the age, but still scary!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user enjoys fast-paced comedies and horror films, particularly those with strong visual elements and humor. They show a preference for high-quality productions and have a notable loyalty to creators like Taika Waititi and Marvel."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AFAQQNPKWS5IQZB6WOMUA6C42SSA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, action, comedy",
+      "evidence": [
+        "\"Interesting documentary.\"",
+        "\"Outstanding movie with tons of action.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good story that most of us would never know.\"",
+        "\"Excellent movie about leadership and teamwork.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Outstanding movie with tons of action.\"",
+        "\"Terrific series. It is one of the way I've ever watched.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Very well done...\"",
+        "\"Great movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Funny show with so many current political parallels.\"",
+        "\"This series is humorous but it is also too real as it relates to many current events and behaviors of our political leaders.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"Although the movie is very profane and quite homophobic, it shows that when people share a common cause, they can overcome many barriers and prejudices to achieve an objective.\"",
+        "\"Excellent movie about leadership and teamwork.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys documentaries, action films, and comedies, appreciating well-crafted narratives and high production quality. They prefer fast-paced storytelling with a humorous touch, while showing a moderate emotional engagement with the content."
+}

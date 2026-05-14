@@ -1,0 +1,77 @@
+{
+  "user_id": "AEESRYUL6F3P5NVPM3DSRZR6LS3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, suspense, action, thriller",
+      "evidence": [
+        "If you like high drama and can stand the blood and gore plus the continued efforts to eradicate the Jewish population then you will probably enjoy this series.",
+        "If you like drama, suspense, intrigue, and a story of the underdog fighting the system then you should enjoy this series."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "Around the 8th episode it took a twist that still has me confused.",
+        "The series shows how barbaric their control of the Greater Reich would have been had they developed the bomb before us."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Good storyline, good scripts with a hook at the ending of each episode to keep your interest until you can watch the next one.",
+        "There are lots of f bombs and some kinky sex scenes scattered through most every episode."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "I thought it would be a good movie with a star like Dennis Hopper starring. I was so very wrong on all aspects.",
+        "The movie really shows how much influence Karl Rove and Dick Cheney had with the President."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "The only reason I started watching this show was because it stars Billy Bob Thornton.",
+        "I really liked the Matrix movies so this one was a no brainer for me."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I appreciate that the dialogue is not drowned out by loud background noise/music like on most regular TV shows.",
+        "The movie also provides a good look at how the normal citizens of the Soviet Union lived in those times."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "A sad commentary on how our justice system can be used to the benefit of the criminal while the innocent are left to fend for themselves.",
+        "If you like high drama and can stand the blood and gore plus the continued efforts to eradicate the Jewish population then you will probably enjoy this series."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama, suspense, and action genres, often appreciating complex narratives with fast pacing. They value high production quality and emotional resonance in their viewing experiences, indicating a taste for engaging and thought-provoking content."
+}

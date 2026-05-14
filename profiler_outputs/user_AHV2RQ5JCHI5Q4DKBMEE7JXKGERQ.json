@@ -1,0 +1,77 @@
+{
+  "user_id": "AHV2RQ5JCHI5Q4DKBMEE7JXKGERQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, animation",
+      "evidence": [
+        "\"Funny family movie with a plot.\"",
+        "\"Loved this holiday movie and was happy to add it to the collection.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"An easy movie that you don't have to think through.\"",
+        "\"Great story, moves fast and has lots of excitement and friendship without the undercurrent of sexy as seen in so many current films.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great story, moves fast and has lots of excitement and friendship...\"",
+        "\"Funny, but I usually don't like things blowing up or action movies.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Just a little bit on the boring side unless you are in early grade school.\"",
+        "\"You can't go wrong for the fun and the price.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If you were a fan, you will be left with your hands out wanting to grab more!\"",
+        "\"My daughter went crazy when she first saw Family Matters.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It is especially enjoyable for a mother-daughter watch and brings back warm memories for those of us who grew up in the sixties.\"",
+        "\"Funny family movie with a plot.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is especially enjoyable for a mother-daughter watch and brings back warm memories for those of us who grew up in the sixties.\"",
+        "\"Loved this holiday movie and was happy to add it to the collection.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented and comedic films, often with simple narratives and fast pacing. They value emotional resonance and shared experiences, particularly in a family context, while showing less concern for production quality."
+}

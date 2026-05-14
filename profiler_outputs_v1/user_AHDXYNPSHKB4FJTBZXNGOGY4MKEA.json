@@ -1,0 +1,80 @@
+{
+  "user_id": "AHDXYNPSHKB4FJTBZXNGOGY4MKEA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, classic, sci-fi, crime, documentary, romance",
+      "evidence": [
+        "\"the super creepy horror aspect is very well done\"",
+        "\"I love classic movies and wanted this one in my collection\"",
+        "\"SciFi at it's best, great story, great acting, fantastic special effects\"",
+        "\"this is a classic crime movie so was glad to be able to get a copy so easily on Prime\"",
+        "\"I found this movies by accident while looking for vampire movies and was curious enough to get it\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Most murder mystery movies don't have the intricate story this one has\"",
+        "\"the story is beautifully crafted, the characters have soul depth and a gorgeous setting\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"this is a fast moving European police series I thoroughly enjoyed\"",
+        "\"the movie is worth it because of the fantastic dancing at the end\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I am a movie fan that needs all the pieces of a movie to be outstanding or I won't watch it\"",
+        "\"the quality of DVD excellent\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Tyler Perry, Dick Wolf",
+      "evidence": [
+        "\"I love Tyler Perry's works, but these are plays that have been filmed\"",
+        "\"Great TV show and if you are a Law & Order (Dick Wolf) fan will love it like I do\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, emotional depth",
+      "evidence": [
+        "\"The special effects are awesome\"",
+        "\"the characters have soul depth and a gorgeous setting\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I cried, sobbed really, wondering what would it be like to have someone love me like that\"",
+        "\"the personal struggle the star went through to make her way made me feel I was struggling with her\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror, classic, and sci-fi genres, appreciating complex narratives and high production quality. They enjoy fast-paced stories with emotional depth and have a notable loyalty to creators like Tyler Perry and Dick Wolf."
+}

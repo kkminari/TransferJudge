@@ -1,0 +1,76 @@
+{
+  "user_id": "AHWBDCT6YJ33MFXDLHM2RVBHSUDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "realistic, action",
+      "evidence": [
+        "\"very realistic and great story line, good characters and great actors for the parts !\"",
+        "\"Great action and very realistic, could happen like that in real life !!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Excellent : Glad I bought it , very moving and powerful in such a simplistic way !\"",
+        "\"It is what it is !\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great action and very realistic, could happen like that in real life !!\"",
+        "\"A very very good movie, I must say. Great\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"very realistic and great story line, good characters and great actors for the parts !\"",
+        "\"Excellent : Glad I bought it , very moving and powerful in such a simplistic way !\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"seen all his movies ! and a twist of funniness !\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, realism",
+      "evidence": [
+        "\"could really go down like this at some time !\"",
+        "\"Excellent ! Imagine it happening in Reality ? pretty scary would look like the movie !\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"very moving and powerful in such a simplistic way !\"",
+        "\"This too ! is 'EXCELLENT' the real deal !!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for realistic and action-oriented content, appreciating high production quality and emotional impact. They favor fast pacing and simple narratives, indicating a taste for engaging yet straightforward storytelling."
+}

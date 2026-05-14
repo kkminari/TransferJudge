@@ -1,0 +1,77 @@
+{
+  "user_id": "AE5IJWBYVUTIZXTTBMO5UCRJGSIQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, classic",
+      "evidence": [
+        "\"It's a beautiful story in a beautiful setting... uplifting, and the perfect film for a rainy day...\"",
+        "\"This is a terrific, happy movie, full of laughs, beautiful clothes and fabulous set design.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's much more simple, but much more beautiful.\"",
+        "\"The plot's a little iffy... but for the most part it's a nice way to spend time.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The pace is steady.\"",
+        "\"I didn't find this movie too too entertaining... Just ok.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The quality of this vintage Republic film wasn't perfect, but it's well worth watching.\"",
+        "\"I love John Payne as the Everyman, and the washed-up GI who came home to nothin' much.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love this movie from the very first clumsy opening number...\"",
+        "\"I agree with others: this would be a great poli-sci lesson for young people.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual beauty",
+      "evidence": [
+        "\"The colors are so vibrant, the music throughout is wonderful, the costumes are first-class.\"",
+        "\"It's lovely to look at, and the tunes have made me a real fan of Jerome Kern.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I ended up totally admiring her tenacity.\"",
+        "\"This movie is rich. Full of dry humor and wonderfulness.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic dramas and romantic films that emphasize visual beauty and emotional depth. They appreciate well-crafted stories but tend to favor simpler narratives with steady pacing, while showing a high sensitivity to production quality."
+}

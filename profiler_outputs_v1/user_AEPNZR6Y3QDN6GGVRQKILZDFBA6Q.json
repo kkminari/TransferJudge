@@ -1,0 +1,77 @@
+{
+  "user_id": "AEPNZR6Y3QDN6GGVRQKILZDFBA6Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, drama, western",
+      "evidence": [
+        "\"Finding Love Thru Ice Sculpting??? Seriously Folks???\"",
+        "\"A Cowboy Film That Stands The Test Of Time Easily\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The Plot Guys & Gals who came up with this Gem of Wasted Talent...\"",
+        "\"The main reason that this movie was only 'Cute' instead of an enjoyable and Really Funny Movie was the Comedic Quality of the Script...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I Expected A Movie, But What I Got Was A Very Long And Boring Political Commercial\"",
+        "\"This movie is akin to the Sweetest Pastry Imaginable doused with Sugar...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"If the Production Company Department given the task of coming up with movie ideas and plots is so Abysmally Bereft Of Original Ideas...\"",
+        "\"Spend a little extra in the future....Either on a better Toupee for your Leading Man...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I submit that Perry's Best Work was Ahead Of Him...\"",
+        "\"John Wayne was still playing John Wayne...\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Great Cinematography. Well Acted with Characters that are highly believable.\"",
+        "\"The ensemble cast individually and as a Whole acquit themselves admirably.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"This film has no redeeming qualities that would ever motivate me to anybody for any reason.\"",
+        "\"If you plan to watch this paltry effort at Schmaltz...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user exhibits a strong preference for simple narratives and high production quality, often criticizing films for lack of originality and depth. They enjoy visual spectacle but show low emotional engagement, indicating a focus on entertainment rather than profound storytelling."
+}

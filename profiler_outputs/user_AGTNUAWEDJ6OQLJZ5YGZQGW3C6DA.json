@@ -1,0 +1,77 @@
+{
+  "user_id": "AGTNUAWEDJ6OQLJZ5YGZQGW3C6DA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama",
+      "evidence": [
+        "Great series. Very entertaining",
+        "Keeps the drama going from the second season."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Easy to binge watch this show",
+        "Can't get enough of this series."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Every episode leaves me NEEDING to see the next one ASAP",
+        "Love the climax at the end of each episode."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great series",
+        "This series is the BEST I have ever seen."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Sons of Anarchy",
+      "evidence": [
+        "Love this show, only comes in 2nd to Son's of Anarchy for best all time viewing!",
+        "Can't get enough SOA!!!!!!!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I can't get enough of this series!",
+        "Best viewing EVER, can't get enough of this series!!!!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I LOVED EVERY MINUTE OF IT!!!!",
+        "Best show I have ever seen!!!!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama series that are fast-paced and easy to binge-watch. They exhibit high emotional engagement with the content and show loyalty to specific series like 'Sons of Anarchy'."
+}

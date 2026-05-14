@@ -1,0 +1,74 @@
+{
+  "user_id": "AEBHUSURB5HFDLJRYK4ZPAVCMWKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "psychological thriller, drama",
+      "evidence": [
+        "I understand the movie was meant to be a psychological thriller, but it was a complete waste of time and money renting.",
+        "Good theme, but the acting was awful..... I enjoyed the teachings on forgiveness, prayer, and faith."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The movie just left a bitter taste in my mouth.",
+        "This was not a good movie. The whole thing was a waste of time."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I tried to like this but it was not a satisfying watch.",
+        "The ending was even worse... The family is shown having dinner together as if nothing ever happened!!!!!"
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the acting was awful.....",
+        "a negative plot with very, very, poor acting!!!!!"
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "was a semi ok piece to watch.",
+        "This was a very good movie. The plot and actors were good."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "The whole thing was a waste of time.",
+        "If I could give it zero stars I would!!!!!"
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for psychological thrillers and dramas but is highly critical of production quality, particularly acting. They tend to favor straightforward narratives and slow pacing, often expressing disappointment in their viewing experiences."
+}

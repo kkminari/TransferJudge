@@ -1,0 +1,77 @@
+{
+  "user_id": "AELICNP3PCLCO6DRZ4YJRH6IVPOA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action, family",
+      "evidence": [
+        "A mix between AI and Blade Runner and very thought provoking series.",
+        "I enjoyed both movies and each had things that made for a good family film."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "I found things on the second viewing I did not notice in the first.",
+        "It is a great series. A mix between AI and Blade Runner and very thought provoking series."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "This one was action from beginning to end.",
+        "This is really a good movie with lots of action."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The entire cast is outstanding and the story is fantastic.",
+        "Really good acting, but the voices were not quite as good as the theatre soundtrack."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Quentin Tarantino, HBO",
+      "evidence": [
+        "If you are a Quinten Tarrantino fan, you have to have this movie.",
+        "This is just another example of HBO producing some great programs."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "It is great not having to watch commercials as they are constant on SYFY.",
+        "I thought this was such a great movie in the theatre."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I found things on the second viewing I did not notice in the first.",
+        "We have watched it a number of times and never fail to enjoy it."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and action genres, appreciating complex narratives and fast pacing. They value high production quality and show loyalty to notable creators like Quentin Tarantino and HBO, indicating a taste for engaging and thought-provoking content."
+}

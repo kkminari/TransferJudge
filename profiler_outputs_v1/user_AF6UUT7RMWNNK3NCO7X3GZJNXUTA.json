@@ -1,0 +1,77 @@
+{
+  "user_id": "AF6UUT7RMWNNK3NCO7X3GZJNXUTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, educational, music",
+      "evidence": [
+        "\"Great addition to Blue Note documentaries.\"",
+        "\"A nicely packaged film with a comprehensive variety of European artists...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Well structured and solid existential philosophy.\"",
+        "\"A great presenter, articulate, confident and knowledgeable.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The more advanced material is great and a real workout for my brain.\"",
+        "\"Tidy delivery, and it really needs the book to go with it...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...some workshops had poor quality audio for the presenters voice.\"",
+        "\"Such control on the kit is always a joy to see and nice clear explanations.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have his other compilations.\"",
+        "\"Garibaldi is a still a legend among funk players...\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory experience",
+      "evidence": [
+        "\"...the two bonus tracks of Glasper, Hancock and Shorter are a real bonus.\"",
+        "\"Sound varied and minimal labelling identification of many of those recalling the histories...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The more advanced material is great and a real workout for my brain.\"",
+        "\"...a great presenter, articulate, confident and knowledgeable.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for educational and documentary content, particularly in music. They appreciate high production quality and enjoy slow-paced narratives that provide depth and clarity, indicating a thoughtful engagement with the material."
+}

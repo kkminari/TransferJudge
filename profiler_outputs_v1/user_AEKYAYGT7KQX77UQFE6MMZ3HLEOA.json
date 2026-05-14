@@ -1,0 +1,77 @@
+{
+  "user_id": "AEKYAYGT7KQX77UQFE6MMZ3HLEOA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "psychological thriller, drama",
+      "evidence": [
+        "\"Damn this was a tense movie. More a suspense or thriller than a horror film... One of the best psychological thrillers I've seen in a long time.\"",
+        "\"I know this grief personally and it is worse than death, death would have been more merciful.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"I did not like the second storyline about the towns people, it seemed unnecessary and confusing...\"",
+        "\"The kind of film that gets in your head.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I thought the pace of the film was perfect. I don't think it was too slow or that there were any unnecessary scenes.\"",
+        "\"This movie was sooooo boring it was painful.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I love this film. I find the premise very disturbing. Beginning to end was tension.\"",
+        "\"I didn't find it confusing or convoluted, it is all pretty obvious who's who.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I only watched this because it was written by the writer of Beasts of the Southern Wild...\"",
+        "\"Usually love Ozon movies but this one was awful.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"You have to watch this with the sound up and no distractions...\"",
+        "\"So beautiful it's painful. A very intense and real character study.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"What moved me most was the ending...\"",
+        "\"I watched this on Mothers day, it's how I cope. I watch and read everything I can find on adoption and cry all day.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for psychological thrillers and dramas, often appreciating complex narratives and emotional depth. They value high production quality and sensory experiences, while showing a tendency towards slower pacing in storytelling."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGKGE7MVZ3LSLXVF7TXMJ7D4LZBA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, superhero",
+      "evidence": [
+        "Love this movie",
+        "Good movies love superman"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good movie",
+        "Love this movie"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "This movie is funny and good to have good movie own",
+        "Love this movie"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Good movie",
+        "Love this movie"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "Good movies love superman",
+        "I'm happy I got this complete set"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I'm happy I got this complete set",
+        "Love this movie"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I'm happy I got this complete set",
+        "I love this movie"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family and superhero movies, enjoying simple narratives that are fast-paced and emotionally resonant. They express loyalty to specific franchises and appreciate the overall enjoyment of the films rather than focusing on production quality."
+}

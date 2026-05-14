@@ -1,0 +1,77 @@
+{
+  "user_id": "AEUVYXCMSY7TCFNJPI2ZGT6IGJ7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, educational, historical",
+      "evidence": [
+        "\"A fun family video. Something it this video for everyone.\"",
+        "\"A great historical approach to Michael Patrick Murphy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The combination of easy to follow fun humor...\"",
+        "\"It is soft and easy to watch as Rudolph the Rednosed Reindeer...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It is soft and easy to watch...\"",
+        "\"Something it this video for everyone.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I can not tell you why but that is true of many shows.\"",
+        "\"It is simply a historical biography of a man...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"My Wife loves this.\"",
+        "\"Based on my wife's recommendation...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Eductainment at is best.\"",
+        "\"Science delivered entertainingly\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The world is not a better place without him.\"",
+        "\"It ranks with Baa Baa Black Sheep before the lambs arrival as the best series that I have ever watched.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and educational content, often with a historical focus. They prefer simple narratives and slower pacing, valuing emotional resonance over high production quality."
+}

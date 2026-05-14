@@ -1,0 +1,77 @@
+{
+  "user_id": "AHK7MKV2HHLQGDMBC76DVN2C37IQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, thriller",
+      "evidence": [
+        "\"I like the incorporation of fairly recent events\"",
+        "\"Interesting story, but then Elmore Leonard is not your average writer.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Interesting story - did not like the characterizations\"",
+        "\"It portrayed the pain and suffering the victims of the concentration camps had to face their lifetime.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Took one episode to get into it.\"",
+        "\"Good acting. Story began creeping me out.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Good acting by all\"",
+        "\"Excellent movie. Certainly had me fooled.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I like Jeff Daniels and Sam Waterson so I stuck with it.\"",
+        "\"Timothy Olyphant is great as a Kentucky boy.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Nice shots of Paris\"",
+        "\"This is a great ensemble cast and if there is any truth to the narrative - wow!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It portrayed the pain and suffering the victims of the concentration camps had to face their lifetime.\"",
+        "\"Interesting ending.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for drama and thriller genres, appreciating high-quality acting and storytelling. They value emotional resonance and sensory experiences, while their narrative complexity and pacing preferences are more mixed."
+}

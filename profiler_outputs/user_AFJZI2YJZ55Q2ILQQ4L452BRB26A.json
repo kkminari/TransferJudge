@@ -1,0 +1,77 @@
+{
+  "user_id": "AFJZI2YJZ55Q2ILQQ4L452BRB26A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, thriller",
+      "evidence": [
+        "I think Ive seen every horror movie out there by now ---thousands at minimum! --Im a super-fan.",
+        "I am a walking dead fanatic, and I adore most apocolypse, infestation, terror themes anyway."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "Unlike ANY other thriller I have ever seen-- tightly woven with subtlety that kept me on the edge of my seat.",
+        "Finally! Something different. Ok, sure a smidge convoluted (a monster eats humans if they themselves have ingested human flesh) but I did say different."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "This held my interest the entire time and the scenes in the water had me lifting my legs while i was sitting in the chair!",
+        "I personally thought this was a well done movie! I only fast forwarded a bit in the beginning as it was a bit slow, but once it got going -- I was all in."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "I could barely get through half of it and fast forwarding was the only way I could do it. Script was hackneyed, Video was textbook.",
+        "The acting was laughable at best, and as others have commented, not once did think those sweet puppies would rip ANYONE limb to limb."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I am a walking dead fanatic, and I adore most apocolypse, infestation, terror themes anyway.",
+        "I personally thought this was a well done movie!"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I thought this was tasteful, and well documented.",
+        "This might not have been a multi-million dollar film, but for the budget, I thought it was very well done!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I personally thought this was an honest, real look at one woman's home and how they've been trying to verify what she's been saying.",
+        "This held my interest the entire time and the scenes in the water had me lifting my legs while i was sitting in the chair!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror and thriller genres, often enjoying complex narratives that keep them engaged. They are sensitive to production quality, which influences their enjoyment, and they value emotional resonance in the content they consume."
+}

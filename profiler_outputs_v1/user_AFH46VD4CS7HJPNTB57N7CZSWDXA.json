@@ -1,0 +1,73 @@
+{
+  "user_id": "AFH46VD4CS7HJPNTB57N7CZSWDXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "I thought the story line was lacking",
+        "I didn't like the story line at all to far off the all and perms"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I need some realness to it",
+        "I thought the story line was lacking"
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I thought the story line was lacking",
+        "not the best"
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I didn't like the story line at all to far off the all and perms",
+        "this is something that can be scary"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "none",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "don't like sub title and would be thankful if you would have some wording on what language I don't watch them"
+      ],
+      "confidence": 0.3,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "not good",
+        "did not like it"
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user exhibits a strong dislike for poorly executed storylines and prefers straightforward narratives. They show little loyalty to specific creators and have a low sensitivity to production quality, indicating a focus on content over form."
+}

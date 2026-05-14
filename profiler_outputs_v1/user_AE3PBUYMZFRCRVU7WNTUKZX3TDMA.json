@@ -1,0 +1,77 @@
+{
+  "user_id": "AE3PBUYMZFRCRVU7WNTUKZX3TDMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "anime",
+      "evidence": [
+        "Totally love this anime and I can't wait for the next season",
+        "Love this anime can't wait for the next season it made my top five"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The story is great and the way the anime flows is just wow",
+        "Sad but good"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "the ends and openings are awesome",
+        "Awsome as always I hope the next DVD and movie are coming out soon"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Voices are bit off but good story",
+        "It was good just want the ova in English for a change"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Love seven deadly sins can't wait for the next season",
+        "I love the manga and this anime brings it out all the great things about the manga"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "the way the anime flows is just wow",
+        "the closing song is so awsome"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Good story but beware it will make you cry",
+        "It made my top five"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for anime, particularly enjoying fast-paced stories with emotional depth. They appreciate visual spectacle but show less concern for production quality, indicating a focus on engaging narratives and character development."
+}

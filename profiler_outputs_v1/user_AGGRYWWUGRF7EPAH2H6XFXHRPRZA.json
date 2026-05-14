@@ -1,0 +1,77 @@
+{
+  "user_id": "AGGRYWWUGRF7EPAH2H6XFXHRPRZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, sci-fi, supernatural, action, horror",
+      "evidence": [
+        "\"I found it disturbing but enjoyable drama.\"",
+        "\"Legacies is a show about a school for supernatural youth... the storyline is compelling.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The tension and fear inspired by the imagery is quite remarkable...\"",
+        "\"...the depth of the characters, the cinematography, wow!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"...it is action packed and well made.\"",
+        "\"...the plot otherwise was very disappointing after the brilliance of the first movie.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...the staging of this concert is absolutely beautiful...\"",
+        "\"...the cinematography, wow!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Soska Sisters, Star Trek franchise",
+      "evidence": [
+        "\"Outstanding slasher flick from the Soska Sisters...\"",
+        "\"...I am a huge fan of the Soska Sisters and their work...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"...the depth of the characters, the cinematography, wow!\"",
+        "\"...the staging of this concert is absolutely beautiful...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...it is a good show and well worth a watch, especially now.\"",
+        "\"...the storyline is compelling.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly drama, sci-fi, and supernatural themes, often appreciating strong narratives and emotional depth. They show a high sensitivity to production quality and have a notable loyalty to specific creators like the Soska Sisters. Overall, their taste leans towards engaging, well-crafted stories that evoke strong emotional responses."
+}

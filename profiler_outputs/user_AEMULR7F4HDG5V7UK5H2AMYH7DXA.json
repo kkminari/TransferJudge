@@ -1,0 +1,77 @@
+{
+  "user_id": "AEMULR7F4HDG5V7UK5H2AMYH7DXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy",
+      "evidence": [
+        "great price for full run of a great comedy",
+        "its two and a half men"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "funny but not his best",
+        "great."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "funny but not his best",
+        "its two and a half men"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "great price for full run of a great comedy",
+        "worth the buy, decent video for 78"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "its two and a half men",
+        "its the early simpsons when it was funny"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "funny but not his best",
+        "great."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Its as bad as I remembered.",
+        "Not the best south park"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy, particularly enjoying shows like 'Two and a Half Men' and 'The Simpsons'. They favor simple narratives with fast pacing, showing low sensitivity to production quality and emotional depth."
+}

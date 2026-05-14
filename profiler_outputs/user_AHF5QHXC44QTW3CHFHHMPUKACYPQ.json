@@ -1,0 +1,77 @@
+{
+  "user_id": "AHF5QHXC44QTW3CHFHHMPUKACYPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, thriller, police procedural, historical",
+      "evidence": [
+        "Enjoyable comedy of manners.",
+        "Very good police procedural, with great cast."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "The story is a bit complex but makes (nearly) complete sense.",
+        "The screenplay... departs from the book in some significant ways."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Has the problems of old movies... in its slow pacing.",
+        "I enjoyed the two seasons — especially season 1."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Every aspect of the show is perfect.",
+        "Production values are good, acting is good."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Wes Anderson, Julian Fellowes, Michael Connelly",
+      "evidence": [
+        "Been a fan of Wes Anderson since my wife and I first saw 'Bottle Rocket'.",
+        "I recommend the book (and other Michael Connelly books in the Bosch series)."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "The animation is brilliant.",
+        "The plot has some delightful symmetries."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "We found the Fellowes' version truly moving.",
+        "It's a good movie to watch then lie awake at night thinking or talking about."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama, comedy, and police procedural genres, with a strong appreciation for quality production and emotional depth. They show loyalty to specific creators like Wes Anderson and Julian Fellowes, and prefer narratives that are engaging and well-crafted, even if they sometimes find pacing issues."
+}

@@ -1,0 +1,89 @@
+{
+  "user_id": "AEYQ5TEMPNW4CRYSOFBCIH7ICTOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical drama, political satire, dark symbolism",
+      "evidence": [
+        "\"One Nation, One King\" fulfills (partially) my search for a film about the ACTUAL French Revolution",
+        "\"Primary Colors obviously portrays a presidential 'regime' of not too long ago."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "I liked that Suspiria (2018) centers around this eerie dance company... Anger pervaded this society in many ways.",
+        "It is a powerful irony that the individuals 'served' live such narrow-minded lives that they ultimately cause their own undoing."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "the film definitely could use editing--Big Time.",
+        "I found it superficial and wanted more depth into the main characters' lives."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the cinematography, costume design and acting quality makes for a good film.",
+        "Bravo! Justice Prevails"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "If any soul can act well in an opus by Shakespeare, it's Kenneth Branagh.",
+        "Ashley Judd and Tommy Lee Jones, in their love-hate lead roles, perform so well that I forget I'm watching a movie."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "the emotions I believe QE I might have experienced.",
+        "the shock and shame of the upper class characters typically explodes and renders havoc."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Libby's loving and determined search for Matty leads to way more answers than she anticipated.",
+        "I liked that Suspiria (2018) centers around this eerie dance company."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "high",
+      "evidence": [
+        "I see potential for this production company and, again, truly found 'Monica' to be a wit.",
+        "Hilarious."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys complex narratives, particularly in historical and political contexts, and appreciates high production quality. They have a strong preference for emotional resonance and humor, while their pacing preference is mixed, indicating a desire for depth in storytelling."
+}

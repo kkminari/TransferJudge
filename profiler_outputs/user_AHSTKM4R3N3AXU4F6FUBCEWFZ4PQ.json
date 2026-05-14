@@ -1,0 +1,77 @@
+{
+  "user_id": "AHSTKM4R3N3AXU4F6FUBCEWFZ4PQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, comedy, drama",
+      "evidence": [
+        "\"Family friendly show. Have re watched all the way through several times.\"",
+        "\"Family friendly, good values.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Plot is fine and follow able for children yet deep and thoughtful enough for adults.\"",
+        "\"Feels very very rushed, especially at the end almost as if it was meant to be a longer series.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Feels very very rushed, especially at the end almost as if it was meant to be a longer series.\"",
+        "\"Not as smart as the others. Could have been much better.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Acting is wonderful and Maggie smith is fantastic as always.\"",
+        "\"Excellent show and visually stunning. Acting is wonderful.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "No strong loyalty to directors or actors evident."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Gives fans everything they need in this episode. Well executed, funny and dark like the doctor is supposed to be.\"",
+        "\"Excellent show and visually stunning.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Always makes you feel good.\"",
+        "\"Still holds up well looks amazing.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly films and shows with strong acting and quality production. They prefer simple narratives with fast pacing, and they appreciate emotional resonance in their viewing experiences."
+}

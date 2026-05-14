@@ -1,0 +1,77 @@
+{
+  "user_id": "AEKNJJEB2YRH6DGS4FLEZMIA2ANA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"Funny, clever, interesting and SO Woody Allen.\"",
+        "\"Moving, deep and really shows that government is way into our affairs on a personal level entirely too much.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Awesome, engaging, attention keeper\"",
+        "\"I am major ADD and it is holding my attention, big time!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I major power watched and it was great.\"",
+        "\"If I am not interested in 5 minutes, I'm done.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"It ceases to amaze me at how well it is written, acted and interests me.\"",
+        "\"Amazing, riveting, great acting, great suspense.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Woody Allen",
+      "evidence": [
+        "\"SO Woody Allen.\"",
+        "\"It was such as joy to watch and crack up.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"great to watch with your children and or grandchildren.\"",
+        "\"spellbinding. I love it, addicted.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Moving, deep and really shows that government is way into our affairs on a personal level entirely too much.\"",
+        "\"What a great movie. I'd watch it again tonight.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for engaging dramas and comedies, particularly those with fast pacing and high production quality. They appreciate emotional depth and are drawn to works that hold their attention, often favoring creators like Woody Allen."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AFCESRNBNLLE46YJCBN2SB573AJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, family-oriented, motivational",
+      "evidence": [
+        "\"Excellent documental\"",
+        "\"Excellent, one of the best family oriented movies, we all love it\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Excellent movie\"",
+        "\"Very good movie\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Excellent movie, watched it twice\"",
+        "\"Excellent movie, we enjoyed it very much\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"One of best movies from Clint Easwood\"",
+        "\"Excellent movie, lots of facts about the Medal of Honor recipients that I was not aware.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Clint Eastwood",
+      "evidence": [
+        "\"One of best movies from Clint Easwood\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "informative, motivational",
+      "evidence": [
+        "\"I'm using this movie as a motivational tool for my 13 year old daughter\"",
+        "\"Good fiction movie that gives a good perspective of how civilians react to a crisis\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Dr. Carson is a true hero of modern days showing how to succeed through hard work and dedication\"",
+        "\"Excellent, one of the best family oriented movies, we all love it\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for documentaries and family-oriented films, often appreciating motivational themes. They value high production quality and enjoy simple narratives that evoke strong emotional responses."
+}

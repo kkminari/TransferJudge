@@ -1,0 +1,77 @@
+{
+  "user_id": "AFB2ANUCQUKOSZJCGY2FWEW7IIBA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"love having the series...\"",
+        "\"great movie...read the book years ago and wanted to get the movie...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great movie\"",
+        "\"A really good movie\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"great movie..\"",
+        "\"good movie...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"good movie..\"",
+        "\"great shows\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"love having the series...\"",
+        "\"great movie...read the book years ago and wanted to get the movie...\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"very cool show...\"",
+        "\"great movie...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"good movie..\"",
+        "\"great movie..\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user expresses a generally positive sentiment towards movies and TV shows, often highlighting their enjoyment without delving into specific genres or complex narratives. Their reviews suggest a preference for fast-paced, straightforward content, with less emphasis on production quality or emotional depth."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGTMEYZFC2TL3W3HOZA5FDYMOT5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "nostalgic family-friendly",
+      "evidence": [
+        "\"Great nostalgia... My kids 8 and 7 love it!\"",
+        "\"Growing up in Hong Kong during the early 70s, this is one of my favorite shows.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good movie.\"",
+        "\"Good movie. My kids love it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Boring...\"",
+        "\"A Long and Stupid movie...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Stupid script, horrible CGI, horrible music, terrible director.\"",
+        "\"Good movie. Collect all 4 movies.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Bill Bixby was a great actor.\"",
+        "\"I hope they make the show 'Robocon' into blu rays in the future.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual nostalgia",
+      "evidence": [
+        "\"Great deal for this blu ray set. It plays just fine.\"",
+        "\"The picture on the blu ray is very clear.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Sadly Mr. Brown came into Whitney's life. Money, the root of all evil came into play...so sad.\"",
+        "\"I saw these movies during my teen years.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for nostalgic, family-friendly content that evokes emotional resonance. They enjoy simple narratives and are less concerned with production quality, often valuing the experience of sharing these films with their children."
+}

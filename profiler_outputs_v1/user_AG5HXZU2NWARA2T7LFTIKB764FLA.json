@@ -1,0 +1,77 @@
+{
+  "user_id": "AG5HXZU2NWARA2T7LFTIKB764FLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed (likes fantasy, dislikes poorly executed narratives)",
+      "evidence": [
+        "\"What a waste of great talent. Potentially interesting premise, but terribly told.\"",
+        "\"I LOVE this movie and lost count how many times I've watched it!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Disjointed, dead-end scenes; things there that didn’t need to be and things missing that should’ve been explained.\"",
+        "\"The acting, dialogue, and scriptwriting is atrocious and ruins the movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It's fast moving, funny, romantic, and happy.\"",
+        "\"I was sorely disappointed in how this disaster went.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"You could tell that even the actors struggled to make it connect, not because of their skill level, but because it wasn’t their job to hold all the loose ends.\"",
+        "\"If they had Oscars for worst actress, worst director, worst cinematography and worst editing, this movie would sweep them.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium (likes specific actors)",
+      "evidence": [
+        "\"Lee Pace as the pie maker is completely charming and I can't believe this is the same actor who plays Thranduil in The Hobbit.\"",
+        "\"So glad to hear the series is coming back next year! I just discovered Lee Pace and Pushing Daisies.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high (appreciates visual and auditory elements)",
+      "evidence": [
+        "\"It’s eye-opening, visually-stunning, and simply amazing what these families do.\"",
+        "\"The images are stunning.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It’s a new classic ♥️\"",
+        "\"I can't believe that a few questionable reviews will cheat us out of the planned 5 sequels.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fast-paced narratives with high production quality, often appreciating visual and auditory elements. They express disappointment in poorly executed stories, indicating a desire for well-crafted plots and character development."
+}

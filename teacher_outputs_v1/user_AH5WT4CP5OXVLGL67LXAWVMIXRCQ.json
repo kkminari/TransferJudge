@@ -1,0 +1,160 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's strong preference for drama and thriller genres directly translates to a desire for similar themes in books. This pattern is highly transferable as both media can explore complex characters and intense situations.",
+      "transferred_insight": "Prefer books in the drama and thriller genres.",
+      "confidence": 0.85
+    },
+    "narrative_complexity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's enjoyment of complex narratives with twists and turns is applicable to books, where intricate plots and character development can be explored in depth. This preference is medium-agnostic.",
+      "transferred_insight": "Prefer books with complex narratives and unexpected plot developments.",
+      "confidence": 0.9
+    },
+    "pacing_preference": {
+      "decision": "TRANSFER",
+      "rationale": "A preference for fast-paced stories translates well to books, particularly in the thriller genre where quick developments and suspense are key. This pattern is directly applicable.",
+      "transferred_insight": "Prefer fast-paced, gripping narratives.",
+      "confidence": 0.8
+    },
+    "quality_sensitivity": {
+      "decision": "PARTIAL",
+      "rationale": "While the user's high sensitivity to quality in film may not directly apply to books, it suggests a preference for well-crafted narratives and high-quality writing. This can inform recommendations but should not dominate them.",
+      "transferred_insight": "Prefer well-reviewed and high-quality books.",
+      "confidence": 0.7
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "Brand loyalty to a specific character or series (Harry Bosch) does not translate to authors or books in the same way. Recommending based on this loyalty could lead to negative transfer.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's preference for visual spectacle is specific to film and does not apply to books, which rely on text and imagination. This pattern should not influence book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high emotional engagement with stories is a strong indicator of a preference for books that evoke deep feelings and connections. This quality is relevant across both media.",
+      "transferred_insight": "Prefer emotionally resonant narratives that evoke strong feelings.",
+      "confidence": 0.85
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "B077VM3HHJ",
+      "title": "The Extraction",
+      "score": 0.92,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This thriller features a gripping plot with complex characters and fast-paced action, aligning perfectly with the user's preferences for drama and thrillers. The emotional stakes are high, ensuring a resonant reading experience."
+    },
+    {
+      "rank": 2,
+      "item_id": "B000HYTRS0",
+      "title": "Yes, Lord, Always Yes: A Life of Cornelia Connelly, 1809-1879",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This biography offers a complex narrative about a significant historical figure, providing emotional depth and insight into personal struggles, which aligns with the user's appreciation for intricate storytelling."
+    },
+    {
+      "rank": 3,
+      "item_id": "B006MAH136",
+      "title": "The Cold War and Beyond: Chronology of the United States Air Force, 1947-1997",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This historical account presents complex narratives about military history, which may appeal to the user's interest in drama and thriller elements within real-life contexts."
+    },
+    {
+      "rank": 4,
+      "item_id": "B09JRGN47Q",
+      "title": "CREATE One-Year Blog & Editorial Planner",
+      "score": 0.75,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "While not a traditional narrative, this planner emphasizes quality and organization, appealing to the user's sensitivity to well-crafted content, which can enhance their reading and writing experiences."
+    },
+    {
+      "rank": 5,
+      "item_id": "B000Y3AW6U",
+      "title": "Marvin and Me",
+      "score": 0.7,
+      "applied_patterns": [
+        "emotional_resonance"
+      ],
+      "reasoning": "This personal narrative explores deep emotional themes and relationships, resonating with the user's preference for stories that evoke strong feelings."
+    },
+    {
+      "rank": 6,
+      "item_id": "B077VM3HHJ",
+      "title": "The Redhead in the Cove",
+      "score": 0.68,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This mystery thriller combines elements of suspense and emotional depth, appealing to the user's love for complex narratives and high-stakes situations."
+    },
+    {
+      "rank": 7,
+      "item_id": "B002XUM1WK",
+      "title": "Witch's Amulet, The (Tales from Halloweentown)",
+      "score": 0.65,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This children's book features a narrative that may not be as complex but offers engaging storytelling that can still resonate emotionally, appealing to the user's broader narrative interests."
+    },
+    {
+      "rank": 8,
+      "item_id": "B01GAZXSS4",
+      "title": "Bug Be Gone: 20 Non-Toxic & Natural Homemade Mosquito, Ant & Tick Repellents",
+      "score": 0.6,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "While not a narrative book, the emphasis on quality and practical advice may appeal to the user's preference for well-crafted content."
+    },
+    {
+      "rank": 9,
+      "item_id": "B01F9Q7GJW",
+      "title": "Advanced Tarot Secrets",
+      "score": 0.58,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book offers insights into tarot reading, which may resonate with the user's interest in complex narratives and emotional depth, albeit in a different context."
+    },
+    {
+      "rank": 10,
+      "item_id": "B000HYTRS0",
+      "title": "Yes, Lord, Always Yes: A Life of Cornelia Connelly, 1809-1879",
+      "score": 0.55,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This biography provides a complex narrative about a significant historical figure, appealing to the user's interest in drama and emotional depth."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty to Harry Bosch and sensory preferences for visual spectacle were blocked as they do not translate to book recommendations.",
+  "overall_strategy": "Focused on transferring the user's strong preferences for drama, complex narratives, and emotional resonance while blocking patterns that do not apply to the book medium. Recommendations emphasize fast-paced and engaging narratives."
+}

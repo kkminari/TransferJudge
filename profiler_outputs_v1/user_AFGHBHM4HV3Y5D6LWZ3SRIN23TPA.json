@@ -1,0 +1,77 @@
+{
+  "user_id": "AFGHBHM4HV3Y5D6LWZ3SRIN23TPA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "war, drama, classic, comedy",
+      "evidence": [
+        "\"Peck makes great war movies, this is one of them.\"",
+        "\"Very funny English series.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Just couldn't follow the story.\"",
+        "\"Lengthy but truly good acting. Worth the time to watch.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Lengthy but truly good acting. Worth the time to watch.\"",
+        "\"Another Austen story in a mini series that is well acted and interesting to watch.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Actors bring characters to life.\"",
+        "\"Great acting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to specific actors/directors",
+      "evidence": [
+        "\"Jones is a favorite of mine. Would pay to watch any of his movies.\"",
+        "\"Love all the Stone movies. I have the collection.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"True story. Actors bring characters to life.\"",
+        "\"Greatest consulting detective of all time.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Christmas Carol, what ever version or who stars in it is always great to watch at Christmas time.\"",
+        "\"Lengthy but truly good acting. Worth the time to watch.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic and war movies, often appreciating the acting quality and emotional resonance of the stories. They show loyalty to specific actors and enjoy slower-paced narratives that evoke strong feelings."
+}

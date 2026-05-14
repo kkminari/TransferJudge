@@ -1,0 +1,76 @@
+{
+  "user_id": "AFDXS2UAJI6AH4MFORVG6SEQYQXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, cute",
+      "evidence": [
+        "We love all the Descendant movies. The cast is great.",
+        "Cute movie"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good movie",
+        "Cute movie"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Good movie",
+        "Cute movie"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Good movie",
+        "Cute movie"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Descendants franchise",
+      "evidence": [
+        "We love all the Descendant movies."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Cute movie",
+        "Good movie"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "My daughter enjoyed.",
+        "Awesome"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and cute movies, often expressing positive sentiments towards simple narratives. They show a preference for emotional resonance, particularly in content that appeals to children, indicating a strong connection to the Descendants franchise."
+}

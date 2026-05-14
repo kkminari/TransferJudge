@@ -1,0 +1,77 @@
+{
+  "user_id": "AFTUYJ3U6J7XPS66CIEXWGK6IEVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "dislikes violence, enjoys psychological horror",
+      "evidence": [
+        "Too much violence against women",
+        "A must see for psychological horror fans."
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The story itself is beyond stuuuupid.",
+        "The script and acting were so bad, it was putting me to sleep."
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "It’s terribly S L O W and BORING.",
+        "Mega boring, draggingly slow."
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "The soundtrack was lame as well.",
+        "Terrible dubbing."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "One of Mr. Washington’s BEST movies.",
+        "Idris is a much better actor."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "Had to turn sound down to zero many, many times.",
+        "Awful yodeling opera soundtrack, very forgettable."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "I had to stop watching this boring POS.",
+        "This is beyond TERRIBLE."
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong aversion to violence and prefers psychological horror, but generally finds most narratives to be boring and slow-paced. They show low sensitivity to production quality and emotional engagement, indicating a preference for straightforward storytelling without much depth."
+}

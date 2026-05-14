@@ -1,0 +1,77 @@
+{
+  "user_id": "AGD7ZO65LAG2LPVUKPDJGLZHKAAQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama",
+      "evidence": [
+        "\"As a Die Hard series fan, I totally enjoyed this movie...\"",
+        "\"This movie is classic. Highly artistic.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"This movie is for people who have partied too much and want to sedate themselves.\"",
+        "\"This movie has a captivating style and a great, consistent and sometimes even witty storyline.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great plot, great action, great script! This movie is totally entertaining.\"",
+        "\"It made me feel I was there, and it felt very real.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The graphics and music score (e.g. crazy train) are great.\"",
+        "\"I cannot believe that the director Justin Lin has never been to Japan before...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"As a Die Hard series fan, I totally enjoyed this movie...\"",
+        "\"I ended up reading all the Harry Potter books.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The graphics and music score (e.g. crazy train) are great.\"",
+        "\"...you could feel the mass of each car in a way computer generated images can never make you feel.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This surprisingly well done movie shows us a man with ambition in the wild continent of Africa.\"",
+        "\"If you are like me and many other people who are more or less played by fate...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and drama films, particularly those with strong narratives and high production quality. They appreciate fast pacing and emotional depth, often favoring films that evoke a strong sensory experience."
+}

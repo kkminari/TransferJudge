@@ -1,0 +1,77 @@
+{
+  "user_id": "AE345H4J4WKWZWA2SACVLGNOVIKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, musical, thriller",
+      "evidence": [
+        "\"Galaxy Quest is a must have for those who love Sci-Fi, especially shows like 'Star Trek.'\"",
+        "\"'Red Eye' is a thriller! It's creepy and may make you not want to fly on an airplane ever again.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The ending to this series was amazing... It's heartbreaking, yet beautiful.\"",
+        "\"The 'Dollhouse' is dynamic and evolves quickly.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It keeps you on the edge of your seat the whole time and makes you cry.\"",
+        "\"This follows the story of a cast of an old Sci-Fi show that are still going to conventions.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The cast has to come together, putting aside all differences, and try to tackle the situation at hand.\"",
+        "\"Nicholas Cage is fantastic in this movie as a father who's just trying to survive after his wife's death.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for Joss Whedon",
+      "evidence": [
+        "\"Plus, it's Joss Whedon's so you know it's pure brilliance :D\"",
+        "\"'Dollhouse' is Joss Whedon's latest fantastic epic.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It has beautiful special effects and a magnificent storyline.\"",
+        "\"The 'Dollhouse' is dynamic and evolves quickly.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It had me in tears (and I'm not one to cry often).\"",
+        "\"It leaves you feeling like BSG is over and yet there are possibilities still.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and musicals, particularly enjoying complex narratives with fast pacing. They show high sensitivity to production quality and have a notable loyalty to Joss Whedon, appreciating emotional depth in the content they consume."
+}

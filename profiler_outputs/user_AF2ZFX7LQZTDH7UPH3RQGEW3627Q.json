@@ -1,0 +1,76 @@
+{
+  "user_id": "AF2ZFX7LQZTDH7UPH3RQGEW3627Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, military, action",
+      "evidence": [
+        "\"Best action-military movie I've seen.\"",
+        "\"Outstanding tribute to fallen not to be forgotten.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I don't know where to begin or is it even worth wasting my time. Absurd, terrible, disconnected, 'attempting a message' ending.\"",
+        "\"Too many stupid decisions led the plot...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Too many stupid decisions led the plot...\"",
+        "\"Could be much better! Better this than nothing, but dang do they have a lot of commercials...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Outstanding picture quality.\"",
+        "\"Horrible video and audio track editing by today's standards.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Werner Herzog",
+      "evidence": [
+        "\"Werner Herzog movies are always interesting...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Outstanding, with great potential. I REALLY hope there is follow-through on this one!!!\"",
+        "\"GREAT PHOTOGRAPHY and EDITING, buy all three seasons.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Outstanding tribute to fallen not to be forgotten. God bless them.\"",
+        "\"This is really an amazing story of survival.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for military and documentary genres, valuing high production quality and emotional resonance in their viewing experiences. They appreciate straightforward narratives but express mixed feelings about pacing, indicating a desire for engaging content without excessive distractions."
+}

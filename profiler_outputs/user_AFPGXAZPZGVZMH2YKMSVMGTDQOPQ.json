@@ -1,0 +1,77 @@
+{
+  "user_id": "AFPGXAZPZGVZMH2YKMSVMGTDQOPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, drama, comedy, romance",
+      "evidence": [
+        "\"I LOVE this movie! It has it all! Laughter, drama and triumph!\"",
+        "\"I'm a huge Underworld fan! I love having all three movies so I can watch them back to back and get my vampire fix in!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I LOVE this movie! It has it all! Laughter, drama and triumph!\"",
+        "\"If you are a fan it's a must have for your DVD collection!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I highly recommend it for anyone who is looking for a fun uplifting movie!\"",
+        "\"I love this movie. I really enjoy the Twilight series.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I love both these movies and am very glad to add them to my DVD collection!\"",
+        "\"I bought this one so I could revisit it before the 2nd movie came out this year.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to specific franchises",
+      "evidence": [
+        "\"I'm a HUGE Hobbit fan and this one rocks!\"",
+        "\"David Tennant is my favorite Dr. Who!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic sensory",
+      "evidence": [
+        "\"I LOVE this movie! It has it all! Laughter, drama and triumph!\"",
+        "\"If you are a fan make sure you add this to your collection!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I love this movie. I really enjoy the Twilight series.\"",
+        "\"I LOVE this series! The box set is GREAT!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy, drama, and comedy genres, often enjoying fast-paced and uplifting narratives. They demonstrate high loyalty to specific franchises and value emotional resonance in their viewing experiences."
+}

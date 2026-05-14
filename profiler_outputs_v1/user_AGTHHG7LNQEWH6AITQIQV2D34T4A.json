@@ -1,0 +1,77 @@
+{
+  "user_id": "AGTHHG7LNQEWH6AITQIQV2D34T4A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed (fantasy, comedy, drama, mystery)",
+      "evidence": [
+        "\"I want to like this thing, but they've taken beloved characters and written them in odd ways...\"",
+        "\"Excellent, middle ground ghost story that aged decently well.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"These last six episodes are surreal and avantguard, making up some seriously biting commentary.\"",
+        "\"...parts of this film are made so differently then your typical American made comedy...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"...not an original concept... just feels so, been there done that...\"",
+        "\"...it’s just a big dumb film and 1000% more interesting then any Transformer movie...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"It looks good; the writing and blatant disregard for lore ruin it for me.\"",
+        "\"...it has some truly witty dialogue, a stellar supporting cast and some sublime shots...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"...you can tell the audience how special someone is but unless you show me...\"",
+        "\"...I felt a tinge of Edgar Wright's brilliance in places.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"...building super cool things that actually work? Yes, please.\"",
+        "\"...parts of this film are made so differently then your typical American made comedy...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "mixed",
+      "evidence": [
+        "\"...didn’t realize how religious Joss Whedon became...\"",
+        "\"...it’s just a big dumb film and 1000% more interesting then any Transformer movie...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user exhibits a mixed taste in genres, enjoying elements of fantasy, comedy, and drama while expressing dissatisfaction with certain narrative choices. They appreciate sensory experiences and production quality but show low brand loyalty and mixed feelings about emotional resonance."
+}

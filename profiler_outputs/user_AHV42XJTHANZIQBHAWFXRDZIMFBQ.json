@@ -1,0 +1,75 @@
+{
+  "user_id": "AHV42XJTHANZIQBHAWFXRDZIMFBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "A very different take on an old story.",
+        "This brings tears to the eyes of those who know form, beauty, hard work, perfection, grace, style, and timeless art."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Don't miss it.",
+        "Not to be missed."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Everyone should see this.",
+        "A must-see."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "A real work of art.",
+        "This brings tears to the eyes of those who know form, beauty, hard work, perfection, grace, style, and timeless art."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Not to be missed.",
+        "Don't miss it."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "This brings tears to the eyes of those who know form, beauty, hard work, perfection, grace, style, and timeless art."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "This brings tears to the eyes of those who know form, beauty, hard work, perfection, grace, style, and timeless art."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong appreciation for high-quality productions that evoke deep emotional responses, particularly in the context of art and performance. However, their genre preferences and narrative complexity are less clear, indicating a mixed taste in storytelling."
+}

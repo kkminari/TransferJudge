@@ -1,0 +1,77 @@
+{
+  "user_id": "AFO7LTZEU6IPHVTZOBLNENA3VWAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, horror, drama",
+      "evidence": [
+        "'them' is, of course, perennial 50s scifi horror",
+        "Extravagant, crude, funny, over-the-top, Mexican horror films of the 1950's & 60s are remarkable."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "the uncanny atmosphere more than makes up for that.",
+        "the emotion begins to peak at its own pace, its own uncanny rhythm."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "the film is saturated with wood-grain browns and tans, subdued lighting and easy movement within the frame",
+        "it's a little bit on the 'talky' side, veering away from special effects."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the nicely packaged Japanese film ('Kaiju Baran') is also available",
+        "the film is saturated with wood-grain browns and tans, subdued lighting and easy movement within the frame."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "I diligently wait for Vol. 3-20 of other jerry warren epics.",
+        "the films of Yasujiro Ozu were not exhibited in the United States until the late 1960s."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "the uncanny atmosphere more than makes up for that.",
+        "the emotion begins to peak at its own pace, its own uncanny rhythm."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "one of the most poignant, tear-welling finales in sci-fi history",
+        "it's warmth and humor is so contagious that within minutes after it begins, 'days and nights' arouses even the most indifferent of audiences to applause."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and horror genres, particularly from the 1950s and 60s, and appreciates films with high production quality and emotional depth. They exhibit a mixed preference for narrative complexity and pacing, indicating a nuanced taste in storytelling."
+}

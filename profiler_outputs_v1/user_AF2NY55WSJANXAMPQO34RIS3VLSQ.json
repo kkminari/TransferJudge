@@ -1,0 +1,77 @@
+{
+  "user_id": "AF2NY55WSJANXAMPQO34RIS3VLSQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama",
+      "evidence": [
+        "\"This is just a science fiction film about experimentation that's slooooooow and boring with boring characters.\"",
+        "\"This is a generic, mono-colored show.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"There's no story here. You get a bunch of meaningless flashbacks, aliens who don't explain what they want...\"",
+        "\"This show doesn't give you any breadcrumbs to follow.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"40 minutes in and I don't care about any of these people.\"",
+        "\"This movie just drags along.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I don't care about any of these people.\"",
+        "\"The acting is atrocious.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"The first red flag was that it was on the SyFy Channel.\"",
+        "\"Whenever you're watching something on the SyFy Channel, you know you're not getting A-Grade material.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"The music is forgettable.\"",
+        "\"The film is just not entertaining enough to ignore the many flaws.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I managed to stomach 2 episodes, but this is incredibly dull.\"",
+        "\"I felt nothing as Doomsday slaughtered weak little humans and animals on the way to Metropolis.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for straightforward narratives and has a low tolerance for slow pacing and poor production quality. They express dissatisfaction with character development and emotional engagement, indicating a desire for more compelling storytelling in their viewing experiences."
+}

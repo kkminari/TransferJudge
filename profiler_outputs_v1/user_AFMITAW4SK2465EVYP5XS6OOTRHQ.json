@@ -1,0 +1,77 @@
+{
+  "user_id": "AFMITAW4SK2465EVYP5XS6OOTRHQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy",
+      "evidence": [
+        "\"The action scenes are some of the best ever done\"",
+        "\"Very funny. Not your standard Marvel flick.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A funny movie. James Brolin was very good.\"",
+        "\"Very entertaining movie. Lots of action, lots of killing, lots of blood.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The action scenes are some of the best ever done.\"",
+        "\"If blood and killing bother you then skip it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The movie looks really great on blu-ray and there is some added footage which answers a couple of questions.\"",
+        "\"The additional footage makes the story easier to follow.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Perfect for any Steve McQueen fan.\"",
+        "\"If you loved the TV show you will love the movie too.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Watching Selma Hayek dance with the clarity of blu-ray is a wonderful thing.\"",
+        "\"The movies are much clearer in blu-ray and are still great even with the additional crap Lucas inserted.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Great movie. One of the rare times the sequel is as good as the original.\"",
+        "\"If you grew up watching this, like I did, it will surely bring back some good memories.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and comedy genres, enjoying fast-paced narratives with a focus on visual spectacle. They appreciate high production quality but show low brand loyalty, indicating a more general enjoyment of entertaining films rather than specific creators or franchises."
+}

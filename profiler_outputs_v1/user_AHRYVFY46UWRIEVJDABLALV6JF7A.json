@@ -1,0 +1,77 @@
+{
+  "user_id": "AHRYVFY46UWRIEVJDABLALV6JF7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, documentary, family, thriller",
+      "evidence": [
+        "\"Lacey Chabert does it again...nice romantic story\"",
+        "\"Great thriller\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Nice movie with a very compelling story line I enjoyed it\"",
+        "\"Good movie worth the price\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Love this movie Great story kinda sad at first but beautiful ending\"",
+        "\"Excellent movie love conquers all\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent movie...part 3 was as good as the 1st\"",
+        "\"Great series great actors and stories I couldn't wait to see each episode\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Lacey Chabert",
+      "evidence": [
+        "\"I'm a big Lacey Chabert fan\"",
+        "\"Can't possibly go wrong with a Lacey Chabert movie\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, educational",
+      "evidence": [
+        "\"Very informative video...loved the old photos\"",
+        "\"School house Rock came on every Saturday morning along with cartoons and it's very educational for children\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Love this movie Great story kinda sad at first but beautiful ending\"",
+        "\"I like to be told the truth even if it is hard to hear it\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for romantic and educational content, particularly enjoying works featuring Lacey Chabert. They appreciate simple narratives with high production quality and emotional depth, often favoring slower-paced storytelling that resonates on a personal level."
+}

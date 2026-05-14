@@ -1,0 +1,77 @@
+{
+  "user_id": "AGSPXPULZHICJKORLB2Y3FMLXQRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, dark comedy, musical, fantasy",
+      "evidence": [
+        "\"ARSENIC AND OLD LACE is a very enjoyable screwball dark comedy.\"",
+        "\"SHOWBOAT is a landmark Broadway musical.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The premise is simple: Stan and Ollie try to outsmart their wives...\"",
+        "\"The story has would-be detectives Stan and Ollie safeguarding a powerful bomb...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The gags are fast and furious and many are truly surreal; highlights include...\"",
+        "\"A marvelous parody of Western melodramas... There isn't a wasted moment in WOW.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The film is blessed with a magnificent cast...\"",
+        "\"The video is blessed with the original 1926 score, conducted by Robert Israel...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"SONS OF THE DESERT is one of Laurel and Hardy's finest films.\"",
+        "\"WAY OUT WEST ties with SONS OF THE DESERT as Laurel and Hardy's best feature film.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, musical experience",
+      "evidence": [
+        "\"The highly imaginative sets and special effects set the right note of fantasy...\"",
+        "\"There are generous musical excerpts from 'The Mikado'...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"SHOWBOAT has so much to delight and engage the viewer that these minor flaws can, and should, be overlooked.\"",
+        "\"Michael Caine makes an superb Scrooge... a curiosity, in a way, but it is also truly a treasure suitable for the whole family.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies, particularly screwball and dark comedies, and enjoys fast-paced narratives with simple plots. They show loyalty to classic comedy duos like Laurel and Hardy and appreciate visual and musical elements in films, though they are moderately sensitive to production quality."
+}

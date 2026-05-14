@@ -1,0 +1,77 @@
+{
+  "user_id": "AFYAON6PBVIT5C4DMRF6QRWAHAMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "inspirational, documentary, drama",
+      "evidence": [
+        "\"Damanhur should be seen by everyone for inspiration, ideas and what community can create when working in harmony with self and each other.\"",
+        "\"I love movies that are touching, inspiring and transformative.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's funny, touching, adventurous, suspenseful at times in its own way, authentic and more.\"",
+        "\"This is why I gave it five stars.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This movie has great depth, and contains all the components that make for a great film.\"",
+        "\"I love how the father gave his son the freedom to make his own choices in life regarding what is most important.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting was terrific, and I was left with a happy heart.\"",
+        "\"Made very well, very entertaining and informative, and we thoroughly enjoyed it from beginning to end.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I came upon the music of this spiritual bard when my daughter was dying.\"",
+        "\"We met producer Rich Martini here in Virginia Beach when he spoke at a VBIANDS meeting.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Emotionally, the film tears into the very core of the soul, and I highly recommend it.\"",
+        "\"It is eight years later, and imagine my surprise to first, find this treasure of a DVD.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Get out your tissues, because you're going to need them.\"",
+        "\"This movie has great depth, and contains all the components that make for a great film.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for inspirational and transformative films, often valuing emotional depth and quality production. They enjoy simple narratives with a slower pace, focusing on character development and meaningful themes."
+}

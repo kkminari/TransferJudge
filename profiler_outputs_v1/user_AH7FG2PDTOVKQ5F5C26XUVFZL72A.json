@@ -1,0 +1,89 @@
+{
+  "user_id": "AH7FG2PDTOVKQ5F5C26XUVFZL72A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, adventure",
+      "evidence": [
+        "\"This was such a lovely film about finding a new life...\"",
+        "\"I am not a great Danny Kaye fan, but this movie is one the very funniest I've ever seen.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The plotting and execution of the episodes didn't match up with the expectations created by everything else.\"",
+        "\"The problem is too many tired plot elements lumped together in an overly complicated mess...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I just hate it when the end isn't as interesting as the beginning...\"",
+        "\"This film is a waste of time because it has neither message nor morality...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The film has an excellent cast, who seem to enjoy their roles...\"",
+        "\"I appreciated the art direction as well and I liked that the costumers felt free enough...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "mixed",
+      "evidence": [
+        "\"Love Benedict Cumberbatch, love Martin Freeman...\"",
+        "\"I hope Season 3 is a cut above the first 2 because my patience is running out.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The color and vibrancy of India as a culture and a county is clearly showcased...\"",
+        "\"The staging and production values, wonderful photography, lighting and sound...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The redemption at the end is so overwhelmingly beautiful...\"",
+        "\"It sets the stage very effectively for the apes' escape and the subsequent events...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "character_development",
+      "value": "mixed",
+      "evidence": [
+        "\"There is only one character that has any kind of development...\"",
+        "\"The chemistry between Chamberlin and McGoohan is unbelievable...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user enjoys films that are rich in drama and comedy, with a strong emphasis on quality production and emotional depth. They appreciate well-developed characters and vibrant storytelling, though they express mixed feelings about narrative complexity and pacing in some cases."
+}

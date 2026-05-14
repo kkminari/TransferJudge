@@ -1,0 +1,77 @@
+{
+  "user_id": "AFEXATLX5JRO2GRCRY23M3S2NP3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical drama, mystery, comedy",
+      "evidence": [
+        "\"I really enjoyed learning of the customs and songs of that era...so much fun!\"",
+        "\"I would recommend this to anyone who likes, mystery, intrigue, humor, etc.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Fast moving, attention grabbing and fun.\"",
+        "\"It's like a good book you just can't put down.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Fast paced, riveting...can't get enough of this series.\"",
+        "\"I watched several episodes one right after the other...couldn't stop myself.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great cast, beautiful scenery and excellent costuming.\"",
+        "\"Every detail is perfection.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Julian Fellowes, Gregory Peck",
+      "evidence": [
+        "\"you can't miss with anything that involves the brilliance of Julian Fellowes.\"",
+        "\"Never can get enough of Gregory Peck, one of my all time favorites.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, immersive world-building",
+      "evidence": [
+        "\"Love the costumes and set design.\"",
+        "\"I was compelled to research and explore.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I loved this series so much that I binged watched then was mad at myself for not spacing it out.\"",
+        "\"It piqued my interest in Tibet in which case I was compelled to research and explore.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fast-paced historical dramas and mysteries, often enjoying the visual and sensory aspects of the productions. They show loyalty to specific creators and value high production quality, while also seeking emotional engagement in their viewing experiences."
+}

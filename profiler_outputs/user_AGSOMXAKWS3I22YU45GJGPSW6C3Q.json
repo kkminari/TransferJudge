@@ -1,0 +1,77 @@
+{
+  "user_id": "AGSOMXAKWS3I22YU45GJGPSW6C3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy",
+      "evidence": [
+        "\"good action movie\"",
+        "\"HILLARIOUS!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Entertaining with lots of action but far fetched - a lot of interesting dialog\"",
+        "\"Both pierce Brosnan and Jackie Chan were great in roles you would not expect them to play\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"ACTION, ACTION, ACTION.\"",
+        "\"Entertaining with lots of action but far fetched - a lot of interesting dialog\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Not a Cruise fan but found the movie entertaining\"",
+        "\"Still trying to figure out how and why this clown was elected - twice- what a mistake by the American people!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Bond- James Bond- Daniel Craig is excellent as the British Secret agent\"",
+        "\"while not a fan of Keanu Reaves, he does an admirable job here\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"good action movie\"",
+        "\"excellent series\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"gift for friends daughter- she loved this movie\"",
+        "\"Brings back memories and laughter\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and comedy genres, enjoying fast-paced narratives with simple storytelling. They appreciate entertainment value over production quality and show low brand loyalty, indicating a focus on enjoyment rather than emotional depth."
+}

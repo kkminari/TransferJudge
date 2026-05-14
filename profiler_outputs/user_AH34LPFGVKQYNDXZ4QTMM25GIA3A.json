@@ -1,0 +1,77 @@
+{
+  "user_id": "AH34LPFGVKQYNDXZ4QTMM25GIA3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy",
+      "evidence": [
+        "\"It's a fun escape for a couple of hours\"",
+        "\"One of the best comedic films ever. Period.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's a fun flick, but there weren't nearly enough dead bad guys.\"",
+        "\"It's a bit shallow, and the action isn't nearly as satisfying as it could be.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Cool premise, good action, with a fun (though not entirely unpredictable) twist at the end.\"",
+        "\"There's a whole lot going on in this movie and at times it feels a bit disjointed, but it's a pretty good action flick.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"It's a shame that the SJWs are killing off such an iconic franchise.\"",
+        "\"What an utterly dull, uninspiring film, filled with weak, shallow, formulaic characters.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Best TV show ever. Period.\"",
+        "\"There's nothing better on TV. Nothing.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Very funny. I'm surprised this didn't get more attention.\"",
+        "\"Surprisingly fun ride, considering how little press the movie got.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"It sucks. Don't waste your time.\"",
+        "\"It's lame. The characters are dull and the plot's as deep as a bird bath.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and comedy films, often favoring fast-paced narratives. They show a tendency to prioritize entertainment over production quality, with a mixed emotional engagement in the content they consume."
+}

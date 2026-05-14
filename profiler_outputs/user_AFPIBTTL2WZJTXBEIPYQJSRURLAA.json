@@ -1,0 +1,76 @@
+{
+  "user_id": "AFPIBTTL2WZJTXBEIPYQJSRURLAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama",
+      "evidence": [
+        "\"Very good documentary.\"",
+        "\"Great story and movie\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great movie\"",
+        "\"good video\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This was a very very slow movie.\"",
+        "\"Its slow but a good story\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"great movie but quality of dvd not so good\"",
+        "\"just not what i expected\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"FAV show\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Sad sad movie\"",
+        "\"So sad such a great actor is not with us anymore.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This was a very very slow movie.\"",
+        "\"Such a great movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and dramas, appreciating simple narratives and slower pacing. They value emotional resonance in their viewing experiences, though they exhibit low sensitivity to production quality and brand loyalty."
+}

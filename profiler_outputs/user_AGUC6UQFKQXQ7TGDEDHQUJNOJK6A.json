@@ -1,0 +1,77 @@
+{
+  "user_id": "AGUC6UQFKQXQ7TGDEDHQUJNOJK6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, documentary",
+      "evidence": [
+        "\"Good storyline and plot. Good acting.\"",
+        "\"Entertaining acting and story line.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good story line. Good actors.\"",
+        "\"Good acting. Good story lines.;\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Action is over the top. Impossible car crashes.\"",
+        "\"Very entertaining. Good acting.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Good acting. Good story lines.;\"",
+        "\"Excellent acting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Olyphant is good actor.in this kind of role.\"",
+        "\"Bosch does good police work in his own way.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Unique story line. Makes you wonder if this is what goes on in a real funereal home.\"",
+        "\"Great entertainment without using fowl language\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Good cop show. Good cast.\"",
+        "\"If you like court room drama you will like this series.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama, comedy, and documentary genres, with a preference for fast-paced and high-quality productions. They appreciate good acting and straightforward storylines but show low emotional engagement and brand loyalty."
+}

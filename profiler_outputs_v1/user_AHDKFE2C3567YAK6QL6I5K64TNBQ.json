@@ -1,0 +1,77 @@
+{
+  "user_id": "AHDKFE2C3567YAK6QL6I5K64TNBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, crime, psychological thriller",
+      "evidence": [
+        "\"Best crime show and family drama\"",
+        "\"Psychological thriller\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The theme--needing to break away from confining friends to come in to one's identity--could have used more development.\"",
+        "\"The story does not hold my interest and I have stopped viewing Real Detectives after the first three episodes.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Pace is slow...find I am bored\"",
+        "\"Fast-paced. Attractive protagonist.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent writing, acting.\"",
+        "\"Super acting, top-notch writing and storytelling.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Dick Wolf, Hugh Grant, James Gandolfini",
+      "evidence": [
+        "\"Another excellent production from Dick Wolf.\"",
+        "\"Hugh Grant plays Will, the ultimate playboy...and his evolution in this movie is touching, believable and heartwarming.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The words 'It's not your fault'...are imprinted on my memory. Very powerful insights into the nature of abuse and its consequences.\"",
+        "\"I can appreciate the artistry of the long filming shots, the tense drumming, the beautiful 'birdman' imagery throughout.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I found the details of the group's breakup...almost unbearably sad\"",
+        "\"I like the way the crimes and cases are discussed and the ethics that are considered.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama, comedy, and crime genres, with a strong appreciation for high-quality production and emotional storytelling. They value character development and narrative complexity but have mixed feelings about pacing, indicating a preference for both fast-paced and slower narratives depending on the context."
+}

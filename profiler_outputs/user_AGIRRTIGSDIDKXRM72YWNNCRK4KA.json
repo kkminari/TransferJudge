@@ -1,0 +1,77 @@
+{
+  "user_id": "AGIRRTIGSDIDKXRM72YWNNCRK4KA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action, drama",
+      "evidence": [
+        "As a SF buff, found this to be fun.",
+        "I like the 'defender of justice' genre."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Predictable story, but it's kind of fun saying, 'I knew that was coming!'",
+        "Pretty predictable plot, but in my opinion anything with Morgan Freeman in it is worth watching."
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "All the stuff guys love - guns, blowing things up, intricate escape, car chase - and all in the first 30 minutes!",
+        "I found the series entertaining; in fact, I 'binged' it in about a week."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "Great special effects.",
+        "Don't look for mind-blowing special effects from 1956! But it's about the story, not the visuals."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Although I'm not big on 'chik fliks' I watched this with my sweetie and thoroughly enjoyed it.",
+        "I won't watch any more of this unless they clean up the debris from dropping all those bombs."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "Lots of guy blood and gore, acts of heroism, but pretty predictable.",
+        "A lot of violence, but surprisingly clean language-wise."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "Timeless character study about the dangers of leadership.",
+        "One of the greatest lines is, 'Perhaps God has a better plan for my life than I do.'"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced sci-fi and action genres, often appreciating lighthearted entertainment with predictable plots. They show a moderate sensitivity to production quality and a mixed emotional engagement with the content."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEATCZTHRE7HJFI565XJL4RJ24GA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "cooking shows, reality TV",
+      "evidence": [
+        "\"I like watching cooking shows for ideas to use in my own home.\"",
+        "\"Great season with talented chefs showing you how they work under pressure.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I enjoyed it enough to watch more than once.\"",
+        "\"Good show.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Enjoyed seeing these chefs compete.\"",
+        "\"I like watching cooking shows for ideas to use in my own home.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I am looking forward to seeing more episodes.\"",
+        "\"I enjoyed watching the episodes in this season again.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I bought the seasons of Grimm because when the internet goes out I have something entertaining to enjoy.\"",
+        "\"I look forward to watching next seasons Iron Chef.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Enjoyed watching the creativity of the chefs.\"",
+        "\"Great season with talented chefs showing you how they work under pressure.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I am enjoying this show.\"",
+        "\"I am looking forward to seeing more episodes.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys cooking shows and reality TV, often appreciating the creativity and competition involved. They prefer straightforward narratives with fast pacing, showing a low sensitivity to production quality and emotional depth."
+}

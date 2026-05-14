@@ -1,0 +1,77 @@
+{
+  "user_id": "AEEWDGYRO7NHLQW5VXR3V4L4PAWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, comedy, horror",
+      "evidence": [
+        "\"This is powerful documentary filmmaking.\"",
+        "\"An incredibly creative and funny movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"It's a film that deserves a cover that reflects its vibe.\"",
+        "\"The only thing preventing me from giving this one five stars is that the script could have been way more interesting.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It's hilarious. I can't remember the last time I almost cried laughing during a movie.\"",
+        "\"The low budget is often distractingly apparent, and some of the acting isn't good.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I had to stop due to the annoying stuttering playback on the DVD.\"",
+        "\"It's obvious they didn't have any confidence in it, which is a shame, because it's easily the best TV show they've produced.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "David Wain, Stuart Gordon",
+      "evidence": [
+        "\"If you're a fan of any of David Wain's work, you'll like Wainy Days, plain and simple.\"",
+        "\"Stuart Gordon is the only horror director that can make me cringe.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"It's insane that I am writing the second review for this movie. It has everything you could want in a ninja movie.\"",
+        "\"It's a powerful documentary filmmaking.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie spoke to me deeply. Lots of parallels in our lives.\"",
+        "\"There are beautiful moments from this first (and final) season that'll stick with me forever.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and comedies, particularly those that evoke deep emotional responses. They are sensitive to production quality and have a notable loyalty to specific creators like David Wain and Stuart Gordon, indicating a taste for unique and creative storytelling."
+}

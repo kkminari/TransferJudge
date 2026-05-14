@@ -1,0 +1,74 @@
+{
+  "user_id": "AGOLMOHVYGMXKNQJOT3IOMVIQDZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy",
+      "evidence": [
+        "\"Very cute, family oriented movie.\"",
+        "\"Funny without being raunchy. Pretty clean humor.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Not a tear jerker, but heartfelt at best.\"",
+        "\"The premise of the story is great and fun to watch.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This is a fun movie for the whole family.\"",
+        "\"Worth the time to watch, if you want a good laugh.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The acting is wonderful and the dog is incredible.\"",
+        "\"The acting is pure and the scenery is magnificent.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This movie brought me comfort, laughter, and compassion.\"",
+        "\"What a beautiful movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"You can't help but laugh, and cry.\"",
+        "\"This will be seen over and over again.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and comedic films that evoke strong emotional responses. They prefer simple narratives with fast pacing and are sensitive to the quality of acting and production, though they do not show strong loyalty to specific creators."
+}

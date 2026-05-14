@@ -1,0 +1,74 @@
+{
+  "user_id": "AF6X7KBTN4NOHFSZ6B3FICJX6JEA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, thriller, comedy",
+      "evidence": [
+        "\"a good thriller and Amanda Seyfried is very good\"",
+        "\"a wonderful mix of female characters\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"a fun thing to watch on girls night\"",
+        "\"it was funny too\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Watched this series quick as we enjoyed it so much\"",
+        "\"Keeps you on the edge of your seat!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"beautiful cinematography and just a good clean scary movie\"",
+        "\"the whole cast gave it their all\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"it was very well done and looked amazing\"",
+        "\"Makes you cry and feel happy\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Makes you cry and feel happy\"",
+        "\"thought it was time to own it on Blu-ray\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama, thrillers, and comedies, favoring fast-paced narratives with high production quality. They appreciate emotional resonance in their viewing experiences, often seeking films that evoke strong feelings."
+}

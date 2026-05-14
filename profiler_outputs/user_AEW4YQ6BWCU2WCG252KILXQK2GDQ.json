@@ -1,0 +1,77 @@
+{
+  "user_id": "AEW4YQ6BWCU2WCG252KILXQK2GDQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "disliked sci-fi, mixed feelings about drama and suspense",
+      "evidence": [
+        "\"A thrown together SYFY movie is probably better than his.\"",
+        "\"The movie is about a girl who has the ability to see the evil side of the person... I was expecting a lot more out of this movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot is a bit more of a just-write-the-story-as-we-go-along type.\"",
+        "\"The story line is semi-obvious along w/ the prime suspect (villain).\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It is a slow-burning story, but the ending makes it well worth the watch.\"",
+        "\"A nice and slow build up to nowhere.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"The acting was mediocre.\"",
+        "\"The creep factor is not really strong.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific mentions of favorite directors or actors.",
+        "No strong loyalty to franchises or series."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The story itself can stand alone.\"",
+        "\"The gore and/or blood factor was not overused.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"The movie is not relatively scary either.\"",
+        "\"I was expecting a lot more out of this movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong dislike for sci-fi and prefers simple narratives with slow pacing. They are not particularly sensitive to production quality and do not exhibit strong loyalty to specific creators. Overall, their reviews indicate a focus on story over emotional engagement, often expressing disappointment in the films they watched."
+}

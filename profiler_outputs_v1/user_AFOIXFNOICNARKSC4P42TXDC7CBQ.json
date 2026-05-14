@@ -1,0 +1,77 @@
+{
+  "user_id": "AFOIXFNOICNARKSC4P42TXDC7CBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, holiday, historical, LGBTQ+",
+      "evidence": [
+        "\"What a wonderful, inspiring, delightful film! It’s a Christmas classic...\"",
+        "\"This is definitely one of them. Highly recommended. Lovely film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I do not find this movie at all difficult to follow...\"",
+        "\"It's very real. And it's nice that you get to know all of the characters...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It's nice that you get to know all of the characters and they all have their own things going on...\"",
+        "\"I was very sad when I'd watched all the episodes because I really wanted more.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the acting is superb. It's a fascinating possibility to consider...\"",
+        "\"I think the acting is really good. Lisa Bonet is just gorgeous in it...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Aaron Sorkin, Hrithik Roshan",
+      "evidence": [
+        "\"If you want smart fast dialogue and exceptionally good television, you can't go wrong with Aaron Sorkin.\"",
+        "\"Hrithik Roshan - there is nothing more I need say.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "immersive, emotional",
+      "evidence": [
+        "\"It feels like you are a fly on the wall - it's very real.\"",
+        "\"It will bring joy to your heart...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I love this film! Really entertaining and inspiring.\"",
+        "\"It will bring joy to your heart... and God bless us, every one.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and holiday films, particularly those with emotional depth and strong acting. They appreciate immersive storytelling and are loyal to creators like Aaron Sorkin and Hrithik Roshan, indicating a taste for quality productions."
+}

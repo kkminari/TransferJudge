@@ -1,0 +1,71 @@
+{
+  "user_id": "AGL5DJOAZPMOYTYHWD552NUCYFCA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "series, action",
+      "evidence": [
+        "\"Great series from when I was young.\"",
+        "\"It is a great action movie, based on fact.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great series. It came quickly in superior packaging\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Item came quickly, in good shape. Have not had chance to watch it yet.\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Item came quickly, in good shape.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Great series from when I was young.\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"Item came quickly, in good shape.\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Great series. It came quickly in superior packaging\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for series, particularly action-oriented content. They value quick delivery and good condition of items but do not express strong emotional engagement or brand loyalty in their reviews."
+}

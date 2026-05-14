@@ -1,0 +1,77 @@
+{
+  "user_id": "AFVQ27NVIXEUO5OFFYB2JE6F2N4Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's animation, comedy",
+      "evidence": [
+        "Got this one for the kids, as it is a kids show after all.",
+        "The kids love this cartoon and it makes great Halloween viewing."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "We're not talking Gone with the Wind or Citizen Kane here, we're talking a live action version of a Nick cartoon.",
+        "The story itself is quite good."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Sit back and prepare for an adventure full of laughs and action.",
+        "The humor is adult as there is some language, but nothing more than you'll find on half the TV shows out there."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Don't expect much, but the kiddies seem to enjoy it.",
+        "The over use on focusing on the 'bits' detracts from the overall quality."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "If you're an Evel fan yourself or want to introduce someone else to the world of Evel then this is a great video to have.",
+        "I got the kiddo's watching this on Disney a few years ago."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "They are very educational and very tricky in how they add the education in there.",
+        "Some have a point, some are just for fun, and that makes them perfect."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "The kids love it.",
+        "They are there to help children understand morals although they are not preachy."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for children's animation and comedy, particularly those that engage kids with fun and educational content. They appreciate fast-paced narratives that are simple and entertaining, while showing a low sensitivity to production quality."
+}

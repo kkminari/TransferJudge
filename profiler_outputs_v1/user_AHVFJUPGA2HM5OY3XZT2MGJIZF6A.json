@@ -1,0 +1,77 @@
+{
+  "user_id": "AHVFJUPGA2HM5OY3XZT2MGJIZF6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action, drama, comedy",
+      "evidence": [
+        "\"If you like good Sci-Fi give this a try, there is a lot going on...\"",
+        "\"...the story is so good with a great plot.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "medium",
+      "evidence": [
+        "\"...the story was done in a way that follows the original movie...\"",
+        "\"...the plot, after earth is ravished by an alien race different alien species come together...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"...the first second the movie starts with a shootem up action sequence I was hooked.\"",
+        "\"Momentum is a fast paced action adventure...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"...the special effects are dated.\"",
+        "\"...the graphics are great.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"...Clair Foy is dynamite as Lisbeth...\"",
+        "\"...Clint Eastwood has hot a homer with this movie.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, action choreography",
+      "evidence": [
+        "\"...the special effects were well done and the acting is good as well.\"",
+        "\"...the thing that made me love this movie was it immediately switched to comedic problems...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"...the last season ended with closure for all the fans...\"",
+        "\"...the story centers around baseball business it really is a story about family.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of sci-fi, action, and drama, often favoring fast-paced narratives with engaging plots. They appreciate visual spectacle and action choreography, but show moderate sensitivity to production quality and emotional depth."
+}

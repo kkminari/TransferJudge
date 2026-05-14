@@ -1,0 +1,77 @@
+{
+  "user_id": "AG2VXBWLQQH3N3K4BOV2ODJUS2KQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "classic, family-friendly",
+      "evidence": [
+        "\"This is a beautiful movie with a message which should resonate with people today who are yearning for the qualities so well displayed by Cary Grant as Noah Pratorious.\"",
+        "\"Everyone loves Princess Bride.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the plot is rather thin and improbable at times.\"",
+        "\"It's great to have it on a DVD at last.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Plan on having a marathon viewing session soon so I can enjoy the shows without commercial interruptions...\"",
+        "\"I enjoyed seeing this movie but it will not be a permanent part of my 'library.'\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Extravagant production - the costumes are to die for.\"",
+        "\"the oscar nominations were truly deserved.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Cary Grant, Bones",
+      "evidence": [
+        "\"this is a beautiful movie with a message which should resonate with people today who are yearning for the qualities so well displayed by Cary Grant as Noah Pratorious.\"",
+        "\"Love Me Some Bones - one of my favorite TV shows.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Great movie, especially for those of us of a 'certain age.'\"",
+        "\"I can highly recommend it even though the plot is rather thin and improbable at times.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This has long been a favorite of mine with a message for the ages.\"",
+        "\"Loved it when I saw it in the theater; loved it even more on the second viewing (the DVD).\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic and family-friendly films, often valuing production quality and emotional resonance. They enjoy simple narratives and slower pacing, indicating a taste for character-driven stories."
+}

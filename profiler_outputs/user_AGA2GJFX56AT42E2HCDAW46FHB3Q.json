@@ -1,0 +1,74 @@
+{
+  "user_id": "AGA2GJFX56AT42E2HCDAW46FHB3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, thriller",
+      "evidence": [
+        "\"Great adult drama.\"",
+        "\"Big Bad Wolves movie is subtitled but a very good thriller.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great triple movie fun.\"",
+        "\"Wind Blast was a fun movie to watch.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great fun movie!\"",
+        "\"The Thieves is a great action story!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Stupid low budget movie.\"",
+        "\"Very boring.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Great fun movie!\"",
+        "\"Great story!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Very boring.\"",
+        "\"The DVD did not play.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and drama genres, favoring fast-paced narratives with straightforward storytelling. They show low sensitivity to production quality and have mixed feelings about brand loyalty, indicating a preference for entertainment value over emotional depth."
+}

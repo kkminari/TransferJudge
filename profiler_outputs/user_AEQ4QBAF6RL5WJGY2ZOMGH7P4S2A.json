@@ -1,0 +1,77 @@
+{
+  "user_id": "AEQ4QBAF6RL5WJGY2ZOMGH7P4S2A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama",
+      "evidence": [
+        "\"What can I say? Miss Marple always uses her uncanny instinct and mature thought processes to dumbfound most of the detective inspectors and policemen she encounters.\"",
+        "\"Entertaining as only Morse can be. Worth many reruns\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Whenever everyday tv drivel gets me down, I reach for this delightful series.\"",
+        "\"Interesting story lines; Excellent acting by all major characters; I'm not sure I like the excessive fawning over Harriet Vane by Lord Peter...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"What a collection of thoroughly entertaining stories. Excellent acting by all actors, all familiar faces of British productions.\"",
+        "\"Superb actors! The actors In this film are masterful in their individual roles and the storyline is so intense it gives me a headache every time after watching it, but it is routinely rewatched.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent quality video. Having seen Joan Hickson's portrayal, she is my favorite.\"",
+        "\"The film quality and audio vary from episode to episode but hey, they're old films.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"If you have never seen Joan Hickson as Miss Marple you have really missed a perfect portrayal.\"",
+        "\"As always, fascinating storylines; no disappointment here.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Everything perfect. The color was sharp.\"",
+        "\"This is truly the 'birds eye view'; an amazing film with some incredible people involved to make this stunning film.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is one of those movies that one can watch over and over. Fantastic storyline with superb acting.\"",
+        "\"What can I say? Miss Marple always uses her uncanny instinct and mature thought processes to dumbfound most of the detective inspectors and policemen she encounters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for mystery and drama genres, particularly enjoying slow-paced narratives with high production quality. They appreciate emotional depth and character-driven stories, often favoring familiar actors and series."
+}

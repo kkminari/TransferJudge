@@ -1,0 +1,77 @@
+{
+  "user_id": "AHBYUM2TMJZ3DMKQ7WPLBVQN2PQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family",
+      "evidence": [
+        "Great show. Wonderful episodes about inclusion of someone with autism.",
+        "We love Full House. This brings me back to my childhood."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great movie.",
+        "Great show."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Funny movie.",
+        "This movie is so funny."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Graphics not great.",
+        "Good movie."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Robin Williams",
+      "evidence": [
+        "Love Robin Williams.",
+        "Robin Williams is so funny."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "humor, nostalgia",
+      "evidence": [
+        "This brings me back to my childhood.",
+        "So funny."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It is also somewhat sad. When jack is getting old and cant be with his friends, that is sad.",
+        "Wonderful episodes about inclusion of someone with autism."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and family-oriented content, often enjoying humorous and nostalgic themes. They show a notable emotional engagement with stories that evoke feelings, particularly those featuring Robin Williams."
+}

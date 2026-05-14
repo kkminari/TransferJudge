@@ -1,0 +1,77 @@
+{
+  "user_id": "AERRPKDJL4GPOSTJZ5MODQG4SKZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "Christian, Family, Documentary",
+      "evidence": [
+        "\"If you love God and you believe in the invested power of the Holy Spirit... these are a must for you.\"",
+        "\"This movie was surrounded by Christmas trappings... but it is all about venerating the devil...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's a good long movie with plenty of viewing for one long or two shorter evenings of viewing.\"",
+        "\"The plots are interesting.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I can watch it over and over.\"",
+        "\"I find it to be good light entertainment.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The quality has been good.\"",
+        "\"I didn't find the portrayal of the miracles was very well done.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I ordered Faith Like Potatoes looking for some christian entertainment...\"",
+        "\"I enjoy Poirot, The movies are up to my expectation...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This sets me ablaze anew.\"",
+        "\"It encouraged me and I enjoyed the watching of it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It encouraged me and I enjoyed the watching of it.\"",
+        "\"I just want to increase my faith to the point that I can be used like the people in these videos.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for Christian and family-oriented content, particularly documentaries that inspire and encourage faith. They appreciate simple narratives with a slower pace, focusing on emotional resonance and the moral quality of the content."
+}

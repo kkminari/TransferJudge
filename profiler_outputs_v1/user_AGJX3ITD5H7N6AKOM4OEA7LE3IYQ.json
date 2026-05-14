@@ -1,0 +1,77 @@
+{
+  "user_id": "AGJX3ITD5H7N6AKOM4OEA7LE3IYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, mystery",
+      "evidence": [
+        "I do enjoy sci fi so found myself being caught up after the first episode of the first season.",
+        "Such fun - a Harry Potter, Indiana Jones mystery with soap opera tendencies."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "The twists and turns during this season kept me interested and surprised.",
+        "The outcome of a fight is not really in doubt. But how the story weaves to the end, and the twists and turns along the way hold your attention."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "A little slow moving but still good.",
+        "I am tired of shows that start with possibilities of life changing for the better that wind up in drama death spirals."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The cast is superb with interesting plots.",
+        "This show grabs your attention - and keeps it. The characters are people that you care about."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I am a fan of Christopher Lambert and of the Highlander series.",
+        "I do enjoy sci fi so found myself being caught up after the first episode of the first season."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "The enchanting sets of yesteryear to great drama.",
+        "Great characters and interesting stories."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I found myself caring about the characters and watched episodes back to back.",
+        "Saying goodbye to favorite characters is usually hard, but this wrap-up eased that pain."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and drama genres, appreciating complex narratives and high production quality. They enjoy character-driven stories that evoke emotional responses, although they have mixed feelings about pacing and brand loyalty."
+}

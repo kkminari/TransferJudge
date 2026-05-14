@@ -1,0 +1,76 @@
+{
+  "user_id": "AEVCP3WCAXPCI2EJTXOJ5WAEHOIQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, thriller, romance, comedy",
+      "evidence": [
+        "\"For a mesh of documentary/thriller/horror, this was a very well done movie that kept me captivated all the way through.\"",
+        "\"Plausible romance/comedy flick\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"At the end of the day, it's just another horror flick meant to cater to the teens and college kids...\"",
+        "\"Good plot for a horror/suspense film, but the execution in unraveling it wasn't impressing\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"...the final 15 minutes of this movie throw a big wrench in this film and rob of it of a full 5 star rating\"",
+        "\"...if you're looking for a horror film that will entertain you for a few hours and give you the heebie jeebies here and there...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"...it obviously cannot hold a candle to other films produced by Blumhouse such as The Purge, Paranormal Activity, Get Out...\"",
+        "\"...the performances are fairly good as I believe each character portrayed their role to the best degree possible.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Quentin Tarantino's creativity and Robert Rodriguez's directing skills meshed well to put together this classic masterpiece.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, graphic",
+      "evidence": [
+        "\"...the demonic clown-like smiles the characters in this film give off when they're possessed by the entity of the game had my the hairs on my head standing up.\"",
+        "\"Gory and graphic\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"...there really aren't any lovable or relatable characters in here, so don't expect to become emotionally attached to any of them.\"",
+        "\"...if you want a horror film that will just completely blow you away, take a pass on it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys horror and thriller genres, often appreciating fast-paced narratives with graphic elements. They show a preference for entertainment value over production quality and do not exhibit strong loyalty to specific creators."
+}

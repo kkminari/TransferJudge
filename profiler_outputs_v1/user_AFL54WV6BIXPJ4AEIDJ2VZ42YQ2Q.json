@@ -1,0 +1,77 @@
+{
+  "user_id": "AFL54WV6BIXPJ4AEIDJ2VZ42YQ2Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama, comedy",
+      "evidence": [
+        "\"love this documentary - always thought render unto ceasar what is ceasar's seemed odd\"",
+        "\"very interesting and informative\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"very entertaining\"",
+        "\"great movie and andy griffith in different role\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"very funny entertaining movie\"",
+        "\"you will enjoy watching over & over\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"very informative movie - u get to meet myra & Ian\"",
+        "\"great info from sebastian marroquin\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Jeremy Irons and Ron Silver were great\"",
+        "\"Joely Richardson is fantastic as Wallace Simpson\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, informative content",
+      "evidence": [
+        "\"great film\"",
+        "\"very informative - u either get sucked for your money or if you don't have any you can be a slave\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I love this story, Frank Marshall Davis is far more interesting than the fake dad\"",
+        "\"I love this documentary and most films dealing with the planned destruction of the twin towers\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly documentaries and dramas, with a preference for fast-paced and entertaining narratives. They value emotional resonance and informative content, often appreciating the storytelling and performances, though they show less concern for production quality and brand loyalty."
+}

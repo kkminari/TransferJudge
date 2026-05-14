@@ -1,0 +1,77 @@
+{
+  "user_id": "AH4NBYXLMRNVY5JBPRHUQBDBIYQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, comedy",
+      "evidence": [
+        "\"Very good movie about Iraq and PTSD Loved it.\"",
+        "\"Love the Virginian series, all good shows.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Clean and easy to understand\"",
+        "\"Good movie based on a true story, but the Us movie takes place in New York, not France\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"We love these movies even as adults, great for a laugh.\"",
+        "\"Love the Virginian series, all good shows.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Best quality and love the dvds.\"",
+        "\"Picture quality isnt the best, and disappointing in very few characters remaining\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Love the Virginian series, all good shows.\"",
+        "\"BAA BAA Blacksheep videos are awesome\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"I love this Cd and DVD, the cast includes more men and women, and poor Damian needs a better wardrobe!!\"",
+        "\"Great suspense movie.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Very good movie about Iraq and PTSD Loved it.\"",
+        "\"Story is great, actors are great, great movie for adults!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and historical narratives, particularly those that are simple and easy to understand. They show a strong appreciation for quality in production and have a fondness for specific series, indicating a preference for emotionally resonant content."
+}

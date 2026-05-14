@@ -1,0 +1,77 @@
+{
+  "user_id": "AHQFDLCXM4NMX37XMTTQ3GFU4RPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama",
+      "evidence": [
+        "\"I loved the message and story of this movie. Excellent for whole family.\"",
+        "\"I especially liked it because it is a story about older adults having the time of their lives.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This movie is very slow and often confusing as it flashes back to the past leaving the viewer to figure out what that has to do with his present state.\"",
+        "\"There is NO real story line.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This movie is very slow and when you go and make a sandwich and come back you wonder how all this ties together.\"",
+        "\"This movie is very slow and often confusing as it flashes back to the past... boring until the end.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"I really enjoy Gerard Butler and he does a great job in this movie along with the other actors.\"",
+        "\"Lots of good actors/actresses.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Gerard Butler, Queen Latifah",
+      "evidence": [
+        "\"I generally like the movies Gerald Butler plays in and I liked his role in this movie.\"",
+        "\"This is a heart warming story about a common person (whom queen Latifah plays so well)...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, emotional atmosphere",
+      "evidence": [
+        "\"Enjoyed seeing the awesome scenery and tremendous waves--WOW!!!\"",
+        "\"It is funny and heart warming.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I loved the message and story of this movie.\"",
+        "\"It is funny and heart warming.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented and heartwarming films, particularly those featuring older adults. They prefer simple narratives with slower pacing, and they appreciate strong performances from familiar actors like Gerard Butler and Queen Latifah."
+}

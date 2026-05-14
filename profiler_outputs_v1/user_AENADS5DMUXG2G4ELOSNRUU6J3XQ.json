@@ -1,0 +1,74 @@
+{
+  "user_id": "AENADS5DMUXG2G4ELOSNRUU6J3XQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, war, drama",
+      "evidence": [
+        "\"A fun movie for history and war buffs.\"",
+        "\"Very impressive production values: for example, tanks appeared to be period tanks, weapons appeared to be from the correct time period.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Simple story of survival.\"",
+        "\"A little slow sometimes, not as fast paced as the (now) usual American war movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"A little slow sometimes, not as fast paced as the (now) usual American war movie.\"",
+        "\"The story sags a bit in the middle, but the last 30 minutes are a joy to behold.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Very impressive production values: for example, tanks appeared to be period tanks, weapons appeared to be from the correct time period.\"",
+        "\"Well acted and directed, seems historically accurate, too.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Authentic uniforms and especially the Army' campaign hats, which were not side rolled grey Stetson's seen in so many movies.\"",
+        "\"Very intense and well made movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I'm a viet nam vet, and this is an authentic movie that hooked me.\"",
+        "\"I found it absolutely wonderful. A wonderful adventure for both Nemo and his dad, well acted and sometimes stunning animation.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for historical and war dramas, appreciating high production quality and emotional depth. They tend to favor slower-paced narratives that focus on character development and authenticity."
+}

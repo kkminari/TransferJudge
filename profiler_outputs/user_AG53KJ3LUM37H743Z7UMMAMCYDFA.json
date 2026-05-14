@@ -1,0 +1,76 @@
+{
+  "user_id": "AG53KJ3LUM37H743Z7UMMAMCYDFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, drama",
+      "evidence": [
+        "\"Great flick for children.\"",
+        "\"A very good comedy to keep in your collection...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The series provides good drama and slow pace, that both makes it relaxing to me to watch.\"",
+        "\"A great story unfolds here in this movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The series provides good drama and slow pace, that both makes it relaxing to me to watch.\"",
+        "\"Action packed and suspense, which makes it fun to watch.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Received it quickly and for a good price. Still enjoying it.\"",
+        "\"Quality service thru Amazon - AGAIN!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"A classic that you'll want to keep on the shelf to re-play over and over in the years to come.\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Great characters, and great scenery of New York City!\"",
+        "\"What a delightful child she was with such natural talent - in acting and dancing...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A must to get. Well worth the money, and full of laughs/humor.\"",
+        "\"What a great story unfolds here in this movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly films, particularly comedies and dramas, often appreciating their simplicity and emotional resonance. They value high production quality and prefer slower-paced narratives that are relaxing to watch, indicating a strong preference for content that is both entertaining and heartwarming."
+}

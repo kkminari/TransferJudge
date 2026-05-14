@@ -1,0 +1,77 @@
+{
+  "user_id": "AEYQVZHXR34HI3WUN6OG4MRSU5ZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, slasher",
+      "evidence": [
+        "I love slashers and this was a well done slasher.",
+        "I am a big slasher fan and I own all the great ones and bad ones."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The story was easy to follow and I liked the little girl added to the adult guy's story.",
+        "The acting was good and I have seen a lot of horror films and this if deff one you can watch over and over again."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "It's a fun movie only an hr and a half and it has a good pace.",
+        "There was plenty of gore and suspense."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "The acting was bad even for a small indy film.",
+        "The killer was not scary he was a joke and a half."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Jamie Bernadette, Tobin Bell",
+      "evidence": [
+        "Jamie Bernadette was awesome in this film and we are looking at a new horror scream queen.",
+        "Tobin Bell added a lot to this Franchise and didn't phone it in."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "It was scary and a supernatural film done right.",
+        "This movie gets 5 stars for acting and effort though it lacks the story as it gets too confusing."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I liked the ending for me it was a strong point of the film and how horror films sometimes need to end.",
+        "This movie to me is 5 stars coming from a horror junkie."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user is a dedicated horror and slasher film fan, showing a strong preference for fast-paced, straightforward narratives. They appreciate strong performances from actors and have a low sensitivity to production quality, focusing more on the entertainment value of the films."
+}

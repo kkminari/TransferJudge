@@ -1,0 +1,77 @@
+{
+  "user_id": "AHD3ZOJJO6STYO2X6UAWZ6SWEAZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family",
+      "evidence": [
+        "\"So funny!!\"",
+        "\"Cute and crazy movie! Love the characters!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good movie and worth the watch! Actors did amazing!\"",
+        "\"It was funny and action filled. Good movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Funny parts but not as funny or catchy as we had originally thought it was\"",
+        "\"Good Friday night date night movie!!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Love these movies! So funny!\"",
+        "\"Best Show EVER\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love the whole series!!\"",
+        "\"This is my favorite movie EVER and I wanted a copy forever.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Cute movie! Glad I found it on here!\"",
+        "\"Very cute, very fun\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is one of my top five favorites ever! I have watched it a million times\"",
+        "\"Two thumbs up, five stars, Christmas MUST\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and family-oriented films, often enjoying light-hearted and funny narratives. They value emotional resonance and tend to favor fast-paced, simple storytelling, while showing less concern for production quality."
+}

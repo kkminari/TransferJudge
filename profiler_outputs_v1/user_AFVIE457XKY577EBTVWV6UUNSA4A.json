@@ -1,0 +1,77 @@
+{
+  "user_id": "AFVIE457XKY577EBTVWV6UUNSA4A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, romance, sci-fi, horror",
+      "evidence": [
+        "\"I'm a sucker for happy endings...\"",
+        "\"I enjoy the show a lot for a variety of reasons...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The focus of the story never deviates--it's a romance through and through.\"",
+        "\"The action was dramatic and exciting and drove the story to a satisfying conclusion.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I thought the pacing was great for a romance.\"",
+        "\"The Good Guys offers a taste of crime and mystery without the too serious treatment it often gets on TV.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I usually prefer more obviously heroic heroes...\"",
+        "\"The digital edition of this seems well done, and the sound didn't give me any trouble.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"As a long-time Star Trek fan, McCoy has always been a favorite...\"",
+        "\"I loved the movie, not so much because it was the best episode of the series...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric music",
+      "evidence": [
+        "\"The show takes scientifically challenging subjects and creates educational entertainment from them.\"",
+        "\"The music is still entertaining.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"There was even one surprisingly touching moment in the second episode that choked me up!\"",
+        "\"I tend to only rewatch series if they end in a way that I like...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and romance genres, enjoying fast-paced narratives with high production quality. They value emotional resonance in their viewing experiences and show some loyalty to familiar franchises, particularly in sci-fi and horror."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AFDA7US2RKW23R5HL2DHIY6SDJ6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy, documentary, drama",
+      "evidence": [
+        "\"Well done action film.\"",
+        "\"Clever British humor for all ages.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot is nearly the same in them all.\"",
+        "\"Boole's story is told on a simple level.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Slow moving police procedural with a spy element.\"",
+        "\"I really wanted to like this because I love both Martin Scorsese... However, this series is spectacularly ordinary.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Don't expect a big budget or great performances, but you can still have some fun watching this.\"",
+        "\"As an adult, I get to thinking about all the technology used in making the film. Don't do that--spoils the fun.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Always love Russell Crowe. He's in my Top 5 list of actors.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"Dark, foul-mouthed and violent, yet captivating.\"",
+        "\"Excellent writing and characters. Good British fun for all ages.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Yawn. Befuddlement, confusion and misunderstanding is boring, not funny.\"",
+        "\"The message may still be relevant in regard to Iran today, but the fears expressed in the film did not come to pass.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and comedy films with a preference for straightforward narratives. They appreciate clever humor and engaging stories but are less concerned with high production quality or deep emotional impact."
+}

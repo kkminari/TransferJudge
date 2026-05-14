@@ -1,0 +1,77 @@
+{
+  "user_id": "AFA4AOWG75JHFV7I4ST27H5DPDQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, romance, comedy, religious",
+      "evidence": [
+        "\"a very good family movie and how love never really dies in the hearts of people\"",
+        "\"this is a good movie for people who love romance\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"this is a good clean movie for the whole family and it has lessons to be learned.\"",
+        "\"this movie has lessons on the way we treat others and how they are humans with feelings.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"this movie depicts the life in olden days when life was more simplistic and when women were homemakers.\"",
+        "\"this is a delightful movie and it has adventures and suspense for the whole family to enjoy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"this movie is such a good movie and i was pleased with it.\"",
+        "\"this is a good muppets movie and keeps the kids attention.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"i enjoy this actor.\"",
+        "\"i really like jane eyre and this is such a lovely older movie.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual, moral lessons",
+      "evidence": [
+        "\"this movie has lessons on the way we treat others and how they are humans with feelings.\"",
+        "\"this is a delightful movie and my grandchildren love to watch this, this is entertainment for the whole family thanks.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"this movie teaches people to love and forgive and how to love unconditionally even when times get rough.\"",
+        "\"this movie is a good movie and it shows how love is tried but grows and endures during hard times.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly movies that emphasize love, moral lessons, and emotional depth. They enjoy simple narratives with a slower pace and are less concerned with production quality, focusing instead on the overall message and enjoyment of the film."
+}

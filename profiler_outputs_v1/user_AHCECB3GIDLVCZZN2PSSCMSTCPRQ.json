@@ -1,0 +1,77 @@
+{
+  "user_id": "AHCECB3GIDLVCZZN2PSSCMSTCPRQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, b-movie, animation",
+      "evidence": [
+        "\"This is like a fast paced b-movie horror.\"",
+        "\"I recommend it if you like themes about cults in Hollywood.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"This movie is exactly that, a mystery you have to figure out.\"",
+        "\"It's boring, slow nothing ever happens until the end.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This is like a fast paced b-movie horror.\"",
+        "\"It's boring, slow nothing ever happens until the end.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"good animation, music, fast paced story.\"",
+        "\"Dvd look great has a behind the scenes feature about 40 min so thats a plus great movie my second favorite from the late satoshi kon.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I need to have every of denis villeneuve films.\"",
+        "\"I hope Umbrella entertainment release millennium actress next!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, good animation",
+      "evidence": [
+        "\"good animation, music, fast paced story.\"",
+        "\"Movie looks great on blu ray its a creepy horror b-movie about the struggles of an actress in Hollywood.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"lame ending.\"",
+        "\"not scary just gross movie tries to shock you.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced horror and b-movie genres, with a strong appreciation for good animation and production quality. They express mixed feelings about narrative complexity and emotional resonance, indicating a preference for engaging visuals over deep emotional impact."
+}

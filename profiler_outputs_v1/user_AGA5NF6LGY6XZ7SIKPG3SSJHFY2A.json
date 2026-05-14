@@ -1,0 +1,76 @@
+{
+  "user_id": "AGA5NF6LGY6XZ7SIKPG3SSJHFY2A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama",
+      "evidence": [
+        "\"If you liked Father Dowling on TV, you will love the DVD's.\"",
+        "\"This is a great way to study American History!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"What a great team. Loved the story lines, the actors, the scenes and everything about this series.\"",
+        "\"Perfect in every way!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"We play it over and over.\"",
+        "\"What fun we have had playing these!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"This DVD came earlier than promised. It was new, sealed, everything as promised.\"",
+        "\"There has never been a remake of a collection done to the perfection of this one.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If you loved Basic Instinct 1, why would you not love Basic Instinct 2?\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"It is a treasure to own and view.\"",
+        "\"Great buy & treasure to own.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"All time favorite movie.\"",
+        "\"What fun we have had playing these!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented and drama genres, favoring simple narratives with a slow pacing. They have a high sensitivity to production quality and appreciate emotional resonance in their viewing experiences."
+}

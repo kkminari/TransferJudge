@@ -1,0 +1,77 @@
+{
+  "user_id": "AEXMBPMFUJYQ4CI3FT2R5O2MOBSA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, thriller, drama, documentary, comedy",
+      "evidence": [
+        "\"Horror movies are my favorite and this movie is the best horror movie I have seen in a long time.\"",
+        "\"This was a really nice documentary about Chris McCandless.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"There were several stories going throughout the movie and were poorly tied up in the end.\"",
+        "\"I really liked that I couldn't figure out the ending until closer to the end or how everything would tie in together.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It moved super slow, but was scary during a few parts of the movie.\"",
+        "\"It does go a little slow, but I really am enjoying listening to Becky.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The director and behind-the-scenes people did some amazing work on a few episodes that I think is worth noting.\"",
+        "\"The acting was okay, but it did seem to get better later on in the movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I have been a die-hard House fan since it came out a few years ago.\"",
+        "\"I love Glenn Close and Gemma Arterton and the main actor is wonderful.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Talk about artistic and creative!\"",
+        "\"Seeing the footage of her, so slender, a skeleton, was heartbreaking.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It was a tragic story of a young woman who suffered from anorexia.\"",
+        "\"This movie was so powerful. It was full of emotions and the story line was good.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror, thriller, and emotional narratives, often appreciating high production quality. They enjoy complex storytelling but have mixed feelings about pacing, sometimes favoring slower, character-driven narratives. Overall, they value emotional impact and sensory experiences in their viewing choices."
+}

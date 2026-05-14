@@ -1,0 +1,77 @@
+{
+  "user_id": "AFHCCGQRVP534ZBZBAJPV25YYPTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action, drama, fantasy",
+      "evidence": [
+        "\"Sort of like the Lord of the Flies, but set in space.\"",
+        "\"Incredible battle sequences, a lot of surprises.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"If I can figure out the movie's ending, then for me it is not worth watching.\"",
+        "\"There is just so much going on here in these twelve episodes, it is just incredible.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great movie, it's directed by Mel Gibson. Awesome story... The movie is very fast-paced...\"",
+        "\"A good watch, very fast paced.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Not only was the acting good, but it was more suspenseful than Aliens.\"",
+        "\"great acting, great stunts and even though it was low budget the story worked for the most part.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Brad Pit, does his character justice...\"",
+        "\"It's directed by Mel Gibson.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, action choreography",
+      "evidence": [
+        "\"Incredible battle sequences, a lot of surprises.\"",
+        "\"the story is so in depth and with a dynamite ending.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Wow, a comic book movie, with a lot of great action and a really good story.\"",
+        "\"I liked it, the show unfortunately and it was season 3...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and action genres, appreciating complex narratives and fast pacing. They value high production quality and enjoy visual spectacles, indicating a taste for engaging and emotionally resonant stories."
+}

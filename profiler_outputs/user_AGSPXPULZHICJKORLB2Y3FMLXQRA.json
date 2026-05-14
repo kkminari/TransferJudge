@@ -1,0 +1,77 @@
+{
+  "user_id": "AGSPXPULZHICJKORLB2Y3FMLXQRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, musical, adventure",
+      "evidence": [
+        "\"THE COCOANUTS is historically significant as one of the first all-talking, all-singing musical films... it remains very entertaining thanks to the brothers' anarchic comedy.\"",
+        "\"THE BLACK PIRATE has everything you could want in a seafaring adventure: cutthroat pirates, swordplay, a damsel in distress...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the film is really not much more than a string of burlesque routines held together by a simple plotline.\"",
+        "\"The story has would-be detectives Stan and Ollie safeguarding a powerful bomb...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The gags are fast and furious and many are truly surreal...\"",
+        "\"...this one benefits from a lovely Jerome Kern score, and from the film debut of Bud Abbott and Lou Costello.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"the Kino source print has apparently been pieced together from the best available materials and with a few minor exceptions is sharp and clear.\"",
+        "\"the film looks and sounds better than it has in years.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for Abbott and Costello, Laurel and Hardy",
+      "evidence": [
+        "\"ABBOTT AND COSTELLO MEET FRANKENSTEIN gave a real boost to the comedy team's film career; it's an excellent film...\"",
+        "\"WAY OUT WEST ties with SONS OF THE DESERT as Laurel and Hardy's best feature film.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"the highly imaginative sets and special effects set the right note of fantasy...\"",
+        "\"the film has been influential to modern film makers...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"THE MUPPET CHRISTMAS CAROL brings greater depth and humanity to the story than many recent versions.\"",
+        "\"A magnificent cast... find all the vibrancy in Shaw's prose.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and musical genres, particularly enjoying the works of Abbott and Costello and Laurel and Hardy. They appreciate fast-paced narratives with simple plots, while showing a medium sensitivity to production quality and emotional depth."
+}

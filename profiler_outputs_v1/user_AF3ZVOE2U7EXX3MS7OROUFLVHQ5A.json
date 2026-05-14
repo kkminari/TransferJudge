@@ -1,0 +1,77 @@
+{
+  "user_id": "AF3ZVOE2U7EXX3MS7OROUFLVHQ5A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, sci-fi, adventure",
+      "evidence": [
+        "\"A great comedy with two great actors at the top of their game.\"",
+        "\"One of the best war flicks ever.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The obtuse nature of how the story unfolds is part of that atmosphere.\"",
+        "\"This is how a B movie becomes an A movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"A great old fashioned flick with 3D to boot. Lots of extras.\"",
+        "\"It's a gorgeous transfer, and a must for anyone who considers themselves a cinephile.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The transfer has some problems with bright washouts and halos, and some harsh edge enhancement.\"",
+        "\"The Blu ray is well done and looks great in its 2.35:1 Scope ratio.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I remember taking note of the director Peter Chelsom.\"",
+        "\"Kasdan is one of our best screenwriters, and this was his calling card.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"You ease into it like a warm bath, and soak up the vibes and frequencies it gives off...\"",
+        "\"The images are meticulously crafted, so treat yourself and see the Blu ray.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It's just a nice piece of filmmaking and storytelling that sadly, we rarely get anymore.\"",
+        "\"It really is about friendship and time, and how those things ebb and flow.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of comedy, drama, and sci-fi, with a strong appreciation for quality production and sensory experiences. They value emotional storytelling and have a moderate loyalty to specific creators, indicating a well-rounded taste in films."
+}

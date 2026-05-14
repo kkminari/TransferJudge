@@ -1,0 +1,76 @@
+{
+  "user_id": "AGKCLNPLHJNTCZPH4JTNZGZ46DCA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "'Slow paced and predictable'",
+        "'Silly'"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'Slow paced and predictable'",
+        "'predictable'"
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "'Slow paced and predictable'",
+        "'Too gloomy'"
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "'I can see why it won so many awards.'",
+        "'Loved it. Great characters and plot.'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "'Amazon Prime has really been worth the membership fee.'"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "'Tough to watch for sure but very thought provoking.'",
+        "'Very thought provoking.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'Tough to watch for sure but very thought provoking.'",
+        "'MORE PLEASE!!!! Loved it.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for simple narratives with slow pacing, often finding them predictable and boring. However, they appreciate thought-provoking content and emotional depth, indicating a desire for meaningful experiences in their viewing choices."
+}

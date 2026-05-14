@@ -1,0 +1,77 @@
+{
+  "user_id": "AG4KYR4F76NEWX3NN4FCPOKR56HQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "The primary draw of this film was Tom Hanks...am definitely disappointed that he chose to appear in such a dreadful film.",
+        "So depressing."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "the plodding and incredibly slow pace make watching this saga almost painful.",
+        "Ultimately, nothing to care about."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "the plodding and incredibly slow pace make watching this saga almost painful.",
+        "Simply awful...could not bear to finish watching it."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the acting was abominable.",
+        "Kiefer Sutherland is great, as always!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "I can watch anything with Maggie Smith and be happy...Kevin Kline's portrayal was flawless.",
+        "Kiefer Sutherland is great, as always!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Gripping...powerful film.",
+        "For lighthearted viewing, this is a lovely series."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Ultimately, nothing to care about.",
+        "So depressing."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for high-quality productions, particularly appreciating performances by specific actors like Kiefer Sutherland and Maggie Smith. However, they express significant dissatisfaction with slow pacing and lack of emotional engagement in many films, indicating a preference for more engaging and faster-paced narratives."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGZGN23LNOM27I4JISBPS6PUJRKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary, western",
+      "evidence": [
+        "\"A fascinating documentary about two privileged young men committing a senseless and horrific crime.\"",
+        "\"This was one of the all time greatest westerns.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Way to convoluted to be believable.\"",
+        "\"The plot was interesting but need more character development.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The action sequences were ok but nothing special.\"",
+        "\"The beginning gave too much away for me.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The cast was great, the scenery amazing and the storyline kept me intrigued.\"",
+        "\"Beautiful cinematography and set design but the story line was silly.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I've been waiting anxiously for season 2 of Bosch and I sadly watched all shows in a week.\"",
+        "\"Kathy Bates was superb.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"It was beautiful to watch but didn't keep my attention.\"",
+        "\"The amazing part is that this series holds up so well.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I just didn't like any of the characters well enough to care.\"",
+        "\"The movie would have been much better if we had built up some sort of an emotional attachment to the father before he disappears.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys dramas and documentaries, particularly those with strong production quality and engaging visuals. They have mixed feelings about narrative complexity and pacing, often preferring character development and emotional engagement, but sometimes find it lacking."
+}

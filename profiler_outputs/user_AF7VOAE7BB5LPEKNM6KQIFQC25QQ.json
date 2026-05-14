@@ -1,0 +1,73 @@
+{
+  "user_id": "AF7VOAE7BB5LPEKNM6KQIFQC25QQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action",
+      "evidence": [
+        "\"I bought this movie because it was a great action packed adventure and true story!\"",
+        "\"Boring for a combat action movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This was a movie without a good plot. Very little of the movie plot is explained...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The first 3 seasons were action packed and interesting, season 4 is a let down...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Predictable and not worth the money.\"",
+        "\"Boring for a combat action movie\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "George Clooney",
+      "evidence": [
+        "\"I love George Clooney! Even though this movie was serious, he adds a little fun to it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Breath taking scenes and loads of information provided.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Boring for a combat action movie\"",
+        "\"This was a movie without a good plot.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for action genres, enjoying fast-paced narratives but expressing disappointment with predictable plots. They have a notable fondness for George Clooney and appreciate visually engaging experiences, though they do not prioritize production quality or emotional depth."
+}

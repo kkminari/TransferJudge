@@ -1,0 +1,76 @@
+{
+  "user_id": "AFPN3OYM2Q7WQLAXR33J2KVRD6PA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "musicals, drama, horror, comedy",
+      "evidence": [
+        "\"This is one of my favorite musicals. Love the score.\"",
+        "\"Weird as only Stephen King can do weird.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The storylines are still interesting and the interaction between Beckett, Castle, and the rest of the cast is still fun to watch.\"",
+        "\"The music and costumes are great in this DVD. It's a wonderful show in spots, and not-so-great in others.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I thought Episode I was very entertaining and fun to watch.\"",
+        "\"The music was wonderful for that part, but the choreography was just boring and didn't add to the story, in my opinion.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Wow...the music, the sets, the acting...I loved this DVD!\"",
+        "\"The dancing is terrific in this show, as usual.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I was pleasantly surprised at Catherine Zeta-Jones and Rene Zellweger's singing and dancing ability, that much I will admit.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The music, the sets, the acting...I loved this DVD!\"",
+        "\"The technical expertise is amazing.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Great story, great characters, great music! This is one of those films you'll watch over and over again.\"",
+        "\"Love the characters and the writing, though the storylines in season 4 are not quite as engaging.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly musicals and dramas, and appreciates high production quality. They prefer fast-paced narratives with engaging characters, though they have mixed feelings about narrative complexity and brand loyalty."
+}

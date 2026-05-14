@@ -1,0 +1,77 @@
+{
+  "user_id": "AHY625B6CHNH7GGQFJMJODL4QBOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"The stories were actually very well written and hold up, without being too corny.\"",
+        "\"wonderful and inspiring movie, but again, makes me angry how white americans treated minorities then and still do in some states, like AL today.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The stories were actually very well written and hold up, without being too corny.\"",
+        "\"wonderful and inspiring movie, but again, makes me angry how white americans treated minorities then and still do in some states, like AL today.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"wonderful and inspiring movie, but again, makes me angry how white americans treated minorities then and still do in some states, like AL today.\"",
+        "\"I have cannot say enough about the high quality of these episodes.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I have cannot say enough about the high quality of these episodes.\"",
+        "\"Eddie Redmayne gives another Oscar-worthy performance as the first transgender to have a surgery to correct his wrong genitalia.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Andrew Garfield is favorite actor. He is great in this movie.\"",
+        "\"Eddie Redmayne is great actor. Happy he won the Academy Award for Best Actor in a Motion Picture.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I did cry.\"",
+        "\"It's a beautiful movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I did cry.\"",
+        "\"It's a beautiful movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and drama genres, appreciating well-written stories that evoke emotional responses. They value high production quality and show loyalty to specific actors, indicating a taste for engaging narratives that resonate on a personal level."
+}

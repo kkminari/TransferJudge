@@ -1,0 +1,88 @@
+{
+  "user_id": "AHDAHOT2ZUQ6MEYZQHRH7VE5HD3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, feel-good, historical",
+      "evidence": [
+        "\"I loved Mr. Rogers... The story made me tear up slightly...\"",
+        "\"This was a moving story that told of the origins of the paralympic games...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The script was marginal and predictable...\"",
+        "\"The plot was too contrived and I could see the twists coming a mile away.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The pace of this movie was so slow and so downbeat that I could barely sit through it.\"",
+        "\"Slow moving but good acting. The message is so important...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The CGI was okay but I have seen better.\"",
+        "\"The visuals were really great and breathtaking. The plot was practically non-existent.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love Colin Firth and have for years...\""
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The story made me tear up slightly...\"",
+        "\"It was beautifully done and so believable.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I was taken on a journey of learning to accept by the main character...\"",
+        "\"The only emotion that comes through is the love that they share for each other...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "character_development",
+      "value": "mixed",
+      "evidence": [
+        "\"The actors were ill-cast...\"",
+        "\"The character development was iffy, at best.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user enjoys feel-good and emotional dramas, often resonating with stories that evoke strong feelings. They show a preference for simple narratives and are sensitive to pacing, with mixed feelings about production quality and character development."
+}

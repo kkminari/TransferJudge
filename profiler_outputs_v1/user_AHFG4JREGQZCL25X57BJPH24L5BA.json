@@ -1,0 +1,77 @@
+{
+  "user_id": "AHFG4JREGQZCL25X57BJPH24L5BA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, family",
+      "evidence": [
+        "\"It has heart and drama.\"",
+        "\"Very Fresh comedy. Well acted and well written.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A good watching experience.\"",
+        "\"Great movie for the whole family.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Very Fresh comedy. Well acted and well written.\"",
+        "\"Good fun for the whole family.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great Acting<br />Great Dialog<br />Great Cinematography<br />Great Directing<br />Great Writing\"",
+        "\"With such a talented group of actors how could you not do a better job directing?\""
+      ],
+      "confidence": 0.9,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I am a comic book collector from way back in the 1970\"",
+        "\"Disney at its best.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Very cool old school art.\"",
+        "\"The story stayed close to the book.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Everyone agreed that it was well done and worth another watching.\"",
+        "\"I was pleasantly surprised. Very good blending of characters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly films that blend comedy and drama, often appreciating high production quality. They prefer fast-paced narratives that are simple and engaging, with a strong emotional impact."
+}

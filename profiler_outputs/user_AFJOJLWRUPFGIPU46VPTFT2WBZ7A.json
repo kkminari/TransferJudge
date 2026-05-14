@@ -1,0 +1,76 @@
+{
+  "user_id": "AFJOJLWRUPFGIPU46VPTFT2WBZ7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama",
+      "evidence": [
+        "\"Well written and very well acted drama.\"",
+        "\"This real-to-life drama, is moving, and yes, a good supply of tissues ought to be at hand.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The story line is stupid, and if the film has a point it is hidden behind the language, drugs and alcohol...\"",
+        "\"It is a moving story that brings a new light into the darkness of war.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Tends to become boring and often draggy.\"",
+        "\"It is a good seasonal movie and its ending is especially well written and acted well.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The filming is fantastic in South Africa.\"",
+        "\"Kevin Bacon does a magnificent job in the role he plays.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Nicholas Sparks",
+      "evidence": [
+        "\"Like most of movies based on Nicholas Sparks' novels, this real-to-life drama, is moving...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It is a moving story that brings a new light into the darkness of war.\"",
+        "\"The film itself is just a beautiful portrait of Jackie Robinson...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is filled with a great emotion, from sorrow to hope and anger to love.\"",
+        "\"This is one of the best films I have seen in a long time.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama films that evoke deep emotional responses. They appreciate high production quality and are sensitive to pacing, often finding slower narratives more engaging. Brand loyalty is evident towards Nicholas Sparks, indicating a taste for heartfelt and moving stories."
+}

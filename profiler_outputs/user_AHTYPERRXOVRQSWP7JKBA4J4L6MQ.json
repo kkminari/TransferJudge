@@ -1,0 +1,74 @@
+{
+  "user_id": "AHTYPERRXOVRQSWP7JKBA4J4L6MQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, suspense, novela",
+      "evidence": [
+        "\"AWESOME NOVELA. THE ENDING WAS A BIT ROUGH.\"",
+        "\"THIS NOVELA TELLS THE STORY OF ONE OF MEXICO FINEST HUSTLERS/DRUG KINGPIN.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"GREAT SERIES. YOU WATCH ONE EPISODE AND FEEL THE NEED TO KEEP WATCHING...\"",
+        "\"THIS NOVELA TELLS THE STORY OF ONE OF MEXICO FINEST HUSTLERS/DRUG KINGPIN.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"THIS SERIES KEEPS YOU ON THE EDGE OF YOUR SEAT.\"",
+        "\"AT BIT SLOW TO START OUT BUT PICKS UP AND KEEPS YOU WANTING TO WATCH ONE MORE EPISODE.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"HATE THE FACT THAT SERIES TAKES FOREVER TO COME OUT WITH THE NEXT SEASON.\"",
+        "\"YOU CAN PLAY THIS DVD AND ENTERTAIN A HOUSE FULL OF SALSA LOVERS.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"AWESOME SERIES. KIND OF REMINDS ME OF THE DRAMA AT WORK.\"",
+        "\"THE NOVELA WAS AWESOME. STARTED WITH ONE EPISODE AND COULD NOT STOP I WAS ADDICTED UNTIL THE LAST EPISODE.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"AWESOME NOVELA. THE ENDING WAS A BIT ROUGH.\"",
+        "\"HATE THE FACT THAT SERIES IS OVER CAUSE IT GOT GOOD AND KEPT YOU GOING FOR AWHILE.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and suspense, particularly in the form of novelas. They prefer fast-paced narratives that keep them engaged, with a strong emotional impact, although they show less concern for production quality and brand loyalty."
+}

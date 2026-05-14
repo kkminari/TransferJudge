@@ -1,0 +1,77 @@
+{
+  "user_id": "AHCG4X6RS3XCJVJJ5JBAGWDTIQ3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, drama, science fiction, romance",
+      "evidence": [
+        "\"Another great movie with Denzel. The story was interesting and thrilling.\"",
+        "\"Great movie. Science fiction and a love story...Perfect\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Good movie. I liked the story but had some difficulty with the direction that it went.\"",
+        "\"Great movie but could be difficult to follow if you do not pay attention.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This movie has everything; thrills, suspense, and a great story line.\"",
+        "\"Great movie! The story was serious, yet funny and the cast was amazing.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"This movie is intellectual and an extraordinary cast. Another Christopher Nolan masterpiece!\"",
+        "\"Great movie, great cast, a story about women in different phases in their lives.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Christopher Nolan, Denzel Washington",
+      "evidence": [
+        "\"Another Christopher Nolan masterpiece!\"",
+        "\"What can I say Denzel does it again!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high sensory experience",
+      "evidence": [
+        "\"Great action scenes.\"",
+        "\"Some of the most hysterical laughing that I have experienced in a long time.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Great story about what happened to a local girl in a rural town. Great cast. The movie is both exciting and sad.\"",
+        "\"A great documentary about addiction and the stigma that still surrounds addiction and recovering addicts. Great cast and the material is very real and thought provoking.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for thrilling and dramatic narratives, particularly those with high production quality and engaging stories. They appreciate fast pacing and emotional depth, often favoring works by notable directors and actors like Christopher Nolan and Denzel Washington."
+}

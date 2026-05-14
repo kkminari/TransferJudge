@@ -1,0 +1,77 @@
+{
+  "user_id": "AGUKL7QRS5UEKWS72RA3GJY3TNKA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "crime, classic, music",
+      "evidence": [
+        "\"Hell Town\" is my favorite crime show.",
+        "REM's music is exceptional and this dvd is one I will always keep."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The stories themselves are intact, and the minor original music is still there.",
+        "Clever story lines that made it a true classic."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I was so irritated when WGN canceled the retro Sunday night lineup.",
+        "The acting ranges from so-so to excellent."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "I never understand why these dvd producers always leave the fans of the show with a dissatisfied feeling.",
+        "The packaging is part of the allure of getting a set."
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I've always loved MASH.",
+        "ALF has become one of my favorite shows."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "The picture quality is great.",
+        "The packaging is part of the allure of getting a set."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Lines like that are so powerful and never leave me.",
+        "It was part of an excellent Friday night line-up."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic and crime genres, valuing high production quality and emotional resonance in their viewing experiences. They express dissatisfaction with poor packaging and production quality, indicating a collector's mindset."
+}

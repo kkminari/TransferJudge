@@ -1,0 +1,77 @@
+{
+  "user_id": "AF436NYZWOAZAPEKRJVW4RPNMHEA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, sci-fi, fantasy",
+      "evidence": [
+        "\"I laughed many times. it is funny.\"",
+        "\"Loved the movie I hope they will make more of that.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story is basic as in all avengers you can be sure to see something like this...\"",
+        "\"Story is pretty basic but I enjoyed it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great film on fast cars, car engineers and racing.\"",
+        "\"I enjoyed it, great pictures, scenery.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Good acting.\"",
+        "\"I Love LOTR saga. it'd be better to have extended version...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "LOTR, Terminator",
+      "evidence": [
+        "\"I love the concept of showing us what happens when They fail to stop Skynet.\"",
+        "\"LOTR and Hobbit are the best movie ever made.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Great pictures, scenery.\"",
+        "\"I liked it very much.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"Enjoyed every second of it.\"",
+        "\"Alive and Loving it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies and enjoys sci-fi and fantasy genres. They appreciate fast-paced narratives with simple storylines and have a notable loyalty to franchises like LOTR and Terminator."
+}

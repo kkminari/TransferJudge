@@ -1,0 +1,73 @@
+{
+  "user_id": "AGL5DJOAZPMOYTYHWD552NUCYFCA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "series, action",
+      "evidence": [
+        "Great series from when I was young.",
+        "It is a great action movie, based on fact."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great series.",
+        "It is a great action movie, based on fact."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Item came quickly, in good shape. Have not had chance to watch it yet."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Item came quickly, in good shape."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Great series from when I was young."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Great series.",
+        "It is a great action movie, based on fact."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Item came quickly, in good shape."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys series and action movies, showing a preference for straightforward narratives. They value quick delivery and good condition of items but do not emphasize production quality or emotional depth in their reviews."
+}

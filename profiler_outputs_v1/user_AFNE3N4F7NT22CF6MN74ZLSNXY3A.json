@@ -1,0 +1,77 @@
+{
+  "user_id": "AFNE3N4F7NT22CF6MN74ZLSNXY3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"good to have a good laugh in trilogy again\"",
+        "\"24 is the ultimate gripping drama\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the series has been good all the way\"",
+        "\"good film\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I enjoyed the fast service in receiving the series of Moonlight on dvd\"",
+        "\"24 is the ultimate gripping drama\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"good stuff\"",
+        "\"good sequel\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"It's Sigourney.......whats more to say?\"",
+        "\"MJ Fox & the Doc are a great pairing for this series.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"a soon to be classic\"",
+        "\"classic film\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Not as good as I remember\"",
+        "\"good to have a good laugh in trilogy again\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted comedies and gripping dramas, showing a preference for fast-paced narratives. They appreciate familiar franchises and classic films but are less concerned with production quality or deep emotional engagement."
+}

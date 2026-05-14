@@ -1,0 +1,77 @@
+{
+  "user_id": "AEEUH2AWAFBCSSFJAJOVPQUZ524Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, comedy",
+      "evidence": [
+        "\"good old fun from the 70's, but made today.\"",
+        "\"Good movie. Makes you take a look at your life.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Weird, improbable and kinda fun.\"",
+        "\"Not Gone With The Wind, but it's no Gigli, either.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"They are never as good as the original, but it was still fun.\"",
+        "\"OK, but not worth the cash.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Good sound and picture. But I expect that, now days.\"",
+        "\"A well acted and well made movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have a HUGE crush on Helen Mirren.\"",
+        "\"Tom Laughlin makes Chuck Norris a little nervous.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"You put on the costume, so that you can 'die' (or live.)\"",
+        "\"Classic movie. A bit campy and cheezy by today's standard.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"Makes you take a look at your life.\"",
+        "\"Watching it on disc brought back all those memories.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of action, drama, and comedy films, often appreciating well-made movies with good sound and picture quality. They have a nostalgic connection to classic films and value emotional resonance, though they show mixed feelings towards narrative complexity and pacing."
+}

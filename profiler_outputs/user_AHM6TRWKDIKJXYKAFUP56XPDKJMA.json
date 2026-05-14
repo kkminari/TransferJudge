@@ -1,0 +1,77 @@
+{
+  "user_id": "AHM6TRWKDIKJXYKAFUP56XPDKJMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama, comedy",
+      "evidence": [
+        "Very good family movie. True story.",
+        "Good family show but very slow to get interested in."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "If you cant follow a movie that flips from past to present at anytime.....do not watch.",
+        "The ending was a shocker for me."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Good family show but very slow to get interested in.",
+        "I thought this was a very good movie."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "She was a bad-a$$ as I figured she would be but it just seemed like a cheaply made movie to me.",
+        "Loved this movie. The ending was a shocker for me."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for specific actors",
+      "evidence": [
+        "Just about anything Channing Tatum is a must watch for me.",
+        "I love Taraji Henson but was very disappointed with his movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "This was a very good movie. Kept me interested throughout the entire time.",
+        "Very good family movie. True story."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "This is a &#34;pull at your heart strings&#34; movie. Well done.",
+        "Very good but break out the tissues."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented films and dramas, often appreciating emotional depth and character-driven stories. They show a preference for specific actors, particularly Channing Tatum and Taraji Henson, and have mixed feelings about pacing and narrative complexity."
+}

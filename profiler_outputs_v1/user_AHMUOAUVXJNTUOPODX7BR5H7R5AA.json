@@ -1,0 +1,77 @@
+{
+  "user_id": "AHMUOAUVXJNTUOPODX7BR5H7R5AA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, horror, comedy, sci-fi",
+      "evidence": [
+        "\"Great documentary about a famous cryptid.\"",
+        "\"Good movie. Damon is great in it. Foster's villain is cookie cutter evil... Worth a look, especially if you're a sci-fi fan.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"...entertaining, but formulaic.\"",
+        "\"...doesn't add anything new to those who are well versed in the subject.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"...bored halfway through and I kept checking the time to see how much longer I had to go.\"",
+        "\"...had quite a few interesting action sequences.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...production values are great. Narration is very effective.\"",
+        "\"...cinematography, sound, animations, etc-every technical aspect of this film excellent...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Small Town Monsters",
+      "evidence": [
+        "\"Small Town Monsters produces high quality docs on cryptids and the paranormal...\"",
+        "\"Small Town Monsters continues to 'up their game'...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric",
+      "evidence": [
+        "\"...spooky, eerie, and interesting. Good production values and scary reenactments.\"",
+        "\"...animated reenactments work well.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"...very emotional show, but the season was only three episodes, which left me wanting more.\"",
+        "\"...some sad, make you think about aging, moments in the first half...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys documentaries and horror-themed content, particularly those produced by Small Town Monsters, and appreciates high production quality. They prefer straightforward narratives and have mixed feelings about pacing, indicating a balance between engaging action and slower storytelling moments."
+}

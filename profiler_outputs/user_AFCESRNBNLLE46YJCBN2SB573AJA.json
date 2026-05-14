@@ -1,0 +1,76 @@
+{
+  "user_id": "AFCESRNBNLLE46YJCBN2SB573AJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama",
+      "evidence": [
+        "\"Excellent documental\"",
+        "\"One of the best family oriented movies, we all love it\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Excellent movie\"",
+        "\"Very good movie\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Excellent movie, watched it twice\"",
+        "\"We love this show and watch it every time we get a chance\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"One of best movies from Clint Easwood\"",
+        "\"Excellent, one of the best family oriented movies, we all love it\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Clint Eastwood",
+      "evidence": [
+        "\"One of best movies from Clint Easwood\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I'm using this movie as a motivational tool for my 13 year old daughter...\"",
+        "\"Good fiction movie that gives a good perspective of how civilians react to a crisis...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I'm using this movie as a motivational tool for my 13 year old daughter...\"",
+        "\"Excellent, one of the best family oriented movies, we all love it\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and family-oriented dramas, often praising the quality of the films they watch. They value emotional resonance and use movies as motivational tools, indicating a desire for impactful storytelling."
+}

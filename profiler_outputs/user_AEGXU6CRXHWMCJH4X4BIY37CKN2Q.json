@@ -1,0 +1,77 @@
+{
+  "user_id": "AEGXU6CRXHWMCJH4X4BIY37CKN2Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "reality, drama",
+      "evidence": [
+        "I really enjoy these programs and I think that they are getting better, production-wise, every year.",
+        "I really like this show. The starting actors were better than the last few but I really got in to the characters and cared about them."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Okay show for killing time but not something that I'd miss if it wasn't available. It is almost the same every time, very predictable.",
+        "Interesting but not really believable...I guess that most of these types of stories are unbelievable but, I usually like to hear them."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "The episodes were always dark and depressing. The ending was not satisfying but it did appear that Nick would begin to progress, in time.",
+        "I always have to follow these programs with light comedies before I sleep!"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Acting and writing was good and the characters did draw me in.",
+        "It has been fun to watch this program evolve. The scientific testing and story lines growth and maturity have been as interesting as the plots."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I like Project Runway. Heidi and Tim make the show.",
+        "I am enjoying this new program and hope that it is renewed for another season."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "These boys were so adorable! Such great sportsmanship and kindness is amazing!",
+        "The information is much more detailed. It seems that in the past seasons they focused more on the research and in this season it felt that the focus was on the people and the stories."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Each of the stories in this season has touched my heart.",
+        "I really wanted to see Nick change, at least enough for him to find some happiness."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys reality and drama genres, showing a preference for character-driven narratives with emotional depth. They appreciate high production quality and often seek engaging stories, although they sometimes find plots predictable or lacking complexity."
+}

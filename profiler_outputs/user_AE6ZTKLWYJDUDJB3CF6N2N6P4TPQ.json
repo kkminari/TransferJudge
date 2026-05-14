@@ -1,0 +1,76 @@
+{
+  "user_id": "AE6ZTKLWYJDUDJB3CF6N2N6P4TPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family, adventure",
+      "evidence": [
+        "\"I grew up around folks like this and I love these guys.\"",
+        "\"Duty and Honor actually shown as a positive virtue, Hard to find in entertainment in 2014 U.S.A.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I don't have to worry about watching with my teen daughter that there is gonna be a sex scene every ten minutes...\"",
+        "\"More good storytelling. Now I can't wait for season 5...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Another good show to take you away from everyday doldrums...\"",
+        "\"The show gets better and better...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I enjoyed them all.\"",
+        "\"Great entertainment.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Dinesh",
+      "evidence": [
+        "\"Yup, Dinesh does excellent work. Great film.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Duty and Honor actually shown as a positive virtue, Hard to find in entertainment in 2014 U.S.A.\"",
+        "\"Sorry to see this come to an end. I enjoyed them all.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I grew up surrounded by families with the same values and pretty much the same antics.\"",
+        "\"Sorry to see this come to an end. I enjoyed them all.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented dramas with a focus on positive values and storytelling. They appreciate shows that are engaging and emotionally resonant, while showing a preference for simpler narratives and slower pacing."
+}

@@ -1,0 +1,75 @@
+{
+  "user_id": "AGTGCRW6X3OB45RNP6DBVLGWLHKA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, family",
+      "evidence": [
+        "\"very dark, mysterious!\"",
+        "\"Excellent family show\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I love this!\"",
+        "\"Great!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Good, on the edge of your seats kind of movie\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I like watching these shows, very dark, mysterious!\"",
+        "\"Loved it!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"i think i like everything about Fringe only thing i dislike is that i know it will end eventually! sincerely!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I knew my daughter would love watching this series with me!\"",
+        "\"My granddaughter loves Dora. & she learning to talk better because of Dora!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Love the series so much I watched it a second time this past summer!\"",
+        "\"Can't wait for more episodes!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys mystery and family-oriented shows, often favoring fast-paced narratives that keep them engaged. They exhibit a strong emotional connection to the content, frequently expressing excitement for new episodes and rewatching favorites."
+}

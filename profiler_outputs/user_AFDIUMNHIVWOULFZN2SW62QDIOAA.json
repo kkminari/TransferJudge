@@ -1,0 +1,77 @@
+{
+  "user_id": "AFDIUMNHIVWOULFZN2SW62QDIOAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy, drama",
+      "evidence": [
+        "This movie is incredibly fast paced. From the opening scene... But like I said there is action and lot's of it.",
+        "This is a movie that pushes the limit of silly, pointless and incredible. It's a great feel good movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The story is about the 'Sleepover' Bandits who would kidnap the bank manager the night before and rob the bank early in the morning.",
+        "If you are looking for a fast paced, thickened plot that makes you think, avoid this movie at all costs."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "This movie is incredibly fast paced.",
+        "The storyline is just great it moves quickly and the movie is really over before you even know it."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "The DVD gives nothing new really. Not many deleted scenes and an okay commentary.",
+        "The movie is masterful, I have loved the trilogy since I was 13 years old, but the problem with this particular DVD is the fact that you have to buy this one to really find out what is in the special extended DVD release."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I wish I could blame the actors for not taking on challenges, but I really can't because if I were offered millions of dollars to make the movie, I would not have been able to turn them down.",
+        "I think I personally would have enjoyed it much more if the 'big' names had been replaced by some unknowns."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "The DVD is cool because it explains that they actually used some of the underground racing community to fill in as extras.",
+        "The DVD edition is great because of the special features, it talks about each of the actors learning how to ride, spin guns and shoot."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "There is very raw emotion plus a very raw love scene.",
+        "This movie when it reaches its climax has those watching waiting to stand and take the vow, 'O captain my Captain!'"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced action and comedy films with simple plots and a mix of drama. They appreciate engaging stories but are not particularly loyal to specific actors or directors, focusing more on entertainment value than production quality."
+}

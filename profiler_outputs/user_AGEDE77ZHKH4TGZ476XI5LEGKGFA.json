@@ -1,0 +1,77 @@
+{
+  "user_id": "AGEDE77ZHKH4TGZ476XI5LEGKGFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, comedy, drama, sci-fi",
+      "evidence": [
+        "This is a coming-of-age story about a young man who is at a crossroads in his life.",
+        "If you are a fan of classic 1960s science fiction and fantasy shows, then this is for you."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "This movie's best parts are toward the end, when the story takes a very twisted turn.",
+        "Taking a leaf from Luis Bunuel's Un Chien Andalou, this dreamlike, surreal, nightmarish film takes you on a journey that you will not soon forget."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "This is a hard film to get through, but illustrates what World War II on the Eastern Front was really like for the common people.",
+        "If you enjoy killing a mouse that's stuck in a glue trap, then this movie is for you."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Wes Craven, best known for Nightmare on Elm Street, directed this excellent revenge tale.",
+        "All the performances are first-rate. DeNiro does a fine job directing this."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Wes Craven, Johnny Winter, David Lynch",
+      "evidence": [
+        "Wes Craven, best known for Nightmare on Elm Street, directed this excellent revenge tale.",
+        "This is a perfect example of what Thelonious Monk actually looked and sounded like in person."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "This gives you an idea of what you might see. If you want to see something strange and gruesome, then watch this instead.",
+        "Be prepared for some serious violence and gore."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It's about street life in the Bronx in the early 1960s.",
+        "This is a hard film to get through, but illustrates what World War II on the Eastern Front was really like for the common people."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of horror, comedy, and drama, with a preference for complex narratives and high production quality. They show loyalty to notable creators like Wes Craven and David Lynch, and their reviews indicate a strong emotional engagement with the content."
+}

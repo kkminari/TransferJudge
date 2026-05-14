@@ -1,0 +1,76 @@
+{
+  "user_id": "AF4AF5U2CGGOWESX7AOVLXODZHCA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, horror, mystery",
+      "evidence": [
+        "\"great zombie drama\"",
+        "\"wow what a fine mystery series\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"funny\"",
+        "\"hilarious\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"loved this movie as a kid...but seeing it now it is so slow and boring\"",
+        "\"great and funny film...loved it\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"great show - excellent actors N actresses - LEGEN...wait for it...DARY\"",
+        "\"excellent documentary about BEATLES secretary - so much fun and the music is great\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"bad MEL BROOKS movie\""
+      ],
+      "confidence": 0.2,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"great visual effects, creatures (Woola and the Tharks, especially)\"",
+        "\"the music is great\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I cried at the end when John Carter went BACK TO BARSOOM\"",
+        "\"each member of the cast made me believe in the world that they created\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama, comedy, and horror genres, often appreciating high production quality and emotional resonance in films. They enjoy simple narratives that evoke laughter and strong feelings, although they have mixed feelings about pacing."
+}

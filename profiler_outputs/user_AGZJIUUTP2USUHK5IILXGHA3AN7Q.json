@@ -1,0 +1,77 @@
+{
+  "user_id": "AGZJIUUTP2USUHK5IILXGHA3AN7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, art-house, historical",
+      "evidence": [
+        "\"Monty Python taught that 'nobody expects the Spanish Inquisition,' but here is a film suggesting that the Inquisition...\"",
+        "\"When it comes to screen adaptations, if ever there was a fool-proof author it is Marcel Pagnol...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"This film is made up of 55 shots, most of which represent a discrete narrative element...\"",
+        "\"The directorial style of this film is something all its own. It uses film grammar from every era of cinema history...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The system that allows this family to function even includes 'Anatole,' an imaginary wolf that lives in the basement...\"",
+        "\"This is a gorgeous, beautifully saturated rendering of the 16mm...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The transfer to Blu-Ray is impeccable...\"",
+        "\"This is a film about Sydney Pollack collecting and arranging images...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for specific directors (Rivette, Mizoguchi)",
+      "evidence": [
+        "\"How fortunate to have one of the finest living actresses under the direction of such an ardent admirer of women as Jacques Rivette!\"",
+        "\"Mizoguchi shows here, as elsewhere, his Western influences, particularly the theatre of Strindberg and O'Neill...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The score is higher in the mix in THE MONK, but I never found it to interfere with Hardy's delicate work...\"",
+        "\"Natural sounds are meticulously arranged as a composer would arrange a musical score...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is one of those movies that manages to be both immediately accessible as well as rewarding in new ways when seen multiple times...\"",
+        "\"It is a melancholy film, but one with moments of deep comic relief...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex, art-house dramas with high production quality and emotional depth. They appreciate slow pacing and are particularly loyal to directors like Rivette and Mizoguchi, indicating a taste for nuanced storytelling and rich sensory experiences."
+}

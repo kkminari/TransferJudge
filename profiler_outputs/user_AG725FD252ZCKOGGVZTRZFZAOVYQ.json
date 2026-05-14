@@ -1,0 +1,77 @@
+{
+  "user_id": "AG725FD252ZCKOGGVZTRZFZAOVYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, comedy",
+      "evidence": [
+        "\"A great scifi story.\"",
+        "\"...especially Oliver, the new Michael J Fox... Can't wait to see where this Family Ties comedy is going.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Not very entertaining to watch them drive million dollar cars.\"",
+        "\"Scatter brained. Hard to follow the story line.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The second season is starting out at a fast pace.\"",
+        "\"A good fast paced SciFi story\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Can't get it with the sound.\"",
+        "\"Grossly inaccurate historical melodrama.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "No strong loyalty to directors or actors evident."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Brought the book to life.\"",
+        "\"Great effects but the storyline is a little obtuse.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Not very entertaining to watch them drive million dollar cars.\"",
+        "\"It's hard to make a movie about bored, self-destructive teenagers.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced sci-fi and comedy genres, showing a preference for straightforward narratives. They are less concerned with production quality and emotional depth, focusing more on entertainment value."
+}

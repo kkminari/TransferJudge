@@ -1,0 +1,77 @@
+{
+  "user_id": "AF6KLCTI3F3YWFANA4RXQZYYB4KA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "dislike for drama and action",
+      "evidence": [
+        "\"Terrible script, terrible acting and terrible special effects....move on...this is a real stinker.\"",
+        "\"Huge fan of Liam Neeson, but this movie was boring and predictable.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Script has been done before, cancer, death, more death, quick rebirth of life...blah blah blah...\"",
+        "\"Story line very weak. Simply a waste of time.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This movie was boring and predictable.\"",
+        "\"Waste of an hour and a half. Only fished watching because I held out hope that the movie would in some way become better.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Script was horrible. Acting was just as bad.\"",
+        "\"Don't waste your time. Very misleading.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Huge fan of Liam Neeson, but this movie was boring and predictable.\"",
+        "\"Am a fan of Liam and others in this film...really weak story-line...quite disappointing.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific sensory",
+      "evidence": [
+        "\"Terrible special effects....move on...this is a real stinker.\"",
+        "\"Thought would be documentary on Alzheimer Patient instead is a pitiful version of elderly exorcism of demons...piece of crap movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Yawn...boring...\"",
+        "\"Don't waste your time....underwhelming...actually horrible\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user exhibits a strong dislike for drama and action genres, often criticizing the quality of scripts and acting. They prefer simple narratives and slow pacing, showing low emotional engagement with the content they review."
+}

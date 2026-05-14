@@ -1,0 +1,77 @@
+{
+  "user_id": "AF4A76YJYGIIMBGFUPM7WEN24KVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, drama",
+      "evidence": [
+        "\"I really enjoy the whole concept. The dark side of the fairy tales.\"",
+        "\"Nicely done magical based series. A little humor sprinkled here and there to entertain most anybody.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good revenge flick that most will be able to appreciate.\"",
+        "\"Fun show, never takes itself too seriously given the material.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great show with great characters.\"",
+        "\"Good BBC series, highly recommended.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great movie. Worth a watch, DeNiro and Pacino.\"",
+        "\"I have enjoyed it twice.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "BBC",
+      "evidence": [
+        "\"Good BBC series, highly recommended.\"",
+        "\"Great BBC series, watching it for the second time and enjoying it thoroughly.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Great show, watching it for the second time and enjoying every minute.\"",
+        "\"Great series cannot wait until seasons 7 &8 are available.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Well done, wishing for more like this.\"",
+        "\"Great show with great characters.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy and drama genres, particularly enjoying shows with engaging characters and visual spectacle. They demonstrate high sensitivity to production quality and have a notable loyalty to BBC series, indicating a taste for well-crafted narratives that evoke emotional resonance."
+}

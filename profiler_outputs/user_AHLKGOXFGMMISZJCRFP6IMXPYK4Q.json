@@ -1,0 +1,77 @@
+{
+  "user_id": "AHLKGOXFGMMISZJCRFP6IMXPYK4Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical drama, thriller, romance",
+      "evidence": [
+        "\"This one is an historical treasure and should not be missed.\"",
+        "\"Thoroughly enjoyable way to spend an evening or afternoon. BBC adaptation.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Great cast, great writing, lots of plot twists and turns. Very nuanced characters.\"",
+        "\"Character development of all cast members, really well done by writers and actors working together.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Had to watch Season 7 Premiere several times to figure out what was going on!\"",
+        "\"It's porn disguised as a Wall Street story. Not sexy. Just gross.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great script, great casting, great acting, great directing!\"",
+        "\"The acting is great--DeNiro, Jack Nicholson, Robert Mitchum, Tony Curtis.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"Meryl Streep, as always, nailed the accent on this one, reminding me of one of my sisters-in-law.\"",
+        "\"Congratulations to Barry Pepper as Bobby for his Emmy win as Best Lead Actor.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Great acting. Great story lines. Well written. Worth checking out.\"",
+        "\"Everytime I view it, I learn something new, see something I had not seen before.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This alone made my membership worth it.\"",
+        "\"I love it even more as an adult on DVD.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for historical dramas and thrillers, appreciating complex narratives and high production quality. They show loyalty to notable actors and directors, and their reviews reflect a deep emotional engagement with the content."
+}

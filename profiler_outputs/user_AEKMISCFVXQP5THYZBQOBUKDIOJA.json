@@ -1,0 +1,77 @@
+{
+  "user_id": "AEKMISCFVXQP5THYZBQOBUKDIOJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Enjoy a slightly odd hour",
+        "Another true to life heartbreaker."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Not as good as first and second in series. Written without a story just special effects.",
+        "Good story acting."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Slow to get going hopeful",
+        "Final season was disappointing."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Good story audio awful",
+        "Good acting, but repetitive scripts."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Always look forward to each program",
+        "Waiting for season 2"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Another true to life heartbreaker.",
+        "Delightful vera"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Another true to life heartbreaker.",
+        "Deserved the academy award."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of genres but shows a preference for simple narratives and slower pacing. They value emotional resonance in their viewing experiences, often appreciating heartfelt stories, though they express dissatisfaction with production quality and repetitiveness in series."
+}

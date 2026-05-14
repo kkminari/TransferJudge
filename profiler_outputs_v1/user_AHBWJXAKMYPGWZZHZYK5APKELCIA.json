@@ -1,0 +1,77 @@
+{
+  "user_id": "AHBWJXAKMYPGWZZHZYK5APKELCIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action, psychological, anime",
+      "evidence": [
+        "\"one of the most beautifully written and soulful series out there (anime or non)\"",
+        "\"this is NOT an action-packed anime although there is action from time-to-time\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Each episode is an independent (but loosely continuous and connected) short story\"",
+        "\"the story follows the breakdown of the wolf brigade soldier\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"this is not your typical anime\"",
+        "\"the series itself is not wall-to-wall NINJA SCROLL action, but there's enough action and of different types\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the direction is great\"",
+        "\"the special effects surprised the heck out of me as they really poured the money on this one\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"ARC THE LAD numbers among COWBOY BEBOP, GASARAKI, and NEON GENESIS EVANGELION\"",
+        "\"I loved this much more than Kore-Eda's first movie Maborosi\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"the way it's animated is not traditional and very emotionally abstract\"",
+        "\"the animation is SO low quality, it reminded me of the early 80s animation\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"the end of the series is especially touching\"",
+        "\"it's especially touching how Kore-Eda deals with how we see ourselves through memories\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex and emotionally resonant dramas, particularly in the anime genre. They appreciate high production quality and are drawn to narratives that are thoughtfully constructed, even if they unfold at a slower pace."
+}

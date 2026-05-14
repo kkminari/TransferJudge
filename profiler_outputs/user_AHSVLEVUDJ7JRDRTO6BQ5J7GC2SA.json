@@ -1,0 +1,77 @@
+{
+  "user_id": "AHSVLEVUDJ7JRDRTO6BQ5J7GC2SA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "disaster",
+      "evidence": [
+        "I am an avid fan of disaster movies and own over 100 DVD's.",
+        "I am a disaster movie junkie and this one is one of the better ones."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good disaster scenes, predictable storyline.",
+        "Typical plot but somewhat better than most."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "It was boring, I lost interest after the first 30 min.",
+        "I liked the movie, but it was too long."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "This movie Is AWFUL. There is little or no actual disaster footage and the acting is Terrible!",
+        "I wouldn't recommend to anyone. Don't waste your money on this DVD."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I am hooked on this series and can't wait for Season 5 to be released.",
+        "I can't wait for season 7 to come out."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "this is the most beautiful and entertaining live performance by thousands of people with precision action, it'll take your breath away.",
+        "Good disaster scenes, predictable storyline."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Not very good I wouldn't recommend to anyone.",
+        "I am an avid fan of disaster movies and own over 100 DVD's."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for disaster movies, often expressing excitement for upcoming seasons and new releases. They tend to favor straightforward narratives with fast pacing but show low sensitivity to production quality, focusing more on entertainment value."
+}

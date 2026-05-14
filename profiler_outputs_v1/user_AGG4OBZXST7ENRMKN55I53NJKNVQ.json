@@ -1,0 +1,77 @@
+{
+  "user_id": "AGG4OBZXST7ENRMKN55I53NJKNVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, animation, family, mystery",
+      "evidence": [
+        "\"My absolute favorite scooby movie from this time period!\"",
+        "\"It's hard to find a lesbian movie that doesn't straight up go for sex.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great series and ended up getting this just in time for the holiday.\"",
+        "\"This cute comedy shows the hardships of coming out to a big family.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This show is what I need on a weekend night. This girl has the craziest life, and keeps getting in trouble.\"",
+        "\"The second season expanded episodes and increasingly hilarious.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Glad to own it as both physical and digital!\"",
+        "\"I do love many of this person's work however like repo the genetic opera!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love this movie! I do love many of this person's work however like repo the genetic opera!\"",
+        "\"I grew up with this show! Glad to finally have it added to my collection.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"The graphics are amazing and the story is so ripe and full of originality despite it classic vampire plot.\"",
+        "\"Funny classic I watch every year for Thanksgiving.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I love this and now my kid loves this as well!\"",
+        "\"Always been intrigued in the concept of the string of how death worked and this particular movie goes pretty in depth.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and family-oriented content, often enjoying animated series and movies. They appreciate fast-paced narratives with humor and visual appeal, while showing a moderate emotional connection to the stories."
+}

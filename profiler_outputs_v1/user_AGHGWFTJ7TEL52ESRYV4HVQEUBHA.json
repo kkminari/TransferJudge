@@ -1,0 +1,74 @@
+{
+  "user_id": "AGHGWFTJ7TEL52ESRYV4HVQEUBHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, thriller",
+      "evidence": [
+        "\"the story is fascinating\"",
+        "\"British drama is always interesting\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"the stories are well balanced between the characters personal life and the suspense of the crime of the day\"",
+        "\"the story is specifically about an incident where some sculptures from the Louvre were stolen\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"it is pleasant, sometimes funny, and entertaining\"",
+        "\"the production is so neat that is impossible not to keep watching\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the cinematography is splendid\"",
+        "\"the production is so neat that is impossible not to keep watching\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"the cinematography is splendid\"",
+        "\"the sets and cinematography are simply spectacular\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"the best parts of this film take place when they are captive in the room\"",
+        "\"the story is fascinating\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex and engaging dramas, particularly those with strong historical elements and visual appeal. They appreciate high production quality and emotional depth in storytelling, often favoring narratives that balance personal and suspenseful elements."
+}

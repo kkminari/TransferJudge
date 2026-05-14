@@ -1,0 +1,74 @@
+{
+  "user_id": "AE2Y5IEQB7ROLF2OIA3IVKMT7J6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical fiction, romantic comedy, fantasy, adventure",
+      "evidence": [
+        "\"Season six did not disappoint -- all of the usual engrossing drama, joy, and tragedy fans have come to expect.\"",
+        "\"This is a very well-done bit of historical fiction.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plots seem natural and sometimes unpredictable.\"",
+        "\"It's definitely a 'helmet' movie -- long on adventure, intrigue, tasteful combat-violence, though a bit short on romance.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The plot and dialogue of every episode is clever and fast-paced.\"",
+        "\"This movie is a lot of fun if you are a fan of romantic comedy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting and sets are excellent.\"",
+        "\"The sound quality is excellent and the video work professionally done.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"If you're a healthy, emotionally sensitive person, you may find that this even brings a tear to your eye.\"",
+        "\"What a joy! Every bit as entertaining, endearing, and thought-provoking as previous seasons.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This show is really about the interaction of the ensemble of adult women characters and the way they help each other cope with the difficult situation in which they live and work.\"",
+        "\"If you're a healthy, emotionally sensitive person, you may find that this even brings a tear to your eye.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly drama and historical fiction, with a preference for fast-paced narratives that are engaging and emotionally resonant. They value high production quality and appreciate clever dialogue and character-driven stories."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AH2QQKIMSVHTDY7DRCOXMZ3IKRBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Twisted but entertaining\"",
+        "\"disturbing, but a story I think needed telling.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Pointless\"",
+        "\"Script was pathetic, acting even worse, sad since it's such a timeless story\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Tedious at best\"",
+        "\"Worse than a spaghetti western\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent script and performance(s)\"",
+        "\"Amazing story and performances\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Enlightening, very insightful, tragic yet honest\"",
+        "\"disturbing, but a story I think needed telling.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"brought tears\"",
+        "\"I've seen the addiction up close and personal, she nailed it!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a mixed taste in genres, with a notable preference for high-quality production. They tend to favor emotionally resonant stories but have a low tolerance for narrative complexity and pacing, often finding them tedious."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEMFT6HG7CS6ZJWAV6JJ7QWS474A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama",
+      "evidence": [
+        "\"This is an engaging and eye-opening documentary about how America...\"",
+        "\"A fascinating perspective into the world of competitive chess and the life of the enigmatic Bobby Fischer.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The documentary is marred -- quite seriously, in my opinion -- by a delivery that is slow and enervating.\"",
+        "\"The film makes compellingly clear that our government and corporations are consciously choosing to de-prioritize our health...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The documentary is marred -- quite seriously, in my opinion -- by a delivery that is slow and enervating.\"",
+        "\"There is also a lot of repetition, both in the narrative and in the visuals, belying a lack of content.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Brilliant acting, phenomenal music...\"",
+        "\"The quality leaves a bit to be desired (hence the -1 star)...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I am not reviewing the movie, but the Blu-ray DVD...\"",
+        "\"When I buy movies, its because I want to see the special features and commentaries...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"A relaxing, tranquil sound-track and unobtrusive accompanying video makes this a great companion for sleep...\"",
+        "\"The technical execution of the animation is just amazing...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The story is engaging, delightful, and touching.\"",
+        "\"The film is quite funny and engaging most of the time...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and dramas, valuing high production quality and emotional resonance. They tend to favor slower-paced narratives, often critiquing those that lack depth or are overly sensationalized."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AGH3RMDYLGHNJ6VHEFYJEOB5PEJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "biography, drama, historical",
+      "evidence": [
+        "beautiful adaptation of Loretta Lynn's book.",
+        "captures the horror of Ted Bundy without buckets of gore."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Really entertaining version of EB's Big Score against PGandE.",
+        "Great film. Not as good as Fargo, but terrific acting and script."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "charming story with a real lesson.",
+        "story is great."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Actors do a great job.",
+        "Very factual."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual and atmospheric",
+      "evidence": [
+        "Sets are authentic.",
+        "beautifully acted and costumed."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Loved it when it came out and still do.",
+        "this is an excellent adaptation of Tarkington's book."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for biographical and dramatic films, appreciating high production quality and emotional depth. They enjoy slower-paced narratives that are visually appealing and well-acted, though they show little loyalty to specific creators."
+}

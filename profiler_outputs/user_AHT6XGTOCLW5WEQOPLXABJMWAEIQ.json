@@ -1,0 +1,75 @@
+{
+  "user_id": "AHT6XGTOCLW5WEQOPLXABJMWAEIQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "The more I watch them the more they remind me of those old Chinese konfu novels...a lot of similarities."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Too simple! How come no one sued for false arrest yet?",
+        "A bit simple..."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "As usual, the destructions of the villains always seem hurried, since Dr. No days..."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Not a bad story",
+        "Come on, be a bit realistic..."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Love the redhead!!!!",
+        "Can't wait!"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Should be a classroom must watch for sociology studies",
+        "This should be taught in schools..."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Getting to be a bid childish",
+        "Purely for imagination of stories."
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for simple narratives and has mixed feelings about pacing. They seem to appreciate stories that evoke some educational value but do not prioritize high production quality or emotional depth."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AGILWNVM2TBO3FDBIWL2GIBS2UTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary, horror",
+      "evidence": [
+        "\"the background music on the Jackie Robinson piece was constant, annoying and eerie. It belongs in a horror flick, not a documentary.\"",
+        "\"I was intrigued to watch the pilot by the description... and I was with it right up to the last few minutes when I saw her in the chair. Dexter, this is not.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the tone of the series does not evoke empathy for the ongoing need for healing of race relations in America, but rather tends to laud accomplishments and give a false sense of progress.\"",
+        "\"I found it drab and predictable.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I have trouble finishing an episode without getting distracted and having to rewind over and over.\"",
+        "\"fell asleep on it so many times that my rental time lapsed.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent cinematography and sound, very colorful characters, and excellent ending with authentic second line with Preservation Brass.\"",
+        "\"the background music on the Jackie Robinson piece was constant, annoying and eerie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love Glenn Close and I was intrigued to watch the pilot by the description...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Excellent cinematography and sound, very colorful characters, and excellent ending with authentic second line with Preservation Brass.\"",
+        "\"the background music on the Jackie Robinson piece was constant, annoying and eerie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"the tone of the series does not evoke empathy for the ongoing need for healing of race relations in America...\"",
+        "\"I found it drab and predictable.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for drama and documentary genres but has a negative view of narrative complexity and pacing, often finding content slow and predictable. They value production quality but express mixed feelings about emotional engagement, indicating a nuanced but critical approach to their viewing experiences."
+}

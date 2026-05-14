@@ -1,0 +1,77 @@
+{
+  "user_id": "AH6DQM6T4TX4NKMT64MTE6MZULVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "One of Woody's best ever!",
+        "Not Mr. Murray's best work."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Clever, fun, but not Wes Anderson's best.",
+        "A bit slow and heavy-handed."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Superb! Fast, Funny, So informative.",
+        "Fast, Fair, As Advertised!"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I wantred to love this movie. It was OK.",
+        "Not terrible, not great."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "One of Woody's best ever!",
+        "Not Mr. Murray's best work."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "FABULOUS! RIVETING! WATCH THIS!",
+        "Wonderful!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "A stupid waste of time that makes every social group represented seem shallow, vapid, self-centered and mean spirited.",
+        "This series is getting a little tired."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced films with a preference for straightforward narratives. They have mixed feelings about specific genres and creators, but generally prioritize entertainment over production quality."
+}

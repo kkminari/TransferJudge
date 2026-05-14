@@ -1,0 +1,74 @@
+{
+  "user_id": "AGQMR47EEJ242OJ72UU4JMAD7EDQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, vampire, thriller",
+      "evidence": [
+        "\"What a sexy vampire flick!\"",
+        "\"A terrific Dutch horror flick.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Started off interesting but went into familiar territory with dumb a script.\"",
+        "\"DUMB REMAKE!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"One of the best horror sequels ever!\"",
+        "\"SCARY!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I'm an avid scary movie junkie and I can certainly appreciate new and artistic suspense films but this dud was such a let down.\"",
+        "\"Horrible. A true crime against horror.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric scares",
+      "evidence": [
+        "\"What Jessica excels at is the creepy under your skin scare.\"",
+        "\"GREAT 70s scare flick.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"LOVED IT! I hope they keep this series going.\"",
+        "\"A CLASSIC!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror films, particularly those with vampire themes and fast pacing. They appreciate visual scares and emotional engagement but show less concern for narrative complexity and production quality."
+}

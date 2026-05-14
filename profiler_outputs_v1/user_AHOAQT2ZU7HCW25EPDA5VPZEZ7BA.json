@@ -1,0 +1,75 @@
+{
+  "user_id": "AHOAQT2ZU7HCW25EPDA5VPZEZ7BA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, animated",
+      "evidence": [
+        "Wonderful family movie!",
+        "SUCH a great tale."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "great movie",
+        "SUCH a touching movie."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Pretty intense movie. Not terribly scary, just more 'oh crap this could actually happen' type of intense."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The movie played perfectly, the case was pristine.",
+        "Very clear picture, great sound!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Studio Ghibli",
+      "evidence": [
+        "Movie has wonderful animation, but is definitely not the best movie from Studio Ghibli."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "Movie has wonderful animation.",
+        "Very clear picture, great sound!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "So sad, but such a good movie!!",
+        "SUCH a touching movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family and animated movies, often appreciating their emotional depth and visual quality. They enjoy simple narratives with fast pacing and show a notable sensitivity to production quality, indicating a preference for well-crafted films."
+}

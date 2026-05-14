@@ -1,0 +1,77 @@
+{
+  "user_id": "AH5OEL6Q567MHHV5SD3AYCLTWH2A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance",
+      "evidence": [
+        "\"This movie is a great depiction of the destruction caused by politicians, greed, and the culmination of too much power and money.\"",
+        "\"It's funny, enlightening and endearing, simultaneously!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Complicated, multi-faceted, fast-moving drama. I loved it.\"",
+        "\"This show also provides a place of healing for contestants and viewers.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Complicated, multi-faceted, fast-moving drama. I loved it.\"",
+        "\"What a fun romp!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Her performance was nothing less than perfect, as usual.\"",
+        "\"The editing is too tight though.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I most likely will never watch anything else from Tyler Perry again.\"",
+        "\"I will never buy anything of RuPaul's again.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This show is very entertaining, as well as enlightening.\"",
+        "\"It humanizes the concept of DRAG as well as the people involved.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The message was poignant.\"",
+        "\"It took the infection of a rich heterosexual person to get action.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for complex dramas with fast pacing and high production quality. They value emotional resonance in storytelling and have a critical view of certain creators, indicating a nuanced taste in media."
+}

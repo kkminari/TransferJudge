@@ -1,0 +1,77 @@
+{
+  "user_id": "AGTXPY3FGH6I6PCECI4FFG7X6CVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, mystery, romance",
+      "evidence": [
+        "\"Excellent, engaging drama!\"",
+        "\"This is a really well-done mystery, that immerses you in the time-period and story from the start.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "medium",
+      "evidence": [
+        "\"I liked the premise of the movie, and the actors were fine. But the story seemed to drag out a little.\"",
+        "\"I enjoyed this movie more than I expected to... And only at the end, when the surface-level story-line had concluded, did I realize that my whole interpretation of that story was potentially incorrect.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The story seemed to drag out a little.\"",
+        "\"A very enjoyable evening's entertainment!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The actors were great and believable.\"",
+        "\"...the success of the show is not only due to the brilliant writing and production, but to the richness and integrity of the actors who bring it to life.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I can't understand the low reviews some people gave this.\"",
+        "\"I really like Ben Stiller, and he and the other actors were fine...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The music was a treat!\"",
+        "\"...it was a treat to watch a movie that emphasized the story-line first and foremost; I really enjoyed watching the story unfold.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"What a wonderful, uplifting movie!\"",
+        "\"...it leaves you feeling good. Enjoy!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys engaging dramas and mysteries, often appreciating well-developed characters and uplifting stories. They have a mixed preference for pacing and narrative complexity, indicating a balance between straightforward storytelling and deeper themes. Overall, they value emotional resonance and sensory experiences in their viewing choices."
+}

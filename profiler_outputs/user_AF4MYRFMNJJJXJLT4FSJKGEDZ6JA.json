@@ -1,0 +1,77 @@
+{
+  "user_id": "AF4MYRFMNJJJXJLT4FSJKGEDZ6JA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, adventure, drama",
+      "evidence": [
+        "\"this documentary shows some things about being Italian American that becoming lost in our present culture\"",
+        "\"this is a wonderful series, ... probably not for everyone; therefore its low viewing audience.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"good story with good moral values. Any age will like\"",
+        "\"this is a good movie for people about 25 to 40 something, or even older...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"this is a wonderful series, ... probably not for everyone; therefore its low viewing audience.\"",
+        "\"good watching ... not all poor people are good and not all rich people are bad, but it is a good commentary on Life anyway.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"excellent movie,<br />should be required for everyone\"",
+        "\"Do not go through life and feed yourself or your family till you see this.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Ron Wyatt is Legend in my mind.\"",
+        "\"Simca makes Bible archeology fun.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"it teaches great values and can inspire people of all ages .... to be more like our daring heros.\"",
+        "\"this is a wonderful series, ... probably not for everyone; therefore its low viewing audience.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"it teaches great values and can inspire people of all ages .... to be more like our daring heros.\"",
+        "\"If you ever owned an animal and got to find out how much they have in common with us; you will relate very well to the idea that it is possible to even tame a lion; If it wants to be made tame.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys documentaries and stories with moral values, often appreciating slow-paced narratives that evoke strong emotional responses. They show a high sensitivity to production quality and prefer content that inspires and teaches valuable lessons."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AG4RZCD7B23MV4E6POS63XZFIXVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, horror, drama",
+      "evidence": [
+        "\"...I tend to lose interest quickly...unless one has a really good twist to it or dives more into a thriller or mystery kind of a plot...\"",
+        "\"...the film deals in an old mystery and a family curse of sorts...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"...the story was somewhat interesting but again, I think I've heard it before...\"",
+        "\"...the film has some breathtaking action scenes combined with a performance by Denzel Washington...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"...the pacing is a bit slow and character-driven...\"",
+        "\"...the film is meant to be exciting and adventurous...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...the production and filming are overall, exceptional...\"",
+        "\"...the casting is bad, this cast is just great!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"...John Travolta is always accomplished in the role he plays...\"",
+        "\"...Mick Garris took the bull by the horns and along with King...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"...the scenes of an empty New York city are very sombering...\"",
+        "\"...the twisted sci-fi style of virtual lab work that allows you to actually SEE the past/future...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...a true story that has a lot of heart and emotion to it...\"",
+        "\"...the message...shows how dreams do come true even if they seem totally impossible...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys thrillers and horror with a preference for high production quality and emotional storytelling. They appreciate complex narratives but also have mixed feelings about pacing, indicating a balance between action and character development."
+}

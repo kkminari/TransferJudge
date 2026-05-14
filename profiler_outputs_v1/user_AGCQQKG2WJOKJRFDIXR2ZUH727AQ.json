@@ -1,0 +1,77 @@
+{
+  "user_id": "AGCQQKG2WJOKJRFDIXR2ZUH727AQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "dislike for poorly acted dramas, preference for nostalgic content",
+      "evidence": [
+        "\"The children were awesome but as adults the choice of the actors stinks.\"",
+        "\"I miss the old movies and actors who could act.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This is the most dribbly slop opera. I mean damn just get on with it.\"",
+        "\"Totally not impressed too dribbly. Nothing happens.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I mean damn just get on with it.\"",
+        "\"the season started with them fighting the saviors and the last episode... ended where they started.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the acting was pitiful. Just lame and a great waste of my time.\"",
+        "\"I absolutely hated the way this was filmed.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Don't like affleck at all. Not an actor. Just gross.\"",
+        "\"I had to quit watching this. I read and enjoyed the books very much.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"The photography is lovely. The information is lousy.\"",
+        "\"I absolutely hated the way this was filmed.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Did not like this a big waste of time the acting was extremely bad.\"",
+        "\"This is so not even worth spending ten seconds on.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong aversion to poorly executed dramas and a preference for nostalgic content. They value production quality highly and prefer straightforward narratives, often expressing frustration with slow pacing and lack of engaging storytelling."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHOU662362IWFRFDYKNNA5JMXOOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family",
+      "evidence": [
+        "Highly recommend this to others experiencing this horrible illness",
+        "EXCELLENT MOVIE FOR YOUNG AND OLD AT HEART ABOUT LOVE AND FRIENDSHIP"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I just loved this movie and my grandson has watched it more than 50 times",
+        "Excellent movie"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Slow start resulting in my not wanting to watch further",
+        "But you must be patient. It took a minute for me to get it"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Well put together and in good taste",
+        "Eddie Murphy... was magnificent"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Spike Lee, Eddie Murphy",
+      "evidence": [
+        "after watching the entire movie and understanding Spike Lee",
+        "I have never seen Eddie Murphy in a role such as Mr. Church"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "heart warming, loyalty, devotion and pride all in one",
+        "Excellent Movie. But you must be patient"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Highly recommend this to others experiencing this horrible illness",
+        "I TRULY ENJOYED THIS A BIT MORE THAN EXPECTED"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for family and drama genres, appreciating films that are well-crafted and emotionally resonant. They tend to favor simple narratives and exhibit a high sensitivity to production quality, while also demonstrating some loyalty to notable creators like Spike Lee and Eddie Murphy."
+}

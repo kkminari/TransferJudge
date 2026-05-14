@@ -1,0 +1,77 @@
+{
+  "user_id": "AHQODEQ6YCP2N667L4U42ECYKFGA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical",
+      "evidence": [
+        "\"I love the Endeavour series. They are great stories, without all of the explosions, blood and guts of US series.\"",
+        "\"I really enjoyed the series. It was the history we all learned in school, but it was great to review it as a series.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It was just OK., I thought the acting was pretty well done.\"",
+        "\"Just a simple love story.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It is a series I can watch and enjoy, without cars blowing up and everyone jumping into bed with everyone.\"",
+        "\"Just a simple love story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting was very good. It really held our attention.\"",
+        "\"Great performances by Ball and Honda.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I am a great fan of Morgan Freeman, and he certainly was great in this movie.\"",
+        "\"I am a fan of Kevin Spacey, so of course I enjoyed his role.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The writers of this program, make the people in the series so like people we all know.\"",
+        "\"I thought the acting was good and the scenery was beautiful.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It really showed how women who were forced to give up their babies never really forget them.\"",
+        "\"I never had the experience, but know a mothers love is forever.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and historical narratives, favoring slower-paced stories with strong character development. They appreciate high-quality acting and emotional depth, often resonating with themes of love and personal connection."
+}

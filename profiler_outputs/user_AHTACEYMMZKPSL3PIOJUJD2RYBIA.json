@@ -1,0 +1,77 @@
+{
+  "user_id": "AHTACEYMMZKPSL3PIOJUJD2RYBIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, drama, quirky, comedy",
+      "evidence": [
+        "\"I loved this series! The second time I watched it with my daughter it not only held up, but I was even more pleased with it.\"",
+        "\"A very weird, very cool movie that keeps presenting unexpected delights and thoughtful moments.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Everything opens up like a peony revealing layers on layers of lush petals, and I'm enchanted.\"",
+        "\"It's uniquely its own thing. I think it's best to come into this movie without any expectations.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It's not a laugh-out-loud sort of movie, at least not for me.\"",
+        "\"I love how the characters grow and change instead of remaining exactly the same season after season, but slowly enough that it feels real.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is great, the story is fantastic, love the setting ... I've rewatched it many times and I always find it able to draw me into the dystopian world the author created.\"",
+        "\"It's visually stunning, and worth watching.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"This is one of three favorite Miyazaki movies, and I believe I have all of them, as well as a few that he was involved in as a producer.\"",
+        "\"Highly recommended for fans of fantasy and fans of the book.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Some of the music in this piece is so indescribably beautiful I have to watch the movie over and over again ... and I can't bear to skip to the musical parts because the story in between is so compelling.\"",
+        "\"Enchanting story with elements of half-forgotten pieces of magic I'd been told by my central-European parents at bedtime.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It affects me deeply, stirring up feelings about watching Jacques Cousteau documentaries as a young girl.\"",
+        "\"A timeless love story that makes your heart bleed and rejoice at the end at the same time.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy and quirky dramas, often appreciating complex narratives and character development. They value high production quality and emotional resonance in their viewing experiences, frequently enjoying works that evoke deep feelings and have a unique artistic style."
+}

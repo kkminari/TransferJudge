@@ -1,0 +1,77 @@
+{
+  "user_id": "AFI3LJ7LULVOLKEFOFQR6YK4QHUA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, horror, documentary",
+      "evidence": [
+        "\"Death of Some Salesman is a masterpiece!\"",
+        "\"This documentary, is far and away the best.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Coven has a sense of fable or fairy tale mixed in with the expected gore, creating a fascinating switch from shock and repulsion to innocence and sweetness.\"",
+        "\"Nothing is a greater gift than to see a truly gifted actor put their soul Into the script and a group of writers who can deliver the same gift to the actors with consistency.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Foote embraces the damaged and the frail, weaving their lives along with those of the main characters, to portray a quiet tale of compassion, love and strength of character.\"",
+        "\"This is the type of movie that gives heterosexuals a bad name.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The visual cacophony of Myrtle's wardrobe is as captivating, as her personality.\"",
+        "\"The camera work is fascinating. Considered a great example of film noir, Caged keeps getting better over the years.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Ryan Murphy, Horton Foote",
+      "evidence": [
+        "\"Ryan Murphy who has a bit of a reputation for losing steam with continuing sagas just keeps getting better with AHS.\"",
+        "\"Horton Foote who is one of America's greatest writers paints a wonderfully accurate portrait of the slow pace of Texas life.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric",
+      "evidence": [
+        "\"The haunting crash sequence illustrates Peter Weir's brilliant touch.\"",
+        "\"The cast could not be better.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I remember crying over this film as a kid, and sitting absolutely unmoved during James Cameron's feelingless epic.\"",
+        "\"This film stays with you forever.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and horror genres, appreciating complex narratives and high production quality. They exhibit loyalty to notable creators like Ryan Murphy and Horton Foote, and their reviews often reflect a deep emotional engagement with the content."
+}

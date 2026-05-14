@@ -1,0 +1,77 @@
+{
+  "user_id": "AHEWDOL6PJYNZGP4SZGC3RTDCPLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, gay",
+      "evidence": [
+        "Loved this sci-fi movie. Will add to my collection.",
+        "Always looking for gay movies with good stories and believable actors."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Amazing timeless story of good vs evil. Simple do the right thing.",
+        "Great story! A must see!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Great sequel! We know the villain from the Sherlock Holmes BBC series.",
+        "Loved the movie, heart warming storie."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The acting was perfect.",
+        "Excellent movie!!!! From start to finish!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Bond fan, loved the new twists.",
+        "Love his movies."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Interesting querks and personalities. They work every well together and believable.",
+        "Wished for a happier ending, or maybe a sequel to continue the next half of their lives."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Loved the movie, heart warming storie.",
+        "It keeps getting better and better!!!!!!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and drama genres, particularly enjoying stories with emotional depth and high production quality. They appreciate fast-paced narratives and are drawn to engaging characters, often seeking out films with good storytelling and emotional resonance."
+}

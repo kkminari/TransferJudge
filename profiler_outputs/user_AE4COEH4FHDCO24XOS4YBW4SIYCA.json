@@ -1,0 +1,77 @@
+{
+  "user_id": "AE4COEH4FHDCO24XOS4YBW4SIYCA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, western, romance",
+      "evidence": [
+        "I love just about all of John Wayne's movies.",
+        "One of my all time favorite chick flicks"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "great movie. Just like I remembered when I saw it as a kid.",
+        "good movie"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "great movie. use them in my childrens church class",
+        "I use them in my childrens church classes and they love them"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "great movie",
+        "good movie"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "John Wayne",
+      "evidence": [
+        "I love just about all of John Wayne's movies.",
+        "Great westerns both of them"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "great movie. use them in my childrens church class",
+        "I really loved this movie. Great tool to use on becoming a better spouse and appreciating them more."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I really loved this movie. Great tool to use on becoming a better spouse and appreciating them more.",
+        "wonderful classic"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-oriented and classic films, particularly enjoying works by John Wayne. They appreciate simple narratives with emotional resonance, often using movies as tools for personal growth and family engagement."
+}

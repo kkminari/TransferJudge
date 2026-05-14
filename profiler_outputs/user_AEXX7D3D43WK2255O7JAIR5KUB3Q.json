@@ -1,0 +1,74 @@
+{
+  "user_id": "AEXX7D3D43WK2255O7JAIR5KUB3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "chick flick, girl movie",
+      "evidence": [
+        "\"Great girl movie\"",
+        "\"Super Great movie!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I didn't finish watching after the first few minutes you get the idea. Not worth watching\"",
+        "\"The first was much better. Story line jumped all over the place\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Immediately addicted, couldn't get enough\"",
+        "\"Great now I want to watch all the seasons\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Just alright certainly not worth buying or renting. Get it for a dollar from Red Box\"",
+        "\"Cute but not one I would watch again or recommend\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Love Bill Murray\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Super Great movie!! Everyone in America should be required to watch. Certainly changed my feelings toward the Mexican people.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Super Great movie!! Everyone in America should be required to watch. Certainly changed my feelings toward the Mexican people.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys chick flicks and girl movies, showing a preference for fast-paced narratives that are simple in structure. They express a moderate emotional engagement with the content, indicating a desire for entertainment that resonates on a personal level."
+}

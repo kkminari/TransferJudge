@@ -1,0 +1,77 @@
+{
+  "user_id": "AFXTPZF23NVN4SCRRMWIG5QYIP6Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, feel-good",
+      "evidence": [
+        "Always loved the original Pete's Dragon. This was very cute.",
+        "This is such an awesome series. So glad I got this next season."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Always loved the original Pete's Dragon. This was very cute.",
+        "So glad I found this movie...it is super."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "This is such an awesome series. So glad I got this next season.",
+        "Haven't watched this yet, but this is one of my all time favorites."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Haven't watched this yet, but this is one of my all time favorites.",
+        "So glad I found this movie...it is super."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Always loved the original Pete's Dragon.",
+        "Love this 3 movie collection...so glad I bought it."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "This is such an awesome series. So glad I got this next season.",
+        "So awesome...you should watch just one."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "For mom...loves it.",
+        "Bought for my mom...very happy!"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly and feel-good movies, often enjoying simple narratives that evoke emotional resonance, particularly in relation to their mother. They value the overall experience more than production quality and prefer slower-paced storytelling."
+}

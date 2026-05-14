@@ -1,0 +1,77 @@
+{
+  "user_id": "AGEDE77ZHKH4TGZ476XI5LEGKGFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, horror, comedy, drama",
+      "evidence": [
+        "\"If you like gore and splatter, served up Japanese style, then this is it.\"",
+        "\"This is a coming-of-age story about a young man who is at a crossroads in his life.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"This movie's best parts are toward the end, when the story takes a very twisted turn.\"",
+        "\"Taking a leaf from Luis Bunuel's Un Chien Andalou, this dreamlike, surreal, nightmarish film takes you on a journey that you will not soon forget.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"There's plenty of action here, some of it quite extreme.\"",
+        "\"If you're in the mood for blood and guts, then this is for you.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"All the performances are first-rate. DeNiro does a fine job directing this.\"",
+        "\"Some scenes were so graphic that Lenzi had to hire Thai prostitutes for them, since no actress was willing to take part in them.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Wes Craven, best known for Nightmare on Elm Street, directed this excellent revenge tale.\"",
+        "\"Irwin Allen, who produced Lost in Space, Voyage to the Bottom of the Sea, Land of the Giants, and his movie The Towering Inferno, also gave us this timeless series about time travel.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"This is a hard film to get through, but illustrates what World War II on the Eastern Front was really like for the common people.\"",
+        "\"Be sure to stock up on hard liquor before watching.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"This is a very sad and bizarre film with one of the strangest endings you will ever see.\"",
+        "\"It's about street life in the Bronx in the early 1960s.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action-packed films with elements of horror and comedy, often appreciating fast pacing and sensory experiences. They show a moderate sensitivity to production quality and have a mixed preference for narrative complexity, indicating a taste for both straightforward and more intricate storytelling."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AEDVJMVGLO35Y467MAAT4QWGFFBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama",
+      "evidence": [
+        "\"Funny family movie. Many laughs\"",
+        "\"Such a good movie. Sad. But they did a good job at telling her story.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The movie jumps around and I did not see a point.\"",
+        "\"So boring that I could not even watch the entire movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"So boring that I could not even watch the entire movie.\"",
+        "\"The movie is missing so much! Read the book to get the entire story of what this man went through and the amazing thing he did!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Very low budget...\"",
+        "\"Bad acting, good plot.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "none",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"The book was MUCH better. So much missing.\"",
+        "\"Not worth your time. Wish I could have gotten a refund.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Such a good movie. Sad. But they did a good job at telling her story.\"",
+        "\"Awww this is such a good and sad movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for family and drama genres, appreciating emotional storytelling but often finds movies lacking in narrative complexity and pacing. They express a low sensitivity to production quality and do not demonstrate loyalty to specific creators."
+}

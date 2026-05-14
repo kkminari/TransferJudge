@@ -1,0 +1,73 @@
+{
+  "user_id": "AFQEPP7TZINBXHOM7Q27CZ5MRBSQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, educational",
+      "evidence": [
+        "\"Very enlightening.\"",
+        "\"Excellent; very educational.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Excellent.\"",
+        "\"Okay.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The DVD enlightens with the truth concerning the Civil Rights Struggle...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent Quality; Simply amazing!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"heart warming and inspirational\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"shows the power of God to change.\"",
+        "\"heart warming and inspirational\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for educational and documentary content, valuing high production quality and emotional resonance. They appreciate simple narratives and a slower pacing, indicating a taste for thoughtful and impactful storytelling."
+}

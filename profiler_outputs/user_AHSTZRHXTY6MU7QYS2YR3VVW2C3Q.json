@@ -1,0 +1,70 @@
+{
+  "user_id": "AHSTZRHXTY6MU7QYS2YR3VVW2C3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "undead, comedy",
+      "evidence": [
+        "The best undead movie I've ever seen",
+        "I love this movie it was very entertaining and funny."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "This movie had nothing to do with the first one and that is what I was expecting."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "I enjoyed this movie and so far have watched it at least 4 more times."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "The movie was worth watching",
+        "It was good"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "none",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I love this movie it was very entertaining and funny."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I love this movie it was very entertaining and funny."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys undead and comedy films, often finding them entertaining and worth rewatching. They prefer fast-paced narratives with a simple structure and show a high emotional engagement with the content."
+}

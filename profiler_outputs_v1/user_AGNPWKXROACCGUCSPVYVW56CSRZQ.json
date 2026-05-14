@@ -1,0 +1,77 @@
+{
+  "user_id": "AGNPWKXROACCGUCSPVYVW56CSRZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "classic, comedy, drama",
+      "evidence": [
+        "\"I love 1950's Tony Curtis movies.......This one is terrific.\"",
+        "\"This is one of my all time favorite movies....I saw this movie when I was a kid and fell in love with it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Just a fun 'Zorro' type movie..I love 1950's Universal films...great color, great actors and good stories.\"",
+        "\"It is one of those 'bad movies we love'.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I especially loved Frank Faylen as Dobie's father.....brilliant.\"",
+        "\"I remember watching it when it first appeared on tv. The entire cast was fantastic !!!!!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The cast, the production, the stories and the music are the very best.\"",
+        "\"great underwater scenes....\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Tony Curtis, Judy Holliday, Rita Hayworth",
+      "evidence": [
+        "\"I have all of her movies.\"",
+        "\"If she's in it ....I love it !!!!!!!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, nostalgic atmosphere",
+      "evidence": [
+        "\"great color, great actors and good stories.\"",
+        "\"I will admit this film is a lot campier than I remembered.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Can't get enough of it. Highly recommended.\"",
+        "\"I have been waiting for decades for this movie to be released on any type of home video...Just an all out fun movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic films, particularly those featuring actors like Tony Curtis and Rita Hayworth. They enjoy simple narratives with fast pacing and high production quality, often evoking nostalgia and emotional resonance."
+}

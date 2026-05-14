@@ -1,0 +1,77 @@
+{
+  "user_id": "AHLJQSHVT3YNLTURIQ4CO7PAE6ZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animation, family, comedy",
+      "evidence": [
+        "\"Looney Toons fans, this series is a great find.\"",
+        "\"Bewitched is one of the top half hours on TV - now or then.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A half hour of this is a prescription for laughs - that inner jogging.\"",
+        "\"The stories were interesting, a mite predictable, but interesting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Half hour trips to you're not sure where, not sure if you'll get back or if you'll want to.\"",
+        "\"Enjoy this series of Looney Tunes offerings. You'll be pleased.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"This was up to my expectations of Batman - very high.\"",
+        "\"The only disappointment I have with the fourth season is that it was the last.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Looney Tunes, Batman",
+      "evidence": [
+        "\"Looney Toons fans, this series is a great find.\"",
+        "\"This was up to my expectations of Batman - very high.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual humor, nostalgia",
+      "evidence": [
+        "\"Treat your children to REAL cartoons. They'll love them and so will you.\"",
+        "\"A marvelous beginning to the journey.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Perfect gift for the young ones. Great for a trip down memory lane.\"",
+        "\"TV the way it used to be - 100%.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for animated and family-friendly content, particularly enjoying classic series like Looney Tunes and Batman. They appreciate simple narratives with fast pacing and have a high emotional resonance with nostalgic themes."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGOLMOHVYGMXKNQJOT3IOMVIQDZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, clean",
+      "evidence": [
+        "\"This is a great family movie, clean, and not at all inappropriate.\"",
+        "\"Funny without being raunchy. Pretty clean humor.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The premise of the story is great and fun to watch.\"",
+        "\"Just a sweet movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Just about the funniest movie I have seen in a long, long time.\"",
+        "\"Fun movie. Very campy, not the greatest acting, but fun nonetheless.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"The acting is terrible, (laughable, really) but still managed to watch all the way through.\"",
+        "\"The plot was funny and the acting was just ok.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Fluffy",
+      "evidence": [
+        "\"Fluffy is my favorite comedian.\"",
+        "\"Love William Shatner. Can't believe he's still acting at his age.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual humor, family-friendly atmosphere",
+      "evidence": [
+        "\"Enjoyable to watch the expressions on his face and his impressions.\"",
+        "\"What a beautiful movie. The acting is pure and the scenery is magnificent.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie brought me comfort, laughter, and compassion.\"",
+        "\"You can't help but laugh, and cry.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for clean, family-friendly comedies that evoke laughter and emotional resonance. They appreciate simple narratives and fast pacing, while showing some loyalty to specific comedians. Production quality is less important to them as long as the content is entertaining."
+}

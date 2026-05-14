@@ -1,0 +1,88 @@
+{
+  "user_id": "AF2ZFX7LQZTDH7UPH3RQGEW3627Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, military, mystery",
+      "evidence": [
+        "\"Best action-military movie I've seen.\"",
+        "\"MUST HAVE!!! If you like mysteries, GREAT PHOTOGRAPHY and EDITING...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I don't know where to begin or is it even worth wasting my time. Absurd, terrible, disconnected...\"",
+        "\"Too many stupid decisions led the plot...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Too many stupid decisions led the plot...\"",
+        "\"Horrible video and audio track editing by todays standards...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Outstanding picture quality.\"",
+        "\"Horrible video and audio track editing by todays standards.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Werner Herzog",
+      "evidence": [
+        "\"Werner Herzog movies are always interesting...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual quality, editing",
+      "evidence": [
+        "\"GREAT PHOTOGRAPHY and EDITING...\"",
+        "\"Outstanding picture quality.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Outstanding tribute to fallen not to be forgotten. God bless them.\"",
+        "\"This is really an amazing story of survival.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "disliked_genres",
+      "value": "poorly edited content",
+      "evidence": [
+        "\"Horrible video and audio track editing by todays standards.\"",
+        "\"Part 3 sucks... the direction was awful...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user shows a strong preference for military and documentary genres, valuing high production quality and visual elements. They express disappointment in poorly executed narratives and editing, indicating a desire for well-crafted storytelling that resonates emotionally."
+}

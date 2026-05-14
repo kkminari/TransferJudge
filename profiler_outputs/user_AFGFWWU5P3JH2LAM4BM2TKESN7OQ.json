@@ -1,0 +1,76 @@
+{
+  "user_id": "AFGFWWU5P3JH2LAM4BM2TKESN7OQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama",
+      "evidence": [
+        "\"Fairly decent sci-fi show. a few twists in the story line have made this program interesting.\"",
+        "\"Nice continuation of the Inspector Morse series.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Somewhat over-acted.. Stereotype characters.\"",
+        "\"A little on the weird side, but entertaining.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Mildly entertaining, but it is not a scripted drama, but a 'documentary' type of show.\"",
+        "\"Promising story, was let down by the overall production.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Very well done production. Beautifully photographed. Great story lines. Quality all around.\"",
+        "\"The British know how to put on a production. First rate.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Always have been a fan of Titus Welliver since his appearances on NYPD Blue and Deadwood.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Very well done production. Always have been a fan of Titus Welliver since his appearances on NYPD Blue and Deadwood.\"",
+        "\"Very well done production. As always, British shows just have a classy look and feel to them.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Glad I wasn't living then....... Really enjoyed Simon Woods portrayal of the older Octavian.\"",
+        "\"Marvelous show. Enjoying every minute of it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys sci-fi and drama genres, with a strong preference for high production quality and emotional resonance in their viewing experiences. They have mixed feelings about narrative complexity and pacing, indicating a nuanced taste in storytelling."
+}

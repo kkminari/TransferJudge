@@ -1,0 +1,77 @@
+{
+  "user_id": "AFGINQVXC7TUJKETVZOMC4JKOU7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, mystery, biography, action, war",
+      "evidence": [
+        "Good Acting, Weak Plot. Stallone as an old fighter is excellent and woth watching.",
+        "Great acting by Travolta in this movie thriller, with a surprise twist ending."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "Fast moving tv newsroom drama, lots of plots at one time.",
+        "This is an exciting, complex drama with lots of surprises."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "An interesting, if slow, story adapted from a stage drama of the same name.",
+        "Great, gritty NYPD drama with fine performances. Very entertaining & suspenseful."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Excellent performances by Redford and Hoffman and entire cast.",
+        "Acting is top-notch. Gives a realistic portrayal of early founding fathers."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Great acting by Travolta in this movie thriller.",
+        "My husband particularly liked it."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Excellent,moving portrayal of struggles & challenges of WWII paratroopers.",
+        "A very charming movie about an itinerant woman & her child who are non-conformists."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Excellent,moving portrayal of struggles & challenges of WWII paratroopers.",
+        "How the 'good' people in small French town after WWII ostracize, but ultimately come to accept them is a tale with a moral meaning deeper than this charming story appears on the surface."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex dramas and mysteries with strong acting and emotional depth. They appreciate high production quality and have a mixed preference for pacing, indicating they can enjoy both fast-paced and slower narratives depending on execution."
+}

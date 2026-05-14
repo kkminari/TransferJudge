@@ -1,0 +1,77 @@
+{
+  "user_id": "AHSAEPPJUODL45QTRPM45RM74ZTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, biographical",
+      "evidence": [
+        "\"Excellent piece of work by Spielberg. One of the best depictions of the ETO operation that I have viewed.\"",
+        "\"A great adaptation of the Steinbeck novel. Well worth the time to involve yourself in something that is far from the superficiality of much of today's films.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"It requires serious concentration which is great.\"",
+        "\"The connectivity is absent from many sections of the movie. Just read the books!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It is fast paced but nothing seems to be developing.\"",
+        "\"Another intriguing fast paced season with the cast at CTU.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great acting. Streep and Hanks are far better than those who won oscars.\"",
+        "\"I loved these comments and was drawn back in time. Band of Brothers and Pacific are first rate, well done with excellent camera work.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for Spielberg",
+      "evidence": [
+        "\"Excellent piece of work by Spielberg.\"",
+        "\"Band of Brothers and Pacific are first rate, well done with excellent camera work.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The film does a great job of depicting the harshness of the environment.\"",
+        "\"A good portrayal of mental aspects of war; very sobering.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is impossible to view Band of Brothers without forming a variety of emotional attachments.\"",
+        "\"The demise of Isis was poignant and understandable to those of us who love our dogs.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and historical narratives, particularly those with high production quality and emotional depth. They appreciate complex storytelling and are loyal to creators like Spielberg, indicating a taste for well-crafted, impactful content."
+}

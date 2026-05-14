@@ -1,0 +1,77 @@
+{
+  "user_id": "AGBFKHQRJO3ETZFVISGXPBPCG4WA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, drama",
+      "evidence": [
+        "\"I've been a fan of romance movies forever, especially films in which two characters from different backgrounds find each other and fall in love.\"",
+        "\"This movie gives you hope, shows you that even if you're life is miserable, that even if you are a bum magnet; if you don't give up hope a millionaire in a Lotus might be just around the corner.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This movie isn't just about making cars, it's about learning to make the necessary changes in our attitudes to get along and succeed.\"",
+        "\"This movie shows what you can become if you believe in yourself, not just believe in what you see in the mirror.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This movie is good for families and more and I highly recommend it to anyone who thinks their family is dysfunctional; which is practically every family on the planet.\"",
+        "\"This movie took my breath away... I watched it a few more times just to understand it more.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting by Michael, Marisa Tomei, Robert Duval, Randy Quaid and Glen Glose is just exceptional, and Ron Howards directing is on the mark as always.\"",
+        "\"This has to be one of my all time favorite television series and I'm so thrilled that the first two seasons are available on DVD.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Garry Marshall, Michael Keaton",
+      "evidence": [
+        "\"As a fan of Garry Marshall for many years, I see every one of his films for two reasons.\"",
+        "\"I'm already a bit biased given Michael Keaton is my all time favorite actor.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "emotional, nostalgic",
+      "evidence": [
+        "\"This movie shows what you can become if you believe in yourself, not just believe in what you see in the mirror.\"",
+        "\"If I can love a movie at fifteen and continue to love it at twenty-five then it's a classic to me.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie gives you hope, shows you that even if you're life is miserable, that even if you are a bum magnet; if you don't give up hope a millionaire in a Lotus might be just around the corner.\"",
+        "\"Your friends may lie, the truth can come from strangers...life is long, it is not made to measure.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for romance and drama genres, often valuing emotional depth and character development. They show high sensitivity to production quality and have a notable loyalty to specific creators like Garry Marshall and Michael Keaton, indicating a taste for heartfelt narratives that resonate on a personal level."
+}

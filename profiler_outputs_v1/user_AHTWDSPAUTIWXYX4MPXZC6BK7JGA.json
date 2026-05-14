@@ -1,0 +1,89 @@
+{
+  "user_id": "AHTWDSPAUTIWXYX4MPXZC6BK7JGA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, comedy",
+      "evidence": [
+        "\"the love stories...all seemed to lack depth\"",
+        "\"the film is amusing, but the true genius in it is the comedic but honest study of the human condition\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the story was so choppy and irrelevant from scene to scene and nothing makes any sense\"",
+        "\"the highly mysterious beginning had absolutely nothing to do with the actual film\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"the beginning of the film moves a little slower than you might like\"",
+        "\"you do lose a lot of interest by the end of the film\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I found myself more eager to hit the fast forward button\"",
+        "\"the film glosses over this with one line from the even more ruthless character of the doctor\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I only enjoyed the few references to Kuch Kuch Hota Hai\"",
+        "\"the acting is the best, the dancing is the height of Indian classical form\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"the dresses and colors, etc are breathtaking\"",
+        "\"the film's true gems are merely in its terribly startling horror shots\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I never cared for any character in the film\"",
+        "\"you won't find yourself cheering for anyone...you'll only feel her suffocating desperation\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "character_development",
+      "value": "high",
+      "evidence": [
+        "\"the characters had so much depth and all were highly interesting as people\"",
+        "\"the film dealt with life - real life - the way it is for many women\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user shows a preference for drama and romance but often finds narratives lacking depth and coherence. They appreciate visual spectacle but are less concerned with production quality and emotional engagement, indicating a taste for light entertainment over complex storytelling."
+}

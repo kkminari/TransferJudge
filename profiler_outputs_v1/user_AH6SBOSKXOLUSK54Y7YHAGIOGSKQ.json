@@ -1,0 +1,77 @@
+{
+  "user_id": "AH6SBOSKXOLUSK54Y7YHAGIOGSKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, war, music, comedy",
+      "evidence": [
+        "\"I love WWll movies!!\"",
+        "\"This movie shows who truly is man's best friend!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Formulaic and predictable, but still fun..\"",
+        "\"A beautiful, touching story about the love and loyalty of an amazing dog to a kind and loving man.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"A beautiful, touching story about the love and loyalty of an amazing dog to a kind and loving man.\"",
+        "\"It was all tastefully done, the seedy factor suggested and I think viewers are smart enough to get the point.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The finest actors, their story and the reality of this war are presented and clearly depicted like no other Vietnam movie ever made.\"",
+        "\"Denzel never disappoints and this story makes you feel good after watching it..\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Doris Day, David Bowie, Denzel Washington",
+      "evidence": [
+        "\"I have been a Queen fan since the 70’s when they emerged.\"",
+        "\"Denzel never disappoints and this story makes you feel good after watching it..\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "emotional, nostalgic",
+      "evidence": [
+        "\"Freddie Mercury was a phenomenal front man, a Rock Icon with a shockingly exquisite voice who was taken from us much too soon.\"",
+        "\"This movie shows who truly is man's best friend!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A beautiful, touching story about the love and loyalty of an amazing dog to a kind and loving man.\"",
+        "\"It was all tastefully done, the seedy factor suggested and I think viewers are smart enough to get the point.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama, romance, and war films, often appreciating emotional and nostalgic storytelling. They value high production quality and have a fondness for specific actors and musicians, particularly Doris Day and David Bowie, indicating a deep emotional connection to the content they consume."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGUXKMC6DWBJGLJAAL65IGL55QNQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, superhero, drama",
+      "evidence": [
+        "\"I WANNA SEE SOME ACTION!!!\"",
+        "\"This show could be so much better. It has its good episodes but in only half of all 4 seasons!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's simple...I WANNA SEE SOME ACTION!!!\"",
+        "\"The season has its slow episodes mind you but as they begin to introduce all these super-powered guys and character development gets a goin' it really moves from 3-star to 5-star quality...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The only think kiddie about this show is the pencil work. Definately get it. Don't wait!!\"",
+        "\"The action is non-stop from beginning to end. It's straight out X-men, juggernaut, Brotherhood of Mutants, police, and everybody else BRAWWLL!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great art. Some don't like the revamped art in the last volume but c'mon get over it. The stories are still great and the action gets amped up even more.\"",
+        "\"I must say that the ending to the movie is one of the greatest I have ever seen in a movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I know, because I have all of them.\"",
+        "\"If you haven't seen it. Then You need to. If you have, you need to get this DVD.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The cinematic style for the show has gotten better but theres not enough ACTION to go with it.\"",
+        "\"Talk about ACTION anyone!?\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is what Batman was meant to be. Who would have thought Batman could be ressurected after the dreadfull Batman and Robin?\"",
+        "\"If you haven't seen it. Then You need to. If you have, you need to get this DVD.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action-packed superhero narratives, often expressing frustration with slow pacing and lack of action in certain shows. They appreciate high production quality and emotional depth, particularly in well-crafted stories, while showing less loyalty to specific creators."
+}

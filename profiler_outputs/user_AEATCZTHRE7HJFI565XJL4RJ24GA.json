@@ -1,0 +1,77 @@
+{
+  "user_id": "AEATCZTHRE7HJFI565XJL4RJ24GA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "cooking shows, fantasy",
+      "evidence": [
+        "Enjoyed watching cooking shows for ideas to use in my own home.",
+        "I enjoyed watching the episodes in this season again."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good show.",
+        "I really enjoyed this series!"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Great season with talented chefs showing you how they work under pressure.",
+        "Enjoyed seeing these chefs compete."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I like watching cooking shows for ideas to use in my own home.",
+        "I will be buying and watching the following seasons."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "I bought the seasons of Grimm because when the internet goes out I have something entertaining to enjoy.",
+        "I look forward to watching next seasons Iron Chef."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I am enjoying this series.",
+        "I enjoyed watching the creativity of the chefs."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Great Show!",
+        "I am looking forward to seeing more episodes."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys simple, fast-paced shows, particularly in the cooking genre, and has a moderate loyalty to specific series like 'Grimm' and 'Iron Chef'. They appreciate entertainment value but show less concern for production quality and emotional depth."
+}

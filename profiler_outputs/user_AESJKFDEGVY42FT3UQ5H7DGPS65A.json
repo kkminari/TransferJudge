@@ -1,0 +1,77 @@
+{
+  "user_id": "AESJKFDEGVY42FT3UQ5H7DGPS65A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, adventure, drama",
+      "evidence": [
+        "Great movie lots of action and spins in the plot. A great adventure comic movie we really enjoyed a ton.",
+        "I love it and I hate it... it's just that good. Excellent movie but really gruesome."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It's not a horror flick but it is gruesome in many parts. I get the meaning throughout the film, but it took me to about the last third of the movie to see what the director was trying to accomplish.",
+        "I thought this movie was so so.... the scenery was gorgeous and the special effects but I just couldn't get with the story."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Great movie lots of action and spins in the plot. A great adventure comic movie we really enjoyed a ton.",
+        "Cute funny movie about friendship, babies and crazyness... I really enjoyed it I love Jennifer Anniston - I thought it was a fun movie."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I thought this movie was so so.... the scenery was gorgeous and the special effects but I just couldn't get with the story.",
+        "It's not a horror flick but it is gruesome in many parts."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I love Tyler Perry and was hoping the script would be meatier for him.",
+        "I love Jennifer Anniston - I thought it was a fun movie."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "the scenery was gorgeous and the special effects",
+        "the plot and the movie are excellent.. we really loved it"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "I thought this movie was so so.... the scenery was gorgeous and the special effects but I just couldn't get with the story.",
+        "NOT MY KIND OF SHOW"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and adventure films, often appreciating fast-paced storytelling. They show a mixed response to narrative complexity and production quality, indicating a preference for entertainment over deep emotional engagement."
+}

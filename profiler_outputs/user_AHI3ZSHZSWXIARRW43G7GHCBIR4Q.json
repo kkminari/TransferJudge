@@ -1,0 +1,77 @@
+{
+  "user_id": "AHI3ZSHZSWXIARRW43G7GHCBIR4Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, drama, sci-fi",
+      "evidence": [
+        "Great thriller, and I never even guessed the bad guy. Well worth your time to watch.",
+        "A good continuation of the first season, but it needs more than creepy critters and scared earthlings."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "I appreciate that they are all gray and none black and white.",
+        "It's definitely good TV and certainly something to think about when we live in the early stages of climate change."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Plot is a bit slow, but the two leads are good actors and fun to watch.",
+        "The plot was slow and dull."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Stellar acting by an ensemble cast.",
+        "Fantastic story, characters, and acting."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Elmore Leonard",
+      "evidence": [
+        "Best TV by best American author: Elmore Leonard.",
+        "Words do very little justice. Watch it."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "It's what good TV should be.",
+        "The characters are not very nuanced right now -- they're either all bad or all good."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "A true gem of a movie. Small, but good things come in small packages.",
+        "I'm glad to see such strong women."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for thrillers and dramas, particularly those with complex narratives and high production quality. They show loyalty to Elmore Leonard's work and appreciate emotional depth in storytelling."
+}

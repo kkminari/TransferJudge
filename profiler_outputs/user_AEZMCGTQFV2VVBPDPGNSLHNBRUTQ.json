@@ -1,0 +1,76 @@
+{
+  "user_id": "AEZMCGTQFV2VVBPDPGNSLHNBRUTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family, historical",
+      "evidence": [
+        "\"I love it. Watch it every year. It always reminds me that Christmas is not about stuff. But love and forgiveness.\"",
+        "\"Wow, this really gives you an idea of what our fathers did for our country.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"One of the most boring movies that I have seen lately.\"",
+        "\"This movie was really spellbinding from start to finish.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I had to watch it in portions. It did get somewhat better near the end.\"",
+        "\"It took me about two days to watch it but I was determined to finish it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Acting was not great.\"",
+        "\"Not only was it foul and obscene but just down right senseless.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I just can't get enough of Downton Abbey.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This movie ropes you in to the storyline. Very refreshing.\"",
+        "\"Loved seeing the old singers, really brought back lots of interesting.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It always reminds me that Christmas is not about stuff. But love and forgiveness.\"",
+        "\"This movie really helped make things clearer for me.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family and historical dramas, often valuing emotional resonance over production quality. They prefer slower-paced narratives and have mixed feelings about narrative complexity, indicating a preference for straightforward storytelling."
+}

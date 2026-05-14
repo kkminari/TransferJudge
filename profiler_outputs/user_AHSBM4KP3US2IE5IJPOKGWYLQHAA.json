@@ -1,0 +1,74 @@
+{
+  "user_id": "AHSBM4KP3US2IE5IJPOKGWYLQHAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, political drama",
+      "evidence": [
+        "\"A very good and timely film, well acted and skillfully presented...\"",
+        "\"Consider yourself fortunate if you find this excellent political drama.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"A very good story, with unexpected twists and realistic ending.\"",
+        "\"A complex issue very well and thoughtfully presented.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"jerkily and predictably told.\"",
+        "\"Despite its length, holds interest like magnet.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellently acted and relevant to today's problem.\"",
+        "\"Outstanding in all respects.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"A must-see to understand the consequences of the demise of Glass-Steagal...\"",
+        "\"It warms your heart...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"brought tears\"",
+        "\"A timeless gem worthy of watching.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for historical and political dramas, appreciating complex narratives with unexpected twists. They value high production quality and emotional resonance, often seeking content that evokes deep feelings and thoughtful engagement."
+}

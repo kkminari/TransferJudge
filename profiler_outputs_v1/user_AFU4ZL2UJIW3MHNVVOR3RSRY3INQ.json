@@ -1,0 +1,76 @@
+{
+  "user_id": "AFU4ZL2UJIW3MHNVVOR3RSRY3INQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, foreign film",
+      "evidence": [
+        "\"I have not laughed so hard or so much in years. Love this dude.\"",
+        "\"A fantastic movie that most people will sadly hate. With Miranda July, you either appreciate her sensibility or you walk away.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Some people will find parts of the film slow-moving (it captures certain aspects of the family's ski trip with an almost grueling verisimilitude)...\"",
+        "\"Based solely on the wonderful lunacy of the storytelling and film-making technique in these movies...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"...but I am a little surprised and disappointed by the failure to include digital copies.\"",
+        "\"...but the two leads are so droll (and freaking hysterical) that my partner and I tore through these episodes in no time.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The movies look and sound fantastic in 4K...\"",
+        "\"...I have to knock off one star for video quality that is really problematic in places.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"...fans of Japanese film, Quentin Tarantino (especially Kill Bill, Vol. 1 &2)...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"...the use of music (especially The Talking Heads) is masterful.\"",
+        "\"...the decadent visual trappings (and ubiquitous nudity)...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A really sweet and touching film...\"",
+        "\"...this examination of masculine and feminine stereotypes...was one of the best films released last year.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and drama, often appreciating films that evoke laughter and emotional depth. They value sensory experiences, particularly in music and visuals, while showing a mixed response to narrative complexity and pacing."
+}

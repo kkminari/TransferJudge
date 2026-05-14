@@ -1,0 +1,77 @@
+{
+  "user_id": "AHITGU6KD4ERTLX2Q3VCG5EQE3NQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama",
+      "evidence": [
+        "Love Dr. shows",
+        "Great series. Love Dr. shows."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good movie",
+        "Great movie"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Great series. Love Dr. shows",
+        "Great movie!"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Good movie",
+        "Great movie"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Love Dr. shows",
+        "Great series. Love Dr. shows."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "Great series. Love Dr. shows",
+        "Great movie!"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Good movie",
+        "Great movie"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for drama, particularly medical dramas, and enjoys straightforward storytelling. They rate movies and series highly but do not emphasize production quality or emotional depth in their reviews."
+}

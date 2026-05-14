@@ -1,0 +1,77 @@
+{
+  "user_id": "AFXL7K6634YUU5DSDN3LXVJJ254A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "psychological thriller, drama",
+      "evidence": [
+        "\"Wish this had continued. Strong characters.\"",
+        "\"This season has it all -- serial killer, Nazi scientist who likes to hurt people, strong bitchy women you love to hate, aliens.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"psychologically complex, intellectually challenging\"",
+        "\"the cases are less intelligent people, more average and thus more boring.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Writing! Acting! Pacing perfect!\"",
+        "\"The ending of this season is spectacular.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Well acted, but bad writing. A bore.\"",
+        "\"The music. The art. The camera work. The dialogue and script.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Benedict Cumberbatch, Nolan",
+      "evidence": [
+        "\"All this plus Benedict Cumberbatch and Tywin Lanister as villain.\"",
+        "\"Worth waiting for the Nolan boys don't disappoint.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Poetic and evocative film, with images that haunt as only Japanese film makers seem capable of producing.\"",
+        "\"the film is worth seeing for the smiles.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"One of the best films ever made. Dazzling.\"",
+        "\"I hope it is not a series ender, but it could be and if so one of the best ever done on t.v.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for psychological thrillers and dramas with complex narratives and fast pacing. They value high production quality and show loyalty to notable creators like Benedict Cumberbatch and the Nolan brothers, while also seeking emotionally resonant experiences in their viewing choices."
+}

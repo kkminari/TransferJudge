@@ -1,0 +1,77 @@
+{
+  "user_id": "AENS4LISOWGEGUFEKJZLCBLQ3FIQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "western, historical, drama",
+      "evidence": [
+        "\"Not a typical western and I loved it!\"",
+        "\"I love stories about the Civil War and especially if based on true events as is this one.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"It was one of those movies you don't want to miss a second and I never would have guessed the ending.\"",
+        "\"I got bored with the storyline and cut it off!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Slow West is slooooowwwwww.\"",
+        "\"I was in awe of the constant action in this movie...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The director got everything right - even the townspeople, sheriff, swamp, music, etc.\"",
+        "\"Superb writing and acting.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Guy Pearce, Charlize Theron",
+      "evidence": [
+        "\"Guy Pearce was fantastic in this movie!\"",
+        "\"I love all of her movies because she takes the character and develops it into herself.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and atmospheric",
+      "evidence": [
+        "\"The cars, clothing, town, and farmhouses were beautiful.\"",
+        "\"It has everything you can expect or imagine that could go on in a small southern town.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I could feel the character she was portraying and never even saw Nicole Kidman in the character.\"",
+        "\"You could feel her pain.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys well-crafted films, particularly in the western and historical drama genres, with a strong appreciation for quality acting and production. They have a mixed response to narrative complexity and pacing, indicating a preference for engaging stories but can be critical of slow or monotonous plots."
+}

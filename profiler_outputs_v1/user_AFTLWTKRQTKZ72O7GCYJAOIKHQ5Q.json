@@ -1,0 +1,77 @@
+{
+  "user_id": "AFTLWTKRQTKZ72O7GCYJAOIKHQ5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, family, romance",
+      "evidence": [
+        "I enjoy end-time movies.",
+        "I thought this was an enjoyable and fun futuristic sci fi series."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The story was easy to follow with a happy ending.",
+        "The scenes are just right and one gets the point without thinking too much."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I enjoyed the old-fashioned straightforward story of romance and music.",
+        "It was thought-provoking and had some great action scenes."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I actually re-watched it recently and enjoyed it much more than when I was younger.",
+        "Wish the producers would have put out a better dvd product."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Gerry Anderson, Annie Chen",
+      "evidence": [
+        "I am a die-hard fan of SuperMarionation.",
+        "I love Annie Chen and this series is definitely one of my favorites."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, family-friendly atmosphere",
+      "evidence": [
+        "I love the 'puppetry' of SuperMarionation.",
+        "Great family fun with a bit of spy adventure!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It was thought-provoking and had some great action scenes.",
+        "Loved the fact that the other man included his parents in the mix."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly sci-fi and romance genres, often enjoying simple and straightforward narratives. They show loyalty to creators like Gerry Anderson and Annie Chen, appreciating visual spectacle and emotional depth in their viewing experiences."
+}

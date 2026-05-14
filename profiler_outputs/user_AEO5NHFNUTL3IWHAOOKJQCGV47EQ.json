@@ -1,0 +1,77 @@
+{
+  "user_id": "AEO5NHFNUTL3IWHAOOKJQCGV47EQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, thriller, mockumentary",
+      "evidence": [
+        "\"As is almost always the case, the book is better than the movie.\"",
+        "\"As a thriller, the film is good, not great.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The plot constantly leaves you guessing.\"",
+        "\"The movie is trying too hard to be cute and clever, but it is just annoying.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The movie becomes a little slow moving and tiresome at times.\"",
+        "\"Way too long, boring, and predictable.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Kodi Smit-McPhee is excellent in his role.\"",
+        "\"This movie should have been nominated for some awards.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I watched this film because I loved Midsommar.\"",
+        "\"Less violence than most Tarantino films.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This movie is extremely creepy and will stick with you.\"",
+        "\"My palms were sweating, while watching it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The last ten, or so, pages of the book are very emotional and moving.\"",
+        "\"This is the most intense movie I've ever seen.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama and thriller genres, with a preference for emotional and intense narratives. They tend to favor slower pacing and are sensitive to production quality, although they show low brand loyalty to specific creators."
+}

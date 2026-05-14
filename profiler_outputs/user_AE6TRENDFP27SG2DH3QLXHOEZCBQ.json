@@ -1,0 +1,74 @@
+{
+  "user_id": "AE6TRENDFP27SG2DH3QLXHOEZCBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, sci-fi",
+      "evidence": [
+        "Jason Statham is great for action. There is not that much action.",
+        "From good Sci-fi to too much sex... the series was good and now it's not."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "the show is very good but can be a bit confusing...",
+        "exciting show with great plot twits."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "the plot may have some sidetracks that may be unrelated, but this show is certainly worth the time!",
+        "the series was good and now it's not."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The actors, staging and story-line were excellent!",
+        "A well done show with a great story line..."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "suspense, drama, action and humor with a successive plot.",
+        "The series is great. It's suspense filled, funny and fully entertaining."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "A very compelling and riveting show! We really enjoy it!",
+        "Awesome series all around!"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and drama genres, with a particular appreciation for high production quality. They have mixed feelings about narrative complexity and pacing, indicating a preference for engaging but not overly convoluted storytelling."
+}

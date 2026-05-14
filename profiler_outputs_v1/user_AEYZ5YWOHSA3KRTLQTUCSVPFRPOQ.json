@@ -1,0 +1,77 @@
+{
+  "user_id": "AEYZ5YWOHSA3KRTLQTUCSVPFRPOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, western",
+      "evidence": [
+        "\"Funny!!!!\"",
+        "\"I love westerns and enjoy Jeff Bridges immensely.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Simply a fun flick to watch!! Characters are great!\"",
+        "\"It was great!! A couple of cheesy parts made it a four star only...but whoa what a four star!!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Laughed the whole way through!!\"",
+        "\"Just a good time!!!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I love both Jim Belushi and Louis Gossett Jr. and they didn't disappoint.\"",
+        "\"Denzel Washington's awesome ability to to make his characters so believable is a joy!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I love westerns and enjoy Jeff Bridges immensely.\"",
+        "\"I love De Niro! He can put class into anything!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "humorous, feel-good",
+      "evidence": [
+        "\"Humorous, cozy, and 'feel-good'!!\"",
+        "\"The humor was so quirky it was Great!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This story touches the heart...I will watch it again.\"",
+        "\"I never laughed so hard in my life!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies and westerns, enjoying fast-paced, humorous narratives that evoke emotional responses. They appreciate character-driven stories but are less concerned with production quality, focusing instead on entertainment value."
+}

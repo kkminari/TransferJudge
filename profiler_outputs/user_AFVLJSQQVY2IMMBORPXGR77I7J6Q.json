@@ -1,0 +1,77 @@
+{
+  "user_id": "AFVLJSQQVY2IMMBORPXGR77I7J6Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "western, comedy",
+      "evidence": [
+        "\"One the best westerns ever made...\"",
+        "\"We all need some just dumb comedy diversion once in awhile...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"tired old plot, pretty crappy acting to finish it off\"",
+        "\"the contrived slap stick pratfalls ala Keystone Cops and bad attempts at humor...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"HAS to be not just the worst Bond and Bond movie but one of the worst produced films I have ever seen... Waaaaay too long...\"",
+        "\"couldn't finish it...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Audio is pathetic with the phoney voice overs...\"",
+        "\"the worst era in all the Bond movies... makeup mistakes, lousy scenes, etc.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific directors or actors mentioned.",
+        "Mixed reviews on franchises like Bond."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"cheap made for tv loser of those years...\"",
+        "\"the contrived slap stick pratfalls...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"couldn't finish it...\"",
+        "\"tired old plot, pretty crappy acting to finish it off\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for westerns and light comedies but has a strong aversion to poorly executed narratives and production quality. They tend to favor straightforward storytelling and have low emotional engagement with the content."
+}

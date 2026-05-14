@@ -1,0 +1,74 @@
+{
+  "user_id": "AG3YITCA643QNQZLRDJMHZJRLK7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, comedy, fantasy",
+      "evidence": [
+        "\"A great Christmas comedy for the whole family to enjoy.\"",
+        "\"It's a fun, family-friendly, fantasy adventure tale that never gets old.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot was too predictable and kind of boring, in my opinion.\"",
+        "\"The parts that were supposed to be funny, I didn't find funny at all.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This movie was so boring and slowly paced that I did not finish watching it.\"",
+        "\"A little slow and boring from time to time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The animation is beautiful and sometimes even lifelike.\"",
+        "\"The cast, the script, and the acting were all great.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"It was very entertaining and visually stunning.\"",
+        "\"The animation was quite beautiful and unique.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Some of the scenes toward the ending even got me choked up.\"",
+        "\"Movies that can move you are the best kind.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly comedies and fantasy films, often appreciating their visual quality and emotional impact. However, they tend to prefer simpler narratives and have a low tolerance for slow pacing, indicating a desire for engaging and entertaining content."
+}

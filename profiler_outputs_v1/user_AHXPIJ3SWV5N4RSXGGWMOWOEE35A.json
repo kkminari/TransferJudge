@@ -1,0 +1,76 @@
+{
+  "user_id": "AHXPIJ3SWV5N4RSXGGWMOWOEE35A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Loved the show it had a varying pace, but mostly slow.",
+        "Just not all that good of a show theme."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It was a fun movie for various reasons.",
+        "Great product as expected."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Loved the show it had a varying pace, but mostly slow.",
+        "The season got off to a rocky start and is getting better."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I will not be buying more.",
+        "Just good stuff."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I like TMNJ maybe it cause my kids grew up with them."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "It was well written and acted.",
+        "We loved the Namibia (?) episodes."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Just not all that good of a show theme.",
+        "It was a fun movie for various reasons."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys shows and movies with a slow pacing and simple narratives, often appreciating well-written content. However, they express mixed feelings about specific themes and show quality, indicating a moderate level of engagement with the material."
+}

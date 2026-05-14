@@ -1,0 +1,74 @@
+{
+  "user_id": "AFDFBWPV65U4NLGMLMHHXSGW6PIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family",
+      "evidence": [
+        "\"Killer humor. Cast is awesome\"",
+        "\"One of the funniest movies I've ever seen.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It is proof that a movie doesn't have to be R rated to be good!\"",
+        "\"A great movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Killer humor. Cast is awesome\"",
+        "\"One of the funniest movies I've ever seen.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"What a talented actor. What a great production, pictures, scenes, story line.\"",
+        "\"Peace Lovely Peace no loud music narration or anything but beautifully made tours.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"What a great production, pictures, scenes, story line.\"",
+        "\"Peace Lovely Peace no loud music narration or anything but beautifully made tours.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie is gonna leave a mark!!\"",
+        "\"Goonies Forever!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted comedies with a strong emphasis on humor and production quality. They appreciate films that evoke emotional responses and are visually engaging, while showing a preference for straightforward narratives and fast pacing."
+}

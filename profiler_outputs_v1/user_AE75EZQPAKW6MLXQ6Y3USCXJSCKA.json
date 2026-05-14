@@ -1,0 +1,76 @@
+{
+  "user_id": "AE75EZQPAKW6MLXQ6Y3USCXJSCKA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, horror, drama",
+      "evidence": [
+        "\"This is such a wild story... a very dark movie and will make you cringe at times\"",
+        "\"LAME! Horror films just keep getting worse and worse.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It was your typical action movie but it was pretty good.\"",
+        "\"This movie was good but a little slow at some points.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It was slower than I had expected but is definitely worth watching.\"",
+        "\"This movie was good but a little slow at some points.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting, the story line and the plot twist kept you on the edge of your seat.\"",
+        "\"I was pleasantly surprised by this movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Not a huge fan of Kristen Stewart or Jesse Eisenberg but this was one of their better movies.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"This was a really good movie. I loved the story line and highly recommend watching this.\"",
+        "\"Great story turned in to a great movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is such a wild story... it really makes you question our judicial law enforcement and judicial system.\"",
+        "\"Creepy movie but very good. Watch it!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys thrillers and horror films, often appreciating strong narratives and production quality. They have mixed feelings about pacing and brand loyalty, but generally seek emotional and sensory engagement in their viewing experiences."
+}

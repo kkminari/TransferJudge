@@ -1,0 +1,77 @@
+{
+  "user_id": "AEKNDTRRAZD46MAZUC5Z6VYOEZNQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, horror",
+      "evidence": [
+        "Another Lovecraft made movie. Real scary.",
+        "Love Rodan movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I liked the movie.",
+        "Loved the movie."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "It takes a while before we see a 'Creature'.",
+        "you really don't see the Monster till the end."
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I liked the movie.",
+        "My wife loved it."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Michael Rooker, Brian Steele",
+      "evidence": [
+        "Michael Rooker is good.",
+        "Brian Steele, 'Creature Boy' and one of the best if not the best creature suit actor."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Real scary.",
+        "scary movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Love this movie. saw it when I was young and still like it.",
+        "I followed the 'Making of on 'You Tube' and seeing how the 'Alien' was created, I have a big respect for this particular actor."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and horror genres, particularly enjoying films with creature features. They appreciate emotional resonance and have a fondness for specific actors, while showing a tendency towards simpler narratives and slower pacing."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AEX5GMBFF5XCIRECHJ2WZEBB6JYA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "nature, forensic, light entertainment, supernatural, documentary",
+      "evidence": [
+        "\"I enjoy an episode of SpongeBob when I want light entertainment.\"",
+        "\"If you love nature and are concerned about saving species, I would absolutely watch this.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Some of it is obviously contrived, playing on heart-strings rather than being entirely factual.\"",
+        "\"I like the leaps and turns the show takes.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Some of the episodes drag a bit, but all in all I think the series is excellent.\"",
+        "\"It's a half-hour program, so it's easy to sneak one in when one doesn't have an hour.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The animation leaves a bit to be desired and some of the episodes were a bit 'run on'.\"",
+        "\"Audio and video were both clear in this particular series.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It gives one a good feeling amidst all the bad news we hear.\"",
+        "\"I like a show with a bit of strange that stretches the incredulity.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I learned a lot and saw some amazing things on here.\"",
+        "\"It's interesting to consider and I learn things each time I watch a show.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light entertainment, particularly nature and forensic shows, and appreciates content that is informative and thought-provoking. They have mixed feelings about narrative complexity and pacing, indicating a preference for engaging yet straightforward storytelling."
+}

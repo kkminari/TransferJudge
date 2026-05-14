@@ -1,0 +1,73 @@
+{
+  "user_id": "AHV5GPRYHXEKNIBXQ2M4AV7XYAGA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical fiction",
+      "evidence": [
+        "'This is a great show for people who love period pieces and for all others who just like drama.'",
+        "'Was a great historical fiction to watch!!!'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "'I felt like it had lots of layers and viewpoints... Family politics added to the complexity of show as well....'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "'I liked it, but it seemed clear that they were ready for the series to be over.'"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "'Great acting!!!!'",
+        "'For anyone who has liked previous series by Sorkin, this is very good....'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Aaron Sorkin",
+      "evidence": [
+        "'For anyone who has liked previous series by Sorkin, this is very good....'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "immersive storytelling",
+      "evidence": [
+        "'I felt like it had lots of layers and viewpoints... Family politics added to the complexity of show as well....'"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'I really enjoyed this show.'",
+        "'This is one of the best of the masterpiece series-- it is completely addictive and I hope it continues for several more seasons.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and historical fiction, appreciating complex narratives and high production quality. They show loyalty to creators like Aaron Sorkin and value immersive storytelling that evokes strong emotional responses."
+}

@@ -1,0 +1,75 @@
+{
+  "user_id": "AE5AAPZSBHTEUUALRRZIV2X6LWIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, family",
+      "evidence": [
+        "\"It's a really good action movie.\"",
+        "\"I like this spin off of a Cinderella story a lot.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's great!\"",
+        "\"I like this movie and the author of the original book.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It's a really good action movie.\"",
+        "\"I like this spin off of a Cinderella story a lot.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I love this movie. It was delivered in great condition and I love having it in my movie collection.\"",
+        "\"It's really good.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"This is the only movie in the Bourne series that I really love and would watch over and over again. Because it has jeremy renner in it.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"I like this spin off of a Cinderella story a lot. Would highly recommend to anyone.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"It's great!\"",
+        "\"I remember watching this as a little kid and loved it.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and family-oriented movies, often appreciating their simplicity and fast pacing. They show some nostalgia for films they loved as children, but their focus seems to be more on entertainment than on production quality or deep emotional engagement."
+}

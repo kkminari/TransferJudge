@@ -1,0 +1,77 @@
+{
+  "user_id": "AGWKMICLNA2AA3AMZTWBFD5OT32Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, biographical, fantasy",
+      "evidence": [
+        "\"I found the story had many levels of engagement which made the movie move.\"",
+        "\"This is a great fantasy movie with an engaging and suspenseful story, superior graphics, great characters/acting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The story has its' twists and turns, but again, it is the acting that makes this movie about a doomed and bittersweet affair as memorable...\"",
+        "\"The story was interesting and somewhat mirrored the other recent movie...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The movie's pace was as slow as Cheney's heart rate was as his organ was failing.\"",
+        "\"I found it hard to leave it and watched it all.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The special effects were flawless and actually surprised me several times with their cleverness.\"",
+        "\"The acting is flawless by both Andrew Garfield and Claire Foy as they transform from carefree young lovers...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I like Matt Damon and although he is a very good actor, I never forget I'm watching Damon as he is fun to watch.\"",
+        "\"I chose to use the Pakistani word for potato in their language known as Urdu...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The special effects are fabulous as well.\"",
+        "\"The scenery and clothing were added fun.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The intensity was totally realistic and so engrossing it is a little exhausting while an inspiring story of survival and the human spirit.\"",
+        "\"I could watch both Fiennes and Moore read the phone directory and remain transfixed.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex narratives with strong emotional resonance, particularly in drama and fantasy genres. They appreciate high production quality and are sensitive to pacing, showing mixed feelings about slower films. Overall, they favor engaging stories with rich character development and strong performances."
+}

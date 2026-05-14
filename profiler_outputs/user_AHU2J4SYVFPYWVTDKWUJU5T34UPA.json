@@ -1,0 +1,76 @@
+{
+  "user_id": "AHU2J4SYVFPYWVTDKWUJU5T34UPA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "Christian",
+      "evidence": [
+        "this Christian movie was inspiring and full of hope.",
+        "Loved the movie and Corben Bensen in this Christian movie"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great movie",
+        "great movie about love, forgiveness,and mecy."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "great movie about love, forgiveness,and mecy."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great movie",
+        "Great collection to share with my friend who loves Jesse Sone movies"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Jesse Sone, Corben Bensen",
+      "evidence": [
+        "Loved the movie and Corben Bensen in this Christian movie",
+        "Great collection to share with my friend who loves Jesse Sone movies"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "very inspiring we need to not only try to live by the Word but realize the Holy Spirit that lives in us is because of God's grace and tender mercy",
+        "this Christian movie was inspiring and full of hope."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "this Christian movie was inspiring and full of hope.",
+        "very inspiring we need to not only try to live by the Word but realize the Holy Spirit that lives in us is because of God's grace and tender mercy"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for Christian-themed movies, often finding them inspiring and emotionally resonant. They appreciate simple narratives and show some loyalty to specific creators within the genre."
+}

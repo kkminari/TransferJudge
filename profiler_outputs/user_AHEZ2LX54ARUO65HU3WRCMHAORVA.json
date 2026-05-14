@@ -1,0 +1,77 @@
+{
+  "user_id": "AHEZ2LX54ARUO65HU3WRCMHAORVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "classic, war, horror",
+      "evidence": [
+        "Great film. Lots of underlying meaning of life and its social contradictions. Set during World War 2.",
+        "A new classic horror film."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It entertains and it has a story line.",
+        "It is entertaining if you are a Jason fan."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Great entertainment for the price.",
+        "It is a entertaining movie. Worth a watch."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "If you are a Jason fan it is a horror flick to pass the time.",
+        "It was entertaining if you are a Jason fan."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Ok, this is a film for the Tom Cruise fan or not.",
+        "Again, it is a Part VII. So what?"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Great film. A classic with some of the great actors of our times.",
+        "Great movie sets, uniforms, and all around feel of the Third Reich."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "I'm sorry, but it was awfully painful to hang on during the whole film.",
+        "It is a entertaining movie. Worth a watch."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys classic films, particularly in the war and horror genres, but shows a preference for straightforward narratives and fast pacing. They seem to prioritize entertainment value over production quality and do not exhibit strong loyalty to specific creators."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFRJW2VVEFG7Q2JCYPVX745CP7TA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, thriller",
+      "evidence": [
+        "\"I love horror/thriller type fare, and 'Lovely Molly' is one to own.\"",
+        "\"Overall, i enjoyed it quite a bit.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The story has many layers to it.\"",
+        "\"It tells its own story, while borrowing elements from 'The Entity' and 'Paranormal Activity.'\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The story builds with an artsy slow burn, but it is very effective and the pace is never dull or lacking.\"",
+        "\"Those complaining that it is 'slow moving,' need to step away from their 'Saw' DVD library.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"It is wonderfully shot (the cinematography is exceptional) and wonderfully acted.\"",
+        "\"The director & actors got all of the details right...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific mentions of favorite directors or actors.",
+        "General enjoyment of various horror films without specific loyalty."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This film exudes a sort of beautiful, depressing melancholia...\"",
+        "\"The creepy scenes are incredibly effective...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A good film can really inject you, emotionally, into what's on screen.\"",
+        "\"You care about Molly, and you care about the people that care about her.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror and thriller genres, appreciating complex narratives and high production quality. They enjoy films that evoke emotional resonance and have a vivid sensory experience, though they show mixed feelings towards pacing, indicating a tolerance for both slow and fast narratives."
+}

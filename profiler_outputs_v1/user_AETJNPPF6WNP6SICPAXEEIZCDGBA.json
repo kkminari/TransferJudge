@@ -1,0 +1,76 @@
+{
+  "user_id": "AETJNPPF6WNP6SICPAXEEIZCDGBA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, military, historical",
+      "evidence": [
+        "\"Quirky comedy guaranteed to make you chuckle.\"",
+        "\"Great period drama with good acting and a few twists and turns to keep your interest.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"At times, the movie got a little slow as the decision-making was explored.\"",
+        "\"Interesting historical perspective but it left many questions unanswered.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"At times, the movie got a little slow as the decision-making was explored.\"",
+        "\"Light hearted and entertaining but rather predictable!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is excellent and the period aspects are spot on and very authentic.\"",
+        "\"Great performances by Naomi Watts and Ed Norton.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"A must see for any James Bond fan!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Great scenes of China and insight into the world of the 1920s.\"",
+        "\"Classic Woody Allen with lots of twists and turns and quirky humor.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"A good happy ending that you wanted from the opening was ultimately delivered.\"",
+        "\"It could happen is now one of our favorite phrases.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of comedy and drama, with a preference for high-quality production and engaging performances. They appreciate narrative complexity but have mixed feelings about pacing, indicating a balance between light-hearted entertainment and deeper storytelling."
+}

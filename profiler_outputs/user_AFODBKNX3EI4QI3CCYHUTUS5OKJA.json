@@ -1,0 +1,77 @@
+{
+  "user_id": "AFODBKNX3EI4QI3CCYHUTUS5OKJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, classic, comedy",
+      "evidence": [
+        "Great Si-Fi, watched one episode after the next. continued to hold my interest.",
+        "Classic themes told through Sci-Fi."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great old series, well written, very enjoyable.",
+        "Great feel good movie, very funny."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Keeps you in suspense.",
+        "Great series...missed the original run. Sorry there isn't more."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great movie, very intellectual. Couldn't stop thinking about it after I viewed it.",
+        "Great old series..still funny today."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Jerry Lewis, Glen Ford",
+      "evidence": [
+        "I'm a Jerry Lewis fan for decades.",
+        "Glen Ford was great."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Great memories, great score, great movie.",
+        "Frightening omen of possible things to come."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Saw this movie as a teenager in a drive-in and was profoundly effected by it.",
+        "Great movie... 'lotsa tears' .. must see."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and classic films, often enjoying narratives that are simple and fast-paced. They exhibit high emotional resonance with the content, particularly valuing memorable experiences and notable performances from specific actors."
+}

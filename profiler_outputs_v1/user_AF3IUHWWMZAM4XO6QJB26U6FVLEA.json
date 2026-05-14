@@ -1,0 +1,73 @@
+{
+  "user_id": "AF3IUHWWMZAM4XO6QJB26U6FVLEA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "I enjoyed the movie.",
+        "Excellent series. I love watching it."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "the plot was better than expected."
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "I didn’t realize this was an older movie that I had seen before but it was so good I watched it again."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Very bad quality",
+        "Pictures are not clear"
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Will Smith acting was excellent as expected."
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "Pictures are not clear"
+      ],
+      "confidence": 0.3,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "A Emotional Though Provoking Movie",
+        "I love the characters."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong sensitivity to production quality, often expressing dissatisfaction with clarity and quality. They appreciate emotional and character-driven narratives, though their genre preferences remain unclear."
+}

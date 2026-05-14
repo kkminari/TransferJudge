@@ -1,0 +1,77 @@
+{
+  "user_id": "AFVFD5QT4HZTEAVVEQRNKQE5KK5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "anime, comic book adaptations, sci-fi, war films",
+      "evidence": [
+        "\"Incredibly good anime, but it is violent.\"",
+        "\"Big Star Trek fan from the beginning, and I was surprised by and love this new series!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Clever story and good production.\"",
+        "\"Clever story, great animation.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This was hilarious, and the special effects were first class.\"",
+        "\"Great movie, deals well with faith and belief.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Clever story and good production.\"",
+        "\"Great product at a good price, fast shipping, thank you!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Star Trek, Gal Gadot",
+      "evidence": [
+        "\"Big Star Trek fan from the beginning, and I was surprised by and love this new series!\"",
+        "\"Gal Gadot is perfect, can't wait for the next one!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, animation quality",
+      "evidence": [
+        "\"Clever story, great animation.\"",
+        "\"This was hilarious, and the special effects were first class.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Great movie, deals well with faith and belief.\"",
+        "\"One of my favorite films of all time, very real and about as good as a war film gets!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for anime and comic book adaptations, appreciating clever storytelling and high production quality. They enjoy fast-paced narratives with visual spectacle and have a notable loyalty to franchises like Star Trek and actors like Gal Gadot."
+}

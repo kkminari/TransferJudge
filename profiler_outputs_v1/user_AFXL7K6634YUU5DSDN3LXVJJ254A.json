@@ -1,0 +1,77 @@
+{
+  "user_id": "AFXL7K6634YUU5DSDN3LXVJJ254A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "psychological, drama, horror",
+      "evidence": [
+        "\"psychologically complex, intellectually challenging\"",
+        "\"has rich characters, good acting and all the horrorshow horror you need\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"psychologically complex, intellectually challenging\"",
+        "\"the writing is not magnificent, but solid\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"pacing perfect!\"",
+        "\"not as good as Seasons 1 or 3, but there is storyline about the therapist that is needed for continuity\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the music. The art. The camera work. The dialogue and script.\"",
+        "\"Well acted, but bad writing. A bore.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Benedict Cumberbatch, David Lynch",
+      "evidence": [
+        "\"all things Cumberbatch\"",
+        "\"I love both this and Inland Empire\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory experience",
+      "evidence": [
+        "\"dazzling\"",
+        "\"poetic and evocative film, with images that haunt\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"brought tears\"",
+        "\"the very best people\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for psychological and complex narratives, often appreciating films with rich characters and high production quality. They show a notable loyalty to specific creators like Benedict Cumberbatch and David Lynch, and their reviews indicate a high sensitivity to emotional resonance in storytelling."
+}

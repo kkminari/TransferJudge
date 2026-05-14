@@ -1,0 +1,77 @@
+{
+  "user_id": "AH5WT4CP5OXVLGL67LXAWVMIXRCQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, thriller",
+      "evidence": [
+        "\"I am an avid follower of Harry Bosch.\"",
+        "\"Intriguing. Gripping. Fantastic storyline.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The attitude portrayed is splendid. Like the twist and turn of the case solving method.\"",
+        "\"Twists and turns ... just when you thought you knew the outcome..well do not expect what you expect...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This show is exciting and addictive. I just love it!\"",
+        "\"Plots twists and turns make it irresistible...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The characters are excellently portrayed and cast wonderfully.\"",
+        "\"...a show that really has fine acting, interesting storylines...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"I am an avid follower of Harry Bosch.\"",
+        "\"Cannot wait until Series 4\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I laughed and cried realizing that everything really does happen for a reason.\"",
+        "\"...a warm hearted touching story about overcoming obstacles and fear...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This took care of my tears and heart for the week.\"",
+        "\"I laughed and cried realizing that everything really does happen for a reason.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and thriller genres, enjoying complex narratives with fast pacing. They value high production quality and show loyalty to specific series, often seeking emotional resonance in their viewing experiences."
+}

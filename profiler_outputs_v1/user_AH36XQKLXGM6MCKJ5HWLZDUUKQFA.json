@@ -1,0 +1,74 @@
+{
+  "user_id": "AH36XQKLXGM6MCKJ5HWLZDUUKQFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Love this",
+        "One of my favs"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Love this",
+        "It’s ok"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "The movie was not worth buying as I could not get all the way through this movie at all.",
+        "Love this"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Love this",
+        "It’s ok"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Love Tim and Don"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "ONE OF MY ALL TIME FAVORITE MOVIES NOW II CAN WATCH IT ALL THE TIME MORNING NOON AND NIGHT WOO HOO"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "ONE OF MY ALL TIME FAVORITE MOVIES NOW II CAN WATCH IT ALL THE TIME MORNING NOON AND NIGHT WOO HOO"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user expresses a generally positive sentiment towards movies, often using phrases like 'Love this' and 'One of my all time favorite movies.' However, there are mixed feelings about specific films, indicating a lack of strong preferences in genre or narrative complexity."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGZX4HU7623HLKXWGP5QN7XWWVDQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama, music",
+      "evidence": [
+        "\"The Jazz Singer Restored 1927... The Drama/Story is of a Young Jewish Male Singer...\"",
+        "\"Bob Dylon was a Great Artist and His Music still Lives On.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The Powerful Film Arrived in excellent shape... Very powerful.\"",
+        "\"The film was filmed well I enjoyed the Long shots and Close ups.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The trip goes from south America to Antarctica... Just viewed VOYAGE TO THE EDGE OF THE WORLD.\"",
+        "\"This sounds And will Feel Great...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The film was filmed well I enjoyed the Long shots and Close ups.\"",
+        "\"Great Job, Just viewed VOYAGE TO THE EDGE OF THE WORLD, The trip goes from south America to Antarctica.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Bob Dylon was a Great Artist and His Music still Lives On.\"",
+        "\"Anthony Bourdain... Love these Shows.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual, auditory",
+      "evidence": [
+        "\"This sounds And will Feel Great...\"",
+        "\"The Powerful Film Arrived in excellent shape...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Very powerful.\"",
+        "\"This Old First Classic is a Must for the Movie Buff/Collector.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and dramas, particularly those with musical elements. They appreciate high production quality and tend to favor slower-paced narratives that evoke strong emotional responses."
+}

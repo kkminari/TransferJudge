@@ -1,0 +1,77 @@
+{
+  "user_id": "AFVFD5QT4HZTEAVVEQRNKQE5KK5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "anime, dark themes, comic book adaptations",
+      "evidence": [
+        "\"Incredibly good anime, but it is violent.\"",
+        "\"Great movie, but not like the original, very dark.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Clever story and good production.\"",
+        "\"Clever story, great animation.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This was hilarious, and the special effects were first class.\"",
+        "\"Great movie, deals well with faith and belief.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Clever story and good production.\"",
+        "\"Great product at a good price, fast shipping, thank you!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Big Star Trek fan from the beginning, and I was surprised by and love this new series!\"",
+        "\"Gal Gadot is perfect, can't wait for the next one!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The special effects were first class.\"",
+        "\"Great animation.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"One of my favorite films of all time, very real and about as good as a war film gets!\"",
+        "\"The characters and performances are startling, showing the real brutality of persecution.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for anime and dark-themed narratives, appreciating clever storytelling and high production quality. They enjoy fast-paced content with emotional depth, particularly in genres like comic book adaptations and war films."
+}

@@ -1,0 +1,167 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's preference for drama, crime, and family genres directly translates to a desire for similar themes in books. These genres often explore complex human relationships and moral dilemmas, which are prevalent in literature as well.",
+      "transferred_insight": "Prefer books that focus on drama, crime, and family dynamics.",
+      "confidence": 0.85
+    },
+    "narrative_complexity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's enjoyment of complex narratives suggests a preference for books that feature intricate plots and character development. This quality is common in literary fiction and crime novels.",
+      "transferred_insight": "Prefer books with complex, interwoven narratives and character depth.",
+      "confidence": 0.8
+    },
+    "pacing_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The mixed pacing preference indicates that the user can appreciate both slow and fast narratives, but this may not directly translate to a specific pacing in books. Recommendations should include a variety of pacing styles.",
+      "transferred_insight": "Open to both slow and fast-paced narratives, depending on execution.",
+      "confidence": 0.6
+    },
+    "quality_sensitivity": {
+      "decision": "TRANSFER",
+      "rationale": "High sensitivity to quality in production translates well to literature, where writing style, character development, and thematic depth are crucial. This suggests a preference for well-crafted books.",
+      "transferred_insight": "Prefer high-quality, well-written books with strong narratives.",
+      "confidence": 0.9
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user shows low brand loyalty, indicating that recommendations should not be based on specific authors or franchises. This pattern does not translate to book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "Sensory preferences related to film do not apply to books, as the reading experience is fundamentally different. This pattern should not influence book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high sensitivity to emotional resonance suggests a preference for books that evoke strong feelings and explore deep emotional themes, which is common in literary and dramatic works.",
+      "transferred_insight": "Prefer emotionally resonant books that explore deep themes.",
+      "confidence": 0.9
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "B00SIWHOWO",
+      "title": "The Divine Comedy",
+      "score": 0.92,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This classic work features complex narratives and deep emotional themes, aligning well with the user's preferences for drama and emotional resonance. Its literary quality is also highly regarded."
+    },
+    {
+      "rank": 2,
+      "item_id": "B0031R5K9A",
+      "title": "Girl Missing",
+      "score": 0.88,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This thriller combines elements of crime and mystery with a complex narrative structure, appealing to the user's interest in drama and crime genres while maintaining high quality."
+    },
+    {
+      "rank": 3,
+      "item_id": "B20",
+      "title": "The Mother",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "Set in a remote village, this book explores deep psychological themes and family dynamics, resonating with the user's preference for emotional depth and complex narratives."
+    },
+    {
+      "rank": 4,
+      "item_id": "B20",
+      "title": "Stone Circle",
+      "score": 0.84,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This mystery novel features a strong narrative with elements of crime and family, appealing to the user's interests while ensuring high-quality storytelling."
+    },
+    {
+      "rank": 5,
+      "item_id": "B20",
+      "title": "Perish Twice",
+      "score": 0.82,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book combines crime and mystery with a well-crafted narrative, aligning with the user's preferences for drama and high-quality storytelling."
+    },
+    {
+      "rank": 6,
+      "item_id": "B20",
+      "title": "Riders of Judgment",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This novel explores themes of revenge and moral dilemmas, resonating with the user's interest in complex narratives and emotional depth."
+    },
+    {
+      "rank": 7,
+      "item_id": "B20",
+      "title": "Hell in the Hallway, Light at the Door",
+      "score": 0.78,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book addresses personal change and emotional challenges, appealing to the user's preference for emotional resonance and depth in storytelling."
+    },
+    {
+      "rank": 8,
+      "item_id": "B20",
+      "title": "Offspring: Book Two",
+      "score": 0.76,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This thriller features complex character dynamics and suspenseful storytelling, aligning with the user's interests in crime and drama."
+    },
+    {
+      "rank": 9,
+      "item_id": "B20",
+      "title": "The Hobbit",
+      "score": 0.75,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "While primarily a fantasy novel, it features strong character development and emotional themes, appealing to the user's preference for complex narratives."
+    },
+    {
+      "rank": 10,
+      "item_id": "B20",
+      "title": "Advocate",
+      "score": 0.74,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This book likely explores themes of justice and morality, resonating with the user's interest in crime and drama narratives."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference were blocked as they do not apply to book recommendations.",
+  "overall_strategy": "Focused on transferring genre preferences, narrative complexity, quality sensitivity, and emotional resonance to recommend books that align with the user's interests in drama and crime, while blocking non-transferable patterns."
+}

@@ -1,0 +1,86 @@
+{
+  "user_id": "AESNNRSA3MH2RLN7BBJEBD2SE2DA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, dark themes",
+      "evidence": [
+        "Bleak, desolate, dark, beautiful.",
+        "Dark and depressing. Lost young woman abusing alcohol/drugs and having bad sex -- seems to be a theme in a lot of movies."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Too much plot and too little character development.",
+        "Incredibly slow, boring, depressing."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Very slow, very long, as they tried to cram in too much stuff.",
+        "So incredibly slow, boring, depressing."
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Couldn't understand why all these beautiful women would wanna sleep with this gross guy.",
+        "Some great near-death stories that you may never get to hear? And what's with all the crazy, distracting graphics every two minutes?"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "none",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "The material is there but the editing and storytelling is not.",
+        "This could be a great movie or series, with the right filmmaker."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Found overall story too depressing and bleak.",
+        "I could practically hear my mum screaming (in my head) at that woman to get away from the man as quickly as possible!"
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "character_development_preference",
+      "value": "high",
+      "evidence": [
+        "Too much plot and too little character development.",
+        "I mainly kept watching for McDormand: she's mesmerizing."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user shows a strong preference for dark dramas with complex themes but is critical of pacing and character development. They tend to favor emotional depth but often find narratives too slow and lacking in engagement, leading to a mixed overall experience."
+}

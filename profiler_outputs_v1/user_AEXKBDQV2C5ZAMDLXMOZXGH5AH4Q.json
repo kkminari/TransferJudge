@@ -1,0 +1,77 @@
+{
+  "user_id": "AEXKBDQV2C5ZAMDLXMOZXGH5AH4Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, sci-fi",
+      "evidence": [
+        "\"the action and writing is exceptional\"",
+        "\"this is the 'Mona Lisa' of early sci-fi\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"some complained of the quality - We thought it was really good; sharp with great sound - loved it!\"",
+        "\"thought provoking movie - good realization of the book.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"sheer excitement! Now we're in Season three. The action and writing is exceptional.\"",
+        "\"super suspense.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the conclusion was masterful - some complained of the quality - We thought it was really good; sharp with great sound - loved it!\"",
+        "\"this upgraded DVD is sensational for the purest. Every detail is covered and the film looks better than ever.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If you know of the Ventures, play guitar or have never seen the Ventures, this DVD satisfies.\"",
+        "\"the price was sensational. All the best of times with Alan Alda and company - thanks for a great deal Amazon!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, sound quality",
+      "evidence": [
+        "\"this upgraded DVD is sensational for the purest. Every detail is covered and the film looks better than ever.\"",
+        "\"no disappointment here - non stop rock!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"thought provoking movie - good realization of the book.\"",
+        "\"I was sorry it ended but the conclusion was masterful.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for action and sci-fi genres, favoring fast-paced narratives with high production quality. They appreciate visual and sound elements but exhibit low emotional engagement and brand loyalty."
+}

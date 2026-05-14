@@ -1,0 +1,77 @@
+{
+  "user_id": "AFHSYLUFLLQE2F5X6KXNFHSV7DLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, horror, action, western",
+      "evidence": [
+        "\"I like westerns, comedies and a lot of the actors\"",
+        "\"If you like horror, buy this movie. Buy it now. Today!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"None of that psychological garbage you get from Dark Knight, that you need a PHD to follow, just pure simple movie enjoying.\"",
+        "\"I was bored to tears in about five minutes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"the pacing. It was very slow and at no time did I feel much was on the line\"",
+        "\"the movie wallows in its own pretension so much that it was hard to keep one's attention.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I watch a movie to be entertained and all this one did was depress.\"",
+        "\"the quality of the jokes is just abysmal.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I like to start reviews with the good. The acting was great and the storyline dark and edgy.\"",
+        "\"I used to love this show but it seems like it's running out of steam.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"the visuals are praiseworthy and stunning.\"",
+        "\"the movie itself was beautifully done, and was a visual feast.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I kept hoping the movie would have maybe a couple of cheerful moments or that maybe something good would happen for the main character and no such relief was ever at hand.\"",
+        "\"I wanted to like this movie, but found it unbelievably boring.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for simple narratives and visual spectacles, particularly enjoying comedies, horror, and action genres. However, they tend to dislike slow pacing and have low emotional engagement with the content, often finding it boring or disappointing."
+}

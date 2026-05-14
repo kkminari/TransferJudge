@@ -1,0 +1,70 @@
+{
+  "user_id": "AHELW4CT5Z53UJLOHFRMDLJCP2FA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, thriller",
+      "evidence": [
+        "'Fun to watch and decent serial-killer thriller!'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'the story was choppy and confusing'"
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "'Great stuff! Hilarious! Make more!'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "'while it is 'visually' nice to look at, the story was choppy'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "'Drive by the same director was an excellent film - this one, not so much.'"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "'while it is 'visually' nice to look at'"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "'Nope.'"
+      ],
+      "confidence": 0.4,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and thriller genres, favoring fast-paced narratives. They show a preference for visual spectacle but have mixed feelings about narrative complexity and emotional engagement."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGTGCRW6X3OB45RNP6DBVLGWLHKA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, mystery",
+      "evidence": [
+        "\"I like watching these shows, very dark, mysterious!\"",
+        "\"Excellent family show\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I love this!\"",
+        "\"Loved it!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Good, on the edge of your seats kind of movie\"",
+        "\"I love all of the beautiful scenery, the action of these bicyclists...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I love this!\"",
+        "\"Great!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I knew my daughter would love watching this series with me!\"",
+        "\"My granddaughter enjoys watching Dora\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric music",
+      "evidence": [
+        "\"I love all of the beautiful scenery, the action of these bicyclists...\"",
+        "\"Love the series so much I watched it a second time this past summer!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I very much like this show. Can't wait for more episodes!\"",
+        "\"My granddaughter loves Dora. & she learning to talk better because of Dora!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented and mysterious content, often appreciating fast-paced narratives with visual appeal. They show a strong emotional connection to the shows they watch, particularly those that engage their family members."
+}

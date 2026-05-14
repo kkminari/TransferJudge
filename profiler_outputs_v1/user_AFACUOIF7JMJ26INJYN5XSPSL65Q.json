@@ -1,0 +1,77 @@
+{
+  "user_id": "AFACUOIF7JMJ26INJYN5XSPSL65Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama",
+      "evidence": [
+        "'great drama, acting and directing'",
+        "'It's a tragic story of human emotion.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "'It went off in a direction I did not anticipate and I liked that.'",
+        "'It was powerful, thought provoking, and surprising.'"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "'I was not overly excited by the story, though, or the acting.'",
+        "'It's a good yarn.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "'great drama, acting and directing'",
+        "'The staging and acting were equal to the singing.'"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Tyler Perry",
+      "evidence": [
+        "'Tyler Perry is a gifted writer and actor.'",
+        "'It is now part of my permanent collection of Perry's works.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "'Both the music and the video presentation are stunningly beautiful.'",
+        "'I loved it all, and wept at its passion.'"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'I wept at its passion.'",
+        "'It's inspriational, in a way only Madea could portray.'"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama, particularly appreciating high-quality production and emotional depth in storytelling. They show loyalty to creators like Tyler Perry and value sensory experiences in their viewing choices."
+}

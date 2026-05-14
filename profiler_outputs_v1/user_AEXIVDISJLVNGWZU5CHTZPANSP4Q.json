@@ -1,0 +1,76 @@
+{
+  "user_id": "AEXIVDISJLVNGWZU5CHTZPANSP4Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, mystery",
+      "evidence": [
+        "\"the very beginning of forensic science\"",
+        "\"cozy mysteries to hard-boiled detective programs\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"the story line and acting in this program were excellent\"",
+        "\"the sad facts of the books don't seem as heavy in the series\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"the first few minutes of this movie, during which her determination since childhood is described, I found tedious\"",
+        "\"enjoyable, witty, serious, but not too dark\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the acting is outstanding, the costumes and set are gorgeous\"",
+        "\"the story line and acting in this program were excellent\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have read all of the Maigret mysteries available in English, and seen the English language films\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"the sheer force of nature - the surf pounding the shore, the gale-force winds and rain lashing the stone house\"",
+        "\"fantastic scenery, entertaining plots and dialog\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"this movie is as passionate and gripping as the whirlpool pulling the main characters into its vortex\"",
+        "\"You feel all the pain\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys period dramas and mysteries, often appreciating strong character development and emotional depth. They value high production quality and are sensitive to pacing, showing a preference for engaging narratives that evoke strong feelings."
+}

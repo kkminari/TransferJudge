@@ -1,0 +1,74 @@
+{
+  "user_id": "AFC3YQNCQDSWZNOVBGRNDUN7JAMQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, drama",
+      "evidence": [
+        "Good love story",
+        "The best movie I've seen in many years. It is incredibly moving."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Light entertainment. Enjoyable.",
+        "Pleasantly entertaining"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Good love story",
+        "Light entertainment. Enjoyable."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "Acting is superb!",
+        "Writers should clean up the language."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high emotional impact",
+      "evidence": [
+        "I cried, laughed, and wished there were more.",
+        "It is incredibly moving."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I cried, laughed, and wished there were more.",
+        "The best movie I've seen in many years."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for romantic and dramatic narratives that evoke high emotional impact. They enjoy simple, light entertainment with a focus on character-driven stories, although they express some concern about production quality."
+}

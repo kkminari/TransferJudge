@@ -1,0 +1,77 @@
+{
+  "user_id": "AEAN42HB2VG2YSZVMKJ4DLKJMDKA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed (comedy, horror, documentary)",
+      "evidence": [
+        "It's a well done show, but unfortunately it suffered severely from the writers strike in season 3.",
+        "This was one of those shows from my childhood that I can't believe existed. It is SOOOO weird."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "While it is intermittently hilarious, there are many scenes that just drag on for a long time.",
+        "The plot is okay, but it's a trite rehash of films before and only has a few unique elements."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "While it is intermittently hilarious, there are many scenes that just drag on for a long time.",
+        "They spend a little too much time on a lot of things, and then rush through some very interesting things."
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "I'm very impressed with the image quality of the disc.",
+        "The cinematography is great."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "In my opinion, the first few seasons were superior to the later ones.",
+        "It's a well done show, but unfortunately it suffered severely from the writers strike in season 3."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "The cinematography is great.",
+        "The scenery and filming was gorgeous."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "I cannot recommend this movie at all to anyone.",
+        "I thought 1979's 'Coma' was more original, 2005's 'The Island' was more entertaining."
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of genres, particularly comedy and horror, but often finds narratives to be simple and pacing slow. They have a high sensitivity to production quality and appreciate good cinematography, though they express mixed feelings about emotional engagement in the content."
+}

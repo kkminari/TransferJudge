@@ -1,0 +1,77 @@
+{
+  "user_id": "AFPQCUSF7WCRFEUQYKI4CVYO6WLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama",
+      "evidence": [
+        "highly recommendend if u like sci fi",
+        "i love this movie it's my favorite stephen king movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "the movie looks and sounds great.",
+        "it was shipped quick and packaged well."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "the running time seem to go by much quicker because you are so taken by the movie itself.",
+        "it helps to have seen the other seasons first."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "looks and sounds amazing on blu-ray",
+        "the picture and sound is so much better than the original dvd."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "i grew up on these and to see them again is just a guilty pleasure.",
+        "wow! all of these are so good it's just to hard to pick out a favorite."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "MEDIUM-SPECIFIC",
+      "evidence": [
+        "the effects are pretty good too",
+        "the colors are so vibrant and the feathers are so real looking."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "i was too scared to finish it.",
+        "it turned out to be a real good movie."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys visually and audibly impressive movies, particularly in the sci-fi and drama genres. They prefer fast-paced narratives with high production quality but show low emotional engagement and brand loyalty."
+}

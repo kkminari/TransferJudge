@@ -1,0 +1,76 @@
+{
+  "user_id": "AGLS2RXGAPN5FPNMWM7V34SNS4AA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Emotionally-attaching story and masterpiece music score.\"",
+        "\"I have only ever paid for two movies, this and Moulin Rouge. They are both emotionally-attaching masterpieces.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It started out pretty great but only 20 minutes in the villain is revealed and it's not a ghost that gets unmasked.\"",
+        "\"Emotionally-attaching, a lot of passion was put into this.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I walked out of the theater because I thought it was so boring, but since then I have seen the entire film and it is an emotionally-attaching representation...\"",
+        "\"It's sad that the 2007-08 Writers Guild of America strike killed this show after the 1st season, it just never got good again after that.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"How dare you churn out such a low budget piece of s*** sequel to the best horror movie in history.\"",
+        "\"It should be 5.1-channel audio like all blu-rays. I think even DVDs have 5.1-channel audio.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I think even DVDs have 5.1-channel audio. But this is the best anime in history, so I thank God it's finally in HD.\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Emotionally-attaching story and masterpiece music score.\"",
+        "\"Beautiful and emotionally-attaching.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Emotionally-attaching, a lot of passion was put into this.\"",
+        "\"This changed my life... I finally realized that cereals, breads, tv dinners, pizzas, etc are not food, they are filler.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for emotionally resonant content, often valuing emotional depth and connection over complex narratives. They exhibit high sensitivity to production quality, indicating a preference for well-crafted works, while their genre preferences remain mixed, suggesting openness to various types of stories."
+}

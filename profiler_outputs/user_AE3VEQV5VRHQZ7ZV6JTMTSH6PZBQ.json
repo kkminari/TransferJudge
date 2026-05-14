@@ -1,0 +1,77 @@
+{
+  "user_id": "AE3VEQV5VRHQZ7ZV6JTMTSH6PZBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy",
+      "evidence": [
+        "\"Very funny and hilarious.\"",
+        "\"Great laughs and funny stuff.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great show to watch. Still get some great laughs.\"",
+        "\"A cute movie. One of my favorite Danny DeVito comedies.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The action was great!\"",
+        "\"Great laughs and funny stuff.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I enjoyed the story and the voice talents of the toy characters.\"",
+        "\"A great classic movie!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love James Garner (who passed away this year) and Dan Aykroyd.\"",
+        "\"I have seen a couple of the performers live on stage and they can make an audience laugh.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I have seen a couple of the performers live on stage and they can make an audience laugh.\"",
+        "\"This was a great show to watch.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I laughed so hard the 1st time I saw this movie on cable.\"",
+        "\"This is a great sitcom while I was growing up.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy, enjoying shows and movies that provide great laughs and entertainment. They tend to favor simple narratives with fast pacing, while showing less concern for production quality and brand loyalty."
+}

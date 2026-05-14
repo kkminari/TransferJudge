@@ -1,0 +1,77 @@
+{
+  "user_id": "AGANF3VERGOBE5PCVOHPZ25EHUEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, thriller, classic, drama, romance",
+      "evidence": [
+        "\"You can't go wrong with the classic horror films of the late 70's early 80's!!!\"",
+        "\"It's a romantic comedy for the ages!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This is what I define as a 'quiet' movie. There's no thrills or laughter or excitement.... it's simply a great story with a great cast!\"",
+        "\"It's a romantic comedy for the ages!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This is what I define as a 'quiet' movie. There's no thrills or laughter or excitement.... it's simply a great story with a great cast!\"",
+        "\"It's funny and eye-opening to the way parenting was done in those days...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I have not been able to watch it yet so I cannot attest to the quality of the recording yet; but as soon as I do, I will update my review!\"",
+        "\"It's a far cry from what we see every day on the news where the violent and homeless mentally ill people are living on the streets in squalor...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I love movies with George Brent in them! Whether he is starring with Bette Davis (my personal favorite)...\"",
+        "\"I never missed a week, I own every season & I still watch the reruns!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"When this movie came out, it was one of the most Special Effects movies ever done!\"",
+        "\"It's a very sweet movie about a protective mother and her forever innocent daughter...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It's funny and eye-opening to the way parenting was done in those days...\"",
+        "\"This was the movie that should have been the one to give us the thrilling end to Michael Meyers' life!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic horror and thriller genres, appreciating both narrative simplicity and emotional depth. They value high production quality and have a fondness for visual spectacle, often reflecting on the emotional impact of the stories they engage with."
+}

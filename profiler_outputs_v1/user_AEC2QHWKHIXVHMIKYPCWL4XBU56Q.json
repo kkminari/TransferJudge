@@ -1,0 +1,77 @@
+{
+  "user_id": "AEC2QHWKHIXVHMIKYPCWL4XBU56Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical fiction, comedy, sci-fi",
+      "evidence": [
+        "\"Enjoy historical fiction . Beautiful clothes and scenery, indoors and out.\"",
+        "\"fun sy fy\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good writing and acting. Try it .\"",
+        "\"Good yarn\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"never long enough to satisfy me\"",
+        "\"lost interest after first season\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Good writing and acting. Try it .\"",
+        "\"Best place to get movies\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Wish it had continued, loved location and actors\"",
+        "\"sorry it was cancelled\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Beautiful clothes and scenery, indoors and out.\"",
+        "\"Good camaraderie\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"too bad it didn't continue\"",
+        "\"So sorry this show is being cancelled. One of the more intelligent\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of historical fiction, comedy, and sci-fi genres, with a preference for straightforward narratives. They appreciate quality writing and acting, and their reviews indicate a strong emotional connection to the shows they watch, often expressing disappointment when series are canceled."
+}

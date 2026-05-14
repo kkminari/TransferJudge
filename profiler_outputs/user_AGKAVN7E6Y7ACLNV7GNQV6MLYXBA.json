@@ -1,0 +1,77 @@
+{
+  "user_id": "AGKAVN7E6Y7ACLNV7GNQV6MLYXBA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, sci-fi",
+      "evidence": [
+        "A fun family movie!!!!",
+        "A good 1960's sci-fi flick. Entertaining to see a fair story."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "A fun movie. Great for families.",
+        "A good story and a good twist."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "A really good fast paced feel-good story with good acting.",
+        "Fast moving action."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "Great cast. A good movie version of a real event.",
+        "The actors portrayed the real men in a very human way as they handled their struggles."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Could have been better.",
+        "This movie had no story line."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "A tremendous movie concerning Afro-Americans regarded as less than human and their struggle to recognized as Americans.",
+        "Fantastic! If you grew up with these singers and songs it is a wonderful collection."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Well worth seeing.",
+        "A very good easy to understand production. A must see."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented films and has a preference for fast-paced narratives. They appreciate emotional depth and engaging storytelling, though they show limited loyalty to specific creators."
+}

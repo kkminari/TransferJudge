@@ -1,0 +1,75 @@
+{
+  "user_id": "AEEJXJOP6NMH4FSPQVPI7GYA5ZRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animation, mystery",
+      "evidence": [
+        "\"Great story, loaded with surprises, great animation movie.\"",
+        "\"Peter Falk was great at bringing Columbo to life.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Loved this movie. Will watch it again sometime.\"",
+        "\"Great story, loaded with surprises, great animation movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great story, loaded with surprises, great animation movie.\"",
+        "\"Loved this show growing up. Still love it today.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Disappointment. Not great\"",
+        "\"Dad loves it\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Peter Falk was great at bringing Columbo to life.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Great story, loaded with surprises, great animation movie.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Loved this show growing up. Still love it today.\"",
+        "\"Love it\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for animation and mystery genres, enjoying simple and fast-paced narratives. They exhibit high emotional resonance with content that evokes nostalgia and fond memories."
+}

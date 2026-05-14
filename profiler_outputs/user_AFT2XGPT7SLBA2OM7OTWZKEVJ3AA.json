@@ -1,0 +1,70 @@
+{
+  "user_id": "AFT2XGPT7SLBA2OM7OTWZKEVJ3AA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "unknown",
+      "evidence": [
+        "No specific genres mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "narrative_complexity": {
+      "value": "unknown",
+      "evidence": [
+        "No specific narrative complexity mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "unknown",
+      "evidence": [
+        "No specific pacing mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "unknown",
+      "evidence": [
+        "No specific quality mentions."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "unknown",
+      "evidence": [
+        "No specific brands or creators mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "unknown",
+      "evidence": [
+        "No sensory preferences mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Reviews are generally positive but lack emotional depth."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a generally positive view of the content they review, but there is a lack of specific preferences or emotional engagement evident in their reviews. Their feedback is mostly affirmations without detailed insights into genres, narrative styles, or emotional impact."
+}

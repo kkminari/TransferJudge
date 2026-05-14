@@ -1,0 +1,74 @@
+{
+  "user_id": "AFK76HP5ST4PUA5WC5BQDLDOMIAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical",
+      "evidence": [
+        "Love the era, the costumes, the characters.",
+        "An excellent rendition of this time in history."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Nothing to be disappointed in about Season 3.",
+        "An incredible series. Just started season 5."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "This series continues to fascinate. Virtually addictive.",
+        "What an incredible series. Every segment was excellently done."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Suffragette was extremely well acted and well written.",
+        "Excellent storyline with extraordinary acting."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "This series continues to fascinate. Virtually addictive.",
+        "What an incredible series. Every segment was excellently done."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "What an amazing tale of an incredible man.",
+        "Be sure to have some Kleenex handy."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and historical narratives, appreciating well-acted and well-written productions. They enjoy slower-paced storytelling that evokes deep emotional responses, indicating a taste for character-driven plots and high production quality."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGRGJXOKMTWRK33UPEI7KEMXWOVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed (dislikes sci-fi, enjoys drama and romance)",
+      "evidence": [
+        "A low budget mish mash of other science fiction plots, except it was torture watching it.",
+        "Like this romantic updated version of this movie."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Excellent movie compilation of actors and ease of story telling.",
+        "The right actor combo but a weird script."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Seemed a waste of Tom Hardy's acting chops and I am not sure that the back story was clearly articulated.",
+        "I couldn't watch it to the end."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Horrible Movie... a waste of his talent too.",
+        "Good CGI but the plot was weak."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "mixed (some loyalty to actors like Gandolfini and DeNiro)",
+      "evidence": [
+        "Teaming James Gandolfini and Tom Hardy was an excellent choice.",
+        "DeNiro isn't funny, in this movie he is almost pathetic."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "chilling at times, kept me interested.",
+        "I loved the Mad Max series, but this one did not hit the mark."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "The trailer was by far more interesting than the movie.",
+        "It was awful and I do not recommend it."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a mixed taste in genres, showing a dislike for sci-fi while enjoying drama and romance. They prefer simple narratives and are sensitive to production quality, often expressing disappointment in films that fail to meet their expectations."
+}

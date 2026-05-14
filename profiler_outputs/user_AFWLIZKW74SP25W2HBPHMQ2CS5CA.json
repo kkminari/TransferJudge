@@ -1,0 +1,100 @@
+{
+  "user_id": "AFWLIZKW74SP25W2HBPHMQ2CS5CA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, fantasy, comedy, satire",
+      "evidence": [
+        "\"Dark Satire at its best. Ironically, very Pro-Trump in a sublime way.\"",
+        "\"Excellent Corporate Satire-Parody Comedy from an Engineer's perspective\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Too many 'IFs', 'subplots', and 'they's' that do not add any real value.\"",
+        "\"It could have taken a more Christian approach, where the 'Wolf' realizes he is actually a 'Shepherd'...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The movie is more a simplified visual fest than any real story.\"",
+        "\"It is interesting to see how times change and even movie productions do to.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The music is good, but the story is trying really hard to tell you that this is a 'Legend' material.\"",
+        "\"The animation allows for exaggerations and for using the 'crossing the line twice' trope, which they use very well.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I do not always agree with the comedy, but it is a smart comedy from the point of view of engineer.\"",
+        "\"I thought it was going to be lame. I like they surpassed expectations and made sense from video game lore to human world.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The visuals are good, the music is decent, and the 'Guy gets the Girl' happy ending.\"",
+        "\"It could technically need to be viewed while taking many drugs to make logical sense.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I am sure that Renee did a good job capturing the fallen actress.... but do I really want to spend 2 to 3 hours of my life watching a 'Movie Star' tragedy that could have been avoided?\"",
+        "\"Does this movie expose Hollywood's desire to exploit child actors can lead to unexpected consequences?\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "high",
+      "evidence": [
+        "\"Dave Stotts is a smart clown with a cool military Humvee (HMMWV) giving us knowledge about the Founding Fathers.\"",
+        "\"Mighty Magiswords is just a fun show with a good spirit between a duet of funny brother and sister.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    {
+      "name": "social_commentary",
+      "value": "high",
+      "evidence": [
+        "\"This film is a violation of human rights by selling the concept of children to war as our only salvation for mankind...\"",
+        "\"This dark satire captures the extreme version of what the Democrats love and hate about President Donald Trump...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys a mix of genres, particularly sci-fi, fantasy, and satire, often appreciating humor and social commentary. They exhibit a moderate sensitivity to production quality but show mixed feelings towards narrative complexity and pacing, indicating a preference for engaging yet straightforward storytelling."
+}

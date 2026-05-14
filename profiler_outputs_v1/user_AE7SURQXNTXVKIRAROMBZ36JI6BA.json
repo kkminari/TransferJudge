@@ -1,0 +1,77 @@
+{
+  "user_id": "AE7SURQXNTXVKIRAROMBZ36JI6BA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, drama, romantic comedy",
+      "evidence": [
+        "\"Great comedy\"",
+        "\"Great family movie\"",
+        "\"Funny movie\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It is predictable, but the whole family will love it\"",
+        "\"Very predictable, but it is enjoyable to watch\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I find it slow\"",
+        "\"It is not the movie that I remembered\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The product quality was great\"",
+        "\"DVD and case were in perfect condition\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I am a fan of Harrison Ford\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "atmospheric humor",
+      "evidence": [
+        "\"Funny movie\"",
+        "\"Cute and funny movie\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It has funny parts, but it also has sad parts\"",
+        "\"I recommended it to those who enjoy emotional movies\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies and family-friendly films, often enjoying light-hearted narratives with emotional depth. They appreciate high production quality and tend to favor simple, predictable storytelling, although they have mixed feelings about romantic comedies."
+}

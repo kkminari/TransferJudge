@@ -1,0 +1,77 @@
+{
+  "user_id": "AGCEVTINT44LTEF3POKBIDGAJ7FA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "classic",
+      "evidence": [
+        "I love this movie!",
+        "Classic movie! If you haven’t seen it then you definitely need to!"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Love these movies! Had to add to my collection!",
+        "Great movie! Never gets old!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Country living, and a tear jerker",
+        "Great show!! Used to watch as a kid, still love today"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Love it!",
+        "Came in good condition! Classic movie, love it!!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Cate Blanchett, Sandy",
+      "evidence": [
+        "Only bought because of Cate Blanchett and Sandy!",
+        "I loved this movie as a child!"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I still sing along to some of the songs. It’s great!",
+        "Love this movie, but I feel like whoever made it knows something we don’t know."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Country living, and a tear jerker",
+        "I still sing along to some of the songs. It’s great!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic movies, often expressing love for them. They enjoy simple narratives with emotional resonance, particularly those that evoke nostalgia and a sense of comfort."
+}

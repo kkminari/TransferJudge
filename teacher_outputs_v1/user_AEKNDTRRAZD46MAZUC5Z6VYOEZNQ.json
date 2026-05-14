@@ -1,0 +1,153 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's strong preference for sci-fi and horror genres directly translates to a desire for books in these categories. This pattern is about the thematic and genre elements that exist in both media.",
+      "transferred_insight": "Prefer sci-fi and horror novels",
+      "confidence": 0.8
+    },
+    "narrative_complexity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for simple narratives suggests they may enjoy straightforward plots in books, but the complexity of storytelling can vary widely in literature. This pattern informs but does not dominate recommendations.",
+      "transferred_insight": "Prefer accessible narratives, potentially avoiding overly complex plots",
+      "confidence": 0.6
+    },
+    "pacing_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for slow pacing indicates they may enjoy books that develop their stories gradually, but this can vary in literature. This pattern can guide recommendations but should not be the sole focus.",
+      "transferred_insight": "Prefer slower-paced narratives that build tension gradually",
+      "confidence": 0.7
+    },
+    "quality_sensitivity": {
+      "decision": "BLOCK",
+      "rationale": "The user's low quality sensitivity in film suggests they may not prioritize high literary quality in books either. This pattern is not applicable as it could lead to negative transfer.",
+      "transferred_insight": null,
+      "confidence": 0.5
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "Loyalty to specific actors does not translate to authors in literature. This pattern is medium-specific and would not provide useful insights for book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.8
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "Visual spectacle and atmospheric preferences are specific to film and do not apply to books, which rely on text rather than visual elements. This pattern should not influence recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.6
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high emotional engagement with films suggests they will appreciate books that evoke strong feelings and emotional depth. This pattern is relevant across both media.",
+      "transferred_insight": "Prefer emotionally resonant narratives with depth",
+      "confidence": 0.7
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "1785651382",
+      "title": "Kong: Skull Island - The Official Movie Novelization",
+      "score": 0.95,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This novelization of a popular monster film aligns perfectly with the user's love for sci-fi and horror genres. The emotional stakes and familiar narrative will resonate with their cinematic experiences."
+    },
+    {
+      "rank": 2,
+      "item_id": "0153567619",
+      "title": "HSP Math: Practice Workbook, Grade 4",
+      "score": 0.6,
+      "applied_patterns": [
+        "narrative_complexity"
+      ],
+      "reasoning": "While not directly related to the user's genre preferences, this workbook offers straightforward content that aligns with their preference for simple narratives, making it accessible."
+    },
+    {
+      "rank": 3,
+      "item_id": "0420427846",
+      "title": "Gods Without Men",
+      "score": 0.7,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book combines elements of sci-fi with emotional depth, exploring complex themes that may resonate with the user's appreciation for emotional narratives."
+    },
+    {
+      "rank": 4,
+      "item_id": "1902852095",
+      "title": "Fatal Shadows",
+      "score": 0.65,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This mystery novel incorporates elements of suspense and straightforward storytelling, appealing to the user's preference for simple narratives within the horror genre."
+    },
+    {
+      "rank": 5,
+      "item_id": "1492101516",
+      "title": "The Distributor's Fee Based Services Manifesto",
+      "score": 0.55,
+      "applied_patterns": [
+        "narrative_complexity"
+      ],
+      "reasoning": "This book offers practical insights in a straightforward manner, aligning with the user's preference for simple narratives, though it is not in their preferred genres."
+    },
+    {
+      "rank": 6,
+      "item_id": "0963656007",
+      "title": "Idaho Off-Road: Backcountry Drives for the Whole Family",
+      "score": 0.5,
+      "applied_patterns": [
+        "narrative_complexity"
+      ],
+      "reasoning": "This guide provides clear, simple narratives about outdoor adventures, which may appeal to the user's preference for accessible storytelling."
+    },
+    {
+      "rank": 7,
+      "item_id": "1530393779",
+      "title": "Simple Things",
+      "score": 0.5,
+      "applied_patterns": [
+        "narrative_complexity"
+      ],
+      "reasoning": "This book's straightforward narrative style aligns with the user's preference for simplicity, even though it is outside their preferred genres."
+    },
+    {
+      "rank": 8,
+      "item_id": "1905113579",
+      "title": "Sugar Flowers: The Signature Collection",
+      "score": 0.45,
+      "applied_patterns": [
+        "narrative_complexity"
+      ],
+      "reasoning": "While not in the user's preferred genres, this book offers clear instructions and simple narratives that may appeal to their preference for accessible content."
+    },
+    {
+      "rank": 9,
+      "item_id": "1493043021",
+      "title": "Scats and Tracks of North America",
+      "score": 0.4,
+      "applied_patterns": [
+        "narrative_complexity"
+      ],
+      "reasoning": "This field guide provides straightforward information about wildlife, appealing to the user's preference for simple narratives, though it is not in their preferred genres."
+    },
+    {
+      "rank": 10,
+      "item_id": "1537336770",
+      "title": "Unforgettable: Twentieth-Year Reunion",
+      "score": 0.4,
+      "applied_patterns": [
+        "narrative_complexity"
+      ],
+      "reasoning": "This book offers a simple narrative style that may resonate with the user's preference for accessible storytelling, despite not being in their preferred genres."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty, sensory preference, and quality sensitivity were blocked due to their medium-specific nature and potential for negative transfer.",
+  "overall_strategy": "Focused on transferring genre preferences and emotional resonance while applying partial insights from narrative complexity and pacing. Blocked patterns that do not translate well to the book medium."
+}

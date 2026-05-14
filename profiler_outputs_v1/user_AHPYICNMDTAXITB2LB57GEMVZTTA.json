@@ -1,0 +1,74 @@
+{
+  "user_id": "AHPYICNMDTAXITB2LB57GEMVZTTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy",
+      "evidence": [
+        "\"Kids love it\"",
+        "\"Love RR sense of humor.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good stuff\"",
+        "\"Great movie\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Can't believe I waited this long to watch it\"",
+        "\"Love it\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Worth it\"",
+        "\"Good flick\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual humor",
+      "evidence": [
+        "\"Love RR sense of humor.\"",
+        "\"Kids liked it\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Kids like it but it's annoying as an adult.\"",
+        "\"Don't like the new animation.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and comedic content, often appreciating simple narratives and fast pacing. They show a preference for visual humor but have mixed feelings about production quality and emotional depth."
+}

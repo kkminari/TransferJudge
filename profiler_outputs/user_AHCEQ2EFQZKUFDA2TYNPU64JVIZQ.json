@@ -1,0 +1,89 @@
+{
+  "user_id": "AHCEQ2EFQZKUFDA2TYNPU64JVIZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, mystery, drama",
+      "evidence": [
+        "\"I love watching American History Documentaries and appreciate the work gone into them.\"",
+        "\"I love old stories, especially mysteries, like this.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The script and content of the show are depressing.\"",
+        "\"This movie takes out the light and human element Christie always projected in her characters.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Stopped watching it due to the constant dreariness and lack of levity.\"",
+        "\"I turned it off half-way through episode 1.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The cinematography is wasted on a terrible script and bad story.\"",
+        "\"Great acting! The characters had good interaction, and the story lines were realistic.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Tom Selleck delivers every time without fail.\"",
+        "\"He is great in NCIS. So sorry he left because he was among some of the best in that series.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Beautiful poignant and rich with character.\"",
+        "\"I like the folky music in this series also.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"This was a terrible downer. Started off bad and got worse.\"",
+        "\"Very uninteresting story and characters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "dislike_for_modern_content",
+      "value": "high",
+      "evidence": [
+        "\"Typical modern trash. Turned it off after 10 minutes.\"",
+        "\"It turned out to be another modern dark and ponderous movie with no levity or life.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user shows a strong preference for historical and mystery genres, appreciating quality acting and storytelling. However, they express significant dissatisfaction with modern content, often finding it too dark and lacking emotional engagement."
+}

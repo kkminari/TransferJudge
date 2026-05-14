@@ -1,0 +1,77 @@
+{
+  "user_id": "AE4QMLNRQFURDR6SA77MPJISOHCQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, children's, family",
+      "evidence": [
+        "\"The Expanse\" is my New Favorite TV SciFi series.",
+        "Grand Daughter Loves all the Mickey Mouse Club House \"Junior\" DVD's."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Episodes are short - about 5 minutes long each.",
+        "This triple feature collection of \"B\" sci-fi movies is of interest of those who \"really\" are into the old, \"B\" sci-fi movies."
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "For $5 you can't beat the price for four good Drive In \"B\" Sci Fi movies.",
+        "Was pleasantly surprised when I watched Battle for Terra."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "The quality of the three movies varies a lot - with the true Classic \"Things to Come\" being the Star.",
+        "It was a good value - even with the movies themselves not having the best plots or acting."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Had always enjoyed the Starship Troopers Book and Movies.",
+        "Ray Harryhausen was a true special feature effects pioneer."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "Earth vs the Flying Saucers is one of my favorite classic sci fi movies.",
+        "She enjoys them and it helps her go to sleep at Night."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Grand Daughter loves Minnie-rella! Highly recommend this DVD for Families with small children.",
+        "She finds it entertaining and helps Her to fall asleep at night."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and children's content, particularly enjoying series like 'The Expanse' and various Disney Junior titles. They appreciate fast-paced entertainment but show less concern for production quality, indicating a focus on enjoyment and family-friendly viewing."
+}

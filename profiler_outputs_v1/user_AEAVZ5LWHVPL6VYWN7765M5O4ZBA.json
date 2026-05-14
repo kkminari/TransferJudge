@@ -1,0 +1,77 @@
+{
+  "user_id": "AEAVZ5LWHVPL6VYWN7765M5O4ZBA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, family, animation",
+      "evidence": [
+        "\"Love the books and the TV show is very close to the original story\"",
+        "\"Really love Gravity Falls! So unique and funny.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Love the depth of each character - just an amazing cast! Unique story line\"",
+        "\"Great for adults and kids.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I watched the 1st season back to back on Amazon Prime - It is so well done and very addictive!\"",
+        "\"Love the acting, stories are insane, can't get enough!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The artwork is AMAZING!\"",
+        "\"Excellent actors and writing - must see!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Looking forward to season 2!\"",
+        "\"Can't wait for season 2.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Coraline is a beautiful movie with fantastic acting!\"",
+        "\"A beautiful work of art!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Loved this movie so much we watched it twice!\"",
+        "\"You will not be disappointed.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly fantasy and animated content, often appreciating visual artistry and character depth. They enjoy fast-paced storytelling with high production quality and emotional engagement, indicating a taste for immersive and visually appealing narratives."
+}

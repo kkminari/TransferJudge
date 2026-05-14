@@ -1,0 +1,77 @@
+{
+  "user_id": "AFJ4TLZP5A45HZWP5LBC4V534TUA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, nostalgia, horror",
+      "evidence": [
+        "\"I am such an 80s baby.\"",
+        "\"I was bored. It was predictable and I only rented it since it got rave reviews.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It was okay. I really didn't want to watch the rest of it for a while.\"",
+        "\"I was bored. It was predictable...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I was hooked after that. I watched every season so far.\"",
+        "\"It was very funny. Since I am very familiar with South Park this movie was totally up my alley of funniness.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Not user friendly and couldn’t play episodes back to back without going back to main menu.\"",
+        "\"I should have made sure I had my reading glasses on before ordering.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I am such an 80s baby.\"",
+        "\"I love all in the family. Its still spawning new generations of fans.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The last episode always makes me sad.\"",
+        "\"I can't get enough of this show.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Brings back memories.\"",
+        "\"The last episode always makes me sad.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced comedies with a nostalgic touch, often reflecting on their childhood favorites. They show a preference for simple narratives and have mixed feelings about production quality, but they deeply resonate with emotional content."
+}

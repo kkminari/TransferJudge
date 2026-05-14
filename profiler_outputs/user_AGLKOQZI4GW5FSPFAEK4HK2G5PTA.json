@@ -1,0 +1,71 @@
+{
+  "user_id": "AGLKOQZI4GW5FSPFAEK4HK2G5PTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family",
+      "evidence": [
+        "I love a great family movie.",
+        "Great for family TV time together."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Always a terrific story. You laugh, you cry and you come out actually with a lesson!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Great actors, but real slow start."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Wasn't worth the purchase."
+      ],
+      "confidence": 0.4,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Michael Landon",
+      "evidence": [
+        "Love Michael Landon's shows."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Heart warming series that never lets you down!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "You laugh, you cry and you come out actually with a lesson!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-oriented content, often enjoying simple narratives that evoke emotional responses. They show loyalty to Michael Landon's works and appreciate heartwarming stories, although they have mixed feelings about pacing and production quality."
+}

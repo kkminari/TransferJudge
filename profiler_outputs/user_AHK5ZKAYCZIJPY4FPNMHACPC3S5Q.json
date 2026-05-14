@@ -1,0 +1,76 @@
+{
+  "user_id": "AHK5ZKAYCZIJPY4FPNMHACPC3S5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, historical, biographical",
+      "evidence": [
+        "\"Interesting overview of the Celts.\"",
+        "\"Well documented research. Keeps to the point.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The flashing back and forth between the time periods was very effective.\"",
+        "\"Some interesting paradoxes touched upon but not well defined or well developed.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The two very traumatic events were not convincing due to the haste needed to get everything in a short movie.\"",
+        "\"Interesting but overly simplified presentation. Feeds the imagination more than the intellect.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Bad story line, bad special effects, bad acting.\"",
+        "\"Interesting history. For some reason whoever made it fit a wide screen and seriously distorted the images.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I enjoy Star Trek. This movie did not disappoint.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The way things were is fascinating.\"",
+        "\"Interesting but overly simplified presentation. Feeds the imagination more than the intellect.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I did not like this movie and did not finish it.\"",
+        "\"Bad movie. No wonder people don't like sci-fi.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and historical content, appreciating complex narratives but often finding them overly simplified. They are sensitive to production quality and have mixed feelings about emotional engagement, indicating a preference for informative and well-structured presentations."
+}

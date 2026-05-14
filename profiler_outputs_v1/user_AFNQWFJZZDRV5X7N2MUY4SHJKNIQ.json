@@ -1,0 +1,77 @@
+{
+  "user_id": "AFNQWFJZZDRV5X7N2MUY4SHJKNIQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, action, clean entertainment",
+      "evidence": [
+        "more smut than comedy.",
+        "Should have read the other reviews before renting this on my Roku...this was one of the most disgusting offerings of Comedy I have ever had the privilege to 'hit the eject' button on..."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "great story 'told' badly - with the robust overuse of a culturally tired phrase completely lacking in substance!",
+        "un-creative script using 'F' words early and often that DOMINATE every scene"
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Clean, energizing, action, repeat :) ... fantasy adventure doesn't have to be real!",
+        "GREAT series, makes me wanna live there!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "great acting, great story line, great all around - no need for Hollywood's disgusting shock and awe tactics",
+        "real, seems like the technical advisors truly knew what they were doing"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Dissappointing for a Bullock movie, and the reason I won't be watching any of the other gal's films...",
+        "I rate this NO STARS - below hating it, for Comedy R"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "who in their right mind finds enjoyment in this sort of 'humor' any more",
+        "more smut than comedy."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "WASTE OF MONEY, although did get some more actress' to add to the Melissa list...of 'skip that one' for decency sake!",
+        "Should have read the other reviews before renting this on my Roku..."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong aversion to poorly executed comedies, particularly those that rely on crude humor and lack substance. They prefer clean, high-quality entertainment with fast pacing, but show little loyalty to specific creators or emotional engagement with the content."
+}

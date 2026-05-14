@@ -1,0 +1,77 @@
+{
+  "user_id": "AE4ZKVU3JPGBYSTORDCE6AFAZV2A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "superhero, comedy",
+      "evidence": [
+        "\"All-Star Superman is probably one of the five greatest Superman stories of all time...\"",
+        "\"The funniest network sitcom since 'Seinfeld'\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"It feels like two movies that are kind of smashed together.\"",
+        "\"The problem is that the heavy hand of DC corporate seems to have forced changes that conform to their 'New 52' status quo.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It is impossible not to compare it to the Raimi films... Unfortunately, those comparisons are mostly unfavorable.\"",
+        "\"The action is fun and well-thought out, if a bit redundant.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The visual effects are a decade more advanced in the later film.\"",
+        "\"The performances are all very strong. Every actor who has tackled Superman since Christopher Reeve has compared unfavorably.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "mixed",
+      "evidence": [
+        "\"Sam Raimi just has a better feel for the slightly unhinged tone of the material.\"",
+        "\"Richard Donner changed all of that...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The action is fun and well-thought out, if a bit redundant.\"",
+        "\"The characters are affected by the events of prior episodes and react in unexpected ways.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"There is real weight to the Harry Osborn arc, despite it getting a short shrift in terms of screen time.\"",
+        "\"The idea of forcing Superman to choose between being with the woman he loves and serving the world is an excellent.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys superhero and comedy genres, showing a preference for high-quality productions with strong emotional arcs. They have mixed feelings about narrative complexity and pacing, indicating a nuanced taste in storytelling."
+}

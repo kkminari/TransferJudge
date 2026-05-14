@@ -1,0 +1,77 @@
+{
+  "user_id": "AEDN5WBLSOC6KJW65SZO7UVAHXEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, horror",
+      "evidence": [
+        "The Funniest movie next to its original!!!! Could not stop laughing!",
+        "Classic Din Knotts humor with a spooky twist."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great entertainment!!",
+        "Loved every second!!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "You won’t ever see it coming because You’re Next! Loved this Movie!!",
+        "Omg I can remember my Mom reading these stories to myself and my sister when we were young."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Awesome movie for Halloween!",
+        "Great movie thanks!!"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Tom Hanks and the late (rip) Carrie Fisher are amazing in this movie!",
+        "Tyler Perry is amazing at story telling!"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "Could not stop laughing!",
+        "Loved this when I was a kid and was lucky to find it again on DVD / Blu-ray as an adult."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Watching the movie is so funny!",
+        "Grew up watching these guys! Thanks for all the amazing memories!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and family-oriented films, often enjoying light-hearted and humorous content. They appreciate fast-paced narratives that evoke nostalgia and emotional resonance, while showing less concern for production quality and brand loyalty."
+}

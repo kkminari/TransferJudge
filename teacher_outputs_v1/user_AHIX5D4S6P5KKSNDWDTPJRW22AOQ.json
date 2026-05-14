@@ -1,0 +1,162 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for documentaries and comedies suggests an interest in non-fiction and humorous narratives, which can partially translate to books. However, the specific tropes and storytelling methods differ between film and literature.",
+      "transferred_insight": "Prefer non-fiction and humorous literary works, while avoiding overly dramatic or romantic narratives.",
+      "confidence": 0.75
+    },
+    "narrative_complexity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's preference for simple narratives directly applies to books, indicating a desire for straightforward storytelling without complex structures.",
+      "transferred_insight": "Prefer straightforward, simple narratives in books.",
+      "confidence": 0.8
+    },
+    "pacing_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's negative sentiment towards slow pacing in films suggests that this preference may not translate well to books, where pacing can be more variable and subjective.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "quality_sensitivity": {
+      "decision": "PARTIAL",
+      "rationale": "While the user shows high sensitivity to quality in films, this may translate to a preference for well-crafted books. However, the specific aspects of quality may differ between media.",
+      "transferred_insight": "Prefer well-written and well-reviewed books, but not overly critical of minor flaws.",
+      "confidence": 0.7
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user's low brand loyalty indicates that they do not favor specific authors or creators, which does not provide a reliable basis for book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.85
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's preference for visual spectacle and atmospheric music is specific to film and does not apply to the literary medium, where sensory experiences are conveyed differently.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high emotional engagement with films suggests a preference for books that evoke strong feelings and resonate on a personal level.",
+      "transferred_insight": "Prefer emotionally impactful narratives that evoke strong feelings.",
+      "confidence": 0.85
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "B01J8F7S8Y",
+      "title": "Digging Up Mother: A Love Story",
+      "score": 0.9,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This memoir combines humor and emotional depth, aligning with the user's preference for simple narratives that are well-crafted and resonate emotionally."
+    },
+    {
+      "rank": 2,
+      "item_id": "B0007DS0AW",
+      "title": "In my soul I am free;: The incredible Paul Twitchell Story",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This biography offers an inspiring story that is likely to resonate emotionally with the user, while also being straightforward in its narrative style."
+    },
+    {
+      "rank": 3,
+      "item_id": "B0976276FC",
+      "title": "Revelation and Healing: A Father and Son Reunion",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book explores deep emotional themes of family and healing, which aligns with the user's preference for emotionally resonant narratives."
+    },
+    {
+      "rank": 4,
+      "item_id": "B41",
+      "title": "The Black Battalion 1916-1920: Canada's Best Kept Military Secret",
+      "score": 0.75,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This historical account provides a well-researched narrative that is likely to appeal to the user's interest in documentaries and quality storytelling."
+    },
+    {
+      "rank": 5,
+      "item_id": "B41",
+      "title": "Powerless: America Unplugged",
+      "score": 0.7,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This apocalyptic thriller offers a thought-provoking narrative that may resonate emotionally with the user while maintaining a straightforward plot."
+    },
+    {
+      "rank": 6,
+      "item_id": "B41",
+      "title": "Becoming Attached: First Relationships and How They Shape Our Capacity to Love",
+      "score": 0.65,
+      "applied_patterns": [
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book delves into emotional connections and relationships, which aligns with the user's preference for emotionally impactful narratives."
+    },
+    {
+      "rank": 7,
+      "item_id": "B41",
+      "title": "The Enigma of Time: A selection of thought-provoking articles",
+      "score": 0.6,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This anthology of articles offers a mix of thought-provoking content that may appeal to the user's interest in documentaries and quality writing."
+    },
+    {
+      "rank": 8,
+      "item_id": "B41",
+      "title": "Secrets of Our House: A Novel",
+      "score": 0.55,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This domestic drama explores family secrets and emotional depth, aligning with the user's preference for resonant narratives."
+    },
+    {
+      "rank": 9,
+      "item_id": "B41",
+      "title": "Ambitions: The Life and Love of John and Susannah Morrissey",
+      "score": 0.5,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This biography offers a compelling narrative about an immigrant's journey, which may resonate with the user's interest in well-crafted stories."
+    },
+    {
+      "rank": 10,
+      "item_id": "B41",
+      "title": "Sex After . . .: Women Share How Intimacy Changes as Life Changes",
+      "score": 0.45,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book addresses emotional and relational changes, which may resonate with the user's preference for impactful narratives."
+    }
+  ],
+  "blocked_patterns_summary": "Pacing preference and sensory preferences were blocked due to their medium-specific nature, which does not translate well to books.",
+  "overall_strategy": "Focused on the user's transferable preferences for simple narratives, emotional resonance, and quality storytelling while blocking patterns that could lead to negative transfer."
+}

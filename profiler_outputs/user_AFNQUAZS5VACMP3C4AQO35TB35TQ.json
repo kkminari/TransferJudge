@@ -1,0 +1,77 @@
+{
+  "user_id": "AFNQUAZS5VACMP3C4AQO35TB35TQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, supernatural",
+      "evidence": [
+        "\"This is a great show with a great cast!\"",
+        "\"This was an awesome season.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Most of the episodes were good. Some were boring.\"",
+        "\"I honestly thought season 3 was rather boring.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Some were boring. I wish the producers would quit dragging out the Callen story.\"",
+        "\"The climax could have been better.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The acting is pretty good. It seems better than the acting in the original.\"",
+        "\"Awesome premiere & finale! Many good episodes in between.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I was a fan of the old MacGyver.\"",
+        "\"I will never forgive them for that.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This is a very cute mini movie. It only has one new song but it's very entertaining.\"",
+        "\"Awesome show! Awesome cast! Awesome episodes!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I wish Sleepy Hollow had not been cancelled.\"",
+        "\"I will never forgive them for that.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and supernatural genres, with a preference for shows that have good casts and engaging episodes. They express mixed feelings about narrative complexity and pacing, indicating a desire for more engaging storytelling without excessive dragging of plots."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AFRV52BTP5GMZUMGJD27OQKFLBJQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy",
+      "evidence": [
+        "Funny!",
+        "Really funny movie."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Just good TV.",
+        "Always great television."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Will and the rest of the cast are just down right hilarious. I love this movie for just pure fun."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Great script and acting. Never grows old",
+        "Well acted, would be an understatement."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "NYPD",
+      "evidence": [
+        "NYPD still rocks!",
+        "Love NYPD!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual humor",
+      "evidence": [
+        "Really good movie, great acting.",
+        "One of the funniest movies."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Just good TV.",
+        "Always loved this."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy, particularly enjoying humorous content that is fast-paced and well-acted. They show loyalty to the NYPD series and appreciate quality production, though they do not seek deep emotional engagement from their viewing experiences."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AELICNP3PCLCO6DRZ4YJRH6IVPOA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action, family",
+      "evidence": [
+        "\"A mix between AI and Blade Runner and very thought provoking series.\"",
+        "\"I enjoyed both movies and each had things that made for a good family film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"I found things on the second viewing I did not notice in the first.\"",
+        "\"The story is an interesting one, but the dialogue does not really fit.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This one was action from beginning to end.\"",
+        "\"This is really a good movie with lots of action.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The entire cast is outstanding and the story is fantastic.\"",
+        "\"Really good acting, but the voices were not quite as good as the theatre soundtrack.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"If you are a Quinten Tarrantino fan, you have to have this movie.\"",
+        "\"I wanted all of the series.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"It is great not having to watch commercials as they are constant on SYFY.\"",
+        "\"I thought this was such a great movie in the theatre and had to have it for my home movie library.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "mixed",
+      "evidence": [
+        "\"It was too dark for me. Just could not get into it.\"",
+        "\"My wife loves this movie and wanted me to purchase it to be part of our DVD library.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of sci-fi and action genres, with a preference for fast-paced narratives and high production quality. They show some brand loyalty, particularly towards well-known directors, and appreciate sensory experiences in their viewing choices."
+}

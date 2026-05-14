@@ -1,0 +1,77 @@
+{
+  "user_id": "AEJU6CAYO4UH6AXNIZUUNSDU4LUA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy",
+      "evidence": [
+        "\"Key & Peele are hilarious and fun.\"",
+        "\"We're the Millers was funny.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"There was just no plot.\"",
+        "\"Just make up a fresh joke, or rework an old one in a new way, and I'm happy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The World's End does exactly what it's supposed to... wraps up a (sorta) trilogy with a bang.\"",
+        "\"I love this movie. Steve Martin and Lilly Tomlin are hilarious in it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I don't care that it looks a little dated.\"",
+        "\"It is just so bad. It wasn't funny at all.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I've loved both earlier movies, and adore Simon Pegg and Nick Frost together.\"",
+        "\"I love Jason Mewes. Love Harvey Keitel.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The actors are inspired and the situations beautifully acted to hilarious effect.\"",
+        "\"The lesson here is a good one, that love and marriage take patience.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The story was honest and heartwarming.\"",
+        "\"It is awesome. I highly recommend watching the series of Firefly and this, they are just great entertainment.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy, particularly enjoying fast-paced and humorous narratives. They show a low sensitivity to production quality and prefer simple storytelling, often valuing emotional resonance in their viewing experiences."
+}

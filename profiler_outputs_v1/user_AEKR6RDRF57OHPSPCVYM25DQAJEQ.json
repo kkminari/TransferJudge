@@ -1,0 +1,77 @@
+{
+  "user_id": "AEKR6RDRF57OHPSPCVYM25DQAJEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "psychological thriller, character-driven drama",
+      "evidence": [
+        "\"I guess it is a psychological thriller but it seems more like a character portrait.\"",
+        "\"I loved this movie, and highly recommend it to anyone.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The opening scene reduces complex characters to caricatures...\"",
+        "\"...the story heartbreaking but believable for those of us of a certain generation.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The stories are a little muddier, getting bogged down a little.\"",
+        "\"...the story doesn't quite hold the tension that it does in the book...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is, as usual, exemplary.\"",
+        "\"...the acting is superb and you feel as if you are actually watching a documentary.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I think Giovanni Ribisi is one of the best actors of his generation...\"",
+        "\"...the fact that the lead is an older, calm person gives this show a credibility that you don't usually find in cop shows.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high sensory experience",
+      "evidence": [
+        "\"The music is great and mesmerizing.\"",
+        "\"...the movie is beautiful in its starkness and the story heartbreaking...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...you'll love this movie and want to become a writer when you're done...\"",
+        "\"...the sign of a great movie. Those of us who have had an inexplicable experience will not find the ending that strange...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for psychological thrillers and character-driven dramas, appreciating complex narratives and high production quality. They value emotional resonance and sensory experiences in films, often reflecting on the depth of characters and storytelling."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGCV33DEJY4YLZJN356UNLPYAEQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, action, comedy",
+      "evidence": [
+        "Have enjoyed the Girl with the Dragon Tattoo series.",
+        "Entertaining, adult themed, some might say gross in parts."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Usually leary of 'remakes' but glad I got this one.",
+        "As expected"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Rob's humor may not be for everyone but I found it entertaining.",
+        "Was fun to watch."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I recommend it.",
+        "good sequel to original."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I have a few of his movies in my collection.",
+        "Bruce Willis did a good job."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "not your usual muppet movie.",
+        "addition to my old war movie collection."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "watched it, will watch again one day.",
+        "As expected"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of mystery, action, and comedy genres, with a preference for fast-paced narratives. They show a moderate sensitivity to production quality but do not exhibit strong loyalty to specific creators."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHA3U4NFVU7KH5JOVQZX2CWNPSOA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "science fiction, action, drama",
+      "evidence": [
+        "\"I watch a lot of science fiction, but this one wasn't compelling.\"",
+        "\"Great science fiction and a great, diverse cast!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"I enjoyed this film, which contains a kind of time paradox.\"",
+        "\"This series seems to be very honest about the activities and angst of the portrayed age group.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Non-stop action! I can hardly tear my eyes away.\"",
+        "\"This film did a good job of showing how non-action heroes reacted to a very dangerous situation. Far from boring.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great acting, great writing, great special effects!\"",
+        "\"The writers, directors, and actors are all so committed.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Jensen Ackles, Ioan Gruffudd",
+      "evidence": [
+        "\"Jensen Ackles is always great...\"",
+        "\"Ioan Gruffudd plays a curmudgeon...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I love the way humor and serious scares are combined in this series.\"",
+        "\"The period sets and costumes were great...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I did like the addition of Jensen Ackles as a major character...\"",
+        "\"This series seems to be very honest about the activities and angst of the portrayed age group.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced science fiction and action genres, often appreciating high production quality and strong performances from favored actors. They value emotional depth and narrative engagement, indicating a preference for stories that resonate on a personal level."
+}

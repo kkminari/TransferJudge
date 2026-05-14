@@ -1,0 +1,73 @@
+{
+  "user_id": "AG3NEONCJH3X7RQUQY3KEMOS6ZXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, drama",
+      "evidence": [
+        "Abraham Lincoln is one of my favorite historical characters.",
+        "The Elizabethan period is one of my favorites."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great movie. Everything was as promised.",
+        "Excellent movie. DVD arrived as stated it would."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "I had seen this movie on tv before I purchased it. It appears to be a condensed version of the movie and not the entire thing. Very disappointed."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "You always provide excellent service and quality.",
+        "Service and quality are absolutely great!!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "This is a great movie that gives a new and probably more realistic portrayal of the outlaw Jesse James.",
+        "I really enjoyed it."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I enjoyed this DVD very much.",
+        "This is an excellent movie. I really enjoyed it."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for historical and drama genres, particularly enjoying films that portray realistic characters and narratives. They value high production quality and have a positive emotional response to the movies they watch."
+}

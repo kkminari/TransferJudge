@@ -1,0 +1,77 @@
+{
+  "user_id": "AHVOT6DGXCJK6NVLMAINYP2JZS3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's animation",
+      "evidence": [
+        "\"My daughter loves mermaids and loves this show.\"",
+        "\"Daughter loves this video. We've had no problems with it at all.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Simple and entertaining.\"",
+        "\"Not as flashy as others but holds her attention.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Not as flashy as others but holds her attention.\"",
+        "\"It is okay. My daughter still loves the Princess and the Pauper best of all the Barbie movies...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Video quality is excellent.\"",
+        "\"Looks fabulous on the mini iPad.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Daughter loves the Care Bears. They are from my time so nice to see they are still around...\"",
+        "\"My daughter loves mermaids and loves this show.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual appeal",
+      "evidence": [
+        "\"Graphics are good and my daughter watches all the time.\"",
+        "\"Clear video. Recommend.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A classic that still teaches valuable lessons.\"",
+        "\"Daughter loves this video. We've had no problems with it at all.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user primarily enjoys children's animated shows that are simple and visually appealing, with a strong emphasis on quality. They appreciate content that is engaging for their child and often conveys positive messages, though they show low brand loyalty to specific franchises or creators."
+}

@@ -1,0 +1,75 @@
+{
+  "user_id": "AEBRSWTV2N542ATNJ6AUU7EGJ4NQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"This play is sooooo.... funny.\"",
+        "\"This is a really good movie. You don't see too much of that now days.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great movies.\"",
+        "\"Good Movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This play is so funny.\"",
+        "\"Loved the way it ended. Much different from the norm.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Amazon needs to get better movies.\"",
+        "\"The film makers could of done a little better.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love Grimm. This is one of the best TV Series besides the X-Files.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This is a very well made movie. It's hard to find this kind now days. I still watch it over and over.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I still watch it over and over.\"",
+        "\"This is a must buy.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and dramas, often favoring simple narratives with fast pacing. They express a strong emotional connection to the content they enjoy, although they show low sensitivity to production quality."
+}

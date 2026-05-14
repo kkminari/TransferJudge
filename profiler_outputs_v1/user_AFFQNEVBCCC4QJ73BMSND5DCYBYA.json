@@ -1,0 +1,77 @@
+{
+  "user_id": "AFFQNEVBCCC4QJ73BMSND5DCYBYA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, action, western",
+      "evidence": [
+        "\"This is a very good comedy movie.\"",
+        "\"Great John Wayne western.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot is a little predictable but, still very enjoyable.\"",
+        "\"I do not find anything enjoyable about these videos.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It has action, comedy, good character development, and a great story line.\"",
+        "\"This is a great old western with more character build up than most westerns movies have.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I really loved this movie.\"",
+        "\"Great movie that is based on a true story.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "John Wayne, The Rock",
+      "evidence": [
+        "\"Another of the great movies made by the 'Rock'.\"",
+        "\"One of the best comedies I has ever seen John Wayne in.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, character development",
+      "evidence": [
+        "\"I really enjoyed this.\"",
+        "\"The characters chosen for their roles were just right.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I do not find anything enjoyable about these videos.\"",
+        "\"Not enough bare breast and not in english\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and action genres, particularly enjoying works featuring John Wayne and The Rock. They tend to favor straightforward narratives with fast pacing and are less concerned with production quality, focusing more on character development and entertainment value."
+}

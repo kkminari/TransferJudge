@@ -1,0 +1,76 @@
+{
+  "user_id": "AF2CIPE35P3SPM4G4BFAG6YUFXPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama",
+      "evidence": [
+        "\"The action was just incredible.\"",
+        "\"It was refreshing to watch a movie that was not packed with action scenes, blood and gore...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot was exciting and the characters well developed.\"",
+        "\"I thought the plot line became untenable...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I couldn't turn away.\"",
+        "\"I stayed up till 4:00am watching it.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Low grade B movie. Wasn't worth the time.\"",
+        "\"Not only was the subtitles really off and a poor translation to English...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Dwayne Johnson",
+      "evidence": [
+        "\"I really enjoy Dwayne Johnson (The Rock)...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The action was just incredible.\"",
+        "\"...the scenes in the mountains made me consider being afraid of heights!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"As the movie progressed these wonderful actors let me to caring about the characters they were portraying.\"",
+        "\"The ending was as satisfying as a cool drink on a hot day.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and drama films, particularly those with fast pacing and engaging characters. They show a preference for visual spectacle and have a moderate emotional connection to the stories, while being less concerned about production quality."
+}

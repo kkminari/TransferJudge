@@ -1,0 +1,89 @@
+{
+  "user_id": "AE5H32B5QGB3TYAU3ZCBUQN3JETA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, documentary",
+      "evidence": [
+        "\"I enjoy history and am aware of this era.\"",
+        "\"It's a good documentary for running in the background while war gaming, building models or things like that.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"How can anybody take this show seriously after that.\"",
+        "\"This is just typical hollywood propaganda garbage disguised behind a Viking theme.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"some of the scenes with no dialog drew on a bit long, which was odd.\"",
+        "\"I would have moved on but i wanted to see the end... That was a mistake.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"What a disgrace to history, this era, and all the historical figures involved.\"",
+        "\"It's obviously trying to be 'epic' but feels totally forced, cheap and it took me out of the story.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I would rather have had someone a little more....less hollywood.\"",
+        "\"I grew up with GI Joe and had all the cool toys.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"It's almost embarrassing to watch the product of totally detached entertainment people.\"",
+        "\"I found this show to be offensive within the first 5 min.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I never fully got pulled in emotionally during any part, even the interviews.\"",
+        "\"This documentary merely shows the stupidity of your average voter.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "political_bias",
+      "value": "high",
+      "evidence": [
+        "\"This program dismisses all other points of view, demonizes Europeans, and victimizes every black person of Africa.\"",
+        "\"This idea is created by very evil greedy people counting on total control when it eventually collapses.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user shows a strong preference for historical and documentary genres but has a low tolerance for modern storytelling techniques and production quality. They express a clear disdain for political bias in narratives and prefer straightforward storytelling without excessive complexity or emotional engagement."
+}

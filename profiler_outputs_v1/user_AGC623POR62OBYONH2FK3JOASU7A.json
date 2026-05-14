@@ -1,0 +1,77 @@
+{
+  "user_id": "AGC623POR62OBYONH2FK3JOASU7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, comedy, drama",
+      "evidence": [
+        "\"I happen to like chick flicks, but this one was really over the top.\"",
+        "\"The chickiest of chick flicks, but a pleasure to watch nevertheless.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the path to resolution is completely predictable.\"",
+        "\"no big plot twists or intellectually challenging stuff, but it sure works.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The show is fast moving, thoughtful, and gripping.\"",
+        "\"It's hard for me to believe that Annabeth Gish didn't go on to be a major star...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Dialog is razor sharp, acting is first rate.\"",
+        "\"the acting is stiff and non-convincing.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "General enjoyment of various genres without specific loyalty."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual and emotional engagement",
+      "evidence": [
+        "\"the scene with the scrapbook of her dogs almost brought me to tears.\"",
+        "\"It's a real feel good movie, and having Mickey escort Emma Thompson to the premiere is pure magic.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Surprisingly poignant.\"",
+        "\"the scene with the scrapbook of her dogs almost brought me to tears.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys romantic comedies and dramas, often appreciating emotional depth and visual engagement. They prefer straightforward narratives with fast pacing but show little loyalty to specific creators or franchises."
+}

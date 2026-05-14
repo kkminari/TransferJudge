@@ -1,0 +1,89 @@
+{
+  "user_id": "AEQFTHWRKZ2T2LMV47WVHRSOKZGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, chick flick, horror, fantasy",
+      "evidence": [
+        "\"This is a total chick flick! Not saying anything bad about it, just being honest!\"",
+        "\"If you like seeing the challenges that face people and all they have to go thru to overcome them, you'll love this movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The only reason I give it 3 stars is because I can't really remember what the movie was about.\"",
+        "\"It walks on the fringes but overall it's a good movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Slow moving at times but an overall good movie.\"",
+        "\"Not action packed but interesting and entertaining.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Tatiana Maslany is an excellant actor!\"",
+        "\"The director played with the historical facts a little bit; but then again, who knows exactly what happened that long ago.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"I'm a big Natalie Portman fan and she plays this part extremely well.\"",
+        "\"Any movie with Rachel McAdams is worth watching as she is an excellant actress.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"This is one of the funniest movies I've ever seen; however, it's not for kids!\"",
+        "\"I laughed until my sides hurt. funny how it brings back memories, well written.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"It is funny, once the characters are established.\"",
+        "\"It will give you something to think about depending on how you want to see it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "high",
+      "evidence": [
+        "\"This is one of the funniest movies I've ever seen; however, it's not for kids!\"",
+        "\"I laughed until my sides hurt.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys a mix of comedy and drama, with a particular fondness for chick flicks and films featuring strong performances from favorite actors like Natalie Portman and Rachel McAdams. They appreciate humor and emotional engagement but have mixed feelings about narrative complexity and pacing."
+}

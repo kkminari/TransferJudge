@@ -1,0 +1,76 @@
+{
+  "user_id": "AHFSUWJ75CCNYPEQ3C765VSKCNLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, drama, action",
+      "evidence": [
+        "\"I'm partial to the history of civil war period, so that certainly colors my viewpoint.\"",
+        "\"Good entertainment, but a bit gory/ruthless.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Some character will be presented with a problem, & while the answer to the dilemma is fairly obvious, the story always seems to take the hard way around.\"",
+        "\"The way the plot bounces around, I'm pretty sure those folks wake up in the morning & start implementing their dreams into the story.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Delivery was another story. Sometimes we get to watch the blue 'loading, please wait' line for half the length of the show.\"",
+        "\"Good entertainment, but a bit gory/ruthless.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"While the story was a good one, I was kind of hoping to have the plot follow the priest further than it did.\"",
+        "\"This isn't my equipment or download speed; the problem seems to be only with this program.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Thanks(?) to Prime, we got hooked.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The expressions on the characters faces are to be watched.\"",
+        "\"Good show, & the characters even influence personal style.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"You'll either love it or hate it; I'm in the former camp.\"",
+        "\"We liked it, and we weren't too pleased when it was cancelled.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys historical and action dramas, often appreciating character expressions and emotional engagement. They have mixed feelings about narrative complexity and pacing, indicating a preference for entertaining content over high production quality."
+}

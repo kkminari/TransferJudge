@@ -1,0 +1,77 @@
+{
+  "user_id": "AEZMCGTQFV2VVBPDPGNSLHNBRUTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family, historical",
+      "evidence": [
+        "\"I love it. Watch it every year. It always reminds me that Christmas is not about stuff. But love and forgiveness.\"",
+        "\"Great movie. I missed it when it was playing at the movie theater. I could wait to rent it. Very well done.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This movie just about put me to sleep. I had to watch it in portions.\"",
+        "\"One of the most boring movies that I have seen lately. It took me about two days to watch it but I was determined to finish it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This movie just about put me to sleep. I had to watch it in portions.\"",
+        "\"One of the most boring movies that I have seen lately. It took me about two days to watch it but I was determined to finish it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Acting was not great. I felt betrayed when it ended suddenly and seemed unfinished.\"",
+        "\"Not only was it inappropriate but boring. We watched for a few minutes and then cut it off.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I missed it at the movie theater and was so glad that I finally got a chance to see it.\"",
+        "\"I just can't get enough of Downton Abbey. I was so excited for the new season to start.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"Wow, this really gives you an idea of what our fathers did for our country.\"",
+        "\"Great movie. I missed it when it was playing at the movie theater. I could wait to rent it. Very well done.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I love it. Watch it every year. It always reminds me that Christmas is not about stuff. But love and forgiveness.\"",
+        "\"This movie ropes you in to the storyline. Very refreshing.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and family-oriented stories, often reflecting on themes of love and forgiveness. They show a preference for slower-paced narratives but have mixed feelings about production quality, indicating a focus on emotional resonance over technical aspects."
+}

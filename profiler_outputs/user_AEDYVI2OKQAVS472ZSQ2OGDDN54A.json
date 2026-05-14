@@ -1,0 +1,75 @@
+{
+  "user_id": "AEDYVI2OKQAVS472ZSQ2OGDDN54A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family",
+      "evidence": [
+        "Nice Family Movie",
+        "Cute family movie"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Nice Family Movie",
+        "Cute family movie"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "brings out the 'Fireman' in all children"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "the price was right!",
+        "for the price how could I refuse"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "we are looking forward to the DVD release of the third one"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "made his Christmas brighter",
+        "brings out the 'Fireman' in all children"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "made his Christmas brighter",
+        "the child was so excited to receive this"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for family-oriented movies that are simple in narrative complexity. They value emotional impact and the joy these films bring to children, while being less concerned about production quality."
+}

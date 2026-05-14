@@ -1,0 +1,392 @@
+cluster_id,canonical,n_members,members_sample,n_users_total,avg_conf_mean
+40,nostalgic_preference,39,nostalgic_preference | appreciation_for_classics | nostalgic_appreciation | nostalgic_rewatch_value | appreciation_for_classic_storytelling | nostalgic_aesthetic_appreciation | nostalgia_appreciation | nostalgia_for_classic_films,55,0.8236538461538462
+28,family_friendly_content,19,family_friendly_content | family_friendly_content_preference | high_rating_for_family_content | strong_family_focus | value_for_family_friendly_content | positive_experience_with_kids_content | preference_for_adult_content | preference_for_family_friendly_content,39,0.8443421052631579
+58,appreciation_for_performances,15,appreciation_for_performances | character_performance_appreciation | high_quality_performances | strong_character_performance | strong_performances | performance_appreciation | preference_for_strong_performances | preference_for_high_quality_performances,18,0.8166666666666667
+38,humor_appreciation,9,humor_appreciation | appreciation_for_comedy | humor_in_storytelling | preference_for_humor | appreciation_for_witty_dialogue | appreciation_for_heartfelt_stories | appreciation_for_humor | dark_humor_appreciation,17,0.7810185185185186
+46,visual_aesthetic_appreciation,14,visual_aesthetic_appreciation | high_quality_appreciation | visual_aesthetics | visual_aesthetics_value | repeated_affirmation_of_quality | appreciation_for_technical_excellence | appreciation_for_visual_aesthetics | appreciation_for_visual_beauty,15,0.8107142857142857
+53,emotional_resonance,3,emotional_resonance | emotional_impact | emotional_impact_importance,14,0.8680555555555555
+13,high_recommendation,10,high_recommendation | enthusiastic_recommendation | high_recommendation_frequency | high_excitement_for_recommendations | strong_recommendation_preference | value_in_recommendations | positive_recommendation | positive_sentiment_towards_movies,13,0.865
+47,dislike_for_poor_execution,9,dislike_for_poor_execution | dislike_for_poor_storytelling | strong_dislike_for_bad_acting | disdain_for_poor_production_quality | dislike_for_poor_production | dislike_for_poor_production_quality | dislike_for_poor_production_values | dislike_for_poor_quality_films,11,0.8888888888888888
+45,disappointment_with_adaptations,10,disappointment_with_adaptations | disappointment_with_hype | disappointment_with_high_expectations | disappointment_in_low_ratings | disappointment_in_adaptations | disappointment_in_execution | disappointment_in_high_expectations | disappointment_in_lack_of_detail,11,0.7825
+41,high_rewatch_value,11,high_rewatch_value | repeated_viewing | repeated_viewing_value | repetitive_viewing_preference | rewatchable_favorites | repeated_enjoyment_of_movies | re_watchability | enjoyment_of_rewatchable_content,11,0.8409090909090909
+52,appreciation_for_character_depth,9,appreciation_for_character_depth | narrative_depth | value_for_character_depth | preference_for_character_depth | character_depth_and_growth | character_depth_appreciation | character_depth_importance | appreciation_for_story_depth,11,0.8296296296296296
+31,historical_context_appreciation,7,historical_context_appreciation | historical_interest | historical_significance_appreciation | interest_in_historical_context | value_for_historical_context | appreciation_for_historical_films | educational_value,10,0.7857142857142857
+54,interest_in_suspense_and_intrigue,10,interest_in_suspense_and_intrigue | suspense_enjoyment | suspense_and_intrigue_value | suspense_and_tension | suspense_appreciation | appreciation_for_action_and_suspense | appreciation_for_action_genre | action_and_thrills_preference,10,0.8400000000000001
+59,story_engagement,8,story_engagement | narrative_engagement | high_engagement_with_storytelling | preference_for_engaging_stories | appreciation_for_storytelling | appreciation_for_good_storytelling | appreciation_for_good_plot | engaging_storytelling,9,0.846875
+15,mixed_feelings_on_remakes,5,mixed_feelings_on_remakes | mixed_feelings_on_modern_adaptations | support_for_remakes_with_caution | disdain_for_poorly_executed_remakes | dislike_remakes,9,0.76
+48,high_quality_production,7,high_quality_production | high_fidelity_sound_experience | high_value_on_writing_quality | preference_for_film_quality | appreciation_for_high_quality_production | appreciation_for_quality_production | favoring_high_quality_production_values,8,0.8250000000000001
+49,dislike_for_boring_content,3,dislike_for_boring_content | dislike_for_boring_narratives | frustration_with_boring_content,8,0.8866666666666667
+29,appreciation_for_documentaries,3,appreciation_for_documentaries | documentary_appreciation | interest_in_documentaries,8,0.8791666666666668
+22,mixed_feelings_on_sequels,7,mixed_feelings_on_sequels | mixed_feelings_on_sequel_quality | mixed_reaction_to_sequels | mixed_experience_with_sequels | skepticism_towards_sequels | disappointment_in_franchise_decline | disappointment_in_sequel_quality,8,0.75
+8,mixed_reaction_to_science_fiction,7,mixed_reaction_to_science_fiction | sci_fi_interest | preference_for_sci_fi_and_science | appreciation_for_sci_fi | enjoyment_of_sci_fi_genre | enjoyment_of_sci_fi_humor | enjoyment_of_futuristic_sci_fi,7,0.7999999999999999
+5,disappointment_with_product_quality,6,disappointment_with_product_quality | high_quality_expectation | high_quality_dvd_preference | value_for_dvd_presentations | concert_dvd_preference | disappointment_with_technical_quality,7,0.7833333333333333
+43,high_rating_consistency,6,high_rating_consistency | high_rating_for_quality | general_satisfaction_with_high_ratings | satisfaction_with_high_ratings | consistency_in_ratings | consistent_positive_rating,6,0.9249999999999999
+60,value_of_story_twists,6,value_of_story_twists | appreciation_for_surprises | appreciation_for_twists | appreciation_for_plot_twists | appreciation_for_creative_storytelling | enjoyment_of_surprise_twists,6,0.8250000000000001
+3,mixed_reaction_to_subtitles,6,mixed_reaction_to_subtitles | mixed_reaction_to_subtitled_films | language_preference | tolerance_for_subtitles | appreciation_for_subtitles | dislike_for_subtitled_films,6,0.7416666666666667
+4,mixed_reaction_to_average_content,4,mixed_reaction_to_average_content | negative_reaction_to_below_average_content | mixed_reaction_to_mediocre_content | mixed_reaction_to_disappointing_content,6,0.7291666666666666
+55,character_driven_narratives,4,character_driven_narratives | appreciation_for_character_driven_narratives | character_appreciation | appreciation_for_character_driven_stories,6,0.8062499999999999
+18,narrative_simplicity,5,narrative_simplicity | appreciation_for_timely_themes | critique_of_shallow_storytelling | appreciation_for_complex_themes | appreciation_for_complex_narratives,5,0.8300000000000001
+35,unexpected_endings_enjoyment,5,unexpected_endings_enjoyment | preference_for_positive_endings | appreciation_for_unconventional_endings | desire_for_happy_endings | disappointment_in_endings,5,0.73
+25,mixed_reaction_to_pacing,3,mixed_reaction_to_pacing | mixed_reactions_to_pacing | mixed_feelings_on_slow_pacing,5,0.7166666666666667
+26,narrative_pacing_issues,5,narrative_pacing_issues | narrative_pacing_concern | frustration_with_pacing_issues | critique_of_pacing_in_narratives | critical_of_pacing_and_structure,5,0.79
+39,comedy_enjoyment,5,comedy_enjoyment | appreciation_for_silly_comedies | appreciation_for_classic_comedies | enjoyment_of_silly_humor | enjoyment_of_comedy,5,0.85
+61,value_for_money,1,value_for_money,5,0.8
+9,series_loyalty,4,series_loyalty | high_rating_for_good_series | series_affection | preference_for_series,5,0.8625
+7,genre_diversity,4,genre_diversity | preference_for_variety | crossover_interest_in_genres | enjoyment_of_variety,5,0.775
+42,value_for_entertainment_quality,4,value_for_entertainment_quality | value_appreciation | entertainment_value | entertainment_value_necessity,4,0.7875
+32,cultural_appreciation,4,cultural_appreciation | cultural_exploration | appreciation_for_cultural_diversity | appreciation_for_cultural_insights,4,0.7375
+33,high_expectations_for_quality,3,high_expectations_for_quality | high_standards_for_quality | high_standards_for_story_quality,4,0.875
+50,narrative_predictability_dislike,4,narrative_predictability_dislike | predictability_dislike | disappointment_with_predictability | dislike_for_predictability,4,0.8
+27,mixed_feelings_on_documentaries,3,mixed_feelings_on_documentaries | mixed_feelings_on_documentary_style | enjoyment_of_documentaries,4,0.7833333333333333
+23,sequel_enjoyment,3,sequel_enjoyment | anticipation_for_sequels | enthusiasm_for_sequels,4,0.8583333333333334
+56,fondness_for_character_driven_stories,3,fondness_for_character_driven_stories | preference_for_character_driven_narratives | character_development_importance,4,0.8083333333333332
+57,interest_in_character_development,3,interest_in_character_development | positive_character_portrayals | character_portrayal_quality,4,0.8250000000000001
+62,preference_for_character_development,1,preference_for_character_development,3,0.8333333333333334
+51,appreciation_for_horror_and_gore,3,appreciation_for_horror_and_gore | enjoys_creepy_elements | favoring_intense_horror_experiences,3,0.85
+1,packaging_importance,3,packaging_importance | positive_shipping_experience | quick_delivery_preference,3,0.85
+0,timeliness_of_delivery,3,timeliness_of_delivery | consistency_in_product_expectations | consistent_quality_expectation,3,0.9
+44,plot_absurdity_aversion,3,plot_absurdity_aversion | dislike_for_shallow_plots | dislike_for_incoherent_plots,3,0.8833333333333333
+17,gift_for_mom,3,gift_for_mom | gift_giving_focus | repeated_gift_theme,3,0.9333333333333332
+37,lighthearted_entertainment,3,lighthearted_entertainment | lighthearted_enjoyment | preference_for_fun_and_lighthearted_content,3,0.8166666666666668
+6,season_deterioration_disappointment,3,season_deterioration_disappointment | enthusiasm_for_season_continuity | disappointment_with_current_seasons,3,0.8333333333333334
+10,performer_chemistry_appreciation,3,performer_chemistry_appreciation | character_chemistry_appreciation | character_chemistry_importance,3,0.7666666666666666
+11,historical_accuracy_in_westerns,3,historical_accuracy_in_westerns | appreciation_for_historical_accuracy | dislike_for_inaccurate_representations,3,0.85
+12,support_for_female_characters,3,support_for_female_characters | appreciation_for_strong_female_characters | female_character_focus,3,0.75
+14,western_genre_preference,3,western_genre_preference | admiration_for_classic_westerns | fondness_for_classic_westerns,3,0.8666666666666667
+16,positive_reaction_to_female_leads,3,positive_reaction_to_female_leads | appreciation_for_women_actors | admiration_for_performances_by_female_leads,3,0.7333333333333334
+2,interest_in_christian_themes,3,interest_in_christian_themes | spiritual_and_religious_themes | spiritual_themes,3,0.7833333333333333
+19,series_continuation_desire,3,series_continuation_desire | series_engagement | enthusiasm_for_series_continuation,3,0.7833333333333333
+20,mixed_feelings_on_auteur_films,3,mixed_feelings_on_auteur_films | appreciation_for_auteur_directors | admiration_for_auteurs,3,0.75
+21,dislike_for_excessive_profanity,3,dislike_for_excessive_profanity | dislike_for_excessive_vulgarity | dislike_for_gritty_but_not_fun_movies,3,0.7999999999999999
+24,appreciation_for_adaptations,3,appreciation_for_adaptations | appreciation_for_book_adaptations | adaptation_enjoyment,3,0.8166666666666668
+30,aversion_to_gratuitous_content,3,aversion_to_gratuitous_content | dislike_for_violent_content | dislike_for_excessive_violence,3,0.8333333333333334
+34,high_cast_quality,3,high_cast_quality | cast_ensemble_quality | ensemble_cast_appreciation,3,0.8666666666666667
+36,strong_character_development,3,strong_character_development | value_of_character_development | appreciation_for_character_development,3,0.7833333333333333
+71,binge_worthy_content,1,binge_worthy_content,2,0.875
+76,high_expectations_for_horror,1,high_expectations_for_horror,2,0.825
+75,franchise_loyalty,1,franchise_loyalty,2,0.8500000000000001
+74,thriller_appreciation,1,thriller_appreciation,2,0.825
+73,general_positive_sentiment,1,general_positive_sentiment,2,0.925
+72,musical_appreciation,1,musical_appreciation,2,0.825
+70,mixed_rating_tolerance,1,mixed_rating_tolerance,2,0.675
+68,mixed_feelings_on_predictability,1,mixed_feelings_on_predictability,2,0.7
+67,preference_for_comedy,1,preference_for_comedy,2,0.875
+66,overall_positive_sentiment,1,overall_positive_sentiment,2,0.975
+65,mixed_reaction_to_complexity,1,mixed_reaction_to_complexity,2,0.725
+64,sociological_interest,1,sociological_interest,2,0.8
+63,enthusiasm_for_binge_watching,1,enthusiasm_for_binge_watching,2,0.8500000000000001
+69,mixed_expectations,1,mixed_expectations,2,0.6
+292,appreciation_for_fun_adventures,1,appreciation_for_fun_adventures,1,0.9
+283,admiration_for_director_auteurs,1,admiration_for_director_auteurs,1,0.85
+290,appreciation_for_noir_elements,1,appreciation_for_noir_elements,1,0.8
+289,appreciation_for_inspiring_true_stories,1,appreciation_for_inspiring_true_stories,1,0.85
+288,appreciation_for_informative_content,1,appreciation_for_informative_content,1,0.8
+287,appreciation_for_high_quality_restorations,1,appreciation_for_high_quality_restorations,1,0.85
+286,appreciation_for_heartwarming_stories,1,appreciation_for_heartwarming_stories,1,0.85
+285,appreciation_for_gritty_realism,1,appreciation_for_gritty_realism,1,0.85
+284,appreciation_for_classic_comedy,1,appreciation_for_classic_comedy,1,0.9
+279,actor_loyalty,1,actor_loyalty,1,0.75
+282,adaptation_fidelity,1,adaptation_fidelity,1,0.9
+281,actor_versus_rapper_preference,1,actor_versus_rapper_preference,1,0.7
+280,actor_preference_lori_loughlin,1,actor_preference_lori_loughlin,1,0.85
+278,actor_admiration,1,actor_admiration,1,0.85
+277,animal_cruelty_awareness,1,animal_cruelty_awareness,1,0.9
+276,animated_childhood_nostalgia,1,animated_childhood_nostalgia,1,0.9
+275,animation_quality,1,animation_quality,1,0.85
+291,appreciation_for_quirkiness,1,appreciation_for_quirkiness,1,0.85
+307,enthusiasm_for_dc_universe,1,enthusiasm_for_dc_universe,1,0.9
+293,appreciation_for_classic_disney,1,appreciation_for_classic_disney,1,0.8
+303,enjoyment_of_intense_and_moving_stories,1,enjoyment_of_intense_and_moving_stories,1,0.9
+273,appreciation_for_british_humor,1,appreciation_for_british_humor,1,0.8
+310,enjoyment_of_humor,1,enjoyment_of_humor,1,0.85
+309,enjoyment_of_mysteries,1,enjoyment_of_mysteries,1,0.9
+308,enthusiasm_for_new_content,1,enthusiasm_for_new_content,1,0.8
+306,enjoyment_of_vintage_scary_movies,1,enjoyment_of_vintage_scary_movies,1,0.7
+305,enjoyment_of_unpredictable_plots,1,enjoyment_of_unpredictable_plots,1,0.85
+304,enjoyment_of_surreal_humor,1,enjoyment_of_surreal_humor,1,0.65
+302,desire_for_more_content,1,desire_for_more_content,1,0.85
+294,appreciation_for_classic_film,1,appreciation_for_classic_film,1,0.9
+301,appreciation_for_family_themes,1,appreciation_for_family_themes,1,0.8
+300,appreciation_for_diverse_music_styles,1,appreciation_for_diverse_music_styles,1,0.8
+299,appreciation_for_directorial_style,1,appreciation_for_directorial_style,1,0.65
+298,appreciation_for_film_noir,1,appreciation_for_film_noir,1,0.95
+297,appreciation_for_complex_characters,1,appreciation_for_complex_characters,1,0.9
+296,appreciation_for_compelling_narratives,1,appreciation_for_compelling_narratives,1,0.75
+295,appreciation_for_classic_romance,1,appreciation_for_classic_romance,1,0.8
+274,appreciation_for_characters,1,appreciation_for_characters,1,0.9
+236,appreciation_for_social_commentary,1,appreciation_for_social_commentary,1,0.8
+272,appreciation_for_british_cinema,1,appreciation_for_british_cinema,1,0.85
+244,critique_of_language_use,1,critique_of_language_use,1,0.7
+251,cultural_representation,1,cultural_representation,1,0.8
+250,cultural_inclusivity_value,1,cultural_inclusivity_value,1,0.7
+249,cultural_critique_of_hollywood,1,cultural_critique_of_hollywood,1,0.9
+248,critique_of_weak_dialogue,1,critique_of_weak_dialogue,1,0.85
+247,critique_of_repetitive_humor,1,critique_of_repetitive_humor,1,0.75
+246,critique_of_pedestrian_storytelling,1,critique_of_pedestrian_storytelling,1,0.75
+245,critique_of_lazy_humor,1,critique_of_lazy_humor,1,0.85
+243,critique_of_character_development,1,critique_of_character_development,1,0.8
+271,appreciation_for_authenticity,1,appreciation_for_authenticity,1,0.8
+242,critical_view_on_quality,1,critical_view_on_quality,1,0.6
+241,critical_of_repetitive_series,1,critical_of_repetitive_series,1,0.85
+240,collection_completion,1,collection_completion,1,0.85
+239,appreciation_for_war_movies,1,appreciation_for_war_movies,1,0.85
+238,appreciation_for_visual_storytelling,1,appreciation_for_visual_storytelling,1,0.8
+237,appreciation_for_underappreciated_films,1,appreciation_for_underappreciated_films,1,0.8
+312,emotional_investment,1,emotional_investment,1,0.8
+252,critical_of_historical_accuracy,1,critical_of_historical_accuracy,1,0.7
+253,critical_of_formulaic_plots,1,critical_of_formulaic_plots,1,0.8
+254,collectors_enthusiasm,1,collectors_enthusiasm,1,0.8
+255,comedic_genius_appreciation,1,comedic_genius_appreciation,1,0.9
+270,appreciation_for_action_scenes,1,appreciation_for_action_scenes,1,0.8
+269,anticipation_for_collection,1,anticipation_for_collection,1,0.8
+268,animation_quality_valued,1,animation_quality_valued,1,0.9
+267,animated_movie_comparisons,1,animated_movie_comparisons,1,0.7
+266,appreciation_for_slow_pacing,1,appreciation_for_slow_pacing,1,0.9
+265,appreciation_for_special_effects,1,appreciation_for_special_effects,1,0.7
+264,critical_of_childish_storylines,1,critical_of_childish_storylines,1,0.9
+263,critical_of_boring_interviews,1,critical_of_boring_interviews,1,0.7
+262,critical_analysis,1,critical_analysis,1,0.8
+261,creature_actor_appreciation,1,creature_actor_appreciation,1,0.9
+260,consistent_quality,1,consistent_quality,1,0.9
+259,critical_of_dark_themes,1,critical_of_dark_themes,1,0.75
+258,consistent_positive_feedback,1,consistent_positive_feedback,1,1.0
+257,community_sharing,1,community_sharing,1,0.75
+256,commercial_discontent,1,commercial_discontent,1,0.8
+311,dialogue_quality_concern,1,dialogue_quality_concern,1,0.8
+350,discontent_with_auto_downloads,1,discontent_with_auto_downloads,1,1.0
+313,emotional_resonance_preference,1,emotional_resonance_preference,1,0.9
+362,disappointment_in_story_inconsistency,1,disappointment_in_story_inconsistency,1,0.8
+369,dislike_for_poor_direction,1,dislike_for_poor_direction,1,0.9
+368,dislike_for_deceptive_content,1,dislike_for_deceptive_content,1,0.85
+367,dislike_for_cartoonish_characters,1,dislike_for_cartoonish_characters,1,0.8
+366,dislike_for_art_house_style,1,dislike_for_art_house_style,1,0.95
+365,disappointment_with_boring_content,1,disappointment_with_boring_content,1,0.8
+364,disappointment_threshold,1,disappointment_threshold,1,0.85
+363,disappointment_in_theme_quality,1,disappointment_in_theme_quality,1,0.75
+361,disappointment_in_repetitive_themes,1,disappointment_in_repetitive_themes,1,0.8
+371,dislike_for_repetitive_narratives,1,dislike_for_repetitive_narratives,1,0.8
+360,disappointment_in_classics,1,disappointment_in_classics,1,0.75
+359,disappointment_with_documentaries,1,disappointment_with_documentaries,1,0.8
+358,disappointment_with_horror_elements,1,disappointment_with_horror_elements,1,0.9
+357,dislike_for_amateurish_production,1,dislike_for_amateurish_production,1,0.8
+356,dislike_for_adultery_themes,1,dislike_for_adultery_themes,1,0.9
+355,disdain_for_modern_reinterpretations,1,disdain_for_modern_reinterpretations,1,0.75
+354,disdain_for_modern_filmmaking,1,disdain_for_modern_filmmaking,1,0.95
+370,dislike_for_repetitive_humor,1,dislike_for_repetitive_humor,1,0.65
+372,dislike_for_rushed_storytelling,1,dislike_for_rushed_storytelling,1,0.85
+314,emotional_resonance_value,1,emotional_resonance_value,1,0.85
+382,dislike_for_excessive_darkness,1,dislike_for_excessive_darkness,1,0.85
+389,dislike_for_kid_content,1,dislike_for_kid_content,1,1.0
+388,dislike_for_incomplete_adaptations,1,dislike_for_incomplete_adaptations,1,0.65
+387,dislike_for_heavy_handed_political_comedy,1,dislike_for_heavy_handed_political_comedy,1,0.85
+386,dislike_for_excessive_staging,1,dislike_for_excessive_staging,1,0.85
+385,dislike_for_excessive_sappiness,1,dislike_for_excessive_sappiness,1,0.75
+384,dislike_for_excessive_manifesto_style,1,dislike_for_excessive_manifesto_style,1,0.7
+383,dislike_for_excessive_exposition,1,dislike_for_excessive_exposition,1,0.75
+381,dislike_for_derivative_narratives,1,dislike_for_derivative_narratives,1,0.8
+373,dislike_for_shallow_representation,1,dislike_for_shallow_representation,1,0.9
+380,dislike_for_excessive_talking_in_shows,1,dislike_for_excessive_talking_in_shows,1,0.85
+379,dislike_for_modern_filmmaking,1,dislike_for_modern_filmmaking,1,0.85
+378,dislike_for_political_correctness,1,dislike_for_political_correctness,1,0.75
+377,dislike_for_political_propaganda,1,dislike_for_political_propaganda,1,0.8
+376,dislike_for_young_adult_content,1,dislike_for_young_adult_content,1,0.9
+375,dislike_for_virtue_signaling,1,dislike_for_virtue_signaling,1,0.9
+374,dislike_for_torture_scenes,1,dislike_for_torture_scenes,1,0.8
+353,discontent_with_series,1,discontent_with_series,1,0.8
+352,discontent_with_dvd_pricing_strategies,1,discontent_with_dvd_pricing_strategies,1,0.9
+351,discontent_with_average_storylines,1,discontent_with_average_storylines,1,0.8
+323,fondness_for_campy_horror,1,fondness_for_campy_horror,1,0.8
+330,fondness_for_veteran_actors,1,fondness_for_veteran_actors,1,0.8
+329,fondness_for_screwball_comedy,1,fondness_for_screwball_comedy,1,0.85
+328,fondness_for_scary_movies,1,fondness_for_scary_movies,1,0.85
+327,fondness_for_musicals_and_dance,1,fondness_for_musicals_and_dance,1,0.85
+326,action_and_humor_combination,1,action_and_humor_combination,1,0.8
+325,fondness_for_intellectual_challenges,1,fondness_for_intellectual_challenges,1,0.9
+324,fondness_for_emotional_storytelling,1,fondness_for_emotional_storytelling,1,0.8
+322,enthusiasm_for_series,1,enthusiasm_for_series,1,0.95
+234,cautious_optimism,1,cautious_optimism,1,0.65
+321,enthusiasm_for_red_green_show,1,enthusiasm_for_red_green_show,1,0.9
+320,enjoyment_of_familiar_genres,1,enjoyment_of_familiar_genres,1,0.85
+319,enjoyment_of_dark_humor,1,enjoyment_of_dark_humor,1,0.9
+318,enjoyment_of_campy_humor,1,enjoyment_of_campy_humor,1,0.8
+317,enjoyment_of_alternate_history,1,enjoyment_of_alternate_history,1,0.8
+316,enjoyment_of_action_movies,1,enjoyment_of_action_movies,1,0.8
+315,emotional_resonance_with_music,1,emotional_resonance_with_music,1,0.9
+331,food_integration,1,food_integration,1,0.6
+332,frequent_use_of_simple_language,1,frequent_use_of_simple_language,1,0.75
+333,fondness_for_broadway_influence,1,fondness_for_broadway_influence,1,0.85
+334,feel_good_movies_preference,1,feel_good_movies_preference,1,0.9
+349,disaster_movie_enthusiast,1,disaster_movie_enthusiast,1,0.9
+348,disappointment_with_weak_female_characters,1,disappointment_with_weak_female_characters,1,0.8
+347,disappointment_with_star_performances,1,disappointment_with_star_performances,1,0.8
+346,disappointment_with_lengthy_performances,1,disappointment_with_lengthy_performances,1,0.75
+345,dislike_for_b_movies,1,dislike_for_b_movies,1,0.95
+344,disney_affinity,1,disney_affinity,1,0.9
+343,documentary_preference,1,documentary_preference,1,0.9
+342,documentary_quality_expectation,1,documentary_quality_expectation,1,0.9
+341,favoring_familiar_voice_actors,1,favoring_familiar_voice_actors,1,0.85
+340,favoring_directing_and_acting_quality,1,favoring_directing_and_acting_quality,1,0.8
+339,favoring_blu_ray_releases,1,favoring_blu_ray_releases,1,0.85
+338,favorable_comparison_to_network_tv,1,favorable_comparison_to_network_tv,1,0.65
+337,favoring_timely_subjects,1,favoring_timely_subjects,1,0.7
+336,era_interest,1,era_interest,1,0.75
+335,enthusiasm_for_specific_artists,1,enthusiasm_for_specific_artists,1,0.9
+235,boredom_threshold,1,boredom_threshold,1,0.85
+195,pacing_importance,1,pacing_importance,1,0.85
+233,childrens_engagement,1,childrens_engagement,1,0.8
+124,high_appreciation_for_excellence,1,high_appreciation_for_excellence,1,0.9
+131,kevin_costner_appreciation,1,kevin_costner_appreciation,1,0.9
+130,interest_in_youth_culture,1,interest_in_youth_culture,1,0.75
+129,interest_in_voice_over_commentaries,1,interest_in_voice_over_commentaries,1,0.7
+128,mixed_feelings_on_animation_styles,1,mixed_feelings_on_animation_styles,1,0.75
+127,historical_engagement,1,historical_engagement,1,0.9
+126,high_expectations_for_reboots,1,high_expectations_for_reboots,1,0.8
+125,high_excitement_for_movies,1,high_excitement_for_movies,1,0.8
+123,hallmark_channel_fan,1,hallmark_channel_fan,1,0.85
+133,liking_for_comedic_elements,1,liking_for_comedic_elements,1,0.9
+122,government_critique,1,government_critique,1,0.85
+121,general_movie_enjoyment,1,general_movie_enjoyment,1,0.9
+120,frustration_with_recommendation_algorithm,1,frustration_with_recommendation_algorithm,1,1.0
+119,high_picture_sound_quality,1,high_picture_sound_quality,1,0.85
+118,high_value_on_writing_and_direction,1,high_value_on_writing_and_direction,1,0.75
+117,high_standards_for_production_quality,1,high_standards_for_production_quality,1,0.85
+116,high_rating_for_inspiring_stories,1,high_rating_for_inspiring_stories,1,0.8
+132,lighthearted_comedy_preference,1,lighthearted_comedy_preference,1,0.85
+134,loyalty_to_favorite_actors,1,loyalty_to_favorite_actors,1,0.9
+153,interest_in_psychological_themes,1,interest_in_psychological_themes,1,0.85
+144,horror_enthusiast,1,horror_enthusiast,1,0.9
+151,interest_in_creative_process,1,interest_in_creative_process,1,0.75
+150,interest_in_based_on_true_story,1,interest_in_based_on_true_story,1,0.85
+149,intelligent_analysis_preference,1,intelligent_analysis_preference,1,0.75
+148,inspirational_pet_stories,1,inspirational_pet_stories,1,0.8
+147,inspirational_content,1,inspirational_content,1,0.85
+146,informative_content_preference,1,informative_content_preference,1,0.8
+145,humor_value,1,humor_value,1,0.8
+143,holiday_movie_appreciation,1,holiday_movie_appreciation,1,0.7
+135,mixed_experience,1,mixed_experience,1,0.7
+142,interest_in_real_life_stories,1,interest_in_real_life_stories,1,0.75
+141,interest_in_social_issues,1,interest_in_social_issues,1,0.8
+140,interest_in_space_movies,1,interest_in_space_movies,1,0.75
+139,mixed_feelings_about_reality_tv,1,mixed_feelings_about_reality_tv,1,0.75
+138,mixed_feelings_about_musicals,1,mixed_feelings_about_musicals,1,0.7
+137,mixed_experience_with_dvds,1,mixed_experience_with_dvds,1,0.8
+136,mixed_experience_with_3d,1,mixed_experience_with_3d,1,0.7
+115,high_rating_for_cuteness,1,high_rating_for_cuteness,1,0.9
+114,high_rating_for_alien_movies,1,high_rating_for_alien_movies,1,0.9
+113,high_quality_writing,1,high_quality_writing,1,0.9
+85,nostalgia_disappointment,1,nostalgia_disappointment,1,0.85
+92,mixed_reaction_to_teen_movies,1,mixed_reaction_to_teen_movies,1,0.7
+91,mixed_review_tolerance,1,mixed_review_tolerance,1,0.7
+90,mixed_feelings_on_b_movies,1,mixed_feelings_on_b_movies,1,0.7
+89,mixed_feelings_on_dc_movies,1,mixed_feelings_on_dc_movies,1,0.8
+88,mixed_feelings_on_ending,1,mixed_feelings_on_ending,1,0.7
+87,mixed_feelings_on_execution,1,mixed_feelings_on_execution,1,0.7
+86,mixed_feelings_on_final_seasons,1,mixed_feelings_on_final_seasons,1,0.75
+84,mixed_feelings_on_franchises,1,mixed_feelings_on_franchises,1,0.75
+112,high_quality_spy_content,1,high_quality_spy_content,1,0.9
+83,mixed_feelings_on_long_series,1,mixed_feelings_on_long_series,1,0.7
+82,mixed_feelings_on_music,1,mixed_feelings_on_music,1,0.8
+81,narrative_quality,1,narrative_quality,1,0.8
+80,mixed_feelings_on_reboots,1,mixed_feelings_on_reboots,1,0.75
+79,mixed_feelings_on_plot_development,1,mixed_feelings_on_plot_development,1,0.75
+78,mixed_feelings_on_scripted_content,1,mixed_feelings_on_scripted_content,1,0.7
+77,mixed_feelings_on_romantic_narratives,1,mixed_feelings_on_romantic_narratives,1,0.7
+93,mixed_reactions_to_bizarre_humor,1,mixed_reactions_to_bizarre_humor,1,0.8
+94,mixed_reactions_to_complex_narratives,1,mixed_reactions_to_complex_narratives,1,0.7
+95,mixed_reaction_to_new_releases,1,mixed_reaction_to_new_releases,1,0.75
+96,mixed_reception_tolerance,1,mixed_reception_tolerance,1,0.8
+111,law_and_order_affinity,1,law_and_order_affinity,1,0.9
+110,70s_horror_admirer,1,70s_horror_admirer,1,0.85
+109,mixed_feelings_on_story_quality,1,mixed_feelings_on_story_quality,1,0.8
+108,mixed_feelings_on_violence,1,mixed_feelings_on_violence,1,0.8
+107,mixed_reaction_to_cinematography,1,mixed_reaction_to_cinematography,1,0.75
+106,mixed_reaction_to_comedy,1,mixed_reaction_to_comedy,1,0.75
+105,mixed_reaction_to_complex_narratives,1,mixed_reaction_to_complex_narratives,1,0.7
+104,narrative_complexity,1,narrative_complexity,1,0.8
+103,musical_elements_enjoyment,1,musical_elements_enjoyment,1,0.75
+102,mixed_reaction_to_dubbing,1,mixed_reaction_to_dubbing,1,0.75
+101,music_quality_appreciation,1,music_quality_appreciation,1,0.9
+100,mixed_feelings_on_series_continuations,1,mixed_feelings_on_series_continuations,1,0.7
+99,mixed_reaction_to_fantasy,1,mixed_reaction_to_fantasy,1,0.7
+98,mixed_reaction_to_monster_reveal,1,mixed_reaction_to_monster_reveal,1,0.75
+97,mixed_feelings_on_auteur_styles,1,mixed_feelings_on_auteur_styles,1,0.7
+152,interest_in_educational_content,1,interest_in_educational_content,1,0.8
+154,nostalgia_for_original_casts,1,nostalgia_for_original_casts,1,0.8
+232,chef_mentorship_appreciation,1,chef_mentorship_appreciation,1,0.9
+204,preference_for_positive_themes,1,preference_for_positive_themes,1,0.8
+211,realism_appreciation,1,realism_appreciation,1,0.7
+210,production_quality_importance,1,production_quality_importance,1,0.85
+209,preference_for_witty_writing,1,preference_for_witty_writing,1,0.85
+208,preference_for_unique_narratives,1,preference_for_unique_narratives,1,0.75
+207,preference_for_unique_concepts,1,preference_for_unique_concepts,1,0.85
+206,preference_for_subtle_humor,1,preference_for_subtle_humor,1,0.75
+205,preference_for_serial_format,1,preference_for_serial_format,1,0.95
+203,recommendation_for_special_occasions,1,recommendation_for_special_occasions,1,0.7
+213,preference_for_originality,1,preference_for_originality,1,0.8
+202,positive_storytelling,1,positive_storytelling,1,0.8
+201,nostalgic_auteur_loyalty,1,nostalgic_auteur_loyalty,1,0.75
+200,frustration_with_inaccurate_advertising,1,frustration_with_inaccurate_advertising,1,0.8
+199,positive_reinforcement,1,positive_reinforcement,1,0.8
+198,political_and_social_commentary,1,political_and_social_commentary,1,0.8
+197,plot_coherence_expectation,1,plot_coherence_expectation,1,0.85
+196,pixar_mixed_feelings,1,pixar_mixed_feelings,1,0.8
+212,realism_expectation,1,realism_expectation,1,0.8
+214,preference_for_non_violent_narratives,1,preference_for_non_violent_narratives,1,0.9
+155,skepticism_towards_reality_tv,1,skepticism_towards_reality_tv,1,0.7
+224,frustration_with_inconsistencies,1,frustration_with_inconsistencies,1,0.9
+231,character_motivation_importance,1,character_motivation_importance,1,0.85
+230,character_focus,1,character_focus,1,0.9
+229,character_engagement,1,character_engagement,1,0.9
+228,character_depth_value,1,character_depth_value,1,0.8
+227,character_connection_importance,1,character_connection_importance,1,0.8
+226,frustration_with_cast_changes,1,frustration_with_cast_changes,1,0.85
+225,fondness_for_murder_mysteries,1,fondness_for_murder_mysteries,1,0.85
+223,preference_for_inspiring_narratives,1,preference_for_inspiring_narratives,1,0.9
+215,preference_for_mysteries,1,preference_for_mysteries,1,0.75
+222,preference_for_high_quality_video,1,preference_for_high_quality_video,1,0.9
+221,preference_for_fresh_concepts,1,preference_for_fresh_concepts,1,0.8
+220,preference_for_interwoven_stories,1,preference_for_interwoven_stories,1,0.8
+219,preference_for_fast_paced_stories,1,preference_for_fast_paced_stories,1,0.85
+218,preference_for_engaging_plots,1,preference_for_engaging_plots,1,0.9
+217,preference_for_classic_storytelling,1,preference_for_classic_storytelling,1,0.85
+216,preference_for_fast_pacing,1,preference_for_fast_pacing,1,0.9
+194,operatic_affection,1,operatic_affection,1,0.9
+193,positive_surprise_in_storytelling,1,positive_surprise_in_storytelling,1,0.75
+192,rental_preference,1,rental_preference,1,0.85
+164,strong_narrative_satisfaction,1,strong_narrative_satisfaction,1,0.9
+171,selective_rating_criteria,1,selective_rating_criteria,1,0.7
+170,scary_movie_enthusiasm,1,scary_movie_enthusiasm,1,0.9
+169,romantic_relationships,1,romantic_relationships,1,0.9
+168,repeated_expressions_of_love,1,repeated_expressions_of_love,1,0.9
+167,skepticism_towards_hyped_films,1,skepticism_towards_hyped_films,1,0.7
+166,skepticism_towards_modern_narratives,1,skepticism_towards_modern_narratives,1,0.8
+165,strong_reaction_to_bad_quality,1,strong_reaction_to_bad_quality,1,0.9
+163,strong_characterization,1,strong_characterization,1,0.9
+191,tolerance_for_slow_pacing,1,tolerance_for_slow_pacing,1,0.85
+162,strong_actor_preference,1,strong_actor_preference,1,0.85
+161,sports_fandom_influence,1,sports_fandom_influence,1,0.7
+160,social_issue_awareness,1,social_issue_awareness,1,0.8
+159,social_impact_awareness,1,social_impact_awareness,1,0.7
+158,slow_burn_tolerance,1,slow_burn_tolerance,1,0.75
+157,slow_burn_appreciation,1,slow_burn_appreciation,1,0.75
+156,slapstick_humor_enjoyment,1,slapstick_humor_enjoyment,1,0.75
+172,series_enjoyment,1,series_enjoyment,1,0.95
+173,skepticism_towards_action_films,1,skepticism_towards_action_films,1,0.8
+174,strong_supporting_cast_value,1,strong_supporting_cast_value,1,0.8
+175,supermarionation_affinity,1,supermarionation_affinity,1,0.9
+190,tolerance_for_predictability_in_kids_movies,1,tolerance_for_predictability_in_kids_movies,1,0.8
+189,tolerance_for_average_movies,1,tolerance_for_average_movies,1,0.7
+188,thrill_seeker,1,thrill_seeker,1,0.8
+187,thought_provoking_programs,1,thought_provoking_programs,1,0.8
+186,thought_provocation_value,1,thought_provocation_value,1,0.85
+185,suspense_and_twists,1,suspense_and_twists,1,0.9
+184,support_for_lgbt_representation,1,support_for_lgbt_representation,1,0.75
+183,uplifting_content_preference,1,uplifting_content_preference,1,0.9
+182,wes_anderson_critical_fan,1,wes_anderson_critical_fan,1,0.85
+181,visual_quality_preference,1,visual_quality_preference,1,0.85
+180,video_quality_concern,1,video_quality_concern,1,0.9
+179,variable_rating_on_quality,1,variable_rating_on_quality,1,0.75
+178,value_in_different_perspectives,1,value_in_different_perspectives,1,0.65
+177,value_for_money_concern,1,value_for_money_concern,1,0.75
+176,support_for_collecting,1,support_for_collecting,1,0.95
+390,zombie_fanaticism,1,zombie_fanaticism,1,0.85

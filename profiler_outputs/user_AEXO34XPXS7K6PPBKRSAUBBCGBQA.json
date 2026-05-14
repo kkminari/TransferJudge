@@ -1,0 +1,77 @@
+{
+  "user_id": "AEXO34XPXS7K6PPBKRSAUBBCGBQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, thriller, drama",
+      "evidence": [
+        "I am a die hard romantic, so for me, this was a romantic story with absolutely everything except for a fourth film.",
+        "I like this one, everything you wish for in a romance, but perhaps a bit more modern."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "It leaves you guessing many things about the murderer right up to the end of the third season.",
+        "Though you know who the killer is from the beginning, it keeps you on edge watching the complex characters and how they interact."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "It took me a while to get in to the series, don't watch much BBC, but I watched it only because of Jamie Dornan.",
+        "I watched all three seasons in a long weekend."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The acting was magnificent, both from Christian Bale and from Rosemund Pike.",
+        "The cinematography was incredible, worth is just to see the magnificence of it."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Jamie Dornan, Denzel Washington",
+      "evidence": [
+        "I like watching what Jamie Dornan can do.",
+        "Love Denzel in just about everything."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "It keeps you on edge watching the complex characters and how they interact.",
+        "I found this to be a powerful movie."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "The ending caught me off guard, very violent and actually made me cry.",
+        "It is what I call a small movies, but great actors that make it a great movie in my opinion."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for romance and complex narratives, often enjoying character-driven stories with emotional depth. They show a high sensitivity to production quality and have a notable loyalty to specific actors like Jamie Dornan and Denzel Washington."
+}

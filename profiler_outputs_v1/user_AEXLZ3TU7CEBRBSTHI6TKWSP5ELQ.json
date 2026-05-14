@@ -1,0 +1,77 @@
+{
+  "user_id": "AEXLZ3TU7CEBRBSTHI6TKWSP5ELQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "musicals, classic films",
+      "evidence": [
+        "\"I love all of Steven's music and this DVD is just wonderful.\"",
+        "\"What a great and wonderful film.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This is pure entertainment from beginning to end.\"",
+        "\"You won't go wrong. You'll laugh and you'll cry and say I remember it well.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This is still one of my old time favorites. Great acting, breathtaking landscapes, wonderful music score and a moral message that we in this new century will never see the likes of again.\"",
+        "\"A beautiful story of a time long gone.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The restoration is unbelievably spectacular and the sound in the ATMOS selection is clean, wonderful and crisp.\"",
+        "\"Outstanding, breathtaking, incredible 5.1 stereo, beautiful costumes, wonderful musical actors is only part of the wonders of this 'That's Entertainment' Trilogy.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Max Steiner, MGM",
+      "evidence": [
+        "\"Then the beautiful soundtrack by Max Steiner, my favorite movie composer of all times, writes the most incredible music for feature films.\"",
+        "\"I come from the stage anyway and seen and worked with the best so for me I've always been extremely critical of the new modern movie musical but 'La La Land', I take my hat off you.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory spectacle",
+      "evidence": [
+        "\"The sound is basically mono until Dorothy lands in Oz. From that point on, you will be blown away.\"",
+        "\"The restoration is even better than I thought it would be. Perfect picture and wonderful 5.1 sound.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The ending with the original casts, it was enough to make you cry. Pure magic.\"",
+        "\"This entire film will make your heart pound and only wish that Hollywood could produce something like this again.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic musicals and films, valuing high production quality and emotional storytelling. They express nostalgia for the artistry of older films and a critical view of modern cinema, particularly regarding its lack of talent and creativity."
+}

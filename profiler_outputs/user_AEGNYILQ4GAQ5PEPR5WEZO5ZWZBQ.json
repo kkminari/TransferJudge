@@ -1,0 +1,77 @@
+{
+  "user_id": "AEGNYILQ4GAQ5PEPR5WEZO5ZWZBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, action, drama",
+      "evidence": [
+        "\"If you love Spy tales or historical WWII, then you will enjoy this great movie.\"",
+        "\"Fun action/mystery!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Not well constructed, but I stayed with it for the positive value.\"",
+        "\"Simply great\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Slow\"",
+        "\"I could have enjoyed it without some of the sexual elements. The story did not need explicit scenes.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Beautifully made.\"",
+        "\"Simply the best. Miraculous story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Benedict Cumberbatch, Mark Harmon",
+      "evidence": [
+        "\"Benedict Cumberbatch is always a favorite.\"",
+        "\"Just love Mark Harmon.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Love the dark scenes accompanied by Jazz.\"",
+        "\"Just delightful and heartwarming.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Simply the best. Miraculous story.\"",
+        "\"Just delightful and heartwarming.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys historical and action genres, particularly valuing high production quality and strong performances from favorite actors like Benedict Cumberbatch and Mark Harmon. They prefer slower-paced narratives that evoke emotional resonance, although they have mixed feelings about narrative complexity."
+}

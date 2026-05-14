@@ -1,0 +1,74 @@
+{
+  "user_id": "AEO3W4ZCTUD6GTXABE2VXKHO6LSQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, zombie",
+      "evidence": [
+        "\"If you're a horror fan and you haven't seen this sequal, you're missing out.\"",
+        "\"I enjoy all zombie films and this pack had many entertaining films.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's epic! It's graphic, entertaining and a great story.\"",
+        "\"There isn't a lot to say about this film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This is a great action packed film. It is entertaining from the beginning to the end.\"",
+        "\"The kill scenes in the film were very creative!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great story, fantastic acting and amazing special effects!\"",
+        "\"Each actor and actress performed their role very well.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric",
+      "evidence": [
+        "\"The special effects were outstanding and the movie had a great plot.\"",
+        "\"The killer in this film is very creepy!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"It was a different entertaining film with a good twist at the end.\"",
+        "\"They were entertaining.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror and zombie films, enjoying fast-paced narratives with high production quality. They appreciate visual spectacle and entertainment value, but show little brand loyalty and emotional engagement with the content."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEPKTJY5UFGITAANWWXQPJ47O44Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "dark comedy, sci-fi, action, drama",
+      "evidence": [
+        "\"Fearless dark comedy with superb performances\"",
+        "\"This is a terribly ambitious web of interlocking stories that the director reveals in his own sweet time\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"This is a terribly ambitious web of interlocking stories that the director reveals in his own sweet time\"",
+        "\"The film doesn't hit you over the head with it but gets it across as part of the story\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"If I didn't like Christina Cox so much I never would have bought this... but that's not enough to overcome its shortcomings\"",
+        "\"When you start glancing at the clock watching a thriller, it's not a good sign\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Shame on Alpha Video for releasing what would have been an enjoyable film, had they bothered to find an acceptable print\"",
+        "\"The cinematography was especially tasty\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I'm also a huge fan of David Lynch\"",
+        "\"As much as I love the work of Mary Anderson, this transfer is far too corrupted to enjoy the film\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The delicate chemistry between the two creates unlikely comedy out of darkness\"",
+        "\"The film is dazzling: Argento in his prime\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It's a beautiful, heart-warming movie and I can't understand why anybody would at least *like* it\"",
+        "\"I grudgingly gave it two stars for a few moments where I was genuinely amused or touched\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys dark comedies and complex narratives, often appreciating films that tackle serious themes with humor. They have a high sensitivity to production quality and value emotional resonance in storytelling, while showing mixed feelings towards pacing and brand loyalty."
+}

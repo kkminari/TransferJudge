@@ -1,0 +1,76 @@
+{
+  "user_id": "AG55JJ7AZLA2W3VMXBDKIVTRSOUA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romantic comedy, feel-good",
+      "evidence": [
+        "\"I so Love this movie! An all time favorite of mine.\"",
+        "\"Just a very cute and fun feel good movie for sure.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"If you want a movie that is extremely predictable and fakey, this isn't for you.\"",
+        "\"It was just a great small southern town feel with many laughs, quirkiness, a bit of sadness, and some good lessons.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Too slow? I am not sure where it would have been slow.\"",
+        "\"This was a very real movie. I so loved watching all the toasts from the different weddings.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The Cinematography alone is so beautiful and mesmerizing.\"",
+        "\"The acting was great, the sets were great, loved the cinematography and the story line.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I do recommend it if you also like Adam Sandler movies toned down a bit.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I loved the story line, the setting, and every single character.\"",
+        "\"It had a nice fantasy feel to it too, very easy to get deep into the movie and lose track of the real world.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Such a great movie! I just came across this as a recommendation on this site.\"",
+        "\"It is far from boring. The boyfriend and I were both surprised at how much suspense was in it and how it really got us both.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for romantic comedies and feel-good movies, often appreciating their simplicity and emotional resonance. They value high production quality and enjoy narratives that evoke a sense of warmth and humor, while being less concerned with brand loyalty to specific creators."
+}

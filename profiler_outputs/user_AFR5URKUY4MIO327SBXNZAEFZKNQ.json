@@ -1,0 +1,77 @@
+{
+  "user_id": "AFR5URKUY4MIO327SBXNZAEFZKNQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, action",
+      "evidence": [
+        "entertaining show though total fiction",
+        "Good action movie"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good movie",
+        "Great show."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Good action movie",
+        "entertaining show though total fiction"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Was entertaining but too much of the F word.",
+        "Good movie but could have been done without F-bombs"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Rocky movies are great.",
+        "Love Star Trek but dislike the social agenda"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Very informative and uplifted to see Steve McQueen find his life's true meaning!",
+        "Nice movie with great message"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Very informative and uplifted to see Steve McQueen find his life's true meaning!",
+        "Nice movie with great message"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of sci-fi, drama, and action genres, with a preference for fast-paced narratives. They appreciate emotional and uplifting content but are less concerned with production quality and specific creators."
+}

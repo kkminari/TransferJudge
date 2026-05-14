@@ -1,0 +1,77 @@
+{
+  "user_id": "AGEWPRC5THVC54W6EEDLR5WSM5AA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, horror, drama, comedy",
+      "evidence": [
+        "\"A clear example of this is when Stephen Lack (who plays Cameron in the film), uses a pay-phone to 'go online' by tapping into the line telekinetically.\"",
+        "\"I believe most Fantasy lovers will enjoy this film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"This seems impossible, because it is also one of the most sparse and simple films I have ever watched.\"",
+        "\"The film is not something you have got to see, however for a break from your usual schedule, or if you just need a little break and want to be entertained, I am certain you will be with this film.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The film makes fun of every part of the lives of musicians... which make the film very fast-paced almost like a 'Scary Movie' film.\"",
+        "\"The pace and timing of the film was superb.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The Coen Brothers (and Roger Deakins) have done it. No Country for Old Men IS a masterpiece.\"",
+        "\"The characters, the many styles, the weirdness, the seriousness, the stupidness, the intelligence, the colors, the editing and the story were perfectly orchestrated into this perfect film.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Cameron Crowe, Coen Brothers, David Cronenberg",
+      "evidence": [
+        "\"I am a film nut, currently watching a dozen director's films in the order that they were made.\"",
+        "\"I have always loved Tim Burton films.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Howard Shore's score is fantastic and classic 1980's techno horror...\"",
+        "\"The dreamscapes are delectable and the end is beautiful.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Tommy Lee Jones haunting words at the end of this film echo in my mind, days later.\"",
+        "\"This film will surely bring to you that good-good feeling all over.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi, horror, and drama genres, appreciating films with high production quality and fast pacing. They exhibit brand loyalty to notable directors like the Coen Brothers and Cameron Crowe, and value emotional resonance and sensory experiences in their viewing choices."
+}

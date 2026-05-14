@@ -1,0 +1,77 @@
+{
+  "user_id": "AH54V7HQQLV7BOZ5GCLKFM6J5GLQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's, educational, family",
+      "evidence": [
+        "\"One of my favorite show for my kids, helps them to think, memorize/ remember clues and figuring out clues.\"",
+        "\"highly recommend educational program\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"a great show. very interesting. great colorful and educational stuffs for my kids.\"",
+        "\"My kids love it. They learned a lot of things, like counting, shapes, colors...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"4 star as i didn't get bored watching it but i like the set up of the movie...\"",
+        "\"I love this movie and i am watching it again tonight. good to watch through the night i didn't get bored at all.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good Quality picture. HD copy. My wife found it boring, i do like the movie.\"",
+        "\"awesome\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Love this shows.🥰\"",
+        "\"Nailed it. Love this movie\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual, educational",
+      "evidence": [
+        "\"Fascinating movies. interesting and learned lesson behalf of my kids...\"",
+        "\"this is one of my kids favorite they learning a lot of languages and colors letters and dance\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"i love the twist of this movie. i would love to watch it again tonight...\"",
+        "\"Makes my daughter dance\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for children's and educational content, often enjoying shows that engage kids in learning. They favor simple narratives with a slow pacing, focusing on visual and educational experiences that resonate emotionally with their family."
+}

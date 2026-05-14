@@ -1,0 +1,77 @@
+{
+  "user_id": "AEO6L34QRLK63EGZRT4XULB5JQ5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "British WWII life stories, mystery",
+      "evidence": [
+        "If you like British WWII life stories on film, you'll like this mystery just fine.",
+        "One of the classics. If you like the old British films, you'll love this one."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "There's a basis of truth to the story, but the fluff is all fiction.",
+        "OK movie, pretty standard early 90's stuff."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "If bazookas and blood are your thing, then look elsewhere. This film is comprised of acting and storytelling.",
+        "It's OK... I enjoyed it."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Wonderful value for the dollar, and the quality of the presentations is above average.",
+        "Excellent piece of film-making. Some of the shots (particularly towards the end) are ahead of their time."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I would love to see this treated to a DVD or Blu-ray release.",
+        "Maybe Criterion is interested in a release?"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Wonderful value for the dollar, and the quality of the presentations is above average.",
+        "Some of the shots (particularly towards the end) are ahead of their time."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I hope it gets a full order.",
+        "This is the one! Full length episodes (not cut down)..."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for British WWII life stories and mysteries, appreciating quality production and emotional engagement. They favor slower-paced narratives that focus on storytelling and character development, while demonstrating a high sensitivity to production quality."
+}

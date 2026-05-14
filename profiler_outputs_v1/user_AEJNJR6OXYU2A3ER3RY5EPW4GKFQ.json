@@ -1,0 +1,77 @@
+{
+  "user_id": "AEJNJR6OXYU2A3ER3RY5EPW4GKFQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, action, drama",
+      "evidence": [
+        "\"Hilarious!\"",
+        "\"Good action film and one of my personal favorite action heroes paired against a ruthless warrior from Russia.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It was ok.\"",
+        "\"More American religious Hollywood art.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Keeps my girlfriend's daughter entertained.\"",
+        "\"Good action film and one of my personal favorite action heroes paired against a ruthless warrior from Russia.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Excellent film and act on behalf of the supporting actors.\"",
+        "\"Interesting plot and morality in the story.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Cumberbatch is particularly cold in character of Kahn.\"",
+        "\"I felt like I knew these guys, like I knew the guys I worked with in the Army.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"Cheeky humor and nice CG.\"",
+        "\"Moving and eye-opening.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Pretty sad movie, but mostly because I relate to how he sees people and life.\"",
+        "\"Moving and eye-opening.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and action films, often appreciating humor and fast pacing. They also resonate emotionally with stories that evoke personal connections, though they show mixed feelings towards narrative complexity and brand loyalty."
+}

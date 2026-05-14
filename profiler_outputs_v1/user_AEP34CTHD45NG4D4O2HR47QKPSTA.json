@@ -1,0 +1,77 @@
+{
+  "user_id": "AEP34CTHD45NG4D4O2HR47QKPSTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, fantasy",
+      "evidence": [
+        "I love CGI and I love this franchise.",
+        "If you're a LOTR fan, YOU NEED THIS MOVIE."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "this is the perfect 'underdog' movie with a beautifully happy ending.",
+        "I love these boxed sets. These are splendid movies all."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "it heats up pretty quickly.",
+        "I found myself leaning into the screen...holding my breath."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "I love these boxed sets. These are splendid movies all.",
+        "It's a good movie, and quite plainly the last movie in the James Bond series."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Clint Eastwood, James Bond, LOTR",
+      "evidence": [
+        "It's CLINT EASTWOOD!",
+        "this is an excellent movie!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "I love CGI and I love this franchise.",
+        "Four fabulous classic movies in one package!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "this is the perfect 'underdog' movie with a beautifully happy ending.",
+        "I can't help thinking, every time Jason blackmails Liz - 'Barnabas, EAT HIM!'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and fantasy genres, particularly enjoying visual spectacles and fast-paced narratives. They demonstrate high sensitivity to production quality and show loyalty to notable franchises like LOTR and James Bond, often valuing emotional impact in their viewing experiences."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGY3XEZVRGLAKUB56SICCOMSL44A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, sci-fi, drama",
+      "evidence": [
+        "Great movie, love horror without gore (love both, actually; especially torture porn).",
+        "If you liked DARK SHADOWS (the original series), Se7en, The Twilight Zone (Rod Serling), SIX FEET UNDER, and some noted classic 60s/70s horror movies..."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "It's a movie which would command their attention.",
+        "If you want to see a brilliantly filmed adult fairy tale, it's 'ink' - and it has NOTHING to do with tattoos."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I could go on and on and on, but here's the scoop: if you liked DARK SHADOWS...",
+        "It's about the house, and the characters and the storyline."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Brilliant CRITERION COLLECTION version.",
+        "The remakes of the Cole Porter songs by contemporary artists is beyond a stroke of genius."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I saw this in the theatre with a friend who didn't want to see it at all.",
+        "I could always pass it on to a friend if I REALLY hated it."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "What a brilliant, sick film for those of us so inclined.",
+        "It's achingly beautiful along the way with a touch of science fiction."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I found myself wondering if I even had a soul after the movie ended.",
+        "If you REALLY want to surprise yourself, don't look at any of the trailers, and don't read about the storyline."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror and sci-fi genres, particularly enjoying complex narratives and high production quality. They appreciate emotional depth in films and prefer slower pacing that allows for character development and storytelling."
+}

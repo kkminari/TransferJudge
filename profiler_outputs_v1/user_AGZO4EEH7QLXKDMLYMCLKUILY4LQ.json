@@ -1,0 +1,77 @@
+{
+  "user_id": "AGZO4EEH7QLXKDMLYMCLKUILY4LQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, inspirational, comedy",
+      "evidence": [
+        "\"Very good kid and animal movie that is not just a kids movie.\"",
+        "\"Funny and as a born again Christian I was never offended at language or content.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Simple real life funny family laughs.... laugh out loud FUNNY\"",
+        "\"Great laughs and acceptable entertainment for Christians.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Good acting and a plot that kept the movie moving from beginning to end.\"",
+        "\"Funny writing and funny people and story line.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent acting and directing. Good message\"",
+        "\"This one should not be offered by Amazon. This is in no way a criticism of the content only the video production.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Nicholas Cage best movies\"",
+        "\"If you are from NY or enjoy NY people and the place you need to watch this movie...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, engaging",
+      "evidence": [
+        "\"Heart warming story with excellent acting\"",
+        "\"Great inspirational movie about transformation at an advanced age based upon a tragic loss.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"GRACE GRACE AND MORE GRACE.... wonderful short story about sharing the unlimited Grace our Father has for us...\"",
+        "\"What ever doesn't make you bitter can make you better even when you are older.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly, inspirational, and comedic content with a preference for simple narratives and fast pacing. They value high production quality and emotional resonance, often seeking films that convey positive messages and humor without offensive content."
+}

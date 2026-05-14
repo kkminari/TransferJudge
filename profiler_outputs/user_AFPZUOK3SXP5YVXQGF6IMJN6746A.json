@@ -1,0 +1,77 @@
+{
+  "user_id": "AFPZUOK3SXP5YVXQGF6IMJN6746A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama, war, fantasy",
+      "evidence": [
+        "Wonderful family movie and great for a youth Bible study.",
+        "Cute show....a little more 'fantasy' than we like, but enjoyed it."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good movie....",
+        "Enjoyed this movie."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Some good parts....some slow parts (may be why it is called 'Slow West'....",
+        "We watched the first 30 minutes and decided to find something else."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Really enjoyed this movie!",
+        "Good movie....have tissue handy!"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Tom Hanks",
+      "evidence": [
+        "Love Hanks!",
+        "Tom Hanks Never Disappoints!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Fabulous movie!!!",
+        "Beautiful Movie! Would watch this one over and over!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "have tissue handy!",
+        "We all go through the process of grief at some point in our lives...."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented and dramatic films, particularly those featuring Tom Hanks. They appreciate simple narratives with emotional depth, though they have mixed feelings about pacing, indicating a preference for engaging stories over production quality."
+}

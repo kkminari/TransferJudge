@@ -1,0 +1,77 @@
+{
+  "user_id": "AFDMMKYDU7X22RWW2H5QE5BHJNGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, thriller",
+      "evidence": [
+        "\"Brutal and amazing\"",
+        "\"This movie is a must watch for any horror fan and for the casual viewer, which is a real feat.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"It uses halloween superstitions and practices as its basis which has never been explored in any other flick that I know of.\"",
+        "\"Dahmer is not a run of the mill 'true crime' horror movie. This one digs deeper.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This movie is a thrill ride that I never want to get off!\"",
+        "\"It is perfect. The stereotyped characters, the plot, and the dialogue are all perfect in their mockery without sacrificing the movie.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The film actually humanizes Jeffery Dahmer without negating the horrificness of his crimes.\"",
+        "\"This director has done some amazing movies like 'May.'\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"If you dug this check out Mendez's 'Real Killers.'\"",
+        "\"I hope the creators are able to continue with this series.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It has a sense of humor that hasn't been seen in horror movies since the 80's.\"",
+        "\"The movie knows that we already know the story so it gives us something new.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is almost chilling to see an actor bring so much depth to a character, especially Jeffery Dahmer.\"",
+        "\"This movie is a real celebration of Halloween more than a horror movie.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror and thriller genres, particularly those that are complex and fast-paced. They appreciate high production quality and emotional depth in storytelling, often seeking out unique narratives that evoke strong feelings."
+}

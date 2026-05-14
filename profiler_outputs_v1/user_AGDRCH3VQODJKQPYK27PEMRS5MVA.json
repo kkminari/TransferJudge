@@ -1,0 +1,74 @@
+{
+  "user_id": "AGDRCH3VQODJKQPYK27PEMRS5MVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, sci-fi",
+      "evidence": [
+        "\"Great Fantasy\"",
+        "\"This is a MUST HAVE for any SciFi fan.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The plot is not easy to figure out and that makes for a good show to me.\"",
+        "\"The plot is thickening and the suspense is just at the right amount.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"You are captivated by the very first show and the ending of this season just leaves you hungry to find out more...\"",
+        "\"I Can't WAIT TILL NEXT SEASON!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The actors play their parts with excitement and makes the movie intriguing at every turn!\"",
+        "\"Very well done.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "immersive world-building",
+      "evidence": [
+        "\"This is a timeless Classic! One which I will return to watch over and over again.\"",
+        "\"Compelling will hook you in an instant!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Loved the ending of this chapter!\"",
+        "\"I enjoy watching this with my daughter in law and grand daughter.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy and sci-fi genres, enjoying complex narratives with immersive world-building. They value high production quality and emotional resonance in their viewing experiences, often seeking engaging and captivating stories."
+}

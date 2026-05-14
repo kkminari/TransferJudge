@@ -1,0 +1,76 @@
+{
+  "user_id": "AFJPXYXWAQKUYFIFUYWUAUVUQMIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy",
+      "evidence": [
+        "\"This movie is a long time favorite of my Granddaughter and mine.\"",
+        "\"I love this show, and have watched all the seasons and the specials many times.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Not for me, I didn't watch past the first 20 minutes or so, trying to make peoples troubles entertaining just doesn't usually work.\"",
+        "\"It was somewhat predictable, but it was a sweet story.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I got tired of seeing the girl using the bathroom. But, all and all the story itself wasn't all that bad.\"",
+        "\"It didn't hold my interest so I didn't finish it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Okay, but a little silly.\"",
+        "\"Not for me, I didn't watch past the first 20 minutes or so, trying to make peoples troubles entertaining just doesn't usually work.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"As a fan of many BBC comedies the Vicar of Dibley always stands out as one of the best.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"I think this show is both funny and sad.\"",
+        "\"I like a move that takes my mind off the worries of the world and entertains me.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Such a precious story, and would love to believe it is real.\"",
+        "\"Madea's, kind but take no crap attitude reminds me of myself so of course I love this movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented and comedic content, often preferring simple narratives that are easy to follow. They appreciate emotional stories that provide a sense of comfort and entertainment, though they show less concern for production quality."
+}

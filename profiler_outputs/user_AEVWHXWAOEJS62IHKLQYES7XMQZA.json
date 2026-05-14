@@ -1,0 +1,77 @@
+{
+  "user_id": "AEVWHXWAOEJS62IHKLQYES7XMQZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "superhero, action, drama, documentary",
+      "evidence": [
+        "\"I have to put this in my top 3 Superhero films ever made.\"",
+        "\"This was a very well done and enlightening historical account...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"This is a complex story that is extremely well executed.\"",
+        "\"The characters were richly developed and the story was so engaging that I could not stop watching...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It never seems long. It just seems ridiculously great.\"",
+        "\"The movie never forgets to show the viewer a good time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The film received widespread critical acclaim at the time of its' release.\"",
+        "\"The music score was fantastic...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Zack Snyder, Marvel",
+      "evidence": [
+        "\"I love Zack Snyder's work. He definitely shows a flair for cinematic innovation.\"",
+        "\"I love Marvel movies.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"It looks great. It looks really, really great.\"",
+        "\"Captain America's first all out brawl with the mysterious Winter Soldier was a fight scene for the ages.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I was thoroughly emotionally invested in the outcome and the ending surpassed my expectations.\"",
+        "\"This was an amazing end to an amazing show.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for superhero and action films, particularly those with complex narratives and high production quality. They exhibit loyalty to directors like Zack Snyder and enjoy emotionally resonant stories that are fast-paced and visually impressive."
+}

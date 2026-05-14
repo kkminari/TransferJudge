@@ -1,0 +1,76 @@
+{
+  "user_id": "AH2BZDGWSPQAXNA5HRHK62QZ4ZQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, satire",
+      "evidence": [
+        "\"Interesting political satire - timely and fun!\"",
+        "\"Funny, witty, unpredictable.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Holds our attention - hope it can continue to do so.\"",
+        "\"Quirky, different, enjoyable - and no foul language!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Funny, witty, unpredictable.\"",
+        "\"Fun. Chris O'Dowd always does a good job.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Smutty excessive foul language, soft prom lacking plot or redeeming qualities. Total waste of time and talent.\"",
+        "\"waste of DiNiro's talent\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Chris O'Dowd always does a good job.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Quirky and interesting, with some good music.\"",
+        "\"Beautiful, but we wish we could get English subtitles.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"The little ones love this series!\"",
+        "\"Holds our attention - hope it can continue to do so.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys quirky comedies and political satire, favoring fast-paced narratives with simple storytelling. They show a low sensitivity to production quality and have mixed feelings about brand loyalty, indicating a preference for engaging content over high production values."
+}

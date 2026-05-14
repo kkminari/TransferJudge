@@ -1,0 +1,78 @@
+{
+  "user_id": "AGBMJIUOE6QRSIL6UUINRV2754VQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, horror, family-friendly",
+      "evidence": [
+        "\"This movie is action-packed.\"",
+        "\"This is a good horror film.\"",
+        "\"Perfect for young kids, my children thought this is a sweet film for everyone to see.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It was a good movie with much action.\"",
+        "\"This film was boring.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This movie is action-packed.\"",
+        "\"My kids love this show it has lots of action.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"This film was boring.\"",
+        "\"Too much profanity I thought it was for kids. Definitely not.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "David Hasselhoff, Nancy Drew and the Hardy Boys",
+      "evidence": [
+        "\"David Hasselhoff is a great actor who plays the role of Michael Knight.\"",
+        "\"We all love Nancy Drew and The Hardy Boys.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, family-friendly atmosphere",
+      "evidence": [
+        "\"This box set is filled with suspense, adventure and tons of theatrical affects that make watching this fun for the entire family.\"",
+        "\"A lot of spooky fun for young adults.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"We wished they still made these type of shows in todays world.\"",
+        "\"This is one of the best classic mystery shows.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action-packed and family-friendly films, often favoring simple narratives with fast pacing. They show a preference for specific actors and series, indicating a strong connection to nostalgic and entertaining content."
+}

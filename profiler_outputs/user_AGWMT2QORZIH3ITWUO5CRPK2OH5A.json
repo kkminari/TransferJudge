@@ -1,0 +1,77 @@
+{
+  "user_id": "AGWMT2QORZIH3ITWUO5CRPK2OH5A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, sci-fi, comedy, horror, drama",
+      "evidence": [
+        "\"Iron Man\" is a must-watch and offers an immersive and thrilling viewing experience.",
+        "It's a killer sequel that builds on the original in exciting and unexpected ways, with memorable characters, clever writing, and plenty of scares and laughs."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "The film is just as much a comedy as it is a horror movie, with witty dialogue and hilarious moments that will have you laughing out loud.",
+        "Nolan expertly weaves together three different timelines, each with its own characters and perspectives, until they converge in a thrilling finale."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "This movie delivers non-stop thrills from start to finish.",
+        "The tension in this movie is palpable, and the action scenes are well-executed."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The 4K UHD version takes the viewing experience to a whole new level.",
+        "The picture quality is absolutely stunning, with every detail of the film's stunning action sequences and breathtaking landscapes popping off the screen in vivid clarity."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "Directed by Danny Boyle and written by Richard Curtis, this film is a charming musical fantasy.",
+        "Jordan Peele's 'Us' is a film that defies categorization, blending elements of horror, suspense, and social commentary."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "The 4K UHD version takes the viewing experience to a whole new level.",
+        "The sound design is also top-notch, with immersive audio that adds to the tension and atmosphere of the film."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It's a heartfelt story about love, friendship, and finding your own path in life.",
+        "The film's striking visuals and immersive sound design are showcased to their fullest potential."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action-packed films, particularly in the superhero and thriller genres, while also enjoying complex narratives that blend various genres. They value high production quality and emotional resonance in their viewing experiences."
+}

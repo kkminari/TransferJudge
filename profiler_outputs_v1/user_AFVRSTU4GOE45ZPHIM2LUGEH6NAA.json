@@ -1,0 +1,77 @@
+{
+  "user_id": "AFVRSTU4GOE45ZPHIM2LUGEH6NAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, music, horror",
+      "evidence": [
+        "\"Excellent Documentary... This is actually two BBC documentaries put together in one set.\"",
+        "\"If you're a fan of horror or true crime you'll enjoy this movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's a great document of a point in time that changed not only Brets life but changed the WWF too.\"",
+        "\"The story pretty much ends in '86 though.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"...could've included so much more information.\"",
+        "\"...definitely would like to see his career be given the respect and attention it deserves in DVD form.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The quality of the discs themselves were fine but I felt the packaging and the effort into the overall product left a little to be desired.\"",
+        "\"...the sound of these releases is nothing short of amazing...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"...if you're a fan of the Friday the 13th films or even just the genre you'll enjoy this.\"",
+        "\"...definitely cool to see some of the album played live from their rehearsal room...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"...the sound of these releases is nothing short of amazing...\"",
+        "\"...the way it's put together is what makes it worth it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...definitely worth the price on here.\"",
+        "\"...brought tears, stayed with me.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries, particularly those related to music and horror. They value high production quality and have a notable sensitivity to the emotional impact of the content, often appreciating in-depth storytelling and sensory experiences."
+}

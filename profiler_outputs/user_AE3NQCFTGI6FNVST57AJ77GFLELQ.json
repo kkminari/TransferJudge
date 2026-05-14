@@ -1,0 +1,77 @@
+{
+  "user_id": "AE3NQCFTGI6FNVST57AJ77GFLELQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, sci-fi",
+      "evidence": [
+        "I have all of the Hobbit series and this was a great addition!",
+        "I collect all the Star Trek movies and this was a great addition!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Wonderful movie!",
+        "great movie!!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Great price and quick delivery!",
+        "This movie is a great watch for all ages!! Love it!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "great film!",
+        "Well done for an independent film!"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "I have all of the Hobbit series",
+        "I collect all the Star Trek movies"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Scared the beejeebies out of my teenage grandson!!",
+        "This movie is a great watch for all ages!!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Scared the beejeebies out of my teenage grandson!!",
+        "One of my favorite movies!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for fantasy and sci-fi genres, particularly enjoying series like The Hobbit and Star Trek. They favor fast-paced, simple narratives that evoke strong emotional responses, indicating a high level of engagement with their favorite films."
+}

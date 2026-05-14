@@ -1,0 +1,77 @@
+{
+  "user_id": "AF4A76YJYGIIMBGFUPM7WEN24KVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, drama",
+      "evidence": [
+        "\"Entertaining takes on the fairy tales.\"",
+        "\"Nicely done magical based series.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Fun show, never takes itself too seriously given the material.\"",
+        "\"Good revenge flick that most will be able to appreciate.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great show with great characters.\"",
+        "\"Good movie\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great movie. Worth a watch, DeNiro and Pacino.\"",
+        "\"Good BBC series, highly recommended.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "BBC",
+      "evidence": [
+        "\"Good BBC series, highly recommended.\"",
+        "\"Great BBC series, watching it for the second time and enjoying it thoroughly.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"A little humor sprinkled here and there to entertain most anybody.\"",
+        "\"Great show, watching it for the second time and enjoying every minute.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"Love the series, have watched several times over the years in bits and pieces so this is perfect.\"",
+        "\"Great series cannot wait until seasons 7 &8 are available.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys entertaining and light-hearted fantasy and drama series, particularly those produced by the BBC. They appreciate high production quality and tend to favor fast-paced narratives with engaging characters."
+}

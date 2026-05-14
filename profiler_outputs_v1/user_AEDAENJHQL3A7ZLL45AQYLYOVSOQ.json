@@ -1,0 +1,77 @@
+{
+  "user_id": "AEDAENJHQL3A7ZLL45AQYLYOVSOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, comedy, thriller, political intrigue",
+      "evidence": [
+        "\"I love it. Although I don't mention the other characters, I enjoy them too. I've always liked Howard.\"",
+        "\"if you're looking for no-thinking-required action/thriller, this movie is for you.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The plot is complicated and interesting and I liked the characters.\"",
+        "\"I liked the twists of the story and the cleverness of David Tennant's character in getting revenge.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It's reasonably funny. MMc is in basically the same role she usually has but she's good.\"",
+        "\"I found the movie to be not as suspenseful nor as enjoyable, but Matt Damon is still an excellent Mark Watney.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I have the collector's edition that was released a few years ago and the discs were poorly produced and have a lot of playback problems.\"",
+        "\"I really like the interactions between Sherlock and John Watson. Sherlock can be a jerk and insensitive, but he's also funny and fun to watch.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "David Tennant, Gillian Anderson, Matt Damon, Benedict Cumberbatch",
+      "evidence": [
+        "\"It's David Tennant, so of course it's excellent.\"",
+        "\"Maggie Gyllenhaal is amazing. Really liked Stephen Rea as well.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, character interactions",
+      "evidence": [
+        "\"I love the exploration of adult themes.\"",
+        "\"The chemistry between Martin Freeman and Benedict Cumberbatch is great.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This show makes me happy.\"",
+        "\"I absolutely adore this show. In fact, I'm going to purchase the season one dvd right now!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex narratives and character-driven stories, particularly in the sci-fi and drama genres. They show high sensitivity to production quality and have a fondness for specific actors and shows, indicating a deep emotional connection to the content they enjoy."
+}

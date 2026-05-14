@@ -1,0 +1,77 @@
+{
+  "user_id": "AHY625B6CHNH7GGQFJMJODL4QBOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"The stories were actually very well written and hold up, without being too corny.\"",
+        "\"wonderful and inspiring movie, but again, makes me angry how white americans treated minorities then and still do in some states, like AL today.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The stories were actually very well written and hold up, without being too corny.\"",
+        "\"wonderful and inspiring movie, but again, makes me angry how white americans treated minorities then and still do in some states, like AL today.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"6 emotional filled seasons.\"",
+        "\"wonderful and inspiring movie, but again, makes me angry how white americans treated minorities then and still do in some states, like AL today.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I have cannot say enough about the high quality of these episodes.\"",
+        "\"Eddie Redmayne gives another Oscar-worthy performance as the first transgender to have a surgery to correct his wrong genitalia.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Andrew Garfield is favorite actor. He is great in this movie.\"",
+        "\"I love all the actors and actresses.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual and emotional",
+      "evidence": [
+        "\"The restored episodes are crystal clear and the sound is excellent.\"",
+        "\"I did cry.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is based on a true story. Lindsay gives a perfect performance as an abused victim who always forgives her husband when he says he is sorry and it will never happen again, but it does.\"",
+        "\"I did cry.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for high-quality, emotionally resonant dramas and comedies, often highlighting the performances of specific actors. They appreciate well-written stories that evoke strong feelings, while also valuing production quality and clarity in visual and audio aspects."
+}

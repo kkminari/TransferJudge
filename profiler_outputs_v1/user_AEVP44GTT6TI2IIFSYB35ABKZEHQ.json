@@ -1,0 +1,77 @@
+{
+  "user_id": "AEVP44GTT6TI2IIFSYB35ABKZEHQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, action",
+      "evidence": [
+        "\"A very nice adult film, beautifully photographed...\"",
+        "\"How bad can an action film be when it is full of action stars?\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It was a fun movie, very well made great special effects and a story in there somewhere.\"",
+        "\"How many plots from the old shows and movies can you fit into one movie and not have a whole plot?\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Good cast, fun fast paced movie for a cheap thrill.\"",
+        "\"Clones, clones, clones the show starts with a bang and just keeps moving along.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"A very good film, well acted, great costumes and locations...\"",
+        "\"Woody Allen's films have become beautiful feasts for the eyes and ears...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Woody Allen",
+      "evidence": [
+        "\"Just another well done Woody Allen film...\"",
+        "\"Woody continues to improve his film making...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric music",
+      "evidence": [
+        "\"...the costumes, make-up, locations, sound track all resonate in perfect harmony with the film.\"",
+        "\"It looked like a dozen or so to me, none of them made sense but it was pretty.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A very good film, well acted, great costumes and locations, a fabulous story and very moving.\"",
+        "\"A sweet film, well worth a view...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama and comedy films, with a preference for fast-paced narratives and high production quality. They show loyalty to Woody Allen's work and appreciate visual and auditory elements in films, often seeking emotional depth in their viewing experiences."
+}

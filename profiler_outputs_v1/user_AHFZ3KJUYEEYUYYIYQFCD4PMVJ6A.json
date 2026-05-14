@@ -1,0 +1,74 @@
+{
+  "user_id": "AHFZ3KJUYEEYUYYIYQFCD4PMVJ6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "disliked genres: action, drama, romance, comedy",
+      "evidence": [
+        "\"Simply waste of time junk.\"",
+        "\"Poor writing, poor screening, poor plot, poor acting.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Nothing gets resolved. Pointless writing and no real storyline or plot.\"",
+        "\"Just a bunch of babblings that did not result in anything worth watching.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This stuff is really getting old.\"",
+        "\"The viewers should be tired of people using 'entertainment' to further their personal agenda and opinions.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Poor writing, poor screening, poor plot, poor acting.\"",
+        "\"This is NOT IN ENGLISH.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "none",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"All this movie has is an opening scene that makes you want to keep watching.\"",
+        "\"The performances are basically substandard for the performing artists.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Hope that helps.\"",
+        "\"Watch if you really have nothing else to do.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong aversion to poorly executed films and shows, often criticizing them for lack of quality in writing, acting, and overall production. They prefer straightforward narratives and express dissatisfaction with genres that rely on action or emotional engagement, indicating a low tolerance for what they perceive as subpar entertainment."
+}

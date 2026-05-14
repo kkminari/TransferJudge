@@ -1,0 +1,77 @@
+{
+  "user_id": "AEMB3MFTN66YZDXKP6XVH5MHZ3JA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, action, sci-fi",
+      "evidence": [
+        "\"Wow, the best documentary I've seen in years.\"",
+        "\"Just the sci fi stuff in it was worth it if you're not into the romance plot in it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Keeps your interest, but I could figure out 'who did it' way too early in the film.\"",
+        "\"Not much too it. I think he repeated 'How much time do I have left?' more than anything else.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It was a good movie, maybe a little slow, but makes up for it in how informational it was about the crash too.\"",
+        "\"Kind of a 'personal perspective' of a few people in it during Dunkirk evacuation.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Lena Olin is mesmerizing, she makes the whole movie work.\"",
+        "\"If half of what is going on in the movie is true, the Govt. spying on it's own citizens is waaay out of control.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Abbie Cornish, Tom Hanks",
+      "evidence": [
+        "\"With Abbie Cornish in it you can't go wrong, besides being a good actor, she is really hot too, what a beauty!\"",
+        "\"Hanks is always good, he was in this.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, immersive storytelling",
+      "evidence": [
+        "\"I literally felt my stomach sink watching this as I had no idea how bad the government covered this up after all these years.\"",
+        "\"I found it to be a decent flick and don't understand a lot of the one star ratings.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I was truly amazed hardly any of this story wasn't made public....\"",
+        "\"I ended up watching the entire season all the way through in two days.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and action films, particularly those with engaging narratives and high production quality. They appreciate emotional depth and are loyal to specific actors like Abbie Cornish and Tom Hanks, indicating a taste for immersive storytelling."
+}

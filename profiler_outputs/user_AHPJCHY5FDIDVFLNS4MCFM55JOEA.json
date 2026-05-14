@@ -1,0 +1,77 @@
+{
+  "user_id": "AHPJCHY5FDIDVFLNS4MCFM55JOEA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, action, historical, sci-fi",
+      "evidence": [
+        "\"Hilarious. Not only do comics poke fun at the guest of honor but also each other.\"",
+        "\"This is a fantastic movie showing what happened behind the scenes of the war with Great Britain.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Most superhero movies involve the usual song and dance played over and over with different heroes and villains.\"",
+        "\"This is a great kids' movie that many adult fans of the original TMNT movies and cartoons will also enjoy.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This is a fantastic movie. Most superhero movies involve the usual song and dance played over and over with different heroes and villains.\"",
+        "\"Ron White is hilarious in any setting. This is one of those short comedy programs you can watch multiple times and still enjoy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"You will also watch a greater development of the character of James T. Kirk played by Chris Pine, an even greater change from the first movie.\"",
+        "\"This is an outstanding movie that any fan of any Star Trek series will enjoy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "JJ Abrams, Mel Gibson, Tom Cruise",
+      "evidence": [
+        "\"Another JJ Abrams Smash Hit\"",
+        "\"Enjoyable movie for fans of Tom Cruise.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"In this movie you will find a look at the indomitable nature of Americans if we only pull and work together as one.\"",
+        "\"This is a fantastic movie showing what happened behind the scenes of the war with Great Britain.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A must see for anyone that enjoys vigilante justice flix.\"",
+        "\"This movie is for those out there comfortable enough with their faith to poke fun at some of the 'Dogma' spoken and written down by various religious personages over the centuries.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly comedy, action, and historical narratives, often favoring fast-paced storytelling. They show a strong appreciation for high production quality and emotional resonance in films, with notable loyalty to specific directors and actors."
+}

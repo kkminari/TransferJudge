@@ -1,0 +1,77 @@
+{
+  "user_id": "AHE4Y5AJWSGLP7EVM6QCMVVBXLZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "I love seeing Peter Cushing and Christopher Lee in anything together",
+        "A must see for students of history."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Excellent movie! I highly recommend.",
+        "I just love this series."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "I have been waiting for this movie and was not disappointed.",
+        "This is excellent. A story that always needs to be told."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Arrived on time and intact.",
+        "I recommend this excellent series to everyone!"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I love seeing Peter Cushing and Christopher Lee in anything together",
+        "Such a great series."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "These dogs are an inspiration.",
+        "A must see for students of history."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Was sad to hear that he cheated on his wife.",
+        "This is excellent. A story that always needs to be told."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for simple narratives and fast pacing, often recommending movies and series they find excellent. They appreciate emotional resonance and sensory experiences, indicating a taste for engaging and impactful storytelling."
+}

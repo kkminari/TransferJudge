@@ -1,0 +1,79 @@
+{
+  "user_id": "AGAI3VEU7Z6TWGICEWHXKNMLSMUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, romantic comedy, family, musical",
+      "evidence": [
+        "\"lighthearted whodunnit\"",
+        "\"delightful romantic comedy\"",
+        "\"sweet, family movie\"",
+        "\"innocence, and sweet romance\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"character driven story about the war-time home front\"",
+        "\"each episode gets better and better\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"character driven story\"",
+        "\"grows on you with every episode\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"good writing, and good acting from guest-stars\"",
+        "\"I wish the backdrop and Leslie's clothes had been brighter\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I wish they had made many more seasons!\"",
+        "\"I want the whole season!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"the atmosphere of this movie hangs in the air\"",
+        "\"warm right up to them\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"brought tears\"",
+        "\"captured our hearts\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys lighthearted and charming narratives, particularly in the mystery, romantic comedy, and family genres. They appreciate character-driven stories with emotional depth, though they show moderate sensitivity to production quality and brand loyalty."
+}

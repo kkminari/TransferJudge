@@ -1,0 +1,77 @@
+{
+  "user_id": "AERRPKDJL4GPOSTJZ5MODQG4SKZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "Christian, Family, Documentary",
+      "evidence": [
+        "\"If you love God and you believe in the invested power of the Holy Spirit...\"",
+        "\"I ordered Faith Like Potatoes looking for some christian entertainment...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's clean and the only hints of evil are normally the evil the 'Avengers' are fighting and defeating.\"",
+        "\"Good scenery, pretty good acting, little scriptural truth.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It's a good long movie with plenty of viewing for one long or two shorter evenings of viewing.\"",
+        "\"I can watch it over and over.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The quality has been good. I enjoy the atmosphere the flavor of the times and of England and France.\"",
+        "\"The video (DVD) is well done, and brings you close to the moment.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I didn't find the portrayal of the miracles was very well done.\"",
+        "\"I liked this video, but I was disappointed by the fairly flagrant disregard for Biblical record.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual and emotional engagement",
+      "evidence": [
+        "\"I find myself comparing what I see to what I've read and thus strengthening my knowledge of the scriptures themselves.\"",
+        "\"The movie is great entertainment and is inspiring.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This sets me ablaze anew.\"",
+        "\"It encouraged me and I enjoyed the watching of it.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for Christian and family-oriented content, often valuing emotional and spiritual engagement. They appreciate high production quality and tend to favor slower-paced narratives that allow for reflection and connection to their faith."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGN5B6CV27RFPIVSSMWEZ6SADIYA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, comedy, crime",
+      "evidence": [
+        "\"I was excited when this was announced as this was one of my favorite books growing up...\"",
+        "\"A solid movie. Good action, good drama.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's a very linear story which already is very cinematic and would translate well from page to screen.\"",
+        "\"Most others had fallen flat and provided only casual entertainment.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I got an hour into the movie before becoming so bored that I had to give up.\"",
+        "\"It's just not that good.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I did enjoy the visual depiction of the tesseract.\"",
+        "\"It's well-written, well-cast, well-directed.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have great memories of growing up watching reruns of 'Gomer Pyle' with my father.\"",
+        "\"I wasn't necessarily pleased with all of them, but given the structure of the books, it was understandable that some work had to be done.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"I did enjoy the visual depiction of the tesseract.\"",
+        "\"The music... was completely out of place in the 1920s jazz-age.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"It's just another movie on Russell Crowe's filmography.\"",
+        "\"I completely gave up.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for sci-fi and drama genres, but has a low emotional engagement with the content. They value production quality highly and prefer straightforward narratives, often finding slow pacing unappealing. Brand loyalty is low, indicating a more general appreciation for various films rather than specific creators."
+}

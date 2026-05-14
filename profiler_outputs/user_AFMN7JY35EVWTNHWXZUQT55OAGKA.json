@@ -1,0 +1,76 @@
+{
+  "user_id": "AFMN7JY35EVWTNHWXZUQT55OAGKA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy",
+      "evidence": [
+        "\"HILARIOUS! Absolutely love anything with Tina Fey!\"",
+        "\"NOT for kids, but overall a very funny, action-packed movie!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Pretty funny! We laughed a lot!\"",
+        "\"Wasn't Chelsea Handler funny, but I would say about 1/2 of the skits made me laugh out loud.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Was a great movie- action-packed, kept me interested! Would watch again!\"",
+        "\"Overall a very funny, action-packed movie!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Pretty funny! We laughed a lot!\"",
+        "\"Great movie! love it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Tina Fey",
+      "evidence": [
+        "\"Absolutely love anything with Tina Fey!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"HILARIOUS! Absolutely love anything with Tina Fey!\"",
+        "\"Much funnier than I had expected. Laughed a lot.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Funny, but not THAT funny.. I lost interest about 10 minutes in.\"",
+        "\"Boyfriend ordered this, says he enjoyed it!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy, particularly enjoying works featuring Tina Fey. They favor fast-paced narratives with simple storytelling, often prioritizing humor over production quality or deep emotional engagement."
+}

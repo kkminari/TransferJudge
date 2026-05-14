@@ -1,0 +1,73 @@
+{
+  "user_id": "AGRPHYZXQTRK5LPRIQFGQWN6USVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, holiday, magic",
+      "evidence": [
+        "Such a great movie to add to the collection",
+        "Very fun movie"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "great storyline",
+        "had a lot of parts that you could see flaws in the story line"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Very fun movie"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "great price",
+        "old movie came in great condition"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Great movie now part of my collection"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "musical",
+      "evidence": [
+        "Love the music in the movie"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Watched it during my childhood then my daughters childhood now my son will enjoy it"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and holiday-themed movies, often valuing emotional connections and nostalgia. They prefer simple narratives with a fast pace and have a low sensitivity to production quality."
+}

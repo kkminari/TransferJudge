@@ -1,0 +1,76 @@
+{
+  "user_id": "AGC6FNYUHALT3PNXA7GFQ7PPEFQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, adventure",
+      "evidence": [
+        "\"Great movie if you like the hunger games!\"",
+        "\"It's light but funny!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's a good laugh for married people.\"",
+        "\"It's a fun movie to have during Halloween time.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Came fast with no issues!!\"",
+        "\"Came fast and great price!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"It has a great message!!!\"",
+        "\"It looked like new!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Vince Vaughn",
+      "evidence": [
+        "\"I am a Vince Vaughn fan though so it was easy to watch.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, family-friendly atmosphere",
+      "evidence": [
+        "\"It's nice to see Hawaii!\"",
+        "\"My children love the movie.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I was so excited to find this movie rated pg-13 me and my older kids love it.\"",
+        "\"It's a great funny movie!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly movies, particularly comedies and adventures that are light-hearted and fast-paced. They show a preference for simple narratives and have a fondness for Vince Vaughn, indicating a strong emotional connection to the content they watch."
+}

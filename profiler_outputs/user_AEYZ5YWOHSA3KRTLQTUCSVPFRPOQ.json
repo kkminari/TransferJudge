@@ -1,0 +1,77 @@
+{
+  "user_id": "AEYZ5YWOHSA3KRTLQTUCSVPFRPOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, westerns",
+      "evidence": [
+        "\"Funny!!!!\"",
+        "\"I love westerns and enjoy Jeff Bridges immensely.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Just a good time!!!\"",
+        "\"Simply a fun flick to watch!! Characters are great!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Laughed the whole way through!!\"",
+        "\"This tickled me! It was funny.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I love both Jim Belushi and Louis Gossett Jr. and they didn't disappoint.\"",
+        "\"Not a comedy, though the funny is still there.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love De Niro! He can put class into anything!\"",
+        "\"Denzel Washington's awesome ability to to make his characters so believable is a joy!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"cozy, and 'feel-good'!!\"",
+        "\"the theme of this Western is not new, but delightful in the retelling!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"This story touches the heart...I will watch it again.\"",
+        "\"It was great!! A couple of cheesy parts made it a four star only...but whoa what a four star!!!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies and westerns, enjoying fast-paced, simple narratives that provide a good time. They appreciate humor and feel-good experiences, but show less concern for production quality and brand loyalty."
+}

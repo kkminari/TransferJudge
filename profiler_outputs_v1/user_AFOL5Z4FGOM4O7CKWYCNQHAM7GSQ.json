@@ -1,0 +1,77 @@
+{
+  "user_id": "AFOL5Z4FGOM4O7CKWYCNQHAM7GSQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror",
+      "evidence": [
+        "\"Being a horror enthusiast, I try to watch them all when I can.\"",
+        "\"Fun, cheesy 80's horror flick.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story made no sense & moved at a snail's pace.\"",
+        "\"The story was lacking.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The story drug on & was soooo boring.\"",
+        "\"I kept getting distracted during the 1st 45 minutes because it was so slow.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"The quality is pretty bad. Audio is muffled at times & video quality goes from grainy to blurry.\"",
+        "\"Acting & atmosphere were good, but the story drug on & was soooo boring.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Great acting. Unique plot. I always love a good twist at the end & Orphan doesn't disappoint!\"",
+        "\"Great movie, but the quality is pretty bad.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"the good acting & horrifying visuals, the 'not knowing' makes it scarier.\"",
+        "\"lots of bloody, gory nastiness.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"The story was lacking.\"",
+        "\"Nothing pulled me in.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror films, often enjoying the visual spectacle and gore. However, they tend to dislike slow pacing and complex narratives, indicating a preference for straightforward storytelling. Their sensitivity to production quality is low, focusing more on the entertainment value than the polish of the films."
+}

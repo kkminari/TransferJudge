@@ -1,0 +1,77 @@
+{
+  "user_id": "AHUSGYEDFOHHO434THBH47PMZENA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, animation, drama",
+      "evidence": [
+        "\"great family movie\"",
+        "\"really cute movie, loved it\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"cute series for little kids\"",
+        "\"really enjoyed this one\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It's something that you can lose yourself in, forget the cares of the day.\"",
+        "\"I loved all the characters and the problems of simple life.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"was fun watching this Disney classic with my granddaughter\"",
+        "\"enjoyed the movie more than I remembered when I saw it in the movies\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Disney",
+      "evidence": [
+        "\"really loved seeing this Disney classic again\"",
+        "\"this is a really good movie, granddaughter loves it too\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, heartwarming stories",
+      "evidence": [
+        "\"really enjoyed this one\"",
+        "\"great family movie\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It was really heart warming, glad I didn't miss a chance to see it, thanks.\"",
+        "\"I loved all the characters and the problems of simple life.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly and animated films, particularly those from Disney. They enjoy simple narratives with heartwarming themes and characters, and they appreciate content that evokes emotional resonance, often watching with their granddaughter."
+}

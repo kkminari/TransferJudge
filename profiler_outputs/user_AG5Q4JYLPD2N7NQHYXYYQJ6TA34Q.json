@@ -1,0 +1,76 @@
+{
+  "user_id": "AG5Q4JYLPD2N7NQHYXYYQJ6TA34Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, action",
+      "evidence": [
+        "Hilarious",
+        "Good fights"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It's ridiculous. Impossible to follow.",
+        "Depressing and confusing, what was I watching?..."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Good fights",
+        "Lots of good fighting"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "If you're bored with nothing to do it will entertain you",
+        "Terrible"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Chan rules"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "felt immersive",
+        "Actually funny"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "It's ridiculous. Impossible to follow.",
+        "Depressing and confusing, what was I watching?..."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced comedies and action films, often finding them entertaining. However, they show a preference for straightforward narratives and have mixed feelings about production quality and emotional depth."
+}

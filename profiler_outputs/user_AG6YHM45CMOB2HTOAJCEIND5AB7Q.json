@@ -1,0 +1,77 @@
+{
+  "user_id": "AG6YHM45CMOB2HTOAJCEIND5AB7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"A nice little film, punctuated with gentle humor, about the tiny things that make up the relationships...\"",
+        "\"If you like dissolute Irishmen and quirky humor, Black Books is great.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This is a sweet little series about their relationship, and their quest for geographic solutions to the problems in it.\"",
+        "\"A sweet simple movie... This is a gentle bittersweet movie about being adults and being family and loving dogs.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The first episode was a little slow to develop and definitely the weakest but it got better and better.\"",
+        "\"Starts off misleadingly sanctimonious but gets more complex.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"This is a terrific short with compelling characters and nice crisp production values.\"",
+        "\"Visually stunning but completely unintelligible; it appears the filmmakers got caught up in the technical challenges...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If you like Coen Bros you'll probably like this.\"",
+        "\"I wish this series had lasted longer.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This will not leave you feeling happy. But it will stick with you.\"",
+        "\"Beautiful, quirky, dark but uplifting. I loved it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Hard to watch and take in; eye opening.\"",
+        "\"This is a perfectly self-contained short that also left me feeling wistful for a full length film about these flawlessly flawed characters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and comedy with a preference for simple narratives and slower pacing. They value high production quality and emotional resonance in their viewing experiences."
+}

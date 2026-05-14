@@ -1,0 +1,89 @@
+{
+  "user_id": "AFQQXCM3C46UB4HQ5KACLDE5F6QQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, sci-fi, action, fantasy",
+      "evidence": [
+        "It's a glorious yet calm look into the lives of girls who are cyborg assassins.",
+        "Genre: Drama/Sci-Fi. It is more a drama than a Science Fiction."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "The first two episodes are hard to follow as they jump back and forth between scenes happening at different times.",
+        "The story starts to take twists as murders pop up, a mysterious figure keeps showing itself and flashings between fantasy and the real world become more frequent."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "It is subdued and quiet, a sort of 'peaceful' anime without a huge hook or a glorious finale.",
+        "It's not a complicated DVD to watch because it doesn't really DO anything spectacular."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The animation is superb and the blend with CG and animation is very seamless and very well executed.",
+        "The art style: realistic, think Ghost in the Shell."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "I fell in love with the anime through NHMK's AMV with Last Exile and Politik by Cold Play.",
+        "If you are an Anime fan then this should be at least viewed if not in your library."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "Art style: realistic, think Ghost in the Shell.",
+        "The animation is superb and the blend with CG and animation is very seamless."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It is about their present lives, how they are handling it, how real they actually are and what kind of lives they live.",
+        "It's a wonderful film, high in its characterizations and interactions."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "character_focus",
+      "value": "high",
+      "evidence": [
+        "The series is about these girls who were terminal patients or victims.",
+        "It's about their relationships with each other and their handlers, not about their action sequences."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user has a strong preference for complex, character-driven narratives in the drama and sci-fi genres, often appreciating high-quality animation and visual storytelling. They enjoy slower-paced stories that focus on emotional depth and character interactions, indicating a taste for thoughtful and introspective content."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGNQWLLQEE6M5BF5B5L7V6XP34OA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's, family",
+      "evidence": [
+        "\"Was great to have this option. My daughter loves dragons and really enjoyed this movie.\"",
+        "\"My 4 year old daughter is obsessed with dinosaurs. She really enjoyed this movie.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Kiddos loved this!\"",
+        "\"Love it! Kids love it!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Kids enjoyed this.\"",
+        "\"Very good. My 16 year old son and I read all the books. Then we ordered the movie.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Glad veggie tales was an option for a good Easter show.\"",
+        "\"I'm so glad this movie is available on Amazon. Its fun to watch the classics with the kids.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Glad these are on Amazon\"",
+        "\"I was so glad it was here on amazon\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"This is such a funny show. We really enjoyed it!\"",
+        "\"Kids love this show. Its fantastic. Glad its available on amazon.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Good times.\"",
+        "\"My kids really enjoyed it and my oldest even popped in for a few minutes to peek at it. Good memories. :)\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for children's and family movies, particularly those featuring simple narratives and fast pacing. They value emotional resonance and visual spectacle, often enjoying films that create good memories for their family."
+}

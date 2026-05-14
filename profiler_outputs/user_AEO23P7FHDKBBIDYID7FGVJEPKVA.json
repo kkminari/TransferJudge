@@ -1,0 +1,77 @@
+{
+  "user_id": "AEO23P7FHDKBBIDYID7FGVJEPKVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance",
+      "evidence": [
+        "\"A tale of lust in the life people lead.\"",
+        "\"I love all things to do with this show.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I just wanted to say that this is the best show on Tv right now in regards to horror shows.\"",
+        "\"This show is so spectacular it keeps you guessing for more and more.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It keeps you guessing for more and more.\"",
+        "\"Bones is such a wonderful addition to my collection and will always be watched over and over again.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great deal.\"",
+        "\"I fell in love with this movie after seeing it on VHS no I have it on blu ray.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for specific actors",
+      "evidence": [
+        "\"If you love Sean Paul Lockhart otherwise known as Brent Corrigan you will love this movie.\"",
+        "\"I have been a fan for years and I have started collecting movies and tv shows that I enjoy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It keeps you guessing for more and more.\"",
+        "\"Wonderful movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I love all things to do with this show.\"",
+        "\"I have been a fan for years and I have started collecting movies and tv shows that I enjoy.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and romance genres, particularly enjoying shows that keep them engaged and guessing. They exhibit brand loyalty towards specific actors and shows, indicating a high emotional resonance with their viewing experiences."
+}

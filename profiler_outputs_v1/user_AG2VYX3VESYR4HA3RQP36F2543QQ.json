@@ -1,0 +1,74 @@
+{
+  "user_id": "AG2VYX3VESYR4HA3RQP36F2543QQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, mystery",
+      "evidence": [
+        "\"The way that the movie had a lot of action in it\"",
+        "\"I liked that it had a mystery in it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This movie was awesome!\"",
+        "\"This movie is awesome!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The adventure in this movie was intense.\"",
+        "\"The intenseness of this movie was awesome.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The animation was great. I also liked that it was pact with action.\"",
+        "\"This movie had great animation and great music.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, music",
+      "evidence": [
+        "\"I liked the rainbow colors.\"",
+        "\"The songs, the dancing. All and all this movie was the bomb.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"This movie was OK.\"",
+        "\"This movie had it's quirks.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and mystery genres, enjoying fast-paced narratives with high-quality visuals and music. They appreciate visual spectacle but show low emotional engagement with the content."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHCN72EQRXDTS3YBOGGHD4BUMRTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "classic, biopic, film noir, thriller",
+      "evidence": [
+        "\"Classic Rathbone /Holmes centerpiece.\"",
+        "\"Fabulous Film Noir classic.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A very enjoyable film, one for the whole family.\"",
+        "\"The story is taut and absent of any real moral or philosophical reasoning.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Breathless Pace... On A Bus?\"",
+        "\"This movie has not lost a step to date.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The common denominator of this DVD is classical. Classic script, choreography, richness of vibrant colors.\"",
+        "\"Tight script, acceptable acting, an all to real possibility especially in today's 'push button' reality.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Basil Rathbone, classic directors",
+      "evidence": [
+        "\"the only real Holmes actor, Basil Rathbone.\"",
+        "\"the hallmark works of the great director Lang.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"a visual 'anomaly', with dialogue (developed later), pretend backdrops to increase the flavor of the story atmosphere.\"",
+        "\"the viewer right in the action and intense 'nailbiter' of sneaking under enemy lines.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"a past, present, and future classic on DVD. Always a reminder of the mortality of that Man who forsakes his being for the sake of unbridled technology.\"",
+        "\"It is still refreshing to be scared out of your 'pants' (or dress) with a picture that doesn't have to use gallons of blood.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic films, particularly in the genres of biopics, film noir, and thrillers. They appreciate high production quality and fast pacing, while also valuing emotional resonance in storytelling."
+}

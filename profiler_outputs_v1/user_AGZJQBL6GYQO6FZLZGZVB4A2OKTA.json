@@ -1,0 +1,77 @@
+{
+  "user_id": "AGZJQBL6GYQO6FZLZGZVB4A2OKTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, documentary",
+      "evidence": [
+        "\"BSG is one of the best shows on television...\"",
+        "\"This was a remarkable achievement at the time and is still very entertaining today.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"What this series requires most is for the viewer to be smart and make a mental investment in the show...\"",
+        "\"The movie is all about personalities and relationships.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The concept does lead to some moments of down time to allow for travel and so on...\"",
+        "\"This is a movie that demands a level involvement from the viewer that used to be common...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The picture and sound quality are fantastic.\"",
+        "\"The special effects are fantastic, but they never become a crutch for Nolan...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I think this is the best X-Men movie of them all.\"",
+        "\"It's like SportsNight's grown up older brother.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The mix of the space genre with the 70's music was pure genius.\"",
+        "\"The magic for me is how each segment is presented from a different angle.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This was a monumental achievement by HBO when it was first broadcast and stands up just as well to repeated DVD viewings.\"",
+        "\"It is truly one of those small little movies that you get lucky sometimes and hit on television...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for complex narratives, particularly in the sci-fi and drama genres, and values high production quality. They appreciate sensory experiences and emotional depth in storytelling, indicating a taste for engaging and thought-provoking content."
+}

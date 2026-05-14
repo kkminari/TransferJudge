@@ -1,0 +1,77 @@
+{
+  "user_id": "AHVP3GH6IJS6GPSIJTARVM4V4S4A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama",
+      "evidence": [
+        "One of our all-time favorite movies and this DVD version is of a much better quality than the two others I just donated to Goodwill.",
+        "Having attended one Iditarod race in the '90s when we lived in Alaska for a year on a fishing trip, I would recommend this race to anyone interested."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "This movie plot is well developed and the characters are well acted.",
+        "It's a story within a story and in a segment near the end it's a story within a story within a story."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "I was very disappointed with this DVD. Thank God she grew up sometime after this DVD was produced..",
+        "We spent an enjoyable evening watching this."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "One of our all-time favorite movies and this DVD version is of a much better quality than the two others I just donated to Goodwill.",
+        "The quality of the DVD is wonderful."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "My wife believes this is the best music concert DVD we have ever purchased.",
+        "Air Supply has played an important part in my music education."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "immersive experience",
+      "evidence": [
+        "We both have earphones and use a splitter to share every sound on these wonderful movies.",
+        "It gave me great insights into his outstanding career."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "This was probably the fifth or sixth time we watched the movie. It is one of our all-time favorites -- so authentic.",
+        "I learned a lot from this DVD. It gave me great insights into his outstanding career."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for documentaries and dramas, particularly those with complex narratives and high production quality. They value immersive experiences and emotional resonance in their viewing choices, often revisiting their favorite films."
+}

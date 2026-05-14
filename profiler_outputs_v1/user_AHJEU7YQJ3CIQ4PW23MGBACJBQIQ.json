@@ -1,0 +1,77 @@
+{
+  "user_id": "AHJEU7YQJ3CIQ4PW23MGBACJBQIQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "anime, old movies",
+      "evidence": [
+        "\"Good movie if you like anime.\"",
+        "\"Good old movie\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good movie just had to replace the one I had.\"",
+        "\"Good anime ? Took me a couple of times to view . Good comedy . with strange neighbors\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"If you have a whole day to watch this anime it about (600) minutes long . It will take make you laugh an maybe cry.\"",
+        "\"Nice way to get even with bullies with out really hurting yourself.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I like the Original more than the Ultimate Directors Cut. Still a good movie.\"",
+        "\"Good movie just had to replace the one I had.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Finish my collection of Full Metal Panic anime and manga so far.\"",
+        "\"Now I have to fine Season 1 of Fate/Zero to finish off my full collection of Fate/Zero?\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"I like reading the Sub titles. wise it was dubbed otherwise still a good anime?\"",
+        "\"Good anime ? Took me a couple of times to view . Good comedy . with strange neighbors\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It will take make you laugh an maybe cry.\"",
+        "\"Good anime ? Took me a couple of times to view . Good comedy . with strange neighbors\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for anime and old movies, often enjoying simple narratives that evoke emotional responses. They show a low sensitivity to production quality, focusing more on the entertainment value of the content."
+}

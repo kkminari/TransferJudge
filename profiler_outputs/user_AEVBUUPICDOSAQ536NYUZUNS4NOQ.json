@@ -1,0 +1,76 @@
+{
+  "user_id": "AEVBUUPICDOSAQ536NYUZUNS4NOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, science fiction",
+      "evidence": [
+        "\"Always a fascinating topic.\"",
+        "\"Very interesting subject matter.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Enjoyed it very much.\"",
+        "\"Great.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great Series.\"",
+        "\"Always a great topic.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great.\"",
+        "\"Loved it.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Bought this for my daughter-in-law, she loves anything pertaining to Beauty and the Beast.\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I am glad that I live in the time period that I do.\"",
+        "\"Who knows? This all may become a reality in the not so distance future.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Loved it.\"",
+        "\"Enjoyed this very much.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for fantasy and science fiction genres, enjoying simple narratives with fast pacing. They value emotional resonance in their viewing experiences, often expressing enjoyment and love for the content."
+}

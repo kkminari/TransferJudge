@@ -1,0 +1,77 @@
+{
+  "user_id": "AFWUVNA5KNBBPR6TTROT5VLLWIAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, romance",
+      "evidence": [
+        "\"This made me laugh and that is important right now.\"",
+        "\"I have always loved this movie and have probably watched it over ten times over the years.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"It was a bit choppy like two completely different stories, but if you persevere towards the end, it will make sense.\"",
+        "\"I do wish though that the movie focused more into Mr. Roger’s life and why he became who he was...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"If you can get past that aspect of it, it is an interesting show to watch.\"",
+        "\"It could have been so much better, but I was disappointed...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"It is sad that Jason Momoa and the other stars weren’t given better writers for dialogue for this movie.\"",
+        "\"The special effects were good, but that is all.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If it is true that Gillian Anderson will not do any more seasons after season 11...\"",
+        "\"I think overall that the acting on everyone’s part was amazing.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"I cried from the moment I heard the music at the start of the movie...\"",
+        "\"It has made me want to visit Mackinac Island and someday I hope to.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I cried from the moment I heard the music at the start of the movie...\"",
+        "\"It has made me want to visit Mackinac Island and someday I hope to.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama, comedy, and romance, often valuing emotional resonance and sensory experiences in their viewing choices. They show a moderate sensitivity to production quality but have mixed feelings about narrative complexity and pacing."
+}

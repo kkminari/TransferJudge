@@ -1,0 +1,77 @@
+{
+  "user_id": "AH5VYP3DI6NQXCMMSU4YONCV2NRQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romantic comedy, adventure",
+      "evidence": [
+        "\"this is one of my favorites of the genre and period along with Man's Favorite Sport\"",
+        "\"the best romantic adventure movie ever made\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The Devil to Pay's plot is simple, but fun.\"",
+        "\"this is a movie about some guys lost in the Alaskan/Canadian wilderness being chased by a BIG bear.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It's entertaining, has great action, and the cinematography... is exceptional.\"",
+        "\"the sound and picture are in amazing shape\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the cinematography... is exceptional\"",
+        "\"I was very impressed with the 4k restoration on the blu ray.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Delmer Daves, Ronald Colman",
+      "evidence": [
+        "\"Delmer Dave's films have always been one of my guilty pleasures.\"",
+        "\"Been a Colman fan for 60 years.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric music",
+      "evidence": [
+        "\"the music never sounded better.\"",
+        "\"the sound and picture are in amazing shape.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"a masterpiece reflecting the best acting, art direction, writing, and cinematography of the era.\"",
+        "\"this is one of my favorites of the genre and period\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for romantic comedies and adventure films, appreciating both visual spectacle and high production quality. They show loyalty to specific filmmakers like Delmer Daves and actor Ronald Colman, indicating a taste for classic cinema with emotional depth."
+}

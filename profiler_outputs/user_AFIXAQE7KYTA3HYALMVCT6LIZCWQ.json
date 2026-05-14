@@ -1,0 +1,77 @@
+{
+  "user_id": "AFIXAQE7KYTA3HYALMVCT6LIZCWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, family, light romance",
+      "evidence": [
+        "\"Dr. Who is really a cool show.\"",
+        "\"The family was heart warming.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot follows a typical pattern.\"",
+        "\"Too predictable.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The last episode was not a great way to end.\"",
+        "\"This was ok. Too predictable.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The acting is good.\"",
+        "\"Clever writing.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Doctor Who",
+      "evidence": [
+        "\"Love this show. I love the British humor.\"",
+        "\"Great TV Series.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Great dialog.\"",
+        "\"The family was heart warming.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"The family was heart warming.\"",
+        "\"This was a very clever show.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted family shows and sci-fi, particularly 'Doctor Who', which they express strong loyalty towards. They prefer straightforward narratives and appreciate clever writing, though they have mixed feelings about pacing and emotional depth."
+}

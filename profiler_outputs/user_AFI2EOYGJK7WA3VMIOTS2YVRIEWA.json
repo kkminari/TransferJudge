@@ -1,0 +1,77 @@
+{
+  "user_id": "AFI2EOYGJK7WA3VMIOTS2YVRIEWA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family, mystery",
+      "evidence": [
+        "\"I love anything Christine Lahti is in, and she does not disappoint in this one.\"",
+        "\"This is one of my favorite movies and I am so happy it finally came out on DVD.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story is different and not too scary for little children.\"",
+        "\"I found this movie hard to navigate. It jumps from the present to the past with no warning and it is quite confusing.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It was nice to watch this movie once again.\"",
+        "\"I found this movie hard to navigate.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I was not disappointed as it was quality performances and the DVD quality was top notch.\"",
+        "\"The cast is wonderful especially Jason Batman.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I love anything Christine Lahti is in, and she does not disappoint in this one.\"",
+        "\"I have long been a fan of Cheryl Ladd and loved watching this movie on Lifetime.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The scenery is exquisite. I love seeing the wonderful town of Micanopy transformed to its earlier days.\"",
+        "\"It has a wonderful ending and is just such a wonderful journey of the lives of these 2 women.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is a wonderful movie with a harsh subject matter but so worth watching.\"",
+        "\"I love this story.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and family-oriented films, often appreciating quality performances and emotional depth. They enjoy simple narratives and are sensitive to production quality, indicating a preference for well-crafted stories that resonate emotionally."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFWUZCMVWZ7GLTEYVKXYX6MSG3KQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, fantasy, romance",
+      "evidence": [
+        "\"Chick flick? Yes, totally. But it was very good.\"",
+        "\"It did have some very good action scenes, a bit reminiscent of the Matrix crossed with Bruce Lee.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The storyline itself is true to the books and I love the characters, I just think they could stand to tone down some of the sexuality.\"",
+        "\"The script wasn't quite as good (IMO) as the first movie, but as you might expect the special effects were stunning.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It did have some very good action scenes, a bit reminiscent of the Matrix crossed with Bruce Lee.\"",
+        "\"It was intensely violent and gory but more in a video game sort of way, not in a horror movie sort of way.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting was superb. It gave a well thought out rendition of what likely happened from Mary's perspective of things from the conception of our Lord to His crucifixion.\"",
+        "\"The special effects were stunning. I got this in 3D and it was pretty good that way.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I'm not a Brad Pitt fan or a Zombie aficionado but the previews for this movie made me want to watch it anyway and it didn't disappoint.\"",
+        "\"I'm glad to see Les back doing Survivorman again.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The scenery in this show was stunning, especially in HD.\"",
+        "\"The 3D added an element of immersion to it, there were a few scenes where the Zombies jumped out and the 3D made it more shocking.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This was a terrific movie. Chick flick? Yes, totally. But it was very good.\"",
+        "\"It gave a well thought out rendition of what likely happened from Mary's perspective of things from the conception of our Lord to His crucifixion.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of action, drama, and fantasy genres, with a strong preference for high-quality production and visual spectacle. They appreciate fast pacing and emotional resonance in storytelling, while showing some ambivalence towards narrative complexity and brand loyalty."
+}

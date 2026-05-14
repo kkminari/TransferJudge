@@ -1,0 +1,74 @@
+{
+  "user_id": "AGV7D3MV2AGYEOOHGRUQPRPBG7WA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi",
+      "evidence": [
+        "If you like sci fi or the bermuda trianglr, this is a goodie to watch!",
+        "I liked the movie. If you are a sci fier I think you will like it."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "good movie, plot line kept me interested",
+        "excellent story line, very little profanity and no one jumping in bed with somebody right away."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "good movie, plot line kept me interested, shipped fast too.",
+        "movie was great if you like this kind of sci-fi."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the filming on this movie is top notch.",
+        "filming was good and delivery was ahead of schedule."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "the filming on this movie is top notch.",
+        "excellent film, makes you think."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "makes you think, definitely something to watch if you are a believer in Jesus of the bible.",
+        "this film is very eye opening and reveals a side if islam that care and interfaith organizations fail to speak about."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi films, often appreciating their engaging storylines and visual quality. They enjoy fast-paced narratives that keep their interest, while also valuing production quality and thought-provoking content."
+}

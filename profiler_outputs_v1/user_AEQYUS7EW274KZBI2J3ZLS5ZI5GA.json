@@ -1,0 +1,77 @@
+{
+  "user_id": "AEQYUS7EW274KZBI2J3ZLS5ZI5GA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, music",
+      "evidence": [
+        "\"I have enjoyed every season of Mozart in the Jungle Seasons. The music is wonderful and all the characters so enjoyable.\"",
+        "\"Love this laid back series of a different time and a different way of life.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"It appeared chopped up and hard to follow.\"",
+        "\"So many different and complex personalities of family members needed to be covered in more dept.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I fell in love with Mrs. Palfrey & wish that her story had lasted longer...\"",
+        "\"The story line is both serious and entertaining...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The writing and acting is outstanding.\"",
+        "\"The acting was brilliant and the story line thought provoking...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Kevin Spacey is great...\"",
+        "\"Martin Sheen did an amazing job portraying such an icon.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Five stars alone just for the music!. Very interesting story lines.\"",
+        "\"It should be watched for the music if nothing else. Outstanding...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Thought provoking, funny, & a look how some people respond....\"",
+        "\"Passions alternate between joy and despair...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and historical narratives, particularly those with rich music elements. They appreciate high-quality production and emotional depth in storytelling, often favoring slower-paced, character-driven plots."
+}

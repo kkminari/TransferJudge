@@ -1,0 +1,73 @@
+{
+  "user_id": "AHA5LJ6GERHSUACRXHKPO3GTWRRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, drama",
+      "evidence": [
+        "'Great movie!!! A real thriller right up to the last scenes.'",
+        "'Great Period Drama!'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "'the plot is pretty convoluted and I have to watch some of the episodes more than once to pick-up on all the nuances.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "'Intense thriller and perfect ending.'",
+        "'Great movie!!! A real thriller right up to the last scenes.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "'Always loved The Band! And this video was well produced and very enjoyable to watch.'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "'Enjoy the story and the period of the show!'"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'WOW! What a great true story, loved it!!'",
+        "'A true classic tale and perfect justice in the end.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys thrillers and dramas with complex narratives and fast pacing. They appreciate high production quality and emotional resonance in the stories they watch."
+}

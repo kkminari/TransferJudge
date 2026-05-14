@@ -1,0 +1,77 @@
+{
+  "user_id": "AHJQ2WZZQJXHCLXMBNLEBPKF6CVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, horror, documentary, action",
+      "evidence": [
+        "I am a zombie movie freak. It is the ultimate in escapism from my busy life!",
+        "Good reinactment-style documentary."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "If a character's angst is so profound that it is emotionally, and almost physically painful to watch, but they convince you that the pain is necessary, then they have done a terrific job of acting.",
+        "Good plot twists, and took the bad taste of T3 out of my mouth."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "No action, very boring, though they did try to give a twist on the 'haunting' theme.",
+        "AWFUL acting, no action until the end."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Horrible acting, awful cinematography, stupid premise.",
+        "The only one I thought was incredibly brilliant."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Not the director's best, but entertaining.",
+        "Good casting and just enough levity to make it less macho."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "Tissues! You will need tissues! I loved this movie - it is so poignant and true.",
+        "Her performance kept me riveted, yet squirming uncomfortably in my chair."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "What an inspiration! And what an inspired performance!",
+        "I loved this movie - it is so poignant and true."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for complex narratives and high-quality productions, particularly in drama and horror genres. They value emotional resonance in their viewing experiences, often seeking films that evoke deep feelings and personal connections."
+}

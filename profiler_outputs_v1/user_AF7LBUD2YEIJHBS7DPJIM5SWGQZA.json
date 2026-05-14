@@ -1,0 +1,77 @@
+{
+  "user_id": "AF7LBUD2YEIJHBS7DPJIM5SWGQZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, educational, comedy",
+      "evidence": [
+        "\"Always entertaining. Love that there is no foul language so it's safe to have on when the kids are around.\"",
+        "\"EXCELLENT BUY. EDUCATIONAL, ENTERTAINING, AND FUN.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Loved it... yes it's campy... but still funny and very enjoyable!\"",
+        "\"Always cool things coming in. I love all the experts they bring in to assess items and the history behind the item\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Nice story, but very long! Visually very attractive.\"",
+        "\"I love the family dinners at the end of each show. And I laugh the entire time!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Loved it... yes it's campy... but still funny and very enjoyable!\"",
+        "\"wish they made these on DVD but i enjoyed this show from my childhood\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"if your child likes science and stuff- these are a must have! we have the entire series and they are worth every penny!\"",
+        "\"I love this series because it keeps him interested and it's educational.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual appeal",
+      "evidence": [
+        "\"Nice story, but very long! Visually very attractive.\"",
+        "\"Same characters with a few straglers here and there. Many more storage adventures with interesting stories and appraisals.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"LOVE IT!!!!\"",
+        "\"I love this video- we do the stress relief portion several times a week before bed\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and educational content, often with a comedic touch. They appreciate visual appeal and emotional engagement, favoring simple narratives that are entertaining and suitable for children."
+}

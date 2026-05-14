@@ -1,0 +1,77 @@
+{
+  "user_id": "AEIMVFQM33RBEOPNTAF6326M7Z4A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animation, family, musical",
+      "evidence": [
+        "\"Good Pixar movie. Not my favorite, but better than most.\"",
+        "\"This was a very good Disney movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Interesting storyline and ending.\"",
+        "\"I liked it, but it wasn't one of my favorite Disney movies.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The movie was better than I expected it to be.\"",
+        "\"Didn't care for this one.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The video and audio are excellent.\"",
+        "\"Good movie from Disney. Interesting storyline and ending.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Pixar, Disney",
+      "evidence": [
+        "\"Good Pixar movie. Not my favorite, but better than most.\"",
+        "\"This was a very good Disney movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Great movie. Love 'Kidnap The Sandy Claws'.\"",
+        "\"The thugs' musical scene reminded me of Monty Python and the Holy Grail.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I liked it, but it wasn't one of my favorite Disney movies.\"",
+        "\"As a fan of the original 'Sleeping Beauty' I really liked the twists in 'Maleficent'.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys animated and family-friendly films, particularly from Pixar and Disney, showing a preference for quality production. They have mixed feelings about narrative complexity and pacing, indicating a balance between straightforward storytelling and some interest in engaging plots."
+}

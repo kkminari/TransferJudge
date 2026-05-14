@@ -1,0 +1,77 @@
+{
+  "user_id": "AFA2UFDZSKKF4IMGV3DXCF34F5DA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, thriller, historical, romance",
+      "evidence": [
+        "\"Gorgeous images of Amish life interspersed with some tight thriller scenes.\"",
+        "\"Well acted and beautifully shot, this series captures a historical period in detail while telling a compelling story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The plot and the physics underlying it got a little too arcane and complex, I think, and interfered with the human dramas that were unfolding.\"",
+        "\"The story is completely fluffy, but the dancing is amazing.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I only wish the writers would allow a little more down time, when people can just talk to each other... rather than always racing to/from the next threat.\"",
+        "\"The film felt extremely long and predictable to me.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The production feels pretty uncreative. Sets, costumes all very theatrical and the acting a bit over the top.\"",
+        "\"It's well acted and the production values are good.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Derek Jacobi is excellent, of course...\"",
+        "\"Matt Damon is convincingly scared, angry, ironic, funny, and determined...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The use of origami as the form the magic takes makes for a very stylish and visually arresting method of storytelling.\"",
+        "\"Gorgeous images of Amish life interspersed with some tight thriller scenes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie still haunts me, and McConaughey's performance is wonderful.\"",
+        "\"It arouses in me such a conflicting set of emotions... priceless!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama and thriller genres, with a strong appreciation for emotional resonance and sensory experiences in storytelling. They show a moderate sensitivity to production quality but have mixed feelings about narrative complexity and pacing."
+}

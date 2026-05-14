@@ -1,0 +1,77 @@
+{
+  "user_id": "AE632AJHIPORLCAIOHNEIV4XSY5A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, animated, historical, romance, thriller",
+      "evidence": [
+        "\"It's nice to have a show we can watch together in which she gets exposed to an alternative way of life...\"",
+        "\"If you enjoy historical settings, WWII settings and/or English crime stories, give it a go.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story usually focuses on 1 random object that Fig (the lead character) decides to find a way to use.\"",
+        "\"The characters are fun to get to know and follow.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The pacing and building of tension kept me on the edge of my seat in many scenes...\"",
+        "\"I found this refreshing. All-in-all this was a funny, adventurous and upbeat film.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Not Oscar-quality production, but not meant to be (and still good production values for TV).\"",
+        "\"A very well-produced (scenes of the plane in distress, in particular) and acted movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Disney, Pixar",
+      "evidence": [
+        "\"I keep up with animated releases, particularly Disney & Pixar.\"",
+        "\"Not as 5 star as 'UP' or 'Toy Story' but still solidly watchable.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual, atmospheric",
+      "evidence": [
+        "\"I am mesmerized by the craft of it-I mean, it is just beautiful to watch.\"",
+        "\"It is very atmospheric in its depiction of the house and its grounds and New England.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It's a great conversation starter for my child and I...\"",
+        "\"I found myself thinking about the movie and the general 'feel' it gave me afterwards...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly content, particularly animated films and historical narratives. They appreciate visual beauty and emotional depth in storytelling, while showing a preference for simpler narratives and a mix of pacing styles."
+}

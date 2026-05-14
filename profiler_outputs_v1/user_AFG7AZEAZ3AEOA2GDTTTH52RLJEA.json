@@ -1,0 +1,77 @@
+{
+  "user_id": "AFG7AZEAZ3AEOA2GDTTTH52RLJEA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, sci-fi",
+      "evidence": [
+        "\"Very enjoyable action flick\"",
+        "\"Plenty of action, no mushy stuff (to speak of)\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Story is a typical action flick story, but that's not why you watch these things.\"",
+        "\"It had a lot of promise, but fell fairly short.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Formulaic, but fun. Good weekend action flick.\"",
+        "\"Plenty of action, no mushy stuff (to speak of).\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"If it was FREE I'd feel ripped off, but I paid for this turkey.\"",
+        "\"The visuals were great, the story a bit weak.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific mentions of favorite directors or actors.",
+        "No strong loyalty to franchises or series."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Decent story, great visuals\"",
+        "\"Good visuals, okay story\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I probably won't catch this again, even if it's free, it's just too weak.\"",
+        "\"Not recommended, I was falling asleep during this movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for action and sci-fi genres, enjoying fast-paced films with visual spectacle. However, they exhibit low emotional engagement and are critical of narrative complexity, often favoring straightforward storytelling."
+}

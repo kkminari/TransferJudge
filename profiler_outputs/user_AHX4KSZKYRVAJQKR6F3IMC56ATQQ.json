@@ -1,0 +1,77 @@
+{
+  "user_id": "AHX4KSZKYRVAJQKR6F3IMC56ATQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family, thriller",
+      "evidence": [
+        "\"cute. predictable, but fun family fare.\"",
+        "\"funny, irreverent. some topics of man's inhumanity to man are thought provoking.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"did not finish watching it. slow. dull.\"",
+        "\"not my cup of tea. too slow.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"not my cup of tea. too slow.\"",
+        "\"too slow\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"terrible, inane, poorly acted, stupid story that could have been wonderful with talented cast/directing etc.\"",
+        "\"excellent graphics, music.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Claire Danes is amazing.\"",
+        "\"wish they could have moved out of Harlan country into another state with different adversaries to keep the series going.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"excellent graphics, music.\"",
+        "\"Best costumes. More movie like than tv.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"some surprises, good ending. not everybody dies! lol.\"",
+        "\"the topics of the cows and autism is very educational.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family dramas and thrillers but has a strong aversion to slow-paced narratives. They value production quality and emotional resonance, often appreciating clever storytelling and character depth, though they show low brand loyalty to specific creators."
+}

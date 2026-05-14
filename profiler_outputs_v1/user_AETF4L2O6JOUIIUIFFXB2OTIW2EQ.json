@@ -1,0 +1,74 @@
+{
+  "user_id": "AETF4L2O6JOUIIUIFFXB2OTIW2EQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical",
+      "evidence": [
+        "Am in love with these kinds of movies, and thoroughly enjoying Downton Abbey and all its characters.",
+        "I really like old stories based in England, and this is a nice series."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "the story continues and there are happy and sad endings.",
+        "It is a study of pride, jealousy, love and hate."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I would have liked it better had it been stretched out another episode or two.",
+        "Don't want to miss a single nuance, and will feel I'm back in the wacky lives of those portrayed so very well."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Thought the acting was great, and I learned a lot about that war.",
+        "It was a very good story well acted."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "the characters and life styles are changing as they age, and as we all do.",
+        "I enjoyed the film very much."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Got so involved with all the characters in this delightful series.",
+        "Am saddened that it didn't have a longer life."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and historical narratives, particularly those set in England. They appreciate complex storytelling with rich character development and high production quality, often resonating emotionally with the content."
+}

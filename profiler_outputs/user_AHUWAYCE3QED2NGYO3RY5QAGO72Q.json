@@ -1,0 +1,77 @@
+{
+  "user_id": "AHUWAYCE3QED2NGYO3RY5QAGO72Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, romance",
+      "evidence": [
+        "\"Very funny and sweet romantic movie.\"",
+        "\"These are very funny movies based on the funny radio show.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A very well done movie.\"",
+        "\"Not e best road picture but good not great.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Nice batch of movies some very funny bits in them.\"",
+        "\"Hope at his funniest !!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Well acted, directed and written.\"",
+        "\"If you are a 40's fan a must have, where did they find all this 1940's furniture?\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"hope and Crosby you cannot go wrong.\"",
+        "\"I grew up with Roy Rogers.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Very funny and sweet romantic movie.\"",
+        "\"I watch these all the time a nice collection.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Loved it I grew up with Roy Rogers.\"",
+        "\"hope and Crosby you cannot go wrong.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and romantic films, often appreciating their humor and emotional depth. They value high production quality and enjoy works from familiar creators, indicating a nostalgic connection to classic films."
+}

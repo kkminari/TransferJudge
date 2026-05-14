@@ -1,0 +1,160 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for documentaries and sci-fi suggests an interest in non-fiction and speculative fiction. However, the tropes and narrative styles differ between film and literature, so recommendations should focus on engaging non-fiction and sci-fi narratives.",
+      "transferred_insight": "Prefer engaging non-fiction and speculative fiction with a focus on real-world themes.",
+      "confidence": 0.75
+    },
+    "narrative_complexity": {
+      "decision": "BLOCK",
+      "rationale": "The user's preference for simple narratives in film does not translate well to books, where narrative complexity can vary significantly. Recommending based on this pattern could lead to negative transfer.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "pacing_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's mixed pacing preference indicates they can appreciate both slower, informational narratives and faster-paced stories. This suggests a need for a balance in book recommendations, favoring those that are engaging yet informative.",
+      "transferred_insight": "Prefer books that balance engaging storytelling with informative content.",
+      "confidence": 0.65
+    },
+    "quality_sensitivity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high sensitivity to quality in films directly translates to a preference for well-reviewed and high-quality books. This pattern is strong and applicable across both media.",
+      "transferred_insight": "Prioritize highly-rated and well-reviewed books.",
+      "confidence": 0.85
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "Loyalty to specific actors does not translate to authors in the book domain. Recommending based on actor loyalty would not yield relevant book suggestions.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's preference for visual spectacle and immersive storytelling is specific to film and does not apply to books, which rely on different forms of engagement.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high emotional engagement with narratives suggests a preference for books that evoke strong feelings and provide deep insights, which is applicable across both media.",
+      "transferred_insight": "Prefer emotionally resonant books with depth and insight.",
+      "confidence": 0.8
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "B004SQUE6C",
+      "title": "The Flying Saucers are Real",
+      "score": 0.9,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book aligns with the user's interest in documentaries and speculative themes, providing engaging content that is well-rated. Its exploration of UFOs can evoke curiosity and emotional engagement."
+    },
+    {
+      "rank": 2,
+      "item_id": "B31",
+      "title": "Beyond the Trees: A Journey Alone Across Canada's Arctic",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "pacing_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book offers an adventurous narrative that combines exploration with informative content, appealing to the user's interest in documentaries and action. Its high rating indicates quality."
+    },
+    {
+      "rank": 3,
+      "item_id": "B50",
+      "title": "Dawn of Procyon: Distant Suns, Book 1",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "As a sci-fi novel, it caters to the user's genre preference while also being well-rated. The emotional depth in sci-fi narratives can resonate with the user's appreciation for impactful storytelling."
+    },
+    {
+      "rank": 4,
+      "item_id": "B16",
+      "title": "Toxic Revenge (Navy SEAL Grant Stevens)",
+      "score": 0.78,
+      "applied_patterns": [
+        "genre_preference",
+        "pacing_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This action-oriented book fits the user's genre preference and is likely to provide an engaging narrative. Its quality rating suggests it will meet the user's high standards."
+    },
+    {
+      "rank": 5,
+      "item_id": "B31",
+      "title": "Things My Scrub Tech Says Coloring Book",
+      "score": 0.75,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "While not a traditional narrative, this book has a humorous and engaging approach that can evoke emotional responses, appealing to the user's preference for quality content."
+    },
+    {
+      "rank": 6,
+      "item_id": "B12",
+      "title": "The Colonel's Tale",
+      "score": 0.73,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This action and adventure book aligns with the user's genre preference and is well-rated, suggesting it will meet their quality expectations."
+    },
+    {
+      "rank": 7,
+      "item_id": "B40",
+      "title": "Children of the Lens",
+      "score": 0.7,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "As a science fiction title, it fits the user's interests and is rated well, indicating it could provide an engaging experience."
+    },
+    {
+      "rank": 8,
+      "item_id": "B31",
+      "title": "God and a Boy Named Joe",
+      "score": 0.68,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book's high rating suggests quality, and while it may not fit the user's primary genre preferences, it could still provide an engaging narrative."
+    },
+    {
+      "rank": 9,
+      "item_id": "B31",
+      "title": "Point to Point Navigation: A Memoir",
+      "score": 0.65,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "This memoir could resonate emotionally with the user, and its quality rating suggests it will be a worthwhile read."
+    },
+    {
+      "rank": 10,
+      "item_id": "B31",
+      "title": "Wings of Hope: The Veil Series Prequel",
+      "score": 0.6,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "While this book may not directly align with the user's primary interests, its quality rating indicates it could still provide an engaging experience."
+    }
+  ],
+  "blocked_patterns_summary": "Narrative complexity, brand loyalty, and sensory preference were blocked due to their medium-specific nature and potential for negative transfer.",
+  "overall_strategy": "Focused on the user's strong preferences for genre and quality while blocking patterns that do not translate well to books. Recommendations emphasize engaging narratives that evoke emotional responses and maintain high quality."
+}

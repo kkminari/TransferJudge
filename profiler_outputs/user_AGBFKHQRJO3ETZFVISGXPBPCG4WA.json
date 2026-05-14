@@ -1,0 +1,77 @@
+{
+  "user_id": "AGBFKHQRJO3ETZFVISGXPBPCG4WA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, comedy, drama",
+      "evidence": [
+        "\"I've been a fan of romance movies forever, especially films in which two characters from different backgrounds find each other and fall in love.\"",
+        "\"This movie isn't just about making cars, it's about learning to make the necessary changes in our attitudes to get along and succeed.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This movie shows what you can become if you believe in yourself, not just believe in what you see in the mirror.\"",
+        "\"This movie is good for families and more and I highly recommend it to anyone who thinks their family is dysfunctional; which is practically every family on the planet.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This movie shows a day in the life of five people as they try to find the truth behind the murder and the truth about their lives.\"",
+        "\"This movie goes beyond the exterior which is what I know will happen in any and all Garry Marshall movies.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting by Michael, Marisa Tomei, Robert Duval, Randy Quaid and Glen Glose is just exceptional, and Ron Howard's directing is on the mark as always.\"",
+        "\"I think it's a better cover because this isn't just a Julia movie, and I know she would say the same.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for Garry Marshall and Michael Keaton",
+      "evidence": [
+        "\"As a fan of Garry Marshall for many years, I see every one of his films for two reasons.\"",
+        "\"I'm already a bit biased given Michael Keaton is my all time favorite actor.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This movie took my breath away.\"",
+        "\"This movie shows that even if you have everything going for you, it can all seem like too much.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"If I can love a movie at fifteen and continue to love it at twenty-five then it's a classic to me.\"",
+        "\"This movie gives you hope, shows you that even if you're life is miserable, that even if you are a bum magnet; if you don't give up hope a millionaire in a Lotus might be just around the corner.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for romance and comedy films, often appreciating simple narratives that evoke emotional resonance. They show high sensitivity to production quality and demonstrate loyalty to specific creators like Garry Marshall and Michael Keaton."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHFQM7EFBT2DQLAY6EYIEWJCAXTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "yoga, fitness",
+      "evidence": [
+        "'I will stick to Ana Brett and Ravi Singh Kundalini Yoga tapes.'",
+        "'I own many of these workouts by this duo'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'most yoga tapes aren't that great and this is no exception.'",
+        "'I guess it's too dated for me to really enjoy.'"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "'this is not as vigorous as I had hoped.'",
+        "'this is just flat out BORING.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "'The quality is bad, the acting is like a campy cheesy soap opera.'",
+        "'I couldn't believe it but after 40 min of these exercises I was able to walk and move normally.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to specific yoga instructors",
+      "evidence": [
+        "'I will stick to Ana Brett and Ravi Singh Kundalini Yoga tapes.'",
+        "'This is my 15th DVD of this duo.'"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic sensory",
+      "evidence": [
+        "'there is something about their approach that is very soothing yet invigorating.'",
+        "'I find that they keep my interest and I always work up a sweat and have a good workout.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'I find myself WANTING to do these workouts!'",
+        "'I couldn't believe it but after 40 min of these exercises I was able to walk and move normally.'"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for yoga and fitness-related content, particularly favoring specific instructors. They value production quality and emotional engagement in their workouts, while expressing a dislike for slower-paced and less vigorous routines."
+}

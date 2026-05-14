@@ -1,0 +1,77 @@
+{
+  "user_id": "AFFQNEVBCCC4QJ73BMSND5DCYBYA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy, western, horror, thriller",
+      "evidence": [
+        "\"I am not a big horror movie fan but, I like this series.\"",
+        "\"Great western it is very funny and the characters chosen for their roles were just right.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The storyline is very,very good.\"",
+        "\"This is a great old western with more character build up than most westerns movies have.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It also has some very good plot twists.\"",
+        "\"This movie is a thriller that starts with Johnny Depp looking for rare books and then the plot twists very smoothly to a very unexpected ending.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The characters chosen for their roles were just right.\"",
+        "\"I really like Audie Murphy's movie and these four are really good.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I really like Audie Murphy's movie and these four are really good.\"",
+        "\"This is a really good Bronson action movie.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This is a really good spin-off of the Underworld series of movies.\"",
+        "\"This is a great programs for people who want to find out about new weapons.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I really enjoyed it and would recommend it to others.\"",
+        "\"This plot reminded me of the story of Dr. Jekyll and Mr. Hyde somewhat.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly action, comedy, and westerns, with a preference for fast-paced narratives. They appreciate good character development and plot twists, though they show moderate sensitivity to production quality and brand loyalty."
+}

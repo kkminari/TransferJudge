@@ -1,0 +1,77 @@
+{
+  "user_id": "AFIHA3LDNHW6VLTFTXVKSVSVCQTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, drama",
+      "evidence": [
+        "\"the core of the story is cute but really, really stretched\"",
+        "\"the story is not that bad either\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the story line is stretch more so this time\"",
+        "\"a very flat movie that was better off to stay as a live Broadway show\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"very slow - non sense plot - no logical flow\"",
+        "\"the screenplay is a drag most of the time\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the acting was a 5 stars but the script and production was a generous 3\"",
+        "\"very well written, very well acted and very good production value\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I am not a Bollywood watcher but I stumble upon this series and I was impressed\"",
+        "\"Lucy Worsley is a master at these historical documentaries\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"the make-up is OK but not very realistic\"",
+        "\"the dancing was good but the story line flow and most of the singing was lacking\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"the movie was a very nice surprise - well done, well acted, good script\"",
+        "\"it is a feel good movie, relaxing and witty\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user appreciates well-acted productions with high production quality, particularly in romance and drama genres. They tend to prefer simpler narratives and slower pacing, often expressing disappointment in poorly executed scripts and storylines."
+}

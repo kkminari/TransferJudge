@@ -1,0 +1,74 @@
+{
+  "user_id": "AH2QQKIMSVHTDY7DRCOXMZ3IKRBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "dark, twisted",
+      "evidence": [
+        "\"A bit on the dark side, but the world it shows is just that\"",
+        "\"Twisted but entertaining\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Wonderful, I plan to watch again to pickup overlooked details\"",
+        "\"disturbing, but a story I think needed telling\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Tedious at best\"",
+        "\"Pointless\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent script and performance(s)\"",
+        "\"Amazing story and performances\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "atmospheric",
+      "evidence": [
+        "\"Enlightening, very insightful, tragic yet honest\"",
+        "\"Dark, but accurate in many ways\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"disturbing, but a story I think needed telling\"",
+        "\"Enlightening, very insightful, tragic yet honest\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for dark and complex narratives, valuing high production quality and emotional resonance. They have mixed feelings about pacing, indicating a tolerance for both slow and fast storytelling, but lean towards content that is atmospheric and insightful."
+}

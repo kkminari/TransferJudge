@@ -1,0 +1,77 @@
+{
+  "user_id": "AGB5RQID6GGARBH6TKY4SDAKOMPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "reality TV, drama",
+      "evidence": [
+        "Love Survivor.",
+        "Great to have all the alien movies."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I knew going in that it was not a great movie.",
+        "Not quite as good as the first but we really enjoyed watching it."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Good action movie.",
+        "Great season. Lots of good blindsides."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Good quality.",
+        "I was happy that all the discs worked."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Survivor",
+      "evidence": [
+        "Love Survivor.",
+        "Great season."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Great ending.",
+        "Love it. Have ordered seasons 2, 3 & 4."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "brought tears",
+        "stayed with me"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys simple, fast-paced reality TV and drama, with a strong preference for the show Survivor. They appreciate good quality but are not overly sensitive to production values, focusing more on enjoyment and emotional engagement."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHGJU7XBW3ZIKID5MVF65PZNDWLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action, comedy",
+      "evidence": [
+        "A good sci-fi movie, good price, quick shipping.",
+        "Great movie! A classic sci-fi comedy."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "A well put together story in the continuation of the Thor saga and love story.",
+        "It's a very enjoyable movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "An excellent action movie from beginning to end.",
+        "Nonstop action."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "good movies and the price was right. Shipping was quick.",
+        "A good movie, well thought out."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I hope there is another one in the works and Vin doesn't have to mortgage his house to get it made.",
+        "It was nice to see the stars of the X-files back in action."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "It's full of great humor, highschool pranks and started the careers of several Hollywood stars.",
+        "It depicts the USA in a time of fast cars, burger joints, and the impending Vietnam war just as I remember it."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "It's a shame it ended.",
+        "I could go into the dialogue, but the site wouldn't post the post."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and action genres, enjoying fast-paced narratives with straightforward storytelling. They appreciate entertainment value over production quality and show some nostalgia for classic films, though they do not exhibit strong loyalty to specific creators."
+}

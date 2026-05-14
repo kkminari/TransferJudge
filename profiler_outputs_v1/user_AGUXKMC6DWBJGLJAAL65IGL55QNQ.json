@@ -1,0 +1,77 @@
+{
+  "user_id": "AGUXKMC6DWBJGLJAAL65IGL55QNQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, superhero, drama",
+      "evidence": [
+        "\"I must say that the Superheroine brawl in Grudge Match was some of the craziest cartoon fighting I've ever seen.\"",
+        "\"This is what Batman was meant to be.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"They save all the good stuff for the Season Premieres, one or two good episodes in the middle and the Season Finale.\"",
+        "\"A whole season of nonsense and a great finale is not what I call a good show.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The action is non-stop from beginning to end.\"",
+        "\"From beginning to end the epic stories just keep making you want to see more and more.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great stories. Great Characters. Great fights.\"",
+        "\"This is DCAU at it's best. This is one of the greatest superhero cartoons ever made.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"If you haven't seen it. Then You need to.\"",
+        "\"This is what Batman was meant to be.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"My favorite scene has to be the airplane scene in the beginning and the official 'Return of Superman.' That's some crazy flying.\"",
+        "\"The cinematic style for the show has gotten better but there's not enough ACTION to go with it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "mixed",
+      "evidence": [
+        "\"I think the whole 'I luv Lana, I need Lana, I can't live without Lana,' thing is pretty old.\"",
+        "\"Bottom line: 1) Show needs action. Clarke needs to throw more than a punch in a fight.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action-packed superhero narratives with high production quality. They enjoy fast pacing and visual spectacle but express frustration with overly dramatic storylines and lack of character development in some series."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGDPJKBYPOSJPLWGL6WTOZIVVVUA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "war, classic, family, mystery",
+      "evidence": [
+        "\"Excellent story line and effects. The acting is superb.\"",
+        "\"A must have movie for those who enjoy war movies and the famous Jack Webb.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story kept well to the original theme.\"",
+        "\"Great entertainment for everyone.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Character-driven, contemplative, slow-burn.\"",
+        "\"I have watched it several times!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Beautiful cinematography, acting and story line.\"",
+        "\"The video quality is superb! Better than the disc I have.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "John Wayne, Alfred Hitchcock",
+      "evidence": [
+        "\"Always a great actor.\"",
+        "\"Alfred Hitchcock is always a good bet for a fine movie.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Loved the ole' English style shows.\"",
+        "\"Scenes felt vivid.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Brought tears, stayed with me.\"",
+        "\"A family movie that is well worth watching more than once.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic and war movies, often appreciating the quality of production and emotional depth. They enjoy simple narratives and are loyal to iconic actors like John Wayne and directors like Alfred Hitchcock."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AHVJSNBNCG2ZZ3TUOW2NREK3JUVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romcom, thriller",
+      "evidence": [
+        "Love 80s romcoms!",
+        "Descent thriller. Not a feel good movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Wish there were surprises or twists in the story line. Very predictable."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Fell asleep several times.",
+        "I fell asleep."
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Not my favorite Jennifer Lopez movie. Fell asleep several times."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Adam Sandler, Jackie Chan",
+      "evidence": [
+        "I love Adam Sandler movies.",
+        "I like all Jackie chan movies."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Based on a true story about a young man going for his dream with courage and a will to succeed."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Descent thriller. Not a feel good movie.",
+        "I fell asleep."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys romantic comedies, particularly from the 80s, and has a preference for thrillers, though they find many narratives predictable and slow-paced. They show loyalty to specific actors like Adam Sandler and Jackie Chan, but their emotional engagement with the content appears to be low."
+}

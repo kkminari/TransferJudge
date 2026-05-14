@@ -1,0 +1,77 @@
+{
+  "user_id": "AGLQG5HUQHF33PSZLZJK4GFZRBDQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama",
+      "evidence": [
+        "only THE BEST classic sci-fi film ever!",
+        "the original, history-making Star Wars trilogy is a worthy investment for anyone's library."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "intriguing writing but episode after episode was a boring repeat of the previous episode.",
+        "this story line unfaithful to the Gene Roddenberry mythology."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "episode after episode was a boring repeat of the previous episode.",
+        "it keeps you guessing!"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Tense, well written and well acted story!",
+        "Starz is to be commended for this brave production."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "John Barrowman, Star Wars",
+      "evidence": [
+        "Can't go wrong with John Barrowman for sure!",
+        "the original, history-making Star Wars trilogy is a worthy investment."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I couldn't help but cry at the end.",
+        "This show is all about the basic drives of the human beast."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I couldn't help but cry at the end.",
+        "It keeps you guessing!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and drama genres, particularly valuing high production quality and emotional resonance in storytelling. They show loyalty to specific creators like John Barrowman and the Star Wars franchise, indicating a taste for well-crafted narratives that evoke deep feelings."
+}

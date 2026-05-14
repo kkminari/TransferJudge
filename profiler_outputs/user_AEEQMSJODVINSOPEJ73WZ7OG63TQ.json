@@ -1,0 +1,77 @@
+{
+  "user_id": "AEEQMSJODVINSOPEJ73WZ7OG63TQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "western, romantic comedy",
+      "evidence": [
+        "I love most westerns, this has great actors and a great price",
+        "I love Barbara Stanwick in everything, especially romantic comedies."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Fun for kids and adults.",
+        "I always enjoy Randolph Scott westerns; consistently entertaining."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Slow moving and gruesome. Hated it.",
+        "Fun, great singing and music"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Good for the price, but make sure you know the titles before ordering",
+        "I felt betrayed that it wasn't in color since the cover is in color."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Hitchcock, Julie Andrews",
+      "evidence": [
+        "My favorite Hitchcock movie, and I've seen most of them, including his silent films.",
+        "I have loved Julie Andrews since I was a kid."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Beautiful music, actors, singing, funny, sad, moving.",
+        "The music in this production is beautiful."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I often sing these songs for no apparent reason for the past 30 years.",
+        "I hated this movie which was excessively violent with no redeeming qualities."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys westerns and romantic comedies, particularly valuing the works of Hitchcock and Julie Andrews. They prefer simple narratives and have a mixed response to pacing, with a strong emotional connection to music and memorable experiences."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEXHAQGO2SZIW4JMFFMDGDX5CQUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama",
+      "evidence": [
+        "\"I LOVE THE MIDSOMER MURDER SERIES...\"",
+        "\"I LOVE murder mysteries in the British style.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"I love the complex stories, the fabulous character development...\"",
+        "\"What a pleasure to see such interesting character development along with the solving of each crime.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I found myself really caring for the characters and was very sad to see it all come to an end...\"",
+        "\"What a joy to watch! I have to limit myself to one set each month...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I found the English translation so good that...THE ACTORS WERE NOTHING LESS THAN SUPERB!\"",
+        "\"I love the intelligent script and the terrific acting.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I was a late comer to the George Gently series...\"",
+        "\"I could not picture anyone other than Michael Kitchen playing the part of the chief detective.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"WHAT A PLEASURE TO FINALLY SEE AN INTELLIGENT, INSPIRING FILM!\"",
+        "\"GREAT FUN WITH ACTORS I REALLY BEGAN TO CARE FOR!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"WHAT A HEART WARMING STORY - ONE THAT I HAVE WATCHED SEVERAL TIMES...\"",
+        "\"I was hooked by the very first installment and was very sad to come to the end...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for British mystery series with complex narratives and character development. They value high production quality and emotional resonance in their viewing experiences, often expressing joy and attachment to the characters and stories."
+}

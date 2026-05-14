@@ -1,0 +1,100 @@
+{
+  "user_id": "AHOSO5AB2V3TPUIYV5QMPKOYCC6Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, drama, mystery, horror, comedy",
+      "evidence": [
+        "\"If you enjoy thrillers that are about remote areas, you will find this one in that category.\"",
+        "\"I highly recommend it if you enjoyed Stormship Troopers and/or Aliens.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"It has elements in the story that will remind you of another movie or two. But it is unique in the majority of use of alternative use of people of all walks of life in the draft.\"",
+        "\"The story includes some surprises and a threat to the whole school that allows some students to save the day.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It becomes a game of cat and mouse and things escalate in a hurry when he refuses to give them the money.\"",
+        "\"The twists and turns will keep you on the edge of your seat.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"An Amazon production with good production values, casting, story, script, locations, sets, camera work, and music.\"",
+        "\"Decent production values always make or break a science fiction movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"As a fan of Tony Hillerman since my mom introduced me to his books and the previous series of movies in the 1980s.\"",
+        "\"I started watching James Bond movies and read the books while Ian Fleming was still alive in the early 1960s.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Beautiful landscapes, accurate sets, amazing costumes, and wonderful music.\"",
+        "\"Impressive casting and wonderful locations. The details in sets and props make it seem so real.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is a bittersweet movie like many Disney movies because of the two deaths. One shows a young polar bear dying of starvation that even had me upset.\"",
+        "\"His life depended on it. Well worth seeing if you enjoy dramas and war movies.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "high",
+      "evidence": [
+        "\"I loved it. I wish I could tell you none of the shows I enjoy were ever canceled.\"",
+        "\"Plenty of humor to go with the dark side.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    {
+      "name": "nostalgia_preference",
+      "value": "high",
+      "evidence": [
+        "\"I was a little of all three boys. In high school I hung out with nerds, I was on the football and track team, and I knew some bad boys and got into some trouble.\"",
+        "\"I love stories about other times and growing up.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user enjoys thrillers, dramas, and mysteries with a strong emphasis on production quality and sensory experiences. They appreciate fast-paced narratives and have a high emotional resonance with the content they consume, often reflecting on nostalgia and humor in their reviews."
+}

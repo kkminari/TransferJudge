@@ -1,0 +1,74 @@
+{
+  "user_id": "AHMIEG2WH2Q7FJYNJRZXKPLVLUGA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi",
+      "evidence": [
+        "A must for the Dr. Who fan."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "A+",
+        "A+"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "A+",
+        "A+"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "A+",
+        "A+"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Doctor Who",
+      "evidence": [
+        "A must for the Dr. Who fan."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "mixed",
+      "evidence": [
+        "great little bundle, ship a bit smaller than expected but hey still a nice collectible."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "A+",
+        "A+"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi, particularly enjoying the Doctor Who franchise. They seem to value emotional resonance in their viewing experience, often giving high ratings, but show mixed feelings regarding narrative complexity and pacing."
+}

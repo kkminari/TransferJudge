@@ -1,0 +1,77 @@
+{
+  "user_id": "AEETDSVHSWYIC6L3OWASAN2ITMGA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, documentary",
+      "evidence": [
+        "\"This was a super funny movie. Highly recommend it.\"",
+        "\"I’ve watched this movie several times. I really enjoyed all the big name actors.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This movie is a great weekend movie. A lot was put into making this masterpiece.\"",
+        "\"I was surprised at how well this movie was written and the great actors.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This movie is a great weekend movie. A lot was put into making this masterpiece.\"",
+        "\"Danny McBride is a genius when it comes to writing and acting.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I was surprised at how well this movie was written and the great actors.\"",
+        "\"10 out of 10. Great movie and actors!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Danny McBride is a genius when it comes to writing and acting.\"",
+        "\"I read the book first and the movie goes off script a little bit but still worth the watch.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"When watching this series it makes me feel like I’m back in the house I grew up in with my parents and siblings. Safe and cozy.\"",
+        "\"This movie was surprisingly good. I would recommend it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"When watching this series it makes me feel like I’m back in the house I grew up in with my parents and siblings. Safe and cozy.\"",
+        "\"Such a loss.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted comedies and family-friendly films, often appreciating strong performances and engaging narratives. They have a preference for fast-paced storytelling with high production quality, and they value emotional connections to the content."
+}

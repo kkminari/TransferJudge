@@ -1,0 +1,77 @@
+{
+  "user_id": "AGSOMXAKWS3I22YU45GJGPSW6C3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy",
+      "evidence": [
+        "\"good action movie\"",
+        "\"HILLARIOUS!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Entertaining with lots of action but far fetched - a lot of interesting dialog\"",
+        "\"good action movie\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"ACTION, ACTION, ACTION.\"",
+        "\"Entertaining with lots of action but far fetched - a lot of interesting dialog\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Not a Cruise fan but found the movie entertaining\"",
+        "\"good action movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Bond- James Bond- Daniel Craig is excellent as the British Secret agent\"",
+        "\"while not a fan of Keanu Reaves, he does an admirable job here\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"good action movie\"",
+        "\"excellent series\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"gift for friends daughter- she loved this movie\"",
+        "\"Brings back memories and laughter\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and comedy genres, enjoying fast-paced narratives with a focus on entertainment. They show low sensitivity to production quality and have mixed feelings about brand loyalty, indicating a preference for engaging content over specific creators."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHRFELX3INKLCUURFRAYFLEATJLQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, comedy",
+      "evidence": [
+        "Best sci-fi series of the past 6 years.",
+        "Star Trek satire at its best. Hilarious, fast paced and great Easter Eggs through the series."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "the story was weak, but violent with no redeeming qualities.",
+        "It makes sense."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Hilarious, fast paced and great Easter Eggs through the series.",
+        "I wasn’t happy about how one character died (don’t want to spoil it!). I gave it a 4 due to it taking so long to move on."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Quality of blu-ray is excellent.",
+        "the quality of the Blu-ray is pathetic."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Star Trek, Grimm",
+      "evidence": [
+        "Great addition to the Star Trek mythology.",
+        "Best sci-fi series of the past 6 years."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "the quality of the picture and audio in HD blu-ray is outstanding.",
+        "the lack of a digital copy so I could view it on my iPad."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "being in a loveless marriage, Richard, and a teenager, Abby, who has been lonely since her sister died at an early age.",
+        "I wasn’t happy about how one character died."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for sci-fi and comedy genres, particularly enjoying series like Star Trek and Grimm. They are sensitive to production quality and express mixed feelings about narrative complexity and pacing, indicating a preference for straightforward storytelling with some emotional depth."
+}

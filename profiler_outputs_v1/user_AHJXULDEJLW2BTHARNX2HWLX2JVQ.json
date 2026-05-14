@@ -1,0 +1,74 @@
+{
+  "user_id": "AHJXULDEJLW2BTHARNX2HWLX2JVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, uplifting",
+      "evidence": [
+        "\"Disappointed in the language. Offended by cursing, interested in family friendly viewing\"",
+        "\"Very entertaining and uplifting\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great uplifting story\"",
+        "\"Excellent family entertainment!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"A little too slow\"",
+        "\"A little slow\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Enjoyed!\"",
+        "\"Loved it!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Helpful to have it brought to life through 3D imaging.\"",
+        "\"Great story!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Loved it!\"",
+        "\"Great uplifting story\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and uplifting content, often favoring simple narratives that evoke strong emotional responses. They have a mixed feeling towards pacing, indicating a preference for slower storytelling, but they do not show strong loyalty to specific creators."
+}

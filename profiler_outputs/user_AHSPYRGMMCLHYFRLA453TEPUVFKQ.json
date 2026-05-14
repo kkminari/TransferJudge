@@ -1,0 +1,77 @@
+{
+  "user_id": "AHSPYRGMMCLHYFRLA453TEPUVFKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, supernatural, comedy, drama",
+      "evidence": [
+        "\"I love Supernatural. It cannot be bad. It's all good!\"",
+        "\"I loved Bewitched when I was a kid, and I love it still. This show was so funny.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's not high tech, and it tells a good story.\"",
+        "\"The story was ok, but the effects blew me away!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I really love the relationship between Brenda and her family.\"",
+        "\"I still love watching this series over and over.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The scenery was awesome and the acting was top notch.\"",
+        "\"Fantastic special effects. The story was ok, but the effects blew me away!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"I love Supernatural. It cannot be bad. It's all good!\"",
+        "\"I still laugh at the outrageous antics of Serena, Uncle Authur, and Endora.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The special effects were pretty good.\"",
+        "\"Fantastic special effects. The story was ok, but the effects blew me away!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"What a sweet story, that started out despicable and turned into a very sweet story. I loved it.\"",
+        "\"I still love watching this series over and over.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy and supernatural genres, particularly enjoying shows like 'Supernatural' and 'Bewitched'. They appreciate high production quality and emotional storytelling, often favoring simple narratives that evoke nostalgia and humor."
+}

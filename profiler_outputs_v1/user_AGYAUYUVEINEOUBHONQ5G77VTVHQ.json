@@ -1,0 +1,74 @@
+{
+  "user_id": "AGYAUYUVEINEOUBHONQ5G77VTVHQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, thriller",
+      "evidence": [
+        "\"Brilliant, inspiring documentary\"",
+        "\"Fun thriller\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"over-written, over-acted, jarring sound track\"",
+        "\"simplistic and unsophisticated\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"ran waaay too long\"",
+        "\"the plot seems repetitive\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"heavy-handed in nearly every aspect\"",
+        "\"the creator's speech... doesn't quite ring true\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"the film glosses over the safety risks\"",
+        "\"visuals added very little to the story\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I walked away not feeling like I understood any of them much more than I did at the beginning\"",
+        "\"the movie: ugh\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for documentaries and thrillers but has a strong aversion to overly simplistic narratives and poor production quality. They express disappointment in films that lack depth and emotional engagement, indicating a desire for more complex and meaningful storytelling."
+}

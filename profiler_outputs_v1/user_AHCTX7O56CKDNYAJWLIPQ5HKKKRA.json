@@ -1,0 +1,76 @@
+{
+  "user_id": "AHCTX7O56CKDNYAJWLIPQ5HKKKRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, classic, drama",
+      "evidence": [
+        "\"Very funny movie with some great actors!\"",
+        "\"Tis is one of my favorite Elizabeth Tylor and Richard Burton Movies\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Very entertaining movie\"",
+        "\"I was not fond of the storyline.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Very funny movie!!\"",
+        "\"Hysterical Movie!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The sound they have created is Superb!!\"",
+        "\"The scenery is exquisite...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Elizabeth Taylor, Richard Burton",
+      "evidence": [
+        "\"Tis is one of my favorite Elizabeth Tylor and Richard Burton Movies\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual, auditory",
+      "evidence": [
+        "\"The sound they have created is Superb!!\"",
+        "\"The scenery is exquisite...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I was not fond of the storyline.\"",
+        "\"Very happy with this purchase, will watch many times over!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys classic and comedic films, particularly those featuring Elizabeth Taylor and Richard Burton. They prefer fast-paced narratives with simple storylines and appreciate good production quality, especially in sound and visuals, but do not seek deep emotional engagement from the content."
+}

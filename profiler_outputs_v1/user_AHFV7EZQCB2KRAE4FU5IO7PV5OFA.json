@@ -1,0 +1,77 @@
+{
+  "user_id": "AHFV7EZQCB2KRAE4FU5IO7PV5OFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action",
+      "evidence": [
+        "\"I enjoyed the series. Lots of action and good actors.\"",
+        "\"The struggles and 'story lines of the characters' eclipse all the goons and gore.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"I loved the (Fire In The Hole) writing and all the multifaceted characters.\"",
+        "\"The struggles and 'story lines of the characters' eclipse all the goons and gore.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I enjoyed the series. Lots of action and good actors.\"",
+        "\"Justified represented some of the best entertainment on television.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The whole series is well written and acted.\"",
+        "\"Walton Groggins was superb!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Walton Groggins, Justified",
+      "evidence": [
+        "\"Walton Groggins was superb!\"",
+        "\"Justified represented some of the best entertainment on television.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual storytelling",
+      "evidence": [
+        "\"The struggles and 'story lines of the characters' eclipse all the goons and gore.\"",
+        "\"I loved the (Fire In The Hole) writing and all the multifaceted characters.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The whole series is well written and acted.\"",
+        "\"I wish this series had not ended, but the finale was perfect!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and drama genres, appreciating complex narratives and high production quality. They show loyalty to specific actors and series, particularly valuing emotional depth and well-crafted storytelling."
+}

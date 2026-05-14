@@ -1,0 +1,77 @@
+{
+  "user_id": "AH6AEHVEBNNQZBLFGDCVZDPDGPCQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, mystery, action, comedy",
+      "evidence": [
+        "\"Veronica Mars is about a girl who is about 10 times smarter, sharp witted, and drama filled than anyone else around her\"",
+        "\"The story is strong and gets its point across like no other I have ever seen.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The story is full of holes, and sometimes it moves too fast and sometimes not fast enough to keep the audiences attention.\"",
+        "\"The story takes a detour right in the middle that shows her origins.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The movie moves slow, which I don't mind.\"",
+        "\"The action is good. It can look a bit stiff at times, but for the most part its good.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is fantastic, especially Gong Li, who stuns with her emotion.\"",
+        "\"The special effects have been outdone and its dialog is no longer what is said, but its themes are still relevant today.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"The director, Zhang Yimou, is truly a genius.\"",
+        "\"I can't wait for next years Angles and Demons to come to the big screen.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The landscape is beautiful and the special effects are also great.\"",
+        "\"The cinematography is B-E-A-Utiful. Everything is alive with color from the boxes in the irish mob boat, to Cameron Deiz's wet beach hair.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This film is amazing. The story is strong and gets its point across like no other I have ever seen.\"",
+        "\"This movie is so disturbing not because a bunch of friends are forced to kill each other but because of the way everything is handled.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and mystery genres, often appreciating strong narratives and emotional depth. They have a high sensitivity to production quality and a preference for visually engaging films, while their pacing preferences are mixed, indicating a tolerance for both slow and fast narratives."
+}

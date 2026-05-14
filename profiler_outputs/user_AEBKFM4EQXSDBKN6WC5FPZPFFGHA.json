@@ -1,0 +1,75 @@
+{
+  "user_id": "AEBKFM4EQXSDBKN6WC5FPZPFFGHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, thriller",
+      "evidence": [
+        "\"Serious and sometimes shocking story well told, and brilliantly acted.\"",
+        "\"A classic. A must own for every movie buff. Unforgettable performances.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Fast moving, does not involve a lot of CIA mumbo jumbo, just good old Jack Ryan facing his foes with brains and brawn.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Keeps u on the edge of your seats.\"",
+        "\"Fast moving, does not involve a lot of CIA mumbo jumbo...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"A Seymour Hoffman performance to remember!!\"",
+        "\"Great script. Well made movie.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"JK Simmons deserved the Oscar.\"",
+        "\"If you like the Jack Ryan movies, this one is a classic.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Blu - Ray effects were marvelous and the cinematography worked well.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A timeless classic!!\"",
+        "\"Awesome. Almost could be true!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and thriller genres, favoring fast-paced narratives with high production quality. They appreciate emotional depth in storytelling and are generally positive about their viewing experiences."
+}

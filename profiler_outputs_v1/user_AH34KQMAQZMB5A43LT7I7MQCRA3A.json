@@ -1,0 +1,77 @@
+{
+  "user_id": "AH34KQMAQZMB5A43LT7I7MQCRA3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "Korean films, comedy, martial arts",
+      "evidence": [
+        "I haven't seen a bad Korean film through Asian Crush yet.",
+        "Recently the only good movies are coming from Korea."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "the very very ending confused the hell out of me",
+        "the underlying meaning of meaningless of existence in society and overcoming through love prevails."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "long, dark and boring.",
+        "I felt like I spent a much longer amount of time there than the actual movie length."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the cast and acting was incredible, the story was better and the cinematography was superb.",
+        "This is probably the most beautiful film I have seen."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Korean cinema, Jeremy Renner",
+      "evidence": [
+        "I wish they made more episodes - will Delahoy die?",
+        "I have never seen a bad movie Tom Cruise was in."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "I felt transported to their world.",
+        "the cinematography was superb."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "it made me cry it was so beautiful.",
+        "I was amazed and had to watch the very beginning again to tie everything up."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for Korean films, appreciating their quality and emotional depth. They enjoy visually stunning narratives but have mixed feelings about pacing and narrative complexity, indicating a nuanced taste in storytelling."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFO7ASMXB6AHKWD3LZE2KI5E2Y7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, thriller, comedy",
+      "evidence": [
+        "\"Excellent thriller that's well worth a look\"",
+        "\"Excellent horror comedy by any standards!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The story, such as it is, of this incoherent 'thriller' starts with a series of 'vampire murders' in London.\"",
+        "\"The film is also well photographed, taking full advantage of the black-and-white medium, as well as the beatnik settings.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Presumed Innocent had just enough problems to knock it down to the low side of average.\"",
+        "\"The pacing problems--any viewer paying attention will know that a character who is pegged as the killer at one point in the film can't possibly be the killer.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The camerawork and lighting of this film are near perfect.\"",
+        "\"This 1948 B-movie is an excellently made thriller. It is well acted, well filmed, moves briskly, and keeps the viewer engaged with clever plot-twists.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I never saw a Corman film I liked...\"",
+        "\"This is one of the finest horror films produced by Hammer Films in the Sixties.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The film has an odd tone to it from the very first arrival of Shelly and the girls at Byron's estate, and that oddness kicks into full-fledged horror movie mode.\"",
+        "\"The way the house becomes a character unto itself as the film unfolds, the various torments the character's experience, the possessions... they're all haunted-house standards.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "mixed",
+      "evidence": [
+        "\"If you like your horror flicks with a certain level of well-done special effects gore but aren't terribly concerned about whether the story hangs together well, then this is a film for you.\"",
+        "\"This is another one of those overlooked gems that's worth a look by horror fans and modern filmmakers.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys horror and thriller genres, particularly those with strong production quality and sensory experiences. They have mixed feelings about narrative complexity and pacing, indicating a preference for engaging storytelling but with some tolerance for flaws."
+}

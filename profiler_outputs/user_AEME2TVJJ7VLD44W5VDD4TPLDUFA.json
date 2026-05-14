@@ -1,0 +1,77 @@
+{
+  "user_id": "AEME2TVJJ7VLD44W5VDD4TPLDUFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical drama, thriller, action, romance",
+      "evidence": [
+        "\"Sharpe's Company is one of the highlights on the series... Depth and villainy beyond Napoleon are introduced.\"",
+        "\"Flightplan excels in delighting the mind over the action.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Sharpe's Company twists all these together in a pretty end.\"",
+        "\"Sharpe's Honour has a slightly different vibe to it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The conclusion of Flightplan, unfortunately, leaves a bit to desire.\"",
+        "\"Sharpe's Gold is a fine example of how a modern historical novel should be done.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Director Tom Clegg and his production team get the battle sequences down pat for Sharpe's Company.\"",
+        "\"The look of Rifle's may also seem on the cheap now, but the uniforms, weaponry, and locales all carry the right authenticity to them.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Sean Bean",
+      "evidence": [
+        "\"Sean Bean plays the titular Sharpe to perfection.\"",
+        "\"I took a brief break from reading, watching, and reviewing Sharpe, but soon enough I had to dive in again with Sharpe's Revenge.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The epic is there as well as the personal.\"",
+        "\"The lush look of the common plane areas is state of the art, and the underbelly sequences are dark, cramped, full of mechanics-very realistic.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Sharpe's Company twists all these together in a pretty end.\"",
+        "\"The emotional impact of the characters is palpable throughout the series.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for historical dramas and thrillers, particularly those featuring Sean Bean. They appreciate complex narratives and high production quality, often valuing emotional depth in storytelling. Their reviews indicate a mixed response to pacing, suggesting they enjoy both fast-paced action and slower, character-driven moments."
+}

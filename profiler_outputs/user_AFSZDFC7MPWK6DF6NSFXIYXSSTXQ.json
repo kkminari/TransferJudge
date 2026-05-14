@@ -1,0 +1,77 @@
+{
+  "user_id": "AFSZDFC7MPWK6DF6NSFXIYXSSTXQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, drama",
+      "evidence": [
+        "\"I love history and archaeology so much.\"",
+        "\"Not historically accurate... that phrase cannot be used strongly enough here.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The stories make no sense. Skip it.\"",
+        "\"It started with tough-guy action, right off the bat. But there is no character development...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I was so bored I fed the cats and took a nap.\"",
+        "\"It moved at a snail's pace.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is horrifically bad. I mean, like super bad.\"",
+        "\"The photography is beautiful in setting mood, along with the music, but that is about it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I got this because I really love Ben Foster.\"",
+        "\"Even as a fervent fan of Tom Hardy, I was extremely bored.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The photography is beautiful in setting mood, along with the music...\"",
+        "\"The viewer can feel his pain, happiness, rage, love, and sacrifice.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie is touching, whether one were to support the war in Iraq or not.\"",
+        "\"The love the man showed for them will make your heart want to do more to help.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for historical narratives but is critical of poor execution in storytelling and pacing. They value emotional depth and production quality, yet often find themselves disappointed by the lack of authenticity and character development in films."
+}

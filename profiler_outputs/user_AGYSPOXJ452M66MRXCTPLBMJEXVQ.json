@@ -1,0 +1,77 @@
+{
+  "user_id": "AGYSPOXJ452M66MRXCTPLBMJEXVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, thought-provoking",
+      "evidence": [
+        "Love these type of thought provoking movies",
+        "Thought provoking, dramatic sci-fi ....... was literally in shock after I finished it."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "Love these type of thought provoking movies, it has taken me a couple viewings to really figure out what is going on here.",
+        "This collection has everything in it you could want; sad episodes, happy ones, bittersweet melodrama, lustfull revenge, and even wtf moments."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "The movie starts out really slow … I honestly was about to stop watching it, but I figured I would stay for Jason Mamoa.",
+        "The movie is very slow and boring, but it does have an excellant portrayl of ones journey to find their sexuality."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Great movie! I love the complicated and intriguing, yet sexy and steamy drama.",
+        "There was so much suspense going on here, I was literally on the edge of my seat the whole movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Pixar",
+      "evidence": [
+        "Anything by Pixar is ingenious!!",
+        "Anything by Pixar is ingenious!!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "What an amazing ending.",
+        "It even made me think of my journey at times."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "What an amazing ending.",
+        "It even made me think of my journey at times."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex, thought-provoking narratives, particularly in the sci-fi and drama genres. They show a strong preference for high-quality production and have a notable loyalty to Pixar films, indicating a taste for emotionally resonant and engaging storytelling."
+}

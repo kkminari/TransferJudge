@@ -1,0 +1,77 @@
+{
+  "user_id": "AFGINQVXC7TUJKETVZOMC4JKOU7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, mystery, biography, action, war",
+      "evidence": [
+        "\"Great, gritty NYPD drama with fine performances.\"",
+        "\"Excellent, moving portrayal of struggles & challenges of WWII paratroopers from D-Day landing to fall of Germany.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Fast moving tv newsroom drama, lots of plots at one time.\"",
+        "\"Each episode delves deeper into the complex relationship between the two agents.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"An interesting, if slow, story adapted from a stage drama of the same name.\"",
+        "\"Fast moving tv newsroom drama, lots of plots at one time.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent performances by Redford and Hoffman and entire cast.\"",
+        "\"Acting is top-notch. Gives a realistic portrayal of early founding fathers.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Great acting by Travolta in this movie thriller.\"",
+        "\"Great, gritty NYPD drama with fine performances.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"This is an exciting, complex drama with lots of surprises.\"",
+        "\"Great acting, especially by the ladies.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent, moving portrayal of struggles & challenges of WWII paratroopers.\"",
+        "\"A very charming movie about an itinerant woman & her child who are non-conformists.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex dramas with strong narratives and high production quality, particularly in the genres of action, mystery, and war. They appreciate emotional depth and engaging performances, though they have mixed feelings about pacing, sometimes preferring fast-moving plots and other times slower, character-driven stories."
+}

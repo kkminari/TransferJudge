@@ -1,0 +1,77 @@
+{
+  "user_id": "AFGF7USOLQJIOO7A63XCKJBWOJYA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, fantasy",
+      "evidence": [
+        "\"I loved this movie, a real family movie\"",
+        "\"It was a great fantasy movie. I enjoyed the graphics very much.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I liked it well enough, nice movie\"",
+        "\"I was an ok movie. It wasn't one of my favorites\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Action packed and an overall entertains film.\"",
+        "\"very good movie, kept you interested every minute.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I liked this movie very much, recommend it.\"",
+        "\"I enjoyed this movie very much.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love this series, just wanted to see it from the start.\"",
+        "\"Love it, best series.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I enjoyed this movie very much, I highly recommend it.\"",
+        "\"I liked this movie very much, good entertainment.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I enjoyed this movie very much.\"",
+        "\"I was glad I watched it. Great entertainment.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family and fantasy movies with a preference for fast-paced storytelling. They appreciate emotional engagement and tend to favor simple narratives, while showing less concern for production quality and brand loyalty."
+}

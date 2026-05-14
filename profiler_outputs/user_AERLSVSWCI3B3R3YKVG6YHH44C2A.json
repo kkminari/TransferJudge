@@ -1,0 +1,77 @@
+{
+  "user_id": "AERLSVSWCI3B3R3YKVG6YHH44C2A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "western, comedy",
+      "evidence": [
+        "\"I like the Hoppy movies for whatever reason.\"",
+        "\"I enjoy these very old westerns. They are just relaxing and fun and easy to watch.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot is not terribly complicated. There are some true characters among the cast.\"",
+        "\"The plot dragged ever so slightly with the somewhat trite old flame, abandoned son theme.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I just could not get into this one and stopped about a third of the way through.\"",
+        "\"This is like so many of these kinds of shows... pretty slow moving with little substance.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I would have rated this a star or two higher for content, but the video is AWFUL!!!\"",
+        "\"Poor quality audio and video. Pretty lame plot.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Sunset Carson has grown on me. This one is abOK. Most of his are better.\"",
+        "\"I like the Hoppy movies for whatever reason.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I find Max Terhune and Elmer to be a burden as often as not, but Elmer had 'em hoppin' during the debate for sheriff.\"",
+        "\"The character actors in most of them are just very interesting to watch, and this one has some characters.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I just could not get into this movie. It had a reasonable cast, but nothing here rose to the occasion.\"",
+        "\"I had to chuckle at another reviewer's comments about bullets flying everywhere and none hitting anything.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys westerns and comedies, often finding them relaxing and entertaining. However, they show a strong sensitivity to quality, particularly audio and video, and prefer simpler narratives with slower pacing. Emotional engagement appears to be low, as they often focus on entertainment value rather than deeper connections."
+}

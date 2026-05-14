@@ -1,0 +1,77 @@
+{
+  "user_id": "AEF6EYWX2VTBQR3FXOQAO4MWNR6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, thriller, drama",
+      "evidence": [
+        "\"More need to know about this overlooked horror gem.\"",
+        "\"Tense dramatic thriller.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"No budget. No story. No talent.\"",
+        "\"I thought it would at least have been a fun spoof of the popular TV show. Instead, it was a grim, depressing angst story that didn't interest me one bit.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"If you stick with it, you'll see a rewarding masterpiece.\"",
+        "\"I wanted to see how it ended without watching it & did some other stuff, went out for a walk, came back & and they were still going on.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"No budget. No story. No talent. Gives indie films a bad name.\"",
+        "\"Exceptional atmosphere. A genuinely scary score.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "General dissatisfaction with modern films."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Exceptional atmosphere. A genuinely scary score.\"",
+        "\"A most uneven movie to be sure. Exceptional atmosphere.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"No fun at all. I'd as soon take an insulin injection to watch this again!\"",
+        "\"I thought it would at least have been a fun spoof of the popular TV show. Instead, it was a grim, depressing angst story that didn't interest me one bit.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for horror and thriller genres, but has a low tolerance for narrative complexity and emotional engagement. They are sensitive to production quality, often expressing disappointment in films that lack it, while their loyalty to specific creators is low."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGSBMWQQRBGNSHM36LS32B5D4W6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, western",
+      "evidence": [
+        "\"Great new western, cowboys, crooks and indians.\"",
+        "\"A nice different series in the old west.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story line is so true about all thieving politicians.\"",
+        "\"Its addicting. Setting are real looking, plot keeps you going.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"found us watching 3 or 4 at a time. Its addicting.\"",
+        "\"We got addicted and watched 2 per night.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The costumes for the time are excellent.\"",
+        "\"Kevin costner. how can it be bad.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Kevin Costner",
+      "evidence": [
+        "\"The great Kevin costner play another great role.\"",
+        "\"Kevin costner. how can it be bad.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Great show scenery and actors.\"",
+        "\"The costumes for the time are excellent.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Stupid\"",
+        "\"Too bloody\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and western genres, particularly those with engaging plots and fast pacing. They show a strong preference for high production quality and have a notable loyalty to Kevin Costner, indicating a taste for visually appealing content."
+}

@@ -1,0 +1,100 @@
+{
+  "user_id": "AHA52CQXKMM2X37JJMWKFUNO2M7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, family, music, horror",
+      "evidence": [
+        "\"The Brady Bunch\" is the most enjoyable TV sitcom of the 1970s.",
+        "\"Purple Rain\" was a phenomenon that successfully merged music and film like no other movie since its release."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "the series was completely devoid of any semblance of reality",
+        "the plot in \"Purple Rain\" covers very familiar ground"
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "the film drags at an incredibly slow pace",
+        "the pacing... passes along nicely and never drags"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the picture quality varies, and the sound is in mono",
+        "the improvements are noticeable, to say the least."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I just hope that Columbia will release ALL seasons",
+        "the director who gave us the vastly superior \"Boogie Nights\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, music",
+      "evidence": [
+        "the sound quality is top notch, and you can feel the music project right out of your speakers",
+        "the special effects are cool, but they take a backseat to the storyline"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "the film was believable (if predictable), had decent performances, and had me hooked to the screen",
+        "I was literally blown away."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "high",
+      "evidence": [
+        "it's way funnier than it ever has a right to be",
+        "the humor is plumb-dumb silly but a whole lot of fun"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    {
+      "name": "cultural_relevance",
+      "value": "high",
+      "evidence": [
+        "a realistic portrait of 'unconventional' families",
+        "the film asks, how far will TV producers go to boost ratings?"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user enjoys a mix of comedy, drama, and music, often favoring works that are visually engaging and emotionally resonant. They appreciate high production quality and humor, while showing a preference for simpler narratives and slower pacing."
+}

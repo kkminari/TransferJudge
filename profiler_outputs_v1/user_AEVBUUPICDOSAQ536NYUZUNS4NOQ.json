@@ -1,0 +1,77 @@
+{
+  "user_id": "AEVBUUPICDOSAQ536NYUZUNS4NOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "R&R, fantasy",
+      "evidence": [
+        "One of my favorite R&R movies of all time.",
+        "Bought this for my daughter-in-law, she loves anything pertaining to Beauty and the Beast."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great.",
+        "Enjoyed it very much."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Always an interesting topic.",
+        "Very interesting subject matter."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great.",
+        "Loved it."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Always a favorite of mine.",
+        "Great Series."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "Sort of scares you, with everything that is going on in the world today.",
+        "Who knows? This all may become a reality in the not so distance future."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Loved it.",
+        "Great, I remember reading the book when it originally came out."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for R&R and fantasy genres, enjoying simple narratives with a focus on interesting topics. They express high emotional resonance with the content, indicating a preference for stories that evoke feelings and memories."
+}

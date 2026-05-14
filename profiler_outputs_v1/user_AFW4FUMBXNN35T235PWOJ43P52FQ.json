@@ -1,0 +1,74 @@
+{
+  "user_id": "AFW4FUMBXNN35T235PWOJ43P52FQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary",
+      "evidence": [
+        "\"An amazing documentary. I read the book and the series makes it all the more real.\"",
+        "\"This is an excellent series. It comes at a perfect time when so many anti-science forces are at play in the political world.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A sweet but shallow story about war.\"",
+        "\"Content would be more helpful if more detailed.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This is a very good show. It seems to be overlooked by most, perhaps because it is not on a major network or perhaps because it is not violent enough.\"",
+        "\"Well acted but too dark and pessimistic for my taste. I will not continue to watch.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The concept is fascinating, the writing and the acting are great.\"",
+        "\"This is a fantastic tv series.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory experience",
+      "evidence": [
+        "\"The music is wonderful as are the beautiful images.\"",
+        "\"An amazing documentary. I read the book and the series makes it all the more real.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"This was too dark and weird for my taste.\"",
+        "\"Well acted but too dark and pessimistic for my taste. I will not continue to watch.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for drama and documentary genres, appreciating high production quality and visual experiences. However, they tend to favor simpler narratives and slower pacing, often expressing mixed feelings about emotional engagement in the content they consume."
+}

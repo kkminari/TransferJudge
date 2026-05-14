@@ -1,0 +1,88 @@
+{
+  "user_id": "AFO6O46A66BIESDOWFLESHCAYD7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama",
+      "evidence": [
+        "I love watching liams movies. He is such a good actor in just about anything he does.",
+        "Love this movie now I have all three movies."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Keeps you attention from beginning to end.",
+        "Had a good story line but just slow."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "In my opinion was a very slow moving movie almost put me and my husband to sleep.",
+        "Not a bad movie kept my attention."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I wouldn't waste your money.",
+        "Wasn't in my opinion very good."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Liam Neeson",
+      "evidence": [
+        "I love watching liams movies.",
+        "Good movie wanted for my collection."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "emotional engagement",
+      "evidence": [
+        "hard to keep dry eyes haven't been able to yet one of my favorite movies.",
+        "Love this movie feel sorry for the girl."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Love this movie now I have all three movies.",
+        "Just love this movie hard to keep dry eyes haven't been able to yet one of my favorite movies."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "disliked_genres",
+      "value": "documentary",
+      "evidence": [
+        "Didn't care for movie was more of a documentary."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user enjoys action and drama films, particularly those featuring Liam Neeson, and has a strong emotional connection to the movies they watch. They prefer straightforward narratives and are sensitive to pacing, often finding slower films less engaging."
+}

@@ -1,0 +1,88 @@
+{
+  "user_id": "AG3HD4P6DDCPTL7LAILXX6DAAWHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, romance",
+      "evidence": [
+        "\"Old fashioned comedies are my favorites.\"",
+        "\"I like movies that are funny.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This is not a mind bending movie, not the greatest I've ever seen or even close.\"",
+        "\"The plot is not strong, the script is not the best, but I enjoyed it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"the plot is good and it moves right along.\"",
+        "\"I have watched this movie three times since I bought it and will probably watch it more times in the next year.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The acting is good, the story is entertaining, it is funny and romantic.\"",
+        "\"The acting is good as is the plot.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I will look at anything if she is in it and have seldom been disappointed.\"",
+        "\"If you like Austen, you will love this movie.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory enjoyment",
+      "evidence": [
+        "\"The scenery is beautiful and if you like story rather than forced nudity and obscenities this is for you.\"",
+        "\"The photography seems good, to me the acting was good.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I laughed so hard I fell off my chair and choked on my drink.\"",
+        "\"The acting is good, the story line can be followed and the price is right.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "nostalgia_preference",
+      "value": "high",
+      "evidence": [
+        "\"Let me explain this review in this way. I saw this with my wife when it first came out and we enjoyed it so it has nostalgia on its side for me.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys comedies and romantic dramas, often appreciating good acting and engaging stories. They prefer fast-paced narratives and have a nostalgic inclination towards older films, while showing moderate sensitivity to production quality."
+}

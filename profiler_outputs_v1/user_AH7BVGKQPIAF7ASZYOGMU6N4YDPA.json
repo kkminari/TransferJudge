@@ -1,0 +1,78 @@
+{
+  "user_id": "AH7BVGKQPIAF7ASZYOGMU6N4YDPA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama, romance, war",
+      "evidence": [
+        "\"A nice movie about long-term romance\"",
+        "\"Great British Murder Mystery\"",
+        "\"Good war movie with one minor flaw.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"the stories are interesting but sometimes confusing\"",
+        "\"the somewhat confusing plot line held my attention well.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"you really need to pay attention -- no smartphone or tablet while Inspector Lewis is on.\"",
+        "\"I thought the story line about Cromwell's problem with the local zoning bureaucrats was a little tedious.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the videography and acting are excellent.\"",
+        "\"Production quality also remained high, with a great roster of guest villains.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I've read every Harry Bosch book and was expecting this series to be a weak shadow of them.\"",
+        "\"Peter Falk still seemed to love the character and delivered his usual excellent portrayal of the relentless detective.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"the locale was gorgeous, the acting was excellent\"",
+        "\"fabulous scenery, both exterior and interior.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"reminded me of Bruce Dern's 'Nebraska' and Paul Newman's 'Nobody's Fool'\"",
+        "\"you will find that it's not been wasted. Highly recommended!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys mystery and drama genres, particularly those with strong emotional resonance and high production quality. They appreciate well-crafted narratives, though they sometimes find them confusing, and prefer slower pacing that allows for deeper engagement with the story."
+}

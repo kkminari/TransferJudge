@@ -1,0 +1,75 @@
+{
+  "user_id": "AEJJ5DFHXZHSVEYWYTDYW3SJIFVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family, biblical",
+      "evidence": [
+        "His drama series are great to watch",
+        "Anything from the Bible I am all for, it gives a visual to go by."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It was alright",
+        "it's ok by me."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Didn't get the ending, it was a little different. At times it did peak my interests."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "GOOD MOVIE",
+        "Good movie"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "His drama series are great to watch"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Good and evil is around us and it gives us something to think about.",
+        "If you can dream it, in time it will happen."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Did not like it",
+        "it gives a twist to the story"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and family-oriented content, particularly with biblical themes. They have a mixed response to narrative complexity and emotional engagement, indicating a preference for straightforward storytelling and moderate emotional impact."
+}

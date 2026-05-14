@@ -1,0 +1,77 @@
+{
+  "user_id": "AGNWY6U7354UWSOFM6JIHT2XI75A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"I love Nick Kroll so much.\"",
+        "\"I love this show. It is so funny, but in a subtle, witty way.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It was amusing and uplifting, though.\"",
+        "\"I didn't think it was funny at all, and I thought it was crass.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I found myself not paying attention to what was being said.\"",
+        "\"The sets and actors were all perfect, but I think the movie got mired in too much dialogue.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"It was well-acted, had a great script, and was very entertaining.\"",
+        "\"The actors were fantastic, the script was so well-written, and the subject matter was engrossing.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Nick Kroll, Bobby Canavale, Rose Byrne",
+      "evidence": [
+        "\"I love Nick Kroll so much.\"",
+        "\"I think the actors are brilliant, the script is fantastic.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and emotional engagement",
+      "evidence": [
+        "\"It made me care about events I did not live through, but I feel like I learned something.\"",
+        "\"The actors are brilliant, the script is fantastic, and it is entertaining and moving at the same time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I was so surprised how moving this movie was.\"",
+        "\"It is so funny, but in a subtle, witty way.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and dramas, particularly those with strong performances and engaging scripts. They appreciate emotional depth and high production quality, while showing a preference for slower pacing and simpler narratives."
+}

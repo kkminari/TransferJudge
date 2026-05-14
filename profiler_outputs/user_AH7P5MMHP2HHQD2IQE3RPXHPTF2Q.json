@@ -1,0 +1,77 @@
+{
+  "user_id": "AH7P5MMHP2HHQD2IQE3RPXHPTF2Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, horror",
+      "evidence": [
+        "\"Movie is funny as hell and a great follow up to the first movie\"",
+        "\"One of the better horror movies that are out and well known.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I tried to watch this movie 3 times over again. It was hard to keep my attention on the film\"",
+        "\"Interesting movie. I thought it was good but there are so many parts that could have been taken to the next level\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I tried to watch this movie 3 times over again. It was hard to keep my attention on the film\"",
+        "\"Worth watching if you have a movie off and you finished all your video games and you’re looking for something cheap after you checked everything on Netflix and Hulu\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Most of the episodes you can watch in youtube for free because everything is taken from college humor.\"",
+        "\"I think she’s perfect but this isn’t her best work.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Anything with this man in it is perfection\"",
+        "\"I was crazy about Bianca del rio. I think she’s perfect but this isn’t her best work.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This movie hits me right in the heart as this is a movie I watched every year of my childhood and into my adulthood\"",
+        "\"Funny and heart warming\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie hits me right in the heart as this is a movie I watched every year of my childhood and into my adulthood\"",
+        "\"This is an excellent film and an even better book.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and dramas, with a particular fondness for horror films. They prefer simple narratives and slower pacing, often valuing emotional resonance over production quality. Their reviews indicate a strong emotional connection to films, especially those that evoke nostalgia or warmth."
+}

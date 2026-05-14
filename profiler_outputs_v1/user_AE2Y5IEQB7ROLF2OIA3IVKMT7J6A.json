@@ -1,0 +1,77 @@
+{
+  "user_id": "AE2Y5IEQB7ROLF2OIA3IVKMT7J6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical fiction, romantic comedy, fantasy",
+      "evidence": [
+        "\"Call the Midwife is, in some respects, and old fashioned serial where each episode and each season builds on the ones before.\"",
+        "\"This is a very well-done bit of historical fiction.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plots seem natural and sometimes unpredictable.\"",
+        "\"This series seems to strike a good balance between clever drama, fun dumb-history and fantasy, and action.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The plot and dialogue of every episode is clever and fast-paced.\"",
+        "\"This movie is a lot of fun if you are a fan of romantic comedy.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting and sets are excellent.\"",
+        "\"The sound quality is excellent and the video work professionally done.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"If you are a fan of Call the Midwife, then you know why you need to add this set to your collection.\"",
+        "\"Spouse is a fan of Stargate series.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, immersive experience",
+      "evidence": [
+        "\"The sets are beautiful and seem authentic, although I did not experience the 1920s first hand.\"",
+        "\"Watching this, I got caught up in the excitement that evidently ran through the crowd in the hall.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"If you're a healthy, emotionally sensitive person, you may find that this even brings a tear to your eye.\"",
+        "\"This show is really about the interaction of the ensemble of adult women characters and the way they help each other cope with the difficult situation in which they live and work.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys character-driven dramas with strong emotional resonance and high production quality. They prefer fast-paced narratives that balance clever storytelling with visual spectacle, often gravitating towards historical fiction and romantic comedies."
+}

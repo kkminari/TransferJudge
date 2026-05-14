@@ -1,0 +1,77 @@
+{
+  "user_id": "AFZ3YAVSYJIJMUGMD2XRRVHBI3HQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, sci-fi, comedy",
+      "evidence": [
+        "\"Wholesome and Family-friendly!!\"",
+        "\"Fun British Copper Drama... compelling and fun to watch.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Its not that it takes a huge amount of education to appreciate it...\"",
+        "\"Overall, the storylines are wonderful and its really a great show.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The plot lines seem to move very quickly this season...\"",
+        "\"Its a good concept with some great characters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"the writing is good enough and the scenery isn't bad.\"",
+        "\"the acting was amazing for the age ranges involved...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I loved the writing and the acting in this series.\"",
+        "\"Definitely a modern classic.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual appeal",
+      "evidence": [
+        "\"Visually, it is just beautiful to watch...\"",
+        "\"the music was beautiful as always.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I appreciated that it was wholesome, family friendly programming.\"",
+        "\"It has promise...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and visually appealing content, particularly in the sci-fi and comedy genres. They prefer fast-paced narratives with simple storytelling, while showing moderate sensitivity to production quality and emotional engagement."
+}

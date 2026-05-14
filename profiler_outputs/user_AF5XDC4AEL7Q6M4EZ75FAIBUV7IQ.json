@@ -1,0 +1,76 @@
+{
+  "user_id": "AF5XDC4AEL7Q6M4EZ75FAIBUV7IQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "crime, drama",
+      "evidence": [
+        "Every Law & Order (CI/SVU/L&O/LA/UK/etc) that is on DVD I have and will on every DVD they put out.",
+        "Marion Berry is a well educated country boy, ghetto and a bourgeoise (Boule')negro member of the AOA fraternity."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Acting isn't the best but the point is well taken, take yours.",
+        "This low budget documentary's point is well taken."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Decent product i must say, thank you. Street thug keeping it real with street cats and street females I can appreciate that.",
+        "Great, Vincent plays his part very well."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Acting isn't the best but the point is well taken.",
+        "This low budget documentary's point is well taken."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Dick Wolf",
+      "evidence": [
+        "That Wolf, (Dick Wolf) really did his homework with this franchise of Law and order."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Street thug keeping it real with street cats and street females I can appreciate that.",
+        "Marion is labeled Mayor for life but as most people he has issues, drugs, prostitutes, fast women, etc."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "Great, I have almost all of the episodes of all of the Law and Orders.",
+        "This low budget documentary's point is well taken."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for crime and drama genres, particularly enjoying the Law & Order franchise. They appreciate straightforward narratives and are less concerned with production quality, focusing more on the story and character experiences."
+}

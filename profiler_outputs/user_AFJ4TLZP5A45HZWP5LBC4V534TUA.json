@@ -1,0 +1,77 @@
+{
+  "user_id": "AFJ4TLZP5A45HZWP5LBC4V534TUA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"It was very funny.\"",
+        "\"Loved this show.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It was predictable and I only rented it since it got rave reviews.\"",
+        "\"I really didn't want to watch the rest of it for a while.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I was bored one day and decided to watch it. I was hooked after that.\"",
+        "\"I had to watch it from the beginning. It is super funny and I had to buy the second season.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I was bored. It was predictable and I only rented it since it got rave reviews.\"",
+        "\"Nothing wrong with the actual cartoon, it is the fact that I can only watch it on Amazon is annoying.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I am such an 80s baby.\"",
+        "\"I didn't know there was a book version until I read the reviews.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Brings back memories.\"",
+        "\"I can't miss!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The last episode always makes me sad.\"",
+        "\"This is just a classic show. They just don't make them like they used to.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and drama, enjoying fast-paced narratives that evoke nostalgia and emotional resonance. They show a low sensitivity to production quality and brand loyalty, indicating a focus on entertainment value over specific creators or complex storytelling."
+}

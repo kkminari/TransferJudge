@@ -1,0 +1,77 @@
+{
+  "user_id": "AHWG5XH6LYWAVLUY4ZSGLHYSCLPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "dislikes horror, thriller; mixed feelings about drama",
+      "evidence": [
+        "\"Not a horror movie. Hardly even a thriller. Definitely not scary.\"",
+        "\"I hated every character in this movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The storyline was predictable with little to offer in the way of ingenuity or thrill factor.\"",
+        "\"Nothing is explained. Nothing is resolved.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I could have sworn I saw the following scenes... I'm kinda pissed off.\"",
+        "\"My time is too precious to waste and so is yours!!!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I truly can't believe how this film can get good reviews.\"",
+        "\"the acting was bad, the editing was atrocious, and I found myself squirming in my seat, waiting for this to be over.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I shudder to think that these acting hacks will receive royalties from the continued running of these films.\"",
+        "\"I would never believe that anyone could absolutely destroy the Buffyverse like the writers in Season 7 did.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"the only shining light in this whole movie was Elvira herself...\"",
+        "\"the music was fun and stuck in my head for hours afterward, and the scenery was beautiful as well.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I have zero empathy for them. No need to watch this.\"",
+        "\"I was blown over. Charlotte has become one of the most developed characters in the show.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong aversion to poorly executed horror and thriller genres, often criticizing predictable narratives and low-quality production. They seem to prefer character-driven stories but express frustration when character development is lacking or poorly executed."
+}

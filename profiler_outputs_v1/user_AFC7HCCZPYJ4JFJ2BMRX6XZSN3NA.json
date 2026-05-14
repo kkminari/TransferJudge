@@ -1,0 +1,77 @@
+{
+  "user_id": "AFC7HCCZPYJ4JFJ2BMRX6XZSN3NA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama, adventure",
+      "evidence": [
+        "\"Highway to Heaven Series is terrific family entertainment, always has a message to show how to treat others, we love them all.\"",
+        "\"Great family viewing, we enjoyed them all in the set.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It always had a nice little story & a show the whole family can watch together, so refreshing.\"",
+        "\"Another nice feel movie, even my Husband loved it...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Enjoying the series, nice for a change of pace, a bit soapy at times though.\"",
+        "\"This is an excellent series for the whole family, we have previously watched it on TV, but we are enjoying it again...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"It is well shot & you get to see the horse working in many different roles...\"",
+        "\"Acting was terrific.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"My husband is a fan of Walker Texas Ranger, he just loves the series...\"",
+        "\"Corbin Bernsen is a great actor & Corbin Bernsen also wrote & Directed Rust...\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual, atmospheric",
+      "evidence": [
+        "\"There is also beautiful scenery to joy, a added bonus.\"",
+        "\"It shows where the horse first came from & the scenery is so beautiful.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"makes you think, great acting by all, enjoyable movie.\"",
+        "\"This is an entertaining Movie, based on a true story which I love, it has everything humour as well as drama & family values.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented films and series with simple narratives and a slower pace. They appreciate beautiful visuals and emotional depth, often valuing the overall experience over high production quality."
+}

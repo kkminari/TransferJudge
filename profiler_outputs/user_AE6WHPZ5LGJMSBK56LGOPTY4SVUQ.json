@@ -1,0 +1,77 @@
+{
+  "user_id": "AE6WHPZ5LGJMSBK56LGOPTY4SVUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "crime, drama",
+      "evidence": [
+        "I thought the acting was superior. Reminds me of 'Miami Vice' for hillbillys.",
+        "Good plot that makes mad or cry or just pissed off. Fine acting. The aerial shots of Hollywood and LA are outstanding."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I like it. Don't care about the violence but, it has a good story line and the dream sequences are interesting.",
+        "However, fine acting and I enjoyed this hillbilly 'Miami Vice' program."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "I like it! Very good. Always worth watching!",
+        "Excellent series. Exciting and it seems very real."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Well acted. Brings back memories of the 1980's.",
+        "Excellent series. Very interesting, wonderful script with outstanding actors."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Always good entertainment and nobody does it better then our British friends.",
+        "I wonder about its accuracy with history."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "The aerial shots of Hollywood and LA are outstanding.",
+        "It kept me engaged."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "A tear came to my eye when the baby died.",
+        "Good plot that makes mad or cry or just pissed off."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys crime and drama genres, with a preference for fast-paced narratives that are well-acted and engaging. They appreciate high production quality and emotional impact, although they express mixed feelings about violence in storytelling."
+}

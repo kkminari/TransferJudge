@@ -1,0 +1,72 @@
+{
+  "user_id": "AHXUUJV57W36AQ62J3CRD2CWGFMQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, holiday, spiritual",
+      "evidence": [
+        "\"Good Christmas movie.\"",
+        "\"Absolutely loved this movie. The acting was great, and we loved the story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great Thanksgiving story.\"",
+        "\"Very inspiring!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Absolutely loved this movie. The acting was great, and we loved the story.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"We rented this movie, and we liked it so much, I ordered it so we would have one to keep.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I loved this series and am so sad they did not bring it back.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Absolutely loved this movie. The acting was great, and we loved the story.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Absolutely loved this movie. The acting was great, and we loved the story.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented, holiday-themed movies with simple narratives and a strong emotional impact. They show a preference for slower pacing and are less concerned with production quality, focusing more on the story and emotional resonance."
+}

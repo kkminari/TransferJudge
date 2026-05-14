@@ -1,0 +1,77 @@
+{
+  "user_id": "AF2MPBKHZZ2FJ4I2ZOIWTSXBZLVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, series",
+      "evidence": [
+        "\"Love this series, esp cause of Candace Cameron Bure.\"",
+        "\"Love Lori Loughlin, recast her if you don’t hire her back.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Loved the movie\"",
+        "\"Love the movie\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Love it, great value\"",
+        "\"Highly recommend\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Love the Whiz\"",
+        "\"Liked it\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Lori Loughlin, Candace Cameron Bure",
+      "evidence": [
+        "\"Love Lori Loughlin, recast her if you don’t hire her back.\"",
+        "\"Love this series, esp cause of Candace Cameron Bure.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "atmospheric",
+      "evidence": [
+        "\"Love the movie\"",
+        "\"Love this series, hope for more videos in this series\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Highly recommend\"",
+        "\"Love the movie\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for mystery series, particularly those featuring actors like Lori Loughlin and Candace Cameron Bure. They enjoy simple narratives with a fast pace and are highly engaged emotionally, often expressing their love for the content."
+}

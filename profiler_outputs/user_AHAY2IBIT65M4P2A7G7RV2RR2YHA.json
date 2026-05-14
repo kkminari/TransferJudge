@@ -1,0 +1,77 @@
+{
+  "user_id": "AHAY2IBIT65M4P2A7G7RV2RR2YHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, thriller",
+      "evidence": [
+        "\"Excellent courtroom drama with twists to spare\"",
+        "\"Perfect British farce served up with hilarity\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"courtroom drama with a lot of delicious twists\"",
+        "\"murky ending that's too vague\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"the final action sequence is also well paced\"",
+        "\"the writing is also off with nothing fresh\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the cinematography is excellent\"",
+        "\"this copy is excellent and not a rip-off or bad dupe\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I've always been a fan of this film\"",
+        "\"While I've always been a Woody fan\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"breathtaking Technicolor cinematography\"",
+        "\"astounding images\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"brought tears\"",
+        "\"stayed with me\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama, comedy, and thrillers, with a strong appreciation for high production quality and complex narratives. They have a tendency to be critical of pacing and brand loyalty is not strongly evident, indicating a focus on the quality of the content rather than specific creators."
+}

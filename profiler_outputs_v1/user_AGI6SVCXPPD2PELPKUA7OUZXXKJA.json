@@ -1,0 +1,77 @@
+{
+  "user_id": "AGI6SVCXPPD2PELPKUA7OUZXXKJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"I am a huge fan of period movies\"",
+        "\"This has to be one of the funniest series I've EVER seen!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"There were so many different nuances to the story.\"",
+        "\"Everything FIT TOGETHER like a 5,000 piece jigsaw puzzle.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It was a nice piece of escapism and captured my for six episodes.\"",
+        "\"I thought it was a very moving movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The sound track and acting are some of the best I've ever seen.\"",
+        "\"Gena Rowland is the consummate actress.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Jason Bateman, Toni Colette, Emily Blunt",
+      "evidence": [
+        "\"Toni Colette is one of my favorite actresses.\"",
+        "\"I think Emily Blunt is one of our best young actresses today.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and emotional experience",
+      "evidence": [
+        "\"The movie brought many emotions to me and I am so happy I decided to watch this movie.\"",
+        "\"It was touching, very moving and real!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I LOVED EVERYTHING ABOUT THIS MOVIE!!!\"",
+        "\"It was really incredible watching... EVERYTHING FIT TOGETHER like a 5,000 piece jigsaw puzzle.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and comedy genres, appreciating complex narratives and high production quality. They exhibit brand loyalty to specific actors and value emotional resonance in their viewing experiences."
+}

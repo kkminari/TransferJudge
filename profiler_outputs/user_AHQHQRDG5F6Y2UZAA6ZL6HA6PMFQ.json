@@ -1,0 +1,74 @@
+{
+  "user_id": "AHQHQRDG5F6Y2UZAA6ZL6HA6PMFQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, drama",
+      "evidence": [
+        "\"Historical reading that is a must for those interested in slavery and it's history.\"",
+        "\"I love this book. I would highly recommend it to anyone that may be interested in it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Confusing and not organized very well...\"",
+        "\"The plot and outcome was predictable...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"A good read while relaxing...\"",
+        "\"I would rate this movie okay, it was interesting and we enjoyed watching it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"there was not much else that I liked about it.\"",
+        "\"I believe Jurnee Smollett-Bell did an excellent acting job...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Interesting reading, I would recommend it...\"",
+        "\"Interesting book, I enjoyed reading it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I would highly recommend it to anyone that may be interested in it.\"",
+        "\"Interesting reading that is a must for those interested in slavery and it's history.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for historical and drama genres, appreciating engaging narratives that evoke emotional resonance. They prefer slower-paced content and are somewhat sensitive to quality, though they do not exhibit strong loyalty to specific creators."
+}

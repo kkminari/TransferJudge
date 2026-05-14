@@ -1,0 +1,74 @@
+{
+  "user_id": "AEGBHQBPWDDRCUAIZXIWBI5PJEPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, western, fantasy, thriller",
+      "evidence": [
+        "\"A Spectacular Female and Native American Lead Western\"",
+        "\"Glorious, Epic and Poetic as Tolkien would have imagined.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"What you believe in the beginning will be up ended.\"",
+        "\"Clues abound in this tale take your time and pause to examine both art plus acting scenes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Slow burn with excellent story telling.\"",
+        "\"This is more Shakespearean in its lyrical use of the English language.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"A thought provoking script, seamless special effects and an excellent cast make feel as if it is science reality rather than fiction.\"",
+        "\"This was carried off by a superb cast and script.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric storytelling",
+      "evidence": [
+        "\"The horrifying reality of an alien invasion is amplified by the survival technique of silence.\"",
+        "\"This is more Shakespearean in its lyrical use of the English language.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"If you seek the beauty of Tolkien's imagination this is a glimpse into a rare world.\"",
+        "\"Anytime a film gets me with a final gottcha moment it has done its job.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex narratives across genres like sci-fi, western, and fantasy, appreciating slow-burn storytelling and high production quality. They value emotional resonance and sensory experiences, indicating a taste for immersive and thought-provoking content."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHUSGYEDFOHHO434THBH47PMZENA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama",
+      "evidence": [
+        "Granddaughter loved the movie.",
+        "It's something that you can lose yourself in, forget the cares of the day."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good story lines and interesting characters.",
+        "Really enjoyed the series, all 3 seasons."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "It's something that you can lose yourself in, forget the cares of the day.",
+        "Really enjoyed this one."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "enjoyed the movie more than I remembered when I saw it in the movies.",
+        "was fun watching this Disney classic with my granddaughter."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Disney, Masterpiece",
+      "evidence": [
+        "WOW am I glad I did, what a good show.",
+        "really loved seeing this Disney classic again."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "It's something that you can lose yourself in, forget the cares of the day.",
+        "really cute movie, loved it."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "really enjoyed this one.",
+        "I loved all the characters and the problems of simple life."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-oriented and simple narratives, often enjoying Disney classics and character-driven stories. They value emotional engagement and tend to favor slower-paced content that allows for immersion and connection."
+}

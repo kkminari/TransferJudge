@@ -1,0 +1,77 @@
+{
+  "user_id": "AH43B5ZB5P5VLCOS3ERZSJARHYUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, horror, drama",
+      "evidence": [
+        "I really enjoyed it and think that Sylvester Stallone was really great.",
+        "It was full of action and kept me at the end of my seat in some of the scenes."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I do not think this was as scary as part 2 or 1 but it was ok not something I would watch over again.",
+        "Did not like any parts of this movie at all it was less than a B movie that is my opinion."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "I really enjoyed season 1, very fast moving and interesting to watch the whole thing.",
+        "It was an end of the seat movie."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The picture and sound were great.",
+        "It was full of great actors, I am so glad I finally got to watch this movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "I love Anthony Hopkins and would watch any movie with him in it.",
+        "I have all the others and this will be part of my set."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "It was full of action and kept me at the end of my seat in some of the scenes.",
+        "It was an end of the seat movie."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I really enjoyed it and think that Sylvester Stallone was really great.",
+        "I loved it."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and horror genres, enjoying fast-paced narratives with high production quality. They exhibit brand loyalty, particularly towards actors like Anthony Hopkins, and value emotional engagement in their viewing experiences."
+}

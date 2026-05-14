@@ -1,0 +1,77 @@
+{
+  "user_id": "AFW5HHLYG5F5HHJC7TTF6OD4M3KQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, science fiction",
+      "evidence": [
+        "\"brockmire is hilarious.\"",
+        "\"good writing, the acting is very good, and it is a story told well.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I watch for in a movie, is it a good story, and it is.\"",
+        "\"you find yourself turning the page so to speak.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"you have to watch it more than once It is very well done not sure of the ending.\"",
+        "\"I liked this movie, I am not a critic but I know what I like.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"the acting and the story line\"",
+        "\"good story and that is what I watch for in a movie, is it a good story, and it is.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I am a Jean Reno fan but all of the other actors were, I thought, very good\"",
+        "\"Hanks does once again a fine job\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"you find yourself turning the page so to speak.\"",
+        "\"I liked this movie, I am not a critic but I know what I like.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"one of my favorites from Douglas Sr.\"",
+        "\"one of my favorites,\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedy, drama, and science fiction, favoring simple narratives with relatable characters. They appreciate good storytelling and acting, though they show moderate sensitivity to production quality and brand loyalty."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHDMZL47ZAEWBVLAYFHKGPQMML2A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I am tired of women leading everything on every show.\"",
+        "\"Love the Walking Dead and will be getting the rest of the seasons as they become available!!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The story is OK but the twists are what make it.\"",
+        "\"The whole getting the North Korean Paratroopers across the Pacific without anyone discovering it was quite far fetched but after that the story gets good.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"A little slow and short on action until the very end.\"",
+        "\"Can be slow at time but the unexpected twists make it enjoyable.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"The special effects are not so special but the story made up for it.\"",
+        "\"It's not a bad movie at all just not worthy of Ms. Madsen...but her performance was wonderful.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Love the Walking Dead and will be getting the rest of the seasons as they become available!!\"",
+        "\"I love Virginia Madsen and that is why I purchased it.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"Really enjoyed how much information they packed into such a short time.\"",
+        "\"Shailene Woodly really shines. What a talent!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Very well acted but oh so sad.\"",
+        "\"I really liked the story and the princess was really cute.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of movies and shows, often appreciating strong narratives and emotional depth, though they express mixed feelings about pacing and genre representation. They show a preference for engaging stories over high production quality, indicating a focus on character and plot over visual spectacle."
+}

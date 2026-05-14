@@ -1,0 +1,78 @@
+{
+  "user_id": "AFEN7JBCRHMPMK6GPAXLCKGTALJQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, comedy, horror",
+      "evidence": [
+        "\"Romantic and sweet a moment of despair then hope!!\"",
+        "\"Hilarious and sweet!!\"",
+        "\"Decent horror film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"slow\"",
+        "\"a bit slow to start but intriguing.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"slow\"",
+        "\"a bit slow to start but intriguing.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Perfect cast!!!!\"",
+        "\"extremely well cast!!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"CHARLES DANCE of course was his super sexy as always!!!\"",
+        "\"I LOVE LOVE LOVE WHITECHAPEL!!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"eerie and creepy!!!\"",
+        "\"atmosphere/mood (e.g. 'felt immersive')\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I LOVE LOVE LOVE this movie!!!\"",
+        "\"brought tears\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for romantic and comedic genres, often praising the cast and production quality. They enjoy emotional and immersive experiences but tend to prefer slower-paced narratives, which can sometimes lead to mixed feelings about the storytelling."
+}

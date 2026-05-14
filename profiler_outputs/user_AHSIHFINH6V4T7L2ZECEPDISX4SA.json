@@ -1,0 +1,77 @@
+{
+  "user_id": "AHSIHFINH6V4T7L2ZECEPDISX4SA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"Great plot, great acting and a really good twist.\"",
+        "\"Hilarious! Non stop laughter!! A comedic genious..\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good plot and good acting.\"",
+        "\"I enjoyed this story line.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Crazy twists and turns...WOW!!! Loving it!!\"",
+        "\"Must watch again. You will laugh through the entire show no kidding-\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Streep out does herself once again. Great cast-great plot!\"",
+        "\"Great acting once again by Leonardo for sure.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Meryl Streep, Leonardo DiCaprio",
+      "evidence": [
+        "\"I really like Merryl Streep.\"",
+        "\"Great acting once again by Leonardo for sure.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This is an amazing movie! Streep out does herself once again.\"",
+        "\"A must see for sure-enjoy!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"brought tears\"",
+        "\"I’ve seen this movie twice and could easily see it again and again.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and comedy films, particularly those with engaging plots and high-quality acting. They appreciate fast pacing and emotional resonance in their viewing experiences, often highlighting the performances of specific actors like Meryl Streep and Leonardo DiCaprio."
+}

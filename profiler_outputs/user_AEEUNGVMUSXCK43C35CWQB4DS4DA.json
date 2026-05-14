@@ -1,0 +1,74 @@
+{
+  "user_id": "AEEUNGVMUSXCK43C35CWQB4DS4DA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, action, drama",
+      "evidence": [
+        "This is a great family, feel good movie that my husband and I really enjoyed!!!",
+        "This movie had great special effects, was quick moving but it also had a moral to it and made you think."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The acting was great and the plot really pulls you in!",
+        "Great story line, intrigue and just enough humor."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "This movie was fun, clever and worth watching multiple times!!",
+        "Fast moving with good character development."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "mixed",
+      "evidence": [
+        "Excellent movie but the quality was horrible!!!",
+        "The acting was very good."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "The special effects were amazing and the plot lines very interesting.",
+        "The special effects were very well done and brought you into the story line even more."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "We loved it.",
+        "Hated to see it end but was so grateful that they ended the show as well as the series was."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and action-oriented content with fast pacing and a straightforward narrative. They appreciate good acting and special effects, while also valuing emotional engagement in the stories they watch."
+}

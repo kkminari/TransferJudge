@@ -1,0 +1,77 @@
+{
+  "user_id": "AHRCO64CJ4TTQIA3EZXANVEMIJVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, comedy, thriller",
+      "evidence": [
+        "\"A must see flick! Especially if action movies are a favorite!\"",
+        "\"Excellent action flick! A real tense, white knuckler of a movie!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A good popcorn flick, not something one might want to repeatedly watch.\"",
+        "\"The story line has too much to really enjoy, but the Captain America spirit is all there!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Fast-paced with excellent story line! An edge of your seat ride!\"",
+        "\"Tense to the end.....\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Amazing acting, excellent script!\"",
+        "\"Well scripted, excellent actors, and musical score made me forget all except living with the characters in the movie!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"First went to the theater, then had to add it to our collection!\"",
+        "\"Oscar winning, surpassing ANY Disney sales ever, everyone STILL loves the movie and quotes (or sings) the lyrics...buy a copy NOW while Disney is selling it!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I felt these characters were really living, rather than actors.\"",
+        "\"The script is very well written and the story line sweet as can be!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"But you may have to get out the kleenex box though....\"",
+        "\"A very sweet film!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and drama films, often enjoying fast-paced narratives with high production quality. They appreciate emotional depth in storytelling, indicating a taste for engaging and well-crafted films."
+}

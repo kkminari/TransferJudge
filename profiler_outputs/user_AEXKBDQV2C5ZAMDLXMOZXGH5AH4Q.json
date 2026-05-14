@@ -1,0 +1,74 @@
+{
+  "user_id": "AEXKBDQV2C5ZAMDLXMOZXGH5AH4Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, sci-fi",
+      "evidence": [
+        "\"the action and writing is exceptional\"",
+        "\"this is the 'Mona Lisa' of early sci-fi\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"some complained of the quality - We thought it was really good; sharp with great sound - loved it!\"",
+        "\"thought provoking movie - good realization of the book.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"super suspense\"",
+        "\"loads of action\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the film looks better than ever - this is the 'Mona Lisa' of early sci-fi\"",
+        "\"this has the best quality and sound of those I've collected.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"great sound\"",
+        "\"this upgraded DVD is sensational for the purest.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I was sorry it ended but the conclusion was masterful\"",
+        "\"you want more and more!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for action and sci-fi genres, favoring fast-paced narratives with high production quality. They appreciate engaging writing but do not exhibit strong loyalty to specific creators, and their emotional engagement appears to be moderate."
+}

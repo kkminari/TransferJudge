@@ -1,0 +1,77 @@
+{
+  "user_id": "AHF4WGPLLMH5VCCNPOUQGSA42W6Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, action, adventure, comedy",
+      "evidence": [
+        "\"If you like great fantasy adventure with some chills and thrills then I highly recommend Supernatural season 15\"",
+        "\"I think that Chris O'Donnell is a fantastic actor and this is a great deal, these movies will keep you on the edge of the seat\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"this was a surprisingly good series with good character development and plenty of twist and turns\"",
+        "\"the new twists are turns, really great visuals and stories so far\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"this season has kept me guessing and as much as I'm loving it I'm also dreading the end\"",
+        "\"I enjoyed the final season of Arrow and I'm very disappointed that the show is over but it was a terrific season that wound up nicely\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I really like the mummy movies and now I can get awesome sound and a incredible picture\"",
+        "\"I have wanted this series for a long time but I couldn't afford now I got the whole series for myself and my best friend for a little more than one season use to cost\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I am a huge Christopher Titus fan he has a way of looking at life that is just refreshing and real\"",
+        "\"I think that Chris O'Donnell is a fantastic actor\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"really great visuals and stories so far\"",
+        "\"I think that this is a great movie for kids and adults alike\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"this season has kept me guessing and as much as I'm loving it I'm also dreading the end\"",
+        "\"I think that this is a great movie for kids and adults alike\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly fantasy, action, and adventure, with a strong appreciation for quality production. They value engaging narratives with twists and emotional depth, indicating a preference for content that resonates on a personal level."
+}

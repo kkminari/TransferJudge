@@ -1,0 +1,89 @@
+{
+  "user_id": "AHY56ZNDIASRQKMKGQ5ZGWW43JZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, soap opera, police stories",
+      "evidence": [
+        "It is just another soap opera, perhaps a little more interesting.",
+        "I love English movies and police stories."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It is just another soap opera, perhaps a little more interesting.",
+        "I like it because it is good clean entertainment, no swearing and they even mention God."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I was disappointed in the therapist that he couldn't keep his mind off Laura.",
+        "I did enjoy it in the beginning, but it did get a little boring later in the show."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I watched it twice, I loved it, but it must have been heart breaking for the parents.",
+        "Loved the series it was just pure fun to watch, no bad language very little sex."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I love Downton Abbey, all the episodes this far have been great.",
+        "I really liked the program and was sorry to see it end."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual aesthetics",
+      "evidence": [
+        "I did love the clothing and hats etc. There were so many beautiful things I wanted to see them all.",
+        "I found Sweden interesting."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I loved it, but it must have been heart breaking for the parents.",
+        "I can't wait to see it again, was so sad to see it end."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "cultural_preference",
+      "value": "English culture",
+      "evidence": [
+        "I love England have been there several times, so charming.",
+        "I have always ordered P D James movies and anything else English when I was on Netflix."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys drama and police stories, particularly those with a strong emotional impact and visual aesthetics. They prefer simple narratives and slower pacing, often appreciating clean entertainment without excessive language or themes."
+}

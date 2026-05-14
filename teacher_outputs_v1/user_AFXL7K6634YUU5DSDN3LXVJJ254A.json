@@ -1,0 +1,171 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's strong preference for psychological, drama, and horror genres directly translates to a desire for books that explore complex characters and intense emotional experiences. These genres often share thematic elements that can be found in literature.",
+      "transferred_insight": "Prefer psychological thrillers, dramatic narratives, and horror literature with rich character development.",
+      "confidence": 0.85
+    },
+    "narrative_complexity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's appreciation for complex narratives in film suggests they will enjoy books that feature intricate plots and deep character exploration. This preference is applicable across both media.",
+      "transferred_insight": "Prefer novels with complex structures, layered storytelling, and rich character arcs.",
+      "confidence": 0.8
+    },
+    "pacing_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's mixed pacing preference indicates they may enjoy both fast-paced and slower, more contemplative narratives. This suggests a need for a balance in book recommendations, favoring those that can accommodate both styles.",
+      "transferred_insight": "Enjoy a mix of pacing, with some preference for both fast-paced and slower narratives.",
+      "confidence": 0.6
+    },
+    "quality_sensitivity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high sensitivity to quality in film translates well to literature, where they will likely appreciate well-crafted prose, strong character development, and overall narrative quality.",
+      "transferred_insight": "Prioritize high-quality literary works with strong writing and character development.",
+      "confidence": 0.85
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "Loyalty to specific creators in film does not translate to literature, as the connection between authors and actors/directors is not direct. This pattern is too specific to film to be useful for book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's preference for visual and auditory experiences in film does not apply to books, which rely on text and imagination rather than sensory stimulation. This pattern is not transferable.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high sensitivity to emotional resonance in storytelling is applicable to literature, where they will likely seek out books that evoke strong feelings and deep connections.",
+      "transferred_insight": "Prefer emotionally impactful literature that resonates deeply and provokes thought.",
+      "confidence": 0.75
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "0374527059",
+      "title": "The Oresteia of Aeschylus: A New Translation by Ted Hughes",
+      "score": 0.95,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This collection of plays offers a rich exploration of psychological and dramatic themes, aligning perfectly with the user's preferences for complex narratives and emotional depth. The high-quality translation by Ted Hughes enhances its appeal."
+    },
+    {
+      "rank": 2,
+      "item_id": "0307389730",
+      "title": "The Bell Jar",
+      "score": 0.9,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "Sylvia Plath's semi-autobiographical novel delves into psychological themes and complex character development, resonating with the user's preference for deep emotional narratives and psychological complexity."
+    },
+    {
+      "rank": 3,
+      "item_id": "0061122416",
+      "title": "The Road",
+      "score": 0.88,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "Cormac McCarthy's post-apocalyptic novel features a haunting narrative and complex emotional themes, appealing to the user's taste for psychological depth and high-quality writing."
+    },
+    {
+      "rank": 4,
+      "item_id": "0143039431",
+      "title": "The Master and Margarita",
+      "score": 0.87,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This novel combines elements of psychological drama and surrealism, offering a complex narrative that aligns with the user's preferences for rich character exploration and emotional depth."
+    },
+    {
+      "rank": 5,
+      "item_id": "0679734528",
+      "title": "The Shining",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "Stephen King's classic horror novel features psychological complexity and emotional resonance, making it a fitting choice for the user's interests in horror and drama."
+    },
+    {
+      "rank": 6,
+      "item_id": "0061122416",
+      "title": "Never Let Me Go",
+      "score": 0.84,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "Kazuo Ishiguro's novel explores deep emotional themes and complex character relationships, appealing to the user's preference for high-quality, psychologically rich narratives."
+    },
+    {
+      "rank": 7,
+      "item_id": "0143039431",
+      "title": "The Picture of Dorian Gray",
+      "score": 0.82,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "Oscar Wilde's exploration of vanity and moral corruption offers a psychologically complex narrative that resonates with the user's interests in drama and horror."
+    },
+    {
+      "rank": 8,
+      "item_id": "0452284236",
+      "title": "The Girl on the Train",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This psychological thriller features complex characters and a gripping narrative, aligning well with the user's preferences for psychological depth and emotional engagement."
+    },
+    {
+      "rank": 9,
+      "item_id": "0143039431",
+      "title": "The Handmaid's Tale",
+      "score": 0.78,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "Margaret Atwood's dystopian novel offers a rich narrative and complex themes, appealing to the user's taste for high-quality literature with psychological depth."
+    },
+    {
+      "rank": 10,
+      "item_id": "0061122416",
+      "title": "The Silence of the Lambs",
+      "score": 0.76,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "Thomas Harris's psychological thriller features complex characters and intense emotional themes, making it a strong match for the user's interests in horror and psychological narratives."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference were blocked as they do not translate to literature, avoiding negative transfer.",
+  "overall_strategy": "Focused on transferring the user's strong preferences for psychological complexity, emotional resonance, and narrative depth while blocking non-transferable patterns. Recommendations emphasize high-quality literature that aligns with these core interests."
+}

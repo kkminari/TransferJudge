@@ -1,0 +1,77 @@
+{
+  "user_id": "AFKJ6M3LR5QUCPDGNYT6QTUSH2LQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, comedy",
+      "evidence": [
+        "\"I am a huge fan of this series... Seasons 1 & 2 were flat-out brilliant.\"",
+        "\"I watched this show when it was on the air, and, as a sci-fi fan, was completely taken by the concept...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"...does not care about traditional or typical notions of cinematography, filmography, story arc, characterization.\"",
+        "\"...the writing is, as mentioned, quite formulaic for post-apocalyptic...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"...didn't like the main character and thought it seemed like a lame twist on Groundhog Day...\"",
+        "\"...too much focus on film technique and less on the mystery, the deductions, the depth of character.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Beautiful cinematography, stunning performances by the two leads.\"",
+        "\"...the production quality not as high as the final versions that made it to the air...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Benedict Cumberbatch, Bruce Willis",
+      "evidence": [
+        "\"I am a particular fan of Benedict Cumberbath...\"",
+        "\"...I was turned around on him when I watched 'The Story of Us'...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"...the production quality beyond reproach.\"",
+        "\"...the writing, the plot, and the rest of the cast are all amazing.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...some of the most heartbreaking and powerful I've encountered.\"",
+        "\"...Cate Blanchett - will stick with me for a very long time.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of genres, particularly sci-fi and drama, and appreciates high production quality and strong performances. They have a keen eye for narrative complexity and emotional depth, often resonating with powerful storytelling and character development."
+}

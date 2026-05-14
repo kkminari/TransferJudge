@@ -1,0 +1,74 @@
+{
+  "user_id": "AHZFXLVP22WNRNZZ4AUGIO5BEVMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, drama",
+      "evidence": [
+        "\"Go to movie when I want a good laugh. Family humor at its best.\"",
+        "\"Loved this movie, subject matter is very moving and some great actors.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Found this to be a interesting tale, rather slow with the need to reveal the complex characters in this plot, kept me guessing.\"",
+        "\"Learning to cope and forgive. Well done\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Well done liked the pace of the movie\"",
+        "\"Different pace, enjoyed the story very much,\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Great actors, powerful story line, a favorite always love, humor and common sense\"",
+        "\"Well done, learned some things about news reporting.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Wonderful music seldom go wrong with Disney\"",
+        "\"One of the great movies, song and dance outstanding.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Loved this movie, subject matter is very moving and some great actors.\"",
+        "\"In the end it is what is best for the baby. Worth a watch I believe\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented films with a strong comedic and emotional component. They appreciate well-crafted stories, though they have mixed feelings about narrative complexity and pacing. Overall, they favor engaging and heartwarming content that resonates emotionally."
+}

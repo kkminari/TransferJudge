@@ -1,0 +1,77 @@
+{
+  "user_id": "AE3JDQWJPHQYRABXRAHCWHG76UQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "I just like Anne Hathaway",
+        "loved Julia Stiles."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "lost interest in 20 min.",
+        "lost interest quickly"
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "lots of action and funny loved it",
+        "does not put me to sleep like the other six do."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Must have been a really low budget",
+        "don't like to watch movies where good people die"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "Anything with Erin",
+        "I just like Anne Hathaway"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "awesome great cast",
+        "this was a real heart warming story couldn't stop watching"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "loved it",
+        "this movie I really loved must be getting soft as I age"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for fast-paced, emotionally resonant films, often enjoying works featuring specific actors like Erin and Anne Hathaway. They tend to favor simple narratives and have mixed feelings about production quality, indicating a focus on entertainment over polish."
+}

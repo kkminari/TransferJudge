@@ -1,0 +1,76 @@
+{
+  "user_id": "AE7FDBTSSLSFTJR6KLN2IFURDANQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, historical, comedy",
+      "evidence": [
+        "\"...a very satisfying story of an old school grandpa watching out for his grandson...\"",
+        "\"Great historical movie with a fine cast. Never will disappoint.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's a mechanical Hollywood formula movie...\"",
+        "\"...the storyline is for idiots...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"...mildly entertaining...\"",
+        "\"...a bit too violent for teens while not sophisticated enough for adults.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...such a disappointment. Storyline is for idiots...\"",
+        "\"...polished who done it in late 19th century Toronto...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"...thank you to Ben Stiller and his producers for making a film that satisfies...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"...visually its breathtaking...\"",
+        "\"...the scenery is very nice and its a feel good story...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...it's a mighty worthwhile film for many generations to come...\"",
+        "\"...my family loves to sit down and enjoy a movie together...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented and historical films, often appreciating their emotional depth and production quality. They prefer straightforward narratives and slower pacing, while showing some sensitivity to the quality of storytelling and visuals."
+}

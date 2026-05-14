@@ -1,0 +1,77 @@
+{
+  "user_id": "AH5QN54BXSMZSNBHJRBBUSXUGGGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama, action",
+      "evidence": [
+        "\"I thought the documentary did a good job of showing a kid today learning about the history of the past.\"",
+        "\"Engaging film, well developed characters, good amount of action and drama.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"They could have talked about labor shortages in certain career fields needed today in the market. A lot left to be desired.\"",
+        "\"the plot of this movie was good but the people were incredibly dumb.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"the ending wasn't a surprise.\"",
+        "\"just enough slower segments. Really made me think deeply about the tragedies of war and those caught up in it's chokehold.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent film.\"",
+        "\"the acting was sub par and very hard to watch at critical moments.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "No strong loyalty to directors or actors evident."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Great clothing. Knew nothing about the film before watching.\"",
+        "\"fantastic movie, but the ending wasn't a surprise.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Very well done! Engaging film, well developed characters, good amount of action and drama.\"",
+        "\"Really made me think deeply about the tragedies of war and those caught up in it's chokehold.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and dramas with engaging narratives and well-developed characters. They value production quality and emotional resonance, often reflecting on deeper themes and character development in their reviews."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHMFD4V6HHMXQ2HFOMEITROOQCRQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama",
+      "evidence": [
+        "I enjoy the actors and the drama in this movie.",
+        "love Nichols Sparks movies"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great series, service and shipping - thanks",
+        "Fun series to watch - great service and shipping - would highly recommend."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I was sad when this series ended - great final season - worth having.",
+        "Not my favorite season - great service and shipping."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "great service and shipping",
+        "excellent service and shipping - thanks"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "love Nichols Sparks movies",
+        "love Tom Selleck"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I was thrilled when it arrived",
+        "I was sad when this series ended"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I was sad when this series ended - great final season - worth having.",
+        "I love, love, loved this series."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and enjoys simple, character-driven narratives. They express emotional engagement with the content, particularly valuing the emotional impact of series and movies they watch."
+}

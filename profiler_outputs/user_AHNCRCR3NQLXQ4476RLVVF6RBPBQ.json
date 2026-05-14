@@ -1,0 +1,76 @@
+{
+  "user_id": "AHNCRCR3NQLXQ4476RLVVF6RBPBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, sci-fi",
+      "evidence": [
+        "This movie handles death and relationships in a way that is so tender...",
+        "It's like Star Trek but with sex and Cosmopolitans."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "A bit of a muddle in the middle but divine in the end.",
+        "Killing off characters that are so pivotal, coming up with plots which speak of universal human truths..."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "This movie pulls you in and grips you...but slowly.",
+        "It does drag."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The cinematography, the sequencing, the actors; all brilliant.",
+        "The entire cast is excellent, the writing superb..."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Martin Scorsese",
+      "evidence": [
+        "Martin Scorcese hit it out of the park on this one."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "The story is hauntingly real and poignant.",
+        "It is beautiful. You could shut the sound off and still have enough to be seduced by."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I will think about this movie for a very long time, and come back to it when I need inspiration.",
+        "This movie is beautifully made... I can honestly say this movie is a perfect example of how great and brilliant a movie can be."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for emotionally resonant dramas and romances, often appreciating complex narratives and high production quality. They enjoy slow-paced storytelling that evokes deep feelings and are particularly loyal to the works of Martin Scorsese."
+}

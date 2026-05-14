@@ -1,0 +1,77 @@
+{
+  "user_id": "AESJKFDEGVY42FT3UQ5H7DGPS65A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed (action, drama, artsy)",
+      "evidence": [
+        "\"It's not a horror flick but it is gruesome in many parts.\"",
+        "\"I didn't really like what the film was saying in it's own way.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I get the meaning throughout the film, but it took me to about the last third of the movie to see what the director was trying to accomplish.\"",
+        "\"I thought it was a good movie okay... my husband liked it more... it's just not really my genre...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great movie lots of action and spins in the plot.\"",
+        "\"Excellent movie but really gruesome.... I have seen this twice now...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I thought this movie was so so.... the scenery was gorgeous and the special effects but I just couldn't get with the story...\"",
+        "\"It's just not really my genre... But it is hubbys\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love Tyler Perry and was hoping the script would be meatier for him.\"",
+        "\"I really enjoyed it I love Jennifer Anniston - I thought it was a fun movie....\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"the scenery was gorgeous and the special effects\"",
+        "\"Great movie lots of action and spins in the plot.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "mixed",
+      "evidence": [
+        "\"I didn't really like what the film was saying in it's own way.\"",
+        "\"It's just not really my genre... But it is hubbys\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced movies with action and engaging plots, but has mixed feelings about narrative complexity and emotional resonance. They show a low sensitivity to production quality and brand loyalty, indicating a preference for entertainment over artistic merit."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AHFUNQZQH5PZTTNKFBZYRAQKG5QQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "'Predictable melodramatic script'",
+        "'Cheesy waste of time'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'Predictable melodramatic script'",
+        "'Boring, boring, boring.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "'Stupidly funny with some great bits and some awful bits.'",
+        "'Hilarious'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "'So Lame. Who wrote this trash?'",
+        "'Cheesy waste of time'"
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "'What's not to love about his work?'"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "'Great story about a sick crime.'",
+        "'Interesting story. Well done'"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "'Sad, sad story of low rent drunk trash behind the wheel'",
+        "'Boring, boring, boring.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a mixed taste in genres, with a notable dislike for predictable narratives. They prefer fast-paced content but are less sensitive to production quality, often focusing on the story rather than the execution."
+}

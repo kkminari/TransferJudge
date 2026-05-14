@@ -1,0 +1,77 @@
+{
+  "user_id": "AE345H4J4WKWZWA2SACVLGNOVIKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, sci-fi, thriller, musical",
+      "evidence": [
+        "\"Galaxy Quest is a must have for those who love Sci-Fi, especially shows like 'Star Trek.'\"",
+        "\"'Red Eye' is a thriller! It's creepy and may make you not want to fly on an airplane ever again.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"I wish we had more background about the characters.\"",
+        "\"The ending to this series was amazing... It leaves you feeling like BSG is over and yet there are possibilities still.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I absolutely LOVE the first episode and that does not happen often!\"",
+        "\"The seasons are so small compared to the original Criminal Minds show.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The cast has to come together, putting aside all differences, and try to tackle the situation at hand.\"",
+        "\"The animation is definitely on the same level as the pirate one...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Joss Whedon",
+      "evidence": [
+        "\"Plus, it's Joss Whedon's so you know it's pure brilliance :D\"",
+        "\"'Dollhouse' is Joss Whedon's latest fantastic epic.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The tunes totally stay with you. I have the soundtrack on my iPod now!\"",
+        "\"It has beautiful special effects and a magnificent storyline.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The ending to this series was amazing... It had me in tears (and I'm not one to cry often).\"",
+        "\"'Knowing' is beautiful and funny and chilling.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for family-friendly and sci-fi genres, with a notable appreciation for high-quality production and emotional storytelling. They exhibit brand loyalty to Joss Whedon and enjoy narratives that evoke strong feelings, often resonating with their personal experiences."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AGZXHEF6WIJQXJNIYF6RKLVHJIHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly",
+      "evidence": [
+        "\"My daughter's favorite show.\"",
+        "\"Good show for my daughters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good show.\"",
+        "\"Great show.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Good show.\"",
+        "\"Love the show very much. Expecting season 3.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good show.\"",
+        "\"Great show.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"Good show.\"",
+        "\"Great show.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Love the show.\"",
+        "\"Amazing show, my daughter like to catch up every single episode.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for family-friendly content, particularly shows that resonate with their children. They express high emotional engagement with the shows they enjoy, though their reviews lack detail on narrative complexity and production quality."
+}

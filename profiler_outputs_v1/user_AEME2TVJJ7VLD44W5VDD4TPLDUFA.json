@@ -1,0 +1,77 @@
+{
+  "user_id": "AEME2TVJJ7VLD44W5VDD4TPLDUFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical drama, romance, thriller",
+      "evidence": [
+        "\"I stumbled upon the 1978 television movie The Nativity... this is a nice little Biblical tale.\"",
+        "\"I didn't expect to see the airplane thriller genre to revive anytime soon after 9/11... Flightplan embraces the new less on action, more on brains turnabout.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The alternating between Herod's madness, the journey of the Magi, and the eponymous drama is not a problem, but Herod is dropped all together halfway through the film.\"",
+        "\"Multi-leveled storylines and ambiguous friends and foes are just a few of Sharpe's Battle's highlights.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The Nativity also takes awhile to get going... the pace improves greatly.\"",
+        "\"Sharpe's Siege is not perfect. There's too little and yet too much going on between characters old and new.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The Spanish locations, however, look surprisingly ancient and Middle Eastern.\"",
+        "\"The production values are on form here. This might have been one of the big budget episodes.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for Sean Bean",
+      "evidence": [
+        "\"Sean Bean returns in this 1994 telefilm as Richard Sharpe...\"",
+        "\"I took a brief break from reading, watching, and reviewing Sharpe, but soon enough I had to dive in again with Sharpe's Company.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The beautiful English locales and majestic looks of the horses practically sell themselves.\"",
+        "\"The stunningly beautiful yet violent and creepy cliffs and oceans onscreen add to the parental fear of the leads.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The Nativity's biggest trouble is that it isn't as moving as it could be or spends more time on the exposition and fluff.\"",
+        "\"The speeches from Connie and Mellors are so sincere, honest, and downright poetic that the audience can't help but root for the couple.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of historical dramas and thrillers, often appreciating strong emotional narratives and sensory experiences. They show a particular loyalty to Sean Bean's performances, valuing both production quality and narrative complexity in their viewing choices."
+}

@@ -1,0 +1,166 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for drama and comedy can partially translate to books, particularly in literary fiction and humorous novels. However, the nuances of comedic timing and dramatic tension differ between film and literature.",
+      "transferred_insight": "Prefer literary fiction with elements of drama and humor; avoid overly romantic or genre-specific comedies.",
+      "confidence": 0.75
+    },
+    "narrative_complexity": {
+      "decision": "TRANSFER",
+      "rationale": "A preference for simple narratives directly applies to books, suggesting the user enjoys straightforward plots without complex structures. This aligns well with accessible literary fiction.",
+      "transferred_insight": "Prefer straightforward, easy-to-follow narratives in books.",
+      "confidence": 0.85
+    },
+    "pacing_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's negative preference for slow-paced narratives indicates a strong aversion to books that may drag or lack direction. This pattern is too specific to film pacing and does not translate well to literature.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "quality_sensitivity": {
+      "decision": "TRANSFER",
+      "rationale": "High sensitivity to quality in films suggests the user will also appreciate well-crafted books with strong writing and character development. This pattern is directly applicable.",
+      "transferred_insight": "Prefer highly-rated books with strong writing and character development.",
+      "confidence": 0.8
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "Loyalty to specific actors does not translate to authors, as the connection is not relevant in the literary domain. This pattern is likely to cause negative transfer.",
+      "transferred_insight": null,
+      "confidence": 0.85
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "Visual storytelling preferences in film do not apply to books, as the sensory experience is fundamentally different. This pattern is medium-specific and should not influence book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "A high value on emotional resonance in films suggests the user will also appreciate books that evoke strong feelings and emotional depth. This is a transferable quality.",
+      "transferred_insight": "Prefer books that evoke strong emotions and have deep character development.",
+      "confidence": 0.85
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "B09MBL3SZ6",
+      "title": "Word Search for Dog Lovers: A Large Print Dog Word Search Puzzle Book with a Collection of 80 Fun & Enjoyable Dog Word Finds for Adults, Seniors & Teens Including Dog Quotes & Sayings",
+      "score": 0.9,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book offers a simple and engaging format that aligns with the user's preference for straightforward narratives. The high average rating indicates quality, and the light-hearted theme can evoke positive emotions."
+    },
+    {
+      "rank": 2,
+      "item_id": "0752460900",
+      "title": "Highland Folk Tales (Folk Tales: United Kingdom)",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This collection of folk tales provides simple narratives that are easy to follow, aligning with the user's preference for straightforward storytelling. The cultural richness and high rating suggest quality content."
+    },
+    {
+      "rank": 3,
+      "item_id": "B00IHGTZ7I",
+      "title": "Three By Echenoz: Big Blondes, Piano, and Running",
+      "score": 0.8,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "Echenoz's work is known for its accessible style and engaging plots, which should resonate with the user's preference for simple narratives and emotional depth. The quality of writing is also highly regarded."
+    },
+    {
+      "rank": 4,
+      "item_id": "1569470006",
+      "title": "What's a Girl Gotta Do? (Robin Hudson Mysteries)",
+      "score": 0.75,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This mystery novel combines humor and drama, fitting the user's genre preferences. Its straightforward narrative style and good ratings suggest it will meet the user's quality expectations."
+    },
+    {
+      "rank": 5,
+      "item_id": "0060501553",
+      "title": "An Outline of the Republic: A Novel",
+      "score": 0.7,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This novel presents a simple yet engaging narrative that aligns with the user's preferences. The emotional depth and high rating indicate it is a quality read."
+    },
+    {
+      "rank": 6,
+      "item_id": "1374816027",
+      "title": "The Chink in the Armour",
+      "score": 0.68,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book offers a straightforward narrative style, which aligns with the user's preference for simplicity. Its decent rating suggests it has quality content."
+    },
+    {
+      "rank": 7,
+      "item_id": "1780290071",
+      "title": "Did Not Finish (An Aidy Westlake Mystery, 1)",
+      "score": 0.65,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This mystery novel combines elements of drama and humor, fitting the user's genre preferences. The straightforward plot and good ratings suggest it will meet quality expectations."
+    },
+    {
+      "rank": 8,
+      "item_id": "B001PTG6PI",
+      "title": "Absolute Fear",
+      "score": 0.63,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This thriller offers a simple narrative structure that aligns with the user's preferences. Its high rating indicates quality writing and engaging content."
+    },
+    {
+      "rank": 9,
+      "item_id": "B076MDCV4B",
+      "title": "Montaigne in Barn Boots: An Amateur Ambles Through Philosophy",
+      "score": 0.6,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book presents philosophical ideas in an accessible manner, aligning with the user's preference for straightforward narratives. The quality of writing is also likely to resonate with the user."
+    },
+    {
+      "rank": 10,
+      "item_id": "B001CBDUW6",
+      "title": "The Boys of Columbia High in Track Athletics or A Long Run That Won (# 6 in Boys of Columbia High Series)",
+      "score": 0.58,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book offers a simple narrative that is likely to appeal to the user's preference for straightforward storytelling. Its average rating suggests it has some quality content."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference were blocked due to their medium-specific nature, which does not translate to book recommendations. Pacing preference was also blocked due to negative signals.",
+  "overall_strategy": "Focused on transferring narrative simplicity, quality sensitivity, and emotional resonance while blocking patterns that could lead to negative transfer. Recommendations emphasize accessible narratives in drama and comedy genres."
+}

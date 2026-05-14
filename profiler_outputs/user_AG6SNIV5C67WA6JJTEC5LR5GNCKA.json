@@ -1,0 +1,77 @@
+{
+  "user_id": "AG6SNIV5C67WA6JJTEC5LR5GNCKA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, drama, comedy",
+      "evidence": [
+        "I love anything that has to do with ancient Rome and I in particular like the Spartacus story.",
+        "Wonderful truly entertaining comedy. You will laugh many times."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "An interesting, thought provoking movie, well acted, and well filmed.",
+        "This is one of those movies that you must watch at least twice to really start appreciating it."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "This film version of Les Miserables is more faithful to Victor Hugo's novel but the acting is quite tedious.",
+        "I enjoyed each episode more than the previous one."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The characters are perfectly cast. The story is great.",
+        "Daniel Day Lewis was superb as Lincoln."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for HBO and Steven Spielberg",
+      "evidence": [
+        "I love every episode of The Game of Thrones and especially liked Season II.",
+        "I love history and Steven Spielberg makes it come alive in this movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I cannot wait for Part II and Part III due out this year and next.",
+        "HBO has created a world that is forever intriguing and suspenseful."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "His death was almost Christ-like---even more so than Kirk Douglas on the cross in the Hollywood version.",
+        "It made me actually rethink my feelings about Abraham Lincoln whom I now appreciate much more."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys historical dramas and comedies, often appreciating high-quality production and strong performances. They have a preference for slower-paced narratives that evoke emotional resonance, particularly in series and films that explore complex themes."
+}

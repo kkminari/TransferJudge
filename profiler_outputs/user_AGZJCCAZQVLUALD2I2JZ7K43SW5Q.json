@@ -1,0 +1,77 @@
+{
+  "user_id": "AGZJCCAZQVLUALD2I2JZ7K43SW5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, action",
+      "evidence": [
+        "While the cast performance is great and true to character it seems the whole Star Trek franchise is devolving into dark shoot-em ups.",
+        "Most of the episode left me thinking long after watching them but 'Safe and Sound' and 'Kill all Others' were very dark and disturbing."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "Bravo! This film's twists and turns forced me to think about the quirky nature of time travel.",
+        "Most of the episode left me thinking long after watching them."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "It did seem to drag a bit but by episode five it came to a screeching halt for me.",
+        "While the cast performance is great and true to character it seems the whole Star Trek franchise is devolving into dark shoot-em ups."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "I enjoyed the portrayal of LBJ by Woody Harrelson but the film was marred for me by the closed captioning.",
+        "I didn't feel much empathy toward any of the main characters."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "While I'm a fan of Tom Hanks and Carrie Fisher I felt this movie was intended for the 8-15 year old male demographic.",
+        "There are better courtroom dramas out there."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Most of the episode left me thinking long after watching them.",
+        "I hope we never arrive at that point as a society where we lose our humanity like the ones presented by those two episodes."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Bravo! This film's twists and turns forced me to think about the quirky nature of time travel.",
+        "Most of the episode left me thinking long after watching them."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex narratives with thought-provoking themes, particularly in sci-fi and drama genres. They prefer slower pacing and are sensitive to production quality, although they show low loyalty to specific creators. Emotional resonance is important to them, as they appreciate content that evokes deep thoughts and feelings."
+}

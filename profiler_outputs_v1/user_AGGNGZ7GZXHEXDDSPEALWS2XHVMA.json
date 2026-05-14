@@ -1,0 +1,77 @@
+{
+  "user_id": "AGGNGZ7GZXHEXDDSPEALWS2XHVMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "nostalgia, documentary, musical",
+      "evidence": [
+        "\"For true boomer nostalgia nuts\"",
+        "\"Must have for vintage sci fi/fantasy buffs\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"minimal plot but lots of colorful scenes\"",
+        "\"the villainous banker who coerces the father to give him his daughter to save him from financial ruin...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"character was now slick but not the sophisticated gentleman/rogue figure anymore\"",
+        "\"the same old, same old story\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Well produced but it is the 'same old, same old' story\"",
+        "\"the print is only fair, but this is film that has been in the 'cheap dvd' library for years\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Busby Berkeley, Disney",
+      "evidence": [
+        "\"Busby Berkely directs William Powell instead of Dick Powell\"",
+        "\"these are Disney, so of course....\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"the brilliance is exhibited by a fashion show (ala The Women)\"",
+        "\"Good print and very enjoyable for those who enjoy these old visions of the future in high definition.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Really brings back memories.....\"",
+        "\"Takes me back...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for nostalgic content, particularly in the genres of musicals and documentaries. They appreciate high production quality and visual spectacle, while favoring simpler narratives that evoke emotional memories."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AFIVFFG6TEBVIF6R453POLAUGHAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action, Christian",
+      "evidence": [
+        "\"This is a awesome Christian movie.\"",
+        "\"A lot of war action\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good story line but way too much bad language.\"",
+        "\"Good show moderate action and some humor.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"You'll cry, you'll laugh and you'll watch it again.\"",
+        "\"Good show very touching. It was a 2 tissue movie\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"It is good for all ages and touches aspects of our everyday life as well as our walk by faith.\"",
+        "\"I would like Amazon to give some details about a movie like Netflix does.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "emotional impact",
+      "evidence": [
+        "\"It is a tear jerker and you should have tissues available.\"",
+        "\"Anyone dealing with autistic family members need to watch this.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"You'll cry, you'll laugh and you'll watch it again.\"",
+        "\"It was a 2 tissue movie\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for emotional and impactful dramas, particularly those with Christian themes and action elements. They appreciate simple narratives that evoke strong feelings, although they have mixed feelings about production quality and brand loyalty."
+}

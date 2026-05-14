@@ -1,0 +1,77 @@
+{
+  "user_id": "AGZO4EEH7QLXKDMLYMCLKUILY4LQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, inspirational, comedy",
+      "evidence": [
+        "\"Very good kid and animal movie that is not just a kids movie.\"",
+        "\"Great inspirational movie about transformation at an advanced age based upon a tragic loss.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good acting and a plot that kept the movie moving from beginning to end.\"",
+        "\"Funny writing and funny people and story line.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Good acting and a plot that kept the movie moving from beginning to end.\"",
+        "\"Funny writing and funny people and story line.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent acting and heart warming story.\"",
+        "\"This one should not be offered by Amazon. This is in no way a criticism of the content only the video production.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"It's a classic Bill Murry.\"",
+        "\"Nicholas Cage best movies.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Heart warming story with excellent acting.\"",
+        "\"Funny writing and funny people and story line.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Great inspirational movie about transformation at an advanced age based upon a tragic loss.\"",
+        "\"Funny and as a born again Christian I was never offended at language or content.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and inspirational films with a preference for simple narratives and fast pacing. They value high production quality and emotional resonance, often appreciating humor that is clean and uplifting."
+}

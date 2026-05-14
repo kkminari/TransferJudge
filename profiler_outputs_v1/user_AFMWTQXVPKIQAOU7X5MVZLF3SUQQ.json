@@ -1,0 +1,77 @@
+{
+  "user_id": "AFMWTQXVPKIQAOU7X5MVZLF3SUQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, classic",
+      "evidence": [
+        "\"Great wholesome family movie\"",
+        "\"wholesome family friendly movies with out todays agenda being pushed down their throats through media\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good quality video wholesome family movie. A classic that all kids should have the chance to watch.\"",
+        "\"Great wholesome family movie\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Great wholesome family movie\"",
+        "\"Still great wholesome kids movie\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Quality is the same as it was when released no issues with viewing.\"",
+        "\"Great price great quality all in one complete series.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "Focus on general quality and family-friendly content."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual quality",
+      "evidence": [
+        "\"Quality is the same as it was when released no issues with viewing.\"",
+        "\"Great quality wholesome funny movie\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A classic I enjoyed as a teen wanted my teens to see it.\"",
+        "\"Great wholesome family movie\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly and classic movies, valuing quality and emotional resonance. They enjoy simple narratives with a slow pacing, indicating a taste for wholesome content that can be shared across generations."
+}

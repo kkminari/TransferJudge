@@ -1,0 +1,77 @@
+{
+  "user_id": "AGWMT2QORZIH3ITWUO5CRPK2OH5A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy, sci-fi, adventure, thriller",
+      "evidence": [
+        "\"Fast & Furious 8-Movie Collection [4K UHD]\" is the ultimate ticket to non-stop action, jaw-dropping stunts, and high-octane excitement.",
+        "\"Treasure Planet (10th Anniversary Edition) (Blu-ray + DVD)\" invites you to embark on a thrilling voyage through the cosmos."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Looper\" takes us on a gripping journey into a dystopian future, where time travel has become a reality—but it's strictly controlled by the mob.",
+        "\"Quantum Leap\" follows the adventures of Dr. Sam Beckett, a brilliant scientist who becomes trapped in a time-travel experiment."
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"John Wick: Chapter 3 - Parabellum\" delivers non-stop thrills from start to finish.",
+        "\"Attack on Titan\" is a visually stunning and emotionally gripping series takes you on an unforgettable ride through a dystopian world."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The Blu-ray edition of \"Dunkirk\" takes Christopher Nolan's World War II epic to a whole new level, with stunning visuals and immersive sound.",
+        "The 4K version of \"Hacksaw Ridge\" is an absolute masterpiece. The picture quality is breathtaking."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "mixed",
+      "evidence": [
+        "Director Rian Johnson weaves a narrative that seamlessly jumps between different time periods in \"Looper\".",
+        "The film is directed by the visionary talent Duncan Jones in \"Source Code\"."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "The animation in \"Attack on Titan\" is nothing short of breathtaking.",
+        "The 4K Ultra HD version of \"Iron Man\" takes the viewing experience to the next level."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Treasure Planet\" captures the essence of exploration, friendship, and the pursuit of dreams.",
+        "\"Quantum Leap\" blends thought-provoking storytelling with a heartfelt exploration of human connections."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action-packed films and comedies, often enjoying high-quality visuals and sound. They appreciate narratives that blend emotional depth with thrilling pacing, indicating a taste for both engaging stories and sensory experiences."
+}

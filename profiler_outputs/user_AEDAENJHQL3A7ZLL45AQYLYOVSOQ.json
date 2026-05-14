@@ -1,0 +1,77 @@
+{
+  "user_id": "AEDAENJHQL3A7ZLL45AQYLYOVSOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, comedy, political intrigue",
+      "evidence": [
+        "\"I love Captain Jack. He's funny and mysterious and he Gets Things Done.\"",
+        "\"if you're interested in political intrigue, this is a good show.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The plot is complicated and interesting and I liked the characters.\"",
+        "\"I liked the twists of the story and the cleverness of David Tennant's character in getting revenge.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"If you're looking for no-thinking-required action/thriller, this movie is for you.\"",
+        "\"Even a bad episode is better than most of the other 'comedies' on tv.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I have the collector's edition that was released a few years ago and the discs were poorly produced and have a lot of playback problems.\"",
+        "\"I really like the interactions between Sherlock and John Watson. Sherlock can be a jerk and insensitive, but he's also funny and fun to watch.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"It's David Tennant, so of course it's excellent.\"",
+        "\"Benedict Cumberbatch is hot, hot, hot as Sherlock.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It's such a breath of fresh air to see a show about a group of very smart people whose differences are celebrated.\"",
+        "\"I enjoy watching Sheldon develop as a character.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This show delivers the message that it's important to be yourself, be accepting of your strengths and differences, and not be afraid to go against the crowd.\"",
+        "\"I absolutely adore this show.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex narratives and character-driven stories, particularly in the genres of sci-fi, drama, and comedy. They show high sensitivity to production quality and have a clear loyalty to specific actors and shows, often valuing emotional resonance and character development in their viewing experiences."
+}

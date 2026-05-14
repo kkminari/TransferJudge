@@ -1,0 +1,77 @@
+{
+  "user_id": "AE5S6V67JRNM5SWXHMQELQYC37ZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, dark, violent, depressing",
+      "evidence": [
+        "\"nearly all of the films in my collection are dark, violent, and depressing.\"",
+        "\"I have cerebral palsy, and for the last few months I have had my first African American aide.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"This film is more than it wants to be... subtle, powerful insights that set it apart from its saccharine ilk.\"",
+        "\"I didn't like it very much at all... I disagree with those who say that Dead Man Walking presents an objective view.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It's refreshing to see that all was not repaired by the end titles.\"",
+        "\"It's been said by many an actor who has played a villain that they have been treated terribly...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The Passion of the Christ is an exquisitely constructed masterpiece.\"",
+        "\"I would have to disagree with Krauthammer, I think it is very important to have things like this film and that monument to show the world that a person with a disability ran this country for more years than anyone in history.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have begun looking into Sydney Pollack's filmography, and this was just one from the pile.\"",
+        "\"I watched 'Bait' to see what the other side of Jamie Foxx was like.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Hero contains some of the most breathtaking sequences I have ever seen.\"",
+        "\"Lemony Snicket is a BEAUTIFUL, BREATHTAKING SPECTACLE!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A movie that celebrates that kind of bond... does not deserve to be dismissed as easily as the rest.\"",
+        "\"I look forward to a day when people with disabilities will never again hide their disabilities because disability is looked upon with neither pity nor admiration but instead viewed as hardly worthy of comment.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for dark and dramatic films that evoke deep emotional responses. They appreciate high production quality and are sensitive to narrative complexity, often favoring slower-paced storytelling that allows for character development and emotional depth."
+}

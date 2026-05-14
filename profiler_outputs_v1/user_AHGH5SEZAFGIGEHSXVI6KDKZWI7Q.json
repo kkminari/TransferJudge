@@ -1,0 +1,77 @@
+{
+  "user_id": "AHGH5SEZAFGIGEHSXVI6KDKZWI7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama",
+      "evidence": [
+        "\"I like British movies.\"",
+        "\"In-depth coverage not included in 'nightly news'.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The script is sung instead of spoken.\"",
+        "\"The movie seemed more of a Douglas history than an entertaining movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The one with Tom Hardy plays a more brooding Heathcliff.\"",
+        "\"The Mentalist became so condescending and 'know-it all' that I almost wanted HIM to be a victim!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The Blu-ray picture is great as are the actors and cinematography.\"",
+        "\"The special effects look more authentic, also.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have all the collections so far & hope they keep 'em coming!\"",
+        "\"Don't get me wrong, I LIKE Timothy Dalton & his Heathcliff was great.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"It was like being in the tour group again!\"",
+        "\"The film takes you across the gorgeous landscape & the inside tour is beautiful.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"Helped me understand more clearly the situation over there.\"",
+        "\"You see how much work & money it costs the families to maintain their ancestral homes.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys documentaries and light dramas, particularly those with high production quality and sensory experiences. They have mixed feelings about narrative complexity and pacing, indicating a preference for straightforward storytelling but appreciate character development."
+}

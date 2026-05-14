@@ -1,0 +1,77 @@
+{
+  "user_id": "AEJ4TCUHW7UXZFVJTLKXUOWDGSDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama, comedy, romance",
+      "evidence": [
+        "\"Good PBS series about the US Presidents\"",
+        "\"I particularly enjoy Seasons 1 to 7 inclusive but 8 and 9 suffered in the writing.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the story drifting, the characters uninteresting\"",
+        "\"the script which centered around Thatcher in declining health\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"the episodes move along quickly but smoothly\"",
+        "\"I found it unengaging, the story drifting\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"This movie will not stand the test of time other than as being part of Jeff Bridges' filmography.\"",
+        "\"the quality of the picture and sound is on a par with tv broadcast news video at that time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I like the set-up of Perry as top, well known, single attorney\"",
+        "\"Meryl Streep gave an outstanding performance.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory experience",
+      "evidence": [
+        "\"the music swelled loudly in and out, drowning out and muffling the dialogue.\"",
+        "\"the sumptuous colour doesn't detract from this being a wonderful modern film noir.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I am so sorry for all the lives lost in this tragedy and for the son who lived.\"",
+        "\"Meryl Streep's performance for which there are not enough superlatives.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and dramas, appreciating high production quality and emotional resonance in their viewing experiences. They have mixed feelings about narrative complexity and pacing, indicating a desire for engaging storytelling without excessive complexity."
+}

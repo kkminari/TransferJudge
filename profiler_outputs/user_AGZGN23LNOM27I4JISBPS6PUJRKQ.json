@@ -1,0 +1,77 @@
+{
+  "user_id": "AGZGN23LNOM27I4JISBPS6PUJRKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary, western",
+      "evidence": [
+        "\"A fascinating documentary about two privileged young men committing a senseless and horrific crime.\"",
+        "\"What's not to love? Bonanza viewed for free and excellent quality.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Way too convoluted to be believable.\"",
+        "\"The story is really about a young newswoman who one day decides to leave her boring life...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The action sequences were ok but nothing special.\"",
+        "\"The beginning gave too much away for me.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Beautiful cinematography and set design but the story line was silly.\"",
+        "\"The cast was great, the scenery amazing and the storyline kept me intrigued.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I've been waiting anxiously for season 2 of Bosch... One of the best shows of all time.\"",
+        "\"Kathy Bates was superb.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"It was beautiful to watch but didn't keep my attention.\"",
+        "\"The film is worth watching for the setting though. That is magical.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I just didn't like any of the characters well enough to care.\"",
+        "\"The acting is as good as anything today but the wonderful family values are perfect.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys dramas and documentaries, particularly those with strong storytelling and character development. They have mixed feelings about narrative complexity and pacing, often valuing production quality but not showing strong loyalty to specific creators."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHUBS45PJ4MGM76XNJC5PPCTWX2Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, musical, thriller, sci-fi, romance",
+      "evidence": [
+        "\"I love all the Jesse Stone movies\"",
+        "\"I enjoy watching old movies and this one is one of my favorites.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A very good movie with good music and fun lines.\"",
+        "\"Great story, great movie and great music.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This is such a beautiful story and Shirley Temple's best in my opinion. It makes me laugh and cry.\"",
+        "\"I always enjoy watching some old movies.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Glad I got it in Blu-ray\"",
+        "\"The Blu-ray quality was good and he really enjoys the story.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Robin Williams, Tom Selleck, Hayley Mills",
+      "evidence": [
+        "\"I enjoy most movies that Hayley Mills is in.\"",
+        "\"Bradley Cooper did a good job acting the part.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory experience",
+      "evidence": [
+        "\"Great movie and animation is excellent.\"",
+        "\"The music, the laughs, the acting, the memories.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It always brings a tear to my eye.\"",
+        "\"It makes me laugh and cry.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic and emotional films, particularly those featuring notable actors like Robin Williams and Tom Selleck. They appreciate high production quality and enjoy movies that evoke deep feelings, often favoring slower-paced narratives with rich stories."
+}

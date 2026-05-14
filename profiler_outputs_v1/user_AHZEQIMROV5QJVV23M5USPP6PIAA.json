@@ -1,0 +1,77 @@
+{
+  "user_id": "AHZEQIMROV5QJVV23M5USPP6PIAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, action",
+      "evidence": [
+        "\"Shows what it could be like living under Japanese and Nazi rule if we had lost WWII.\"",
+        "\"Very engaging new series. Character development and story line kept us glued to the screen and binge hungry.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Keeps you wondering what's coming next.\"",
+        "\"As the story line progresses, you keep wanting more.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Started slow but picked up steam with a lot of grizzly action.\"",
+        "\"Edge of your seat viewing all the way.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"All the actors played their parts to a tee.\"",
+        "\"Great writing. Loved it! Not your usual TV fare.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "User expresses general enjoyment without specific loyalty."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Very provocative cutting edge series.\"",
+        "\"The characters were memorable and interesting and the action both violent, sad and funny.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Very disturbing and emotional subject matter.\"",
+        "\"Shows how the human spirit can endure extreme hardship and the strength of a mothers love for her child.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex and engaging dramas, particularly those with historical themes and strong character development. They appreciate high production quality and emotional depth, often favoring fast-paced narratives that keep them on the edge of their seat."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AE2A3WTEPJ2GYCV4XN3TQOT7642A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, documentary",
+      "evidence": [
+        "\"The best Star Trek series!\"",
+        "\"Amazing documentary on the fall of mankind!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I love this movie, and the Blu-Ray restoration of the movie is incredible!\"",
+        "\"It departs the Michael Myers story, and does something totally different.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The final season was rushed hot garbage.\"",
+        "\"They took hands down the greatest television show... and destroyed it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The quality of the restoration on this season is incredible.\"",
+        "\"Super clear Picture, and the Audio is just plain amazing now!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to Star Trek and Scream Factory",
+      "evidence": [
+        "\"I plan on owning every season of this series.\"",
+        "\"I can't wait for more from Scream Factory!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific sensory",
+      "evidence": [
+        "\"The restoration of this film, and the reversible slip cover looks awesome.\"",
+        "\"The Blu-Ray version looks incredible.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Not many people liked this movie, but I did.\"",
+        "\"Honestly you should sue them for damages.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and documentary genres, particularly enjoying series like Star Trek. They value high production quality and show loyalty to specific franchises, but their emotional engagement with the content appears to be low."
+}

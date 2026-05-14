@@ -1,0 +1,77 @@
+{
+  "user_id": "AFZPTIQ2OFQI7YZDHQRPB2BS5NCA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, political, thriller",
+      "evidence": [
+        "Great SciFi",
+        "Fantastic cerebral thriller."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "Thought-provoking and VERY different take on things.",
+        "Smart, Funny, and great cerebral fun!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Good story and lots of fun action and suspense.",
+        "Great plot . . great effects . . loved it"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Genius actors . . .",
+        "Great movie"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Not sure about the follow-up movie, though.",
+        "Very good explanation . . bursts lots of anti-Snowden propaganda"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "Great plot . . great effects . . loved it",
+        "Expected level of violence . . no real desirable ending !!!!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Fascinating and riveting story line!",
+        "Wonderful!  Brilliant!  We need more Cumberbatch!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and cerebral thrillers, appreciating complex narratives and fast pacing. They value high production quality and emotional resonance in their viewing experiences."
+}

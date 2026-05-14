@@ -1,0 +1,77 @@
+{
+  "user_id": "AHUWAYCE3QED2NGYO3RY5QAGO72Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, romance",
+      "evidence": [
+        "\"Very funny and sweet romantic movie.\"",
+        "\"These are very funny movies based on the funny radio show.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A good movie both main actors are good but wrong for this movie.\"",
+        "\"Not the best road picture but good not great.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"A very well done movie.\"",
+        "\"Nice batch of movies some very funny bits in them.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Well acted, directed and written.\"",
+        "\"They should do a remake of the movie with a good budget!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Bob Hope, Roy Rogers",
+      "evidence": [
+        "\"Good movie very Bob Hope.\"",
+        "\"Loved it I grew up with Roy Rogers.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual humor, nostalgic atmosphere",
+      "evidence": [
+        "\"If you are a 40's fan a must have, where did they find all this 1940's furniture?\"",
+        "\"hope and Crosby you cannot go wrong.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Very funny and sweet romantic movie.\"",
+        "\"I have always liked this movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and romantic films, often appreciating well-executed humor and nostalgic elements. They show a high sensitivity to production quality and have a fondness for classic actors like Bob Hope and Roy Rogers, indicating a taste for light-hearted, emotionally resonant content."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFOC7XRAOCYZE363E22XH2IK2I6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, horror, drama",
+      "evidence": [
+        "\"I LOVE this movie! Kids and family of all ages.\"",
+        "\"Cult Classic. Horror fan, so I added it to my collection.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's about two people who couldn't be more wrong for one another... It's very cute; typical rom-com.\"",
+        "\"It's not that easy. It shows true love.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It has some sad parts, but in my opinion it's not too horrible for kids.\"",
+        "\"If you enjoy horror films and have yet to see this one, I highly recommend!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"I would say I loved the first one, and I thought the second one was just as good.\"",
+        "\"If you have the opportunity, I'd recommend Bluray.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I am a fan of Paul Walker, especially more so since he has passed.\"",
+        "\"I grew up with the Lost Boys, but had no clue there were two other films made.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I find it funny at times.\"",
+        "\"It shows true love.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I LOVE this movie!!! It has been added to my collection as yet another one of my favorite Disney movies.\"",
+        "\"It left me wanting more.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly films, comedies, and horror movies, often expressing strong emotional connections to the content. They prefer straightforward narratives with fast pacing and show a moderate sensitivity to production quality, but exhibit low brand loyalty to specific creators."
+}

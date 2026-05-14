@@ -1,0 +1,76 @@
+{
+  "user_id": "AESNNRSA3MH2RLN7BBJEBD2SE2DA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, reality, military, dark themes",
+      "evidence": [
+        "\"Dark and depressing. Lost young woman abusing alcohol/drugs and having bad sex...\"",
+        "\"This was unbearable to watch. Aside from the military theme music throughout, the characters and situations were just plain daft and cringeworthy.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Concept was good. Script, acting and direction could not hold my interest.\"",
+        "\"Interesting, but way too long/gets repetitive. There also wasn't much I hadn't heard before from other films.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"So incredibly slow, boring, depressing. Awful dialogue and acting. Had to switch it off!\"",
+        "\"Incredibly slow, boring, depressing. Awful dialogue and acting. Had to switch it off!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"First episode: acting very flat, man survives fiery explosion with a few scratches...\"",
+        "\"These are great actresses. However, I couldn't wait for this movie to be over. Very unrealistic.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I could tell from the disturbing dream sequence and foul language things were only going to get worse... for pure shock value.\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Military theme music throughout. Yikes.\"",
+        "\"Innocuous, enjoyable and mildly entertaining.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I mainly kept watching for McDormand: she's mesmerizing. And her hubby. However, lots of death, suicide, near death, estrangement...\"",
+        "\"I couldn't wait for this movie to be over. Very unrealistic.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for drama and reality genres, often expressing dissatisfaction with pacing and production quality. They tend to favor simple narratives and have low emotional engagement with the content, indicating a critical view of storytelling and character development."
+}

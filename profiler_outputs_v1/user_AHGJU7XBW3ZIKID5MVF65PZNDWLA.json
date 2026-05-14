@@ -1,0 +1,77 @@
+{
+  "user_id": "AHGJU7XBW3ZIKID5MVF65PZNDWLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action, comedy",
+      "evidence": [
+        "\"A good sci-fi movie, good price, quick shipping.\"",
+        "\"Great movie! A classic sci-fi comedy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It wasn't the same as the 1960 version and had better effects and that's OK.\"",
+        "\"It's a very enjoyable movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"An excellent action movie from beginning to end.\"",
+        "\"Nonstop action\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"good movies and the price was right. Shipping was quick.\"",
+        "\"The price was right and the shipping was quick.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I hope the rumors of a movie are correct.\"",
+        "\"I wish BBC would make more.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"It's still a great movie and a classic for its effects.\"",
+        "\"The acting is on par with the first Star Wars (IV) and was never meant to be a deep, emotionally draining movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I could go into the dialogue, but the site wouldn't post the post.\"",
+        "\"It depicts the USA in a time of fast cars, burger joints, and the impending Vietnam war just as I remember it.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced sci-fi and action movies, often appreciating visual spectacle over narrative complexity. They show a preference for entertaining content rather than deep emotional engagement, and while they have some brand loyalty, it is not strongly evident."
+}

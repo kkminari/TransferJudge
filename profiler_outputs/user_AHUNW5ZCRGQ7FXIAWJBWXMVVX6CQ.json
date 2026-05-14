@@ -1,0 +1,77 @@
+{
+  "user_id": "AHUNW5ZCRGQ7FXIAWJBWXMVVX6CQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, educational, cartoon",
+      "evidence": [
+        "good classic cartoon",
+        "this cartoon teaches good behavior and friendship"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "good old fashion family fun",
+        "not filled with PC stuff"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "perfect show for preteens and just fun family show",
+        "good for little boys who cant sit still"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "good quality movie",
+        "good quality dvd and packaged well"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I love the berenstain bears",
+        "my husband has gotten our 3 year old hooked on the gummi bears"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "good old fashion family fun",
+        "this cartoon teaches good behavior and friendship"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I just love this show",
+        "my son loves this movie we watch it all the time"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-oriented and educational content, particularly in the form of cartoons. They value high production quality and enjoy simple narratives that resonate emotionally, often highlighting the positive values taught through these shows."
+}

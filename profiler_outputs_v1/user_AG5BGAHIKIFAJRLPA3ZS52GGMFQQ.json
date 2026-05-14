@@ -1,0 +1,76 @@
+{
+  "user_id": "AG5BGAHIKIFAJRLPA3ZS52GGMFQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "political, drama",
+      "evidence": [
+        "\"The best movie about politics as they are today.\"",
+        "\"A great movie about a great person who should become our next leader.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"don't buy story drags on and on\"",
+        "\"the DVD put me to sleep\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"don't buy story drags on and on\"",
+        "\"the DVD put me to sleep\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"This video has great audio and video. Good clean sound.\"",
+        "\"loved it has a lot of meaning\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"love the x men movies\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"This video has great audio and video. Good clean sound.\"",
+        "\"I'm so glad that Peter Green is back playing music.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is a great movie and should be a wake up for all of those who are not sure about why we are here on this earth.\"",
+        "\"loved it has a lot of meaning\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for political and drama genres, appreciating high production quality and emotional resonance in films. However, they tend to dislike slow-paced narratives that drag on, indicating a preference for more engaging storytelling."
+}

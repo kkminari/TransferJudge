@@ -1,0 +1,71 @@
+{
+  "user_id": "AEFE7NUOJCQWQPNR7ZXXCDHKE7PQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "light comedy, classic, action",
+      "evidence": [
+        "\"entertaining and I would recommend it to any one who enjoys light comedy\"",
+        "\"a classic for sure\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"don't expect any hidden agenda. It was just fun to do, that's the point.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Still my favorite car chase movie ever made\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Weak directing. music awful.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"great actress.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"perfect in blue ray.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"the movie isn't going to win any awards but is entertaining\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light comedies and classic films, often appreciating straightforward storytelling and fast pacing. They show some sensitivity to production quality but do not express strong loyalty to specific creators."
+}

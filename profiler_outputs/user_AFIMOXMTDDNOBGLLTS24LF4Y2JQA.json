@@ -1,0 +1,77 @@
+{
+  "user_id": "AFIMOXMTDDNOBGLLTS24LF4Y2JQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action, westerns, fantasy",
+      "evidence": [
+        "The series is draws from westerns/science-fiction/fantasy/time-travel.",
+        "I like most any and every thing that Danny Trejo does."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "low",
+      "evidence": [
+        "The plot is rambling and riddled with discontinuities.",
+        "The screenplay opening so offensively poor that it renders the balance of the story completely unbelievable."
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "The plot is unconvincing and riddled with discontinuities.",
+        "I found it entertaining to re-watch."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The filming is good, with all the gore, action and gun-play you could hope for and more.",
+        "The best part was the CGI and the terrain."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Danny Trejo, Predator franchise",
+      "evidence": [
+        "I like most any and every thing that Danny Trejo does.",
+        "Kudos for not damaging the Predator franchise."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "The filming is good, with all the gore, action and gun-play you could hope for and more.",
+        "The video/CGI is convincing as is the Audio (DTS-HD Master)."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "The plot is unconvincing and riddled with discontinuities.",
+        "Life is too short to waste on this."
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for sci-fi and action genres, particularly enjoying works featuring Danny Trejo and the Predator franchise. However, they express significant dissatisfaction with narrative complexity and emotional engagement, often criticizing plots for being unconvincing and riddled with discontinuities."
+}

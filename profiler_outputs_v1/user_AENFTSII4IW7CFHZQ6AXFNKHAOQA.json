@@ -1,0 +1,77 @@
+{
+  "user_id": "AENFTSII4IW7CFHZQ6AXFNKHAOQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "true stories, family, drama",
+      "evidence": [
+        "\"I always prefer true stories.\"",
+        "\"This is a clean series well cast and realistic.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This is not a docu of all doom and gloom, but, of serious concerns while offering some practical solutions.\"",
+        "\"I really wanted to like this show. But, can a person be annoying enough to be funny?\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This one moves along at a pretty fast clip.\"",
+        "\"I like shows that solves crime and justice is served.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I would recommend it for the production of the period alone.\"",
+        "\"All the characters in this movie were interesting to me, a well cast movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I like Paula Zahn, but not in this casting.\"",
+        "\"I'm hooked, I have watched this movie many times.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual and emotional experience",
+      "evidence": [
+        "\"You experience the whole gamut of emotions as this brave father dealing with his own grief tries to help his children adjust.\"",
+        "\"I enjoyed the architecture and fashion and later the first cars.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"There are gut wrenching moments over the loss of the mother from deep grief to bottled up anger.\"",
+        "\"I have sent it as a gift to several people. A success story with no bad language.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys true stories and family dramas, often appreciating well-crafted narratives with emotional depth. They prefer fast-paced content and are sensitive to production quality, indicating a strong preference for engaging and visually appealing storytelling."
+}

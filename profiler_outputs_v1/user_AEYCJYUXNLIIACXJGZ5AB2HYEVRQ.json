@@ -1,0 +1,77 @@
+{
+  "user_id": "AEYCJYUXNLIIACXJGZ5AB2HYEVRQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, drama, romance",
+      "evidence": [
+        "\"Tired of all the smut and violence? Well, here's a movie for you romantic comedy lovers.\"",
+        "\"This has to be one of the best and well researched documentaries on the subject of the Civil War that I've ever seen.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story line is slow, the parts are unrealistic.\"",
+        "\"The story really sucks!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The pace of the movie is terribly slow.\"",
+        "\"Award for one of most boring, slowest, pointless movies I've ever seen in 73 years.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Acting was superb. Direction and production, terrific.\"",
+        "\"Great acting. Great story line. Great message. Artful. Sensitive.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I'm a Liam Neeson fan and I felt embarrassed for him in this movie.\"",
+        "\"I could only take about 15 minutes of it.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The special effects were top notch, too!\"",
+        "\"Beautiful HD video from ISS.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Watching this movie was like swimming in glue.\"",
+        "\"Adults acting extremely immature, self-centered, with vulgarity after vulgarity.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for historical and drama genres, particularly enjoying well-acted and high-quality productions. However, they tend to dislike slow-paced narratives and complex storylines, often finding them unenjoyable."
+}

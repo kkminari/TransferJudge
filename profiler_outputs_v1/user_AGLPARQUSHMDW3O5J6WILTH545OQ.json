@@ -1,0 +1,77 @@
+{
+  "user_id": "AGLPARQUSHMDW3O5J6WILTH545OQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's educational",
+      "evidence": [
+        "\"Bubbles Guppies is such a great show. Each episode focuses on a different topic and teaches children...\"",
+        "\"Wild Kratts is such a great show for kids!! It's educational and funny...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The songs are catchy and educational and the characters are funny and lovable.\"",
+        "\"Great show for kids!!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The characters are adorable!\"",
+        "\"...the kids will love it. :)\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"We like it so much we buy the season pass...\"",
+        "\"Awesome show, my kids LOVE it and have learned...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Bubble Guppies, Wild Kratts",
+      "evidence": [
+        "\"We love Bubble Guppies and have since the show first came out.\"",
+        "\"My 5 year old daughter loves Wild Kratts!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "musical and visual",
+      "evidence": [
+        "\"...we enjoyed all the songs and had to download the soundtrack immediately.\"",
+        "\"The songs they sing are cute.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...my daughters, 5 and 7, loved this movie.\"",
+        "\"...my kids LOVE it and have learned so much...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for children's educational content, particularly shows that are engaging and musical. They value simple narratives that are fast-paced and resonate emotionally with their children, showing a clear loyalty to specific children's shows."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGWQZVV4MMJPSSV5MZUMZXKVGUWA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family, action",
+      "evidence": [
+        "I have always liked Borgnine, but this looks to be a made for t.v. flick, and the production is not of the quality of a full length film.",
+        "I love this picture because of the trains, the scenery and the music."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "this is a made for t.v. flick, and the production is not of the quality of a full length film.",
+        "It is family approved, so language, and action are all very mellow."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "if you want a movie that ends happy and positive, this isn't it.",
+        "I have watched both of these films for the first and last time. In spite of the good acting and music etc. they are just too damn depressing."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the production is not of the quality of a full length film.",
+        "great acting, and super cinematography, in a very lovely setting."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I like Robert Carlyle since seeing him in Full Monty.",
+        "I fell in love with Tcheky Karyo and already liked Jean Reno."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "you feel for all the parties involved in this tale.",
+        "the joy of owning it, is you can take it all in small doses, and absorb these wonders of man in all their glory."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I do appreciate what he was trying to do, but the brutality was just too over the top for my taste.",
+        "if you want a movie that ends happy and positive, this isn't it."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and family-oriented films, often appreciating strong acting and cinematography. They prefer slower-paced narratives and show a high sensitivity to production quality, while expressing mixed feelings towards emotional engagement and brand loyalty."
+}

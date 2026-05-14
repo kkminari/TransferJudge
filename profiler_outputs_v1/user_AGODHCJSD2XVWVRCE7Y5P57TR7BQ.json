@@ -1,0 +1,74 @@
+{
+  "user_id": "AGODHCJSD2XVWVRCE7Y5P57TR7BQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, thriller",
+      "evidence": [
+        "\"This film evokes our sympathy as well as our disgust but the veracity of it leaves us informed.\"",
+        "\"I adore world cinema as it concentrates so much more on the characters than on the 20 minute car chases and 20 million dollar effects.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The twists in it are amazing and the story develops in such a way that it draws you into it...\"",
+        "\"Another chance to get under the mysterious skin of a guy involved in this strata of life.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I adore world cinema as it concentrates so much more on the characters than on the 20 minute car chases...\"",
+        "\"The dynamics between the characters is beautifully handled and make their relationships totally believable.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is top notch and ones sympathies are drawn all over the place.\"",
+        "\"Hauntingly filmed, this film is like a moving work of art.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The camera can turn the most ordinary surroundings into magic.\"",
+        "\"The treatment of the characters as mere pawns is frightening.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This film gives another insight into this most fascinating of serial killers.\"",
+        "\"The power of society is such that it forces people into living a lie which produces anxiety and anguish.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex dramas and thrillers that emphasize character development and emotional depth. They appreciate high production quality and are drawn to films that evoke strong feelings and insights into human nature."
+}

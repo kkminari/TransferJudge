@@ -1,0 +1,74 @@
+{
+  "user_id": "AH7NP4ORR6ICJNO2ZVDLNXDR6M4A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, action",
+      "evidence": [
+        "I enjoyed these Dorothy L. Sayers mysteries.",
+        "I love the action scenes and also the interaction between Scarecrow and Mrs. King."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "The stories are involved and take a lot of concentration to understand, however, they are very engrossing."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "I love the action scenes and also the interaction between Scarecrow and Mrs. King."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "It was okay, not bad not excellent.",
+        "I did not care for the series."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I enjoyed these Dorothy L. Sayers mysteries."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "I enjoyed both of the movies. They were in color.",
+        "I love the action scenes."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I really enjoyed seeing this series.",
+        "The stories were intense and interesting."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex and engrossing stories, particularly in the mystery and action genres. They appreciate visual spectacle and emotional engagement, often favoring fast-paced narratives. While they show some loyalty to specific series, their sensitivity to production quality appears to be low."
+}

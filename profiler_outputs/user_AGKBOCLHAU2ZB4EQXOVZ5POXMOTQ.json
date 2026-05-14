@@ -1,0 +1,77 @@
+{
+  "user_id": "AGKBOCLHAU2ZB4EQXOVZ5POXMOTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, action, comedy, adventure, sci-fi",
+      "evidence": [
+        "\"The volatile life in the kitchen is fraught with high stress and drama\"",
+        "\"About Time is not only an absolutely charming premise but a completely endearing love story\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story line believable\"",
+        "\"It's a quiet movie with beautiful scenery and has an interesting story line\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This was an 'edge-of-your-seat' film from start to finish\"",
+        "\"The action never lets up as a family tries desperately to stay alive\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the direction, acting, cinematography quality\"",
+        "\"the film itself is pristine and clear with no glitches or pops\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Superb actors Judi Dench, Maggie Smith, Bill Nighy, and Tom Wilkinson\"",
+        "\"I haven't seen Pierce in something this good in a long long time\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"the scenery is gorgeous, the storyline completely heartwarming and delightful\"",
+        "\"the color and digital mastering making it even more beautiful and stunning to watch\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"You'll laugh, you'll cry and you'll still come away feeling good\"",
+        "\"This is a storyline that could very well have been taken from historical accounts. The images are lasting.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly drama and romance, and prefers fast-paced narratives with high production quality. They appreciate emotional depth in storytelling and are drawn to films with beautiful visuals and strong performances."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AH4ADTYUDJ4WDKLSHZZIAMNEWUKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animated, comedy, action-adventure, family",
+      "evidence": [
+        "Great Scooby Doo movie.",
+        "Hotel Transylvania 2 is a good, funny animated sequel."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great action and adventure movie. It will make you hold on to the end of your seat.",
+        "Shaun the sheep movie is a good animated comedy with very little dialogue."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Great action and adventure movie. It will make you hold on to the end of your seat.",
+        "Great super hero movie of Batman & Superman."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great movie based on a true story.",
+        "Great Scooby Doo movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Scooby-Doo, Tim Burton",
+      "evidence": [
+        "This is a great Tim Burton movie.",
+        "Great Scooby Doo movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "Great action-adventure movie.",
+        "Hotel Transylvania 2 is a good, funny animated sequel."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Great movie based on a true story.",
+        "Great Scooby Doo movie."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys animated and family-friendly films, particularly those that are humorous and fast-paced. They show a preference for simple narratives and have a fondness for specific franchises like Scooby-Doo and works by Tim Burton."
+}

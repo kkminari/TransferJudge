@@ -1,0 +1,89 @@
+{
+  "user_id": "AG3YITCA643QNQZLRDJMHZJRLK7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, animation",
+      "evidence": [
+        "\"I think very young children (toddlers) would probably enjoy this movie...\"",
+        "\"A great Christmas comedy for the whole family to enjoy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot was too predictable and kind of boring, in my opinion.\"",
+        "\"I ended up fast-forwarding through most of it just to know how it ended.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This movie was so boring and slowly paced that I did not finish watching it.\"",
+        "\"I ended up fast-forwarding through most of it just to know how it ended.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I think very young children (toddlers) would probably enjoy this movie, but I was bored to tears.\"",
+        "\"I would have rated it 1 star. HOWEVER, it does have a couple of redeeming qualities...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"My favorite Indiana Jones movie ever.\"",
+        "\"I loved this movie so much as a kid.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual appeal",
+      "evidence": [
+        "\"The animation is beautiful and sometimes even lifelike.\"",
+        "\"I really liked the unique black and white style of stop motion animation.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I hated this movie so much that I never finished watching it.\"",
+        "\"I would not recommend this movie to anyone unless you want to risk dying of boredom.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "low",
+      "evidence": [
+        "\"The parts that were supposed to be funny, I didn't find funny at all.\"",
+        "\"I chuckled throughout from start to finish.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user has a strong preference for family-friendly and animated films, often finding them entertaining. However, they express significant dissatisfaction with slow pacing and predictable narratives, indicating a low tolerance for complexity and emotional engagement in their viewing experience."
+}

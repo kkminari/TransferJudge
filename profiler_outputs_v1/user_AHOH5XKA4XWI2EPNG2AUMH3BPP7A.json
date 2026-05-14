@@ -1,0 +1,74 @@
+{
+  "user_id": "AHOH5XKA4XWI2EPNG2AUMH3BPP7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, comedy, drama",
+      "evidence": [
+        "\"One of the best horror movies of all time\"",
+        "\"Funny, british humor\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Stupid storyline that just drags and drags\"",
+        "\"DIALOGUE SO DUMB\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Stupid storyline that just drags and drags\"",
+        "\"Non dimensional characters, there's nothing to them\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"terrible story line\"",
+        "\"BAD BAD BAD ACTING\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"You really feel for this girl\"",
+        "\"Everytime you watch this movie you get a different take away from it\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"You really feel for this girl\"",
+        "\"brought tears\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys horror and comedy genres, often appreciating films that evoke strong emotions. They tend to prefer straightforward narratives and are sensitive to pacing, often criticizing slow or poorly executed storylines."
+}

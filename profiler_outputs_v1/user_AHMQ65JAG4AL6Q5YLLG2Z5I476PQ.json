@@ -1,0 +1,77 @@
+{
+  "user_id": "AHMQ65JAG4AL6Q5YLLG2Z5I476PQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy",
+      "evidence": [
+        "Good movie for kids of all ages",
+        "Great series for little kids, my two boys love this series."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The story and animation really held their attention.",
+        "Good story telling"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "the film sort of plateaued at around a quarter or a third of the way in.",
+        "It's actually entertaining for adults too, the first 50 times that you see it."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Good video",
+        "I was really happy with it. It's a really good story and has lots of humor."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I bought this because I like Dave Grohl.",
+        "My wife loves this series of movies"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "the story and animation really held their attention.",
+        "Good movie, my boys love Thomas and they watch this over and over."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "It was just OK.",
+        "Not terribly funny"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for family-friendly and comedic content, particularly those that engage children. They appreciate simple storytelling and visual elements but are less concerned with production quality and emotional depth."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGGRYWWUGRF7EPAH2H6XFXHRPRZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "supernatural, drama, action, horror",
+      "evidence": [
+        "\"Compelling supernatural drama\"",
+        "\"Outstanding slasher flick from the Soska Sisters\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The storyline is compelling\"",
+        "\"It is action packed and well made\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"action packed and well made\"",
+        "\"superhero action & humor\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the cinematography, wow!\"",
+        "\"the staging of this concert is absolutely beautiful\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Soska Sisters, Star Trek",
+      "evidence": [
+        "\"I am a huge fan of the Soska Sisters and their work\"",
+        "\"The most underrated Star Trek series in my opinion\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"the tension and fear inspired by the imagery is quite remarkable\"",
+        "\"the depth of the characters, the cinematography, wow!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"brought tears\"",
+        "\"I absolutely love this show\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for supernatural and action genres, particularly enjoying well-crafted narratives with high production quality. They exhibit brand loyalty to creators like the Soska Sisters and appreciate emotional depth in their viewing experiences."
+}

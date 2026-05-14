@@ -1,0 +1,77 @@
+{
+  "user_id": "AE6CIJHUO334AESW4H34WLRGDOFQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "I usually enjoy a Hallmark type movie from time to time but this was just horrible.",
+        "The acting were quite good, but the story was just completely depressing."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The story just collapses. It had such potential.",
+        "Just really stupid."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Really slow, predictable, violent, depressing and dull.",
+        "Just too psychological and depressing."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Just okay. The story just collapses.",
+        "The acting, writing and the dialogue in general was just terrible."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I love Mary Higgins Clark's books but this just didn't make sense.",
+        "Great actors but left feeling like the director and writer just ran out of ideas."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "It was really, really bad.",
+        "Just okay, really. Kind of flat and not really done all that well."
+      ],
+      "confidence": 0.4,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "The story was just completely depressing.",
+        "Just really stupid."
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for simple narratives and slow pacing, often expressing disappointment in stories that feel underdeveloped or depressing. They have mixed feelings about genres, with a notable dislike for films that lack emotional engagement or quality."
+}

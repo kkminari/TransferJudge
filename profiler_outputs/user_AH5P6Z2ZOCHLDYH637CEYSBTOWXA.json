@@ -1,0 +1,77 @@
+{
+  "user_id": "AH5P6Z2ZOCHLDYH637CEYSBTOWXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, drama",
+      "evidence": [
+        "Great rendition of a wonderful story, our family enjoyed this very much.",
+        "This story inspired my daughter to become a nurse."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "We thought each actor did a superb job in their part, and made this our very favorite Cinderella story!",
+        "A true story about a father finding a cure for his son when all else fails...a really great movie."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I love the way he acknowledges when he 'hurts her,' without defensiveness, without argument.",
+        "This is the kind of story every American needs to know about, in order that it NEVER happen again."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Jodie Foster, Anthony Hopkins and Ted Levine (Monk) do a superb job of making this movie creepy.",
+        "Holly Hunter and John Goodman at their best."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "Meryl Streep does an excellent job, of course.",
+        "Susan Sarandon and Nick Nolte are sublime."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "It's a great way to introduce a child to great music without them even realizing it!",
+        "This story inspired my daughter to become a nurse."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "A true story about a father finding a cure for his son when all else fails...a really great movie.",
+        "This story inspired my daughter to become a nurse."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly dramas with simple narratives and a strong emotional impact. They appreciate high production quality and have a fondness for notable actors, indicating a preference for engaging and meaningful stories."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGINKZPXUD4TQ33ARYHQROSHYDKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, family, sports",
+      "evidence": [
+        "\"Really like most Tom Hanks movies so I rented this one when it became available.\"",
+        "\"Love Baseball Movies\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Excellent movie with a great story and wonderfully awesome actors and actress.\"",
+        "\"Really liked this movie and added it to my collection.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"To really get into a show I like to start from the beginning so I can truly follow along the story line.\"",
+        "\"I hoped it would improve, but it didn't and I turned it off.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent movie and I liked it so much I added it to my collection.\"",
+        "\"I like Matthew Goode. Would have preferred a better description upfront warning about the nudity and cursing.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Tom Hanks, Liam Neeson, Benedict Cumberbatch",
+      "evidence": [
+        "\"I really like Liam Neeson and knew the story was similar to him and his son.\"",
+        "\"I really like Benedict Cumberbatch so I rented it when it was first available.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual storytelling",
+      "evidence": [
+        "\"Looked like a good movie and it was.\"",
+        "\"Really enjoy the interaction between the characters.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I have loved this movie for a great many years.\"",
+        "\"The movie was really good and I added it to my collection.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and family-oriented films, often valuing emotional resonance and quality storytelling. They show loyalty to specific actors and enjoy visual storytelling, indicating a taste for engaging narratives that evoke feelings."
+}

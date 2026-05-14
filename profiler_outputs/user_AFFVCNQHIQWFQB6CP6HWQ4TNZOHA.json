@@ -1,0 +1,76 @@
+{
+  "user_id": "AFFVCNQHIQWFQB6CP6HWQ4TNZOHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, documentary",
+      "evidence": [
+        "\"this movie is so freak'n funny\"",
+        "\"such a great movie for kids\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"this is a great & witty series. must watch\"",
+        "\"love love love this movie. It's a must see.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"this movie is so freak'n funny\"",
+        "\"love love love this series!!!!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"love it\"",
+        "\"i love this show\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Kevin Hart",
+      "evidence": [
+        "\"love me some Kevin Hart. This movie is funny. A must see.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"this is a great & witty series. must watch\"",
+        "\"love love love this movie. It's a must see.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"What a wonderful talent gone to waste. Money & greed is all the father wanted.\"",
+        "\"It's a must watch. Highly recommend this documentary.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and family-oriented content, often enjoying fast-paced and simple narratives. They show loyalty to Kevin Hart and appreciate emotional resonance in their viewing experiences."
+}

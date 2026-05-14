@@ -1,0 +1,76 @@
+{
+  "user_id": "AHPPRBZBKU6BHX66U2XNMR2UVSGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, drama, crime, noir",
+      "evidence": [
+        "\"Intricate, suspenseful and full of twists and turns.\"",
+        "\"Bosch has been such an amazing ride with intricate story telling with noir feel of old Hollywood scripting to modern day crime.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Intricate, suspenseful and full of twists and turns.\"",
+        "\"It was very odd, unpredictable and even absurd but thoroughly enjoyable.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"This could have been told in 3 or four episodes.\"",
+        "\"It felt rushed and predictable.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The acting is stellar, but... there is so much gratuitous trauma and violence that the story is lost in all the visceral muck.\"",
+        "\"Granted the budget was $5k, the acting was solid...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I really enjoy James May's shows and this is one of his best.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Life is beautiful; sometimes it takes everything unraveling to figure out our purpose here.\"",
+        "\"Redemption takes 40 years for a man imprisoned in guilt and remorse.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"You need to stick with this little understated film. Life is beautiful; sometimes it takes everything unraveling to figure out our purpose here.\"",
+        "\"It was very odd, unpredictable and even absurd but thoroughly enjoyable.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys intricate and suspenseful narratives, particularly in the thriller and crime genres. They appreciate complex storytelling and emotional depth, though they have mixed feelings about pacing and production quality."
+}

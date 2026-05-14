@@ -1,0 +1,77 @@
+{
+  "user_id": "AFITYE5KVL75QJDR7DVQVGIFUG5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, music",
+      "evidence": [
+        "me and my grandson have the whole collection hopefully will be more he LOVES THE ROCK",
+        "I LOVE PRINCE"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Love this movie",
+        "OMG! SO AWESOME!!! I love watching it"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "LOVE IT! Trying to collect them all. LOL 😆 lots of them.",
+        "OMG! SO AWESOME!!! I love watching it"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Not as good as we thought it was going to be",
+        "OMG LOVE it not as good as the first but isn't that how it goes."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "The Rock, Prince, Willie Nelson",
+      "evidence": [
+        "he LOVES THE ROCK",
+        "I LOVE PRINCE"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, music",
+      "evidence": [
+        "LOVE it. Much cheaper than the one on PBS.",
+        "I show my grandson different creatures and that they are not real."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Love him and it",
+        "GRANDSON LOVED IT"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly and comedic content, often enjoying movies and music that resonate emotionally, especially with their grandson. They show loyalty to specific entertainers like The Rock and Prince, and while they appreciate entertainment, they are less concerned with production quality."
+}

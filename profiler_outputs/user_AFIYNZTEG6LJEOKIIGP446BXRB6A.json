@@ -1,0 +1,77 @@
+{
+  "user_id": "AFIYNZTEG6LJEOKIIGP446BXRB6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, crime, psychological thriller",
+      "evidence": [
+        "\"Under The Cherry Moon was just fun. Visually beautiful.\"",
+        "\"The show is different than most crime series. It gets into the psychological minds of criminals & reveals the physical signs of their lies.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"I found NWA's rise to fame intriguing. They literally clawed their way from poverty to fame.\"",
+        "\"The movie has come out with 2 different endings which drastically change the movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It was painful to watch people lose their homes. So realistic & cruel.\"",
+        "\"I laughed in spite of the movie's goofiness.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I'll watch anything Andrew's in to appreciate his rare talent.\"",
+        "\"Brie stripped of make-up & glamour, deserved the Oscar win.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"I've been an admirer of Andrew Garfield since I watched his mesmerizing performance in Boy A.\"",
+        "\"Tim Roth is funny & charismatic. I enjoy the show because of him.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It was heartbreaking, suspenseful, angered me.\"",
+        "\"The most disturbing dark 'scary' movie I ever watched. Horrific, cruel & claustrophobic in a low key way.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I'm still grieving over Price's death 2 months later.\"",
+        "\"It was heartbreaking, suspenseful, angered me.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama, comedy, and psychological thrillers, often appreciating strong performances and emotional depth. They show a preference for high-quality production and are particularly loyal to specific actors like Andrew Garfield and Tim Roth. Their reviews indicate a sensitivity to emotional impact, often resonating with heartfelt and intense narratives."
+}

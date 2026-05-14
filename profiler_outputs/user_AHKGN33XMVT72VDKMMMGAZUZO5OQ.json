@@ -1,0 +1,74 @@
+{
+  "user_id": "AHKGN33XMVT72VDKMMMGAZUZO5OQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama",
+      "evidence": [
+        "\"great story lines, super action, and wonderful acting\"",
+        "\"great acting, writing, story lines, and enough 'juice' between characters to keep me interested!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"fun one with great acting\"",
+        "\"always fun\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"slow and a bit weird\"",
+        "\"kept me interested\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"well written and superbly acted; very insightful coverage of a variety of issues people seek counseling for\"",
+        "\"great plot, actors, plotline, and action\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"great acting, writing, story lines, and enough 'juice' between characters to keep me interested!\"",
+        "\"incredible writing, acting (and nice to look at too!)\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"somehow just a little less enticing than the first season\"",
+        "\"the f bombs get old\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and drama genres, appreciating well-written and acted content. They have mixed feelings about pacing and narrative complexity, indicating a preference for engaging stories that are not overly complex."
+}

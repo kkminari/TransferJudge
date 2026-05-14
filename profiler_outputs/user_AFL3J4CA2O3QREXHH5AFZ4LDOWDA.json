@@ -1,0 +1,77 @@
+{
+  "user_id": "AFL3J4CA2O3QREXHH5AFZ4LDOWDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's programming, fantasy",
+      "evidence": [
+        "Kids love the show and all the movies.",
+        "Son loves Wild Kratts! He loves this DVD."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "the movie lacked a story line to make the movie very good",
+        "This is for a much older kids or teens."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "A little too much for my son who is only 6. This is for a much older kids or teens.",
+        "I was looking forward to this DVD, but was disappointed, because it had too many episodes on it that we already have."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "This is a great film for people to watch.",
+        "A good DVD for your kids to have, in their movie collection."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Wild Kratts, Underworld",
+      "evidence": [
+        "I like all the Underworld films from the first one to the last one.",
+        "Just like all the other Wild Kratts I loved it."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Kids love the show and all the movies.",
+        "He wacth's it all the time."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "A little too much for my son who is only 6.",
+        "I was looking forward to this DVD, but was disappointed."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for children's programming, particularly enjoying series like Wild Kratts and the Underworld films. They tend to favor simple narratives and have a low sensitivity to production quality, focusing more on entertainment value for their kids."
+}

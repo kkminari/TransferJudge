@@ -1,0 +1,77 @@
+{
+  "user_id": "AFUZCRJDYP5RGT4SUBTE3M6FGPMQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "western, military, drama",
+      "evidence": [
+        "\"One of best Westerns I've seen; makes John Wayne's westerns look like comedies.\"",
+        "\"Great action with great insights to the trials and tribulations of the military family.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Not the greatest western ever produced; still entertaining.\"",
+        "\"Too predictable.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"We normally watch two episodes per night - we have had to watch a couple of episodes twice mainly because we missed something in those episodes.\"",
+        "\"Had to sacrifice sleep time so we watch the series -- great series, tough language; but don't let that stop you.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great series - I don't know any of the actors -- but who cares; they're great.\"",
+        "\"The portrayal of the town is exactly how I would picture an old mining town in the late 1880's.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I don't know any of the actors -- but who cares; they're great.\"",
+        "\"I had preconceived thoughts about this series; i.e. John Wayne typical movie -- I was wrong!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Great action with great insights to the trials and tribulations of the military family.\"",
+        "\"The portrayal of the town is exactly how I would picture an old mining town in the late 1880's.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I highly recommend this to all, especially our young - they can actually visualize what their Great-Great Grandparents went through in the name of freedom.\"",
+        "\"CAUTION: keep the children out of the room while watching.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys westerns and military dramas, appreciating strong narratives and visual storytelling. They show a preference for slower pacing and high production quality, while their brand loyalty to specific creators is low. Emotional resonance is significant in their viewing experience, indicating a desire for impactful stories."
+}

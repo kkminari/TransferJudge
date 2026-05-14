@@ -1,0 +1,77 @@
+{
+  "user_id": "AFPJB7TUNW7K34BBXHP2H3ST3LTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"This was extremely good movie and FUNNY!!!\"",
+        "\"What an amazing stand up Comedy!!!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"If you just want to kill time then yes watch it but if you looking for a good movie, pass on this mess.\"",
+        "\"The worst EVER! I am not sure if it is his new life with his new wife because he don't have a story or fun things to tell.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The ending will have you on your feet screaming and clapping!!! Must see.\"",
+        "\"This was an Awesome Awesome Movie!!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Tyler Perry either write good movies or bad movies. And this movie was a no-go.\"",
+        "\"This was just awful! It seem like the stand up was edited the laughing sounded so fake from the audience.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have mad respect for Mo'Nique for her to do this stand up comedy for women in prison that's really humble of her.\"",
+        "\"I usually don't like action movies on family nite but I just had to order this one and I am a fan of this character so it was worth seeing!!!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This was an awesome movie and very funny!\"",
+        "\"What a wonderful movie hands down!!!!! The story was awesome!!!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie is AMAZING!! The ending will have you on your feet screaming and clapping!!! Must see.\"",
+        "\"I am glad I did not listen to the bad reviews. Just watch it you will enjoy it!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedy and drama, favoring fast-paced narratives that evoke strong emotional responses. They show a low sensitivity to production quality and have mixed feelings about specific creators, indicating a preference for engaging stories over technical polish."
+}

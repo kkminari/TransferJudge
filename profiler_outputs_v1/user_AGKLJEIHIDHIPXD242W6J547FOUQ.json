@@ -1,0 +1,89 @@
+{
+  "user_id": "AGKLJEIHIDHIPXD242W6J547FOUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, classic",
+      "evidence": [
+        "\"The laughs keep on coming. What a brilliant series.\"",
+        "\"This movie is a classic in old movies.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "medium",
+      "evidence": [
+        "\"...the layers weaved within the society and history of the world...\"",
+        "\"...some of the plots were reused...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Buy this for a fast action packed movie, and enjoy.\"",
+        "\"Easy to Binge watch this series!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"acting excellent!\"",
+        "\"Quality video and sound.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Marvel Studio's knows how to make the action picture...\"",
+        "\"Earl Stanley Gardner was a masterful writer.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"It is filmed for 3D effects, but the colors are great...\"",
+        "\"Great effects, Marvel Studio's knows how to make the action picture...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I wanted to see a baseball great who could deal with an ongoing illness...\"",
+        "\"...brought tears...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "nostalgia_preference",
+      "value": "high",
+      "evidence": [
+        "\"Diver Dan goes below in the deep and hears the fish talk...\"",
+        "\"Iron man was one of the best as a kid, and this movie does it justice.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys a mix of comedy and classic films, with a preference for fast-paced narratives and high production quality. They appreciate visual spectacle and have a strong sense of nostalgia for shows and movies from their childhood."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AF6OUA4AXC5NRSS5QMVZSDX4FTVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, satire",
+      "evidence": [
+        "\"Violent social satire. Cinema had never attacked so sharply television and consumer society in general.\"",
+        "\"A slow and boring movie that has no equivalent in France than the Samurai of JP Melville.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"...a complex screenplay with a strong message extremely provocative!\"",
+        "\"...the only thing that keeps us from terrorist action is fear and disgust to be regarded as a character as ridiculous as Thaw.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"A slow and boring movie that has no equivalent in France than the Samurai of JP Melville.\"",
+        "\"...the end of the film seems also to be deliberately absurd and grotesque...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"A prestigious casting, a solid screenplay, this film appears to be the only worthy successor of Chaplin's silent movies.\"",
+        "\"...the music constantly raise us, like a drug that the viewer would administer to himself without rule nor reason.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"...the director Cronenberg reveals unfortunately gaps which were already in his style at the start...\"",
+        "\"...the only thing that keeps us from terrorist action is fear and disgust to be regarded as a character as ridiculous as Thaw.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"...the dialogues and acting of all the characters involved, all but the old crazy woman!\"",
+        "\"...the music constantly raise us, like a drug that the viewer would administer to himself without rule nor reason.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...the only thing that keeps us from terrorist action is fear and disgust to be regarded as a character as ridiculous as Thaw.\"",
+        "\"...the end lacks a bit of real pathos; our lapdog will simply be shot down.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for complex dramas and social satires, often appreciating intricate narratives and high production quality. They tend to favor slower pacing, indicating a preference for character-driven stories, while also valuing emotional depth and resonance in the content they consume."
+}

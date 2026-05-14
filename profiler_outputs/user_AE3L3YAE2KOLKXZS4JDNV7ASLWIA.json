@@ -1,0 +1,70 @@
+{
+  "user_id": "AE3L3YAE2KOLKXZS4JDNV7ASLWIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "unknown",
+      "evidence": [
+        "No specific genres mentioned."
+      ],
+      "confidence": 0.1,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "narrative_complexity": {
+      "value": "unknown",
+      "evidence": [
+        "No comments on narrative complexity."
+      ],
+      "confidence": 0.1,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "unknown",
+      "evidence": [
+        "No comments on pacing."
+      ],
+      "confidence": 0.1,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "unknown",
+      "evidence": [
+        "No comments on production quality."
+      ],
+      "confidence": 0.1,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "unknown",
+      "evidence": [
+        "No mentions of specific creators."
+      ],
+      "confidence": 0.1,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "unknown",
+      "evidence": [
+        "No comments on sensory experience."
+      ],
+      "confidence": 0.1,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "unknown",
+      "evidence": [
+        "No comments on emotional impact."
+      ],
+      "confidence": 0.1,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user's reviews indicate a lack of specific preferences or insights into their taste in movies and TV. All reviews are positive but do not provide any detailed feedback on genres, narrative complexity, or emotional engagement."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AE6ZTKLWYJDUDJB3CF6N2N6P4TPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, thriller",
+      "evidence": [
+        "\"An awful mini series about an evil family!\"",
+        "\"I have no idea how this movie became a 'suspense thriller'.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"each episode has a twist that makes you want to move to the next episode immediately.\"",
+        "\"Twists and turns in every episode.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"each episode has a twist that makes you want to move to the next episode immediately.\"",
+        "\"Great entertainment. Lots of twists and turns.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I could not stand the first wife... the acting was excellent.\"",
+        "\"I don't have to worry about watching with my teen daughter that there is gonna be a sex scene every ten minutes...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If you like the 'Moto' series movies you'll like this.\"",
+        "\"Just like the previous 6 movies, If you liked them you'll like this one.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Great show to escape the day to day grind and just be entertained.\"",
+        "\"Great Story, Who'da thought....\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I cringe at the story line!\"",
+        "\"I was so glad that I decided to check out the trailer.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for complex narratives with fast pacing, particularly enjoying twists and turns in storytelling. They have mixed feelings about production quality and emotional engagement, indicating a focus on entertainment value over deeper emotional connections."
+}

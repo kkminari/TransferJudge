@@ -1,0 +1,77 @@
+{
+  "user_id": "AHMDADVQMHVARMZMGQSEVNH27C5A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action, comedy, thriller, war",
+      "evidence": [
+        "\"One of the best sci-fi films of all time.\"",
+        "\"Unrealistic action movie, but enjoyable because...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"This movie has no character development but instead it puts you in the astronaut's shoes...\"",
+        "\"You can watch it once and forget about it but I think the director did not mean it to be taken in the literal way.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Rented this from Redbox and did not pause the movie at all. This was an excellent movie, well paced...\"",
+        "\"Switch the logical part of your brain off and enjoy this unrealistic, fantastic action movie...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The bluray quality is very good with excellent picture and sound.\"",
+        "\"Every time I watch it, you can see the level of perfection they put into this movie.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I feel sorry for those who missed out on the theater experience of BR2049.\"",
+        "\"I am so glad to be born and living in the era of Pixar and their wonderful work...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"For me, this is the movie of the decade... it is a feast for your senses...\"",
+        "\"I have surround sound headphones so the experience was exhilarating.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The 'home' scene always brings tears to my eyes.\"",
+        "\"This movie was designed for the theaters... a work of art.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi, action, and thrillers, often appreciating high production quality and sensory experiences. They enjoy fast-paced narratives that evoke strong emotional responses, while showing mixed feelings towards narrative complexity and brand loyalty."
+}

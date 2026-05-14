@@ -1,0 +1,88 @@
+{
+  "user_id": "AEWCEKR2XBGH5XKGJXHKEDRMYJTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary",
+      "evidence": [
+        "'Great documentary.'",
+        "'Lovely, sweet movie'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'The supposed plot twist was predictable.'",
+        "'The story felt very detached.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "'Film is a bit too long.'",
+        "'I was especially touched by the work he did at the camp with the handicap children.'"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "'Great acting, but the supposed plot twist was predictable.'",
+        "'I was annoyed by the book, but I'm even more annoyed that people found it so fantastic.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "'I would have liked to know how he truly felt on the inside.'",
+        "'It was all about him proving that he was "
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'The young boy asking if he had a daddy was heartbreaking.'",
+        "'I was especially touched by the work he did at the camp with the handicap children.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "moral_preference",
+      "value": "strongly moralistic",
+      "evidence": [
+        "'It's horrific how many babies are murdered by doctors and their own mother's. Pure evil.'",
+        "'I think they need prayers and spiritual help.'"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user shows a preference for drama and documentary genres, often expressing a strong moral viewpoint. They favor emotionally resonant content but tend to dislike complex narratives and slow pacing, indicating a desire for straightforward storytelling."
+}

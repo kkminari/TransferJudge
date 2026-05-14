@@ -1,0 +1,76 @@
+{
+  "user_id": "AEL5XWF34ESTUBV2KPZOFIWY7JJQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, disaster",
+      "evidence": [
+        "\"I'm a sci fi and disaster movie junkie and this one fits the bill.\"",
+        "\"I love disaster movies and love this one.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good acting and special effects but nothing out of the ordinary.\"",
+        "\"Had no idea what went on beyond the media hype, very very informative.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great Christmas movie. Tugs at your heartstrings.\"",
+        "\"Super great movie. Fast shipping.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Good acting and special effects but nothing out of the ordinary.\"",
+        "\"Great product. I reviewed it earlier and gave it a poor rating THIS WAS A MISTAKE.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Lacey Chabert",
+      "evidence": [
+        "\"Lacey Chabert is my favorite Hallmark actress.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Good acting and special effects but nothing out of the ordinary.\"",
+        "\"The backdrop of Vail is stunning.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Great Christmas movie. Tugs at your heartstrings.\"",
+        "\"Loved this movie on the Hallmark channel and I wanted my own DVD.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and disaster movies, often enjoying simple narratives with high emotional resonance. They show loyalty to specific actors like Lacey Chabert and appreciate high production quality, particularly in terms of acting and special effects."
+}

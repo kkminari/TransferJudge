@@ -1,0 +1,77 @@
+{
+  "user_id": "AHJAUZERHCJTSWILI5JW2VTOKIVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, historical, animation",
+      "evidence": [
+        "\"I enjoyed this program and I am starting to like Jim Carrey a lot more listening to him.\"",
+        "\"Good acting and I like the fact it is historical.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Cheesy, but a good message.\"",
+        "\"Little long, but overall okay.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"in some ways it is a little tedious, but to someone that is really into the development and evolution of devices used in war this may be right up there ally.\"",
+        "\"Little long, but overall okay.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I can understand why Jeremy had a difficult time watching, but it is still worth watching.\"",
+        "\"Cheesy, but a good message.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Jim Carrey, Brendan Cumberbatch",
+      "evidence": [
+        "\"I am starting to like Jim Carrey a lot more listening to him.\"",
+        "\"Brendan Cumberbatch. He's one of my favorite actors.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory enjoyment",
+      "evidence": [
+        "\"I like the fact that there is classical music featured during the show.\"",
+        "\"Great fun listening on there lives, and being such wonderful kids makes me very envious of them and there parents.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"this is an excellent example of a life as a persecuted Christian.\"",
+        "\"Love the pond and the characters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and historical content, often appreciating the performances of actors like Jim Carrey and Brendan Cumberbatch. They prefer simple narratives with a slower pace, focusing more on emotional resonance and sensory enjoyment rather than high production quality."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHKPWSGTVLETEIWVQXT3GZHYZQ4Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's, family",
+      "evidence": [
+        "\"My special needs son LOVES The Wiggles!\"",
+        "\"I love all things Cinderella\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"My special needs son LOVES Elmo!\"",
+        "\"This TV show was funny at the time\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"My special needs son LOVES The Wiggles\"",
+        "\"My kids love this movie\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good info.\"",
+        "\"Sally Field is a very good actor even at a very young age\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "The Wiggles, Elmo, Cinderella",
+      "evidence": [
+        "\"My special needs son LOVES The Wiggles!\"",
+        "\"I love all things Cinderella\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory engagement",
+      "evidence": [
+        "\"My special needs son LOVES The Wiggles\"",
+        "\"Husband loves this TV show\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"My special needs son LOVES this movie\"",
+        "\"We are a Robin Williams fan household\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for children's and family-oriented content, particularly enjoying shows and movies that engage their special needs son. They favor simple narratives with a slow pacing, indicating a focus on emotional resonance and brand loyalty to specific characters and franchises."
+}

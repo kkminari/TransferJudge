@@ -1,0 +1,77 @@
+{
+  "user_id": "AELXTL2HMGSURD7NMJ3OJR3ICSLQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animation, superhero, fantasy",
+      "evidence": [
+        "\"Great deal for a classic piece of American animation.\"",
+        "\"Great take on the vampire mythos.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This was the story that re-introduces Supergirl into the DC mythos.\"",
+        "\"This dvd was great. It was as good as the graphic novel it was based on.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great stories. I have enjoyed this series as much as I enjoy the Justice League series.\"",
+        "\"If you like Superman or Batman movies, you will like this one.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The art work is as good as the original comic (and graphic novel version).\"",
+        "\"Thank you DC for being true to the source material.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "DC Comics",
+      "evidence": [
+        "\"Great job by DC to bring this to fans of comics and animation.\"",
+        "\"Once again DC has come out with a great collection of toons.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Both are very visual with vivid color and imagery.\"",
+        "\"Great art, great story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"the most beautiful Whale story that brought tears to my eye when I first saw it.\"",
+        "\"I hope DC continues to put these shorts in sets like this.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for animated superhero content, particularly from DC Comics, and appreciates high production quality. They enjoy fast-paced narratives with emotional resonance, often highlighting vivid visuals and storytelling that stays true to source material."
+}

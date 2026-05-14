@@ -1,0 +1,77 @@
+{
+  "user_id": "AEX3BNYS3TO46EI5PMUUMC4X5DKA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, drama, action, mystery",
+      "evidence": [
+        "I like Harry Potter films and it's even better with Amazon's good quality streaming.",
+        "I enjoy Gotham very much, mainly because of the characters."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "The film puts it all together beautifully, but those who care about it will want more.",
+        "This is wonderfully acted and very exciting... about many types of people involved in very complex situations."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Although the entire first half of season 2 was about one main character, it never got slow; certainly not boring.",
+        "But it's not true -- the 2nd half of the movie is the real thriller, and it flies by."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "I just saw this film in high definition with subtitles and the 'x-ray' commentary, and I feel these enhance the experience.",
+        "This is wonderfully acted and very exciting."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I enjoy Gotham very much, mainly because of the characters.",
+        "I like Harry Potter films and it's even better with Amazon's good quality streaming."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I missed Middle Earth... enjoyed it well enough.",
+        "The film puts it all together beautifully, but those who care about it will want more."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "The final scene of season one probably did not occur in the book... but it certainly expresses the horror of a town gone over to the dark side.",
+        "I just saw this film in high definition with subtitles and the 'x-ray' commentary, and I feel these enhance the experience."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex narratives and high-quality productions, particularly in the fantasy and drama genres. They appreciate strong character development and emotional depth, often favoring shows and films that provide a rich sensory experience."
+}

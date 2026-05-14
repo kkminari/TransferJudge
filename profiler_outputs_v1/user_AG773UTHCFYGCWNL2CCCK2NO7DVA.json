@@ -1,0 +1,77 @@
+{
+  "user_id": "AG773UTHCFYGCWNL2CCCK2NO7DVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "anime, sci-fi, action, drama, romance",
+      "evidence": [
+        "\"Kakushigoto is a fun series with humor and hidden tragedy...\"",
+        "\"A dystopian world is the back drop for an epic saga of struggle, pain, loss, death and hope.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"...the story gets of track and never really resolves.\"",
+        "\"...it can get downright disturbing in its nonchalant depiction of cheapness of life...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"...filled with non essential fluff that's silly...\"",
+        "\"...the pacing it to conform to a feature film time limit.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...the animation is very good as is the premise...\"",
+        "\"...the artwork is impressive, the characters develop into noble antagonists...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If you like My Hero Academia and Full Metal Alchemist Brotherhood, try this one...\"",
+        "\"...Weathering with You is from the writer/creator of Your Name...\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"...the music will stay in your head for weeks...\"",
+        "\"...the imaginative world building and plot lines that anime presents...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...you will shed a tear...\"",
+        "\"...it will remain with you for a long time...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of anime genres, particularly those with strong emotional narratives and high production quality. They appreciate imaginative storytelling and sensory experiences, though they have mixed feelings about pacing and narrative complexity in some series."
+}

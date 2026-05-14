@@ -1,0 +1,77 @@
+{
+  "user_id": "AGHHAIZE7JYH72NFY6EPVJBNAMJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "zombie, comedy",
+      "evidence": [
+        "\"Cant wait for #2, top fav zombie movie\"",
+        "\"Red Dwarf is my fav!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Works perfect online, can watch anywhere!\"",
+        "\"Like it alot, online viewing works perfect\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great fight scenes and a lil romance to boot\"",
+        "\"if you love zombies, and proper gentlemen, this movie is what you have been looking for!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Works perfect online, can watch anywhere!\"",
+        "\"Always loved this movie!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for Red Dwarf",
+      "evidence": [
+        "\"Red Dwarf is an all time fav from my teens, Love having them all available on Prime!\"",
+        "\"My favorite british comedy since my teens.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Great fight scenes and a lil romance to boot\"",
+        "\"if you love zombies, and proper gentlemen, this movie is what you have been looking for!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"It's a good sad story, though they do not show enough of what is troubling the world.\"",
+        "\"Works perfect online, can watch anywhere!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for zombie movies and British comedies, particularly enjoying the series Red Dwarf. They favor fast-paced narratives with simple storytelling and show low sensitivity to production quality, focusing more on entertainment value."
+}

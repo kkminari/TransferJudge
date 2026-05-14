@@ -1,0 +1,77 @@
+{
+  "user_id": "AHOZRXYY6RA6AXAZQD66DXDGIKWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, drama",
+      "evidence": [
+        "\"great family watch and so funny and charming\"",
+        "\"this was one of the sweetest movies ever\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"predicted the ending, but love it anyhow\"",
+        "\"cheesy but entertaining\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Good movie, but I feel asleep. Not sure why. It was slow.\"",
+        "\"fell asleep, twice...why?\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Poorly acted, even though I love a couple of the actors, it's just a really bad story.\"",
+        "\"cheesy but entertaining\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "General enjoyment of various movies without specific loyalty."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high on charm and sweetness",
+      "evidence": [
+        "\"this was enchanting and heartwarming\"",
+        "\"totally recommend it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"so sweet!\"",
+        "\"Dark, moving, hard to watch, engaging, loving.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented, charming movies with a focus on emotional resonance. They prefer simple narratives and slower pacing, often valuing entertainment over high production quality. While they show some enjoyment for various films, there is little evidence of loyalty to specific creators or franchises."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFITBQWJQB43Z5R7E6XJJ5XEGZQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, horror",
+      "evidence": [
+        "\"It reminds me of all the teen horror movies from the 90's. Love it!\"",
+        "\"Robin brings out a great performance as a Russian musician who defects to the USA. There is drama and comedy in this film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It has a good redemption story.\"",
+        "\"This is a interesting movie. Robin plays a more serious role.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It shows how comedy affects people who are battling illnesses.\"",
+        "\"This movie brings attention to an ongoing problem of homelessness and how the mentally ill are treated by society.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Robin is extraordinary in his portrayal of a Jewish man trying to lift the spirits of his friends in the Nazi occupied ghetto.\"",
+        "\"I think that this was one of Robin Williams best movie performances.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high to Robin Williams",
+      "evidence": [
+        "\"I love Robin Williams!\"",
+        "\"There will never be another Robin Williams and there will never be another Mork!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It is full of comedy, drama and a great story.\"",
+        "\"You will need tissue.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It will make you laugh and cry!!\"",
+        "\"This was a great tribute to Robin from his friends and co-stars.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and comedy, particularly enjoying the works of Robin Williams. They appreciate emotional narratives and high production quality, often resonating deeply with the content they consume."
+}

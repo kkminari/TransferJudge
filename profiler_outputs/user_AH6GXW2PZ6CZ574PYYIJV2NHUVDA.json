@@ -1,0 +1,77 @@
+{
+  "user_id": "AH6GXW2PZ6CZ574PYYIJV2NHUVDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, romance",
+      "evidence": [
+        "\"A very funny move that will make you think about your life.\"",
+        "\"The sweetest romance with a wonderful cast and great dialogue.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Plot is ridiculous and you don't care at all what happens to these characters.\"",
+        "\"The plot drags, the characters are not interesting.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The plot drags, the characters are not interesting.\"",
+        "\"By the middle of the movie I wanted to smack Kate Winslet, weak women drive me nuts.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Horrible movie, poorly acted, poorly shot.\"",
+        "\"The special effects are only average.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "No strong loyalty to directors or actors evident."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It is very moving to have the artists talk about the creative process.\"",
+        "\"I enjoy seeing the clothing and decor of the time.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A very funny move that will make you think about your life.\"",
+        "\"It is very moving to have the artists talk about the creative process.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and romantic films, often appreciating humor and memorable dialogue. They show a strong sensitivity to production quality and prefer straightforward narratives, indicating a taste for engaging yet uncomplicated storytelling."
+}

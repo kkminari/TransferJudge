@@ -1,0 +1,74 @@
+{
+  "user_id": "AF6OUA4AXC5NRSS5QMVZSDX4FTVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, satire",
+      "evidence": [
+        "\"Violent social satire. Cinema had never attacked so sharply television and consumer society in general.\"",
+        "\"The fall of Disney into sentimentalism.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Deep metaphysical fable, the Gladiator is perhaps Ferrara's most personal work.\"",
+        "\"A complex screenplay with a strong message extremely provocative!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"A slow and boring movie that has no equivalent in France than the Samurai of JP Melville.\"",
+        "\"The viewer must without any belief watch at the insipid cariere of a king who's fate is to be quickly overthrown.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Philosophically, we have a good laugh about anti-Semitic Schopenhauer and the Germans in general are caricatured.\"",
+        "\"The quality of the script and its unique atmosphere, this is a great tv show largely outperforming many theatrical releases.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric music",
+      "evidence": [
+        "\"The film is supported by an excellent soundtrack.\"",
+        "\"The music constantly raise us, like a drug that the viewer would administer to himself without rule nor reason.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The end lacks a bit of real pathos; our lapdog will simply be shot down.\"",
+        "\"It is true that in many cases the French dubbing gives something more to Anglo-Saxon films.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for complex dramas and satirical narratives, often appreciating high production quality and emotional depth. They tend to favor slower pacing, indicating a preference for character-driven stories, while their brand loyalty to specific creators is low."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFLE237S7G5YKZSSP7FIT7DNPEKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy, spy",
+      "evidence": [
+        "\"Great spy action movie. We liked it\"",
+        "\"funny and quirky\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good show want more seasons....\"",
+        "\"fun movie\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great Action. One of my favorites to watch over.\"",
+        "\"We want 100 plus episodes not just 8.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Good cinematography but wanted a Saving Private Ryan movie this is not it.\"",
+        "\"love the show.... we love spy movies and this show is very high quality TV.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Wife and I loved the series. Watched in two days.\"",
+        "\"Feels like a Bourne movie, really good\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"Just awesome, similar to blackhawk down\"",
+        "\"funny movie better than expected\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"kinda bad really wanted more. nothing really new to see.\"",
+        "\"Sad to say it was a let down.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and comedy genres, particularly favoring fast-paced narratives with a visual spectacle. They show a moderate sensitivity to quality but lack strong loyalty to specific creators, indicating a preference for entertaining content over deep emotional engagement."
+}

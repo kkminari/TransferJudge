@@ -1,0 +1,78 @@
+{
+  "user_id": "AHF5QHXC44QTW3CHFHHMPUKACYPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, thriller, police procedural, historical",
+      "evidence": [
+        "\"Enjoyable comedy of manners.\"",
+        "\"Very good police procedural, with great cast...\"",
+        "\"The sinking of the Titanic is one of the best-documented disasters in history...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The story is a bit complex but makes (nearly) complete sense...\"",
+        "\"The screenplay... departs from the book in some significant ways...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Has the problems of old movies... in its slow pacing...\"",
+        "\"I enjoyed the two seasons — especially season 1.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Every aspect of the show is perfect...\"",
+        "\"The production values are good, acting is good.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Wes Anderson, Julian Fellowes",
+      "evidence": [
+        "\"Been a fan of Wes Anderson since my wife and I first saw 'Bottle Rocket'...\"",
+        "\"Not Gosford Park but if you like Julian Fellowes, you'll like this.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The animation is brilliant...\"",
+        "\"The cinematography, etc. But I want to mention the music in particular.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...truly moving, at many points.\"",
+        "\"...genuinely moving and even to convey some wisdom.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama, comedy, and historical narratives, with a strong preference for high-quality production and emotional depth. They appreciate the works of specific creators like Wes Anderson and Julian Fellowes, indicating a loyalty to their styles and storytelling techniques."
+}

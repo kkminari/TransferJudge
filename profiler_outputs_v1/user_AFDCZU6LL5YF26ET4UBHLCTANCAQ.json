@@ -1,0 +1,75 @@
+{
+  "user_id": "AFDCZU6LL5YF26ET4UBHLCTANCAQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Great show. Funny.\"",
+        "\"Fantastic show. Great writing and great characters.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Beautiful in its simplicity and execution. Quirky great film.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"A little uneven but for a single location film very compelling.\"",
+        "\"Parts were great. Other parts were not.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great writing and great characters.\"",
+        "\"Absolutely fantastic!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Dug this. Having a filmmaker talk about his films is invaluable.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Well done. Suicide isn't a topic to treat lightly and Trier did not.\"",
+        "\"Great film!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Wonderful film. Excellent choice.\"",
+        "\"Fantastic! A must see in the genre!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys films and shows that are simple in narrative but emotionally resonant, often appreciating strong writing and character development. They have mixed feelings about genre preferences and pacing, indicating a varied taste in entertainment."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEIZFYVD3LXFRECEF267XMUMNGAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, animation",
+      "evidence": [
+        "\"Loved this clean and funny comedy special by a fresh, relatively new comedian.\"",
+        "\"One of the best animation pics ever. Love it.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I really hope he continues to grow his audience because I think he’s better than most of the so-called seasoned comics.\"",
+        "\"It's refreshing to listen to a comedian who doesn't have to use profanity every few words or so.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"He has material that’s not only hilarious, but fresh and clean enough to get the hilarity of the joke.\"",
+        "\"I liked this comedy special more than I like most of the other ones.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I must say, this comedy special was very entertaining (more than most).\"",
+        "\"It's apparent she is just 'winging it' on stage, not actually taking time to practice the skill it obviously takes to be funny.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I had never heard of him prior to watching his special, but after seeing him perform, I'll be looking for him as I want to hear more stories about his adventures and his wife and kids.\"",
+        "\"I will look for this comedian in the future.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual and vocal performance",
+      "evidence": [
+        "\"He really works his facial expressions (and vocals) to deliver physical comedy to those like me, who really like it.\"",
+        "\"Preacher gets very animated with his joke-telling and I like that he puts his all into it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I had high hopes when I first clicked to watch this special from the beginning.\"",
+        "\"I was bored the day I start to watch it. Wow! Totally unexpected pleasure.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for clean and relatable comedy, particularly enjoying animated films. They value high-quality performances and prefer straightforward narratives that evoke laughter without relying on vulgarity."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEL3SJX2ADGYSONZPPHZ7UYDR5OA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "classic TV shows, crime, family drama",
+      "evidence": [
+        "\"Love this entire original series.\"",
+        "\"I wished they never stopped making Columbo (and Mrs. Columbo) movies / series.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Enjoyable - as most cast (with the exception of Tina/Ginger and Dawn/Mary Ann) return / original voices.\"",
+        "\"A very enjoyable well made movie - with great cast of characters - :)\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Some episodes sink - while others still have classic and important messages - of never give up.\"",
+        "\"The last season is a struggle of sadness to watch (no Danno) - but I have all 12 seasons- :)\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"cheap effects - but a guilty pleasure - :)\"",
+        "\"Enjoyable - well directed and great score by Tangerine Dream\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to classic series",
+      "evidence": [
+        "\"Best Hawaii Five-O is the original series - Upset how they got rid of Kono, Chin-ho & Danny as Jack Lord's ego became bigger and bigger.\"",
+        "\"I wished they never stopped making Columbo (and Mrs. Columbo) movies / series.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic sensory",
+      "evidence": [
+        "\"Enjoyable - well directed and great score by Tangerine Dream\"",
+        "\"A very enjoyable well made movie - with great cast of characters - :)\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Loved this show - hated when they killed off James the father.\"",
+        "\"Some episodes sink - while others still have classic and important messages - of never give up.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic TV shows and crime dramas, often valuing emotional resonance and character-driven narratives. They show loyalty to specific series and creators, while their focus on enjoyment suggests a lower sensitivity to production quality."
+}

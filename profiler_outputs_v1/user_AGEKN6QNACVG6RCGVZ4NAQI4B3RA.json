@@ -1,0 +1,77 @@
+{
+  "user_id": "AGEKN6QNACVG6RCGVZ4NAQI4B3RA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary, indie",
+      "evidence": [
+        "\"this is (sadly, rare) an intelligent, thoughtful, and compassionate film\"",
+        "\"piercing, eye-opening documentary - we must all hold ourselves accountable\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"brilliant adaptation of a remarkable, intelligent, creative, complex book\"",
+        "\"subtle, quiet, exquisite, a must-see for any who cherish life, nature, and art\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"quiet, poignant, beautiful\"",
+        "\"intelligent, elegantly done series sprinkled with humor\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"top-notch actors, exquisite attention to detail\"",
+        "\"brilliant adaptation... executed this so well? with panache, elegance, humor, tension, insight\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"i love miyazaki and ghibli studios, i am NOT a fan of anime\"",
+        "\"he should stick to gore and violence and crassness and leave refinement to more suitable directors\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"the soundtrack... powers of x happier after watching it\"",
+        "\"this could not have been shot in anything but black and white, which lends itself to the evocative nuances of art and horror\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"bonds between parent and child, human and human, human and nature\"",
+        "\"exquisite, thought- and heart-provoking, paean to life in all of its miseries and all of the possibilities of hope\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for emotionally resonant and complex narratives, particularly in the drama and documentary genres. They value high production quality and enjoy slow-paced, thoughtful storytelling that evokes deep feelings and connections."
+}

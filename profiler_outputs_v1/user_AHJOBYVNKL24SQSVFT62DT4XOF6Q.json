@@ -1,0 +1,77 @@
+{
+  "user_id": "AHJOBYVNKL24SQSVFT62DT4XOF6Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action, thriller, romance",
+      "evidence": [
+        "\"A great movie with the right touch of romance and comedy that had a dashing spy theme within its core build up.\"",
+        "\"Good movie that speaks on the sad but true facts.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Very well and enjoyable film, it held my attention all the way to the end.\"",
+        "\"It was slow build to the climax of the story but it was worth the wait.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It was slow build to the climax of the story but it was worth the wait.\"",
+        "\"Awesome movie! But I'll be the last to get out the car the next time I am at the beach.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The acting was on point just wondering how close was the script was to the real event that was told...\"",
+        "\"Awesome performance by Teresa Palmer had always been a fan.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Have seen most all of her earlier work to this mini-series.\"",
+        "\"I would have paid full price to see this and then a little more.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Awesome movie! But I'll be the last to get out the car the next time I am at the beach.\"",
+        "\"Very touching story base on true events that will shock you knowing the evil that a person can do.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Good movie that speaks on the sad but true facts. Know of many real life situation as such n its still tear at your heart.\"",
+        "\"Very touching story base on true events that will shock you knowing the evil that a person can do.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama, action, and romance, often appreciating strong performances and emotional storytelling. They have a moderate sensitivity to production quality and a mixed preference for narrative complexity and pacing, indicating a diverse taste in films."
+}

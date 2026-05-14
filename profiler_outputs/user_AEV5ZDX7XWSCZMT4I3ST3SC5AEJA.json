@@ -1,0 +1,77 @@
+{
+  "user_id": "AEV5ZDX7XWSCZMT4I3ST3SC5AEJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, horror, comedy, noir",
+      "evidence": [
+        "\"This is a superior film to 'Breathless', IMHO, .. the film is total eye candy...\"",
+        "\"It's gratifying to see a noir film from the 40's that has so many strong female characters in it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"...the screenplay to the proposed film is supposed to be about the death of romance between Ulysses and Penelope in Homer's 'Odyssey'...\"",
+        "\"...the roles are played by members of the opposite sex, and all of the ladies are outstanding in their assigned roles.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"...the action moves quickly and the cinematography is atmospheric and well done.\"",
+        "\"...it's VERY cartoony stuff and very, very funny. I loved it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Boy, this movie deserved a better fate. The film looks like mud.\"",
+        "\"...the quality of the prints are very poor-there's lots of dirt on them in every episode.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Director Bertrand Mandico is a director of great promise, and I look forward to seeing more mind-blowing films from him.\"",
+        "\"Godard really deserves more credit, he's a consummate filmmaker...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"...the cinematography is atmospheric and well done.\"",
+        "\"...the film is total eye candy, if not due to the awesome BB, then by the gorgeous locations...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...the story recalls the best stories by Cornell Woolrich (The Bride Wore Black) and David Goodis (Dark Passage).\"",
+        "\"...the roles are played by members of the opposite sex, and all of the ladies are outstanding in their assigned roles.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex narratives across genres like drama, horror, and comedy, often appreciating fast pacing and high production quality. They show a notable emotional engagement with the content, valuing atmospheric and visually rich experiences."
+}

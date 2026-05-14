@@ -1,0 +1,76 @@
+{
+  "user_id": "AH74QJLQ7HDTV4QTSLUC5F2UWGWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"I have always loved, I Love Lucy and I still do\"",
+        "\"This is a sad movie; I watched it with my mother and my mother not knowing Camille's history thought she was going to be released.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"enjoyable movie to watch with the fashion and good music.\"",
+        "\"Enjoyable movie with a happy ending\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This is a sad movie; I watched it with my mother...\"",
+        "\"Very cute movie it shows as seen through the eyes of the little girls.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"good, to learn about another culture\"",
+        "\"good movie\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have always loved, I Love Lucy and I still do\""
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "atmospheric",
+      "evidence": [
+        "\"enjoyable movie to watch with the fashion and good music.\"",
+        "\"It tries to take the fantasy of fairies to reality in the early 1900s\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is a sad movie; I watched it with my mother...\"",
+        "\"Enjoyable movie with a happy ending\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted comedies and dramas, often with emotional depth. They prefer simple narratives and slower pacing, appreciating atmospheric elements like fashion and music. Overall, their reviews reflect a strong affinity for enjoyable, feel-good content."
+}

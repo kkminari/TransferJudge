@@ -1,0 +1,76 @@
+{
+  "user_id": "AEXFKW3RKDZTM2M33BPW3NAPEOYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"This is beyond words funny. Highly recommended.\"",
+        "\"This is the best show of all time. Part of my soul died when it was canceled. It is so funny and fun.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Let's just say that I stopped watching when I figured out the ending and did not want to be put through all of that misery.\"",
+        "\"I don't know what to say. This was hard to follow and none of the characters were sympathetic or engaging.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This is just so well done and so well acted.\"",
+        "\"What a great show featuring the wonderful Aaron Pedersen.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"This is just so well done and so well acted.\"",
+        "\"There are really only two seasons here, split in half to create four seasons.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I hope that the producers can find a new network or streaming service, maybe amazon, for a season 4.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"This show is hilarious.\"",
+        "\"What a waste of time and of an opportunity to learn more about a fascinating subject -- the network of mycelium under the forest, not tripping.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I have not watched something this good in years.\"",
+        "\"Part of my soul died when it was canceled.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies and dramas, particularly those that are well-acted and engaging. They appreciate high production quality but have a low tolerance for complex narratives, often favoring straightforward storytelling."
+}

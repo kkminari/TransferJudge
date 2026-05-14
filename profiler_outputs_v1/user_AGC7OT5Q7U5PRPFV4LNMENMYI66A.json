@@ -1,0 +1,76 @@
+{
+  "user_id": "AGC7OT5Q7U5PRPFV4LNMENMYI66A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action, drama",
+      "evidence": [
+        "\"like Justified but not\"",
+        "\"as a big sci fi fan, this is fresh and well done\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"needs more backstory and world building\"",
+        "\"some of it felt a bit of forced weird or crazy\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"story started slow then there was a big reveal in a single episode\"",
+        "\"season 3 took a dive in quality\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great Production, poor everything else.\"",
+        "\"the quality of the story and quantity of humor could have been better\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Please for the love of god stop putting Cara in shows and movies I want to watch\""
+      ],
+      "confidence": 0.3,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"the visuals of the world are great\"",
+        "\"I really enjoy the visuals and the story telling\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"it wasn't that bad\"",
+        "\"this might have been better as a movie\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for sci-fi and action genres, appreciating visual spectacle but expressing dissatisfaction with narrative depth and pacing. They are sensitive to production quality and have mixed feelings about emotional engagement in the content they consume."
+}

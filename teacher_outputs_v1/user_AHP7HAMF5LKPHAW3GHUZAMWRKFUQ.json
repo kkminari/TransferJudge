@@ -1,0 +1,169 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's strong preference for comedy and family-friendly content directly translates to a desire for light-hearted, humorous books suitable for all ages. This pattern is highly transferable as both media aim to entertain and engage families.",
+      "transferred_insight": "Prefer humorous and family-friendly books",
+      "confidence": 1.0
+    },
+    "narrative_complexity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's preference for simple narratives suggests they enjoy straightforward, easy-to-follow stories. This quality is applicable in both books and films, making it a strong candidate for direct transfer.",
+      "transferred_insight": "Prefer simple, straightforward narratives",
+      "confidence": 0.8
+    },
+    "pacing_preference": {
+      "decision": "TRANSFER",
+      "rationale": "A preference for fast-paced content indicates that the user enjoys books that maintain a quick tempo and keep the reader engaged. This pacing preference is relevant across both media formats.",
+      "transferred_insight": "Prefer fast-paced, engaging reads",
+      "confidence": 0.8
+    },
+    "quality_sensitivity": {
+      "decision": "PARTIAL",
+      "rationale": "While the user shows high sensitivity to quality in film, this may not fully translate to books. However, they likely still prefer well-written, polished works, so this pattern can inform recommendations but should not dominate them.",
+      "transferred_insight": "Prefer well-reviewed and high-quality books",
+      "confidence": 0.7
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user's low brand loyalty indicates they do not have strong preferences for specific authors or franchises, which makes this pattern irrelevant for book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's preference for visual spectacle and fun characters is specific to film and does not translate to the literary medium, where visual elements are not present in the same way.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high emotional engagement with content suggests they appreciate books that evoke strong feelings and resonate on a personal level, which is a quality that can be found in literature.",
+      "transferred_insight": "Prefer emotionally resonant and engaging stories",
+      "confidence": 0.8
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "0262524481",
+      "title": "Balkan as Metaphor: Between Globalization and Fragmentation (Mit Press)",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book offers a light-hearted exploration of complex themes, making it suitable for family reading. Its straightforward narrative style and engaging content align well with the user's preferences."
+    },
+    {
+      "rank": 2,
+      "item_id": "A Bad Moon",
+      "title": "A Bad Moon",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference"
+      ],
+      "reasoning": "This book features a simple narrative structure and a fast-paced storyline, making it an engaging read for families. Its comedic elements align with the user's preference for humor."
+    },
+    {
+      "rank": 3,
+      "item_id": "A to Z Mysteries: The Haunted Hotel",
+      "title": "A to Z Mysteries: The Haunted Hotel",
+      "score": 0.78,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference"
+      ],
+      "reasoning": "This children's mystery book is fun and engaging, with a straightforward plot that appeals to family-friendly reading. Its humor and light-heartedness match the user's preferences."
+    },
+    {
+      "rank": 4,
+      "item_id": "National Geographic Kids Funny Fillin: My Ancient Egypt Adventure",
+      "title": "National Geographic Kids Funny Fillin: My Ancient Egypt Adventure",
+      "score": 0.75,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference"
+      ],
+      "reasoning": "This interactive book combines humor with educational content, making it perfect for family reading. Its simple structure and engaging format align with the user's preferences."
+    },
+    {
+      "rank": 5,
+      "item_id": "Freedom Child of the Sea",
+      "title": "Freedom Child of the Sea",
+      "score": 0.73,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This children's book features a heartwarming story that resonates emotionally, appealing to the user's preference for family-friendly content. Its simple narrative style makes it accessible."
+    },
+    {
+      "rank": 6,
+      "item_id": "Stranded: Cetacea Chronicles Volume 1",
+      "title": "Stranded: Cetacea Chronicles Volume 1",
+      "score": 0.72,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference"
+      ],
+      "reasoning": "This book offers an engaging story about animals, which is both fun and educational for children. Its straightforward narrative and fast pacing align with the user's preferences."
+    },
+    {
+      "rank": 7,
+      "item_id": "The Midnight Library #3: End Game",
+      "title": "The Midnight Library #3: End Game",
+      "score": 0.7,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference"
+      ],
+      "reasoning": "This book provides thrilling stories that are suitable for younger readers, maintaining a fast pace and simple narrative structure that aligns with the user's preferences."
+    },
+    {
+      "rank": 8,
+      "item_id": "The Summer Kitchen",
+      "title": "The Summer Kitchen",
+      "score": 0.68,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This novel offers a heartwarming story that resonates emotionally, making it suitable for family reading. Its straightforward narrative style aligns with the user's preferences."
+    },
+    {
+      "rank": 9,
+      "item_id": "The Edible Garden: Grow Your Own Vegetables, Fruits & Herbs No Matter Where You Live",
+      "title": "The Edible Garden: Grow Your Own Vegetables, Fruits & Herbs No Matter Where You Live",
+      "score": 0.65,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This book combines fun and educational content about gardening, making it suitable for family engagement. Its simple narrative style aligns with the user's preferences."
+    },
+    {
+      "rank": 10,
+      "item_id": "Chocolate Wars: The 150-Year Rivalry Between the World's Greatest Chocolate Makers",
+      "title": "Chocolate Wars: The 150-Year Rivalry Between the World's Greatest Chocolate Makers",
+      "score": 0.63,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This book offers an engaging and humorous look at the history of chocolate, appealing to the user's preference for light-hearted content. Its straightforward narrative style makes it accessible."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference were blocked due to their low relevance for book recommendations.",
+  "overall_strategy": "Focused on transferring the user's strong preferences for comedy, simple narratives, and fast pacing while blocking irrelevant patterns. Recommendations emphasize family-friendly and engaging content."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEMO2MND4W7ATBJPH7QVVGZSLF3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, sci-fi, family, romantic, Christian",
+      "evidence": [
+        "\"Enjoy these movies and like actress Kate Beckinsale\"",
+        "\"one of my favorite Christmas movies of all time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A decent movie but could have been so much better.\"",
+        "\"Not what I expected, but was a good entertaining movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Loved this movie and the action in it.\"",
+        "\"Enjoyed the action and was very entertaining.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"A decent movie but could have been so much better.\"",
+        "\"Happy with my purchase.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Kate Beckinsale, Star Trek",
+      "evidence": [
+        "\"Enjoy these movies and like actress Kate Beckinsale\"",
+        "\"Like the second season of star trek discovery\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Always enjoyed this movie and was great to watch in 3D.\"",
+        "\"Great movie with a great message! Loved it\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Loved this movie.Great perspective from what I watch when comes from religious movies.\"",
+        "\"one of my favorite Christmas movies of all time.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action, sci-fi, and family-oriented films, often enjoying visual spectacles and emotional narratives. They show loyalty to specific actors and franchises, particularly Kate Beckinsale and Star Trek, while favoring fast-paced storytelling."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEJF5AEPPFULANTKNQUBZDFDDINQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, thriller, sci-fi",
+      "evidence": [
+        "Robin Williams touched me deeply... He was a master at both comedies or drama.",
+        "Good suspense, thriller movie, slow pace but still good."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "The story of a lonely man going thru a very hard time... trying to find out whom he really was.",
+        "It is one of those films that starts from the end and then they go back in time as to how they got there."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Very slow pace, but will kill an hour an half of your time.",
+        "Good suspense, thriller movie, slow pace but still good."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Great acting all around, great script also based on a truth story I believe.",
+        "I WAS very disappointed with this film... bad horrific streaming conditions."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "Errol Flynn can't go wrong with me, a big fan of his movies since I was a kid.",
+        "Richard Dreyfuss has always been and continues to be one of my favorite actors."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "The story takes Melissa and her kid... you will feel sad at times and you will laugh at times.",
+        "The dancing choreography was great on its own and speaks for itself."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "The story and specially the ending will leave you feeling very satisfied about having watched this movie.",
+        "It might just do the same to you, when you watch it."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama, comedy, and thriller genres, with a strong preference for high-quality production and emotional resonance. They tend to favor slower-paced narratives that evoke deep feelings, while also showing some brand loyalty to specific actors like Errol Flynn and Richard Dreyfuss."
+}

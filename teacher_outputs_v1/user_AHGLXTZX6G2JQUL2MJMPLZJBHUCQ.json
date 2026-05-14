@@ -1,0 +1,159 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's mixed genre preference suggests they may enjoy a variety of narratives, but this does not strongly dictate specific genres in books. Recommendations should include a range of genres while avoiding overly niche categories.",
+      "transferred_insight": "Prefer a variety of genres, with a focus on accessible narratives.",
+      "confidence": 0.6
+    },
+    "narrative_complexity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for simple narratives indicates they may favor straightforward storytelling in books. However, this does not exclude moderately complex narratives that are still accessible.",
+      "transferred_insight": "Prefer straightforward narratives, but can tolerate moderate complexity.",
+      "confidence": 0.55
+    },
+    "pacing_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's preference for slow pacing directly translates to a preference for books that develop characters and plots gradually, allowing for deeper engagement with the material.",
+      "transferred_insight": "Prefer slow-paced books that focus on character development and gradual plot progression.",
+      "confidence": 0.8
+    },
+    "quality_sensitivity": {
+      "decision": "TRANSFER",
+      "rationale": "High sensitivity to quality suggests the user values well-crafted narratives and strong writing. This directly applies to book recommendations, prioritizing highly-rated and well-reviewed titles.",
+      "transferred_insight": "Prioritize well-written and highly-rated books.",
+      "confidence": 0.85
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user's low brand loyalty indicates they do not have strong preferences for specific authors or brands, which would not provide a reliable basis for recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "Sensory preferences related to film do not apply to books, as the reading experience is fundamentally different and does not involve visual or auditory elements in the same way.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "emotional_resonance": {
+      "decision": "PARTIAL",
+      "rationale": "The user's low emotional engagement suggests they may prefer narratives that are less emotionally intense. However, some emotional depth can still be appreciated if it aligns with the pacing and narrative style.",
+      "transferred_insight": "Prefer narratives with moderate emotional depth, avoiding overly sentimental content.",
+      "confidence": 0.6
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "1620921332",
+      "title": "Mercury/Mariner Outboard Shop Manual: 2.5-60 HP 1998-2006 (Clymer Manuals: B725)",
+      "score": 0.9,
+      "applied_patterns": [
+        "pacing_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This manual is well-structured and provides clear, straightforward information, aligning with the user's preference for slow-paced, accessible narratives. Its high rating indicates quality, which is important to the user."
+    },
+    {
+      "rank": 2,
+      "item_id": "1540499340",
+      "title": "In the Name of the Father",
+      "score": 0.85,
+      "applied_patterns": [
+        "narrative_complexity",
+        "pacing_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This mystery novel offers a straightforward plot with a gradual build-up, appealing to the user's preference for slow pacing and simple narratives. Its good rating suggests quality storytelling."
+    },
+    {
+      "rank": 3,
+      "item_id": "1680221329",
+      "title": "Christmas Movie Trivia: A Jolly New Spin on the Movies You Watch Every December and Quote All Year Long",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This trivia book provides engaging content that is easy to digest, aligning with the user's mixed genre preference and high sensitivity to quality. It's a fun, light read that fits their pacing preference."
+    },
+    {
+      "rank": 4,
+      "item_id": "B077NP42ZX",
+      "title": "Shut Up and Listen to Me!",
+      "score": 0.75,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This self-help book offers straightforward insights and practical advice, appealing to the user's preference for simple narratives and high-quality content."
+    },
+    {
+      "rank": 5,
+      "item_id": "B002CT6S2Q",
+      "title": "Rendezvous With Rama",
+      "score": 0.7,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This science fiction novel features a clear narrative structure and accessible storytelling, which aligns with the user's preference for simple narratives and a variety of genres."
+    },
+    {
+      "rank": 6,
+      "item_id": "B002RAR13A",
+      "title": "Knowing God Intimately: Being as Close to Him as You Want to Be",
+      "score": 0.65,
+      "applied_patterns": [
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book offers a straightforward exploration of spirituality, appealing to the user's preference for moderate emotional depth and high-quality writing."
+    },
+    {
+      "rank": 7,
+      "item_id": "1410701727",
+      "title": "New Thought: A Practical American Spirituality",
+      "score": 0.6,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book presents practical insights in a clear manner, aligning with the user's preference for simple narratives and high-quality content."
+    },
+    {
+      "rank": 8,
+      "item_id": "0575088508",
+      "title": "Terminal World",
+      "score": 0.55,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This fantasy novel features a straightforward plot and accessible writing style, appealing to the user's mixed genre preference and preference for simple narratives."
+    },
+    {
+      "rank": 9,
+      "item_id": "B000K1SD58",
+      "title": "Favorites Number Two: A Collection of Gospel Songs for Solo, Duet, Trio, Quartet and Group Singing (Singspiration, No.2)",
+      "score": 0.5,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "This collection of songs is well-regarded and offers a straightforward format, appealing to the user's high sensitivity to quality."
+    },
+    {
+      "rank": 10,
+      "item_id": "B0006AKRQG",
+      "title": "I was sent to Athens",
+      "score": 0.45,
+      "applied_patterns": [
+        "narrative_complexity"
+      ],
+      "reasoning": "This book's straightforward narrative style may appeal to the user's preference for simple storytelling, even without a detailed synopsis."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference were blocked due to low relevance to book recommendations.",
+  "overall_strategy": "Focused on the user's preferences for slow pacing, simple narratives, and high-quality content while applying partial insights from genre and emotional resonance to create a diverse yet accessible list of recommendations."
+}

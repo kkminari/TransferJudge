@@ -1,0 +1,72 @@
+{
+  "user_id": "AELSE7PNWLI7PT7ITSXQHAFRGM7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "anime, action",
+      "evidence": [
+        "i highly recommend this season to any fans of season 1 and/or the flash",
+        "great animation and well worth watching if you're a fan of Gundam"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "i like what ive seen so far"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "came in faster than expected"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "could've been better"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Gundam, Digimon",
+      "evidence": [
+        "if you're a fan of Gundam",
+        "I've always liked Digimon"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "great animation and well worth watching if you're a fan of Gundam"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "i haven't started watching them yet but i think that it will play fine"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys anime and action genres, particularly shows like Gundam and Digimon. They prefer fast-paced narratives and are less concerned with production quality, focusing more on the enjoyment of the content."
+}

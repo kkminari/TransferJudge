@@ -1,0 +1,77 @@
+{
+  "user_id": "AFM2EVUIXUOH3UI6N3ZZ5J4LRKLQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, family",
+      "evidence": [
+        "\"It is a good story about love after loss.\"",
+        "\"Classic movie to watch with the kids, lots of fun parts.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Not my cup of tea, a little too much for me.\"",
+        "\"Lost interest after half hour, husband watched all of it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The story was too old for me too much like the thinking in the past, too much old reality.\"",
+        "\"Lost interest after half hour, husband watched all of it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I thought it did not have much humor, was not very interesting.\"",
+        "\"Only watched one episode but it did not peak my interest enough to watch another episode.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"My husband thought it was good, he likes Tom Hanks.\"",
+        "\"Hubby likes the show, so we watch it together.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"Grafic violence, had to stop watching it.\"",
+        "\"The move was about a sad subject, dealing with a sick parent who has dementia.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is a good story about love after loss.\"",
+        "\"A very sad story about a woman who had a disease called alcoholism.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and romance, particularly stories that evoke emotional resonance, such as themes of love and loss. They tend to prefer slower-paced narratives and show a low sensitivity to production quality, indicating a focus on story over spectacle."
+}

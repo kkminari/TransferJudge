@@ -1,0 +1,77 @@
+{
+  "user_id": "AFDBXSNA7ASOJJXJMQAIH3N622CQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "nostalgia, disaster, musical",
+      "evidence": [
+        "\"Love the movie though for a retro 90’s disaster flick.\"",
+        "\"I love the message it gives about love and treating everyone with dignity and respect...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The movie is an entertaining work of fiction, not meant to be taken overly seriously.\"",
+        "\"It’s entertainment! Not for everyone, but if you give it a chance you may enjoy it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"This is not your typical Arnold action flick, this move is slow with no action or suspense.\"",
+        "\"Pretty good show\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The best thing about this movie is that the 4K quality is the best I have seen...\"",
+        "\"I wasn’t impressed with the 4k version of this film. Hardly any video quality improvement.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Steve Austin was my childhood hero.\"",
+        "\"A bit on the Quentin Tarantino side as you will see in certain parts.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"I can sit and watch the menu screen play over and over and still be amazed at the colors.\"",
+        "\"Great music and performances.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I love the message it gives about love and treating everyone with dignity and respect...\"",
+        "\"Nostalgia at its best!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys nostalgic and entertaining films, particularly those with strong visual quality and emotional messages. They appreciate simple narratives and are sensitive to production quality, though they have mixed feelings about pacing and brand loyalty."
+}

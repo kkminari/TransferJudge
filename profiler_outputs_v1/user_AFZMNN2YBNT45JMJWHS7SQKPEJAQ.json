@@ -1,0 +1,89 @@
+{
+  "user_id": "AFZMNN2YBNT45JMJWHS7SQKPEJAQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, comedy, drama, mystery, adventure",
+      "evidence": [
+        "\"The right touch of comedy and romance.\"",
+        "\"Love the scenery and the actors chosen.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story itself was so cute and everyone did well.\"",
+        "\"The story idea is cute.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It is relaxing and pleasant to watch.\"",
+        "\"The execution could use a little help.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"I wish it was HD and on a bluray, but I still am glad I purchased it.\"",
+        "\"The quality is very good.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I will watch anything Ryan Mcpartlin is in.\"",
+        "\"I love all performances of Alan Rickman, Stanley Tucci and Kate Winslet.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual, atmospheric",
+      "evidence": [
+        "\"The real star are the gardens. My heart was lost in its scenery.\"",
+        "\"Love this series. Lots of great storage ideas.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It has a perfect blend of drama, romance and comedy.\"",
+        "\"The ending was priceless, so different!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "light-hearted",
+      "evidence": [
+        "\"It is relaxing and yet motivates you to design your dream garden.\"",
+        "\"I do not enjoy raw (insults, mocking and cursing) comedy.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user enjoys light-hearted romantic comedies and dramas with a strong emphasis on emotional resonance and visual appeal. They appreciate well-crafted stories that are simple yet engaging, and they have a preference for relaxing and pleasant viewing experiences."
+}

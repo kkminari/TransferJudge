@@ -1,0 +1,77 @@
+{
+  "user_id": "AFGLFYJLGIBZUTG6GRPZ7BIPRK3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, western, drama",
+      "evidence": [
+        "Murder, She Wrote is one of my favorite TV shows.",
+        "Longmire's character has the same gritty approach to a sheriff's role as the Western I grew up watching."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "The plot twists are unique and intriguing.",
+        "The script leave clues that are interesting to follow and deduce the culprit."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "medium",
+      "evidence": [
+        "Too many series drag it out until you lose interest and stop watching.",
+        "The second season is even more entertaining than the first."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The quality of the DVD and delivery was excellent.",
+        "The quality of the video plays well on my PC."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I have added it to my series collection.",
+        "This series is one of my favorites that I discovered by watching reruns."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "The friction and attraction is well acted.",
+        "The amateur sleuth who gets first hand knowledge of the crimes he only knows on paper has a special interest to me."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "The progression of Castle and Beckett's personal interest is delightful to watch.",
+        "The detective's integrity is refreshing in these times of corruption."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for mystery and western genres, appreciating complex narratives with unique plot twists. They value high production quality and emotional resonance in storytelling, while showing a moderate sensitivity to pacing."
+}

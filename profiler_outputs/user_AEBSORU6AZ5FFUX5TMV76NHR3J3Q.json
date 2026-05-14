@@ -1,0 +1,77 @@
+{
+  "user_id": "AEBSORU6AZ5FFUX5TMV76NHR3J3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family, romance",
+      "evidence": [
+        "\"I like the healing and bonding at the end...\"",
+        "\"We watch a lot of disaster films, and this is one of our favs b/c it has good character development, romance, and a lot of excitement.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"...the most necessary details are there...\"",
+        "\"Although the ending is predictable, it's still a fun ride.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I like this film more each time I watch it...\"",
+        "\"...it was entertaining, cathartic, inspirational--a beautiful example of what a family can be...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...beautifully shot, acted and directed episode...\"",
+        "\"...well acted film and has so much to offer.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I like the continuation spinoff Major Crimes, and am a big fan of Mary McDonnell...\"",
+        "\"Kudos to Clint Eastwood for another great directing job...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"...the chemistry of the whole cast makes it a delight to watch.\"",
+        "\"...each one of our lives is a precious gift.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...this film is a reminder of how important it is for young people to spend time with older folks...\"",
+        "\"...I appreciated this film and Jennifer Anniston's excellent portrayal.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys character-driven dramas with strong emotional themes, often centered around family dynamics and relationships. They appreciate high production quality and are drawn to stories that evoke deep feelings and personal connections."
+}

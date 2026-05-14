@@ -1,0 +1,76 @@
+{
+  "user_id": "AE3YQQ2OTQQC44JAGWVK7P6PWJZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, comedy",
+      "evidence": [
+        "\"This is what Sci Fi is all about, investigating how advancing technology effects us while exploring the human condition.\"",
+        "\"Take some of the funny revisionist cheek of the Hercules/Xena franchise... a stunningly shot, empic, dramatic fanstasy series with great moments of comedy to boot.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"...deepening some of the main characters' back stories.\"",
+        "\"...the exploration of this particular buddy cop relationship as it unfolds.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I find it a nice, character driven show with real sci fi concepts.\"",
+        "\"Some folks I know have said it is too slow for them.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent quality acting, production and concept.\"",
+        "\"The cinematography is stunning.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"...it doesn't hurt that Matt Frewer (AKA Max Headroom) plays the historic figure of Daedalus to boot...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"...full of humor, tenderness, and the exploration of this particular buddy cop relationship as it unfolds.\"",
+        "\"...witty, silly, full of heart and filmed live...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I'm sad to see this little show that could go.\"",
+        "\"Love it! Gritty, Riveting, Tense. A must see show for anyone who loves to watch characters react to each other and the world around them.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and drama genres, appreciating complex narratives and character-driven stories. They value high production quality and emotional resonance, often enjoying shows that evoke deep feelings and have a rich sensory experience."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFPEMKBLV2THEZ5ZIKBT5SA7WNHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romantic comedy, psychological thriller, drama",
+      "evidence": [
+        "\"I love Julia Stiles, and I loved the happily ever after on her own terms.\"",
+        "\"For psychological horror/thriller, this was actually really good.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The storyline was outrageous and unbelievable, the acting was bad...\"",
+        "\"It's kind of strange, but you don't really figure out what's going on until about the end...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"This is a slow movie so if you're not completely focused, it will lose you...\"",
+        "\"It took a long time to get into this slow moving movie...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The actors did a great job of sucking you into their unorthodox lives...\"",
+        "\"Angelina is the only person I could have seen playing the role of Gia...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for Julia Stiles, Priyom Haider",
+      "evidence": [
+        "\"I love Julia Stiles...\"",
+        "\"Priyom Haider is an up and coming talent to keep your eye on in Hollywood.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The use of bright colors and exaggerated costumes was a breath of fresh air...\"",
+        "\"His voice and narration are like echoes of historic couples from bygone times...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie made me want to write poetry again. Made me believe. And hope.\"",
+        "\"It's a journey into how autistic brains experience the world around them...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys romantic comedies and psychological thrillers, often appreciating strong performances and vibrant visuals. They have a high sensitivity to emotional resonance and sensory experiences, indicating a preference for engaging and heartfelt narratives."
+}

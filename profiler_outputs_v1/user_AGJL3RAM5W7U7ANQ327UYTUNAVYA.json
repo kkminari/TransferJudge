@@ -1,0 +1,77 @@
+{
+  "user_id": "AGJL3RAM5W7U7ANQ327UYTUNAVYA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, nostalgia",
+      "evidence": [
+        "\"Very enjoyable. Saw movie 55 years ago on TV... Highly nostalgic watching it again.\"",
+        "\"Well done report on what has never been adequately explained.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"If you are new to this subject it might be worth watching...\"",
+        "\"Just finished trying to watch DVD. Main menu non-functional...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Unnecessarily long. Perhaps I'm not sophisticated enough to appreciate the 'art' behind this movie...\"",
+        "\"I yawned and shut it off... ultimately I found this DVD boring.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Bad production, bad sound, fell asleep half way thru first viewing...\"",
+        "\"Production values low. Information very old.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "Bill Knell (negative)",
+      "evidence": [
+        "\"Suggest you avoid anything with 'the UFO guy' associated with it.\"",
+        "\"Anything directed by, produced by, or in any way associated with Bill Knell should be avoided.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"Very poor film with even worse transfer to DVD...\"",
+        "\"Sound was awful...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Enjoyed. Not sure what all the rave reviews are all about though...\"",
+        "\"I was not very impressed with this film.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for nostalgic and documentary-style content, often reflecting on past experiences. They tend to favor straightforward narratives but express dissatisfaction with production quality and specific creators, particularly Bill Knell, indicating a critical approach to media consumption."
+}

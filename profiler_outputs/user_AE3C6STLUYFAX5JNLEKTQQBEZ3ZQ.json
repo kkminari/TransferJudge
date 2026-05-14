@@ -1,0 +1,77 @@
+{
+  "user_id": "AE3C6STLUYFAX5JNLEKTQQBEZ3ZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, drama, comedy",
+      "evidence": [
+        "\"If you like a good love story this is it.\"",
+        "\"To me this is a beautiful love story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It was and o k movie. Somewhat entertaining, but not his greatest by any means.\"",
+        "\"I really love this movie it is funny and sad but such a great story.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I can never get enough of Cary. He was great in everything he did. Funny or serious.\"",
+        "\"It was always a great story and couldn't wait until next Sunday came along.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I can say movies today have a great quality like the old ones, but I am just telling my age.\"",
+        "\"The story line is great. And the actors all do a fantastic job.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Cary Grant, Johnny Depp, Denzel Washington",
+      "evidence": [
+        "\"I can never get enough of Cary. He was great in everything he did.\"",
+        "\"Anything Denzel does is terrific and this is another one for sure.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It is amazing to see the things people go through in a life time.\"",
+        "\"Felt like a kid again.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It was so great when he found out he had another sister.\"",
+        "\"I have watched this over again and again. It is one movie I will never tire from.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for romantic and dramatic films, particularly those featuring classic actors like Cary Grant and Johnny Depp. They appreciate high production quality and emotional storytelling, often enjoying slower-paced narratives that evoke deep feelings and nostalgia."
+}

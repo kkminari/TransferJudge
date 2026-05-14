@@ -1,0 +1,73 @@
+{
+  "user_id": "AGIPKLIWFZMYCCSRIJHTSLRXWOMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy",
+      "evidence": [
+        "'Karl Pilkington is a very funny man and compared with Ricky Gervais, excellent.'",
+        "'Pretty funny alot.'"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'Very good show! Shipped quick'"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "'Very thrilling selection. Good case and good selection.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "'The price is maybe $5 cheaper than a store.'",
+        "'The one I got is like an aluminum case. Pretty good.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "'You can only get season 1, 2, and 3. Not anymore. No 4,5,6,and 7.'"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "'Excellent packaging.'",
+        "'Good case and good selection.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "'Good for Tremor lovers'"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for comedy, particularly enjoying humorous content. They seem to favor straightforward narratives and fast pacing, while their sensitivity to production quality is low, focusing more on the entertainment value."
+}

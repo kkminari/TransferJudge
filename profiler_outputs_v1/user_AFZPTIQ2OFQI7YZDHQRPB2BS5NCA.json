@@ -1,0 +1,89 @@
+{
+  "user_id": "AFZPTIQ2OFQI7YZDHQRPB2BS5NCA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, political, thriller",
+      "evidence": [
+        "\"Great SciFi\"",
+        "\"Terrific SciFi\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Fascinating and riveting story line!\"",
+        "\"Fantastic cerebral thriller.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Good story and lots of fun action and suspense.\"",
+        "\"Great plot . . great effects . . loved it\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Genius actors . . .\"",
+        "\"Brilliant! We need more Cumberbatch!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Not sure about the follow-up movie, though.\"",
+        "\"Very disjointed script\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Great plot . . great effects . . loved it\"",
+        "\"What a clever, engaging story!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Thought-provoking and VERY different take on things.\"",
+        "\"I keep going back to watch again . . many thought-provoking scenes\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "high",
+      "evidence": [
+        "\"Fun political comedy-tragedy\"",
+        "\"Fun and Funny\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user has a strong preference for sci-fi and complex narratives, often enjoying fast-paced stories with high production quality. They appreciate thought-provoking content that evokes emotional responses, while also enjoying humor in political contexts."
+}

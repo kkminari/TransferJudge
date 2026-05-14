@@ -1,0 +1,77 @@
+{
+  "user_id": "AFQ46KEQYKHUJHTHVLOLUMHSCSFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, thriller",
+      "evidence": [
+        "\"Creepy thriller about scientists who create a robot to house the brain of a genius...\"",
+        "\"Thriller about a race of aliens who take over human bodies...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Some of the acting and storyline is uneven, though.\"",
+        "\"This movie is certainly worth a look, but only once!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Outstanding action film with excellent special effects!\"",
+        "\"The writing and acting are superb!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent cast and writing make this show outstanding!\"",
+        "\"This series maintains its quality while adding some edginess...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "mixed",
+      "evidence": [
+        "\"Hope they keep up the good work!\"",
+        "\"I hope another network will pick it up!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Interesting special effects and story line make this the strongest of the Matrix trilogy...\"",
+        "\"Visually stunning and has some memorable characters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Powerful cast keeps this series on track!\"",
+        "\"This is one of the best series on television, with a wonderful cast and great mysteries.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for sci-fi and thriller genres, appreciating fast-paced narratives with high production quality. They value emotional resonance and sensory experiences, often highlighting special effects and strong acting in their reviews."
+}

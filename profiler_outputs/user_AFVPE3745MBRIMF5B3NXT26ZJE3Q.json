@@ -1,0 +1,77 @@
+{
+  "user_id": "AFVPE3745MBRIMF5B3NXT26ZJE3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, action",
+      "evidence": [
+        "\"Cranford is a lovely story about the townsfolk in the small village of Cranford in England.\"",
+        "\"Band of Brothers will always be my favorite series of all time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The writing is original, different from most other series. Two or three different plots are woven together to make a very enjoyable show.\"",
+        "\"The writers should be given credit for their originality and creativity.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Something to keep you on the edge of your seat.\"",
+        "\"Keeps you on the edge of your seat. Keeps you wanting more.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is superb, the costumes are lavish, the story, based on history, is rich.\"",
+        "\"Outstanding television, outstanding writing, outstanding acting.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for specific series",
+      "evidence": [
+        "\"Band of Brothers will always be my favorite series of all time.\"",
+        "\"This series is every bit as good as Band of Brothers.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The music is wonderful and the acting is very good.\"",
+        "\"The actors are so believable in their roles, it is incomprehensible to me that the series did not win many more awards for the superb acting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I will miss all the characters in this series when I am finished watching.\"",
+        "\"This series is the most accurate representation of that horrific time in our history.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex dramas, particularly those with historical themes and high production quality. They value emotional resonance and enjoy narratives that keep them engaged and on the edge of their seat."
+}

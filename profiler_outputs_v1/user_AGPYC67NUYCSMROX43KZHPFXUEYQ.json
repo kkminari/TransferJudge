@@ -1,0 +1,71 @@
+{
+  "user_id": "AGPYC67NUYCSMROX43KZHPFXUEYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi",
+      "evidence": [
+        "Great ole time sci=fi",
+        "old time sci fi. still awesome idea today."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "it's just piece meal of projects. But it's interesting."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "you become so engrossed in it that it feels like only five minutes have gone by."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Good show....but highly produced."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Love! Please make free on prime again......please."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "The excitement about eclipses becomes contagious when you watch this documentary!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Great memories of my childhood. Still a great flick."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi content, particularly enjoying fast-paced narratives that evoke nostalgia and emotional resonance. They appreciate high production quality but show low brand loyalty, indicating a focus on individual content rather than specific creators."
+}

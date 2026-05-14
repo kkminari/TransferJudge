@@ -1,0 +1,77 @@
+{
+  "user_id": "AELG6GLYTI5KKLCHPGXVJ7NZRAPA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, romance, drama, thriller",
+      "evidence": [
+        "\"What a great film! The chemistry and dialogue that exists between Claudette Colbert and Clark Gable is amazingly BRILLIANT and FUNNY!\"",
+        "\"This is a GREAT movie, especially for teenagers ~ but I think all ages would enjoy it! It has a little bit of everything; cheerleading, romance, comedy, etc.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's funny, scary and it keeps you at the edge of your chair.\"",
+        "\"This movie is really good. Its worth it, and although I thought Bill Belamy was going to have a bigger part, it was a funny movie and you'll never guess what happens!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This is a GREAT movie, especially for teenagers ~ but I think all ages would enjoy it! It has a little bit of everything; cheerleading, romance, comedy, etc.\"",
+        "\"Wow...what a movie! And the fact that it's based on a true story makes it even more fun to watch.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I thought the DVD was cool, not the best, but it was all right.\"",
+        "\"Although the acting wasn't 'Academy Award' winning, it has poor direction, a semi~bad script, and its cheaply made ~ its a good movie to watch late night when your flipping through channels.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Kidman fans will go crazy over this film because it is one of her most ravishing performances to date!\"",
+        "\"Is there anything Denzel Washington can't achieve in the acting world?!!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"What a great film! The chemistry and dialogue that exists between Claudette Colbert and Clark Gable is amazingly BRILLIANT and FUNNY!\"",
+        "\"This is one of the cutest movies ever ~ Like many other husbands in Manhattan during the summer, Richard Sherman...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"What an AMAZING and inspirational story ~ and it ACTUALLY happened!!\"",
+        "\"I looooove this movie. It's funny, scary and it keeps you at the edge of your chair.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of films, particularly comedies and romantic dramas, often appreciating fast-paced storytelling with strong emotional impact. They show a preference for engaging narratives that evoke laughter and excitement, while being less concerned about production quality."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AEGTMCDYE4YLEDU23P7VHI2CGCJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "opera, drama",
+      "evidence": [
+        "\"I think the other reviewer... gave an excellent review. Although this is a magnificent work...\"",
+        "\"Mozart is the real winner here. Many consider DG the finest opera ever written; I cannot make a good argument against that belief.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Mozart uses many comedic devises to point out many serious shortcomings in 18th century society.\"",
+        "\"The story is sort of complex, off the wall. Think of a 'Class B' 'Lucia'...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The story is pretty thin and tawdry and the music sounds like Puccini, but has perhaps two or three really good arias.\"",
+        "\"The last act is kind of weak. It has some fine music, but the massacre at the conclusion just does not seem to work very well.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The sound and videography were also excellent;\"",
+        "\"The audio is 1990 non dts High Def or 5.1 surround and the video is a little grainy non Blu Ray.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I purchased the Barenboim- La Scala set as the reviews seemed to be pretty good...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The battle scenes are unbelievably realistic...very scary...\"",
+        "\"The stage direction, camera work, lighting scenery, costumes and videography, audio are all first rate.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Emotionally Riveting!\"",
+        "\"The final scene's intensity will make the hairs on the back of your neck stand up.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for opera and complex narratives, appreciating high production quality and emotional depth in performances. They tend to favor slower pacing, indicating a preference for character-driven stories, while showing some skepticism towards modern interpretations and brand loyalty."
+}

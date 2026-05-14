@@ -1,0 +1,75 @@
+{
+  "user_id": "AG3HCLAOWPI44WPSBNQTZOZZF76Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "'Classic 60s sitcom'",
+        "'Depressing show.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'It may have been good when released, but it bored me.'"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "'Depressing show.'",
+        "'I did not enjoy this show at all.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "'Everything about this movie, from the acting, to the casting, to the soundtrack, is DREADFUL.'",
+        "'Waste of money.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "'Highly recommended.'"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "'Such a wonderful movie'",
+        "'Highly recommended.'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "'Waste of money.'",
+        "'I can't believe I wasted 2 hours and 21 minutes of my life on this piece of trash.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a mixed taste in genres, with a notable dislike for shows they find depressing. They have a high sensitivity to production quality and prefer simple narratives, often expressing disappointment in their viewing experiences."
+}

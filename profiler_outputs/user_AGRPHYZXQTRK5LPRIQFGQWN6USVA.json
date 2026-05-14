@@ -1,0 +1,77 @@
+{
+  "user_id": "AGRPHYZXQTRK5LPRIQFGQWN6USVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, magic, horror",
+      "evidence": [
+        "\"Great movie now part of my collection\"",
+        "\"Very fun movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Very good movie but had a lot of parts that you could see flaws in the story line\"",
+        "\"Great movie nothing was wrong very happy\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Very fun movie\"",
+        "\"Great movie now part of my collection\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great movie nothing was wrong very happy\"",
+        "\"This DVD had nothing on it\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Great movie now part of my collection\"",
+        "\"Love the music in the movie, very sad but great storyline\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Love the music in the movie, very sad but great storyline\"",
+        "\"Great movie nothing was wrong very happy\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Love the music in the movie, very sad but great storyline\"",
+        "\"Great movie im just upset the cover is in Spanish but at least the movie has English, this is a good movie\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and magical films, often appreciating their emotional impact and fun nature. They show a preference for fast-paced storytelling but are less concerned with production quality or brand loyalty."
+}

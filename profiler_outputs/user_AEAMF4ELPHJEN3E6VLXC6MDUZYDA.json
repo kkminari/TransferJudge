@@ -1,0 +1,74 @@
+{
+  "user_id": "AEAMF4ELPHJEN3E6VLXC6MDUZYDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, historical, comedy, fantasy",
+      "evidence": [
+        "\"Excellent period film shot during World War I in Europe before the USA joined.\"",
+        "\"Great references to folklore vampire culture.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I was entertained and kept my attention with the storyline, special effects, make-up, costumes and sets from beginning to end.\"",
+        "\"I could not stop laughing at the slap stick and dry humour.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It was enlightening to learn that the men had very little knowledge about the blue whale and the whale shark as they felt threatened as the whales would swim towards the raft and then dive under it at the last moment.\"",
+        "\"I was so touched by this documentary of a period in Mozu's life in Japan...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"great cinematography with accurate wardrobe and furnishings.\"",
+        "\"intense acting on both actor and actress.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"the CG effects are amazing in my humble opinion.\"",
+        "\"great cinematography with accurate wardrobe and furnishings.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I was so touched by this documentary of a period in Mozu's life...\"",
+        "\"This is a heart-wrenching story of a little lady with a lot of spirit and determination.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly documentaries and historical films, and appreciates high production quality. They prefer straightforward narratives with fast pacing and are emotionally engaged by the content they consume."
+}

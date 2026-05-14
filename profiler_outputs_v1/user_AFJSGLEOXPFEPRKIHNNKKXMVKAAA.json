@@ -1,0 +1,77 @@
+{
+  "user_id": "AFJSGLEOXPFEPRKIHNNKKXMVKAAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "detective, period, historical",
+      "evidence": [
+        "\"I enjoy British mysteries and many detective stories.\"",
+        "\"I enjoy period stories and excellent character development which this movie displays.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I appreciate all the character development of the supporting characters. This really enhances the plot.\"",
+        "\"The characters were well developed and I enjoyed the interaction between the two leading detectives.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I enjoy seeing cities which haven't been showcased very often.\"",
+        "\"A nice way to spend an evening.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The actors were excellent and Patrick Malihide is one of my favorites.\"",
+        "\"Young Catherine was well written, beautifully acted as well as wonderful costumes and scenery.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I always enjoy Peter Davison and Brian Glover.\"",
+        "\"Patrick Malihide is one of my favorites.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual, atmospheric",
+      "evidence": [
+        "\"I especially enjoy buildings, cars, etc. that are no longer here.\"",
+        "\"The scenery is beautiful.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I will watch this series again. British history is fascinating.\"",
+        "\"It is a classic and will endure as one of the best.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for detective and period dramas, appreciating character development and high production quality. They enjoy slower-paced narratives that evoke emotional resonance and provide a visual treat."
+}

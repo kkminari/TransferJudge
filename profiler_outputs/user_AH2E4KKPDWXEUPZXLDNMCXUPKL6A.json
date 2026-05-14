@@ -1,0 +1,77 @@
+{
+  "user_id": "AH2E4KKPDWXEUPZXLDNMCXUPKL6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "martial arts, comedy",
+      "evidence": [
+        "The Office is a hilarious series, especially after you get to know the characters.",
+        "If you're trying to learn Hapkido from home, or just reviewing, these DVDs by Master Song are some of the best for the money."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It's ok if you want to learn some katas, but Ted Tabura was nowhere in the video at all.",
+        "Nothing at all new. Kind of a wasted opportunity to get deeper into things."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "More Bob, less 'art' next time guys.",
+        "If you're trying to learn Hapkido from home, or just reviewing, these DVDs by Master Song are some of the best for the money."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Top quality teaching and video. Typical of YMAA. Their stuff is always first rate quality.",
+        "Filming and sound all very well done. A+ job!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "YMAA, Master Song",
+      "evidence": [
+        "Top quality teaching and video. Typical of YMAA.",
+        "These DVDs by Master Song are some of the best for the money in my opinion."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "Different camera angles and speeds, showing close ups of the hand positions and footwork.",
+        "Filming and sound all very well done."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "I really enjoyed it. This shouldn't be watched once but again.",
+        "If you’ve ever worked in an office, or even if you haven’t, you know that the job you’re at can have all kinds of crazy characters."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys martial arts instructional videos and finds value in quality production. They appreciate comedic elements in shows like The Office, indicating a preference for light-hearted content, while also valuing clear and practical teaching methods in martial arts."
+}

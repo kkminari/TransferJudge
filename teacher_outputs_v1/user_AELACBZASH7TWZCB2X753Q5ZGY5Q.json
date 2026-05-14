@@ -1,0 +1,160 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's strong preference for documentaries and dramas translates well to books that explore similar themes, particularly those that evoke emotional responses and highlight social issues. This pattern directly informs a preference for non-fiction and literary fiction that deals with real-life stories and emotional depth.",
+      "transferred_insight": "Prefer books that are documentary-style or emotional dramas, focusing on social issues.",
+      "confidence": 0.8
+    },
+    "narrative_complexity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for simple narratives suggests a tendency towards accessible storytelling, but this may not fully dictate the complexity of book recommendations. While they may enjoy straightforward plots, there is room for some complexity as long as it remains engaging.",
+      "transferred_insight": "Prefer accessible narratives that are not overly complex.",
+      "confidence": 0.6
+    },
+    "pacing_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's slow pacing preference indicates a liking for books that develop themes and characters gradually, but this does not exclude the possibility of enjoying some faster-paced narratives. Recommendations should lean towards slower, more contemplative reads while allowing for some variation.",
+      "transferred_insight": "Prefer slower-paced narratives that allow for character and theme development.",
+      "confidence": 0.65
+    },
+    "quality_sensitivity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high sensitivity to quality in film suggests they will also appreciate well-crafted books. This pattern directly applies to prioritizing books with strong writing, character development, and overall production quality.",
+      "transferred_insight": "Prefer high-quality, well-written books with strong character development.",
+      "confidence": 0.8
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user's low brand loyalty indicates that they do not have a strong attachment to specific authors or creators, which means this pattern should not influence book recommendations. Recommending based on brand loyalty could lead to negative transfer.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's high sensory experience preference is film-specific and does not translate to books, which do not provide the same sensory engagement. This pattern should be blocked to avoid negative transfer.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high emotional resonance indicates a strong preference for content that evokes deep feelings and reflections. This pattern directly applies to recommending books that are emotionally impactful and resonate with the reader.",
+      "transferred_insight": "Prefer emotionally resonant books that evoke deep feelings.",
+      "confidence": 0.9
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "0078025443",
+      "title": "Auditing & Assurance Services, 5th Edition",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book provides a thorough examination of accounting practices, which can be seen as a documentary-style exploration of a professional field. Its high rating indicates quality, aligning with the user's preference for well-crafted content."
+    },
+    {
+      "rank": 2,
+      "item_id": "019932249X",
+      "title": "Introduction to Victimology: Contemporary Theory, Research, and Practice",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book addresses social issues related to victimology, which aligns with the user's interest in documentaries and emotional narratives. Its high rating suggests it is well-researched and written, appealing to the user's quality sensitivity."
+    },
+    {
+      "rank": 3,
+      "item_id": "Trash Animals: How We Live with Nature’s Filthy, Feral, Invasive, and Unwanted Species",
+      "title": "Trash Animals: How We Live with Nature’s Filthy, Feral, Invasive, and Unwanted Species",
+      "score": 0.78,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book explores the relationship between humans and various animal species, providing a documentary-style narrative that highlights social and environmental issues. Its high rating indicates quality content that resonates with the user's interests."
+    },
+    {
+      "rank": 4,
+      "item_id": "B000HNFUA0",
+      "title": "Story of the Church",
+      "score": 0.75,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book likely provides a historical and emotional exploration of the church's impact on society, aligning with the user's preference for documentaries and emotional narratives. Its high rating suggests it is well-crafted."
+    },
+    {
+      "rank": 5,
+      "item_id": "Behind the Mask: The Life of Vita Sackville-West",
+      "title": "Behind the Mask: The Life of Vita Sackville-West",
+      "score": 0.74,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This biography offers an emotional and insightful look into the life of a significant literary figure, appealing to the user's interest in drama and emotional resonance. Its quality is indicated by a strong rating."
+    },
+    {
+      "rank": 6,
+      "item_id": "The Kings Curse (The Cousins' War: Thorndike Press Large Print Basic)",
+      "title": "The Kings Curse (The Cousins' War: Thorndike Press Large Print Basic)",
+      "score": 0.73,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This historical fiction novel likely explores themes of power and personal struggle, resonating with the user's preference for emotional narratives. Its high rating suggests it is well-written."
+    },
+    {
+      "rank": 7,
+      "item_id": "The Merchant of Venice (Cambridge School Shakespeare)",
+      "title": "The Merchant of Venice (Cambridge School Shakespeare)",
+      "score": 0.72,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This classic play deals with complex emotional themes and social issues, aligning with the user's interests in drama and emotional resonance. Its quality is supported by its educational context."
+    },
+    {
+      "rank": 8,
+      "item_id": "Woman at the Devil's Door: The Untold True Story of the Hampstead Murderess",
+      "title": "Woman at the Devil's Door: The Untold True Story of the Hampstead Murderess",
+      "score": 0.7,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book presents a true crime narrative that explores social issues, appealing to the user's documentary preference. Its high rating indicates quality writing."
+    },
+    {
+      "rank": 9,
+      "item_id": "The Voyage of the Beagle",
+      "title": "The Voyage of the Beagle",
+      "score": 0.68,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This classic work by Darwin offers insights into nature and society, aligning with the user's interest in documentaries. Its historical significance and quality writing make it a strong recommendation."
+    },
+    {
+      "rank": 10,
+      "item_id": "The Haunted Garden",
+      "title": "The Haunted Garden",
+      "score": 0.67,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This poetry collection reflects on the author's experiences, likely resonating emotionally with the user. Its high rating suggests it is well-crafted and impactful."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference were blocked due to low relevance and potential negative transfer.",
+  "overall_strategy": "Focused on the user's strong preferences for documentaries and emotional narratives while ensuring quality in recommendations. Blocked patterns that could lead to irrelevant suggestions, allowing for a more tailored list of books."
+}

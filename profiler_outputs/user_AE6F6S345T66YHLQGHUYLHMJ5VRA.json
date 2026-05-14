@@ -1,0 +1,77 @@
+{
+  "user_id": "AE6F6S345T66YHLQGHUYLHMJ5VRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animation, documentary",
+      "evidence": [
+        "\"These are the films that inspired the video game Cuphead... artistry and imagination in 1930s animation.\"",
+        "\"I am sick and tired of Netflix and Prime green lighting pieces of crap like this that should be relegated to a corny youtube channel.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I do not want to hear anal retentive animation 'experts' using the freeze frame button and complaining.\"",
+        "\"The second commentary is the funniest commentary I’ve ever heard.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Fascinating and entertaining!\"",
+        "\"Watching this character evolve chronologically with the best animation directors is a huge treat.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The improvements compared to the previous DVD release are HUGE.\"",
+        "\"I could care less about the episodes of the animated series... My favorite aspect of this release is seeing the detail on the stop-motion puppets, the surreal set design, and Oscar winning makeup.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Buy all Thunderbean, Steve Stanchfield can do no wrong.\"",
+        "\"If you liked volumes 1 & 2, here's more weird, rare gold.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The greatest movie about Mark Twain and one of the best animated films of all time.\"",
+        "\"I give the blu-ray version of Beetlejuice five stars for the picture and sound quality alone.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is better than Golden Collection.\"",
+        "\"I thought the WWII shorts would be a drag, but Clampett's 'Russian Rhapsody' has become one of my favorites.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for animation and appreciates high-quality production values, particularly in restoration work. They enjoy simple narratives and slow pacing, valuing emotional resonance and sensory experiences in their viewing choices."
+}

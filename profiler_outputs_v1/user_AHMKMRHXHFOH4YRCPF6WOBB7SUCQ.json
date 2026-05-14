@@ -1,0 +1,77 @@
+{
+  "user_id": "AHMKMRHXHFOH4YRCPF6WOBB7SUCQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family",
+      "evidence": [
+        "\"a classic family favorite\"",
+        "\"the storyline was good — they mixed it up so differently from the first one that it was completely new.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the story is as timeless as ever.\"",
+        "\"I thought they did a great job of portraying the book true to form.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"this was a joy to watch!\"",
+        "\"it was very emotional.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"great cast and storyline.\"",
+        "\"the direction and acting were well done.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Patrick Swayze, Game of Thrones",
+      "evidence": [
+        "\"who doesn't love Patrick Swayze?\"",
+        "\"As a huge Game of Thrones fan...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "emotional impact",
+      "evidence": [
+        "\"there wasn't a dry eye in the theater.\"",
+        "\"it was very emotional.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"it was very emotional.\"",
+        "\"this is a movie we enjoy watching again and again.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic dramas and family-oriented films, often valuing emotional impact and storytelling. They show loyalty to specific actors and appreciate high production quality, while favoring simpler narratives that evoke strong feelings."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHGLXTZX6G2JQUL2MJMPLZJBHUCQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "All the actors gave very good performances.",
+        "Good plot, and it kept my interest."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Slow in the middle, but a very good story.",
+        "Did not hook me."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Slow in the middle, but a very good story.",
+        "Quit after 15 minutes. Never got better."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Christopher Walken gave a great performance.",
+        "All the actors gave very good performances."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Waiting for more.",
+        "Better than network TV."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "Good plot, and it kept my interest.",
+        "Interesting story line."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Did not hook me.",
+        "Quit after 15 minutes. Never got better."
+      ],
+      "confidence": 0.4,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys stories with good performances and interesting plots but shows a preference for slower pacing and simpler narratives. They are sensitive to production quality but have mixed feelings about emotional engagement."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AFFHWYNWZRW4EKEO2NGL6ZOMFX2Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, war, Christmas",
+      "evidence": [
+        "My Dad loves these War movies",
+        "My grandson loves Dora so this is a nice addition to my Christmas movies."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "cute videos",
+        "funny movie"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "funny movie",
+        "cute video"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Love this movie",
+        "A classic"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual appeal",
+      "evidence": [
+        "cute videos",
+        "fun old shows"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "My grandson loves this",
+        "My husband's favorite Christmas movie"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for family-friendly content, particularly in the genres of war and Christmas movies. They appreciate simple narratives with a fast pace and high emotional resonance, especially when it comes to content that engages their grandchildren."
+}

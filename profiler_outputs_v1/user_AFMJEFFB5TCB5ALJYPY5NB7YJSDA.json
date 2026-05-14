@@ -1,0 +1,77 @@
+{
+  "user_id": "AFMJEFFB5TCB5ALJYPY5NB7YJSDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, musical",
+      "evidence": [
+        "\"A beautiful movie about a woman and her little known niece who work through the grief of losing the child's mother...\"",
+        "\"Enjoy the story and the many musical numbers...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good for a relaxing, evening family movie that doesn’t require thinking.\"",
+        "\"This is a good movie for kids. I would rate it higher for children but for myself it was boring.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Good for a relaxing, evening family movie that doesn’t require thinking.\"",
+        "\"I can still sit in 'my own little corner in my own little chair' and be transported to a magical place.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I was enchanted by the music of R&H, by Cinderella’s gown and the kind handsome prince.\"",
+        "\"Love Downton Abbey. Romance, intrigue, comedy and set in a stylish era with perfect costuming...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have many of Leslie Sansone's walk videos...\"",
+        "\"I generally enjoy musicals. This one was a huge disappointment.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, music",
+      "evidence": [
+        "\"I love this movie for the story, the acting, the music and the beautiful Italian countryside!\"",
+        "\"I was enchanted by the music of R&H...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A beautiful movie about a woman and her little known niece who work through the grief of losing the child's mother...\"",
+        "\"Wonderful testimony to the dedication of these doctors, nurses and others who serve through Samaritan's Purse...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys heartwarming dramas and musicals, often appreciating strong emotional narratives and beautiful visuals. They prefer simpler, slower-paced stories that evoke nostalgia and comfort, while showing a high sensitivity to production quality."
+}

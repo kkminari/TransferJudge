@@ -1,0 +1,77 @@
+{
+  "user_id": "AHPF3TWR2TEDVOAEMW52A7ZM5WQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's shows, documentaries",
+      "evidence": [
+        "Great series for children ages 18 months - 5 years",
+        "Well produced documentary on an issue you don't hear about in the news."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The movie had a thin plot line and gags which were not funny.",
+        "This documentary revealed the extent of GMO foods that have entered our food chain."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "The movie had a thin plot line and gags which were not funny.",
+        "My son lost interest after 10 minutes."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "I was especially impressed by the video quality and production.",
+        "This documentary revealed the extent of GMO foods that have entered our food chain."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Woody Allen has gotten stranger and more twisted over the years.",
+        "I thought this was going to be a very good movie after watching Daniel Craig in Casino Royale."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "The action sequences were stunning.",
+        "I was especially impressed by the video quality and production."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "The movie had a thin plot line and gags which were not funny.",
+        "My son lost interest after 10 minutes."
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys children's shows and well-produced documentaries, showing a preference for high-quality production. They tend to favor simple narratives and slower pacing, but have mixed feelings about emotional engagement and brand loyalty."
+}

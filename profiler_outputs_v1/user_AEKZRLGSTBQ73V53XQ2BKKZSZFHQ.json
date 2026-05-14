@@ -1,0 +1,77 @@
+{
+  "user_id": "AEKZRLGSTBQ73V53XQ2BKKZSZFHQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, romance",
+      "evidence": [
+        "\"I have never considered this movie a 'romance' in the usual way the word is used...\"",
+        "\"I love almost anything Jim Jarmusch has ever done...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"This is a film you have to think about.\"",
+        "\"Easily Wes' best film yet... hilarious and heartbreaking at the same time.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It is a tragedy as the two main characters hurt themselves and everyone around them.\"",
+        "\"The show is always the same but always a little different, and that why we like it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The packaging is very cool and the sound/quality of the DVDs is perfect.\"",
+        "\"Beautiful in all respects.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Jim Jarmusch, Wes Anderson, Coen Brothers",
+      "evidence": [
+        "\"Even though I love almost anything Jim Jarmusch has ever done...\"",
+        "\"Joel and Ethan Coen never disappoint.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory experience",
+      "evidence": [
+        "\"This series is absolutely beautiful on any level...\"",
+        "\"It was filmed in my family's old town near Pittsburgh and is very authentic.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I had read the book, wept. I didn't think it could be realized on film.\"",
+        "\"It amazes me that some people think this is a 'chick flick'...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex narratives and high-quality productions, often enjoying dramas and comedies that evoke deep emotional responses. They show loyalty to specific creators like Jim Jarmusch and Wes Anderson, indicating a refined taste in film and television."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AH7ANVNOCCQGX4VLRIS3B7VYIMRQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama",
+      "evidence": [
+        "\"Great family movie - humorous and moving dialog for all family members to appreciate.\"",
+        "\"This is an especially engaging movie as it doesn't shove religion or spirituality down your throat but unfolds in a moving and honest fashion.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"It's so well done, such attention to detail - more than one thing going on almost all the time - to move the story forward.\"",
+        "\"Some viewers complaining the Peck character showing no grief for his family is unrealistic but have they ever had to keep family (or staff) on point inspite of devastating circumstances?\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It's about time travel after all. Also the reflective moments, believability in acting, save for one or two, is high quality.\"",
+        "\"I tried to watch this movie three times and can not finish as it is way too 'out there' in terms of 'where the heck is this movie going!?\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"It's well directed, a little gem that should be made more easily available/affordable.\"",
+        "\"Outstanding story telling that defies American film-making schlock. Great dialog, editing, lighting and especially acting pull this into gem-status.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I think this season was the best of all. Great dialog, directing and, of course, acting.\"",
+        "\"Great idea to sell these two movies together. Having two Hitchcock films together...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Beautifully done. Haven't LOL'd in a long time. And GREAT GREAT extras. Enjoy!\"",
+        "\"This is one of THE most well thought out, well written imaginings of how people, real people, might play out this type of catastrophy...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A lotta folks are missing subtleties, or not praising the writing and performing of, individual relationships that unfold from the start of the picture to the end...\"",
+        "\"This is an especially engaging movie as it doesn't shove religion or spirituality down your throat but unfolds in a moving and honest fashion.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for family-oriented and dramatic films with complex narratives and high production quality. They appreciate emotional depth and sensory experiences in storytelling, while being less loyal to specific creators or brands."
+}

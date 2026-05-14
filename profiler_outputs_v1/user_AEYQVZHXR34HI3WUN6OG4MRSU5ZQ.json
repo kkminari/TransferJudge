@@ -1,0 +1,77 @@
+{
+  "user_id": "AEYQVZHXR34HI3WUN6OG4MRSU5ZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, slasher",
+      "evidence": [
+        "\"I love slashers and this was a well done slasher.\"",
+        "\"I usually like horror movies that are slashers.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story is in high school... Is he back for revenge or what does he want.\"",
+        "\"The story was easy to follow and I liked the little girl added to the adult guy's story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It was a fun movie only an hr and a half and it has a good pace.\"",
+        "\"There was plenty of gore and suspense.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I usually don't give one star ratings for horror movies but this one had nothing to offer.\"",
+        "\"The acting was bad even for a small indy film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Jamie Bernadette, Tobin Bell",
+      "evidence": [
+        "\"Jamie Bernadette was awesome in this film and we are looking at a new horror scream queen.\"",
+        "\"Tobin Bell helps this movie with a supporting performance as a Dr and makes the acting stronger.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, suspenseful",
+      "evidence": [
+        "\"It's very creepy and atmospheric with great action kills and suspense.\"",
+        "\"There is great suspense and it's a fun movie.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie was great and I recommend it all to watch.\"",
+        "\"I think overall we liked him in the end.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user is a dedicated horror and slasher film fan, showing a strong preference for fast-paced, suspenseful narratives. They appreciate strong performances from actors and are less concerned with production quality, focusing instead on the enjoyment and emotional impact of the films."
+}

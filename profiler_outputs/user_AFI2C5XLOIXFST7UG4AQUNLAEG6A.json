@@ -1,0 +1,77 @@
+{
+  "user_id": "AFI2C5XLOIXFST7UG4AQUNLAEG6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, adventure",
+      "evidence": [
+        "\"Great for everyone!\"",
+        "\"Great for kids and adults because I enjoy them too lol\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Still fun and goofy like I remember.\"",
+        "\"Funny and great for Christmas time.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Full of action and excitement.\"",
+        "\"This show made my girls laugh. I enjoyed it too.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good buy and great price!\"",
+        "\"Highly recommended for a Christmas collection.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Harrison Ford, Diagnosis Murder",
+      "evidence": [
+        "\"Love Harrison Ford and enjoy his movies.\"",
+        "\"I'm a big fan of Diagnosis Murder.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"So funny and a great look into the world of gymnastics.\"",
+        "\"Great movie full of adventure.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Kids love it and watch it all the time lol.\"",
+        "\"This one is sooooo entertaining. I love it!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly, comedic, and adventurous content, often enjoying films that are simple and fast-paced. They express high emotional engagement with the material, particularly when it resonates with their children, and show loyalty to specific actors and series."
+}

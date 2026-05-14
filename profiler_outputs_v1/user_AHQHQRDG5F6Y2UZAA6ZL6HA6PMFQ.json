@@ -1,0 +1,77 @@
+{
+  "user_id": "AHQHQRDG5F6Y2UZAA6ZL6HA6PMFQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, drama",
+      "evidence": [
+        "\"Historical reading that is a must for those interested in slavery and it's history.\"",
+        "\"I love this book. I would highly recommend it to anyone that may be interested in it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Confusing and not organized very well...\"",
+        "\"The plot and outcome was predictable...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"A good read while relaxing...\"",
+        "\"I would rate this movie okay, it was interesting and we enjoyed watching it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I wrote them and received a response that stated I was beyond the 30 day return window...\"",
+        "\"There was not much else that I liked about it.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "No strong loyalty to directors or actors evident."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"I would rate this movie okay, it was interesting and we enjoyed watching it.\"",
+        "\"Interesting reading...\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I realized that it is not a movie I would watch again.\"",
+        "\"There was not much else that I liked about it.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for historical and drama genres, with a tendency towards simple narratives and slower pacing. They appear to have low sensitivity to production quality and emotional resonance, indicating a focus on content rather than execution."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AECXQNEVSYAAGOTLRXIFGCXENFVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action",
+      "evidence": [
+        "\"Intelligent sci-fi series!\"",
+        "\"Great action movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Fun!\"",
+        "\"Great quality!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great action movie!\"",
+        "\"Great finish to the 4 decade saga!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great quality!\"",
+        "\"Great film!!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Great finish to the 4 decade saga!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Great action movie!\"",
+        "\"Great quality!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Fun!\"",
+        "\"Delightful!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced, high-quality action and sci-fi genres, appreciating fun and entertaining narratives. They show a preference for straightforward storytelling and are less focused on emotional depth or brand loyalty."
+}

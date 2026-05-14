@@ -1,0 +1,77 @@
+{
+  "user_id": "AFPN3OYM2Q7WQLAXR33J2KVRD6PA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Why do they always have to include a homosexual storyline?\"",
+        "\"I wish they'd keep the homosexual stuff out of it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the storylines are just not interesting and at some points kind of ridiculous.\"",
+        "\"they kinda dropped the ball with this one.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"the writing is not as good in this season, like they're running out of ideas.\"",
+        "\"the choreography was just boring and didn't add to the story, in my opinion.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"the music and costumes are great in this DVD.\"",
+        "\"the technical expertise is amazing.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love Irish dance, my daughter is an Irish dancer at the Open level.\"",
+        "\"I was pleasantly surprised at Catherine Zeta-Jones and Rene Zellweger's singing and dancing ability.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"the music, the sets, the acting...I loved this DVD!\"",
+        "\"the score is wonderful for that part.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "mixed",
+      "evidence": [
+        "\"Great story, great characters, great music!\"",
+        "\"I would recommend that you rent this movie before you buy it.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a mixed taste in genres, expressing a dislike for certain themes while enjoying strong characters and music. They appreciate quality production but are critical of narrative complexity and pacing, indicating a preference for straightforward storytelling."
+}

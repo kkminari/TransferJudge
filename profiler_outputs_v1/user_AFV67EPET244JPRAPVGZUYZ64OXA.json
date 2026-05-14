@@ -1,0 +1,77 @@
+{
+  "user_id": "AFV67EPET244JPRAPVGZUYZ64OXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary, romance, comedy",
+      "evidence": [
+        "\"This movie is based on the true story of Sean Porter... What follows is a nice story with genuine emotion and character building.\"",
+        "\"This movie has a great cast, wonderful songs and a good storyline.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "medium",
+      "evidence": [
+        "\"The movie starts off at 1951 and ends in 1980... it is a major letdown.\"",
+        "\"There are four intertwined stories... you find out towards the end.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The movie pace was just hurried.\"",
+        "\"The first hour and a half of the movie is spent just getting Rani Mukherjee and Salman Khan married.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The acting is really good. The songs are ok, I was expecting better songs with AR Rehman as the music director.\"",
+        "\"The cinematography, storyline and acting are good.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"The Rock/Dwayne Johnson has definitely grown as an actor; he delivers his lines with conviction.\"",
+        "\"Meryl Streep was great as the boss from hell.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The architecture in these cities shown in the DVD is amazing.\"",
+        "\"The scenery for South Carolina, Mexico and Greece is nice.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The only thing missing was a good storyline.\"",
+        "\"The scene where he thanks American soldiers is enough to make anyone teary eyed.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly drama and documentary, with a strong appreciation for emotional storytelling and sensory experiences. They have mixed feelings about narrative complexity and pacing, indicating a preference for engaging yet straightforward narratives."
+}

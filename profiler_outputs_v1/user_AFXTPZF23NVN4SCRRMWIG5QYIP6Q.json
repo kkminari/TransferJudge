@@ -1,0 +1,71 @@
+{
+  "user_id": "AFXTPZF23NVN4SCRRMWIG5QYIP6Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, cute",
+      "evidence": [
+        "\"Always loved the original Pete's Dragon. This was very cute\"",
+        "\"This is such an awesome series. So glad I got this next season.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"So so happy you had this in stock. Such a great movie. Haven't seen it in years.\"",
+        "\"One of my favorites...haven't watched it yet but looks fine...thank you.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Haven't watched this yet, but this is one of my all time favorites.\"",
+        "\"So awesome...you should watch just one.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Item is in perfect condition\"",
+        "\"DVD looks fine as far as I can tell...thank you\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A gift for my 96 year old mom. She was ecstatic.\"",
+        "\"For mom...loves it\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for family-friendly and cute movies, often purchasing them as gifts for their mother. They appreciate simple narratives with a high emotional impact, indicating a desire for content that resonates personally rather than focusing on production quality or brand loyalty."
+}

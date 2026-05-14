@@ -1,0 +1,75 @@
+{
+  "user_id": "AGOOINSGG7DMMDGWLU4MPR7I6XMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama",
+      "evidence": [
+        "This series is one of my favorites of all the STAR TREK sequel series. Good drama."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "None too spectacular.",
+        "Good print simply not the best episodes of the series."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Good print simply not the best episodes of the series.",
+        "More a problem with the movie than the print."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Not bad.",
+        "I found all of the properties quite satisfactory."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "This series is one of my favorites of all the STAR TREK sequel series."
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "A loose cover and some stalling on the discs.",
+        "More than a few problems trying to view the disc."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Not bad.",
+        "None too spectacular."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for drama, particularly in series like STAR TREK. They tend to favor straightforward narratives and are less concerned with production quality, often expressing mixed feelings about the emotional impact of the content."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AHVOOMXVUB3SVZGLH6DISQOYI4PA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, drama",
+      "evidence": [
+        "\"A classic...a must have...perfect movie to see what our U.S. Army did to the Native Americans...\"",
+        "\"Outstanding movie in spite of the difficult subject matter...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The symbolism, foreshadowing, and imagery are well worth exploring.\"",
+        "\"Their movements, dress, and facial expressions tell the tale of a confident Nazi Germany on the rise...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"This movie however did drag on and on.\"",
+        "\"It does however drag a bit and the connection between generations was not as powerfully portrayed as it could have been.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Superb acting and period costumes.\"",
+        "\"Brilliant work of art.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Scenes are amazing; characters are deep; history is unveiled; truth comes to light through fiction.\"",
+        "\"It is full of great information and I am happy to have it in my video library...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A must watch movie; even though it is painfully gut wrenching!\"",
+        "\"If ever there was a case of 'instant karma,' it plays out in this film.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for historical dramas that are complex and emotionally resonant. They value high production quality and are sensitive to pacing, indicating a mix of enjoyment and frustration with slower narratives."
+}

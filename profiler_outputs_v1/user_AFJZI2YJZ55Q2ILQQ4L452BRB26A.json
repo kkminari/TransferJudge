@@ -1,0 +1,77 @@
+{
+  "user_id": "AFJZI2YJZ55Q2ILQQ4L452BRB26A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, thriller",
+      "evidence": [
+        "I think Ive seen every horror movie out there by now ---thousands at minimum! --Im a super-fan.",
+        "I am a walking dead fanatic, and I adore most apocolypse, infestation, terror themes anyway."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "Unlike ANY other thriller I have ever seen-- tightly woven with subtlety that kept me on the edge of my seat.",
+        "I personally LOVED this movie and Im hard to please when it comes to horror, guts, gore, supernatural."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "This held my interest the entire time and the scenes in the water had me lifting my legs while i was sitting in the chair!",
+        "I thought it was quite well done! I only fast forwarded a bit in the beginning as it was a bit slow, but once it got going -- I was all in."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "I could barely get through half of it and fast forwarding was the only way I could do it.",
+        "The acting was laughable at best, and as others have commented, not once did think those sweet puppies would rip ANYONE limb to limb."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I am a walking dead fanatic, and I adore most apocolypse, infestation, terror themes anyway.",
+        "I personally thought this was an honest, real look at one woman's home and how they've been trying to verify what she's been saying."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "I thought it was very well done! It had all the creepy elements of a classic, 'Oh Crap---its outside!' thrill.",
+        "I REALLY REALLY enjoyed this movie. It had everything, strained relationship between daughter and father, save the puppy!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I personally thought this was an honest, real look at one woman's home and how they've been trying to verify what she's been saying.",
+        "I thought this was tasteful, and well documented. FOR ME--- A WIN!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror and thriller genres, often enjoying complex narratives with fast pacing. They are sensitive to production quality and have a high appreciation for sensory experiences, indicating a desire for engaging and well-crafted stories."
+}

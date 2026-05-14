@@ -1,0 +1,77 @@
+{
+  "user_id": "AFZBMEHS63RSPI6XNHLMNHHTNRZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, drama, science fiction",
+      "evidence": [
+        "\"Great historical information would recommend to anyone who is interested in that period.\"",
+        "\"Avatar is a great movie and I hope that make another one.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great series would highly recommend to everyone.\"",
+        "\"This is a great story and not to be missed.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Outstanding history of the Buffalo Soldiers during the Indian Wars. A must see for anyone interested in the period 1866 to around 1897.\"",
+        "\"It is still funny after all these years.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The CD came as scheduled and was perfect.\"",
+        "\"Outstanding series for anyone who was a fan of Kung Fu.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I already had Season 1 and two and ordered Season 3 from another vendor.\"",
+        "\"I ordered this series some time ago, don't remember the time frame, but had to be at least 3 years ago.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Great classic. Exactly as I remembered from my younger days.\"",
+        "\"This was an outstanding movie about events that took place in Rosewood, FL in the early 1920's.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A must see for anyone interested in the period 1866 to around 1897.\"",
+        "\"It was a tragic event and everyone should view it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for historical and drama genres, appreciating simple narratives with high emotional resonance. They value production quality and have a fondness for classic series, indicating a taste for engaging and meaningful storytelling."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AE7WCHP4PLR6LZXZYT2N3DE6PL3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, sci-fi, drama",
+      "evidence": [
+        "I am a big scifi fan and am willing to grant a movie a good bit of poetic license to make the story more interesting.",
+        "Great action super hero flick"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "Great heist flick with some plot twists that will keep you guessing.",
+        "Everytime you think you have figured out what is going on, the plot takes a twist to show you were wrong."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "This movie is fast paced with surprising plot twists.",
+        "Fast Moving Action Flick"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "Great special effects but totally implausible plot.",
+        "The 2012 version had by far the better action and special effects."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Jason Statham, Guy Ritchie",
+      "evidence": [
+        "Great Jason Statham and Guy Ritchie collaboration.",
+        "If you liked the Jason Statham Transporter movies, you will like this one."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "Great action super hero flick.",
+        "Good SciFi with good special effects."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "I prefer movies where the good guys win and the bad guys lose.",
+        "Not a bad move with some interesting plot twists."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced action and sci-fi films with complex narratives and plot twists. They show a preference for visual spectacle and have a notable loyalty to creators like Jason Statham and Guy Ritchie, but they are less focused on emotional depth in their viewing experience."
+}

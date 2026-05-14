@@ -1,0 +1,77 @@
+{
+  "user_id": "AGDKGL45LCMIJR6K3ADV7HKGE5TQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action, comedy",
+      "evidence": [
+        "I liked that this particular movie was not only action-packed but it was actually VERY dramatic",
+        "this movie is very long, very dramatic, and monotonous"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "the plot has a really surprising turn of events and is very engaging",
+        "the storyline is stable and somewhat linear with few climatic points"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "the movie is long, but I didn't get bored for a second",
+        "long, sometimes boring and action-deficient"
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the acting is superb",
+        "excellent cinematography and visual effects"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Kate Winslet, Tom Hanks",
+      "evidence": [
+        "Kate Winslet is unbeatable in her acting talent",
+        "the actors - Tom Hanks in the first place - act very professionally"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "the soundtrack is a professional, classy, stylish, and a very moving piece of music",
+        "cameramen did a really good job - very realistic scenes of both war and peace"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "it makes you think and reconsider your life values",
+        "despite deepest tragedies, the movie is somewhat life-affirming"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for dramatic and action-packed films, appreciating high-quality production and exceptional acting. They value emotional depth and sensory experiences in storytelling, while showing mixed feelings towards narrative complexity and pacing."
+}

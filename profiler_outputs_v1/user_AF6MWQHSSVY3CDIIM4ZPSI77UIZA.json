@@ -1,0 +1,77 @@
+{
+  "user_id": "AF6MWQHSSVY3CDIIM4ZPSI77UIZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, family, war",
+      "evidence": [
+        "\"Great clean family movie.\"",
+        "\"One of the best war movies - right up there with 'Where Eagles Dare'.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Not as good as the earlier seasons. Spend a lot of episodes dealing with Remington's past instead of cases.\"",
+        "\"If you are a Castle fan you will probably not be disappointed. They seem to have him come up with some pretty ridiculous solutions to the crimes too often...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This season has Gage & Sidney too - two excellent Martial Artists and great characters.\"",
+        "\"Awesome!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good old series. Stefanie Zimbalist and Pierce Brosnan are great together.\"",
+        "\"Great series for those who like the older and cleaner ones.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Danny Kaye at his best!\"",
+        "\"Jackie Chan is great in it.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Great movie - clean enough for kids though intense at times.\"",
+        "\"What can you say - it's Star Wars!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Not as good as the earlier seasons. Has one episode where we find out a character is gay too - has lost it's fun, corny innocence.\"",
+        "\"An acquired taste but I like it - a bit risqué on occasion too so probably not for the kids.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and family-oriented films, often appreciating visual spectacle and fast pacing. They show a preference for straightforward narratives and have mixed feelings about production quality and emotional depth."
+}

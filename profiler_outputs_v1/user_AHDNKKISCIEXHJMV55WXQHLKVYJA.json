@@ -1,0 +1,89 @@
+{
+  "user_id": "AHDNKKISCIEXHJMV55WXQHLKVYJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, action, drama",
+      "evidence": [
+        "recommended if you like british mysteries.",
+        "good drama. enjoyed it so far."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "the story is interesting and his performance is very good.",
+        "Predictable but still a decent thriller."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "slowly paced with some interesting characters and mysteries.",
+        "the somewhat slow pace is perfect for the actor and the mood of the movie."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the writing was weak, the acting was mediocre and the entire production uninteresting.",
+        "Good acting depends on good directing."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Clint Eastwood, Liam Neeson, Paul Newman",
+      "evidence": [
+        "Clint Eastwood is a top star and actor.",
+        "Liam Neeson is a super star."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, character-driven",
+      "evidence": [
+        "the good guys win in the end.",
+        "a good movie doesn't need high tech gadgets to hold the viewers attention."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "the story line was very depressing.",
+        "would not care to watch it again."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "favorite_actors",
+      "value": "Doris Day, Tom Selleck, Paul Hogan",
+      "evidence": [
+        "an early Doris Day but a showcase of her acting.",
+        "Good movie with Tom Selleck portraying Jesse Stone."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys slow-paced mysteries and dramas, often appreciating character-driven narratives. They have a strong preference for high-quality production and are loyal to specific actors like Clint Eastwood and Liam Neeson, but they tend to have low emotional engagement with the content."
+}

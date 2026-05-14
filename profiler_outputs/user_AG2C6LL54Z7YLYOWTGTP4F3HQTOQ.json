@@ -1,0 +1,77 @@
+{
+  "user_id": "AG2C6LL54Z7YLYOWTGTP4F3HQTOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, screwball comedy",
+      "evidence": [
+        "\"Fantastically well done horror movie... destined to go down as one of the greatest horror films of all times.\"",
+        "\"Great movie if you like screwball romantic comedy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It was nothing at all like the books I liked as a kid.\"",
+        "\"Pretends to get into the mindset of kids, yeah right.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It was a bit of a shambles and didn't even work well...\"",
+        "\"I was extremely disappointed to say the least.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"It's absurd that they still have this DVD only and no blu-ray.\"",
+        "\"Pathetic that BBC has stopped offering nature blu-rays in the U.S.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"The movie itself is great, but it's absurd that they still have this DVD only...\"",
+        "\"Great movies: so WB why is this yet another set of titles that you are talking beyond forever to get out on blu-ray?\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"It's 2014 and the only thing available is a PAN&SCAN DVD?\"",
+        "\"If you can stream it in HD, you have an HD transfer so how about bothering with a blu-ray...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"It left me very, very cold though but thankfully I've been able to forget it and recall the wonderful books instead...\"",
+        "\"I was extremely disappointed to say the least.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for horror and screwball comedy genres, appreciating well-crafted films. They are highly sensitive to production quality, often expressing disappointment over poor releases, particularly in terms of format and audio quality. However, they seem to have mixed feelings about narrative complexity and pacing, indicating a preference for straightforward storytelling."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHPO5JRXAUAP3I7LZSMSKDEYML7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"This remake was actually pretty good. The cast is excellent.\"",
+        "\"Its a kind of feel good movie but it is quite funny.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This is a great movie.....really makes you think what if....\"",
+        "\"I wound up liking it quite a bit.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I loved the first three seasons of this show but my complaint is that there are getting to be too many characters.\"",
+        "\"The series clearly ran out of gas at this point. steer clear of this one.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"This collection of flicks is not worth the money.\"",
+        "\"Loved this series when it was in syndication.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I looked for this and when it finally became available I had to own it.\"",
+        "\"This is the last hurrah from the gang at dark shadows.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The cast is excellent.\"",
+        "\"This is a great movie.....really makes you think what if....\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Loved this series the first 5 seasons.\"",
+        "\"I wound up liking it quite a bit.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and comedy, often appreciating strong casts and emotional resonance in their viewing experiences. They tend to prefer slower-paced narratives and show a mixed sensitivity to production quality, indicating a focus on story and character development over technical polish."
+}

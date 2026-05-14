@@ -1,0 +1,77 @@
+{
+  "user_id": "AELKD5C2ZOXZSI6GF22DWAAJOOSA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family, musical, historical",
+      "evidence": [
+        "\"This is a touching story of family survival.\"",
+        "\"Good clean stories.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story has interest from the viewpoint of a young boy...\"",
+        "\"Good clean stories.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The way the kids work together, and the way their situation eventually resolves, is heartwarming.\"",
+        "\"Good clean stories.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is superb.\"",
+        "\"The quality of this VHS format is good, although not 'High-Def'.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have to admit that my interest in Peter Gunn is influenced by the appearance of Lola Albright.\"",
+        "\"I bought this for her, but I am also a fan.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The whole production is also beautiful to watch.\"",
+        "\"The musical score fits perfectly with story, setting, and time period.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is a touching story of family survival.\"",
+        "\"An all-around wonderful experience.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-oriented dramas with simple narratives and emotional depth. They appreciate high production quality and sensory experiences, particularly in musical and historical contexts."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHFV7EZQCB2KRAE4FU5IO7PV5OFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action",
+      "evidence": [
+        "\"I enjoyed the series. Lots of action and good actors.\"",
+        "\"Justified represented some of the best entertainment on television.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"I loved the (Fire In The Hole) writing and all the multifaceted characters.\"",
+        "\"The struggles and 'story lines of the characters' eclipse all the goons and gore.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Lots of action, but the series lacked coherence.\"",
+        "\"I wish this series had not ended, but the finale was perfect!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The whole series is well written and acted.\"",
+        "\"Moore deserved the Oscar.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for actors and series",
+      "evidence": [
+        "\"Walton Groggins was superb!\"",
+        "\"Justified represented some of the best entertainment on television.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The struggles and 'story lines of the characters' eclipse all the goons and gore.\"",
+        "\"I loved the writing & characters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I hated for it to end.\"",
+        "\"The struggles and 'story lines of the characters' eclipse all the goons and gore.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and action genres, appreciating complex narratives and high production quality. They show loyalty to specific actors and series, particularly valuing emotional depth and character-driven storytelling."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AGVMS4LQXBDWX23JO2OUP3JCTQ7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, children's entertainment",
+      "evidence": [
+        "\"Good family movie\"",
+        "\"Great show for the little ones!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Light, very entertaining.\"",
+        "\"Each episode seems to deal with a different life lesson in a positive way.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Very entertaining for little ones.\"",
+        "\"Never fails to make me laugh!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"It is a nice family movie.\"",
+        "\"I gave it 4 stars because some of the plots are a little corny/unrealistic.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual and musical",
+      "evidence": [
+        "\"Good Musical numbers.\"",
+        "\"Sweet story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The show is a very positive family portrayal.\"",
+        "\"It is very nostalgic of simpler times.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly and children's entertainment, favoring simple narratives with fast pacing. They appreciate emotional resonance and wholesome themes, while showing less concern for production quality and lacking specific brand loyalty."
+}

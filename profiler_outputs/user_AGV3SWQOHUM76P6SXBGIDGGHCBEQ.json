@@ -1,0 +1,78 @@
+{
+  "user_id": "AGV3SWQOHUM76P6SXBGIDGGHCBEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy, science fiction, drama",
+      "evidence": [
+        "\"Terrific Action Movie\"",
+        "\"Great Science Fiction Movie\"",
+        "\"Absolutely Hilarious\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot was weak and predictable\"",
+        "\"The humor in scenes is minimal and through unnecessary repetition\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Lots of action and feel good scenes\"",
+        "\"Incredible footage of bicycles messengers screaming through the streets of New York\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Thoroughly enjoyable\"",
+        "\"The animation made it a pleasure to watch\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I wanted this Tarzan DVD to add to my collection\"",
+        "\"I had been waiting to see this movie for a while and it did not disappoint\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"You will feel as though you are right with the crew in the thick of battle\"",
+        "\"Plenty of special effects, explosions and incredible complex situations\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"Each episode is captivating and tugs at your heart strings\"",
+        "\"I was left waiting for the uplifting moment\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action-packed and comedic films, particularly in the science fiction genre. They prefer fast-paced narratives but show a mixed sensitivity to production quality and emotional depth."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AFDCIHSHLQZAVY5AG4TPYBTNJX3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy",
+      "evidence": [
+        "'If you love, Jim Carrey, type of humor than this is one of the best movies'",
+        "'love this movie. watch it!'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'it is one of those movies where they kind of leave the ending up to you and what you think the ending means.'"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "'hilarious'",
+        "'just so cute and i could watch it over and over again'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "'Product came as expected. So far very happy with it.'"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "Jim Carrey, Amanda Bynes, Jack Black",
+      "evidence": [
+        "'If you love, Jim Carrey, type of humor'",
+        "'best amanda bynes movie'",
+        "'Love this movie and jack black'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "humorous and light-hearted",
+      "evidence": [
+        "'so adorable. highly recommend'",
+        "'love this movie. watch it!'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'just such a cute movie'",
+        "'I absolutely love the now you see me movies'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy films, particularly those featuring Jim Carrey, Amanda Bynes, and Jack Black. They enjoy light-hearted, humorous content that evokes positive emotions, although they show mixed feelings towards narrative complexity and production quality."
+}

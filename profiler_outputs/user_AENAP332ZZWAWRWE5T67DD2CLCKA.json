@@ -1,0 +1,77 @@
+{
+  "user_id": "AENAP332ZZWAWRWE5T67DD2CLCKA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"Hilarious! I laughed out loud several times.\"",
+        "\"I really enjoyed the first two seasons; this one less so.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I feel like the stories go more for obvious laughs than in previous seasons.\"",
+        "\"I loved the final shot of this series.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Hilarious! I laughed out loud several times.\"",
+        "\"Made the earlier episodes worth watching.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I enjoyed this movie.\"",
+        "\"Glad I saw the film first, or I would have been disappointed.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love Pamela Adlon so it pains me to say this...\"",
+        "\"Melissa McCarthy is fun to watch in everything.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Pleasantly surprised by the last few episodes.\"",
+        "\"Best period piece ever. Next best thing to time travel.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I really enjoyed the first two seasons; this one less so.\"",
+        "\"I loved the final shot of this series.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and dramas, often appreciating humor and character-driven narratives. They show a preference for fast pacing and a medium level of emotional engagement, though they are less concerned with production quality and brand loyalty."
+}

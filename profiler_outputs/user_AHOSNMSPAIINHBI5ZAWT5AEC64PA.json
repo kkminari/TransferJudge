@@ -1,0 +1,77 @@
+{
+  "user_id": "AHOSNMSPAIINHBI5ZAWT5AEC64PA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"We laughed the whole way through this.\"",
+        "\"I love the story line, the characters, and the plot development.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I thought the story line was a bit boring.\"",
+        "\"I liked how they went more in depth on the character development than in the original.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I think they could have at least made it a little longer!\"",
+        "\"Great movie, the only thing I noticed is that they went a bit overboard with the blood this time.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting was superb, and the idea to view the case from another party's point of view was awesome!\"",
+        "\"These guys did a really good job of turning a great book into a good movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I am a huge Jared Leto and 30 Seconds to Mars fan.\"",
+        "\"I have followed the WMT case since I was a teen and saw the original HBO documentary Paradise Lost.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"the underlying message about love is a wonderful example for our children.\"",
+        "\"I loved it!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I loved it!\"",
+        "\"Definitely recommend to anyone else who is in love with their music!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and dramas, often appreciating character development and emotional resonance in their viewing experiences. They show a strong sensitivity to production quality and have a moderate loyalty to specific creators, indicating a preference for well-crafted narratives."
+}

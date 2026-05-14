@@ -1,0 +1,77 @@
+{
+  "user_id": "AFHPVTMRDDUSLIA2VKGV4J4VIGFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, wholesome",
+      "evidence": [
+        "\"Good wholesome family entertainment.\"",
+        "\"Clean, wholesome, family entertainment.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I suspect if I watched it now it would be very dated.\"",
+        "\"The story line, as I see it, has little substance.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I had to fast forward the sex scenes, adults can imagine, they don't need to see nude bodies.\"",
+        "\"I liked the characters, acting was good, and storyline such that we watched each episode almost one after the other.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I dislike it! It seems like a cheaper production.\"",
+        "\"Swearing was an exception rather than the rule, unlike so many 'military' shows, which I really commend them on.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"More of this type of entertainment please.\"",
+        "\"Keep up the good work cowboys!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"How I wish society was as moral, polite, restrained and gentle today.\"",
+        "\"Excellent show, disappointed they cut production so soon.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Love this show. Never had it in the UK so catching it now.\"",
+        "\"I could watch again, may even buy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly and wholesome entertainment, often expressing disappointment with content that includes explicit language or themes. They favor simple narratives and slower pacing, valuing emotional resonance over production quality."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AH6RHXSGBCNLDXTTYNUQRG7WK5EQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, mystery",
+      "evidence": [
+        "Love Poirot!",
+        "my favorite Sherlock."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "hilarious!",
+        "adorable movie."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "hilarious.",
+        "funny!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "love it. I hope they never make a remake.",
+        "great seller of a great movie."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "Albert Finney, Poirot, Sherlock",
+      "evidence": [
+        "Love Albert Finney!",
+        "my favorite Sherlock."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "humor, light-heartedness",
+      "evidence": [
+        "Hysterical",
+        "Funny"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "One part made me cry.",
+        "Great movie. I never tire of watching, over and over again."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and mystery genres, particularly enjoying works featuring Albert Finney and Sherlock. They appreciate humor and light-hearted narratives, often favoring fast-paced storytelling with a simple structure, while showing moderate emotional engagement."
+}

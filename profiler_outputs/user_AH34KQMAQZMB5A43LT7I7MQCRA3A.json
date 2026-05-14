@@ -1,0 +1,77 @@
+{
+  "user_id": "AH34KQMAQZMB5A43LT7I7MQCRA3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed (likes Korean cinema, dislikes Hollywood formulaic films)",
+      "evidence": [
+        "Recently the only good movies are coming from Korea. Hollywood is dead.",
+        "Formulaic Hollywood garbage."
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "the story was better and the cinematography was superb.",
+        "the underlying story was pretty dumb."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "long, dark and boring.",
+        "Waste of time."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the cast and acting was incredible, the story was better and the cinematography was superb.",
+        "Terrible acting, dialogue written by a four year old and had no point."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I have never seen a bad movie Tom Cruise was in.",
+        "I wish they made more episodes."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I felt transported to their world.",
+        "it made me cry it was so beautiful."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "it made me cry it was so beautiful.",
+        "I was amazed and had to watch the very beginning again to tie everything up."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for high-quality Korean cinema, while expressing significant disdain for formulaic Hollywood films. They appreciate emotional depth and immersive experiences, but tend to favor simpler narratives and slower pacing."
+}

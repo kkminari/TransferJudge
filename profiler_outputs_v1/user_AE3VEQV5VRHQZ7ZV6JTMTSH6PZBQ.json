@@ -1,0 +1,77 @@
+{
+  "user_id": "AE3VEQV5VRHQZ7ZV6JTMTSH6PZBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, animation",
+      "evidence": [
+        "\"A great comedy. I love James Garner (who passed away this year) and Dan Aykroyd. I laughed so hard the 1st time I saw this movie on cable.\"",
+        "\"Great TV show; this is my favorite season of this show.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Another great season of the show. Very funny and hilarious.\"",
+        "\"Great show to watch. Still get some great laughs.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great laughs and funny stuff.\"",
+        "\"This is a wonderful stand-up comedy (without a script) that is great.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"A great classic movie! It reminds me of the Cadillac ambulances used back in the day of Emergency Medical Technicians.\"",
+        "\"Great movie by Warren Beatty. It was also a great comic back in the day.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I loved this show when it was on TGIF on ABC in the early 90's.\"",
+        "\"Not a true Harry Potter fan, but still a good movie.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual humor, nostalgic elements",
+      "evidence": [
+        "\"I enjoyed the sword fights.\"",
+        "\"A great toy action movie. I enjoyed the story and the voice talents of the toy characters.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Wasn't a fan of this show, but it is funny from what I've seen.\"",
+        "\"Not a huge fan of the movie, but my family loved it. It was cute in it's ways.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and family-oriented content, often enjoying animated shows and nostalgic elements. They appreciate fast-paced narratives with humor but show less concern for production quality and emotional depth."
+}

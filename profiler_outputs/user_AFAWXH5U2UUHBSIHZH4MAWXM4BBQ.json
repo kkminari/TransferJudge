@@ -1,0 +1,76 @@
+{
+  "user_id": "AFAWXH5U2UUHBSIHZH4MAWXM4BBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action, true stories",
+      "evidence": [
+        "\"A lot of drama and action.\"",
+        "\"Personally, I usually like true stories and this one nailed it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"This started out a little slow for me... it began to be suspenseful.\"",
+        "\"Somewhat dry for my taste and a bit hard to follow at certain times.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This started out a little slow for me.\"",
+        "\"THIS MOVIE IS RATHER SLOW AND IT'S EASY TO LOSE INTEREST.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Ever see those movies where the trailer is the best part of the movie? THIS is one of those movies.\"",
+        "\"I didn't laugh not one time.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Just my personal two cents, not one of Denzels' better performances.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I enjoyed it IMMENSELY. BEING A NAVY VETERAN MYSELF, I WAS ABLE TO RELATE TO IT THAT MUCH MORE.\"",
+        "\"It actually had a decent story line.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Very inspiring and moving.\"",
+        "\"It was worth staying until the end, that made it all worthwhile.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and action films, particularly those based on true stories. They prefer slower pacing and are sensitive to the emotional impact of the narratives, often seeking deeper connections with the content."
+}

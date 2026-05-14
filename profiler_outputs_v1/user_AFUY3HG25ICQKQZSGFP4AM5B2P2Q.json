@@ -1,0 +1,77 @@
+{
+  "user_id": "AFUY3HG25ICQKQZSGFP4AM5B2P2Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"this show was very funny and witty\"",
+        "\"this movie here touched me\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I couldn't really follow at times\"",
+        "\"the commentary was not good all the person talked about was Bette\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I had to stop watching it it was too boring for me\"",
+        "\"I felt that she was really sad\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the performance is out of this world\"",
+        "\"MGH did a beautiful job portraying a mentally ill individual\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Robert Altman, Margo Martindale, Lily Tomlin",
+      "evidence": [
+        "\"Two Words Robert Altman\"",
+        "\"my girl Margo Martindale is amazing\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "emotional depth",
+      "evidence": [
+        "\"I held back the tears as much as I could\"",
+        "\"you see the look on the kids face\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"this movie here touched me\"",
+        "\"brought tears\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and drama, often appreciating emotional depth and high-quality performances. They show loyalty to specific creators and have a tendency to prefer slower-paced narratives, although they sometimes find them boring."
+}

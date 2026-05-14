@@ -1,0 +1,76 @@
+{
+  "user_id": "AGMYEU5JGJ4QYWEZ5XZEURQLK2EQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, spiritual",
+      "evidence": [
+        "\"Great family movie, laughs, clean, enjoyable, great movie!\"",
+        "\"This movie touched me very much on forgiveness.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great movie to share with others.\"",
+        "\"A must see movie for the hour we are living in.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I loved the story and the truth of the love that was shared.\"",
+        "\"This movie touched me very much on forgiveness.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great timing in shipment!\"",
+        "\"Thanks for the great service.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I may even write a book about what God is doing in answer to those prayers even today.\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "emotional, spiritual",
+      "evidence": [
+        "\"It touched my heart and it will yours.\"",
+        "\"So powerful in content and will overwhelm all who see!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It touched my heart and it will yours.\"",
+        "\"This movie touched me very much on forgiveness.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-oriented and spiritual movies that evoke emotional responses. They appreciate simple narratives with a focus on themes of love and forgiveness, often sharing these films with others for collective enjoyment and reflection."
+}

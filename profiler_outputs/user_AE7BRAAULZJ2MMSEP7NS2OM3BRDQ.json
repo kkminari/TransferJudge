@@ -1,0 +1,77 @@
+{
+  "user_id": "AE7BRAAULZJ2MMSEP7NS2OM3BRDQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, comedy",
+      "evidence": [
+        "I thought this was a great modern sci-fi movie.",
+        "This show is a must see comedy."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great classic sci-fi that is easy to watch on Amazon.",
+        "Funny. Really funny if you like British humor."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "This show is so funny.... Because its true.",
+        "Great series, great stars!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "Very good special effects.",
+        "Great script, acting, and that black leather..."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Best Jim Kirk episode ever.",
+        "MST3000 makes this a fun cult movie."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "This proves that the truth is only what those in control want you to think it is!",
+        "This movie gives you an inside view of the life of a troubled teen."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Still strong enough to confront hardship and move through a life full of bad choices.",
+        "If there is a strong woman in your life... Share this movie with them."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys sci-fi and comedy genres, favoring fast-paced narratives that are easy to watch. They appreciate emotional depth in stories, often resonating with themes of personal struggle and resilience."
+}

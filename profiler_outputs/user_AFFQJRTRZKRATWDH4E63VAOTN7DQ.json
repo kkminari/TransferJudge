@@ -1,0 +1,77 @@
+{
+  "user_id": "AFFQJRTRZKRATWDH4E63VAOTN7DQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "Christian, Christmas, Documentary",
+      "evidence": [
+        "\"Excellent faith-based, i.e. Christian, flick dealing with defending God's Word...\"",
+        "\"Love this set of Christmas movies, watch them sometimes even during the year to keep the spirit up.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A really good 'feel' movie and Sorbo is excellent as usual...\"",
+        "\"Not great acting but worth a watch.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Be warned, this takes a lot of concentration and patience to view: rather boring in many parts...\"",
+        "\"It gets pretty interesting towards the end, though.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Not great acting but worth a watch.\"",
+        "\"The sound track is useless...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Jefferson Moore (who also directed it)...\"",
+        "\"United are one of the best Christian worship groups today.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"God's love pours through Louie and his sermons with great graphics.\"",
+        "\"A story about 'what if' I had done things differently...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A wonderful movie with Jefferson Moore... full of life and life changes...\"",
+        "\"Highly recommended for the Christmas season or any season.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for Christian and Christmas-themed content, often appreciating simple narratives with emotional depth. They enjoy films that evoke a sense of warmth and connection, though they show less concern for high production quality."
+}

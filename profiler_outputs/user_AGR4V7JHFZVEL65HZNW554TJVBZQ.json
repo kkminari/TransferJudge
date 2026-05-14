@@ -1,0 +1,77 @@
+{
+  "user_id": "AGR4V7JHFZVEL65HZNW554TJVBZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, family",
+      "evidence": [
+        "\"This is such a funny movies! I laughed so much watching it.\"",
+        "\"I just love the love affair between the two\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's got some good funny parts too.\"",
+        "\"This movie has to be one of the most quoted.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great graphics. Great story. I really do love this movie.\"",
+        "\"This movie always inspires me... to clean the house, to pay the bills, to do anything!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great graphics. Great story. I really do love this movie.\"",
+        "\"It really does give you that feeling of an old movie. Great 'acting'. Great jokes.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Frank Sinatra, Disney",
+      "evidence": [
+        "\"I fell in love with his acting after that. I love his music and his movies.\"",
+        "\"I usually don't like their sequels, but I do love this one.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"I love the digital animation; especially when they show the snow falling.\"",
+        "\"Great graphics. Great story.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I cry every time I watch this.\"",
+        "\"This was one of the first movies I watched with Frank Sinatra in it and I fell in love with his acting after that.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and family-oriented films, often enjoying light-hearted narratives with emotional depth. They show a notable loyalty to specific creators like Frank Sinatra and Disney, and appreciate high production quality, particularly in graphics and animation."
+}

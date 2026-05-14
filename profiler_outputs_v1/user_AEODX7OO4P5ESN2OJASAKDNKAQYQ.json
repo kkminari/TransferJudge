@@ -1,0 +1,78 @@
+{
+  "user_id": "AEODX7OO4P5ESN2OJASAKDNKAQYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, horror, holiday",
+      "evidence": [
+        "\"I love Lifetime Christmas/Holiday Movies. They're just super comfortable...\"",
+        "\"This show is fantastic, it makes me laugh so much...\"",
+        "\"Suspiria... Pure fear, anticipation, suspense, and beautiful imagery.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I don't have to think at all, I know what to expect...\"",
+        "\"The episodes are classic...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It's a tired, boring slog full of wholly unlikeable characters...\"",
+        "\"The end of this film is very anti-climatic and sort of unsatisfying...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Subpar animation can be forgiven if the voiceover talent is great...\"",
+        "\"Script? Not great, but better than most...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If you like Sex and the City, AbFab, Broad City, etc., you'll love it.\"",
+        "\"I can't stand the holidays, but I love Lifetime Christmas/Holiday Movies.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The music crescendos to a fury, then all is silent...\"",
+        "\"It's one of those rare movies that raises so many questions that are just waiting to be talked about.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is one of the most gorgeous movies ever made...\"",
+        "\"It's as if he's telling the audience that it's the journey, not the destination, that's important.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted comedies and holiday movies, often preferring familiar narratives that don't require much thought. They appreciate visual storytelling and emotional depth but show a tendency towards slower pacing and lower production quality in their viewing preferences."
+}

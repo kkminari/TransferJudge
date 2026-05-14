@@ -1,0 +1,76 @@
+{
+  "user_id": "AG4CS4YO4OJZZB6GE7E4HXGADEAQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama, comedy",
+      "evidence": [
+        "\"Delightful film with terrific acting. Lots of subtitles don't even detract from this engaging tale.\"",
+        "\"Well done mystery that keeps you guessing. Believeable characters and great acting\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Consistently mysteries with twists and turns and my inability to ever totally solve them.\"",
+        "\"Great series with complicated mysteries, interesting relationships and subtle humor at times.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Great acting but the plot was quite lacking. Just not interesting\"",
+        "\"Good escape watching as it's not realistic but is entertaining with some dark humor\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Delightful film with terrific acting.\"",
+        "\"Beautiful filmed and great acting\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If you're a Woody fan you'll like this though it's not one of his best\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Lovely heartwarming movie. Really, we could all get along if we'd realize we have more in common than different.\"",
+        "\"Funny and heartwarming. Bill Murray is fabulous as is the actor that plays the little boy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Funny and heartwarming. Bill Murray is fabulous as is the actor that plays the little boy.\"",
+        "\"Lovely heartwarming movie. Really, we could all get along if we'd realize we have more in common than different.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys engaging mysteries and dramas with strong acting and emotional depth. They appreciate complex narratives and high production quality, while showing a mixed preference for pacing. Overall, they favor stories that evoke warmth and humor."
+}

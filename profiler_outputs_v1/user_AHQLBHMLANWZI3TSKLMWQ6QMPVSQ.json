@@ -1,0 +1,77 @@
+{
+  "user_id": "AHQLBHMLANWZI3TSKLMWQ6QMPVSQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "crime, drama",
+      "evidence": [
+        "\"Best cop show ever.\"",
+        "\"Easily in the top ten of best cop shows ever.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Predictable but worthwhile\"",
+        "\"It's predictable but still captivating.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"A good cast and bam, bam, bam pacing make it watchable.\"",
+        "\"The pace is fast, the casting/acting first rate.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Crisp writing, perfect casting and high production values make this series a cut above.\"",
+        "\"High production values and attention to detail, along with a plausible story line make this a Five Star series.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Steven Bochco, David E. Kelly",
+      "evidence": [
+        "\"Thank you Amazon Prime for adding this David E. Kelly masterpiece to your lineup.\"",
+        "\"Stephen Bochco set a new television standard when he made this show.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual, auditory",
+      "evidence": [
+        "\"Beautifully shot, the setting is perfect for the film.\"",
+        "\"Great music!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Absolutely Brilliant! A heady, sophisticated drama/comedy that causes grown men to weep.\"",
+        "\"Everything about Six Feet Under is 5 Star: writing, story lines, photography, high production values and a great cast.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for crime and drama genres, particularly enjoying fast-paced narratives with high production quality. They exhibit loyalty to notable creators like Steven Bochco and David E. Kelly, and their reviews reflect a high emotional engagement with the content they consume."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AFJPXYXWAQKUYFIFUYWUAUVUQMIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, comedy",
+      "evidence": [
+        "\"A good movie for watching when you want something interesting without violence or sex.\"",
+        "\"I think this move is really good for those of us who have lived a few years and experienced real life.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It was an interesting story.\"",
+        "\"I like a move that takes my mind off the worries of the world and entertains me.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I like a move that takes my mind off the worries of the world and entertains me.\"",
+        "\"Not for me, I didn't watch past the first 20 minutes or so, trying to make peoples troubles entertaining just doesn't usually work.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"A good story if you don't like violence or graphic sex.\"",
+        "\"It was somewhat predictable, but it was a sweet story.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Madea's, kind but take no crap attitude reminds me of myself so of course I love this movie.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I like a move that takes my mind off the worries of the world and entertains me.\"",
+        "\"My granddaughter has non-verbal autism and she works very hard at singing along with this show.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Such a precious story, and would love to believe it is real.\"",
+        "\"This movie is a long time favorite of my Granddaughter and mine.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and comedic content, often preferring simple narratives that provide entertainment without violence or graphic themes. They value emotional resonance and sensory experiences that evoke a comforting atmosphere, indicating a preference for light-hearted and uplifting stories."
+}

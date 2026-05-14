@@ -1,0 +1,77 @@
+{
+  "user_id": "AEPT2PVZ2SIDJPMBHQDPIJH4QRHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's, family, adventure",
+      "evidence": [
+        "\"My son likes music and Elmo, and is learning to talk mainly through music...\"",
+        "\"It is a fast paced adventure where the good guys win.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It is a safe show to watch no worry about him seeing anything inappropriate.\"",
+        "\"Very funny and entertaining.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Very funny, fast paced action, my family watches it repeatedly...\"",
+        "\"It has fast moving action, moves you along through the show...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"The cover and case in great shape and the DVD was in great shape...\"",
+        "\"Found it on Amazon at a great price and in great shape...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Scooby-Doo",
+      "evidence": [
+        "\"Scooby-Doo is my sons favorite show...\"",
+        "\"Like watching Scooby-Doo, very funny...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Colorfulness and musical keeps my kids attention and makes him get up and dance...\"",
+        "\"It is a safe show to watch no worry about him seeing anything inappropriate.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"A show for young children, fun to watch...\"",
+        "\"It is a fast paced adventure where the good guys win.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for children's and family-oriented content, particularly fast-paced adventures that are simple and entertaining. They show loyalty to the Scooby-Doo franchise and prioritize fun and safety in their viewing choices for their son."
+}

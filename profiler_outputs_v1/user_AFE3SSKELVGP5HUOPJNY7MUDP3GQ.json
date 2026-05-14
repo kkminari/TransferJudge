@@ -1,0 +1,87 @@
+{
+  "user_id": "AFE3SSKELVGP5HUOPJNY7MUDP3GQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, western, detective",
+      "evidence": [
+        "\"Lots of action, story line OK.\"",
+        "\"Great classic western with a strong moral message.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Silly story, but kept my interest.\"",
+        "\"Disappointing. Well acted and produced, but low on content.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Lots of action, story line OK.\"",
+        "\"Great story, special effects, and good 3D.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Seemed low budget, with subtitles, could not keep my interest.\"",
+        "\"Disappointing. Well acted and produced, but low on content.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Matt Damon",
+      "evidence": [
+        "\"Matt Damon keeps the franchise alive!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, 3D effects",
+      "evidence": [
+        "\"Great story, special effects, and good 3D.\"",
+        "\"Excellent 3D!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Silly story, but kept my interest.\"",
+        "\"Disappointing. Well acted and produced, but low on content.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "low brow humor",
+      "evidence": [
+        "\"Very funny, Low brow humor.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user enjoys action-packed films, particularly in the western and detective genres, but shows mixed feelings about narrative complexity and emotional depth. They appreciate visual spectacle and 3D effects, while also having a preference for low brow humor."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFPMC6R6ZE5B2PNJIRUSE2SBBVYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, documentary",
+      "evidence": [
+        "\"Best ST movie since First Contact\"",
+        "\"Best documentary I've seen on the Conquistadors\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Awesome\"",
+        "\"Great\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The acting in this movie is simply some of the best I have ever seen.\"",
+        "\"Best of the series\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting in this movie is simply some of the best I have ever seen.\"",
+        "\"Very well done.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Star Trek",
+      "evidence": [
+        "\"Best ST movie since First Contact\"",
+        "\"Love the interconnected storylines\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The acting in this movie is simply some of the best I have ever seen.\"",
+        "\"I had to fight tears! Very good and moving!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I had to fight tears! Very good and moving!\"",
+        "\"Disturbing, but we must not forget the truth. Very well done.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and documentary genres, particularly enjoying works with high production quality and emotional impact. They show loyalty to the Star Trek franchise and appreciate fast-paced narratives that evoke strong feelings."
+}

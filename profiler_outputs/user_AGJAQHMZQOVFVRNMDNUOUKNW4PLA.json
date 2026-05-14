@@ -1,0 +1,73 @@
+{
+  "user_id": "AGJAQHMZQOVFVRNMDNUOUKNW4PLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, family, adventure",
+      "evidence": [
+        "'Of course this is great! One of the best trilogies ever made.'",
+        "'Who can write a bad review about 'The Sound of Music'? Of course it's great, and you have most likely seen it yourself!'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'Funny and corny movie!'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "'One of the best entertaining and smart shows ever.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "'Of course this is great! One of the best trilogies ever made.'",
+        "'Who can write a bad review about 'The Sound of Music'? Of course it's great, and you have most likely seen it yourself!'"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to LOTR and classic films",
+      "evidence": [
+        "'Of course this is great! One of the best trilogies ever made.'",
+        "'It's Cinderella, great classic, of course!'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic sensory",
+      "evidence": [
+        "'It is a unexpected journey enjoying this first of the Hobbit Trilogy.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'Who can write a bad review about 'The Sound of Music'? Of course it's great, and you have most likely seen it yourself!'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy and family genres, particularly enjoying classic films and trilogies like LOTR. They appreciate high production quality and emotional resonance in their viewing experiences, favoring fast-paced and simple narratives."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AG4QOLXYOQJVKEQ6I4EAA5TBINNQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I watched all of the Transformers movies and liked them all.\"",
+        "\"I like it is just like the first one.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It is a great no thought required show.\"",
+        "\"I was not sure if I would like this show but after a few shows I started to really like it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I had trouble keeping interested in the movie. It was slow going and I have watched TV programs that were better.\"",
+        "\"Workouts will are tough but boring. Had to keep motivated.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I am happy with this movie. If you read the book it is a little disappointing because it is a little different than the book.\"",
+        "\"The movie was good. There were some sad and happy parts throughout and overall a great movie.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Just as good as the rest of the seasons. If you are a fan this season will not let you down.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"The routine is fun and not too hard to follow.\"",
+        "\"I was not interested enough with it to try again. It was not overly fun.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The movie was good. There were some sad and happy parts throughout and overall a great movie.\"",
+        "\"I would recommend this to a friend.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys simple narratives and has a mixed preference for genres, particularly enjoying familiar franchises like Transformers. They appreciate emotional resonance in movies but have shown some dissatisfaction with pacing and quality in certain reviews."
+}

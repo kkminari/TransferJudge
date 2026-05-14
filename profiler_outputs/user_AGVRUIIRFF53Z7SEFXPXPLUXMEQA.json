@@ -1,0 +1,77 @@
+{
+  "user_id": "AGVRUIIRFF53Z7SEFXPXPLUXMEQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, classic, family",
+      "evidence": [
+        "\"I am a deep lover of classic movies...\"",
+        "\"It's a wonderful movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's a joy to find it on DVD now!\"",
+        "\"You will laugh and will cry!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It's a wonderful way to view what was a play on Broadway! Love it!\"",
+        "\"A very heart warming movie as well as a mystery...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Rosalind Russell did an excellent job portraying Aunti Mame!\"",
+        "\"Haley Mills is excellent in this funny, happy, at times sad movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I hope they make another series or Movie!\"",
+        "\"Can't get enough of watching Army wives\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"You will laugh and will cry!\"",
+        "\"It's a wonderful way to view what was a play on Broadway! Love it!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I hope many get this CD and enjoy a pure classic!\"",
+        "\"It's a heart warming movie as well as a mystery, You will laugh and will cry!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic and family dramas, often enjoying heartwarming stories that evoke deep emotions. They appreciate high production quality and tend to favor slower-paced narratives that allow for character development and emotional engagement."
+}

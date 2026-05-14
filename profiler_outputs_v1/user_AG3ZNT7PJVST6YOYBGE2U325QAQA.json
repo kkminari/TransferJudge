@@ -1,0 +1,77 @@
+{
+  "user_id": "AG3ZNT7PJVST6YOYBGE2U325QAQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action, horror, nostalgia",
+      "evidence": [
+        "\"...one of the weirdest, most bizarre sci-fi movies from the 80's\"",
+        "\"...80's horror movies with a tinge of tongue in cheek comedy with ample amounts of gore\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This movie is a wonderful love letter to early 90's action movies.\"",
+        "\"...cute little movie for all ages.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"...action movies. Arnold Schwarzenegger is in top form in this outing.\"",
+        "\"...came here to kick ass and chew bubble gum.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The 4k version of this movie looks beautiful with stunning inky blacks and Dolby Atmos audio\"",
+        "\"Another fine quality movie from Laika studios\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Thank you, George Miller.\"",
+        "\"...the late great Rutger Hauer.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, immersive experience",
+      "evidence": [
+        "\"...the 4k version of this movie looks beautiful...\"",
+        "\"...stunning inky blacks and Dolby Atmos audio\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...everything my childhood nostalgia needed.\"",
+        "\"...this is one movie that my parents got me into that I will forever be grateful to them for.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for 80's sci-fi and action films, often valuing visual quality and nostalgic elements. They enjoy fast-paced narratives with a high emotional impact, reflecting a deep connection to their childhood favorites."
+}

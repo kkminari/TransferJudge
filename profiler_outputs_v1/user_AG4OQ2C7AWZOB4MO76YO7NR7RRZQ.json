@@ -1,0 +1,77 @@
+{
+  "user_id": "AG4OQ2C7AWZOB4MO76YO7NR7RRZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical fiction",
+      "evidence": [
+        "\"Basically it was a very good drama with a twist ending that’s worth watching for 2 1/2 hours.\"",
+        "\"I enjoy all genres of film and this one is the best one I’ve seen in a long time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"I found Parasite difficult to watch- though it’s supposed to be humorous and dramatic I did not find one moment that made was less than dark.\"",
+        "\"The harsh wording in some of these reviews and the accusations lead me to believe they are prejudice against Midwesterners.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"He’s not trying to be a hero, he’s just a determined father.\"",
+        "\"The relationship with Everett grows slowly but every moment on that path is a delight.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Oscar worthy performances & Film\"",
+        "\"The screenwriter & director created such a beautiful film, one that I believe will still hold up as one of the best -if not THE best- for years.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "mixed",
+      "evidence": [
+        "\"I am not a rabid Quentin Tarantino fan so this is an unbiased opinion.\"",
+        "\"I simply adore the book, and I read it whenever I want to visit the ladies at Cranford so that is usually once a year.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The film locations are breathtaking and the cast breathed such life into their roles that is believable, not over the top or stereotypical.\"",
+        "\"This story has moved me so deeply, that even though it’s over - I still can’t let go.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Without a doubt this will still leave a lasting impression.\"",
+        "\"Some moments brought joy and some actually made me cry and broke my heart.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and historical fiction, appreciating slow-paced narratives with high production quality and emotional depth. They value sensory experiences and are sensitive to the quality of performances and direction, often expressing a desire for meaningful storytelling."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFNXJDRKJZJBOAXKS456LMJ5LSEA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, fantasy, comedy",
+      "evidence": [
+        "\"Firefly was one of those series that I was immediately addicted to... The story, settings (western & space) all done well...\"",
+        "\"Always a Tolkien fan, they may have 'overdone this' - three movies. But have been enjoying them.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Really a surprise - enjoyed the story (its a well told story but I like the new twist on this one) Different and very enjoyable.\"",
+        "\"Great movie, plot was bizarre and incredible. Kept me on the edge of my seat, very well done.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Enjoyed very much, WAY TOO SHORT- can we expect more?\"",
+        "\"I couldn't even make it through 30 minutes of this movie... Do not waste your time...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great show, very sad it didn't last any longer.\"",
+        "\"The book was great and this has to be one of the best done movies (book-move usually loses some story quality).\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Always a Tolkien fan, they may have 'overdone this' - three movies.\"",
+        "\"Firefly was one of those series that I was immediately addicted to...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Great movie, plot was bizarre and incredible. Kept me on the edge of my seat, very well done.\"",
+        "\"Well done, very inspiring. Glad I purchased it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Really loved hearing about his early life.\"",
+        "\"Great show, very sad it didn't last any longer.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and fantasy genres, particularly enjoying well-crafted stories with emotional depth. They value production quality and are loyal to creators like Tolkien, while also appreciating narrative twists and sensory experiences in their viewing choices."
+}

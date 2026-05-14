@@ -1,0 +1,76 @@
+{
+  "user_id": "AEUHGDLVH2BFFTAPEUI44A7XTCHQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "dramedy, comedy, thriller",
+      "evidence": [
+        "\"Light, but thoughtful dramedy.\"",
+        "\"Incredibly suspenseful & well paced story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Although the dialogue is great, at times it felt overly complicated & exaggerated.\"",
+        "\"Characters were cookie cutter, nothing unique or 3 dimensional.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Pacing is excellent -- scenes segue really well.\"",
+        "\"Incredibly suspenseful & well paced story.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Acting is amazing, storyline relatable but a bit mundane.\"",
+        "\"Excellent performances, but storyline not cohesive.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Woody Allen",
+      "evidence": [
+        "\"I am a big fan of Woody Allen and this is one of his finest films.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Felt the violence was not gratuitous, played like another character.\"",
+        "\"Hilarious, amusing and with a lot of heart.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Such a timely premise, and unexpected character/story twists. Love!!!\"",
+        "\"Accurate portrayal of struggling artists dealing with family disapproval.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys dramedies and comedies with a strong emphasis on character development and emotional depth. They appreciate fast pacing and high production quality, particularly valuing the works of Woody Allen. Overall, they seek engaging narratives that resonate emotionally and are well-crafted."
+}

@@ -1,0 +1,73 @@
+{
+  "user_id": "AHIRHF7EMMFLUST5WA7QMHVFD4QA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "'classic love story...will go down in history'",
+        "'kinda reminds me of 'Seconds', a sci-fi thriller'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'held my interest'",
+        "'very well thought out'"
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "'it was a little plodding...kind of a self-indulgent'"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "'I give it all the stars in God's heaven. Everyone should see this movie.'"
+      ],
+      "confidence": 0.3,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "'shows its age...great movie!'"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "'the ending was quite beautiful with a spiritual ring'"
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'well done...sad ending...'",
+        "'had me on the edge of my sofa with lots of popcorn!'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of films, particularly classic love stories and sci-fi thrillers, but has mixed feelings about pacing. They appreciate emotional depth and well-crafted narratives, though they may not prioritize high production quality."
+}

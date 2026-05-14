@@ -1,0 +1,76 @@
+{
+  "user_id": "AFD2RCXZQGSNGXKTRAI3PV26WIEA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Too sad and overly dramatic.\"",
+        "\"I don't get why there is so much sex in this show. It seems like a lazy way to entertain.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The stories are not deep or complicated.\"",
+        "\"Sometimes there are some inconsistencies with the story...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I found this movie to be a little creepy, slow and sad.\"",
+        "\"It seems like a lazy way to entertain.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I like to put it on and do other things.\"",
+        "\"Meh...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Morgan Freeman. That is all we need to write.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"The violence is gratuitous but I still watched a lot of it and enjoyed it.\"",
+        "\"I was not impressed with the level of violence and violent sex...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Too sad and overly dramatic.\"",
+        "\"I use as cinema therapy for depression and avoidance.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for simple narratives and slower pacing, often enjoying content that is easy to watch. They express mixed feelings about genres, with some dissatisfaction towards overly dramatic or sexual content, indicating a more relaxed viewing preference."
+}

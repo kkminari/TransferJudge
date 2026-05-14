@@ -1,0 +1,76 @@
+{
+  "user_id": "AGCEVTINT44LTEF3POKBIDGAJ7FA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, classic",
+      "evidence": [
+        "This is a tear jerker!",
+        "Classic movie!"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great movie!",
+        "Love it!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Tear jerker",
+        "Great movie! Never gets old!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I love these movies!",
+        "Great show!!"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Cate Blanchett",
+      "evidence": [
+        "Only bought because of Cate Blanchett and Sandy!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "emotional impact",
+      "evidence": [
+        "It’s possible! I loved this movie as a child!",
+        "This is a tear jerker!"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It’s great!",
+        "Love this movie!"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic dramas that evoke emotional responses, often enjoying tear-jerking narratives. They show loyalty to specific actors like Cate Blanchett and appreciate simple storytelling with a slower pace."
+}

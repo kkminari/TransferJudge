@@ -1,0 +1,77 @@
+{
+  "user_id": "AGA5IYSU456VYUA6IA3EMZYEZGZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "true crime, comedy, romance, thriller, sci-fi",
+      "evidence": [
+        "\"I'm a sucker for true crime and true stories in general\"",
+        "\"I have always enjoyed this movie since it came out\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"This movie shows the truth and the harsh labors attached to being a slave\"",
+        "\"Sometimes I was confused where the direction of the movie was going\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I feel like some parts did linger on at times where you just wanted action\"",
+        "\"It just seems to drag on in a lot of parts\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"I love all Marvel movies that come out\"",
+        "\"The acting is really amazing and I love all the actors in here\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have been watching this show for five years now\"",
+        "\"I love all Marvel movies that come out\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This movie shows the truth and the harsh labors attached to being a slave\"",
+        "\"This movie has darkness to it making it scary but not in the way movies are nowadays\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is a movie that makes you think and feel and really appreciate what you have\"",
+        "\"The bond between animals and humans is such an important part of this movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for true crime and emotional narratives, often enjoying comedies and thrillers as well. They appreciate quality acting and storytelling but have mixed feelings about pacing and narrative complexity, indicating a desire for engaging plots without excessive dragging. Overall, their reviews reflect a deep emotional connection to the content they consume."
+}

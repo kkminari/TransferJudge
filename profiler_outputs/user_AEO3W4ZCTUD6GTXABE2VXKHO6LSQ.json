@@ -1,0 +1,74 @@
+{
+  "user_id": "AEO3W4ZCTUD6GTXABE2VXKHO6LSQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, action",
+      "evidence": [
+        "\"If you're a horror fan and you haven't seen this sequal, you're missing out.\"",
+        "\"It's entertaining, thrilling and a great story!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's epic! It's graphic, entertaining and a great story.\"",
+        "\"It was artistic, great story, creepy creatures and of course the best part is the star Vincent Price.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This is a great action packed film. It is entertaining from the beginning to the end.\"",
+        "\"The kill scenes in the film were very creative!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"fantastic acting and amazing special effects!\"",
+        "\"Each actor and actress performed their role very well.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"the special effects were outstanding\"",
+        "\"The killer in this film is very creepy!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"It was a different entertaining film with a good twist at the end.\"",
+        "\"It doesn't matter if a zombie movie is scary, funny or cheesy.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror and action genres, enjoying fast-paced films with high production quality. They appreciate entertaining stories but show less emphasis on emotional depth and brand loyalty."
+}

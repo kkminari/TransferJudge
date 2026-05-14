@@ -1,0 +1,77 @@
+{
+  "user_id": "AECFQPFEVPXJJN6XDQHSB2KOY4XQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "yoga, dance, fitness",
+      "evidence": [
+        "I own about 25 kundalini yoga dvds.",
+        "I always like to remind readers that I'm a total belly dance beginner."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "This is a dvd for every level.",
+        "All in all a good, simple yoga program."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Everything is done at a relaxed and easy pace.",
+        "I wish this was a 60 minute dvd. The actual workout is only 20 minutes."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "I was disappointed with this one, mostly due to production issues and music selections.",
+        "The production quality sucks."
+      ],
+      "confidence": 1.0,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "RaviAna, Sera Soltice, Shiva Rea",
+      "evidence": [
+        "I love most of the Raviana dvds.",
+        "I was looking at a clip of tripsichore yoga and thought, now that's creative, and I know Shiva Rea is capable of this."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "The music was outstanding.",
+        "The music is bollywood hip hop."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I felt happier afterwards.",
+        "I just finished doing this dvd and I absolutely loved it!"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for yoga and dance-related content, particularly enjoying simple and slow-paced workouts. They value high production quality and have a notable loyalty to specific instructors, often emphasizing the emotional and sensory experiences provided by the dvds."
+}

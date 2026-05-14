@@ -1,0 +1,77 @@
+{
+  "user_id": "AEV4EJWX7BL7IKUNFK4MCHJ24IYA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, vintage, French New Wave",
+      "evidence": [
+        "\"Sometimes I just like a funny, ridiculous movie that make me laugh.\"",
+        "\"I love French New Wave film and I love the films of Jean-Luc Godard.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"It's confusing, it jumps around and you rarely know what is going on.\"",
+        "\"If you do not like things that seem ambiguous, you won't like this movie.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Interesting cast. Unusual feel to the story, costumes and sets. Not for everyone but is considered one of the must see cult films.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The filming is exquisite, is well acted and has an engaging story.\"",
+        "\"Well made DVD. Sharp and Clear.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Terry Gilliam, Wes Anderson, Jean-Luc Godard",
+      "evidence": [
+        "\"Strictly Terry Gilliam.\"",
+        "\"I love Wes Anderson.\"",
+        "\"I love French New Wave film and I love the films of Jean-Luc Godard.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Beautifully Visual Film. The DVD was crisp and the colors bright and saturated.\"",
+        "\"Great to see the comparison. Anyone who enjoys the crisp cinematography, British 60's camera angles and pop colors of 60's cinema will be wowed.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Heart warming Private Eye Adventures.\"",
+        "\"I liked everything about this peek into the male psyche. Funny, funny, weird and poignant all at the same time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex narratives and enjoys films that evoke emotional resonance, particularly in the comedy and drama genres. They show a high sensitivity to production quality and express loyalty to notable directors like Terry Gilliam and Wes Anderson."
+}

@@ -1,0 +1,89 @@
+{
+  "user_id": "AEN2DGYMI4VDI2SYSGINL7JANFIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, action",
+      "evidence": [
+        "\"A wonderfully big small movie filled with heart and soul.\"",
+        "\"I found this to be more fun than almost any Tarantino film except Pulp fiction.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"This is a very simple movie but enjoyable for just a mindless romp and a few good well timed laughs.\"",
+        "\"This shows that there is such a fine line between comedy and tragedy and in this show the line is thinner than a razors edge.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"This is not high quality oscar worthy by any means but a simple enjoyable bit of escapism.\"",
+        "\"I do not mean to be cruel but this show must have been written by and for morons.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"This is not high quality oscar worthy by any means.\"",
+        "\"Everything about this movie borders on silly... the acting and the production values are among the worst I have ever seen.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love Family Guy !!\"",
+        "\"I have seen every episode at least once and it is creative brave often stupid sometimes smart but ALWAYS ALWAYS ENTERTAINING.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"What a great work of love, of craftsmanship. This is spellbinding, in the truest sense of the word.\"",
+        "\"This is a testament to that hope and the importance of finding solutions to problems the politicians have only made worse.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I promise you laughs tears and sincerity.\"",
+        "\"This is a most enjoyable experience. share it, create around it, teachers, families, friends this should be an event not just a film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "dark, absurd",
+      "evidence": [
+        "\"This is a plate of stinking garbage in every way shape and form.\"",
+        "\"I have to agree with the other reviews who proclaim it to be one of the funniest shows of all time!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user enjoys a mix of comedy and drama, often appreciating films that evoke strong emotions and feature engaging narratives. They have a low sensitivity to production quality, indicating a preference for entertaining content over polished visuals."
+}

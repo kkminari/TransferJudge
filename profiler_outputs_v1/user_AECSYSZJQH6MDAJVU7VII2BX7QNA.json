@@ -1,0 +1,77 @@
+{
+  "user_id": "AECSYSZJQH6MDAJVU7VII2BX7QNA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "I can handle horror movies, but this film left one shaking their head in disgust.",
+        "Sweet to see the mommy dog going to great lengths to save her pup."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Rather a disappointment. I found the movie to be somewhat slow & boring.",
+        "The film is a bit far stretched & definitely a disappointment."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I found the movie to be somewhat slow & boring.",
+        "The movie was extremely boring."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Such a shame Ryan Reynold's talents were 'buried' in this film.",
+        "But this was just too disturbing."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I'm such a fan of Keanu Reeves good work.",
+        "I always enjoy watching Charlize Theron's performance."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "Wonderful watching the connection between boy & dog and the lengths they go to be together.",
+        "Great fight scenes with a nice story line to follow."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Wonderful, thought provoking movie!",
+        "Enjoyable foreign film that will keep you on the edge of your seat!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a mixed preference for genres, with a notable dislike for slow-paced and boring narratives. They appreciate emotional resonance and sensory experiences in films, indicating a preference for engaging and thought-provoking content."
+}

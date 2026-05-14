@@ -1,0 +1,77 @@
+{
+  "user_id": "AE4O7IS6XFTDMTZFXLJ37KXI5VPA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, superhero",
+      "evidence": [
+        "\"I love the Fast Five series. They are pure action & enjoyment.\"",
+        "\"This movie was not good at all. They took the classic DC character & made him a brooding hero...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The action was great & the ending made me wish it would have continued.\"",
+        "\"I thought the story felt rushed.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I felt this one kept me on the edge of my seat.\"",
+        "\"They are pure action & enjoyment.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I think this was a great purchase. I liked the book better but the movie was still great.\"",
+        "\"This has to be one of the worst movies I've ever seen.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Karl Urban is great in this role.\"",
+        "\"I love the Fast Five series.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The action was great & the ending made me wish it would have continued.\"",
+        "\"The match with CM Punk vs Terry Funk was really good...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I was very excited when this was announced... I felt it was good but not great...\"",
+        "\"This has to be one of the worst movies I've ever seen.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and superhero genres, often favoring fast-paced narratives. They show a low sensitivity to production quality and emotional resonance, indicating a preference for entertainment value over depth."
+}

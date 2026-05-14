@@ -1,0 +1,77 @@
+{
+  "user_id": "AFWQTO44QOEFRASYXN7W55X4EMLQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, horror, comedy",
+      "evidence": [
+        "\"Doctor Who was one of the greatest science fiction/fantasy franchises for decades...\"",
+        "\"The original Wrong Turn movies were goofy horror fun.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"...the show has lost fans in droves... they consistently put ideology over character development and basic good storytelling.\"",
+        "\"...the writing is weak and the show is truly unrecognizable as a version of Doctor Who.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"...not fun to watch and certainly not fun to be preached to by some hacks who made a crummy horror movie.\"",
+        "\"...the show has lost fans in droves...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...the writing is weak and the show is truly unrecognizable as a version of Doctor Who.\"",
+        "\"...the camera work and directing are top notch and the actors do a fine job.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Doctor Who, Tom and Jerry",
+      "evidence": [
+        "\"I have every single available episode of Doctor Who...\"",
+        "\"...if you're a fan of Tom and Jerry there are hours and hours of the cartoons you love...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"...the camera work and directing are top notch and the actors do a fine job.\"",
+        "\"...the show has lost fans in droves...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Don't waste your money on this garbage.\"",
+        "\"...the show has lost fans in droves...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and horror genres but expresses significant dissatisfaction with recent iterations of beloved franchises like Doctor Who. They value high production quality and have a low emotional engagement with the content, often criticizing ideological narratives in storytelling."
+}

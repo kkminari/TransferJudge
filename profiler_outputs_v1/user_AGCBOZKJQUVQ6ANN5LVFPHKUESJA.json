@@ -1,0 +1,77 @@
+{
+  "user_id": "AGCBOZKJQUVQ6ANN5LVFPHKUESJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "adventure, sci-fi, comedy, drama",
+      "evidence": [
+        "\"I really liked this movie. The movie covers the lives of a defunct group of super heroes...\"",
+        "\"I grew up with Star Wars...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The hero’s don’t just jump up to be super wholesome...\"",
+        "\"The lines between Jedi and regular fighter are blurred...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I could watch another solo movie easily...\"",
+        "\"It was spooky and offbeat...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"At first the lack of Hollywood polish was off putting...\"",
+        "\"The special effects seem a tad dated...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for Star Wars",
+      "evidence": [
+        "\"I must say that this movie was surprisingly well done...\"",
+        "\"I remember seeing the first starwars when I was eight...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, character-driven",
+      "evidence": [
+        "\"The music for this release was made from the original musical score...\"",
+        "\"The best part was that it really hooked into what a world would be like if law and order broke down...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It was refreshing to see the world as a nice place to live...\"",
+        "\"If you liked 'Joe Versus the Volcano'...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for adventure and sci-fi genres, particularly enjoying the Star Wars franchise. They appreciate fast-paced narratives with emotional depth and a mix of visual spectacle, while showing some sensitivity to production quality."
+}

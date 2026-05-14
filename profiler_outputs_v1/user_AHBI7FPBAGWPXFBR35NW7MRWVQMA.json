@@ -1,0 +1,74 @@
+{
+  "user_id": "AHBI7FPBAGWPXFBR35NW7MRWVQMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "biography, documentary, drama",
+      "evidence": [
+        "\"A beautifully filmed sweeping (detailed) bioptic about a remarkable person...\"",
+        "\"One of the best and most interesting documentaries about cats I've ever seen.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"...the documentary does make it clear that he did make his own misguided choices.\"",
+        "\"...the story's heart, humor and human drama are felt when we see the toll the fighting takes...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"...the film's cinematography was uncomplicated, but on the mark.\"",
+        "\"...the story's heart, humor and human drama are felt when we see the toll the fighting takes...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...the performances giving us the hushed up 'back story' to one of the most troubling periods...\"",
+        "\"...the film makes important points about racism and the everyday effect of misused political power...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual storytelling",
+      "evidence": [
+        "\"...the film's colors seemed to be especially bright and vivid.\"",
+        "\"...the cinematography was uncomplicated, but on the mark.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...the victims' stories and the high-reaching institutionalized cover up, will break your heart.\"",
+        "\"...the wonder of the true story of the Christmas Truce...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for biographical and documentary films that explore complex narratives and emotional themes. They appreciate high production quality and visual storytelling, indicating a taste for films that evoke deep emotional responses."
+}

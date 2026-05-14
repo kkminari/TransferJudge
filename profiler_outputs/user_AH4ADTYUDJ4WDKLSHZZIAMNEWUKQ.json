@@ -1,0 +1,77 @@
+{
+  "user_id": "AH4ADTYUDJ4WDKLSHZZIAMNEWUKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animated, comedy, action, adventure",
+      "evidence": [
+        "\"Shaun the sheep movie is a good animated comedy with very little dialogue.\"",
+        "\"Great action and adventure movie. It will make you hold on to the end of your seat.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Hotel Transylvania 2 is a good, funny animated sequel.\"",
+        "\"Great medieval dragon movie. Great acting from Dennis Quaid and great voice acting by Sean Connery.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great action and adventure movie. It will make you hold on to the end of your seat.\"",
+        "\"Great third sequel to a great film franchise.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Poltergeists remake is a good movie.\"",
+        "\"I got this DVD yesterday in the mail and my family and I watched it and enjoyed it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Great movie sequel and great voice acting by Robby Benson.\"",
+        "\"Great action movie with Chuck Norris.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Great action and adventure movie. It will make you hold on to the end of your seat.\"",
+        "\"Great medieval dragon movie. Great acting from Dennis Quaid and great voice acting by Sean Connery.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Great 1961 Disney animated classic. This is a must movie for dog lovers.\"",
+        "\"I bought this DVD for a friend and she really appreciate it and she really wanted to add this DVD to her collection.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for animated comedies and action-adventure films, enjoying fast-paced narratives with simple storytelling. They show low sensitivity to production quality and emotional depth, focusing more on entertainment value."
+}

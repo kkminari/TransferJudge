@@ -1,0 +1,77 @@
+{
+  "user_id": "AEOYY3ZSYBOHW25WMVDKNAOZPKEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, mystery, drama",
+      "evidence": [
+        "\"Hysterical. The finale was clever.\"",
+        "\"Gripping. I am still mulling the case over in my mind.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "medium",
+      "evidence": [
+        "\"The mystery was fascinating and frustrating at the same time.\"",
+        "\"Very clever effects for a low budget indie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I was on the edge of my seat. Lots of clever plot twists.\"",
+        "\"Such an excellent movie. It has a very strong message about being brave and true to yourself without being too preachy about it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Good acting. Just creepy enough.\"",
+        "\"Very clever effects for a low budget indie. Well acted, well directed.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I am rooting for Bernie to go all Walter White and Get tha big life she’s been dreaming of.\"",
+        "\"I am a huge fan of the Bosch novels and was expecting Connolley's antihero to be mishandled.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual and emotional engagement",
+      "evidence": [
+        "\"The portrayal of the brilliant and lonely victim is poignant.\"",
+        "\"Such original ideas about the afterlife and what constitutes heaven.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Brilliant. Heartbreaking. I was amazed at the level of access that these women gave the camera crew.\"",
+        "\"Such an excellent movie. It has a very strong message about being brave and true to yourself without being too preachy about it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys clever comedies and gripping mysteries, often appreciating strong acting and production quality. They favor fast-paced narratives that evoke emotional responses, while showing some loyalty to specific storylines rather than creators."
+}

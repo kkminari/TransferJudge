@@ -1,0 +1,76 @@
+{
+  "user_id": "AH35WHNYH2Y4HBDTYDMRYH33BQGA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romantic",
+      "evidence": [
+        "\"Romantic\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Fun for it's short life\"",
+        "\"Decent\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Fun for it's short life\"",
+        "\"Cute\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"OK\"",
+        "\"Decent\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Stiller\"",
+        "\"BattlestarG!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"felt immersive\"",
+        "\"haunting tone\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Not\"",
+        "\"Scarey bad\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for romantic content, indicating a positive inclination towards this genre. However, their reviews suggest a mixed response to narrative complexity and pacing, with a tendency towards simpler, faster-paced stories."
+}

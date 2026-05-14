@@ -1,0 +1,77 @@
+{
+  "user_id": "AHMNLYDCRMKYLV53MIVZZQ5XA56A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, adventure, satire",
+      "evidence": [
+        "great historical story",
+        "A nice adventure, interesting POV from negotiator.",
+        "Fun satire."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "Hard to follow story great delivery",
+        "Way different, slow moving and indirect connections."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "slow moving and indirect connections",
+        "Some good singing, not so original story."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Excellent vehicle of both stars skills, where everything isn't spelled out but some important points made by non-verbal cues in their acting.",
+        "Some interesting Russell Crowe historical points to catch."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Russell Crowe",
+      "evidence": [
+        "Fun with Russell Crowe, and interesting foreshadowing of Washington's leanings to story type.",
+        "One of Crowe's best."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "felt immersive",
+        "Excellent vehicle of both stars skills, where everything isn't spelled out but some important points made by non-verbal cues in their acting."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "While the lessons about jumping into romantic relationships has some value, the idea of letting issues between people go instead of resolving them is more about getting along than improving mental health and healthy relationships."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys historical and adventure genres, particularly those featuring Russell Crowe. They appreciate high production quality and have a mixed response to narrative complexity and pacing, indicating a preference for engaging storytelling that may not always be straightforward."
+}

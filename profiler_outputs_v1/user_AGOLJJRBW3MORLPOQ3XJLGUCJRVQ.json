@@ -1,0 +1,77 @@
+{
+  "user_id": "AGOLJJRBW3MORLPOQ3XJLGUCJRVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "foreign films, martial arts, historical",
+      "evidence": [
+        "I love foreign film and this is a must own.",
+        "I loved the plot. he way of privacy was cool calm and unruffled."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The story is great.",
+        "I enjoyed this movie tremendously."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "I enjoyed this movie from the beginning to the end.",
+        "It is long but you are never bored."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The acting was great.",
+        "The setting depicts the era of lavish lifestyle of royalty."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Jason Statham, Russell Crowe, Morgan Freeman",
+      "evidence": [
+        "Jason Statham is just as good as always.",
+        "I love Russell Crowe as an actor."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmosphere",
+      "evidence": [
+        "Great graphics humor and the power of the mind.",
+        "The love of country and the roles women played in politics."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "would bring tears to my eyes.",
+        "it was heart breaking."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for foreign and martial arts films, appreciating both the visual spectacle and emotional depth they offer. They value high production quality and are particularly loyal to actors like Jason Statham and Russell Crowe, indicating a taste for engaging narratives that evoke strong emotional responses."
+}

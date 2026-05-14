@@ -1,0 +1,77 @@
+{
+  "user_id": "AFKREZMR53I5PZJGMH32RGWIHFRQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, found footage, horror, comedy, family",
+      "evidence": [
+        "\"I love movies based on real life events and this one didn't disappoint.\"",
+        "\"If it's found footage of aliens or bigfoot, I'm a happy girl. Loved it!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Some of the best movies I have ever watched are those which start slowly and immediately pick up speed and grab your whole attention.\"",
+        "\"Really a good movie. No drop outs or slow spots, simply an entertaining movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I just don't get it. Why are there so many 1* and 2* reviews for this movie when it's got to be one of the best of the 'found footage' genre to come around since The Blair Witch Project???\"",
+        "\"This was, without a doubt, THE worst movie I have ever watched in my life, lol. It's sort of like the old adage about a train wreck: You want to stop watching but you have to see it through.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Well made and well filmed, it holds your attention from beginning to end.\"",
+        "\"Powers Boothe captures the essence of Jim Jones as no other actor could. The Guyana events are told in all their tragic sadness.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I'm a huge Kevin Durand fan and that's the main reason I purchased this movie.\"",
+        "\"I have been a John Wayne fan most of my life and when I just happened across this Blu-ray, I snapped it up.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This documentary based on true events was mind-blowing.\"",
+        "\"This was great! I especially liked the ending which left this fan with an X-Files vibe.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The Guyana events are told in all their tragic sadness.\"",
+        "\"I couldn't tell you the number of times he and watched this together on VHS and enjoyed it immensely each time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly documentaries and found footage films, often appreciating well-made productions. They prefer fast-paced narratives with high emotional resonance, indicating a strong connection to the stories and characters they engage with."
+}

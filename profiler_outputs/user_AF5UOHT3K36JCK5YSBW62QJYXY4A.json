@@ -1,0 +1,77 @@
+{
+  "user_id": "AF5UOHT3K36JCK5YSBW62QJYXY4A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, independent, thriller",
+      "evidence": [
+        "\"I really liked this movie! This is a gem of an independent film! What a great story!\"",
+        "\"I found this to be a decent thriller.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I like movies where I don't feel like I'm being manipulated to an emotional response but where the sentiment just flows naturally from the events.\"",
+        "\"I thought it could have been better in many respects but I still thought it was good.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The story gets going quickly--about two minutes into the film you are already rooting for these two kids!\"",
+        "\"Unlike many films which take forever to get going, rest assured, this one gets going pretty quickly.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I was surprised at how good the production and direction was and how realistic everything looked for a film made in 1943.\"",
+        "\"The picture on the dvd was ok (not great) but the sound wasn't that good and so it was a little hard to hear all of the dialogue.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have seen many John Wayne films over the last few years and I have to say I'm not really a fan of his in general.\"",
+        "\"I liked that it showed me something I've never thought much about before—that is, the plight of those who lived in the border states during the Civil War.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This film has great atmosphere.\"",
+        "\"It immerses you in the time period of Bernadette's life and the filming of the convent and its surroundings are very well done.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It shows how the power of suffering can lead us into deeper union with God.\"",
+        "\"I liked that it showed me something I've never thought much about before—that is, the plight of those who lived in the border states during the Civil War.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys films with strong character development and emotional depth, particularly in the drama and independent genres. They prefer fast-paced narratives with high production quality and a focus on atmosphere, while showing a moderate sensitivity to brand loyalty."
+}

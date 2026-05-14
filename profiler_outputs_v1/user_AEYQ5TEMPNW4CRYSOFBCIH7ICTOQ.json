@@ -1,0 +1,76 @@
+{
+  "user_id": "AEYQ5TEMPNW4CRYSOFBCIH7ICTOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical drama, comedy, political satire",
+      "evidence": [
+        "\"Such drama, comedy and a bit of historical fiction-- Jamestown is groovy series to watch.\"",
+        "\"Primary Colors obviously portrays a presidential 'regime' of not too long ago.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"I found it superficial and wanted more depth into the main characters' lives...\"",
+        "\"I liked that Suspiria (2018) centers around this eerie dance company...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The film aptly shows the Assembly blaming Louis for much of the working class/sans culottes' poverty and hunger, but it neglects the major hatred of the masses towards Marie Antoinette.\"",
+        "\"If there is editing and/or a better-refined second film to come, we shall see which direction these new-comers are ultimately going.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the cinematography, costume design and acting quality makes for a good film.\"",
+        "\"the actors (esp. Monica) proved natural and witty.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If any soul can act well in an opus by Shakespeare, it's Kenneth Branagh.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"the cinematography, costume design and acting quality makes for a good film.\"",
+        "\"the events in Germany at that time were a post-WWII revolt by the generation of children whose parents were young during the Holocaust years.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Elizabeth made for a fine portrayal of the emotions I believe QE I might have experienced.\"",
+        "\"Libby's loving and determined search for Matty leads to way more answers than she anticipated and to an outcome that still amazes me as just, angering and all-to-real.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys historical dramas and comedies, often appreciating high production quality and emotional depth in storytelling. They express a desire for more narrative complexity and character development, indicating a nuanced taste in films."
+}

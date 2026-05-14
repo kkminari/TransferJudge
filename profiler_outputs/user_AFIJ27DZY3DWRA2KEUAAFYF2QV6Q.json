@@ -1,0 +1,77 @@
+{
+  "user_id": "AFIJ27DZY3DWRA2KEUAAFYF2QV6Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, romance",
+      "evidence": [
+        "\"I love Tina Fey, but generally leave her movies feeling disappointed. This time it was the opposite... Some humor, some romance, some action.\"",
+        "\"Well acted, kept me engaged. I would recommend watching.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"not groundbreaking, but fun to watch and liked the characters Mindy delivers again.\"",
+        "\"Well acted, kept me engaged. I would recommend watching.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Awesome show. So glad I found it\"",
+        "\"Great show! Stumbled on it and couldn't stop watching until I finished all four seasons.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"While it's obviously a low budget movie, still one of the best movies I've seen in a long while.\"",
+        "\"Dull, disappointing and creepy.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Tina Fey, David Suchet",
+      "evidence": [
+        "\"I love Tina Fey, but generally leave her movies feeling disappointed.\"",
+        "\"David Suchet is Poirot, will always be Poirot, and any attempt to prove otherwise is futile.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It was poignant with its statement about the fragility of relationships that start with great passion...\"",
+        "\"Some great fight scenes, imaginative, and touching. A rare blend.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I saw Newsies and that is what made me search out any other movies by the male lead.\"",
+        "\"A very pleasant surprise.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted comedies and dramas with engaging characters and fast pacing. They have a strong appreciation for emotional depth and are loyal to specific creators like Tina Fey and David Suchet."
+}

@@ -1,0 +1,160 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's enjoyment of action and comedy films suggests a preference for engaging and entertaining narratives. This partially translates to books, particularly in genres like action and light-hearted fiction, but the tropes and storytelling methods differ between media.",
+      "transferred_insight": "Prefer action-oriented and humorous fiction, while avoiding overly serious or complex genres.",
+      "confidence": 0.75
+    },
+    "narrative_complexity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's preference for simple narratives directly applies to books, indicating a desire for straightforward plots without excessive complexity or literary experimentation.",
+      "transferred_insight": "Prefer straightforward, uncomplicated narratives in books.",
+      "confidence": 0.85
+    },
+    "pacing_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The mixed pacing preference suggests that the user enjoys both slower and faster narratives, which can apply to a variety of book styles. However, the pacing in books may not always align with their film experiences.",
+      "transferred_insight": "Open to both fast-paced and slower narratives, but with no strong preference.",
+      "confidence": 0.6
+    },
+    "quality_sensitivity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's low sensitivity to production quality in films suggests they may prioritize enjoyment over literary prestige in books. This indicates a preference for entertaining reads rather than critically acclaimed works.",
+      "transferred_insight": "Enjoy entertaining books regardless of their critical reception.",
+      "confidence": 0.65
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user's low brand loyalty to actors indicates that they are not likely to follow authors based on their previous works. This pattern does not translate well to book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "Sensory preferences related to film, such as visual effects or sound, do not apply to books. This pattern is medium-specific and should not influence book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "emotional_resonance": {
+      "decision": "BLOCK",
+      "rationale": "The user's low emotional engagement with films suggests they may not seek deep emotional narratives in books either. This pattern is not strong enough to drive recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.85
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "B0BRM1GBDD",
+      "title": "Tomato Fields",
+      "score": 0.9,
+      "applied_patterns": [
+        "narrative_complexity",
+        "genre_preference"
+      ],
+      "reasoning": "This book features a straightforward narrative about a small-town sheriff facing a mysterious threat, aligning well with the user's preference for simple plots and action-oriented stories."
+    },
+    {
+      "rank": 2,
+      "item_id": "B21",
+      "title": "THE PROCOPIUS EVENT: A JOE BIRD ADVENTURE",
+      "score": 0.85,
+      "applied_patterns": [
+        "narrative_complexity",
+        "genre_preference"
+      ],
+      "reasoning": "This action-adventure book features a straightforward plot involving an investigation, which matches the user's preference for engaging and uncomplicated narratives."
+    },
+    {
+      "rank": 3,
+      "item_id": "B08RQSLPGB",
+      "title": "A Vince Torelli Mystery, Book 3: Blood Debt",
+      "score": 0.8,
+      "applied_patterns": [
+        "narrative_complexity",
+        "genre_preference"
+      ],
+      "reasoning": "This mystery novel features a clear narrative structure and engaging plot, appealing to the user's taste for simple yet entertaining stories."
+    },
+    {
+      "rank": 4,
+      "item_id": "B37",
+      "title": "Judgment at Twenty Mile Bend: A Palm Beach Crime Story",
+      "score": 0.78,
+      "applied_patterns": [
+        "narrative_complexity",
+        "genre_preference"
+      ],
+      "reasoning": "This crime story offers a straightforward narrative with engaging characters, aligning with the user's preference for uncomplicated plots."
+    },
+    {
+      "rank": 5,
+      "item_id": "C41",
+      "title": "Tomato Fields",
+      "score": 0.75,
+      "applied_patterns": [
+        "narrative_complexity",
+        "genre_preference"
+      ],
+      "reasoning": "This book features a simple narrative about a small-town sheriff facing a mysterious threat, aligning well with the user's preference for straightforward plots and action-oriented stories."
+    },
+    {
+      "rank": 6,
+      "item_id": "C8",
+      "title": "Sting",
+      "score": 0.73,
+      "applied_patterns": [
+        "narrative_complexity",
+        "genre_preference"
+      ],
+      "reasoning": "This thriller combines action and suspense with a straightforward narrative, appealing to the user's taste for engaging and uncomplicated stories."
+    },
+    {
+      "rank": 7,
+      "item_id": "C9",
+      "title": "Unholy Ground",
+      "score": 0.7,
+      "applied_patterns": [
+        "narrative_complexity",
+        "genre_preference"
+      ],
+      "reasoning": "This thriller features a clear narrative and engaging plot, which aligns with the user's preference for simple and entertaining stories."
+    },
+    {
+      "rank": 8,
+      "item_id": "C5",
+      "title": "Frontier America: Preacher and MacCallister Series, Book 1",
+      "score": 0.68,
+      "applied_patterns": [
+        "narrative_complexity",
+        "genre_preference"
+      ],
+      "reasoning": "This book offers a straightforward narrative in a historical context, appealing to the user's preference for uncomplicated storytelling."
+    },
+    {
+      "rank": 9,
+      "item_id": "C10",
+      "title": "Golf in the Kingdom",
+      "score": 0.65,
+      "applied_patterns": [
+        "narrative_complexity",
+        "genre_preference"
+      ],
+      "reasoning": "This book presents a simple narrative with engaging themes, which aligns with the user's preference for straightforward storytelling."
+    },
+    {
+      "rank": 10,
+      "item_id": "C11",
+      "title": "Kansas City Zoo Tales: A Wild 100-Year History",
+      "score": 0.6,
+      "applied_patterns": [
+        "narrative_complexity",
+        "genre_preference"
+      ],
+      "reasoning": "This book features a straightforward narrative about the history of a zoo, appealing to the user's preference for simple and engaging stories."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty, sensory preference, and emotional resonance were blocked due to their medium-specific nature and low relevance to book recommendations.",
+  "overall_strategy": "Focused on the user's transferable preferences for simple narratives and engaging genres while blocking patterns that do not translate well to books. Recommendations emphasize straightforward plots in action and light-hearted fiction."
+}

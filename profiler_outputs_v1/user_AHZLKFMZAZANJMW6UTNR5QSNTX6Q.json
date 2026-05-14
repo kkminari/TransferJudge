@@ -1,0 +1,77 @@
+{
+  "user_id": "AHZLKFMZAZANJMW6UTNR5QSNTX6Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, 80's films, entertaining",
+      "evidence": [
+        "Great 80's flick good special effects loved the movie.",
+        "These films are very entertaining if you love Stephen King then these dvd's are for you."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great movie very entertaining Ash has a chainsaw on his arm to fight the undead.",
+        "Great movie heads explode in this movie."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Great movie especially when the guy is trying to shoot the Jerk he keeps hitting the oil cans and the Jerk thinks he is mad at them.",
+        "Great movie very entertaining was amazing the graphics in this movie they could do alot with 80's computer graphics it is amazing."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great product as advertised disc in new excellent condition.",
+        "Discs played all right even though they were used very entertaining movie if you want a great movie that is entertaining order from this store."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "If you like king and queen stories then you will like these blurays also has lots of boob seens.",
+        "Whatever they do to him they can't kill Michael Myers I watched the first five movies so far and they are all good definitely worth the money."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "Great graphics for this 1981 film it was amazing what they could do in the 80's horror films.",
+        "Good 3D movie very entertaining."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Movie was not as good as people say it is.",
+        "Great movie fast shipping good seller."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys entertaining horror and 80's films, often appreciating fast-paced narratives with visual spectacle. They show a low sensitivity to production quality and emotional depth, focusing more on entertainment value."
+}

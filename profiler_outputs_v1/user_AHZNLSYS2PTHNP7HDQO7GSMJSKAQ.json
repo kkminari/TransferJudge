@@ -1,0 +1,78 @@
+{
+  "user_id": "AHZNLSYS2PTHNP7HDQO7GSMJSKAQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "Western, Sci-Fi, Samurai, Comic Book",
+      "evidence": [
+        "\"I usually love Samurai movies, but this isn't really a Samurai movie.\"",
+        "\"The Orville started off as a Sci-Fi comedy.\"",
+        "\"The Incredible Hulk was a vast improvement over Ang Lee's ambitious, but seriously flawed 2003 adaptation of the classic Marvel character.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The movie slows down a little past halfway, and becomes very dramatic.\"",
+        "\"The plot is deceptively simple. Kurosawa had a knack for using simple plots that he fleshed out which character development and interesting turns of events.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It slows down a little past halfway, and becomes very dramatic.\"",
+        "\"The pacing is near perfect.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The picture quality on the blu ray is absolutely stunning, too.\"",
+        "\"The quality of the video never detracts or distracts from the movie, which is what you want in a blu ray - it looks as natural as possible.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Akira Kurosawa, Seth MacFarlane",
+      "evidence": [
+        "\"Kurosawa was a filmmaking genius, and this was one of his finest films.\"",
+        "\"The Orville started off as a Sci-Fi comedy. Over time, the show focused less on humor and more on light drama in a Science Fiction setting.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The special effects in Shin Godzilla are arguably even better than in the Legendary Productions 2014 Godzilla movie.\"",
+        "\"The cinematography is beautiful - this is one of the best looking Westerns ever filmed.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The characters are often out to cover their butts to make sure they don't do anything that would get them in any kind of trouble, rather than calling for swift action that might actually solve the problem - which leads to even greater problems down the line.\"",
+        "\"The script for Warriors of Heaven and Earth is very, very good. Many characters are fleshed out and well rounded, the plot makes sense, and the pacing is excellent throughout.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for high-quality productions, particularly in the Western and Sci-Fi genres, while expressing mixed feelings about pacing and narrative complexity. They appreciate emotional depth and character development, often favoring works by notable directors like Akira Kurosawa."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGITCD6E7GI2TRROPPTNWC2X7MNQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Not as good as prior seasons",
+        "I'm not a Star Wars fan but I really liked this movie"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "This movie was ok like most of his movies.",
+        "Good old movie"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Ok. Not as good as I thought.",
+        "Love this show. Hope it is coming back for another season!"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "If you like this movie it's a good buy",
+        "Good old movie"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Who doesn't love Jeff Lewis?!? He is the best!",
+        "Love this show!!"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Very creepy",
+        "Love this show. Hope it is coming back for another season!"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Love this show!!",
+        "Who doesn't love Jeff Lewis?!? He is the best!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a mixed taste in genres, showing some enjoyment for simple narratives and emotional engagement, particularly with shows featuring Jeff Lewis. They seem to prioritize entertainment over high production quality, with a preference for experiences that evoke strong feelings."
+}

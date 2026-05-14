@@ -1,0 +1,77 @@
+{
+  "user_id": "AG4FLFOEWMY26L6SXKEE26UTOD2A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "western, adventure",
+      "evidence": [
+        "\"I have always liked the way that it truly follows the history of Sheriff Earp.\"",
+        "\"Good adventure and the scenery in India can't be beat.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot is somewhat disjointed.\"",
+        "\"I love every episode.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I am now getting the pleasure of rewatching each season.\"",
+        "\"I am looking forward to taking the time to sit down and watch the great entertainment.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The picture and sound on these discs have been excellent.\"",
+        "\"The digital remastering of this product was excellent.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have always liked the way that it truly follows the history of Sheriff Earp.\"",
+        "\"I enjoyed this movie the first time I saw it and nothing has changed.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual quality",
+      "evidence": [
+        "\"I was impressed with the picture and sound quality.\"",
+        "\"The picture quality and sound are very good.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I had forgotten how much I enjoyed this show when it was on.\"",
+        "\"This is one that I will watch many times.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for westerns and adventure genres, appreciating high production quality and visual clarity. They enjoy simple narratives with a slower pacing, often rewatching shows that evoke nostalgia, though they show low brand loyalty to specific creators."
+}

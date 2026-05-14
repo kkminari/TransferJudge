@@ -1,0 +1,77 @@
+{
+  "user_id": "AH2HR76CFUODYLBSOYWQMLNEHJQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "Italian films, monster movies, westerns, comedies",
+      "evidence": [
+        "Love Italian Westerns.. I am such a fan.",
+        "One of the Best Italian Comedies ever... Put Roberto Benigni on the map..."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "A wonderful moment in time when I was growing up.",
+        "It makes me realize that great films do not just happen."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "A wonderful two hours plus of entertainment...",
+        "It only gets better over time..."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The craftsmanship that goes into a film like this never becomes dated.",
+        "I was hoping for a crisp razor sharp copy with the wonderful Morricone Score to boot."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "Nothing Better than Norman Lear. he has set the 'standard' for entertainment so high.",
+        "If you are a fan of Eli Wallach and his work in Italy and Spain during the 60’s and 70’s, this is just the ticket."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "A wonderful package. Well designed and laid out.",
+        "A heart warming story of how a young man's fantasy takes a very different road."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Too good for words.. His work still haunts us today.",
+        "It makes me realize that great films do not just happen."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for Italian films, monster movies, and comedies, often appreciating their craftsmanship and emotional depth. They enjoy slower-paced narratives that evoke nostalgia and emotional resonance, while also valuing high production quality."
+}

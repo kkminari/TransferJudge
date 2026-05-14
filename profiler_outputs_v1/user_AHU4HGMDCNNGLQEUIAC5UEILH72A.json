@@ -1,0 +1,77 @@
+{
+  "user_id": "AHU4HGMDCNNGLQEUIAC5UEILH72A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy",
+      "evidence": [
+        "'great points in the movie. great voice cast.'",
+        "'I would watch this again and again!!'"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'funny movie'",
+        "'I thought it was funny.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "'I would watch this again and again!!'",
+        "'funny'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "'Fantastic acting crew!'",
+        "'Good movie. Good cast.'"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Adam Sandler",
+      "evidence": [
+        "'love Sandler'",
+        "'Love Sandler!'"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "humor and voice acting",
+      "evidence": [
+        "'great voice cast.'",
+        "'Fantastic acting crew!'"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "'I didn't find the movie very funny or amusing.'",
+        "'Don't think I even finished watching it.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy, particularly enjoying films with humor and a good cast, especially those featuring Adam Sandler. They appreciate quality in production but do not seek deep emotional engagement from their viewing experiences."
+}

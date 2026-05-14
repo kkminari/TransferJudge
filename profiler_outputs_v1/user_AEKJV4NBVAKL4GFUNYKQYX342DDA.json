@@ -1,0 +1,74 @@
+{
+  "user_id": "AEKJV4NBVAKL4GFUNYKQYX342DDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "biographical, drama, inspirational",
+      "evidence": [
+        "Wonderful movie of Harriet and the heartbreaking events of that time.",
+        "True story. Inspiring."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The story is more about camping and survival techniques.",
+        "To think this movie could be award worthy is a joke."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Edge of your seat anticipation.",
+        "Scary without being demonic!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Jennifer Hudson is amazing!!! She should win many awards for her performance.",
+        "The bad acting ruin what could have been a decent movie."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "You won't want to miss a thing in this movie.",
+        "Shows how powerful people are when we put our hands together to make a difference."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Horrible to think this REALLLLLLLY took place.",
+        "Shows you can work thru fear when you care so much about someone."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys biographical and inspirational films with a preference for fast pacing and high production quality. They value emotional resonance and are sensitive to acting quality, often expressing strong feelings about the content they watch."
+}

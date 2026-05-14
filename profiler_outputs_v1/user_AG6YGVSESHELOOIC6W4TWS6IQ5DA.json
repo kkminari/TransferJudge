@@ -1,0 +1,74 @@
+{
+  "user_id": "AG6YGVSESHELOOIC6W4TWS6IQ5DA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, horror",
+      "evidence": [
+        "\"this has to be the best christmas movie of the year\"",
+        "\"the best scary movie of all time..\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"just perfect and really funny\"",
+        "\"good movie, especially for the truth of white america...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"when you want to party, you need this movie...\"",
+        "\"this is one of the scariest movies, I have ever saw....\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"very good quality and very good scary movie\"",
+        "\"love the quality\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"it a good picture and sound, especially for my BOSE.\"",
+        "\"this must be the stupid movie ever...but funny as can be...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"good\"",
+        "\"just perfect\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted comedies and horror films, often appreciating their quality and fast pacing. They show a strong preference for visual and audio quality but do not express loyalty to specific creators or deep emotional engagement with the content."
+}

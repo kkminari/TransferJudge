@@ -1,0 +1,77 @@
+{
+  "user_id": "AFBQE2YOMQU5VSTNQZVM5TATAQQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, drama, romance, christmas",
+      "evidence": [
+        "clean family show we watch with our son and i grew up watching it too",
+        "great funny show.DVD work great"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "good movie ..great performance and appropriate for child too watch too",
+        "it silly cute funny warm movie"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "few were little too slow for me to get into movie but all still good",
+        "good movie ..great performance and appropriate for child too watch too"
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "great job more sort of western like but it very good",
+        "was a gift but came fast and worked was great"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "I'm huge fan of Kevin sorbo and he did great role as so did the other actors",
+        "love the reba show.have all them now"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "so cute .charming funny and good story",
+        "great Christmas movies...."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I fell in love with this movie...so cute .charming funny and good story",
+        "my 9 year old watch it with me and he said wow that a nice thing he does at ending"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly content, particularly in the genres of comedy, drama, and Christmas-themed movies. They enjoy simple narratives with a slower pacing, focusing on emotional resonance and character-driven stories."
+}

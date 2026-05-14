@@ -1,0 +1,76 @@
+{
+  "user_id": "AGRG5J4PRBOMRPK4OJBOM7MQISAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, horror",
+      "evidence": [
+        "\"This was a great thriller! Didn't see the end coming!\"",
+        "\"We love scary movies and this was a pretty darn good one!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Started slow and highly confusing! Really picked up and was quite in awe with the ending!\"",
+        "\"Had a hard time due to the dubbing. Did not finish!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Started slow and highly confusing! Really picked up and was quite in awe with the ending!\"",
+        "\"Had a hard time due to the dubbing. Did not finish!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"We really enjoyed this! Way out of the norm!\"",
+        "\"Great Movie!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Julianne Moore was fabulous as was her co-star!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This is hilarious! Whole family loved it and neighbors too.\"",
+        "\"Really eerie! Sally Field was wonderful and Sutherland made me a definite believer in true evil!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It has been wonderful for all of us!\"",
+        "\"Fabulous! Have watched 4 times and about to rope another person into watching with me!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys thrillers and horror films, often appreciating emotional and engaging narratives. They have mixed feelings about pacing and narrative complexity, but generally favor experiences that evoke strong emotions and laughter."
+}

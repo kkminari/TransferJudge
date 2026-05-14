@@ -1,0 +1,166 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's strong preference for murder mysteries and vintage themes directly translates to a desire for similar genres in books. This suggests a clear inclination towards literary works that feature mystery and vintage elements.",
+      "transferred_insight": "Prefer murder mystery and vintage-themed novels",
+      "confidence": 0.9
+    },
+    "narrative_complexity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's preference for simple narratives indicates a desire for straightforward storytelling in books. This pattern is applicable across both media, as simple narratives can be found in various literary forms.",
+      "transferred_insight": "Prefer straightforward, simple narratives in books",
+      "confidence": 0.8
+    },
+    "pacing_preference": {
+      "decision": "TRANSFER",
+      "rationale": "A preference for slow pacing suggests that the user enjoys books that develop characters and plots gradually. This pacing preference is relevant in both films and literature.",
+      "transferred_insight": "Prefer slow-paced, character-driven novels",
+      "confidence": 0.7
+    },
+    "quality_sensitivity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high sensitivity to quality in films indicates a similar expectation for well-crafted books. This pattern can guide the selection of highly-rated literary works.",
+      "transferred_insight": "Prioritize high-quality, well-reviewed books",
+      "confidence": 0.8
+    },
+    "brand_loyalty": {
+      "decision": "PARTIAL",
+      "rationale": "While the user shows some loyalty to specific actors, this does not directly translate to authors. However, it may suggest a preference for books by authors who write in similar genres or styles to their favorite films.",
+      "transferred_insight": "Might prefer authors known for vintage or mystery genres",
+      "confidence": 0.6
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's preference for visual and auditory experiences is specific to film and does not apply to books. This pattern would not provide useful insights for book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "emotional_resonance": {
+      "decision": "PARTIAL",
+      "rationale": "The user has a medium level of emotional engagement with films, which may translate to a preference for books that evoke similar feelings. However, this is not a strong enough signal to dominate recommendations.",
+      "transferred_insight": "Prefer books with moderate emotional depth",
+      "confidence": 0.65
+    },
+    "nostalgia_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high nostalgia preference indicates a strong inclination towards vintage themes, which can be directly applied to book recommendations that evoke similar feelings.",
+      "transferred_insight": "Prefer vintage-themed books that evoke nostalgia",
+      "confidence": 0.9
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "B08DHM9VT2",
+      "title": "Betty & Veronica (Jumbo Comics) Double Digest No. 285 September 2020 The Archie Library",
+      "score": 0.95,
+      "applied_patterns": [
+        "genre_preference",
+        "nostalgia_preference"
+      ],
+      "reasoning": "This comic features vintage characters and themes that align with the user's nostalgia for vintage media. The light-hearted nature of the stories also fits the user's preference for simple narratives."
+    },
+    {
+      "rank": 2,
+      "item_id": "C44",
+      "title": "Deadline",
+      "score": 0.9,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference"
+      ],
+      "reasoning": "This novel features a mystery involving a journalist, aligning with the user's love for murder mysteries. The pacing and straightforward narrative style cater to their preferences."
+    },
+    {
+      "rank": 3,
+      "item_id": "C29",
+      "title": "EMBEDDED: A Most Improbable Treasure Hunt",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This book combines elements of adventure and mystery, appealing to the user's interest in vintage themes and simple narratives."
+    },
+    {
+      "rank": 4,
+      "item_id": "C10",
+      "title": "RAIN (Tales of the Flood)",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "nostalgia_preference"
+      ],
+      "reasoning": "This book's mythological elements and storytelling style may resonate with the user's nostalgia for vintage narratives, while also providing a unique twist."
+    },
+    {
+      "rank": 5,
+      "item_id": "C12",
+      "title": "The Savage Sword Of Conan Volume 6",
+      "score": 0.75,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This graphic novel features adventure and fantasy elements that can appeal to the user's interest in vintage storytelling, while maintaining a straightforward narrative."
+    },
+    {
+      "rank": 6,
+      "item_id": "C42",
+      "title": "Introduction to Stellar Astrophysics: Volume 3",
+      "score": 0.7,
+      "applied_patterns": [
+        "genre_preference"
+      ],
+      "reasoning": "This book's focus on space aligns with the user's interest in space-themed narratives, providing a scientific perspective that complements their preferences."
+    },
+    {
+      "rank": 7,
+      "item_id": "C45",
+      "title": "Birds Without Wings",
+      "score": 0.65,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This novel's themes of loss and nostalgia may resonate with the user's emotional engagement, while also fitting their preference for vintage narratives."
+    },
+    {
+      "rank": 8,
+      "item_id": "C41",
+      "title": "Dirty Sin (Dirty Justice)",
+      "score": 0.6,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This book features elements of suspense and mystery, appealing to the user's love for murder mysteries while maintaining a straightforward narrative style."
+    },
+    {
+      "rank": 9,
+      "item_id": "C26",
+      "title": "Distant Trails: Under Carico's Moons: Book One",
+      "score": 0.55,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This book's setting in a unique world may appeal to the user's interest in vintage and space themes, while also providing a simple narrative structure."
+    },
+    {
+      "rank": 10,
+      "item_id": "C27",
+      "title": "Naughty",
+      "score": 0.5,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This novel's exploration of relationships and character dynamics may resonate with the user's preference for simple narratives and vintage themes."
+    }
+  ],
+  "blocked_patterns_summary": "Sensory preference was blocked as it is specific to film and does not apply to books. Brand loyalty was partially applied due to its limited relevance.",
+  "overall_strategy": "Focused on transferring genre preferences and narrative styles that align with the user's love for vintage and murder mysteries. Recommendations were tailored to include both straightforward narratives and nostalgic themes."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHAGTVSBSYKVQ4LX23ICRYWQZVOA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, classic, horror, documentary",
+      "evidence": [
+        "\"Old school lovers of Oz will enjoy\"",
+        "\"Huge fan of documentaries.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Edge of your seat entertainment all the way through.\"",
+        "\"I adore the fact that the director uses the same characters each year for a different story.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Kinda slow and not the movie you'd expect from these two top rated actors\"",
+        "\"Makes you think 🤔. Makes you want to read more books 📚\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Jason Statham!! Always love his moves and he delivers again!\"",
+        "\"If you don’t cry you aren’t an American.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Tim Burton, Jason Statham",
+      "evidence": [
+        "\"Must be cynical and a little dark to love Tim Burton...\"",
+        "\"Jason Statham!! Always love his moves and he delivers again!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, emotional engagement",
+      "evidence": [
+        "\"I laughed and cried....that means it was awesome!\"",
+        "\"Such a good movie I’ve watched it 5 times\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"If you don’t cry you aren’t an American.\"",
+        "\"I laughed and cried....that means it was awesome!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic and fantasy genres, particularly enjoying works that evoke emotional responses. They appreciate high production quality and have a notable loyalty to specific creators like Tim Burton and Jason Statham."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFL54WV6BIXPJ4AEIDJ2VZ42YQ2Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, documentary",
+      "evidence": [
+        "\"great offbeat comedy or dramady\"",
+        "\"i love this documentary and most films dealing with the planned destruction of the twin towers\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"very entertaining film and allison janney is beyond great\"",
+        "\"very enjoyable movie and raul julie a onassis was great\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"very funny entertaining movie\"",
+        "\"this show is extremely funny\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"great film\"",
+        "\"very entertaining\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Joely Richardson is fantastic and the is great\"",
+        "\"margot robbie is great\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"love this story, Frank Marshall Davis is far more interesting than the fake dad\"",
+        "\"this movie is interesting - it is 15 or so years old but fits todays political scene\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"love this documentary - always thought render unto ceasar what is ceasar's seemed odd - now it makes sense\"",
+        "\"very informative - u either get sucked for your money or if you don't have any you can be a slave\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys entertaining films, particularly in the comedy and documentary genres, with a preference for fast-paced narratives. They value emotional resonance and find stories that are engaging and informative, though they show less concern for production quality."
+}

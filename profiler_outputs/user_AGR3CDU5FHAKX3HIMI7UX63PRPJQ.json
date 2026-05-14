@@ -1,0 +1,77 @@
+{
+  "user_id": "AGR3CDU5FHAKX3HIMI7UX63PRPJQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, adventure, comedy, drama",
+      "evidence": [
+        "\"this is a fun, fast moving action adventure movie\"",
+        "\"a classic, funny movie, full of humor for both the kids and the adults.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the plot moved along fast enough to keep us always interested\"",
+        "\"the basic plot-line is well known; an older Alice returns to Wonderland\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Good plot, moves quickly, good ending.\"",
+        "\"this is a fun, fast moving action adventure movie\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"well produced, well put together, and a lot of fun to watch.\"",
+        "\"the true star is Johnny Depp as the Mad Hatter.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Herzog is a fantastic director.\"",
+        "\"I look forward to future Rob Pattinson movies now.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"the computer graphics; they made up well over 3/4 of the movie, and were done incredibly well.\"",
+        "\"the animation- stop-motion- has become quite popular with movie-makers.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"it's fun to watch a movie and find yourself thinking about it days later.\"",
+        "\"the ending... was very sad nonetheless, and though it wasn't sad enough to cry, it was certainly heart-wrenching.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced action and adventure films, often with comedic elements. They appreciate high production quality and emotional depth in storytelling, while showing a preference for straightforward narratives."
+}

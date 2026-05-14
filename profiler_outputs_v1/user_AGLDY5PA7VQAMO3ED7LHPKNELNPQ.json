@@ -1,0 +1,77 @@
+{
+  "user_id": "AGLDY5PA7VQAMO3ED7LHPKNELNPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, family, historical",
+      "evidence": [
+        "\"Great who-dunnit, fairly good acting, story seems to shut-down and reopen over and over again.\"",
+        "\"Fun to watch and safe for most families. A twist from the usual so it was full of surprises.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"the story seems to shut-down and reopen over and over again.\"",
+        "\"It has all the story plots for each viewer - humor, mystery, love, good/evil, and a small twist at the end.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Funny, adventuresome, and long.\"",
+        "\"I felt like it was for those that never saw the Wrath of Khan, and I did.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Great cast and story\"",
+        "\"I would have given this five stars but I was expecting a companion DVD with it for those rare moments when Blu-ray wasn't available.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Tom Cruise fit the role perfectly.\"",
+        "\"I love science history\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Unique, mystery, great acting talent, superb ending, family viewing perfect!\"",
+        "\"The power of God's word and what if it were rare.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A twist from the usual so it was full of surprises.\"",
+        "\"Great ending too. I give it a 10 so unless you hate fairy tales or long movies, a MUST HAVE!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly mystery and family-oriented content, often appreciating twists and engaging narratives. They show a strong preference for emotional resonance and sensory experiences, while their loyalty to specific creators is less evident."
+}

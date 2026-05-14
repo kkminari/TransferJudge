@@ -1,0 +1,77 @@
+{
+  "user_id": "AH7RZRG3RG54XRQL5HLKJT5ZDNVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Loved it. Refreshingly different and cool.",
+        "Must see classic."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "This series was OK. The premise is great and the acting was good.",
+        "Worth watching."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "This is a must see. Gripping.",
+        "Fair movie."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Great audio and video quality!",
+        "Frank looking and sounding his best. Love it."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Love Gregg. Great concert!",
+        "If you like Robert Redford, this is worth a try."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "Loved it. Refreshingly different and cool.",
+        "This is a must own for any fan of Billy Joel."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "This series was OK. The premise is great and the acting was good.",
+        "Fair movie."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of content, often appreciating quality production and sensory experiences. However, their emotional engagement appears to be low, with mixed feelings about narrative complexity and pacing."
+}

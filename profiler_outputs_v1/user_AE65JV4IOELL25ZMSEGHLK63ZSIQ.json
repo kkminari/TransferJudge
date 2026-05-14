@@ -1,0 +1,70 @@
+{
+  "user_id": "AE65JV4IOELL25ZMSEGHLK63ZSIQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, children's",
+      "evidence": [
+        "\"Grandson loves movie.\"",
+        "\"Heartwarming movie about friend!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Heartwarming movie about friend!!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Watched 2 seasons in a matter of days!!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Very pleased with movie.\"",
+        "\"Pleased with movie.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Cute movie. Grandson loved it.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Heartwarming movie about friend!!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for family and children's movies, particularly those that are heartwarming and simple in narrative. They value emotional resonance and enjoy fast-paced content that can be consumed quickly."
+}

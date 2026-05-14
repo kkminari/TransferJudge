@@ -1,0 +1,77 @@
+{
+  "user_id": "AEOQ5X4SNYVJHYFKFYMGVRP6CHRQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, comedy",
+      "evidence": [
+        "\"good action, plot twists\"",
+        "\"The greatest cop show/western ever\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It was very OK. Certainly had funny moments.\"",
+        "\"It was good, not great.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"good action, plot twists\"",
+        "\"I enjoyed this a lot! Very amusing, well acted and thought out by the writers.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"I liked everything about it, from the dark, foreboding, lighting to the crisp acting of the cast.\"",
+        "\"It was good, not great.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I'm a fan of Sam Trammell from 'True Blood'\"",
+        "\"Justified is definitely one of the greatest TV shows ever.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I liked everything about it, from the dark, foreboding, lighting to the crisp acting of the cast.\"",
+        "\"Good interplay, witty banter, between the main characters.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"You will not regret watching it.\"",
+        "\"I can't imagine where this is going to go from here, so I'm kind of up in the air on it.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and drama genres, with a preference for fast-paced narratives. They appreciate good production quality but are not strongly loyal to specific creators, indicating a balanced approach to their viewing experience."
+}

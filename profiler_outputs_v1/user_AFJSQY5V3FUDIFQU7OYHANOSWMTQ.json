@@ -1,0 +1,77 @@
+{
+  "user_id": "AFJSQY5V3FUDIFQU7OYHANOSWMTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thought-provoking, drama",
+      "evidence": [
+        "\"Subject and performance makes a great movie. The movie is simply thought provoking.\"",
+        "\"There are American Movies which point the finger to the soft spots. They are indispensable.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the story brings nothing what has not yet been said.\"",
+        "\"Good Entertainment\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Thoughtprovoking entertainment\"",
+        "\"This is real entertainment, as one expect and receives from the Michigan Man.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The performance was excellent and you will like it if you like this genre of movies.\"",
+        "\"Goes with a glass of good wine.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Gere good as always, the story brings nothing what has not yet been said.\"",
+        "\"See also Michael Kohlhaas\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"Refreshing mixed with a deeps sense of truth.\"",
+        "\"As close to truth one can get. One has to listen to the 'fine' print, the lines inbetween\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Sweet memories.\"",
+        "\"All put together, you get a mosaic about the true Amerikan than thousands of articles.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys thought-provoking dramas with a focus on quality performances and emotional resonance. They prefer slower-paced narratives that evoke deep feelings, although they show mixed feelings towards narrative complexity and brand loyalty."
+}

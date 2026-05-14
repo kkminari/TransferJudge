@@ -1,0 +1,77 @@
+{
+  "user_id": "AFQM2FW4AYQMAPN37RXU2W4UESZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama",
+      "evidence": [
+        "\"Ken Burns delivers with an excellent documentary.\"",
+        "\"Good drama, characters, I'm enjoying watching this and want to keep watching.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"story line goes deep.\"",
+        "\"He puts you into history and makes you feel it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It's a pleasure to watch something entertaining with no blood, sex or nasty language.\"",
+        "\"I had to put on subtitles as sometimes the British accents are difficult to interpret, especially when they speak fast.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent filming, explanations and information given.\"",
+        "\"Thoroughly enjoyed these videos. As long as you like this type of thing you will enjoy very informative and good quality video.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Ken Burns",
+      "evidence": [
+        "\"Ken burns make the best documentaries! Hands down.\"",
+        "\"Once again Ken Burns delivers with an excellent documentary.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "immersive experience",
+      "evidence": [
+        "\"He puts you into history and makes you feel it.\"",
+        "\"Excellent filming, explanations and information given.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"His films are touching and engrossing.\"",
+        "\"Gotta love the main characters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and dramas, particularly those by Ken Burns, valuing high production quality and emotional depth. They appreciate complex narratives and immersive experiences, indicating a taste for content that is both informative and engaging."
+}

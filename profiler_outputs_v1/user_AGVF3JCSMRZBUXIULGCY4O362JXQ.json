@@ -1,0 +1,77 @@
+{
+  "user_id": "AGVF3JCSMRZBUXIULGCY4O362JXQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, mystery",
+      "evidence": [
+        "\"I love movies that show a loving married couple.\"",
+        "\"Interesting for an Agatha Christie fan to learn a little about the life of one of our most famous mystery writers.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Characters are predictable and one dimensional.\"",
+        "\"The movie just follows the men.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I couldn't even finish watching it. The sound and film quality was very poor.\"",
+        "\"This movie should have been called 'Content Men'\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I couldn't even finish watching it. The sound and film quality was very poor.\"",
+        "\"Everything Ken Burns does is worth watching.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "William Powell, Ken Burns",
+      "evidence": [
+        "\"I love William Powell. I love Irene Dunne.\"",
+        "\"Everything Ken Burns does is worth watching.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, engaging",
+      "evidence": [
+        "\"Watching this series is like reading a good book.\"",
+        "\"Makes me want to go to London again in order to notice the things I missed the first time.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I love this movie. It is innocent and sweet -- a rarity in modern movie making.\"",
+        "\"They make me happy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and historical films, particularly those with strong character relationships and quality production. They show a preference for simple narratives and have a high sensitivity to production quality, often expressing loyalty to specific actors and creators."
+}

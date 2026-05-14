@@ -1,0 +1,77 @@
+{
+  "user_id": "AFHX4QOZ2KQG6FLQYXLIETCKDXGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, horror, Japanese films",
+      "evidence": [
+        "\"Love this sci-fi film!\"",
+        "\"Another classic Japanese horror film, easy to watch since it involves Americans, so no subtitles.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story is a bit slow in the beginning...\"",
+        "\"I like the terror factor, no gory scenes, just people being scared by ghostly figures in the night.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The story is a bit slow in the beginning...\"",
+        "\"I like the terror factor, no gory scenes, just people being scared by ghostly figures in the night.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The quality of the picture would be better if they would digitally remaster this classic film.\"",
+        "\"Their performances are fantastic in this film that pulls on your heart and does leave tears down your face.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"As a Gene Tierney fan, this was a must buy for me.\"",
+        "\"I grew up watching the Saturday night 'Creature feature' movies, Godzilla was my fav.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"I like the terror factor, no gory scenes, just people being scared by ghostly figures in the night.\"",
+        "\"I love to see this type of Japanese film that fills you will happiness and goodwill.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is a new start for three people whom you relate to and hope for to the end of the film.\"",
+        "\"Their performances are fantastic in this film that pulls on your heart and does leave tears down your face.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and horror genres, particularly enjoying Japanese films. They appreciate high production quality and emotional storytelling, often resonating deeply with the characters and narratives presented."
+}

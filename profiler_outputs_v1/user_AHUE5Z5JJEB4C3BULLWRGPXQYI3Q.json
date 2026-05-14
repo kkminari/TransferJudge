@@ -1,0 +1,76 @@
+{
+  "user_id": "AHUE5Z5JJEB4C3BULLWRGPXQYI3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, romance, drama",
+      "evidence": [
+        "\"This is British humour at one of its best.\"",
+        "\"This is a good film to watch on Valentine's Day or if you are ever in the mood for a good romantic comedy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The storyline is pretty standard (overweight, pessimistic girl think she can't find love - but runs into the man of her dreams)\"",
+        "\"The whole storyline is predictable and it's another example of Hollywood using the same formula at scoring for an audience.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"There was too much predictable shrieking, screaming, and yelling that it just got annoying after awhile.\"",
+        "\"The movie lacks a lot of the sophistication that an adult viewer may appreciate.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The movie is composed of eight dreams, however it flows very nicely, so there is never a sense of hesitation between each of the transitions.\"",
+        "\"It was beautifully filmed and directed by the legendary Akira Kurosawa and probably one of his best works ever.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I normally am a huge fan of cheezy, leg warmer, roller boogie 70's and 80's musical films, however this one unfortunately did not live up to my expectations.\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Beautifully (and amazingly!) shot, you will feel like you are flying with the birds in this film.\"",
+        "\"The backdrop (Southern & Northern California), the wonderful musical score (Simon & Garfunkel) and great cast made this movie very worthwhile to see as well.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is a very powerful, moving film.\"",
+        "\"It will not only inspire you but teach you about a culture that is not often talked about.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for comedies and romantic films, often appreciating visual quality and emotional depth. However, they tend to dislike predictable storylines and slow pacing, indicating a desire for more engaging narratives."
+}

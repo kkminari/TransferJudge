@@ -1,0 +1,77 @@
+{
+  "user_id": "AHEXPX62BKXYTYNEDGJXCGM2E6NQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "crime, drama",
+      "evidence": [
+        "Love all the Law and Orders!",
+        "Glad to have twenty seasons of a show I always wanted to watch."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Very entertaining series.",
+        "Good series. Sorry it is ending."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Very entertaining series.",
+        "Great series!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Love this show.",
+        "Good show."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "Tom Selleck, Law and Order franchise",
+      "evidence": [
+        "Love Tom Selleck!!",
+        "Love all the Law and Orders!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "atmospheric",
+      "evidence": [
+        "An ending that makes one think.",
+        "Have watched this series since the beginning."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Cant believe it is over. An ending that makes one think.",
+        "Sorry it has ended."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for crime and drama genres, particularly enjoying series like 'Law and Order'. They appreciate simple narratives with fast pacing and have a high emotional resonance with the content, often expressing sadness when shows end."
+}

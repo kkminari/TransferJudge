@@ -1,0 +1,77 @@
+{
+  "user_id": "AGK55ZZZ3T3DFGTQU3SFCKDIQRSA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, mystery",
+      "evidence": [
+        "\"This is, without a doubt, the funniest thing I have ever seen in my entire life...\"",
+        "\"the idea of having a priest as the main character, and having a show that acknowledges the reality of spirituality...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Like any short film, you have to pay attention... it is hard to pack a story into only 15 min...\"",
+        "\"The script is filled with 'inside jokes' for the hard core Sci-fi fan...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I mean literally, laughed so hard that you fell down in your chair...\"",
+        "\"It's worth a look.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Michelle Dockery shines in this short film...\"",
+        "\"The visuals are great, the story of the siege is very compelling...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Paul had a lot of potential...\"",
+        "\"Top Gear without the boys is like an airplane with no wings.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"the ambiguity of some of his actions is well played...\"",
+        "\"This is something you should watch with someone, because it will make you think...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I used to wonder why more people didn't defect from East Germany...\"",
+        "\"She's as much a victim of her brother's crime as the child he was arrested for assaulting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies and dramas that evoke emotional responses, often appreciating high production quality. They enjoy fast-paced narratives and are sensitive to the emotional weight of stories, while showing less loyalty to specific creators or franchises."
+}

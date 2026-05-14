@@ -1,0 +1,77 @@
+{
+  "user_id": "AHA3U4NFVU7KH5JOVQZX2CWNPSOA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama",
+      "evidence": [
+        "\"I absolutely loved the remade 'Battlestar' series...\"",
+        "\"I watch a lot of science fiction, but this one wasn't compelling.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"I love the way humor and serious scares are combined in this series.\"",
+        "\"This series always has new twists and is always well written.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Non-stop action! I can hardly tear my eyes away.\"",
+        "\"I binge on each season as it arrives...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Production values of this film were up to 'major motion picture' standards.\"",
+        "\"Great acting, great writing, great special effects!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Max Martini, Jensen Ackles, Supernatural",
+      "evidence": [
+        "\"I look forward to more Max Martini as a main character and director.\"",
+        "\"As always, Supernatural is a super series.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, immersive world-building",
+      "evidence": [
+        "\"The period sets and costumes were great...\"",
+        "\"The writers, directors, and actors are all so committed.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I will miss it, but I hope to see the stars in other ventures very soon!\"",
+        "\"I waited a long time to watch this, but I'm glad I did.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and drama genres, particularly enjoying fast-paced narratives with high production quality. They exhibit loyalty to specific creators and appreciate immersive storytelling that evokes emotional responses."
+}

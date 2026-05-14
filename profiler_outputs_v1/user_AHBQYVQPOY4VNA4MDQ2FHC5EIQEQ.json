@@ -1,0 +1,77 @@
+{
+  "user_id": "AHBQYVQPOY4VNA4MDQ2FHC5EIQEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, dark, comedy, romance, documentary, sports",
+      "evidence": [
+        "\"This is a very dark movie.\"",
+        "\"A good romantic rental!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"While the story line is a bit confusing at times I found this to be a fun movie.\"",
+        "\"The story line is fun and the acting is very enjoyable.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Enjoyable movie but because of the amount of time allowed for filming it has a 'condensed' feel about it.\"",
+        "\"The battle scenes are particularly enjoyable.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the Blu-ray conversion is crystal clear and the colors are rich!\"",
+        "\"the production is really quite well done but I must say that the colorized version adds dimension to the film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If you like Ben Hogan then you 'might' like this movie.\"",
+        "\"If you're a Pirates fan (Indians fan here) you will love this film.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"the animation sharp and clean.\"",
+        "\"the sound on this movie is nothing short of terrific!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Poignant, sad, funny, dramatic, heartwarming, and riveting!\"",
+        "\"You'll see him cry, not because he is sick, but because he realizes he will lose the wife and children that he loves.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly dark dramas and comedies, and appreciates high production quality. They have a strong preference for emotional and sensory experiences in their viewing choices, indicating a taste for impactful storytelling."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHTTPKXKHBNVSMIF6NYMESFX2AUA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "musical, drama",
+      "evidence": [
+        "\"Our family's all-time favorite musical.\"",
+        "\"Uplifting movie starring Leslie Caron... The songs are enchanting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Some of the dialogue is so superfluous and silly.\"",
+        "\"Like all detective stories, they start out interesting and then get long in the tooth.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"A little slow, but the ending was definitely unexpected.\"",
+        "\"After 4 seasons - it gets a little tiresome.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Always very enjoyable.\"",
+        "\"Excellent. Can't wait for second Season.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "General enjoyment expressed without specific loyalty."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The songs are enchanting - 'Thank Heaven for Little Girls'...\"",
+        "\"There is something in it for each sex and age group.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Never gets old.\"",
+        "\"Now our young granddaughter has discovered it and loves it just as much.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys musicals and drama, often appreciating uplifting narratives with enchanting music. They have mixed feelings about pacing and narrative complexity, indicating a preference for straightforward storytelling that resonates emotionally."
+}

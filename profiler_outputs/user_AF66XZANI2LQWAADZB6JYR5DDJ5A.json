@@ -1,0 +1,77 @@
+{
+  "user_id": "AF66XZANI2LQWAADZB6JYR5DDJ5A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, existential, art films",
+      "evidence": [
+        "\"This isn't a film for everyone. If you're a fan of Tarkovsky's films and other existential films, you'll most likely appreciate what 'Distant' has to offer.\"",
+        "\"The realism of Das Boot excels in drawing the viewer into the experience... Certainly one of the best submarine movies ever, if not the best.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"I just finished watching Stalker for the fourth time... realize I will never understand it in all of its complexity.\"",
+        "\"Mulholland Drive is sophisticated plot illinearity that would have made William Faulkner momentarily confounded.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This film is also about the beauty of life, and that that beauty is attainable because it is found within ourselves... it's pace at times is slower than our most boring days.\"",
+        "\"The pace is the total antithesis to current American filmmaking. At its best, it's hypnotic...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The cinematography, the acting of the son and supporting characters, and the bond between father and son-- in essence, what this film's all about.\"",
+        "\"The only harsh criticism I could possibly rail against the Fawlty Towers series is that it ended much too soon.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Tarkovsky, Kurosawa",
+      "evidence": [
+        "\"Tarkovsky was truly a genius, not only evident by this film, but also by the many others he directed, including Nostalghia and Solaris.\"",
+        "\"Director Akira Kurosawa blends so many moments in this film that have remained with me...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The beauty of the art, combined with the musical score and scene, transcends to something intensely emotional, yet not easily describable.\"",
+        "\"The black and white scenes of personal reflection in Nostalghia excel in radiating this beauty.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is a film I never get tired of... the story, although perhaps somewhat manipulative, is overall enjoyable.\"",
+        "\"The scene toward the end with him on the swing is one of those moments from the movies that you never forget.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex, slow-paced dramas and existential art films, often appreciating high production quality and the emotional depth of storytelling. They show loyalty to notable directors like Tarkovsky and Kurosawa, and their reviews reflect a deep engagement with the sensory and emotional aspects of film."
+}

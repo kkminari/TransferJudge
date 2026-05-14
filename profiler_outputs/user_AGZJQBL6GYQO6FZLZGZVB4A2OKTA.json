@@ -1,0 +1,77 @@
+{
+  "user_id": "AGZJQBL6GYQO6FZLZGZVB4A2OKTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, documentary, action, comedy",
+      "evidence": [
+        "\"BSG is one of the best shows on television...PERIOD.\"",
+        "\"This is an engaging medical drama from Ireland.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"What this series requires most is for the viewer to be smart and make a mental investment in the show...\"",
+        "\"The movie is all about personalities and relationships.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This is a movie that packs all of the required action in while still not taking itself too seriously.\"",
+        "\"The Dark Knight is faster paced than Batman Begins...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The picture and sound quality are fantastic.\"",
+        "\"The highly praised 30 for 30 series and the following 9 for 9 and Soccer Stories documentaries are all top shelf...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I look forward to seeing the next outing from this rag-tag crew.\"",
+        "\"I have seen a few of Palin's shows on PBS or Netflix and loved them...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The special effects are fantastic, but they never become a crutch for Nolan...\"",
+        "\"The mix of the space genre with the 70's music was pure genius.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is an addictive show and this is where it all started.\"",
+        "\"The movie is really all about Clooney and the portrait he draws of the title character.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex narratives across various genres, particularly sci-fi and drama. They appreciate high production quality and fast pacing, while also valuing emotional depth in storytelling."
+}

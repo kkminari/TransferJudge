@@ -1,0 +1,77 @@
+{
+  "user_id": "AGGYQNLVTRACJ5NAXDYV7LTN7V3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, thriller",
+      "evidence": [
+        "\"GREAT MOVIE\"",
+        "\"Fun plot with a great cast ~ Lots of laughs with lots of unexpected twists & turns that keep you guessing right up to the end.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"full of twists and turns right up to the very end!\"",
+        "\"Lots of twists & 'one line zingers' & a great cast !!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It doesn't drag --- GREAT SHOW!\"",
+        "\"GREAT WRITERS and the acting is fantastic!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Fantastic acting, story & beautiful scenery!\"",
+        "\"the acting is excellent = as it always is with Julianne Moore!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Julianne Moore, Eddie Murphy, Jennifer Aniston",
+      "evidence": [
+        "\"Julianne is my favorite actor !!\"",
+        "\"Reese is not one of my favorites, but she nailed this!!!!!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"beautiful scenery!\"",
+        "\"makes you stop and 'ponder'!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is a sad story, but extremely well done and the acting is excellent!\"",
+        "\"LOVED IT!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama, comedy, and thrillers, often enjoying complex narratives filled with twists. They value high production quality and emotional resonance, frequently praising the acting and storytelling in the films and series they review."
+}

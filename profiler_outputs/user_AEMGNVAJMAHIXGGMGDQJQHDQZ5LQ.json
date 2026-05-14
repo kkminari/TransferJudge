@@ -1,0 +1,75 @@
+{
+  "user_id": "AEMGNVAJMAHIXGGMGDQJQHDQZ5LQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "period piece, dance, comedy, action",
+      "evidence": [
+        "\"marvelous atmospheric period piece\"",
+        "\"Great dance film\"",
+        "\"A tongue-in-cheek laugh riot.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"good suspense and great twist ending\"",
+        "\"It was like an episode of Noah's Arc, fun but not great\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Lots of action and great acting\"",
+        "\"Had a friend over who had never seen it and we were in stitches laughing throughout. Totally a blast.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"well written and acted, superb cast\"",
+        "\"Great cast, and period detail\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Takes one right back to the era, music, cars clothes etc. Bravo\"",
+        "\"marvelous atmospheric period piece\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Love it, a fantastic film.\"",
+        "\"Had a friend over who had never seen it and we were in stitches laughing throughout. Totally a blast.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys period pieces, dance films, and comedies with a preference for fast pacing and high production quality. They appreciate emotional resonance and immersive experiences, indicating a strong engagement with the content."
+}

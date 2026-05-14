@@ -1,0 +1,77 @@
+{
+  "user_id": "AFC4UNNA6ARLR6CGROIHM25TMB5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "K-Drama, historical drama, family-friendly, adventure",
+      "evidence": [
+        "Really loved this K-Drama.",
+        "This is my favorite Korean historical drama."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good characters, good story line.",
+        "Enjoyable story twist on the original."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "liked this book but not the later ones in this series. Just too slow and bogged down.",
+        "Family thought it was ho hum."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "Wonderful acting from Tom hanks.",
+        "Good classic story."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "the leads, Lee Joon Gi and IU have great chemistry and are very talented actors.",
+        "Wonderful acting from Tom hanks."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Great cast.",
+        "Wonderful uplifting adventure story."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Learning that money and status are never as important as people and relationships.",
+        "An all time favorite movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys K-Dramas and historical dramas, appreciating good characters and storylines. They have a mixed preference for pacing and show a strong emotional connection to the content they watch."
+}

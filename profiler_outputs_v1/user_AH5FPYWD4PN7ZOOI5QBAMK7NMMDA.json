@@ -1,0 +1,77 @@
+{
+  "user_id": "AH5FPYWD4PN7ZOOI5QBAMK7NMMDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, action, superhero",
+      "evidence": [
+        "\"Horror movies never do as good a job at evoking emotions of terror and sorrow from the viewer like this movie did.\"",
+        "\"The market is saturated with stale horror films, but this one kept me on edge through the entire duration.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Hard to follow dialog... Slow pace... Terrifying subject matter though.\"",
+        "\"Visually appealing, bit I felt like the rest of the movie never latched in.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"A little slow for some, but damn... What a great movie.\"",
+        "\"Most reviews gave it the 'slow burn' critique, and I can agree on some level.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"This movie had little to no redeeming qualities.\"",
+        "\"Some of the jokes don't land and it has that 'straight to DVD feel' but it's still a damn funny movie for what it is.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I know Matt Damon's heart wasn't in this movie.\"",
+        "\"Andy Serkis is the undisputed king of motion capture performance.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"This universe makes it believable that a race of super intelligent apes built their own functioning society.\"",
+        "\"It provided what few films of the genre can and actually had a satisfying ending.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Horror movies never do as good a job at evoking emotions of terror and sorrow from the viewer like this movie did.\"",
+        "\"What a great movie.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for horror and action genres, appreciating films that evoke deep emotions and provide a sensory experience. They have mixed feelings about narrative complexity and pacing, indicating a preference for engaging storytelling but with some tolerance for slower narratives."
+}

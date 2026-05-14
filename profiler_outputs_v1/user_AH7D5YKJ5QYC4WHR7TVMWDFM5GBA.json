@@ -1,0 +1,89 @@
+{
+  "user_id": "AH7D5YKJ5QYC4WHR7TVMWDFM5GBA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, comedy, adventure, detective",
+      "evidence": [
+        "\"This film was made before its time. Today's sifi audience loves it.\"",
+        "\"Silly, funny, romantic pure Audrey Hepburn.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"I hate a film that has a story so thin that I basically see the movie by watching the trailer.\"",
+        "\"The end was a bit rushed and missed telling us a few key points, but the film was long and I can understand.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The film is paced slowly due to the nature of the reality of space travel...\"",
+        "\"Fast forward is the way to watch it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The Blue-ray is a very good transfer. The sound is excellent...\"",
+        "\"Good film to watch twice. First time you learn the general story, the second time you see more details.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Thanks to the director.\"",
+        "\"If you like The Hobbit films, you owe it to yourself to get the Extended Edition.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Keep your subwoofer on because there are lots of effects that use it.\"",
+        "\"Fabulous views of the Earth from the Space Station.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"If you don't think anything is funny in this film then you have a serious personality disorder.\"",
+        "\"It discusses real human issues and problems.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "high",
+      "evidence": [
+        "\"Silly, funny, romantic pure Audrey Hepburn.\"",
+        "\"It is lighthearted, adventurous, funny and strange.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys a mix of sci-fi, comedy, and adventure genres, with a strong appreciation for high production quality and sensory experiences. They value emotional resonance in films, often favoring those that are lighthearted and humorous, while showing mixed feelings towards narrative complexity and pacing."
+}

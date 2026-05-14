@@ -1,0 +1,77 @@
+{
+  "user_id": "AFY7KOZMRZWWEZJM5WMAHVQL2XKA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama",
+      "evidence": [
+        "I enjoy the acting and the mysteries!",
+        "good story!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "very different....you will need to go to the end to understand it better.",
+        "entertaining"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "keeps your attention",
+        "Lots of action!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "good acting....very entertaining!",
+        "Great acting!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Great series!!!",
+        "Very good series"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Fascinating!! Shocked he allowed",
+        "Entertaining!"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "Sorry to see series end",
+        "Not uplifting"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys mystery and drama genres, appreciating good acting and engaging stories. They prefer fast-paced narratives with high production quality, though they show low loyalty to specific creators."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFODBKNX3EI4QI3CCYHUTUS5OKJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, classic, comedy",
+      "evidence": [
+        "\"Great Si-Fi, watched one episode after the next.\"",
+        "\"Great old series..still funny today.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great feel good movie, very funny.\"",
+        "\"Great old series, well written, very enjoyable.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Keeps you in suspense.\"",
+        "\"Great series...missed the original run.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I wanted a dvd copy of this movie... Movie is great just not what I wanted.\"",
+        "\"Great movie, very intellectual. Couldn't stop thinking about it after I viewed it.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "Jerry Lewis, Glen Ford",
+      "evidence": [
+        "\"I'm a Jerry Lewis fan for decades.\"",
+        "\"Glen Ford was great.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "emotional impact",
+      "evidence": [
+        "\"lotsa tears.. must see... Garner and Rowlands are spectacular...\"",
+        "\"Saw this movie as a teenager in a drive-in and was profoundly effected by it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Great movie... 'lotsa tears'.. must see...\"",
+        "\"Frightening omen of possible things to come.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for classic and sci-fi genres, often enjoying films that evoke emotional responses. They appreciate fast-paced narratives and have a fondness for specific actors like Jerry Lewis and Glen Ford, indicating a nostalgic connection to older films."
+}

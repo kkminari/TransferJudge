@@ -1,0 +1,77 @@
+{
+  "user_id": "AHTFDW3RS4YR6QSFZIIBON5NF4CQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, documentary, Christian",
+      "evidence": [
+        "\"Christian films are getting better and better.\"",
+        "\"Band of Brothers is masterful, a story powerfully and wonderfully, and well told.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It is clear what right and what is wrong.\"",
+        "\"The story tells a LOT.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It is a beautiful story, well told, and I will buy it because it is one of the few DVD movies I would put in a home library.\"",
+        "\"The series certainly comes out better than many current movies in the theatre.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I was rather struck by the quality of writing AND production.\"",
+        "\"Wonderful production, wonderful actors.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Maggie Smith steals the scene every 15 minutes because of well written and superbly delivered lines.\"",
+        "\"This is because the producer: Martha Williamson is a Christian and fears God.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory experience",
+      "evidence": [
+        "\"It really helps to have the video that was shot of Doolittle's raiders AFTER the war.\"",
+        "\"The story is concise yet professionally done.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Emotional response. I have not read the book.\"",
+        "\"I will tell them of myself performing antisubmarine warfare on US Naval Destroyers to protect the Eastern seaboard against possible nuclear launch by Russian nuclear powered 'boomers' in the 70's and of the sacrifice of our GI's in WW II and Korea.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for historical and Christian-themed films, valuing high production quality and emotional storytelling. They appreciate narratives that are straightforward and impactful, often reflecting on personal experiences and moral lessons."
+}

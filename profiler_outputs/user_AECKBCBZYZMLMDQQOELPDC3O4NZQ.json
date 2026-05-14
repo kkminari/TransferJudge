@@ -1,0 +1,77 @@
+{
+  "user_id": "AECKBCBZYZMLMDQQOELPDC3O4NZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action, romance, drama",
+      "evidence": [
+        "I tend to like sci-fi shows and this has quite a combination of factors, love story, action and extra-terrestrials.",
+        "A lovely love story. Recommended for people who loves love stories."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "the writers need to look over the books, because there is a reason why, despite the many characters, convoluted plots, and to some extent boring drawn out stories the books are read.",
+        "I was surprised to find that I enjoyed this show as I am not a Tom Chuise fan, but I am a SciFi lover and this one was intriguing, if on the 'quiet' side."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "When you first start to watch it does not hold your interest, but as the movie progresses there is something about it that resonates with you.",
+        "the story line could be improved."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "Overall excellent selection of actors for the parts.",
+        "this was more narrated and how the film was made was not appealing."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I love the series by George R. R. Martin.",
+        "I am not a lover of Martial Arts movies, but I loved this one."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "An emotional story about the plight in Ireland and the love engendered by the people for their country.",
+        "there is something about it that resonates with you and you end up liking the show."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "An emotional story about the plight in Ireland and the love engendered by the people for their country.",
+        "Loved the story, but why is it taking so long for a sequel?"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of genres, particularly sci-fi, action, and romance, with a strong emotional resonance in the stories they appreciate. They show a moderate sensitivity to production quality and have mixed feelings about narrative complexity and pacing, indicating a preference for engaging and emotionally impactful storytelling."
+}

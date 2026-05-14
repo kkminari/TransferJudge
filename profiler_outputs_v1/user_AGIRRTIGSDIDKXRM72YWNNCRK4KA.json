@@ -1,0 +1,77 @@
+{
+  "user_id": "AGIRRTIGSDIDKXRM72YWNNCRK4KA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action, drama",
+      "evidence": [
+        "As a SF buff, found this to be fun.",
+        "I like the 'defender of justice' genre."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Predictable story, but it's kind of fun saying, 'I knew that was coming!'",
+        "A very poor rendition of a very powerful piece of literature by Jack London."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "All the stuff guys love - guns, blowing things up, intricate escape, car chase - and all in the first 30 minutes!",
+        "Entertainment for the guys who love suspense."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "It's about the story, not the visuals.",
+        "Great special effects. A disappointment in that it didn't reach a conclusion."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I like the apocalyptic genre, so I looked forward to viewing this.",
+        "Although I'm not big on 'chik fliks' I watched this with my sweetie."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "Lots of good special effects with gobs of blowin' stuff up.",
+        "Special effects make this film worth watching."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Predictable plot, but in my opinion anything with Morgan Freeman in it is worth watching.",
+        "Campy and predictable. Try watching something else."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced, action-oriented films, particularly in the sci-fi and drama genres. They appreciate visual spectacle but are less concerned with narrative complexity and production quality, often finding stories predictable yet entertaining."
+}

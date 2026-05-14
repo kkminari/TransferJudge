@@ -1,0 +1,74 @@
+{
+  "user_id": "AFQVUDBKGIVAP26BRNTKECQFIU6Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, comedy, family",
+      "evidence": [
+        "\"This was a weird movie but I loved it. It kept me on the edge of my seat!!\"",
+        "\"I had seen it years before when it came out and as always Tommy Davidson had me cracking up.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I was on the edge of my seat the whole time. The acting was superb!!!\"",
+        "\"I love this movie. It's one of my favorite Christmas movies.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"An on the edge of your seat movie. I loved it!!\"",
+        "\"I was on the edge of my seat the whole time.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting was superb!!!\"",
+        "\"Awesome movie. Taraji played a great coach in this movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I truly enjoyed this movie. I laughed and cried!\"",
+        "\"I love, love, love this movie, I watched it years ago when I was in the military and it's just as good now as it was then.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I truly enjoyed this movie. I laughed and cried!\"",
+        "\"This movie was absolutely not what I expected especially with Taraji P. Henson. I was disappointed!!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for thrillers and comedies, enjoying fast-paced narratives that keep them engaged. They value high production quality and emotional impact, often expressing joy and laughter in their reviews."
+}

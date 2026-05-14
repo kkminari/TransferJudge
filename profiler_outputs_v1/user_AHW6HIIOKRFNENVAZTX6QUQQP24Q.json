@@ -1,0 +1,76 @@
+{
+  "user_id": "AHW6HIIOKRFNENVAZTX6QUQQP24Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"I love this show, I still stay up till 2:00 in the mourning to see that show...\"",
+        "\"one of the best movies in the world, it was just so real you felt like you were there...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"...nothing to rush out and buy, I'd strongly recomend renting this before buying it.\"",
+        "\"...the only problem is, not enough people died...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This season is so funny it will make you sick...\"",
+        "\"...the best characters are Nina, Finch. Both of those are so funny it's unbelievable.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"...it was ok, but not great, nothing to rush out and buy...\"",
+        "\"...the only down grade is the little remixes in some of the songs...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"...I thought this movie would be good but I thought this movie was one of the best Queen Latifah movies I ever saw...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual humor, engaging performances",
+      "evidence": [
+        "\"...the singing was just perfect. This is truely a good show...\"",
+        "\"...the choreography and her sassy mouth in the song...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"...you might learn something.\"",
+        "\"...the cast was funny and made you feel like you were right there in the shop...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedy and drama, often favoring fast-paced narratives with engaging performances. They show a preference for light-hearted content that evokes laughter, while being less concerned about production quality or complex storytelling."
+}

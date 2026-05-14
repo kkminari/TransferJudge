@@ -1,0 +1,77 @@
+{
+  "user_id": "AFDIUMNHIVWOULFZN2SW62QDIOAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy, drama",
+      "evidence": [
+        "\"This movie is incredibly fast paced... But like I said there is action and lot's of it.\"",
+        "\"It's a great feel good movie that leaves you shaking your head in disbelief.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The story is about the 'Sleepover' Bandits who would kidnap the bank manager... a fairly good plot make the movie.\"",
+        "\"Unlike the sequel MI:2, Mission Impossible is a very thickened plot with many twists that leave you thinking; what is going to happen next?\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This movie is incredibly fast paced...\"",
+        "\"This movie doesn't require any thinking at all.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The DVD is cool because it explains that they actually used some of the underground racing community to fill in as extra's.\"",
+        "\"The DVD edition is great because of the special features...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"What a movie, that's all I can say. Will Smith is at his comedic best in this sci-fi movie...\"",
+        "\"I wish I could blame the actors for not taking on challenges...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"The special deleted scenes are pretty good, and it shows several different camera angles for the truck scene at the end, which is pretty intense.\"",
+        "\"It's a great feel good movie that leaves you shaking your head in disbelief.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"There is very raw emotion plus a very raw love scene.\"",
+        "\"This movie when it reaches its climax has those watching waiting to stand and take the vow, 'O captain my Captain!'\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced action and comedy films, often appreciating visual spectacle and humor. They have a mixed preference for narrative complexity and emotional depth, indicating a balance between entertainment and thought-provoking content."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFG2XTB7VISQLBTIFME7MP5JS7TQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "anime, action, superhero",
+      "evidence": [
+        "\"DB fan then you gotta buy this collection.\"",
+        "\"Best marvel movie yet, besides the the 2nd GOTG!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Was a good story after the affects of FF7.\"",
+        "\"Movie was great, would recommend to watch...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Awesome movie and tribute to PW!\"",
+        "\"Best marvel movie yet, besides the the 2nd GOTG!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"...but really only for those who played 7 or is a FF fan should buy this.\"",
+        "\"...but got a new one and still was a little damage, but not worth getting another over.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for DBZ and Marvel",
+      "evidence": [
+        "\"If you wanna collect all the DBZ movies and for a good price...\"",
+        "\"Best marvel movie yet, besides the the 2nd GOTG!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"...all most all of them are great!\"",
+        "\"...should have be included with or inside the game it self\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Sadly this movie was a let down, as a huge TMNT fan I did not like this movie..was alright\"",
+        "\"...but movie is poops!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for anime and action genres, particularly enjoying DBZ and Marvel movies. They appreciate fast-paced storytelling but show less concern for production quality, focusing more on the entertainment value."
+}

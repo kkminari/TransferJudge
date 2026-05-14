@@ -1,0 +1,77 @@
+{
+  "user_id": "AFZMNN2YBNT45JMJWHS7SQKPEJAQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, comedy, drama, mystery, adventure",
+      "evidence": [
+        "\"Just the right mix of mystery, adventure, action and humor; all in good taste.\"",
+        "\"The right touch of comedy and romance.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story itself was so cute and everyone did well.\"",
+        "\"The execution could use a little help.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I wish it came out on bluray for USA players instead of DVDs.\"",
+        "\"The movie is short and to the point.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great acting, excellent writing.\"",
+        "\"The quality is very good.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I will always watch anything Ryan Mcpartlin is in.\"",
+        "\"I love DC and it's characters. I have been a fan since childhood.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The characters were all so interesting and watchable.\"",
+        "\"My heart was lost in its scenery.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I never tire of watching this film.\"",
+        "\"It has a perfect blend of drama, romance and comedy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of romance, comedy, and drama with a preference for high-quality production. They appreciate engaging narratives that evoke emotional responses, although they tend to favor simpler storylines. Overall, they have a strong affinity for character-driven content and are loyal to specific actors and franchises."
+}

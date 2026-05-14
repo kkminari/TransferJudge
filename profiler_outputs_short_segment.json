@@ -1,0 +1,2095 @@
+[
+  {
+    "user_id": "AGKNDWTTS6L2TUOKQOWRLZ36AR5Q",
+    "total_reviews": 18,
+    "after_cutoff": 4,
+    "lost_to_cutoff": 14,
+    "gt_ts": 1421886932000
+  },
+  {
+    "user_id": "AEMB3MFTN66YZDXKP6XVH5MHZ3JA",
+    "total_reviews": 30,
+    "after_cutoff": 2,
+    "lost_to_cutoff": 28,
+    "gt_ts": 1474182463000
+  },
+  {
+    "user_id": "AE2GWCTNXNK5X7KSRPW7KSKTSEAQ",
+    "total_reviews": 15,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 2,
+    "gt_ts": 1476674792000
+  },
+  {
+    "user_id": "AEFAAOAXQ7D767UDEV3EDVHTPCOA",
+    "total_reviews": 18,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 5,
+    "gt_ts": 1418253585000
+  },
+  {
+    "user_id": "AE6EFC6GSFSREU2GW53J5OTUH32Q",
+    "total_reviews": 15,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 4,
+    "gt_ts": 1491358348000
+  },
+  {
+    "user_id": "AELACBZASH7TWZCB2X753Q5ZGY5Q",
+    "total_reviews": 16,
+    "after_cutoff": 9,
+    "lost_to_cutoff": 7,
+    "gt_ts": 1461617897000
+  },
+  {
+    "user_id": "AHTTPKXKHBNVSMIF6NYMESFX2AUA",
+    "total_reviews": 15,
+    "after_cutoff": 2,
+    "lost_to_cutoff": 13,
+    "gt_ts": 1442089462000
+  },
+  {
+    "user_id": "AFW4FUMBXNN35T235PWOJ43P52FQ",
+    "total_reviews": 18,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 5,
+    "gt_ts": 1460053208000
+  },
+  {
+    "user_id": "AEMMKLHDREBMMD4JVNKNCAJQGQGQ",
+    "total_reviews": 20,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 6,
+    "gt_ts": 1395579528000
+  },
+  {
+    "user_id": "AH63O5CCOCJXYZWREYGK5HPF7UKQ",
+    "total_reviews": 17,
+    "after_cutoff": 6,
+    "lost_to_cutoff": 11,
+    "gt_ts": 1408034495000
+  },
+  {
+    "user_id": "AF2646MM5WQZDUTCXE4SGBUCLJYA",
+    "total_reviews": 16,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 2,
+    "gt_ts": 1607880675808
+  },
+  {
+    "user_id": "AG4PM2LQQRRYOLRBBOHC73KXA5DA",
+    "total_reviews": 25,
+    "after_cutoff": 10,
+    "lost_to_cutoff": 15,
+    "gt_ts": 1486405045000
+  },
+  {
+    "user_id": "AHDHVWOWVXNFLESN6HIGVWBHIETA",
+    "total_reviews": 17,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 5,
+    "gt_ts": 1521165443321
+  },
+  {
+    "user_id": "AGMYEU5JGJ4QYWEZ5XZEURQLK2EQ",
+    "total_reviews": 15,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 1,
+    "gt_ts": 1484158731000
+  },
+  {
+    "user_id": "AHA52CQXKMM2X37JJMWKFUNO2M7A",
+    "total_reviews": 30,
+    "after_cutoff": 9,
+    "lost_to_cutoff": 21,
+    "gt_ts": 1042163059000
+  },
+  {
+    "user_id": "AH5QN54BXSMZSNBHJRBBUSXUGGGQ",
+    "total_reviews": 27,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 16,
+    "gt_ts": 1545461893184
+  },
+  {
+    "user_id": "AEMO2MND4W7ATBJPH7QVVGZSLF3A",
+    "total_reviews": 30,
+    "after_cutoff": 6,
+    "lost_to_cutoff": 24,
+    "gt_ts": 1549992392443
+  },
+  {
+    "user_id": "AGYUJL6F62HOHIOXKHBNTX6WXQ4A",
+    "total_reviews": 16,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 2,
+    "gt_ts": 1463304305000
+  },
+  {
+    "user_id": "AELSGIX6LWIBS7HIZBRJUIQ2JTTA",
+    "total_reviews": 15,
+    "after_cutoff": 1,
+    "lost_to_cutoff": 14,
+    "gt_ts": 1320284382000
+  },
+  {
+    "user_id": "AEXIYSK2MNJR5K6ZHR335J572OHQ",
+    "total_reviews": 27,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 20,
+    "gt_ts": 1548812727435
+  },
+  {
+    "user_id": "AECLSLGYGD2JCT2QMFCPQYTB4NCA",
+    "total_reviews": 25,
+    "after_cutoff": 9,
+    "lost_to_cutoff": 16,
+    "gt_ts": 1492537372000
+  },
+  {
+    "user_id": "AHMUOAUVXJNTUOPODX7BR5H7R5AA",
+    "total_reviews": 25,
+    "after_cutoff": 10,
+    "lost_to_cutoff": 15,
+    "gt_ts": 1447542787000
+  },
+  {
+    "user_id": "AHJXULDEJLW2BTHARNX2HWLX2JVQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1503859475080
+  },
+  {
+    "user_id": "AGIEUBK6KNOI53C2E2AQRPJWOXRA",
+    "total_reviews": 16,
+    "after_cutoff": 2,
+    "lost_to_cutoff": 14,
+    "gt_ts": 1410201334000
+  },
+  {
+    "user_id": "AHSLMK4MF77OSOQEEYD5D5NV4SMA",
+    "total_reviews": 30,
+    "after_cutoff": 9,
+    "lost_to_cutoff": 21,
+    "gt_ts": 1543880531197
+  },
+  {
+    "user_id": "AEMIXM2M4XSTANZ5TZVPCG4MVCHQ",
+    "total_reviews": 19,
+    "after_cutoff": 9,
+    "lost_to_cutoff": 10,
+    "gt_ts": 1442502086000
+  },
+  {
+    "user_id": "AELZLYTKPZOGEB4MFFSZIZ7KWFZA",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1475350792000
+  },
+  {
+    "user_id": "AFZ7BZEAOB6JK3T4HGIATK2GQDBQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1547067049177
+  },
+  {
+    "user_id": "AEWCUX5UKUYPDZJIOB6XMLCBJ3KA",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1376486606000
+  },
+  {
+    "user_id": "AH7ANVNOCCQGX4VLRIS3B7VYIMRQ",
+    "total_reviews": 30,
+    "after_cutoff": 3,
+    "lost_to_cutoff": 27,
+    "gt_ts": 1427203776000
+  },
+  {
+    "user_id": "AEYCJYUXNLIIACXJGZ5AB2HYEVRQ",
+    "total_reviews": 30,
+    "after_cutoff": 2,
+    "lost_to_cutoff": 28,
+    "gt_ts": 1504055509112
+  },
+  {
+    "user_id": "AGT63V5PP7JTS2GOXKOKQQ4Q7F3Q",
+    "total_reviews": 24,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 11,
+    "gt_ts": 1605458165666
+  },
+  {
+    "user_id": "AEKR6RDRF57OHPSPCVYM25DQAJEQ",
+    "total_reviews": 20,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 9,
+    "gt_ts": 1472619828000
+  },
+  {
+    "user_id": "AFJAMCP2Y4WEYYXLSIJBMNFTOZ2Q",
+    "total_reviews": 18,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 6,
+    "gt_ts": 1435947814000
+  },
+  {
+    "user_id": "AHJGBSZSHZC7Q7JYOGEBUJMOBWRQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1482912500000
+  },
+  {
+    "user_id": "AGCBOZKJQUVQ6ANN5LVFPHKUESJA",
+    "total_reviews": 18,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 4,
+    "gt_ts": 1173660038000
+  },
+  {
+    "user_id": "AE5H32B5QGB3TYAU3ZCBUQN3JETA",
+    "total_reviews": 27,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 16,
+    "gt_ts": 1431758734000
+  },
+  {
+    "user_id": "AEVP44GTT6TI2IIFSYB35ABKZEHQ",
+    "total_reviews": 16,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 9,
+    "gt_ts": 1427997300000
+  },
+  {
+    "user_id": "AF4LO22ESZS33E56T5E65AAUWAUQ",
+    "total_reviews": 15,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 4,
+    "gt_ts": 1427766379000
+  },
+  {
+    "user_id": "AET6EV7EOWBXIY7NQOAHBKUHHPVA",
+    "total_reviews": 30,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 23,
+    "gt_ts": 1521308210448
+  },
+  {
+    "user_id": "AHPYICNMDTAXITB2LB57GEMVZTTA",
+    "total_reviews": 29,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 18,
+    "gt_ts": 1644602349354
+  },
+  {
+    "user_id": "AF6MWQHSSVY3CDIIM4ZPSI77UIZA",
+    "total_reviews": 21,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 8,
+    "gt_ts": 1512690966886
+  },
+  {
+    "user_id": "AEHUKYQ5VUJSAUVEOERMHOQ4WZ7A",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1444614077000
+  },
+  {
+    "user_id": "AEUHBJANG6GNOWG3AESUOXTSRHRA",
+    "total_reviews": 15,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 1,
+    "gt_ts": 1605401447071
+  },
+  {
+    "user_id": "AHDMZL47ZAEWBVLAYFHKGPQMML2A",
+    "total_reviews": 19,
+    "after_cutoff": 5,
+    "lost_to_cutoff": 14,
+    "gt_ts": 1422161207000
+  },
+  {
+    "user_id": "AEMYGIOMIFMVC7Z47VTSX4JPV6KQ",
+    "total_reviews": 21,
+    "after_cutoff": 6,
+    "lost_to_cutoff": 15,
+    "gt_ts": 1420769983000
+  },
+  {
+    "user_id": "AFWB43ND6SK6J4CGG6WIUNT63Q2A",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1344032626000
+  },
+  {
+    "user_id": "AFQ46KEQYKHUJHTHVLOLUMHSCSFA",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1360442108000
+  },
+  {
+    "user_id": "AE65JV4IOELL25ZMSEGHLK63ZSIQ",
+    "total_reviews": 15,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 2,
+    "gt_ts": 1508371386380
+  },
+  {
+    "user_id": "AFC7HCCZPYJ4JFJ2BMRX6XZSN3NA",
+    "total_reviews": 30,
+    "after_cutoff": 9,
+    "lost_to_cutoff": 21,
+    "gt_ts": 1358744289000
+  },
+  {
+    "user_id": "AEGNPQ6UY7BE36F7G2XO6H55EGYA",
+    "total_reviews": 15,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 3,
+    "gt_ts": 1665639124181
+  },
+  {
+    "user_id": "AHA7DWUIJ5QKXGMTLWXCADURRKCA",
+    "total_reviews": 30,
+    "after_cutoff": 8,
+    "lost_to_cutoff": 22,
+    "gt_ts": 1552346212325
+  },
+  {
+    "user_id": "AEOYY3ZSYBOHW25WMVDKNAOZPKEQ",
+    "total_reviews": 21,
+    "after_cutoff": 8,
+    "lost_to_cutoff": 13,
+    "gt_ts": 1422833244000
+  },
+  {
+    "user_id": "AGLDY5PA7VQAMO3ED7LHPKNELNPQ",
+    "total_reviews": 18,
+    "after_cutoff": 8,
+    "lost_to_cutoff": 10,
+    "gt_ts": 1412155222000
+  },
+  {
+    "user_id": "AGC6FNYUHALT3PNXA7GFQ7PPEFQQ",
+    "total_reviews": 16,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 3,
+    "gt_ts": 1443982619000
+  },
+  {
+    "user_id": "AEJG3LHQWROVAZSKKNUSLE2SXQJQ",
+    "total_reviews": 17,
+    "after_cutoff": 9,
+    "lost_to_cutoff": 8,
+    "gt_ts": 1480542153000
+  },
+  {
+    "user_id": "AGOLJJRBW3MORLPOQ3XJLGUCJRVQ",
+    "total_reviews": 15,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 3,
+    "gt_ts": 1432935838000
+  },
+  {
+    "user_id": "AGZ5426EF4XJXM7M7N6XFUFT6ZZA",
+    "total_reviews": 18,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 18,
+    "gt_ts": 1596827606064
+  },
+  {
+    "user_id": "AGQETMKUBADZYTGRUOFNEWSCO7KQ",
+    "total_reviews": 17,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 3,
+    "gt_ts": 1673097185434
+  },
+  {
+    "user_id": "AE2EG4UV4GSMCWOGQWGSBISLKTAA",
+    "total_reviews": 17,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 6,
+    "gt_ts": 1522770797796
+  },
+  {
+    "user_id": "AGTMEYZFC2TL3W3HOZA5FDYMOT5Q",
+    "total_reviews": 30,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 19,
+    "gt_ts": 1606369482483
+  },
+  {
+    "user_id": "AH7BVGKQPIAF7ASZYOGMU6N4YDPA",
+    "total_reviews": 15,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 3,
+    "gt_ts": 1544210104223
+  },
+  {
+    "user_id": "AH6SBOSKXOLUSK54Y7YHAGIOGSKQ",
+    "total_reviews": 15,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 3,
+    "gt_ts": 1599164525812
+  },
+  {
+    "user_id": "AGINKZPXUD4TQ33ARYHQROSHYDKQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1525140778828
+  },
+  {
+    "user_id": "AHSQJZ4HCVVAE7XYV4OO7CTUPECA",
+    "total_reviews": 23,
+    "after_cutoff": 9,
+    "lost_to_cutoff": 14,
+    "gt_ts": 1488674141000
+  },
+  {
+    "user_id": "AF3IUHWWMZAM4XO6QJB26U6FVLEA",
+    "total_reviews": 15,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 2,
+    "gt_ts": 1581695046650
+  },
+  {
+    "user_id": "AEOGJEIO2WIQQLGZ4ZABFWL64L2Q",
+    "total_reviews": 25,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 25,
+    "gt_ts": 1474312726000
+  },
+  {
+    "user_id": "AEYVYEQVFLTISY4AGLZAVCA5HCWA",
+    "total_reviews": 15,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 2,
+    "gt_ts": 1579658239416
+  },
+  {
+    "user_id": "AFUOP74KYBWNI6LU42GKJGU6E67Q",
+    "total_reviews": 16,
+    "after_cutoff": 2,
+    "lost_to_cutoff": 14,
+    "gt_ts": 1379357164000
+  },
+  {
+    "user_id": "AFHCCGQRVP534ZBZBAJPV25YYPTQ",
+    "total_reviews": 30,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 16,
+    "gt_ts": 1592956186514
+  },
+  {
+    "user_id": "AFEXMDIK5ACIL2KDPXF7EDUUKIIQ",
+    "total_reviews": 15,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 1,
+    "gt_ts": 1418069336000
+  },
+  {
+    "user_id": "AFKI7FSIR4KAID4VA6YSHQWSOX6A",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1468196166000
+  },
+  {
+    "user_id": "AE6CIJHUO334AESW4H34WLRGDOFQ",
+    "total_reviews": 16,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 5,
+    "gt_ts": 1571448968609
+  },
+  {
+    "user_id": "AEODX7OO4P5ESN2OJASAKDNKAQYQ",
+    "total_reviews": 18,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 18,
+    "gt_ts": 1011063537000
+  },
+  {
+    "user_id": "AHMWNM43WYK2ZTURLMWDTQZTJVKQ",
+    "total_reviews": 30,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 18,
+    "gt_ts": 1617855591240
+  },
+  {
+    "user_id": "AEVCP3WCAXPCI2EJTXOJ5WAEHOIQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1521272301119
+  },
+  {
+    "user_id": "AE3QLHFJ3IN4P4SGD4DYY2JZNTMQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1201888492000
+  },
+  {
+    "user_id": "AFCAB5TNRFLO6XB2SI7LT7CUZWVQ",
+    "total_reviews": 18,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 11,
+    "gt_ts": 1441044044000
+  },
+  {
+    "user_id": "AGHKU25GSMJUEO4R2AHVJBDMUAZQ",
+    "total_reviews": 21,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 9,
+    "gt_ts": 1410541994000
+  },
+  {
+    "user_id": "AHZX5KIWIVBIKN2B2C736U2L7EPQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1461118602000
+  },
+  {
+    "user_id": "AFNE3N4F7NT22CF6MN74ZLSNXY3A",
+    "total_reviews": 15,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 1,
+    "gt_ts": 1486346484000
+  },
+  {
+    "user_id": "AFDBXSNA7ASOJJXJMQAIH3N622CQ",
+    "total_reviews": 21,
+    "after_cutoff": 5,
+    "lost_to_cutoff": 16,
+    "gt_ts": 1440040953000
+  },
+  {
+    "user_id": "AEU7CZU6RJXVUPP7HWFWISVOPR6A",
+    "total_reviews": 15,
+    "after_cutoff": 10,
+    "lost_to_cutoff": 5,
+    "gt_ts": 1651558526673
+  },
+  {
+    "user_id": "AEVOOTBWAKU2INOVDDWIRP7TOF2Q",
+    "total_reviews": 30,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 18,
+    "gt_ts": 1523757048899
+  },
+  {
+    "user_id": "AE6GMD7HUUHP3QWKBV5FQYGYWJOA",
+    "total_reviews": 19,
+    "after_cutoff": 5,
+    "lost_to_cutoff": 14,
+    "gt_ts": 1441058589000
+  },
+  {
+    "user_id": "AHFZ3KJUYEEYUYYIYQFCD4PMVJ6A",
+    "total_reviews": 25,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 18,
+    "gt_ts": 1456181932000
+  },
+  {
+    "user_id": "AGQLI42OA6WYUSQ4GTUGZOZHH3YQ",
+    "total_reviews": 25,
+    "after_cutoff": 10,
+    "lost_to_cutoff": 15,
+    "gt_ts": 1625154798040
+  },
+  {
+    "user_id": "AGBWFNYZWD65BZEJERPQYSCLQCDQ",
+    "total_reviews": 19,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 8,
+    "gt_ts": 1528373527890
+  },
+  {
+    "user_id": "AEPKTJY5UFGITAANWWXQPJ47O44Q",
+    "total_reviews": 21,
+    "after_cutoff": 3,
+    "lost_to_cutoff": 18,
+    "gt_ts": 1303981439000
+  },
+  {
+    "user_id": "AGRKZNFBO57TBQRFRLJKKCWWNEZQ",
+    "total_reviews": 20,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 8,
+    "gt_ts": 1417797938000
+  },
+  {
+    "user_id": "AENFTSII4IW7CFHZQ6AXFNKHAOQA",
+    "total_reviews": 15,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 2,
+    "gt_ts": 1420962158000
+  },
+  {
+    "user_id": "AGC623POR62OBYONH2FK3JOASU7A",
+    "total_reviews": 23,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 23,
+    "gt_ts": 1376855983000
+  },
+  {
+    "user_id": "AFAS4ZJ2KIWZS5LJEL6WQ6X6WRQQ",
+    "total_reviews": 30,
+    "after_cutoff": 5,
+    "lost_to_cutoff": 25,
+    "gt_ts": 1414953523000
+  },
+  {
+    "user_id": "AF7OPVMFVDGRGS3IK52CN72O2SUA",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1436209070000
+  },
+  {
+    "user_id": "AHXLUU4ZQTMD4XIUEZGZNK2Q3O6A",
+    "total_reviews": 24,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 11,
+    "gt_ts": 1431545763000
+  },
+  {
+    "user_id": "AH5LAGB3NJ3P4IPCUZE7XWAZPD5A",
+    "total_reviews": 17,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 6,
+    "gt_ts": 1632997827865
+  },
+  {
+    "user_id": "AH3QO45M2EKDFILRDATR3LFVJBVA",
+    "total_reviews": 21,
+    "after_cutoff": 10,
+    "lost_to_cutoff": 11,
+    "gt_ts": 1447188284000
+  },
+  {
+    "user_id": "AH7FS47ROFXNNDHLAP6UH57QMIBQ",
+    "total_reviews": 16,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 5,
+    "gt_ts": 1552877345663
+  },
+  {
+    "user_id": "AHFG4JREGQZCL25X57BJPH24L5BA",
+    "total_reviews": 21,
+    "after_cutoff": 8,
+    "lost_to_cutoff": 13,
+    "gt_ts": 1419189171000
+  },
+  {
+    "user_id": "AE46E5T4GWUXHZ7C5OHGH7EMMZQQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1371261071000
+  },
+  {
+    "user_id": "AH2MEKWQNIW464F4HU6MUACV7PUA",
+    "total_reviews": 25,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 14,
+    "gt_ts": 1570125749632
+  },
+  {
+    "user_id": "AH77DH6NMTAT6E5E73VMWLYYY4EA",
+    "total_reviews": 21,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 21,
+    "gt_ts": 1459662314000
+  },
+  {
+    "user_id": "AGVF3JCSMRZBUXIULGCY4O362JXQ",
+    "total_reviews": 16,
+    "after_cutoff": 6,
+    "lost_to_cutoff": 10,
+    "gt_ts": 1429035164000
+  },
+  {
+    "user_id": "AE7WCHP4PLR6LZXZYT2N3DE6PL3A",
+    "total_reviews": 27,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 20,
+    "gt_ts": 1562785999485
+  },
+  {
+    "user_id": "AEXPAM55CUZTO6HHS2YKQHM55FPQ",
+    "total_reviews": 15,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 3,
+    "gt_ts": 1433163399000
+  },
+  {
+    "user_id": "AFWXOVDD5PBKBYKCHG3V2NARIB2A",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1439829008000
+  },
+  {
+    "user_id": "AGK2XUY6F27GIY2QUYBJDC65YPGA",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1537536179984
+  },
+  {
+    "user_id": "AHQFDLCXM4NMX37XMTTQ3GFU4RPQ",
+    "total_reviews": 16,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 2,
+    "gt_ts": 1446700358000
+  },
+  {
+    "user_id": "AG2QM5VRS5Q3UKTJI4JH7B7PP6CQ",
+    "total_reviews": 16,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 3,
+    "gt_ts": 1579557193955
+  },
+  {
+    "user_id": "AFJF274IUSLTRIZFRL5S5OMKENPA",
+    "total_reviews": 18,
+    "after_cutoff": 4,
+    "lost_to_cutoff": 14,
+    "gt_ts": 1423023954000
+  },
+  {
+    "user_id": "AH55SEMFFZPUA6DTGXF766RNGWDA",
+    "total_reviews": 15,
+    "after_cutoff": 10,
+    "lost_to_cutoff": 5,
+    "gt_ts": 1475194926000
+  },
+  {
+    "user_id": "AFMTL5LPBB5TBPS4NTLQX24MI7TA",
+    "total_reviews": 23,
+    "after_cutoff": 1,
+    "lost_to_cutoff": 22,
+    "gt_ts": 1643307536944
+  },
+  {
+    "user_id": "AFYCOCLBMTUTIEQY5JOB7YKUSJWA",
+    "total_reviews": 18,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 6,
+    "gt_ts": 1430343160000
+  },
+  {
+    "user_id": "AGJGK5LOEJNBS3XKL2JHYGON7XPQ",
+    "total_reviews": 30,
+    "after_cutoff": 3,
+    "lost_to_cutoff": 27,
+    "gt_ts": 1570542763039
+  },
+  {
+    "user_id": "AHLZN7ZEFXPRIAMZI4DPC3RSHPAQ",
+    "total_reviews": 15,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 1,
+    "gt_ts": 1636746726483
+  },
+  {
+    "user_id": "AEXFKW3RKDZTM2M33BPW3NAPEOYQ",
+    "total_reviews": 26,
+    "after_cutoff": 2,
+    "lost_to_cutoff": 24,
+    "gt_ts": 1491314854000
+  },
+  {
+    "user_id": "AEGYNM2FIFO5HWKBOSKI6MRIELQA",
+    "total_reviews": 22,
+    "after_cutoff": 4,
+    "lost_to_cutoff": 18,
+    "gt_ts": 1518498843031
+  },
+  {
+    "user_id": "AHLAEA5LYPVGXHFK2C2XDMIL4AFQ",
+    "total_reviews": 17,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 3,
+    "gt_ts": 1521233013631
+  },
+  {
+    "user_id": "AHYPHJZ5MDCD65UU3PRRS6AUOUSQ",
+    "total_reviews": 24,
+    "after_cutoff": 8,
+    "lost_to_cutoff": 16,
+    "gt_ts": 1469828821000
+  },
+  {
+    "user_id": "AEPNZR6Y3QDN6GGVRQKILZDFBA6Q",
+    "total_reviews": 30,
+    "after_cutoff": 10,
+    "lost_to_cutoff": 20,
+    "gt_ts": 1535589531395
+  },
+  {
+    "user_id": "AHAGTVSBSYKVQ4LX23ICRYWQZVOA",
+    "total_reviews": 15,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 2,
+    "gt_ts": 1667277786488
+  },
+  {
+    "user_id": "AEN2DGYMI4VDI2SYSGINL7JANFIA",
+    "total_reviews": 18,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 6,
+    "gt_ts": 1447791536000
+  },
+  {
+    "user_id": "AHENJXNJUGH7A7FSW7AFRC4H2NJQ",
+    "total_reviews": 17,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 3,
+    "gt_ts": 1467240976000
+  },
+  {
+    "user_id": "AHVOOMXVUB3SVZGLH6DISQOYI4PA",
+    "total_reviews": 16,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 3,
+    "gt_ts": 1477240119000
+  },
+  {
+    "user_id": "AEEWTREDXOCI27KEDIFACB3CABGA",
+    "total_reviews": 15,
+    "after_cutoff": 10,
+    "lost_to_cutoff": 5,
+    "gt_ts": 1438277951000
+  },
+  {
+    "user_id": "AHHJS2CPZNN7K54LRQ7NTAOOCJBQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1446704559000
+  },
+  {
+    "user_id": "AH7YVHUC5KVCYZLN6CXTY6RNOZ5Q",
+    "total_reviews": 30,
+    "after_cutoff": 6,
+    "lost_to_cutoff": 24,
+    "gt_ts": 1480457812000
+  },
+  {
+    "user_id": "AHISVMPIBD33NVP6K74BYKUHEN2Q",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1210815749000
+  },
+  {
+    "user_id": "AE2IIOS7ZHHZHQS6IFELFQURSNJA",
+    "total_reviews": 16,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 5,
+    "gt_ts": 1556810449683
+  },
+  {
+    "user_id": "AH4NBYXLMRNVY5JBPRHUQBDBIYQQ",
+    "total_reviews": 21,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 9,
+    "gt_ts": 1619462094149
+  },
+  {
+    "user_id": "AECSYSZJQH6MDAJVU7VII2BX7QNA",
+    "total_reviews": 16,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 16,
+    "gt_ts": 1180435064000
+  },
+  {
+    "user_id": "AHJJSAOQEKOG42VTVERKERCRKZBQ",
+    "total_reviews": 30,
+    "after_cutoff": 3,
+    "lost_to_cutoff": 27,
+    "gt_ts": 1422738097000
+  },
+  {
+    "user_id": "AFXZ3GV575HZ5B25IYU4W5JBVGXQ",
+    "total_reviews": 16,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 9,
+    "gt_ts": 1462139101000
+  },
+  {
+    "user_id": "AHCLOODSKQ3RNDPAAK4K73F5BZWA",
+    "total_reviews": 20,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 13,
+    "gt_ts": 1437587858000
+  },
+  {
+    "user_id": "AFTUYJ3U6J7XPS66CIEXWGK6IEVQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1618194735678
+  },
+  {
+    "user_id": "AFFYFQDWPIQ6YMV32MF6EF4DX47Q",
+    "total_reviews": 15,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 15,
+    "gt_ts": 1432502804000
+  },
+  {
+    "user_id": "AEAVZ5LWHVPL6VYWN7765M5O4ZBA",
+    "total_reviews": 17,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 3,
+    "gt_ts": 1500649649071
+  },
+  {
+    "user_id": "AHP2ONSDKKOKFEOGQPJ72NYQ7UIQ",
+    "total_reviews": 30,
+    "after_cutoff": 1,
+    "lost_to_cutoff": 29,
+    "gt_ts": 1241192170000
+  },
+  {
+    "user_id": "AHLJQSHVT3YNLTURIQ4CO7PAE6ZQ",
+    "total_reviews": 16,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 2,
+    "gt_ts": 1358881642000
+  },
+  {
+    "user_id": "AFWUVNA5KNBBPR6TTROT5VLLWIAA",
+    "total_reviews": 16,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 2,
+    "gt_ts": 1575746250571
+  },
+  {
+    "user_id": "AGOOINSGG7DMMDGWLU4MPR7I6XMA",
+    "total_reviews": 20,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 13,
+    "gt_ts": 1441815915000
+  },
+  {
+    "user_id": "AEPR3SQKIIPT7EFB4JAN2754V57Q",
+    "total_reviews": 16,
+    "after_cutoff": 10,
+    "lost_to_cutoff": 6,
+    "gt_ts": 1481639646000
+  },
+  {
+    "user_id": "AHYABY5VWCWMXBEVBEXHN3H7TAHA",
+    "total_reviews": 16,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 9,
+    "gt_ts": 1419967752000
+  },
+  {
+    "user_id": "AGKLJEIHIDHIPXD242W6J547FOUQ",
+    "total_reviews": 15,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 4,
+    "gt_ts": 1430873199000
+  },
+  {
+    "user_id": "AHLAFGCYVN64N4ECMG7HISS7YMBQ",
+    "total_reviews": 16,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 5,
+    "gt_ts": 1420195611000
+  },
+  {
+    "user_id": "AFTLIOHJZZR66R7KWSBCPTB3CCVA",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1467046592000
+  },
+  {
+    "user_id": "AENS4LISOWGEGUFEKJZLCBLQ3FIQ",
+    "total_reviews": 19,
+    "after_cutoff": 2,
+    "lost_to_cutoff": 17,
+    "gt_ts": 1425338431000
+  },
+  {
+    "user_id": "AEBHUSURB5HFDLJRYK4ZPAVCMWKQ",
+    "total_reviews": 16,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 16,
+    "gt_ts": 1461294180000
+  },
+  {
+    "user_id": "AH3HJCPYHHDK4MT7BBKVU75RMEFQ",
+    "total_reviews": 30,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 19,
+    "gt_ts": 1587677310709
+  },
+  {
+    "user_id": "AG7UFLXNZRUUBZKF37N322PRQM7Q",
+    "total_reviews": 15,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 1,
+    "gt_ts": 1521486616867
+  },
+  {
+    "user_id": "AH5YEAKCVVF3DWORZQCTENLLTLMQ",
+    "total_reviews": 15,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 8,
+    "gt_ts": 1420819774000
+  },
+  {
+    "user_id": "AE72HFUASJVDWEQCUSVYK6N5BT6Q",
+    "total_reviews": 16,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 4,
+    "gt_ts": 1413913797000
+  },
+  {
+    "user_id": "AH4N3J4TZ62ZBMKB2NVGSJ2P5PHA",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1390097717000
+  },
+  {
+    "user_id": "AGOIW4H4DTL2B7QPMG5BZYC3PO2A",
+    "total_reviews": 19,
+    "after_cutoff": 1,
+    "lost_to_cutoff": 18,
+    "gt_ts": 1405125570000
+  },
+  {
+    "user_id": "AH74QJLQ7HDTV4QTSLUC5F2UWGWQ",
+    "total_reviews": 16,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 4,
+    "gt_ts": 1504631474836
+  },
+  {
+    "user_id": "AFUZCRJDYP5RGT4SUBTE3M6FGPMQ",
+    "total_reviews": 20,
+    "after_cutoff": 10,
+    "lost_to_cutoff": 10,
+    "gt_ts": 1491276096000
+  },
+  {
+    "user_id": "AHOJBWYIE5T7RQ3MKZBUQKRUIPIQ",
+    "total_reviews": 16,
+    "after_cutoff": 4,
+    "lost_to_cutoff": 12,
+    "gt_ts": 1404144028000
+  },
+  {
+    "user_id": "AG5KBUJWC64SJJMRZ5QHZ6HO375A",
+    "total_reviews": 21,
+    "after_cutoff": 6,
+    "lost_to_cutoff": 15,
+    "gt_ts": 1433975461000
+  },
+  {
+    "user_id": "AGNF3NVLWQKPSIY7X5SH54JTHQLA",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1609641370964
+  },
+  {
+    "user_id": "AFSZRMI57YCIC2XLUOAAINBPRAGQ",
+    "total_reviews": 16,
+    "after_cutoff": 6,
+    "lost_to_cutoff": 10,
+    "gt_ts": 1117942610000
+  },
+  {
+    "user_id": "AFQUN3WZ7AVL4P5EAOS2AKJ7W6QA",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1536175165844
+  },
+  {
+    "user_id": "AHPO5JRXAUAP3I7LZSMSKDEYML7A",
+    "total_reviews": 16,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 9,
+    "gt_ts": 1438042124000
+  },
+  {
+    "user_id": "AFOL5Z4FGOM4O7CKWYCNQHAM7GSQ",
+    "total_reviews": 30,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 17,
+    "gt_ts": 1432092227000
+  },
+  {
+    "user_id": "AEFWWPBDNGNQF3TNZPQ2LOZDAAYQ",
+    "total_reviews": 27,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 27,
+    "gt_ts": 1444342243000
+  },
+  {
+    "user_id": "AGVY44NR3JEBY2XLLA5FGLKKMKHA",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1562690648678
+  },
+  {
+    "user_id": "AGTHHG7LNQEWH6AITQIQV2D34T4A",
+    "total_reviews": 17,
+    "after_cutoff": 10,
+    "lost_to_cutoff": 7,
+    "gt_ts": 1544731692153
+  },
+  {
+    "user_id": "AF2NY55WSJANXAMPQO34RIS3VLSQ",
+    "total_reviews": 30,
+    "after_cutoff": 1,
+    "lost_to_cutoff": 29,
+    "gt_ts": 1202691787000
+  },
+  {
+    "user_id": "AHOSO5AB2V3TPUIYV5QMPKOYCC6Q",
+    "total_reviews": 30,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 17,
+    "gt_ts": 1622208140944
+  },
+  {
+    "user_id": "AHW6HIIOKRFNENVAZTX6QUQQP24Q",
+    "total_reviews": 22,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 15,
+    "gt_ts": 1130561776000
+  },
+  {
+    "user_id": "AG4KTQ42KXUWG3HHMOZNGHO7AYPA",
+    "total_reviews": 23,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 9,
+    "gt_ts": 1430330756000
+  },
+  {
+    "user_id": "AFE3SSKELVGP5HUOPJNY7MUDP3GQ",
+    "total_reviews": 24,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 17,
+    "gt_ts": 1423519058000
+  },
+  {
+    "user_id": "AEBDKJEJJ4LV7YRVIQJ4MW7H2DVA",
+    "total_reviews": 15,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 4,
+    "gt_ts": 1336697317000
+  },
+  {
+    "user_id": "AHZU4SWJG2YJ6XQQQ6T7AYHIPNRA",
+    "total_reviews": 17,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 17,
+    "gt_ts": 1360358591000
+  },
+  {
+    "user_id": "AF6UUT7RMWNNK3NCO7X3GZJNXUTA",
+    "total_reviews": 15,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 1,
+    "gt_ts": 1611002680965
+  },
+  {
+    "user_id": "AGHGWFTJ7TEL52ESRYV4HVQEUBHA",
+    "total_reviews": 16,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 5,
+    "gt_ts": 1457616322000
+  },
+  {
+    "user_id": "AFXIX4TX62W6YJVAMDHSN4QMOGFQ",
+    "total_reviews": 17,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 4,
+    "gt_ts": 1665900474287
+  },
+  {
+    "user_id": "AH7RZRG3RG54XRQL5HLKJT5ZDNVA",
+    "total_reviews": 22,
+    "after_cutoff": 6,
+    "lost_to_cutoff": 16,
+    "gt_ts": 1436933083000
+  },
+  {
+    "user_id": "AH4QEEYRW2SUXJDHS3PTT3VV32NQ",
+    "total_reviews": 17,
+    "after_cutoff": 8,
+    "lost_to_cutoff": 9,
+    "gt_ts": 1445887211000
+  },
+  {
+    "user_id": "AF4ABNA2DBZGPWVYOPRHLBWMH3WQ",
+    "total_reviews": 17,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 4,
+    "gt_ts": 1606659484069
+  },
+  {
+    "user_id": "AHJQL2LSGOTVVRTCUXLLLPJTIVSQ",
+    "total_reviews": 17,
+    "after_cutoff": 2,
+    "lost_to_cutoff": 15,
+    "gt_ts": 1473523100000
+  },
+  {
+    "user_id": "AGWSKCD5JCBM2XP5LQGR7MY7JBBQ",
+    "total_reviews": 20,
+    "after_cutoff": 8,
+    "lost_to_cutoff": 12,
+    "gt_ts": 1395413787000
+  },
+  {
+    "user_id": "AGAZ3UJXL2JGJEHEKJAZKF5EATQA",
+    "total_reviews": 30,
+    "after_cutoff": 8,
+    "lost_to_cutoff": 22,
+    "gt_ts": 1524159313641
+  },
+  {
+    "user_id": "AG4OQ2C7AWZOB4MO76YO7NR7RRZQ",
+    "total_reviews": 16,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 2,
+    "gt_ts": 1586323032109
+  },
+  {
+    "user_id": "AGMIET677L6WDQV2RTSNRTTGCASQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1423596902000
+  },
+  {
+    "user_id": "AGBV3LD3PDYUNKFFNU3OGZGRWIOQ",
+    "total_reviews": 16,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 3,
+    "gt_ts": 1590609110305
+  },
+  {
+    "user_id": "AEXMBPMFUJYQ4CI3FT2R5O2MOBSA",
+    "total_reviews": 17,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 6,
+    "gt_ts": 1510163845297
+  },
+  {
+    "user_id": "AF7QKOIGXY7DSQ7LE3DAVP5XOWDQ",
+    "total_reviews": 15,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 1,
+    "gt_ts": 1428254825000
+  },
+  {
+    "user_id": "AFNQWFJZZDRV5X7N2MUY4SHJKNIQ",
+    "total_reviews": 15,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 4,
+    "gt_ts": 1455989794000
+  },
+  {
+    "user_id": "AEOHT4YP5MRQPG44MQFG7JYFADNQ",
+    "total_reviews": 18,
+    "after_cutoff": 10,
+    "lost_to_cutoff": 8,
+    "gt_ts": 1426111324000
+  },
+  {
+    "user_id": "AEV56VEJJ5AJGRT22FLFGYC7W4XQ",
+    "total_reviews": 17,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 3,
+    "gt_ts": 1660841808101
+  },
+  {
+    "user_id": "AGOTBWECPGKPZRNB6XNGSQI36MQQ",
+    "total_reviews": 27,
+    "after_cutoff": 10,
+    "lost_to_cutoff": 17,
+    "gt_ts": 1501620446538
+  },
+  {
+    "user_id": "AEB3FFGFI5H37NBEIROPDUR2HDPA",
+    "total_reviews": 19,
+    "after_cutoff": 9,
+    "lost_to_cutoff": 10,
+    "gt_ts": 1540443831559
+  },
+  {
+    "user_id": "AF2O4WWI566MWUBA5PGI2LR7E2GQ",
+    "total_reviews": 15,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 8,
+    "gt_ts": 1432318393000
+  },
+  {
+    "user_id": "AE5S6V67JRNM5SWXHMQELQYC37ZQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1068945501000
+  },
+  {
+    "user_id": "AHMKMRHXHFOH4YRCPF6WOBB7SUCQ",
+    "total_reviews": 15,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 8,
+    "gt_ts": 1521773076500
+  },
+  {
+    "user_id": "AHZYX2WH3YCYF53U5YSSG3SXYOFA",
+    "total_reviews": 21,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 9,
+    "gt_ts": 1580752558297
+  },
+  {
+    "user_id": "AFG3KI7OPLSUQG535TOYDM7LWLRQ",
+    "total_reviews": 15,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 1,
+    "gt_ts": 1479177467000
+  },
+  {
+    "user_id": "AHCTX7O56CKDNYAJWLIPQ5HKKKRA",
+    "total_reviews": 16,
+    "after_cutoff": 9,
+    "lost_to_cutoff": 7,
+    "gt_ts": 1557601514592
+  },
+  {
+    "user_id": "AHDZNHBYJWCEXYFD65BGJ7QAR4SQ",
+    "total_reviews": 18,
+    "after_cutoff": 10,
+    "lost_to_cutoff": 8,
+    "gt_ts": 1487996457000
+  },
+  {
+    "user_id": "AF2CIPE35P3SPM4G4BFAG6YUFXPQ",
+    "total_reviews": 15,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 8,
+    "gt_ts": 1426193794000
+  },
+  {
+    "user_id": "AGCQQKG2WJOKJRFDIXR2ZUH727AQ",
+    "total_reviews": 18,
+    "after_cutoff": 6,
+    "lost_to_cutoff": 12,
+    "gt_ts": 1469994738000
+  },
+  {
+    "user_id": "AF5BOGRX3W5UZEDCVJVVXLYN4LUQ",
+    "total_reviews": 30,
+    "after_cutoff": 3,
+    "lost_to_cutoff": 27,
+    "gt_ts": 1056387711000
+  },
+  {
+    "user_id": "AE3S4562L7B3DW5WC7KVPPASL75Q",
+    "total_reviews": 22,
+    "after_cutoff": 1,
+    "lost_to_cutoff": 21,
+    "gt_ts": 1444245959000
+  },
+  {
+    "user_id": "AG3ZNT7PJVST6YOYBGE2U325QAQA",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1546673488130
+  },
+  {
+    "user_id": "AEVLO2M3BEQJKEUYBWSWLSIGOLDQ",
+    "total_reviews": 16,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 4,
+    "gt_ts": 1500495437827
+  },
+  {
+    "user_id": "AG5ZFHZJZNUHM3PUSR4MS7TFJ46Q",
+    "total_reviews": 17,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 10,
+    "gt_ts": 1421331537000
+  },
+  {
+    "user_id": "AEUEV26TBN7P3RDX3IHMFSG54DBA",
+    "total_reviews": 15,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 1,
+    "gt_ts": 1651949095511
+  },
+  {
+    "user_id": "AFFKZ63BLX4EETBL6HEKIQDLKXRA",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1492810382000
+  },
+  {
+    "user_id": "AGHVWKRBJ3FL3WPFEHCGTTAQDKPA",
+    "total_reviews": 20,
+    "after_cutoff": 4,
+    "lost_to_cutoff": 16,
+    "gt_ts": 1407645262000
+  },
+  {
+    "user_id": "AGANF3VERGOBE5PCVOHPZ25EHUEQ",
+    "total_reviews": 22,
+    "after_cutoff": 5,
+    "lost_to_cutoff": 17,
+    "gt_ts": 1639768598166
+  },
+  {
+    "user_id": "AHOAQT2ZU7HCW25EPDA5VPZEZ7BA",
+    "total_reviews": 22,
+    "after_cutoff": 9,
+    "lost_to_cutoff": 13,
+    "gt_ts": 1422427609000
+  },
+  {
+    "user_id": "AFR3U57IE4QZPE6NAWWHNEA4U6KA",
+    "total_reviews": 30,
+    "after_cutoff": 6,
+    "lost_to_cutoff": 24,
+    "gt_ts": 1631635029108
+  },
+  {
+    "user_id": "AGLMTR4VH52VLLGTUQWO6DTOAESQ",
+    "total_reviews": 30,
+    "after_cutoff": 6,
+    "lost_to_cutoff": 24,
+    "gt_ts": 1468706698000
+  },
+  {
+    "user_id": "AEFRPION4HIDPIFYSAQRLY7DTWKA",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1484862336000
+  },
+  {
+    "user_id": "AG7JXYAWHMHZYATIC6K4VKPS4NGQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1635282068009
+  },
+  {
+    "user_id": "AEOP6LSXKVQUDUHON2B5TW4FSNUA",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1500839178626
+  },
+  {
+    "user_id": "AEPHWVBX3UUYQ32RIOZSAYMZO4EQ",
+    "total_reviews": 30,
+    "after_cutoff": 9,
+    "lost_to_cutoff": 21,
+    "gt_ts": 1410153120000
+  },
+  {
+    "user_id": "AH7WUH4YYY6DCWY6KOT7FS4RIS5Q",
+    "total_reviews": 30,
+    "after_cutoff": 6,
+    "lost_to_cutoff": 24,
+    "gt_ts": 1258421860000
+  },
+  {
+    "user_id": "AFO6X5OJZARARQPRVGQ5IE2LTYKQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1573911142861
+  },
+  {
+    "user_id": "AFHVA72C6OYJRDBL6ST7LLM23YPA",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1514660214809
+  },
+  {
+    "user_id": "AEZSFS2V3YFU6FGR55Q2UDAD44QQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1267949058000
+  },
+  {
+    "user_id": "AH3NAYMXGHP3N3Q2GF4JUNS26X2Q",
+    "total_reviews": 30,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 18,
+    "gt_ts": 1620325849226
+  },
+  {
+    "user_id": "AHT45AYRRCRMXWO3FBFOHFMKKQOQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1474328569000
+  },
+  {
+    "user_id": "AG36WMLDANSIE3VVMNIPBUGACC7Q",
+    "total_reviews": 30,
+    "after_cutoff": 1,
+    "lost_to_cutoff": 29,
+    "gt_ts": 1250272428000
+  },
+  {
+    "user_id": "AF6QMSNCJH3DDOIPR7PBNXXF3WHQ",
+    "total_reviews": 30,
+    "after_cutoff": 3,
+    "lost_to_cutoff": 27,
+    "gt_ts": 1530749348562
+  },
+  {
+    "user_id": "AFSX7CT5I6RIFMGRLYTM34SMTJ4A",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1432748478000
+  },
+  {
+    "user_id": "AHJCAJMQGIB5BKZC5TE4RA6ROANQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1471200150000
+  },
+  {
+    "user_id": "AH3LBIJ3PT6H6QHT4PMFR3ZGRKBA",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1422014130000
+  },
+  {
+    "user_id": "AHORBEZY2JGDT6MXKQPKI5XXSFHQ",
+    "total_reviews": 30,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 18,
+    "gt_ts": 1549123836128
+  },
+  {
+    "user_id": "AGO62LBDOKQDUQZIXQGNXW2EFOXQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1445971982000
+  },
+  {
+    "user_id": "AGET2PYSUKME6WTHQ2B5J4N6BDEQ",
+    "total_reviews": 30,
+    "after_cutoff": 3,
+    "lost_to_cutoff": 27,
+    "gt_ts": 1509620603725
+  },
+  {
+    "user_id": "AG2EMBPEOCPRCTWA2N4IOBEKL42A",
+    "total_reviews": 19,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 19,
+    "gt_ts": 1383081880000
+  },
+  {
+    "user_id": "AG4QOLXYOQJVKEQ6I4EAA5TBINNQ",
+    "total_reviews": 18,
+    "after_cutoff": 4,
+    "lost_to_cutoff": 14,
+    "gt_ts": 1365786838000
+  },
+  {
+    "user_id": "AHI53GIXRLW4BINTB7YANLNVAO2A",
+    "total_reviews": 30,
+    "after_cutoff": 9,
+    "lost_to_cutoff": 21,
+    "gt_ts": 1570760257876
+  },
+  {
+    "user_id": "AFDBB7VYLNSELXCWSALYURDYRHLQ",
+    "total_reviews": 19,
+    "after_cutoff": 9,
+    "lost_to_cutoff": 10,
+    "gt_ts": 1481780529000
+  },
+  {
+    "user_id": "AFVIE457XKY577EBTVWV6UUNSA4A",
+    "total_reviews": 20,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 8,
+    "gt_ts": 1452138784000
+  },
+  {
+    "user_id": "AHQ2KIVUPK3IDC2I4JCGZVR52GSQ",
+    "total_reviews": 16,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 5,
+    "gt_ts": 1628895284658
+  },
+  {
+    "user_id": "AFG7AZEAZ3AEOA2GDTTTH52RLJEA",
+    "total_reviews": 20,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 7,
+    "gt_ts": 1496620661000
+  },
+  {
+    "user_id": "AEJNJR6OXYU2A3ER3RY5EPW4GKFQ",
+    "total_reviews": 24,
+    "after_cutoff": 1,
+    "lost_to_cutoff": 23,
+    "gt_ts": 1400338752000
+  },
+  {
+    "user_id": "AHZMMBI5ELC4EH5TB3QXSSTVSENA",
+    "total_reviews": 22,
+    "after_cutoff": 1,
+    "lost_to_cutoff": 21,
+    "gt_ts": 1243050174000
+  },
+  {
+    "user_id": "AGBMJIUOE6QRSIL6UUINRV2754VQ",
+    "total_reviews": 19,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 6,
+    "gt_ts": 1429036169000
+  },
+  {
+    "user_id": "AEGBHQBPWDDRCUAIZXIWBI5PJEPQ",
+    "total_reviews": 19,
+    "after_cutoff": 10,
+    "lost_to_cutoff": 9,
+    "gt_ts": 1558014513391
+  },
+  {
+    "user_id": "AF4AF5U2CGGOWESX7AOVLXODZHCA",
+    "total_reviews": 22,
+    "after_cutoff": 5,
+    "lost_to_cutoff": 17,
+    "gt_ts": 1411403050000
+  },
+  {
+    "user_id": "AFFYPIL2LNFEYQZJKSUTFTS5VQQA",
+    "total_reviews": 17,
+    "after_cutoff": 9,
+    "lost_to_cutoff": 8,
+    "gt_ts": 1620413997218
+  },
+  {
+    "user_id": "AERSIWGACTU57KVGGG3AXAKKPBUA",
+    "total_reviews": 27,
+    "after_cutoff": 3,
+    "lost_to_cutoff": 24,
+    "gt_ts": 1303869950000
+  },
+  {
+    "user_id": "AEDQFZTVIAJ3JLCE5JKJG4UJ2JTQ",
+    "total_reviews": 30,
+    "after_cutoff": 6,
+    "lost_to_cutoff": 24,
+    "gt_ts": 1574445660639
+  },
+  {
+    "user_id": "AH36XQKLXGM6MCKJ5HWLZDUUKQFA",
+    "total_reviews": 19,
+    "after_cutoff": 1,
+    "lost_to_cutoff": 18,
+    "gt_ts": 1402440502000
+  },
+  {
+    "user_id": "AE2ZPBWT7VVTJJ5NJHD62XZYGXBQ",
+    "total_reviews": 16,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 3,
+    "gt_ts": 1512820520521
+  },
+  {
+    "user_id": "AHNP6PDFQHHJZC2E7BWOLCOYQLEQ",
+    "total_reviews": 18,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 11,
+    "gt_ts": 1658832957048
+  },
+  {
+    "user_id": "AHBJFRE7QIEKKSW3EESAUMFQQZ4Q",
+    "total_reviews": 16,
+    "after_cutoff": 9,
+    "lost_to_cutoff": 7,
+    "gt_ts": 1428516875000
+  },
+  {
+    "user_id": "AGIUO5OZZ5T4DKBKH7RHMHVZB75Q",
+    "total_reviews": 15,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 1,
+    "gt_ts": 1535295478883
+  },
+  {
+    "user_id": "AG5HXZU2NWARA2T7LFTIKB764FLA",
+    "total_reviews": 15,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 1,
+    "gt_ts": 1649202296284
+  },
+  {
+    "user_id": "AFJFJYY5IETRHO5RAZQHDMDTKB3A",
+    "total_reviews": 17,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 3,
+    "gt_ts": 1576263130717
+  },
+  {
+    "user_id": "AEHPQHWWL7KEL4TFR4QN5ENK3D5Q",
+    "total_reviews": 16,
+    "after_cutoff": 4,
+    "lost_to_cutoff": 12,
+    "gt_ts": 1417991487000
+  },
+  {
+    "user_id": "AEP34CTHD45NG4D4O2HR47QKPSTA",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1459522423000
+  },
+  {
+    "user_id": "AEJOGXUSI4BNF5N67AQNK6SUV7EA",
+    "total_reviews": 19,
+    "after_cutoff": 1,
+    "lost_to_cutoff": 18,
+    "gt_ts": 1414375469000
+  },
+  {
+    "user_id": "AGLMOWL5A7OXHO4OQ7EGFRDUSYIQ",
+    "total_reviews": 15,
+    "after_cutoff": 8,
+    "lost_to_cutoff": 7,
+    "gt_ts": 1438820337000
+  },
+  {
+    "user_id": "AHB2YE6LGDJ6HVRTG7IHM6I77VJA",
+    "total_reviews": 24,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 10,
+    "gt_ts": 1521591034055
+  },
+  {
+    "user_id": "AHQK2LB534XB73SUPIXNBUZH76VA",
+    "total_reviews": 30,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 18,
+    "gt_ts": 1374599688000
+  },
+  {
+    "user_id": "AGPUVGO2AGRRA7RMHHIBQ74HJQRQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1377007297000
+  },
+  {
+    "user_id": "AEGZ2JADL4CDDSWPCFWG65VEVCAA",
+    "total_reviews": 17,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 17,
+    "gt_ts": 1306598156000
+  },
+  {
+    "user_id": "AFZ7P6PEOBRPGNFMM6677FVMBRZQ",
+    "total_reviews": 19,
+    "after_cutoff": 4,
+    "lost_to_cutoff": 15,
+    "gt_ts": 1439581177000
+  },
+  {
+    "user_id": "AF6JKBDUVDBMV4RRYCRGJTKVUYLQ",
+    "total_reviews": 30,
+    "after_cutoff": 5,
+    "lost_to_cutoff": 25,
+    "gt_ts": 1414148631000
+  },
+  {
+    "user_id": "AHJ2TMD6F3UX4L6LSLZABQRUG54A",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1260806710000
+  },
+  {
+    "user_id": "AHPZTP2F5LIJYL2D2Q72XTFQ2MQQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1465325836000
+  },
+  {
+    "user_id": "AGLDRXJ5QLBSNR3LBRJMCWPLU4HA",
+    "total_reviews": 15,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 2,
+    "gt_ts": 1485205874000
+  },
+  {
+    "user_id": "AFO7ASMXB6AHKWD3LZE2KI5E2Y7Q",
+    "total_reviews": 16,
+    "after_cutoff": 8,
+    "lost_to_cutoff": 8,
+    "gt_ts": 1073958837000
+  },
+  {
+    "user_id": "AH4LQA6NGNTNCZAXI5URJUXWCFWA",
+    "total_reviews": 16,
+    "after_cutoff": 4,
+    "lost_to_cutoff": 12,
+    "gt_ts": 1430340358000
+  },
+  {
+    "user_id": "AHYGM2UJVJIASAWKDIROGGC5QTTQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1600812040119
+  },
+  {
+    "user_id": "AGMQJSNBAE5V3FJCUCCY46LTBM6Q",
+    "total_reviews": 21,
+    "after_cutoff": 2,
+    "lost_to_cutoff": 19,
+    "gt_ts": 1406716975000
+  },
+  {
+    "user_id": "AG4RZCD7B23MV4E6POS63XZFIXVQ",
+    "total_reviews": 15,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 1,
+    "gt_ts": 1186334899000
+  },
+  {
+    "user_id": "AE63IY2VV2QNP4BLIEEOP7YMQVCQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1484096061000
+  },
+  {
+    "user_id": "AGBCR4VWZNF2T62P2AUJ72XVNOXA",
+    "total_reviews": 24,
+    "after_cutoff": 10,
+    "lost_to_cutoff": 14,
+    "gt_ts": 1500399936736
+  },
+  {
+    "user_id": "AFDCIHSHLQZAVY5AG4TPYBTNJX3A",
+    "total_reviews": 23,
+    "after_cutoff": 10,
+    "lost_to_cutoff": 13,
+    "gt_ts": 1624929656467
+  },
+  {
+    "user_id": "AFACUOIF7JMJ26INJYN5XSPSL65Q",
+    "total_reviews": 23,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 12,
+    "gt_ts": 1407292002000
+  },
+  {
+    "user_id": "AG5BGAHIKIFAJRLPA3ZS52GGMFQQ",
+    "total_reviews": 16,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 3,
+    "gt_ts": 1542272357035
+  },
+  {
+    "user_id": "AGZX4HU7623HLKXWGP5QN7XWWVDQ",
+    "total_reviews": 20,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 7,
+    "gt_ts": 1555515482229
+  },
+  {
+    "user_id": "AGC7OT5Q7U5PRPFV4LNMENMYI66A",
+    "total_reviews": 15,
+    "after_cutoff": 3,
+    "lost_to_cutoff": 12,
+    "gt_ts": 1525107267704
+  },
+  {
+    "user_id": "AHA26O6TZWMIDMDCCX7LP7IQRUIA",
+    "total_reviews": 20,
+    "after_cutoff": 10,
+    "lost_to_cutoff": 10,
+    "gt_ts": 1515400288282
+  },
+  {
+    "user_id": "AGDKGL45LCMIJR6K3ADV7HKGE5TQ",
+    "total_reviews": 15,
+    "after_cutoff": 5,
+    "lost_to_cutoff": 10,
+    "gt_ts": 1476489064000
+  },
+  {
+    "user_id": "AGT3NTDZ7LWI5CB2MIA2WMJRZYXA",
+    "total_reviews": 16,
+    "after_cutoff": 6,
+    "lost_to_cutoff": 10,
+    "gt_ts": 1620663098595
+  },
+  {
+    "user_id": "AGBOC6SXIETUML5PGFJFVXI2FF7A",
+    "total_reviews": 30,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 17,
+    "gt_ts": 1068489765000
+  },
+  {
+    "user_id": "AG5CKH3DEYMINJW5YHARJNKG5M3A",
+    "total_reviews": 19,
+    "after_cutoff": 11,
+    "lost_to_cutoff": 8,
+    "gt_ts": 1483218549000
+  },
+  {
+    "user_id": "AHFQW3QBMCZDURXU4XLDJQFEGQOQ",
+    "total_reviews": 15,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 2,
+    "gt_ts": 1561063222684
+  },
+  {
+    "user_id": "AELB7BVELYOIMHTZLGF37UR7WIJQ",
+    "total_reviews": 18,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 4,
+    "gt_ts": 1466357983000
+  },
+  {
+    "user_id": "AGXVRJQBPP2NQGBY6HULAZKVS6RA",
+    "total_reviews": 19,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 19,
+    "gt_ts": 1162331725000
+  },
+  {
+    "user_id": "AF7CGF73LZSYAKZ2GAQGIIALUBDQ",
+    "total_reviews": 16,
+    "after_cutoff": 8,
+    "lost_to_cutoff": 8,
+    "gt_ts": 1392140438000
+  },
+  {
+    "user_id": "AFBDO6TP2T4XTARO3Y7K7KN45UNA",
+    "total_reviews": 16,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 4,
+    "gt_ts": 1513876413723
+  },
+  {
+    "user_id": "AGMEMDC46DFDLNMBLEJ4ZGLXONSA",
+    "total_reviews": 30,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 23,
+    "gt_ts": 1416091112000
+  },
+  {
+    "user_id": "AGCHDOVAPXCNXJGXF73TK6ZIMYZA",
+    "total_reviews": 16,
+    "after_cutoff": 14,
+    "lost_to_cutoff": 2,
+    "gt_ts": 1670613533145
+  },
+  {
+    "user_id": "AGOVHCYJGJRUOR2G2I4WQCC5NMBQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1339075110000
+  },
+  {
+    "user_id": "AGBNJVLQPJ27JCRTBLNS2NWUT6MQ",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1380984624000
+  },
+  {
+    "user_id": "AHFYDQPA4MUQPHC6RZHS6BQD47EQ",
+    "total_reviews": 15,
+    "after_cutoff": 13,
+    "lost_to_cutoff": 2,
+    "gt_ts": 1458763953000
+  },
+  {
+    "user_id": "AGYAUYUVEINEOUBHONQ5G77VTVHQ",
+    "total_reviews": 19,
+    "after_cutoff": 7,
+    "lost_to_cutoff": 12,
+    "gt_ts": 1509469072549
+  },
+  {
+    "user_id": "AGL4D2VISXRT5E3B76NNKGSWT4EQ",
+    "total_reviews": 17,
+    "after_cutoff": 1,
+    "lost_to_cutoff": 16,
+    "gt_ts": 1561072232877
+  },
+  {
+    "user_id": "AHWXFN6LOUPF2QTZR5HMUKEHNGWA",
+    "total_reviews": 30,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 30,
+    "gt_ts": 1505770033566
+  },
+  {
+    "user_id": "AGOROR247U6XL6FS4V37A5GD62DQ",
+    "total_reviews": 16,
+    "after_cutoff": 0,
+    "lost_to_cutoff": 16,
+    "gt_ts": 1489415643000
+  },
+  {
+    "user_id": "AGOZGVW2EXZXB6EZRTOJAZQUSZTA",
+    "total_reviews": 30,
+    "after_cutoff": 12,
+    "lost_to_cutoff": 18,
+    "gt_ts": 1558217529663
+  },
+  {
+    "user_id": "AF3KK3NCGHR2IQS7Q5RQ3QG4ACYA",
+    "total_reviews": 30,
+    "after_cutoff": 4,
+    "lost_to_cutoff": 26,
+    "gt_ts": 1600616515062
+  }
+]

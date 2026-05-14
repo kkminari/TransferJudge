@@ -1,0 +1,78 @@
+{
+  "user_id": "AGDO5FM3IZCN7TJPAH2VANFFTTAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, musical, animation, comedy",
+      "evidence": [
+        "\"The scariest Chucky yet!\"",
+        "\"I think this live performance was absolutely amazing\"",
+        "\"I love the storyline and the music\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"a lot of unanswered questions at the end\"",
+        "\"the film definitely is a great female empowerment movie\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I love the storyline and the music but seriously Disney needs to stop with the CGI\"",
+        "\"This season is a full roller coaster of emotional ups and downs\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I do think they should have cast someone else for the role of Mother Abbess\"",
+        "\"I love how you got an option to have it in a Blu-ray case or a DVD case\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I have been a Chucky fan since I was three years old\"",
+        "\"I am proud to own this\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"the show was absolutely amazing\"",
+        "\"the characters of Anna and Elsa being princess forced to take control of the kingdom\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It will definitely be a surprise to see how they top it in the eighth season\"",
+        "\"the film has an amazing story line\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of horror, musicals, and animated films, showing a strong preference for engaging narratives and high production quality. They have a notable emotional connection to the content they consume, often reflecting on character development and storytelling depth."
+}

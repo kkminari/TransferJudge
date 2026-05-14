@@ -1,0 +1,77 @@
+{
+  "user_id": "AE6WHPZ5LGJMSBK56LGOPTY4SVUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "crime, drama",
+      "evidence": [
+        "\"Good plot that makes mad or cry or just pissed off. Fine acting. The aerial shots of Hollywood and LA are outstanding Highly recommended if you like a good cop story.\"",
+        "\"I like it. Don't care about the violence but, it has a good story line and the dream sequences are interesting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Hard to beat. Good entertainment and thought-provoking.\"",
+        "\"Excellent series. Very interesting, wonderful script with outstanding actors. Nobody does it better. Great story.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"A little too violent. Interesting plot and it can keep you on the edge of your seat!\"",
+        "\"Too much violence and killing. Writers seem like 'old school' and conservative.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The Brits always do the best acting.\"",
+        "\"Fine acting and I enjoyed this hillbilly 'Miami Vice' program.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Nobody does it better then our British friends.\"",
+        "\"I especially like Barney.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The aerial shots of Hollywood and LA are outstanding.\"",
+        "\"I like it. Don't care about the violence but, it has a good story line and the dream sequences are interesting.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A tear came to my eye when the baby died.\"",
+        "\"Good plot that makes mad or cry or just pissed off.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys crime and drama genres, particularly those with strong acting and engaging plots. They appreciate high production quality and emotional depth, often resonating with the stories presented, though they have mixed feelings about violence in narratives."
+}

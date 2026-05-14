@@ -1,0 +1,77 @@
+{
+  "user_id": "AEV5ZDX7XWSCZMT4I3ST3SC5AEJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, horror, comedy, psychological",
+      "evidence": [
+        "\"This cool movie has the production values of a Three Stooges short...\"",
+        "\"...more of a psychological creepy horror that gets under your skin...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"...the screenplay to the proposed film is supposed to be about the death of romance...\"",
+        "\"...the roles are played by members of the opposite sex...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"...the action moves quickly and the cinematography is atmospheric...\"",
+        "\"...it's VERY cartoony stuff and very, very funny.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...the film looks like mud. One can only hope a more dedicated DVD studio releases a better...\"",
+        "\"...the quality of the prints are very poor...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Director Bertrand Mandico is a director of great promise...\"",
+        "\"Godard really deserves more credit, he's a consummate filmmaker...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric",
+      "evidence": [
+        "\"...the technicolor is rich and over-saturated (the way I like it)...\"",
+        "\"...the cinematography is atmospheric and well done.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...it's gratifying to see a noir film from the 40's that has so many strong female characters...\"",
+        "\"...the screenplay to the proposed film is supposed to be about the death of romance...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex narratives and fast-paced storytelling, particularly in the genres of drama, horror, and comedy. They value high production quality and are sensitive to visual and atmospheric elements, often seeking emotional resonance in the films they watch."
+}

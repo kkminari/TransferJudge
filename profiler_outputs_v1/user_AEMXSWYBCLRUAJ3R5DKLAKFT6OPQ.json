@@ -1,0 +1,77 @@
+{
+  "user_id": "AEMXSWYBCLRUAJ3R5DKLAKFT6OPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "Christmas, family, classic",
+      "evidence": [
+        "\"Beautiful. sweet and charming classic Christmas movie.\"",
+        "\"A very favorite family movie from a book from a cherished author.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I like the characters and the fact that it is sweet, but not too sweet.\"",
+        "\"A sweet movie that I enjoy watching once a year.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Lovely movie. Will watch it again, for sure.\"",
+        "\"I like the characters and the fact that it is sweet, but not too sweet.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"A favorite Christmas movie.\"",
+        "\"Completes my NCIS collection.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "NCIS, Louisa May Alcott",
+      "evidence": [
+        "\"Always glad to have another season of NCIS.\"",
+        "\"I am a Louisa May Alcott fan from my childhood.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, heartwarming",
+      "evidence": [
+        "\"Beautiful. sweet and charming classic Christmas movie.\"",
+        "\"This is one of my all time favorite Christmas movies and I am glad to have it in my library.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I am so very pleased to have it now.\"",
+        "\"The story tells about a moment of peace in a time of war when the celebration of Christmas broke into a very grim time.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for heartwarming Christmas and family movies, often enjoying simple narratives with emotional resonance. They show loyalty to specific franchises like NCIS and authors like Louisa May Alcott, indicating a taste for familiar and comforting content."
+}

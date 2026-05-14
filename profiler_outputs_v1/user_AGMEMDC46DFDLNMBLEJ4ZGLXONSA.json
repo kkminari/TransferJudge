@@ -1,0 +1,74 @@
+{
+  "user_id": "AGMEMDC46DFDLNMBLEJ4ZGLXONSA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "I donot like it",
+        "bad, so baf, unbelieveble"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It was not play rapidly, had some obstacles.",
+        "It was not absorb you to watch."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "It was not play rapidly, had some obstacles.",
+        "It was not absorb you to watch."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I like it",
+        "A good movie."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "none",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "can not hear it clearly",
+        "It was not absorb you to watch."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "just so so",
+        "average"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user exhibits a mixed taste in movies and TV shows, often expressing dissatisfaction with pacing and narrative complexity. They seem to prefer straightforward storytelling and show low sensitivity to production quality, indicating a focus on entertainment rather than emotional engagement."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AE6XC5CJ4UKGMKLK7SOKDFKUA67Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, thriller",
+      "evidence": [
+        "\"Excellent movie about sexual harassment and hostile work environments in the workplace.\"",
+        "\"This movie was EXCELLENT! It demonstrates the love of a father's determination to prove his son's innocence at all cost.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot of this movie was very predictable to me.\"",
+        "\"I would have liked for a more fiction to keep the plot going.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"After the first 30 minutes, I grew bored with the movie.\"",
+        "\"The ACTION was GOOD.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Don Cheadle deserves an Oscar for his portrayal of Miles Davis!\"",
+        "\"The fine line between Politics and our Justice System clearly reminds the audience that things are not at ALL as they appear.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I am a huge Ice Cube fan, I love his work!\"",
+        "\"Michael Moore did a brillant job exposing the plethora fallacies within the American health care system.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Powerful! Riveting! Compassionate! Are a few of the emotions I felt watching this movie.\"",
+        "\"It begs the question as to whether the current sentencing rules should be revise to better fit the crimes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie was EXCELLENT! It demonstrates the love of a father's determination to prove his son's innocence at all cost.\"",
+        "\"I fully understand his pain, personally.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for drama and thriller genres, appreciating powerful narratives with emotional depth. They value production quality and have a moderate loyalty to specific creators, while their pacing preference is mixed, indicating a tolerance for both engaging and slower narratives."
+}

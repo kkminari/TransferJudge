@@ -1,0 +1,77 @@
+{
+  "user_id": "AEMXSWYBCLRUAJ3R5DKLAKFT6OPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "Christmas, family, classic",
+      "evidence": [
+        "\"Beautiful. sweet and charming classic Christmas movie.\"",
+        "\"A very favorite family movie from a book from a cherished author.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A sweet movie that I enjoy watching once a year.\"",
+        "\"Lovely movie. Will watch it again, for sure.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I like the characters and the fact that it is sweet, but not too sweet.\"",
+        "\"Completes my NCIS collection. As a super fan of this show, I love being able to watch when it fits into my schedule.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"A very good historical story with an excellent cast, all of whom worked well together to tell the story.\"",
+        "\"Nice to have this classic available to watch when I want to watch it!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for NCIS and Christmas movies",
+      "evidence": [
+        "\"Always glad to have another season of NCIS.\"",
+        "\"As a super fan of this show, I love being able to watch when it fits into my schedule.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"heartwarming and uplifting.\"",
+        "\"I loved Eloise as a child growing up in the fifties and this version is well done and has the added attraction of Julie Andrews.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I am so very pleased to have it now.\"",
+        "\"Highest recommendation for everyone who has a library of Christmas DVD's.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for Christmas and family movies, often enjoying simple and heartwarming narratives. They demonstrate loyalty to specific shows like NCIS and appreciate emotional resonance in their viewing experiences."
+}

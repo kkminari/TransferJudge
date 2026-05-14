@@ -1,0 +1,76 @@
+{
+  "user_id": "AHYGM2UJVJIASAWKDIROGGC5QTTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, animation",
+      "evidence": [
+        "\"...a celebration of being lost in so many strictly criminal shows...\"",
+        "\"...one of the better historic mystery series.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"...last flying machine dives into a tunnel and releases a weapon...\"",
+        "\"...the only limitation here is that the subtitles are too small...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"...painful to watch. Must have been desperate to make so many of these...\"",
+        "\"...every episode like every other episode...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...true to superior acting ability and material presentation...\"",
+        "\"...one of the most inventive and creative animations ever created...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"...where were the awards for this? Probably all bought up by lesser vehicles...\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"...visually satisfactory sight of what the book presented...\"",
+        "\"...primal use of nontraditional chosen musical accompaniment...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...a wonderful remembrance of Miss Potter by all concerned...\"",
+        "\"...the same story with Jonny Depp who is known to play his roles to the most that he can...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for high-quality dramas and historical narratives, appreciating inventive storytelling and emotional depth. They are sensitive to production quality and enjoy visually engaging content, though their brand loyalty is low."
+}

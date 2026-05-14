@@ -1,0 +1,77 @@
+{
+  "user_id": "AGADQWBDVYHX4BLJ326QQSVAHXXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, anime, kaiju, comedy",
+      "evidence": [
+        "\"fantastic anime that is a faithful continuation of the live action series\"",
+        "\"quirky horror comedy that is a interesting take on aging and the treatment of the elderly.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"fun movie but is somewhat incoherent when the plot is concerned.\"",
+        "\"has some cool stories including some i watched for the first time like Kinda.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"this is the tv series the movie Quatermass and the Pit is based on. Way better.\"",
+        "\"some nice practical effects as well\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"fantastic transfer of the dvd, with some interesting extras too\"",
+        "\"very dark satirical take on the superhero genre. also somewhat darkly humorous at times.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Ultraman series",
+      "evidence": [
+        "\"second favorite Ultraman series, right under Nexus.\"",
+        "\"awesome Ultraman series. neat story and some awesome kaiju battles.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, practical effects",
+      "evidence": [
+        "\"some nice practical effects as well\"",
+        "\"eerie and disturbing.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Fantastic movie. eerie and disturbing.\"",
+        "\"was pleasantly surprised by this.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror and anime genres, particularly enjoying quirky horror comedies and the Ultraman series. They value production quality and emotional impact, often appreciating visual spectacle and practical effects in their viewing experiences."
+}

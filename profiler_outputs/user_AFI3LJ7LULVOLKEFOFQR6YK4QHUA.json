@@ -1,0 +1,78 @@
+{
+  "user_id": "AFI3LJ7LULVOLKEFOFQR6YK4QHUA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, horror, documentary",
+      "evidence": [
+        "\"Death of Some Salesman is a masterpiece!\"",
+        "\"This documentary, is far and away the best.\"",
+        "\"AHS's standard gore... creating a fascinating switch from shock and repulsion to innocence and sweetness.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Coven has a sense of fable or fairy tale mixed in with the expected gore...\"",
+        "\"The characters will stay with you forever.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Foote embraces the damaged and the frail, weaving their lives along with those of the main characters, to portray a quiet tale of compassion, love and strength of character.\"",
+        "\"This is the type of movie that gives heterosexuals a bad name.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The visual cacophony of Myrtle's wardrobe is as captivating, as her personality.\"",
+        "\"The camera work is fascinating.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Ryan Murphy, Horton Foote",
+      "evidence": [
+        "\"Ryan Murphy who has a bit of a reputation for losing steam with continuing sagas...\"",
+        "\"Horton Foote who is one of America's greatest writers paints a wonderfully accurate portrait...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This film stays with you forever.\"",
+        "\"It has a wonderful wholesome message that all of us go about our lives in the same old way day after day...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I remember crying over this film as a kid...\"",
+        "\"This film deserves a special edition on DVD and nothing less.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex dramas and horror, particularly those with high production quality and emotional depth. They appreciate the work of specific creators like Ryan Murphy and Horton Foote, and their reviews reflect a sensitivity to both narrative intricacies and the emotional impact of storytelling."
+}

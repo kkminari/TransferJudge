@@ -1,0 +1,77 @@
+{
+  "user_id": "AFJAMCP2Y4WEYYXLSIJBMNFTOZ2Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, sci-fi",
+      "evidence": [
+        "\"Great movie and comedy, with a serious end which provokes thought about taking serious the illusion we think reality is\"",
+        "\"Great, humorous, light hearted with an interwoven story line, that keeps changing.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The story certainly has a great twist, requiring a recap, to set the understanding of the viewer in order.\"",
+        "\"There is so much going on, and characters to keep track of.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Moves a little slow and tedious.\"",
+        "\"The story is of interest, but the presentation is boring, in my opinion.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"It isn't as if you need to think much about what the story is saying.\"",
+        "\"Still enjoyed it. Would not watch again in this life.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Got everyone hooked. Interesting and keeps us coming back for more.\"",
+        "\"We are now enjoying season 2. Too many channels, and nothing good on regular TV.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The twists and turns just kept coming. Always wondering just where is it going now.\"",
+        "\"Great cast of characters. We were riveted to it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The ending was sad.\"",
+        "\"Great movie and comedy, with a serious end which provokes thought about taking serious the illusion we think reality is.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex narratives with a mix of drama, comedy, and sci-fi elements. They appreciate engaging sensory experiences and emotional depth but have mixed feelings about pacing and production quality."
+}

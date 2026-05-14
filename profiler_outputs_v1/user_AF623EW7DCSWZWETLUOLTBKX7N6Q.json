@@ -1,0 +1,76 @@
+{
+  "user_id": "AF623EW7DCSWZWETLUOLTBKX7N6Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, drama, comedy, action, sci-fi",
+      "evidence": [
+        "\"This is an incredibly tense show, always on the edge...\"",
+        "\"This film has it all, it is funny, it is sad, it teaches a lesson...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"One of the most INTRICATE MOVIES I HAVE EVER SEEN...\"",
+        "\"It does capture the viewer to the point that you have to watch everything and not miss one beat...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The cliffhanger suggests death, but he's not dead...\"",
+        "\"This movie could not have been more perfect...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent graphics, intriguing story...\"",
+        "\"The excellent performances by Kevin Spacey and the other actors and actresses...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love John Cusack Movies but every time I think about this one my thoughts on how many stars it should get, changes...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Talk about getting you pumped, the music is great...\"",
+        "\"The only real bad thing about the first is the fact that it took 26 episodes for them to form a cool group of central characters...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie makes an instant classic, you can watch it with anyone and everyone...\"",
+        "\"It is a movie about the sad but true lessons we learn in life...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly thrillers and dramas, with a strong preference for complex narratives and fast pacing. They value high production quality and emotional resonance in their viewing experiences, although they show low brand loyalty to specific creators."
+}

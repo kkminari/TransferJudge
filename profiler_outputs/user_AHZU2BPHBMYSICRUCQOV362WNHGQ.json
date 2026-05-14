@@ -1,0 +1,77 @@
+{
+  "user_id": "AHZU2BPHBMYSICRUCQOV362WNHGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, thriller, action, sci-fi",
+      "evidence": [
+        "\"The Amityville Harvest is Writer/Director Thomas J Churchill journey into the long running franchise.\"",
+        "\"This is B-movie, grindhouse on steroids.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"You had to forget any sense or reality with this movie.\"",
+        "\"This is a horror movie and you want to be scared.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The movie starts with an explosive chaotic beginning.\"",
+        "\"This movie just keeps building and building to a satisfying yet unexpected ending.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Sound lighting and the creature effects were really good.\"",
+        "\"The cinematography is amazing.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Rene Perez",
+      "evidence": [
+        "\"Rene Perez once again delivers from this talented director.\"",
+        "\"Rene has a unique style and knows how to entertain.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The action unfolds clearly.\"",
+        "\"The cinematography is so effective it takes you in the action and really put you on the edge of the seat.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie is a great lesson in bullying.\"",
+        "\"You feel their horror.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror, thriller, and action genres, particularly enjoying fast-paced narratives with high production quality. They show loyalty to specific directors like Rene Perez and appreciate emotional depth in storytelling, indicating a taste for engaging and immersive cinematic experiences."
+}

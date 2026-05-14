@@ -1,0 +1,76 @@
+{
+  "user_id": "AFSXX25WENWKDC3HQM3PH7GQG6YQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, sci-fi, drama",
+      "evidence": [
+        "\"Really great movie that does romance in a subtle grown up fashion.\"",
+        "\"I have been watching TV Sci-Fi since the 1980s.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The romance happens and we see the characters reaction after words.\"",
+        "\"Even though the story is simple and easy to follow, there are twists and surprises that come when least expected.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The pacing During The Last Two Hours: You won't understand why the pace seem to slow down until the very last minute of the show.\"",
+        "\"The movie is 2 hours but there is 19 minutes collectively of action at the start and 16 minutes towards the end.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The production quality alone is 5 stars in itself!\"",
+        "\"Cinematography: It was the first thing that caught my attention.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Josh Whedon",
+      "evidence": [
+        "\"I had no idea Josh Whedon, one of my favorite writer/director of recent, was involved in this until seeing the credits roll down.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It provides great scenery, amazing romance, and lovable characters, but at a price.\"",
+        "\"This is hands down the best acting I've ever seen anywhere!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Never have I been so angry, happy, depressed and giddy from one show before and I loved every moment of it.\"",
+        "\"It is in my all time top 3 of personal favorite movies.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for romance and drama, particularly when they are well-produced and emotionally resonant. They appreciate high-quality cinematography and storytelling, but show a tendency to dislike slow pacing and convoluted narratives."
+}

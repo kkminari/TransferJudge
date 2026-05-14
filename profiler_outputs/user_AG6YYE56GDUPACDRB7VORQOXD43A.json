@@ -1,0 +1,77 @@
+{
+  "user_id": "AG6YYE56GDUPACDRB7VORQOXD43A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, romance, comedy, war, historical",
+      "evidence": [
+        "\"Great action/drame movie. Denzel has never been better.\"",
+        "\"One of the best Romance films--ever! Very unique. In a class by itself.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story is really lame and hard to follow.\"",
+        "\"Sometimes a franchise over extends its stay. Such is the case with this movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great film that never stops to take a breath.\"",
+        "\"This is unquestionably the best 'Expendables Movie' made to date.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The quality of this B&W 50+ yr old movie is fantastic. Criterion does this better than anyone!\"",
+        "\"The quality of the picture & sound on Blu Ray is excellent.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Cary Grant gives one of the best (and I believe under rated) performances of his stellar career.\"",
+        "\"Denzel is excellent in his role. He should do more of these.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"If possible, watch it in 3D. It is much more enjoyable that way and the action seems to be perfect for 3D.\"",
+        "\"The quality of this B&W 50+ yr old movie is fantastic.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I enjoyed watching the movie, especially since my church had studied the Book of Daniel last year.\"",
+        "\"One of my favorite comedies of all time.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly action, drama, and romance, with a preference for fast-paced narratives. They value high production quality and show some loyalty to notable actors, while their emotional engagement appears to be moderate."
+}

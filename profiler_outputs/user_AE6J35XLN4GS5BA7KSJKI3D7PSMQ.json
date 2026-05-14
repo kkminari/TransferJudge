@@ -1,0 +1,74 @@
+{
+  "user_id": "AE6J35XLN4GS5BA7KSJKI3D7PSMQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama",
+      "evidence": [
+        "\"I enjoy these. Entertainment without gratuitous porn or repetitive foul language and a good story.\"",
+        "\"Just enjoyed this thoroughly. Levon Helm appears. Scenery, characters, action -- held my attention.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Just a light, enjoyable story - what I was looking for.\"",
+        "\"Fun, entertaining. A delight, especially with no gratuitous porn!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Moves slowly with clear view of movements and steps involved.\"",
+        "\"Just a light, enjoyable story - what I was looking for.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting, settings, storyline, just love it.\"",
+        "\"Love the story, love the music, love the cinematography.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Love the story, love the music, love the cinematography.\"",
+        "\"Just enjoyed this thoroughly. Scenery, characters, action -- held my attention.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Just a light, enjoyable story - what I was looking for.\"",
+        "\"I just love this series. The acting, settings, storyline, just love it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light, engaging mysteries and dramas, appreciating quality storytelling and cinematography. They prefer slower-paced narratives that evoke emotional resonance without graphic content, indicating a strong preference for well-crafted, enjoyable experiences."
+}

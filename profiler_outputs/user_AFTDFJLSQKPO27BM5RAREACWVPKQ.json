@@ -1,0 +1,76 @@
+{
+  "user_id": "AFTDFJLSQKPO27BM5RAREACWVPKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Didn't care for\"",
+        "\"Didn't get the soldier part (?)\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Slow at times but worth watching\"",
+        "\"Interesting\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Slow at times but worth watching\"",
+        "\"Slow\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Beautiful costumes, scenery, and music. Very, very good production.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"My fav\"",
+        "\"One of my faves. Good laugh out loud feel good comedy\""
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Lovely costumes wonderful story\"",
+        "\"Keeps your interest\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Sad the struggle.\"",
+        "\"Sad\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys films with high production quality and emotional depth, often appreciating beautiful visuals and engaging stories. They show a preference for slower pacing and simpler narratives, while their brand loyalty is not strongly established."
+}

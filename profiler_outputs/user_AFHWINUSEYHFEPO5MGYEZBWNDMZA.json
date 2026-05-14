@@ -1,0 +1,77 @@
+{
+  "user_id": "AFHWINUSEYHFEPO5MGYEZBWNDMZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, adventure, comedy",
+      "evidence": [
+        "\"a fun rollicking roller coaster of a ride!\"",
+        "\"a classic! a fun adventure!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Not as good as the first 4 seasons but still pretty good if not a tad too complicated at times.\"",
+        "\"It could have been a great series!! We at least got one very good season but unfortunately will never get another one.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"they managed to make it interesting and full of action.\"",
+        "\"WOW!! great action!! Great characters!! and Great world!!! was totally amazed by this...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"but still a great watch\"",
+        "\"I loved this first season of a show that takes place in the X-Men multiverse. Was not disappointed!!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I remember loving this movie as a kid and still loved it as an adult!\"",
+        "\"I find the fourth season of season not the best in the overall series but it is still Xena and Gabriel and therefore still awesome to watch!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"WOW!! great action!! Great characters!! and Great world!!! was totally amazed by this...\"",
+        "\"a fun rollicking roller coaster of a ride!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"a surprisingly strong and touching story!! gets you in the feels!!\"",
+        "\"Amazing show both me and my mom loved watching!!! Timeless story, timeless humor and timeless heart!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action-packed and adventurous content, often with a comedic touch. They appreciate emotional depth in stories but have mixed feelings about narrative complexity and brand loyalty."
+}

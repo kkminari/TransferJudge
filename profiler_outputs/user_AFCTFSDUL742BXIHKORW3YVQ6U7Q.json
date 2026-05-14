@@ -1,0 +1,77 @@
+{
+  "user_id": "AFCTFSDUL742BXIHKORW3YVQ6U7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "political drama, comedy",
+      "evidence": [
+        "\"Not recommended for Socialist or Communists. Too scary.\"",
+        "\"RUSSELL IS SUCH A SLEAZE IN THIS FILM. I LOVE THIS CHARACTOR!!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Slow & boring,\"",
+        "\"It's O.K.. Slow & a little boring.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Slow & boring,\"",
+        "\"It's O.K.. Slow & a little boring.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Remember when actors could act? Remember when movies had a point?\"",
+        "\"COULD, 'QUALITY' HAVE SOMETHING TO DO WITH WHAT MAKES UP A 'CLASSIC' FILM?\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific directors or actors mentioned.",
+        "No franchises or series loyalty evident."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"KICK BACK AND ENJOY THE TRIP. TAKE A CHANCE AT LEARNING THE TRUTH...\"",
+        "\"Just a fine film..... WHAT GIVES?\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"You know? The ones that enjoy using the Constitution for toilet paper...\"",
+        "\"Don't just watch this film... learn from it, and you'll know where your money goes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for political dramas and comedies, but dislikes slow pacing and narrative complexity. They value high production quality and have a strong emotional engagement with the themes presented in the films."
+}

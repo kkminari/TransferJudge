@@ -1,0 +1,70 @@
+{
+  "user_id": "AGY42WMCAXEAX5Y2LGAUKAUAREYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "suspense",
+      "evidence": [
+        "As a rabid reader of Bosch books, they followed the books and were really suspenseful."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Couldn't stop watching. If there had been 6 more seasons I would have bought them all!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Don't start watching unless you have time."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Really good. Very entertaining."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "As a rabid reader of Bosch books, they followed the books"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Love the make-up and different species."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I hated for it to end."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for suspenseful narratives, particularly those that are fast-paced and emotionally engaging. They show loyalty to specific series and enjoy immersive experiences, indicating a potential interest in books that offer similar themes and storytelling styles."
+}

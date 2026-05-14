@@ -1,0 +1,76 @@
+{
+  "user_id": "AE2GWCTNXNK5X7KSRPW7KSKTSEAQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "classic, drama",
+      "evidence": [
+        "\"Chick flix classics.\"",
+        "\"Classic! Timeless.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great movie. Made me a 'wine snob'!!!\"",
+        "\"Classic!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Very good movie.\"",
+        "\"Great movie. Good acting. Timely, sensitive subject handled well.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Good acting. Timely, sensitive subject handled well.\"",
+        "\"Great movie. Addresses issues very well.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"They totally LOVE these CLASSIC Mexican movies.\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"Great movie. Good acting. Timely, sensitive subject handled well.\"",
+        "\"Classic! Timeless.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Vital subject.\"",
+        "\"Great movie. Addresses issues very well.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for classic and drama genres, appreciating films that handle sensitive subjects with good acting. They value production quality and emotional resonance, indicating a taste for impactful storytelling."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AETLRQEJAJEPD7CCDBPQJANZI2YA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, fantasy",
+      "evidence": [
+        "\"It's watchable but sappy.......something to look at when you need a fairy tale like fix.\"",
+        "\"Hail Britannia.....an entertaining (and somewhat fanciful) tale that involves the AUTHOR of Sherlock Holmes, Arthur Conan Doyle and his 'Watson' George.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Four stars plus....all episodes, AFTER the first one, were really great getting better as the story progressed.\"",
+        "\"To date I would rate the plot intriguing and the character portrayals very good..Cinematography is excellent and definitely supports the moods intended.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The balance of the cast was very good and up to their role requirements.\"",
+        "\"Character portrayals were spot on and the Hitchcockian introductions to each episode were wonderful!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Cinematography is excellent and definitely supports the moods intended.\"",
+        "\"The acting is remarkable and the plot follows a realistic path as Mr Selfridge and all the other cast bump and bungle heart warmingly.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Hard to beat anything with the '24' association.....had already seen it; just loved it again is all.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Blessedly short in length, marvelously long on scenery both inside and out.\"",
+        "\"Cinematography is excellent and definitely supports the moods intended.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The ending really surprised me.\"",
+        "\"AN AMAZING SERIES WITH A TOTALLY UNEXPECTED ENDING.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and fantasy genres, appreciating strong character portrayals and high production quality. They prefer slower-paced narratives that evoke emotional responses, though they show some ambivalence towards specific creators or franchises."
+}

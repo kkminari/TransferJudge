@@ -1,0 +1,77 @@
+{
+  "user_id": "AGC2RHAISUQZ4C4NYLH6J5IPTOLQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, musical, historical, classic",
+      "evidence": [
+        "\"This is a beautiful foreign film made about Italian Jews in WW2 and what one family goes through.\"",
+        "\"Teens, college, Glee goes to College, music, singing, competitions, and romance. What else could you ask for?\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great movie. Great story. Love the fact it's based on a true person and events.\"",
+        "\"I love this movie! The actors are great and the story is wonderful.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This is a less known movie with two wonderful stars about an era that is rarely shown as being romantic.\"",
+        "\"I love this movie! The actors are great and the story is wonderful.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The 10th season also was greatly inspiring and a smooth transition to the hero we have all come to love in the comic books and movies.\"",
+        "\"Even if you don't like the 80's type cinematography, surely the wonderful dancing by these two talented artists will get you.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for specific series",
+      "evidence": [
+        "\"Smallville is one of my most favorite series of all time.\"",
+        "\"This has got to be the best year ever for this series.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This brought back so many memories.\"",
+        "\"I am so glad I found this on DVD. It is one of my all time favorites.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This brought back so many memories.\"",
+        "\"I love this movie! The actors are great and the story is wonderful.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and romance genres, particularly those with historical or nostalgic themes. They appreciate high production quality and emotional resonance in storytelling, often favoring simple narratives that evoke strong feelings and memories."
+}

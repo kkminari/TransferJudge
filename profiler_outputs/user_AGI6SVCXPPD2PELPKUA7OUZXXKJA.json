@@ -1,0 +1,77 @@
+{
+  "user_id": "AGI6SVCXPPD2PELPKUA7OUZXXKJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, period films",
+      "evidence": [
+        "\"I enjoy the fact that she does not have to take her clothes off or use profanity to show how fine actress she is on her own!\"",
+        "\"This was a small movie with very Big stars... It was touching, very moving and real!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"There were so many different nuances to the story. It was certainly not your typical 'love story'!\"",
+        "\"...the interplay of ALL the characters was outstanding.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Very predictable... The acting was flat! I couldn't even finish it...\"",
+        "\"This has to be one of the funniest series I've EVER seen!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Everything about it was wonderful from the acting to the wardrobes.\"",
+        "\"I believe Silver Lining Playbook was ground-breaking in its handling of the issue in a non-judgemental and compassionate manner.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for specific actors",
+      "evidence": [
+        "\"Toni Colette is one of my favorite actresses.\"",
+        "\"I think Emily Blunt is one of our best young actresses today.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It was a fabulous description of the mind set of an orthodox Jewish woman. I wish you could provide more.\"",
+        "\"I LOVED EVERYTHING ABOUT THIS MOVIE!!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It was touching, very moving and real!\"",
+        "\"Silver Linings Playbook will stand out in my mind always as a phenomenal piece of movie history that deals with all aspects of the human spirit and soul with deep knowledge and kindness.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and comedy, particularly enjoying complex narratives with emotional depth. They show high sensitivity to production quality and have a notable loyalty to specific actors, appreciating their performances and versatility."
+}

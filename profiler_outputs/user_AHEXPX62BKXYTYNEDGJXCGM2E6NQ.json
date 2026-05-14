@@ -1,0 +1,77 @@
+{
+  "user_id": "AHEXPX62BKXYTYNEDGJXCGM2E6NQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Love all the Law and Orders!",
+        "Great series!"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Very entertaining series.",
+        "Good series. Sorry it is ending."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Very entertaining series.",
+        "Great movie for young people."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Many disks would not play. Episodes would skip or freeze.",
+        "Love this show."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "Love Tom Selleck!!",
+        "Love Angie Harmon! Only ONE SEASON?"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "An ending that makes one think.",
+        "Good series. Sorry it is ending."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Cant believe it is over. An ending that makes one think.",
+        "Sorry it has ended."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys simple, fast-paced series, particularly those featuring beloved actors like Tom Selleck and Angie Harmon. They express a strong emotional connection to the shows they love, often feeling disappointed when they end."
+}

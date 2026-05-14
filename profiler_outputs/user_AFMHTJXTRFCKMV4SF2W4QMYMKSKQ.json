@@ -1,0 +1,76 @@
+{
+  "user_id": "AFMHTJXTRFCKMV4SF2W4QMYMKSKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama",
+      "evidence": [
+        "Love anything Frank Grillo!!",
+        "This was an awesome docudrama."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great viewing pleasure.",
+        "Awesome movie!!! Love anything Frank Grillo!!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Amazing movie. You will feel all different emotions watching it."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Excellent and interesting.",
+        "The reason everything that happens in the movie was powerful."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Frank Grillo, Leonardo DiCaprio",
+      "evidence": [
+        "Love anything Frank Grillo!!",
+        "Leonardo DiCaprio did a fantastic job."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "A real tear jerker.",
+        "You will feel all different emotions watching it."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "A real tear jerker.",
+        "Good movie. Glad I finally watched it."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for emotionally impactful dramas and documentaries, particularly those featuring Frank Grillo and Leonardo DiCaprio. They appreciate high production quality and enjoy fast-paced narratives that evoke a range of emotions."
+}

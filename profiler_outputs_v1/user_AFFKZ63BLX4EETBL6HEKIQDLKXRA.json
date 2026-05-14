@@ -1,0 +1,77 @@
+{
+  "user_id": "AFFKZ63BLX4EETBL6HEKIQDLKXRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, drama",
+      "evidence": [
+        "\"This is a fun Thanksgiving flick that can make a great family memory.\"",
+        "\"Tyler Perry has another major hit on his hands in BOO 2...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It is just nice to see it in a movie form.\"",
+        "\"This is the kind of movie that you want to watch with your kids on a Saturday evening...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"You realize by watching this that love and family are the two most important things in your life.\"",
+        "\"What a twist on the old classic... It is kind of nice to see a movie that does not have a load of violence in it...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Rated a 3 star not because of the foreign language but because of the filming and set quality.\"",
+        "\"If I could I would own the producing proof of it.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "Tyler Perry, Denzel Washington",
+      "evidence": [
+        "\"Tyler Perry has another major hit on his hands in BOO 2...\"",
+        "\"Denzel defines the title in this movie and shows why he is one of the best actors in Hollywood today.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, emotional depth",
+      "evidence": [
+        "\"What a surprise movie, a really great date flick... the CG was fantastic...\"",
+        "\"As a former soldier, this movie moved me to tears on several occasions.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"As a former soldier, this movie moved me to tears on several occasions.\"",
+        "\"You realize by watching this that love and family are the two most important things in your life.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented comedies and dramas that evoke strong emotional responses. They appreciate simple narratives and visual spectacles, often highlighting the importance of love and family in their reviews. While they show some brand loyalty to specific creators, their sensitivity to production quality appears to be lower."
+}

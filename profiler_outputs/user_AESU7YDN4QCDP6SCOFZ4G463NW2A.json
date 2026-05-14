@@ -1,0 +1,77 @@
+{
+  "user_id": "AESU7YDN4QCDP6SCOFZ4G463NW2A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary",
+      "evidence": [
+        "\"Excellent. Best in the Bond redux\"",
+        "\"This is an excellent documentary. It reveals many of the reason that lead to the odd alcohol laws throughout the country, both before and after Prohibition.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A truly great show, but season 5 seems a bit disjointed and not clear on what the overarching plot line is.\"",
+        "\"First episode was good. Hope the other 2 are as well\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Best chase scenes by far\"",
+        "\"A damn good show start to finish\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting, writing and direction are excellent.\"",
+        "\"An excellent and beautifully photographed series\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Justified",
+      "evidence": [
+        "\"I love Justified. A truly great show\"",
+        "\"An outstanding show!!!!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Best chase scenes by far\"",
+        "\"An excellent and beautifully photographed series\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent wrap up to an excellent series. The ending was right on.\"",
+        "\"I highly recommend this show.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for high-quality dramas and documentaries, particularly enjoying shows with fast pacing and emotional depth. They exhibit loyalty to specific series like 'Justified' and appreciate well-executed writing and direction."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEKJV4NBVAKL4GFUNYKQYX342DDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "biographical, drama, inspirational, musical",
+      "evidence": [
+        "\"Wonderful movie of Harriet and the heartbreaking events of that time.\"",
+        "\"MODERN twist on the beautiful Cinderella classic.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I thought this was going to be the life of Diana...\"",
+        "\"The story is reallllllllly not much about the dog.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Edge of your seat anticipation. Scary without being demonic!\"",
+        "\"I laughed and simply enjoyed the show.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Jennifer Hudson is amazing!!! She should win many awards for her performance.\"",
+        "\"Great movie. Cops needs to get their heads on straight!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "No strong loyalty to directors or actors evident."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Shows you you can work thru fear when you care so much about someone.\"",
+        "\"A very powerful true story about this horse's strong unbreakable spirit.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Love this movie!\"",
+        "\"It's a must see!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for biographical and inspirational films, often appreciating performances and emotional depth. They enjoy fast-paced narratives with high production quality, while their loyalty to specific creators is low."
+}

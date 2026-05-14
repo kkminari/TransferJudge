@@ -1,0 +1,74 @@
+{
+  "user_id": "AECYWJBQB2GUHNCL2MJDVW55N4CQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "reality, comedy, drama, thriller",
+      "evidence": [
+        "\"It is so much fun to watch the aspiring chefs grow and improve under Ramsey's mentoring.\"",
+        "\"A thriller with a creepy, ancient twist. Brilliantly written and acted.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"If you need to fall asleep, watch this for an hour. Same story over and over. Boring. Repetitive.\"",
+        "\"Watch the first two seasons, but skip the third. It was a fantastic show, well written with excellent acting up to that point.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"A definite 'must watch.' Be prepared to lose a day or two because you will feel the inescapable desire to binge watch the entire season.\"",
+        "\"Each season is better than the last. I just finished binge watching, and I already am dying to find out what happens next season.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great acting; interesting plot. Set in Paris (which is almost another character on and off the screen), it follows a family's struggle to succeed...\"",
+        "\"Brilliantly written and acted. I'm addicted!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Absolutely stunning show.\"",
+        "\"The story and the characters are so well developed. I am addicted and hope for many more seasons to come!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Brilliantly written and acted. I'm addicted!\"",
+        "\"Amazing. The story and the characters are so well developed.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced, high-quality shows with simple narratives and strong emotional resonance. They appreciate well-developed characters and engaging plots, particularly in the reality, comedy, and thriller genres."
+}

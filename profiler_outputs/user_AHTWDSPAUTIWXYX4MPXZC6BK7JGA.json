@@ -1,0 +1,77 @@
+{
+  "user_id": "AHTWDSPAUTIWXYX4MPXZC6BK7JGA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, crime, action",
+      "evidence": [
+        "\"The story of Frank Serpico, an honest Nyc cop, is one of the most compelling police movies ever made.\"",
+        "\"Crouching Tiger, Hidden Dragon along with The Matrix are the two best movies of the last 5 years.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"It taps into frustrations, it taps into anyone who has ever felt like she was intimidated by a man or a father due to power.\"",
+        "\"The film gives us a strong character in Pfeiffer, one who doesn't just cry and take the ugliness.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"...but at a much slower speed in which you can watch as things crumble and go to pot.\"",
+        "\"It moves at a nice brisk pace and regardless of some people say, it's a person movie, not a female movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The direction is stellar. Lumet at his finest sets the tone for the film using the everyday 70's atmosphere.\"",
+        "\"The script is flawless. The mood in this movie is set from the start.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for Al Pacino and Sidney Lumet",
+      "evidence": [
+        "\"Al Pacino gives the character a lot of class and cool.\"",
+        "\"The direction is stellar. Lumet at his finest sets the tone for the film...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The movie is about the torturous possibility of betrayal by a friend...\"",
+        "\"The film is clever in the way it pursues this initially, but falters a lot.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A very tragic, but eerie story...you really have to be the kind of viewer who enjoys seeing the subtleties in human behaviour to get the absolute most of this film...\"",
+        "\"The movie disturbs...so be prepared. But see it. It's not something you will forget...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for complex dramas and crime films, particularly those featuring Al Pacino and directed by Sidney Lumet. They appreciate high production quality and emotional depth, often favoring slower-paced narratives that explore intricate character dynamics."
+}

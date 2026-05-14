@@ -1,0 +1,74 @@
+{
+  "user_id": "AG6QTGMY7DNPPLZUJKSKO56N47DA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, comedy",
+      "evidence": [
+        "\"Nice Christmas fare. Appropriately sentimental story for those who like to believe in Devine intervention.\"",
+        "\"The lengths we as humans will go to in dealing with abandonment and consequent loss of identity is examined with tenderness and understanding.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It is difficult to judge if the actors could really act. Trying to maintain suspense by shifting suspicion from one character to another didn't work.\"",
+        "\"One always knows from the outset who the killer is, so it removes the series from the detective genre which is what I was expecting.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It's slow moving, and the intrigue is contrived.\"",
+        "\"Country wisdom.. . .very predictable, but entertaining. Not very challenging themes, but certainly wholesome.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The whole production was well done from authentic basis for the story to performances to costuming and set.\"",
+        "\"It is so refreshing to watch a series that truly entertains.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual and atmospheric",
+      "evidence": [
+        "\"Nice photography. Would have appreciated more about his individual works and techniques.\"",
+        "\"Actors chosen to postural the real life characters even had some physical resemblance to the real people.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Beautiful acting by the principals the two children.\"",
+        "\"It was a difficult story to watch, but one that reminds of our duty to present military personnel.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and romance with a preference for slower-paced narratives that emphasize emotional depth and production quality. They appreciate well-crafted stories but are critical of overly simplistic or predictable plots."
+}

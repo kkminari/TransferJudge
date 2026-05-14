@@ -1,0 +1,89 @@
+{
+  "user_id": "AHCEQ2EFQZKUFDA2TYNPU64JVIZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama, comedy",
+      "evidence": [
+        "I love old stories, especially mysteries, like this.",
+        "Prime put this movie in the 'Comedy' section. It is not a comedy, not even close."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "There was 75% pointless bantering and only 25% engaging story worth watching.",
+        "The script and content of the show are depressing."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Most of it was much too slow.",
+        "Stopped watching it due to the constant dreariness and lack of levity."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The acting is great, but the script and content of the show are depressing.",
+        "The cinematography is wasted on a terrible script and bad story."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Tom Selleck delivers every time without fail.",
+        "Gina Torres who plays Jessica Pearson, Managing Partner of the firm is one of my favorites."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "The ugly sexual scene was unnecessary.",
+        "I love watching American History Documentaries and appreciate the work gone into them."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "This was a terrible downer. Started off bad and got worse.",
+        "Very uninteresting story and characters."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "high",
+      "evidence": [
+        "Harvey and Mike make a great team and their loyalty and friendship grows throughout the series to the end.",
+        "I love the carefree attitude of the people in the old movies!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys light-hearted and entertaining content, particularly in the mystery and comedy genres, but has a strong aversion to slow pacing and dark themes. They appreciate quality acting and storytelling but are sensitive to overly complex narratives and emotional heaviness."
+}

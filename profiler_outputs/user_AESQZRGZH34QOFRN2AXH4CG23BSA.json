@@ -1,0 +1,77 @@
+{
+  "user_id": "AESQZRGZH34QOFRN2AXH4CG23BSA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, true story, comedy, thriller",
+      "evidence": [
+        "\"Good movie if you know football and gambling and like drama.\"",
+        "\"A good old fashioned tear jerker with some laughs along the way!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Predictable, but good psycho acting by Russell.\"",
+        "\"Good acting with a great story behind it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Good old twisted plot movie!\"",
+        "\"Deep suspense and mind twisting.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Very good character per trails. Especially for a reenactment of a true story.\"",
+        "\"Very good acting helps make it a very touching movie.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Good acting by Halle Berry. She was great at all the cast.\"",
+        "\"Sally Field did her usual great acting.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Cute and humorous.\"",
+        "\"A good old fashioned tear jerker with some laughs along the way!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Very good acting helps make it a very touching movie.\"",
+        "\"Sad, but uplifting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and true stories, often appreciating strong acting and emotional depth in films. They prefer straightforward narratives with a mix of humor and uplifting themes, indicating a sensitivity to quality and emotional resonance."
+}

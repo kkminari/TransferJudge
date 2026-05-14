@@ -1,0 +1,74 @@
+{
+  "user_id": "AHE7FSSQOFZOKYXEZA5T5IQSRRRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "suspense, alternate history, fiction",
+      "evidence": [
+        "It shows that life is complicated, the reasoning and emotions behind every action is just as complicated.",
+        "If you are into alternate history, this is a good show to watch."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "It shows that life is complicated, the reasoning and emotions behind every action is just as complicated.",
+        "I'm confused. I need to read the book."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "The danger just gets bigger, and bigger, yet, the entertainment never gets old!",
+        "This is an intense series."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Love it love it love it! This is proof that a good movie doesn't need nudity or adult situations.",
+        "Beautifully done!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "It reminded me of events in human history, and how greed can consume people.",
+        "I can see different places without leaving my house."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Very moving. This is a story about a boy that can move objects with his mind.",
+        "Love it love it love it! This is proof that a good movie doesn't need nudity or adult situations."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex narratives with suspenseful and emotional themes, often appreciating high production quality. They have a strong preference for stories that evoke deep feelings and provide immersive experiences, particularly in alternate history and fiction genres."
+}

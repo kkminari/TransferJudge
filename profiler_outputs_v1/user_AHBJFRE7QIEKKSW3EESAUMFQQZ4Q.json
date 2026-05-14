@@ -1,0 +1,77 @@
+{
+  "user_id": "AHBJFRE7QIEKKSW3EESAUMFQQZ4Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama",
+      "evidence": [
+        "\"great boxing action, Gyllenhaal was amazing.\"",
+        "\"EXCELLENT! This is such good acting and drama keeps you on the edge from beginning to end, bring more on.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"little to no character development but what do you expect from a Stallone movie.\"",
+        "\"not a real winner can't keep your eyes on the screen\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"action from beginning to end.\"",
+        "\"keeps you on the edge of your seat very graphic.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"not an academy award winner, action is good but not believable.\"",
+        "\"terrible acting, terrible fight scenes, just not very good..\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Stallone, Gyllenhaal, Spacey, Wright",
+      "evidence": [
+        "\"Stallone fan for life even though he is anti gun, funny how that works.\"",
+        "\"Spacey and Wright are brilliant if not down right scary..\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, action choreography",
+      "evidence": [
+        "\"Keeps you on the edge of your seat very graphic.\"",
+        "\"action from beginning to end.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"not a real winner can't keep your eyes on the screen\"",
+        "\"terrible acting, terrible fight scenes, just not very good..\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and drama genres, favoring fast-paced narratives with visual spectacle. They show some loyalty to specific actors but are less concerned with production quality and emotional depth."
+}

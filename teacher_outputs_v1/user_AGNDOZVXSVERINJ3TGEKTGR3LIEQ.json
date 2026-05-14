@@ -1,0 +1,157 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's enjoyment of drama and comedy suggests a preference for character-driven narratives in books, but animation does not have a direct equivalent in literature. Recommendations should focus on literary and humorous works while avoiding overly romantic or action-heavy genres.",
+      "transferred_insight": "Prefer character-driven literary fiction and humorous narratives; avoid romance-heavy books.",
+      "confidence": 0.75
+    },
+    "narrative_complexity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's mixed preference for narrative complexity indicates they appreciate both straightforward and more intricate plots. Recommendations should include accessible yet engaging stories that balance complexity without being overly convoluted.",
+      "transferred_insight": "Prefer accessible narratives with moderate complexity.",
+      "confidence": 0.65
+    },
+    "pacing_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's mixed pacing preference suggests they can enjoy both slower, character-driven stories and faster-paced narratives. Recommendations should include a variety of pacing to cater to their diverse tastes.",
+      "transferred_insight": "Open to both slow-burn and faster-paced narratives.",
+      "confidence": 0.6
+    },
+    "quality_sensitivity": {
+      "decision": "PARTIAL",
+      "rationale": "The user shows a medium sensitivity to quality, indicating they appreciate well-crafted narratives but may not prioritize this as their primary selection criterion. Recommendations should lean towards highly-rated books but not exclusively.",
+      "transferred_insight": "Moderate preference for well-reviewed books.",
+      "confidence": 0.7
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user's low brand loyalty suggests they do not have strong preferences for specific authors or creators, making this pattern irrelevant for book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "Sensory preferences related to visual experiences in film do not translate to the book medium, where sensory engagement is different. This pattern should not influence book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.85
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high emotional resonance indicates a strong preference for narratives that evoke deep feelings and empathy. This quality is highly transferable to books, suggesting a preference for emotionally impactful stories.",
+      "transferred_insight": "Prefer emotionally resonant narratives that evoke strong feelings.",
+      "confidence": 0.9
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "194468414X",
+      "title": "Microsoft Excel 2016 Business Analytics & Power BI Quick Reference Guide, 2017 Ed. (4-page Cheat Sheet of Instructions, Tips & Shortcuts - Laminated Guide)",
+      "score": 0.85,
+      "applied_patterns": [
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This guide is highly rated and provides practical insights, appealing to the user's preference for quality content. Its structured approach can evoke a sense of accomplishment and understanding, aligning with their emotional engagement."
+    },
+    {
+      "rank": 2,
+      "item_id": "0422297583",
+      "title": "The Spiritual Doorway in the Brain: A Neurologist's Search for the God Experience",
+      "score": 0.8,
+      "applied_patterns": [
+        "emotional_resonance"
+      ],
+      "reasoning": "This book explores profound themes of spirituality and human experience, likely resonating with the user's emotional depth preference. Its engaging narrative can evoke strong feelings and reflections."
+    },
+    {
+      "rank": 3,
+      "item_id": "1733662812",
+      "title": "Will You Know My Name?",
+      "score": 0.78,
+      "applied_patterns": [
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This thriller promises a mix of intrigue and emotional depth, appealing to the user's interest in complex narratives that evoke strong feelings. The exploration of truth and perspective aligns well with their preferences."
+    },
+    {
+      "rank": 4,
+      "item_id": "1501229419",
+      "title": "Warden, The (Chronicles of Barsetshire)",
+      "score": 0.75,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This classic novel offers a character-driven narrative with a mix of drama and social commentary, aligning with the user's genre preferences. Its moderate complexity can engage the user without overwhelming them."
+    },
+    {
+      "rank": 5,
+      "item_id": "0811873471",
+      "title": "Top Chef: The Cookbook, Revised Edition: Original Interviews and Recipes from Bravo's hit show",
+      "score": 0.73,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "This cookbook combines quality content with engaging narratives from the show, appealing to the user's appreciation for well-crafted material. The blend of recipes and stories can evoke emotional connections to the culinary arts."
+    },
+    {
+      "rank": 6,
+      "item_id": "B09SV7P3TN",
+      "title": "A Missing Heartbeat",
+      "score": 0.72,
+      "applied_patterns": [
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book's blend of mystery and emotional depth aligns with the user's preference for engaging narratives that evoke strong feelings. The character-driven plot can resonate well with their tastes."
+    },
+    {
+      "rank": 7,
+      "item_id": "B09QP1XYK5",
+      "title": "The Gentleman and the Maid (Tales from the Highlands)",
+      "score": 0.7,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This historical romance offers character-driven storytelling with emotional depth, appealing to the user's drama and comedy preferences. The narrative's focus on relationships can resonate with their emotional engagement."
+    },
+    {
+      "rank": 8,
+      "item_id": "B002AIYQGY",
+      "title": "The Spirit of the Season (Tales from Grace Chapel Inn)",
+      "score": 0.68,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book's focus on family and community aligns with the user's drama preference, while its emotional themes can evoke strong feelings. The character-driven narrative is likely to engage the user."
+    },
+    {
+      "rank": 9,
+      "item_id": "B08S2ZXSZZ",
+      "title": "The A-Z of 2020: Compiled with the help of the good people who listen to LBC",
+      "score": 0.65,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book offers a reflective look at a challenging year, appealing to the user's interest in quality narratives. Its engaging format can evoke emotional responses related to shared experiences."
+    },
+    {
+      "rank": 10,
+      "item_id": "B007PM8XXW",
+      "title": "Dracula, My Love LP: The Secret Journals of Mina Harker",
+      "score": 0.63,
+      "applied_patterns": [
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This reimagining of a classic tale offers a unique perspective and emotional depth, appealing to the user's interest in complex narratives. The character-driven approach can resonate with their emotional engagement."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference were blocked due to their low relevance for book recommendations.",
+  "overall_strategy": "Focused on leveraging the user's strong preferences for emotional resonance and character-driven narratives while applying partial insights from genre and narrative complexity. Blocked patterns that do not translate well to the book medium to ensure quality recommendations."
+}

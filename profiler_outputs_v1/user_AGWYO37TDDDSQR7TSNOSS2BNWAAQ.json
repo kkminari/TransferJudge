@@ -1,0 +1,77 @@
+{
+  "user_id": "AGWYO37TDDDSQR7TSNOSS2BNWAAQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, drama",
+      "evidence": [
+        "I love True Blood",
+        "Its Elvis need I say more."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "very informative for young minds and fun too.",
+        "definitely a win win situation!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "definitely a win win situation!",
+        "love this one the best"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I have already watched all the movies and when I could get them for this price, I jumped at the chance.",
+        "The package was in excellent condition and the disc's were scratch free."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Elvis, True Blood",
+      "evidence": [
+        "I collect all Elvis movies",
+        "I love True Blood"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "With this awesome cast, you know it's a hit.",
+        "I was impressed with the way they took on utterly new roles."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I love True Blood",
+        "very enjoyable"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy and drama genres, particularly enjoying series like 'True Blood' and movies featuring Elvis. They appreciate simple narratives and emotional resonance, often valuing entertainment over high production quality."
+}

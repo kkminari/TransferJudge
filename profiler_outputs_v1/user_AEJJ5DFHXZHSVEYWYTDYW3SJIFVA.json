@@ -1,0 +1,77 @@
+{
+  "user_id": "AEJJ5DFHXZHSVEYWYTDYW3SJIFVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family, biblical",
+      "evidence": [
+        "\"His drama series are great to watch\"",
+        "\"Anything from the Bible I am all for, it gives a visual to go by.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It was what I wanted, it was a good series to watch.\"",
+        "\"GOOD MOVIE\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This is the type of movie that I can set and watch with full attention.\"",
+        "\"Couldn't go wrong getting this one for future use.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I like these movies\"",
+        "\"It was alright\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Family liked it\"",
+        "\"His drama series are great to watch\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual storytelling",
+      "evidence": [
+        "\"It gives a visual to go by.\"",
+        "\"Good and evil is around us and it gives us something to think about.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"It gives a twist to the story\"",
+        "\"If you can dream it, in time it will happen.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and family-oriented content, particularly with biblical themes. They prefer straightforward narratives and fast pacing, showing a moderate emotional engagement with the material."
+}

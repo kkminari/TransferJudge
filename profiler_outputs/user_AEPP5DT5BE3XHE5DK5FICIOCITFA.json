@@ -1,0 +1,77 @@
+{
+  "user_id": "AEPP5DT5BE3XHE5DK5FICIOCITFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, sci-fi",
+      "evidence": [
+        "\"Hope after the last GAME OF THRONES season book gets filmed...\"",
+        "\"Disney could have called their film THE WAR FOR MARS or Martian Warrior : John Carter.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"...how the Great Houses came to be, and how the Sigil of each House was marked by Creatures like Dragons, Direwolves, Kraken...\"",
+        "\"...showing the Downfall of Sinestro and how the Yellow Ring's power matches up with the Green Ring's power.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Everything is awesome in this movie!\"",
+        "\"Taking a stand to fight for something you believe.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Peter Jackson has done another amazing film to the world of the Lord of the Rings.\"",
+        "\"Great visuals\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for Peter Jackson, Christopher Nolan, Zack Snyder",
+      "evidence": [
+        "\"Peter Jackson has done another amazing film...\"",
+        "\"Christopher Nolan ( THE DARK KNIGHT TRILOGY ) and Zack Snyder ( 300 & THE MAN OF STEEL )...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Amazing visuals\"",
+        "\"Great visuals\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"To see how people we lost come back and change us by existing in our lives again.\"",
+        "\"We learn through Steve Jobs that our lives are short and precious.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy and sci-fi genres, particularly enjoying complex narratives with high production quality. They exhibit loyalty to notable directors and appreciate emotional depth in storytelling."
+}

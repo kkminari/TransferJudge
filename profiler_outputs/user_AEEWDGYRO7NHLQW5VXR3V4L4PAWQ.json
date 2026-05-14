@@ -1,0 +1,77 @@
+{
+  "user_id": "AEEWDGYRO7NHLQW5VXR3V4L4PAWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, horror, cult films",
+      "evidence": [
+        "\"I like movies that have their OWN quirky sense of humor...\"",
+        "\"Stuart Gordon is the only horror director that can make me cringe.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's a film that deserves a cover that reflects its vibe.\"",
+        "\"The only thing preventing me from giving this one five stars is that the script could have been way more interesting.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It's hilarious. I can't remember the last time I almost cried laughing during a movie.\"",
+        "\"This movie deserves to be known, and sadly it isn't.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The video quality is pretty much the same as you get online.\"",
+        "\"It's obvious they didn't have any confidence in it, which is a shame, because it's easily the best TV show they've produced.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "David Wain, Stuart Gordon",
+      "evidence": [
+        "\"If you're a fan of any of David Wain's work, you'll like Wainy Days, plain and simple.\"",
+        "\"Stuart Gordon is the only horror director that can make me cringe.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"It's insane that I am writing the second review for this movie. It has everything you could want in a ninja movie. Laughs, great fight scenes, a great soundtrack...\"",
+        "\"Gordon always pushes the envelope with his images, toying with his audience.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"There are beautiful moments from this first (and final) season that'll stick with me forever...\"",
+        "\"I can see myself re-watching this one many times.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for quirky comedies and horror films, particularly those by David Wain and Stuart Gordon. They appreciate high production quality and emotional resonance in their viewing experiences, while favoring fast-paced narratives that evoke laughter and engagement."
+}

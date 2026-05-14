@@ -1,0 +1,77 @@
+{
+  "user_id": "AFBZEPLPDUBQ3DTCTFX53LO77ENA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, Hallmark",
+      "evidence": [
+        "\"I love this movie!! It is a Hallmark movie that is great.\"",
+        "\"A very good family movie.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This movie has a great story, great actors and make you stop and think about the hard time and lives our ancestors had to endure.\"",
+        "\"A very good story and I really liked all of the characters in the movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"A very good family movie.\"",
+        "\"This movie makes you stop and think.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I love James Garner and anything he is in. Sally Field is very good in this as well.\"",
+        "\"This is a classic movie. I had to have it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Hallmark",
+      "evidence": [
+        "\"I have been adding my favorite Hallmark movies to my collection.\"",
+        "\"I love this movie!! It is a Hallmark movie that is great.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "nostalgic, emotional",
+      "evidence": [
+        "\"Being from the South, the way of life in this movie brought back so many memories.\"",
+        "\"The story is so well put together ..be sure to watch with kleenex.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie makes you stop and think.\"",
+        "\"The story is so well put together ..be sure to watch with kleenex.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-oriented and Hallmark movies, often valuing emotional resonance and nostalgia. They enjoy simple narratives with a slower pace, focusing more on the story and emotional impact than on production quality."
+}

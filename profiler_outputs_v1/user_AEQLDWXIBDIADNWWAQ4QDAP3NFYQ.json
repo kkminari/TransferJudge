@@ -1,0 +1,77 @@
+{
+  "user_id": "AEQLDWXIBDIADNWWAQ4QDAP3NFYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action, historical, romance",
+      "evidence": [
+        "\"The 'palace intrigue' is incredible.\"",
+        "\"I like it for the setting - WWII America and Germany.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Leave your questions at the door and watch stuff blow up...\"",
+        "\"Definitely NOT serious cinema, but for any guy who has had a bad experience with women...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"A great action movie! Leave your questions at the door and watch stuff blow up...\"",
+        "\"Hooked... simply hooked.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Unbelievable production from all aspects! The acting is superb, the sets incredible...\"",
+        "\"The costumes, scenery and acting is impeccable!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I thought 'Band of Brothers' was great!\"",
+        "\"Sorry to see this series go.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The cinematography is outstanding.\"",
+        "\"The acting is not the best and the story is a bit sugary sweet, but Preston Tucker's story inspires me.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"One comes to care deeply for every member of this team!\"",
+        "\"Truly illustrates the sacrifices made in the Pacific by our Marines.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for high-quality drama and action series, particularly those with historical themes. They appreciate fast pacing and emotional depth, often resonating with character-driven narratives."
+}

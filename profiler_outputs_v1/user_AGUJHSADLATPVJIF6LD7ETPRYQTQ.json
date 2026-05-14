@@ -1,0 +1,77 @@
+{
+  "user_id": "AGUJHSADLATPVJIF6LD7ETPRYQTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, comedy, true crime, classic horror",
+      "evidence": [
+        "\"I really love this movie. Liam Neeson is very wonderful actor. One of my favorite action flicks...\"",
+        "\"I really like true crime stories and so this series is really good for me\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story is a simple story of a man whose values and morals are tested against the wild West.\"",
+        "\"If you're looking for something with more depth keep looking.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"One of my favorite action flicks because of the Fast Pace.\"",
+        "\"...the movie is fairly faithful to the book given the time period It was produced.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"This is one of my all-time favorite movies it is well written directed and acted.\"",
+        "\"...the cinematography was jerky and I Know It was supposed to represent smartphone video...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Clint Eastwood, Liam Neeson",
+      "evidence": [
+        "\"Clint Eastwood never fails to produce a wonderful job in his movies.\"",
+        "\"I really love this movie. Liam Neeson is very wonderful actor.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, immersive storytelling",
+      "evidence": [
+        "\"...the movie is fairly faithful to the book given the time period It was produced.\"",
+        "\"...the storyline is still in that vein.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This was an incredible movie with a great twist on justice for a pedophile.\"",
+        "\"...it is my go-to comedy for my blue days.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and drama films, particularly those featuring Clint Eastwood and Liam Neeson. They appreciate well-crafted narratives and high production quality, while favoring fast-paced storytelling that evokes strong emotional responses."
+}

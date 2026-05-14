@@ -1,0 +1,77 @@
+{
+  "user_id": "AFQHRDSR4FQWYYLPLZ2WVIBXEANA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, 80s nostalgia",
+      "evidence": [
+        "\"This show is such a great throwback to 80's culture...\"",
+        "\"Thoroughly funny...every character is so endearing and you fall a little bit in love with this family.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Nothing unusual or gripping.....\"",
+        "\"It was okay. Especially given our current political status it was very pertinent, making it more interesting!!!!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The movie is so fast and furious in lifestyle you are just along for the wild and often hilarious ride.\"",
+        "\"Great movie making as usual by Scorsese with DiCaprio.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Found this film to be well acted, edited and written.\"",
+        "\"Everything about it, acting, writing, editing seems top notch.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for specific actors and directors",
+      "evidence": [
+        "\"Been a fan of Gael Garcia Bernal since Motorcycle Diaries...\"",
+        "\"Great movie making as usual by Scorsese with DiCaprio.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"You could feel their change thru Alice's eyes.\"",
+        "\"It was the most Hopeful movie I've seen in a while.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The impact was nonetheless forceful.\"",
+        "\"Brought tears, stayed with me.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and 80s nostalgia, with a preference for fast-paced narratives that are well-produced. They show a strong emotional connection to the content, appreciating quality acting and storytelling."
+}

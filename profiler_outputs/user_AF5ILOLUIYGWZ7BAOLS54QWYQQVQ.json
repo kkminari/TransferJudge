@@ -1,0 +1,77 @@
+{
+  "user_id": "AF5ILOLUIYGWZ7BAOLS54QWYQQVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, comedy, drama",
+      "evidence": [
+        "\"I love this show. It's mostly clean...\"",
+        "\"I love this movie almost as much as Despicable Me.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I love that the writer delved deeper into the storyline so we could connect with and empathize Beast and Belle.\"",
+        "\"The first half of I Feel Pretty-- beautiful is how you see yourself...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The first half of I Feel Pretty-- beautiful is how you see yourself... Then it became very un-family friendly and the storyline plummeted from there.\"",
+        "\"I wanted to like this, but we found it to be really dull.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The acting was incredible...\"",
+        "\"I love that the writer delved deeper into the storyline...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love that it features one of my favorite actors, Kristen Bell.\"",
+        "\"I actually detest most Adam Sandler movies...\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I love how this movie makes you question what is real right up until the end.\"",
+        "\"I love this show even more now that I live overseas. It's nice to relate to other moms.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I love that the writer delved deeper into the storyline so we could connect with and empathize Beast and Belle.\"",
+        "\"I still love this movie! My toddler liked it too...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly movies and shows, often valuing emotional connections and relatable narratives. They appreciate good acting and storytelling but have mixed feelings about pacing and narrative complexity."
+}

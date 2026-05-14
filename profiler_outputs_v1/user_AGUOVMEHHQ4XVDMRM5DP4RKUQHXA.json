@@ -1,0 +1,77 @@
+{
+  "user_id": "AGUOVMEHHQ4XVDMRM5DP4RKUQHXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, action, thriller",
+      "evidence": [
+        "\"We enjoyed this movie - gave it five stars as it kept us laughing!\"",
+        "\"action packed and quite good actually!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's sort of a sweet little movie but it goes on and on to us anyway!\"",
+        "\"It wasn't bad it just wasn't top notch in my opinion.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Sort of a sweet little movie but it is about 45 minutes too long!\"",
+        "\"Just not as good as the very first - the second equally not good and the way both movies two and three end.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good movie but the ending blew!\"",
+        "\"It was decent but seems to be missing something.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "James Bond",
+      "evidence": [
+        "\"We are lovers of James Bond movies - missing Rodger Moore for sure.\"",
+        "\"I'd rate it just as it was officially rated actually.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"This was pretty darn funny I must confess.\"",
+        "\"action packed and quite good actually!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"It was a rather pointless movie in the series we only hope the next one picks all back up.\"",
+        "\"wouldn't recommend honestly!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and action films, often appreciating humor and entertainment value. They show some loyalty to the James Bond franchise but have mixed feelings about narrative complexity and pacing, indicating a preference for straightforward storytelling."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AG3ASSPWWMMSKI5AGSTVIXMEAIYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, black comedy, satire, drama",
+      "evidence": [
+        "\"This is a very funny satire which was criminally overlooked on its initial release in cinemas.\"",
+        "\"It's nice to see a film that doesn't discriminate in its absolute hate for everything - it's not against women, black people or homosexuals. Just the human race.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story is just right, the laughs are plentiful...\"",
+        "\"The film is full of very clever dialogue, and the ironic references to itself and other horror films are as funny as ever.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"the direction is nice and fast, perfect for this type of film.\"",
+        "\"It's a nice change from the PR stuff you usually get on these things.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The photography is excellent, showing that Raimi is a talented director in any genre.\"",
+        "\"Warner Bros always give good films some great extras, which isn't usually the case with other studios.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Mamet is a first-class writer...\"",
+        "\"Coen brothers films are emminently quotable, and this one is no exception...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"A beautiful movie, one which plays it low-key throughout, never resorting to shock tactics to create horror in the viewer.\"",
+        "\"Some of the scenes will stick in your head for a long time, but not for their brutality.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is one of the only films where the sheer banality of evil has been portrayed properly...\"",
+        "\"It might perhaps be the subversive nature of the script which could explain its failure in America...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies, particularly those with dark humor and satire, and appreciates fast-paced storytelling with high production quality. They show a strong emotional engagement with films that explore deeper themes, while also valuing clever writing and character development."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AHORPPB47KQ2CVPPQNVO3JR72JXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, suspense, drama",
+      "evidence": [
+        "\"one of the best classic suspense films ever\"",
+        "\"a must for ray liotta fans....this guy plays serial killers better than anyone ever\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the film needed a truly great scene stealing villain IMO to compete with the great action\"",
+        "\"the pacing is just too fast...they fit the entire novel into an hr and 46 mins\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"it slows down a bit\"",
+        "\"the pacing is just too fast...we barely have time to FEEL the love\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great music by Hans Zimmer\"",
+        "\"Beautifully shot. Great music.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"if you’re a Claude Rains fan like me you will most certainly enjoy him in this role\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"the flawless acting...beautiful cinematography and breathtaking score\"",
+        "\"Great light and cinematography.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"never has a film moved me emotionally as much as this\"",
+        "\"makes me cry every time\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for action and suspense genres, often appreciating high production quality and emotional depth in films. They express mixed feelings about narrative complexity and pacing, indicating a desire for engaging storytelling without excessive speed or simplicity."
+}

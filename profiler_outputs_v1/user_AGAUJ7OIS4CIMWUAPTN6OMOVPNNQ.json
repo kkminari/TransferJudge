@@ -1,0 +1,77 @@
+{
+  "user_id": "AGAUJ7OIS4CIMWUAPTN6OMOVPNNQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's, family",
+      "evidence": [
+        "My daughter loves the Pink Panther!!",
+        "A very nice show for young children to watch."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "This was an alright movie, not one I would go back and watch again.",
+        "A very nice show for young children to watch."
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "A little slow and boring in spots.",
+        "This was an alright movie, not one I would go back and watch again."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "This movie is great.",
+        "A must see!!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "We love Yo Gabba Gabba, and Season 1 is super.",
+        "My daughter loves the Pink Panther!!"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual humor, family-friendly atmosphere",
+      "evidence": [
+        "It's hilarious! They argue a lot, but hey it's funny to watch.",
+        "A very nice show for young children to watch."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "My daughter loves the Pink Panther!!",
+        "A must see!!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for children's and family-oriented content, often enjoying simple narratives that are visually humorous and engaging for young audiences. They value emotional resonance in their viewing experiences, particularly those that can be shared with their children."
+}

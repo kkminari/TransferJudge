@@ -1,0 +1,77 @@
+{
+  "user_id": "AFIODZRWXF76JRWNMP6YMKTYUUHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, sci-fi",
+      "evidence": [
+        "excellent and gripping drama.",
+        "good sc-fi"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "great series",
+        "fun"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "too much movement in the process of filming",
+        "too much computer graphics."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "just ok",
+        "fair at best"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "great films",
+        "wonderful documentary on a legend"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "great picture",
+        "kool movie"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "fair",
+        "just ok"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys simple dramas and sci-fi, often finding them fun and engaging. However, they express mixed feelings about pacing and production quality, indicating a preference for straightforward storytelling without strong emotional engagement."
+}

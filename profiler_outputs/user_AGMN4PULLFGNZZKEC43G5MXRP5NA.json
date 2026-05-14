@@ -1,0 +1,77 @@
+{
+  "user_id": "AGMN4PULLFGNZZKEC43G5MXRP5NA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, classic",
+      "evidence": [
+        "\"This is about as good as it gets for sitcoms.\"",
+        "\"I love The Office (UK) but to me this is the apex of the Gervais/Merchant team.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story is very engaging and the performances are all top notch.\"",
+        "\"The story holds together pretty well and for the most part the action and the actors are all good.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I am glad they stopped at two seasons so that their greatness was not diluted.\"",
+        "\"The plot is one of those classic noir stories where a corrupt/lost man makes a bad choice and yet finds redemption by the final reel.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The transfer of this film to Blu-Ray is done with great care and attention to detail.\"",
+        "\"The picture is vivid and clear. The scan/transfer is immaculate.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"If you are a fan of Arrested Development or Curb or The Office (UK) then you will love this show.\"",
+        "\"Yes, you can definitely make a list of the four top Billy Wilder movies and it would not match what is in this set.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It feels like you are watching it as it was seen in its original theatrical release.\"",
+        "\"You cannot help but notice/see/feel/hear/sense their quality.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The movie is an under-rated classic that should be seen by more people.\"",
+        "\"He makes you hate, fear and eventually understand Sergeant Markoff.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and drama, particularly enjoying classic sitcoms and engaging narratives. They value high production quality and emotional resonance in their viewing experiences, indicating a taste for well-crafted stories that evoke strong feelings."
+}

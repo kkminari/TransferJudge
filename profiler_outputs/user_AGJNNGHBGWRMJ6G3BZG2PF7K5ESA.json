@@ -1,0 +1,77 @@
+{
+  "user_id": "AGJNNGHBGWRMJ6G3BZG2PF7K5ESA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, animation",
+      "evidence": [
+        "Great show! Love watching it with my 7 yo and talking about the adventures as well as the challenges the characters face.",
+        "Kids love it - they belly laugh at the antics"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great stories - includes story lines around family, friends, dreams and acceptance.",
+        "Kids love the show, but I feel my kids are a little old at 5 and 7. More of a preschool show."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "She enjoyed the action, cooking, twists and turns",
+        "Kids laugh out loud at the silly antics and situations."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The animation is amazing - impressed especially with the water scenes.",
+        "Great stories - includes story lines around family, friends, dreams and acceptance."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Wallace & Gromit",
+      "evidence": [
+        "Hilarious! From the makers of Wallace and Grommit",
+        "We love Wallace & Grommit - so this is perfect"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Super cute! My kids love the books - so finding this show was fun.",
+        "Kids love the movie and soundtrack."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Great show! Love watching it with my 7 yo and talking about the adventures as well as the challenges the characters face.",
+        "Perfect for adults and kids. Lots of movie references to keep adults entertained, plus a good story for the kids."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly animated content, particularly those that are simple in narrative and fast-paced. They show a strong loyalty to the creators of Wallace & Gromit and appreciate high production quality, especially in animation."
+}

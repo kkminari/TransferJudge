@@ -1,0 +1,77 @@
+{
+  "user_id": "AGVXZD66TZZ2VFUT5XZKXBJ2LCVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, comedy, musical",
+      "evidence": [
+        "\"The story was so sad, yet utterly beautiful at the same time...\"",
+        "\"This is an excellent comedy story as well as a sweet and poignant romance!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"This movie had absolutely NO plot...\"",
+        "\"The story alone is just so beautiful and heart-rending.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This movie was very boring, and very hard to follow...\"",
+        "\"The story was to die for!!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting was marvelous and the whole story was to die for!!!\"",
+        "\"The cinematography is beautiful, as well as just Africa itself...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love this movie to death, and there hasn't been any other greater than it since Amelie.\"",
+        "\"Jane Austin at her best!!!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The cinematography and use of color is AMAZING...\"",
+        "\"The music is great, and it is good to see such movies being restored on DVD.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I was so moved by this movie...\"",
+        "\"This film will make you laugh, cry, and just fall in love...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for emotional and beautifully crafted stories, particularly in the drama, romance, and comedy genres. They appreciate high production quality and are sensitive to pacing, often favoring slower narratives that evoke deep feelings."
+}

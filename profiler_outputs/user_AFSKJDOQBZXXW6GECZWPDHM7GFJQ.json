@@ -1,0 +1,77 @@
+{
+  "user_id": "AFSKJDOQBZXXW6GECZWPDHM7GFJQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "western, old movies",
+      "evidence": [
+        "\"Very good movie if you like the old style westerns.\"",
+        "\"Old movies don't have all the garbage found in newer ones like vulgarity which doesn't add anything at all.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good simple story.\"",
+        "\"Good movie, good story with an unexpected twist at the end.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Slow moving at first, but became pretty interesting as it went on.\"",
+        "\"Not my kind of movie. Too slow, not clear and definitely not interesting.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great directing and admirable acting\"",
+        "\"Not a well made movie. Too much emphasis on making their moonshine and not enough on the action in the war.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific directors or actors mentioned.",
+        "No franchises or series indicated."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Very touching and well done.\"",
+        "\"Good movie and story. Not full of junk like most modern movies.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Very touching and well done.\"",
+        "\"Outstanding depiction of what happened.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for old-style westerns and simple narratives with good production quality. They appreciate emotional depth in films but have mixed feelings about pacing, indicating a tolerance for slower starts if the story becomes engaging."
+}

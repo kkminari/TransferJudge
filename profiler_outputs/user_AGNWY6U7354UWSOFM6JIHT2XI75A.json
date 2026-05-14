@@ -1,0 +1,77 @@
+{
+  "user_id": "AGNWY6U7354UWSOFM6JIHT2XI75A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"I love Nick Kroll so much.\"",
+        "\"This show is so good and so addictive.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It was amusing and uplifting, though.\"",
+        "\"I didn't think it was funny at all, and I thought it was crass.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I found myself not paying attention to what was being said.\"",
+        "\"The sets and actors were all perfect, but I think the movie got mired in too much dialogue.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"It was well-acted, had a great script, and was very entertaining.\"",
+        "\"The actors were fantastic, the script was so well-written, and the subject matter was engrossing.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Nick Kroll, Quentin Tarantino",
+      "evidence": [
+        "\"I love Nick Kroll so much.\"",
+        "\"I didn't know what to expect since it was a Quentin Tarentino film, but I loved it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It made me care about events I did not live through, but I feel like I learned something and I was so entertained at the same time.\"",
+        "\"It is definitely not mainstream humor, but it is a fantastic show.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I was so surprised how moving this movie was.\"",
+        "\"I think this is one of my favorite movies.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and dramas, particularly those with strong performances and engaging scripts. They have a preference for slower-paced narratives that evoke emotional responses, and they show loyalty to specific creators like Nick Kroll and Quentin Tarantino."
+}

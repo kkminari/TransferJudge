@@ -1,0 +1,76 @@
+{
+  "user_id": "AFASOKCYXW4Q3VCOL5KELGTZ7VWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"I am a huge fan of Young Frankenstein\"",
+        "\"Sad subject matter, but fairly depicted.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Seen this from Woody allen too many times before.\"",
+        "\"got bored, left it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Loved the action!\"",
+        "\"Kept my interest all the way thru.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Dame Judy Dench did a marvelous job as always.\"",
+        "\"Good Story and well acted.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"What can I say? It's a coen brothers movie.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Haunting movie.\"",
+        "\"Sad subject matter, but fairly depicted.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"Sad subject matter, but fairly depicted.\"",
+        "\"Actually, kind of funny! It ended the right way.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and dramas, particularly those with strong performances and engaging stories. They prefer fast-paced narratives but show some sensitivity to production quality, indicating a balanced appreciation for both entertainment and craftsmanship."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AGV7D3MV2AGYEOOHGRUQPRPBG7WA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi",
+      "evidence": [
+        "If you like sci fi or the bermuda trianglr,this is a goodie to watch!",
+        "lots of sci fi action,some b rated but 4 the price,well worth it."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "good movie,plot line kept me interested",
+        "excellent story line,very little profanity and no one jumping in bed with somebody right away."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "it rivets you,no foul language,great story line and it makes you want to watch all 3 discs to see the ending.",
+        "movie was great if you like this kind of sci-fi.Had a humorous side tomit as well."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the filming on this movie is top notch.",
+        "filming was good and delivery was ahead of schedule."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "makes you think,definately something to watch if you are a believer in Jesus of the bible-you will draw your own conclusion after you watch the film.",
+        "this film is very eye opening and reveals a side if islam that care and interfaith organizations and pro muslim groups."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I was stunned as I watched the election results because it was what he alluded to and explains why.",
+        "this is an excellent video showing the history of jerusalem and this area of the middle east."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi films, appreciating engaging storylines and high production quality. They enjoy fast-paced narratives that evoke emotional responses, while showing less loyalty to specific creators or franchises."
+}

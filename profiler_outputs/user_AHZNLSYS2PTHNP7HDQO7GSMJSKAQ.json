@@ -1,0 +1,77 @@
+{
+  "user_id": "AHZNLSYS2PTHNP7HDQO7GSMJSKAQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, western, drama, samurai, comic book",
+      "evidence": [
+        "I usually love Samurai movies, but this isn't really a Samurai movie.",
+        "The Orville started off as a Sci-Fi comedy."
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "Kurosawa's story of a murder told from four different points of view that come across with distinctly different details is captivating.",
+        "The plot is deceptively simple. Kurosawa had a knack for using simple plots that he fleshed out which character development and interesting turns of events."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "The movie slows down a little past halfway, and becomes very dramatic.",
+        "The pacing is near perfect."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The picture quality on the blu ray is absolutely stunning.",
+        "The quality of the video never detracts or distracts from the movie."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Akira Kurosawa, Seth MacFarlane",
+      "evidence": [
+        "Kurosawa was a filmmaking genius, and this was one of his finest films.",
+        "The Orville is a wildly entertaining show."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "The special effects in Shin Godzilla are arguably even better than in the Legendary Productions 2014 Godzilla movie.",
+        "The cinematography is beautiful - this is one of the best looking Westerns ever filmed."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "The movie is played straight for the most part.",
+        "The characters are often out to cover their butts to make sure they don't do anything that would get them in any kind of trouble."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex narratives and high production quality, particularly in genres like sci-fi, westerns, and samurai films. They appreciate emotional depth and character development, while also showing a notable loyalty to directors like Akira Kurosawa."
+}

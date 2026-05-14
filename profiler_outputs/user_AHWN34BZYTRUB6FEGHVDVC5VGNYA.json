@@ -1,0 +1,77 @@
+{
+  "user_id": "AHWN34BZYTRUB6FEGHVDVC5VGNYA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "diverse, romantic, comedy",
+      "evidence": [
+        "The writing and characters show why diversity is important.",
+        "Witty, romantic, and easy."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The storyline is so so, but the creatures and sets are beautiful.",
+        "It's a nice pastime."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "I love this show so much that I pay for it 😊",
+        "It's just plain awesome."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The lighting and cinematography are breath taking.",
+        "The writing and characters show why diversity is important."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I love this show so much that I pay for it 😊",
+        "I'm in for the long hall."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "The lighting and cinematography are breath taking.",
+        "The creatures and sets are beautiful."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I love this show so much that I pay for it 😊",
+        "Love it!!!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for diverse, romantic, and comedic content, appreciating high production quality and fast pacing. They express a deep emotional connection to the shows they enjoy, often highlighting their love for specific series."
+}

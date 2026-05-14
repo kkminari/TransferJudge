@@ -1,0 +1,76 @@
+{
+  "user_id": "AF3MBYF7AGHFN536HP2KDKLX44EA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance",
+      "evidence": [
+        "\"This was such an amazing film about feeling, love and friendship!\"",
+        "\"The emotions are real in this movie, and I loved seeing Agnes' hopes turn into a reality!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Funny and very great story!\"",
+        "\"I really enjoyed this movie. So good❤️❤️❤️\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"A very calm and beautiful film.\"",
+        "\"Glad to see him in this type of film again.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"You guys did a great job paying homage to legends!\"",
+        "\"Great work. It is worth watching.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I'm a big fan of Jim Carrey. He did a beautiful job as his character and was very funny!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It’s so amazing, colorful and full of feeling.\"",
+        "\"I felt so held watching this.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"You will be touched and it makes you believe in real love.\"",
+        "\"The emotions are real in this movie, and I loved seeing Agnes' hopes turn into a reality!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and romance genres, appreciating emotional depth and character-driven narratives. They favor slower pacing and high production quality, often highlighting the emotional resonance of the films they enjoy."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AFKJ5XBFP42OX67RXDZCN2J2JGZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, western",
+      "evidence": [
+        "\"The grand western epic had not been seen in anything like its original form...\"",
+        "\"George Pal was responsible for many science fiction classics of the era...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Hopelessly convoluted plot, unintelligible dialog...\"",
+        "\"This collection... comes without closed captioning of any kind.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Killjoys dialog is fast-paced, off the cuff...\"",
+        "\"Dialog track includes a lot of different accents and is often muffled by the action.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Finally a restored print that does this ground-breaking film justice...\"",
+        "\"Time for somebody to pony up the cash and give this great film the meticulous 4K digital restoration...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have been catching flack for years on Amazon for rating HBO's Sopranos Season 1 Blu-ray...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The images are crystal clear, sharp, and colorful...\"",
+        "\"I saw a bright, clear, totally colorful 3-dimensional image...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I couldn't sort it out...\"",
+        "\"This is my favorite movie of all time...\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for high-quality visual experiences, particularly in sci-fi and western genres. They appreciate restored films and express dissatisfaction with convoluted narratives and poor production quality."
+}

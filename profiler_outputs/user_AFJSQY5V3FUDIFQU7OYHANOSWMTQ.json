@@ -1,0 +1,76 @@
+{
+  "user_id": "AFJSQY5V3FUDIFQU7OYHANOSWMTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thought-provoking, drama",
+      "evidence": [
+        "\"Subject and performance makes a great movie. The movie is simply thought provoking.\"",
+        "\"They are indispensable. All put together, you get a mosaic about the true Amerikan than thousands of articles.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the story brings nothing what has not yet been said.\"",
+        "\"This is real entertainment, as one expect and receives from the Michigan Man.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Goes with a glass of good wine.\"",
+        "\"Excellent entertaining\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good Entertainment\"",
+        "\"The performance was excellent and you will like it if you like this genre of movies.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Gere good as always, the story brings nothing what has not yet been said.\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Refreshing mixed with a deeps sense of truth.\"",
+        "\"Sweet memories.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"brought tears\"",
+        "\"stayed with me\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys thought-provoking dramas that evoke strong emotions and resonate on a deeper level. They prefer slower-paced narratives and are less concerned with production quality, focusing more on the story and its themes."
+}

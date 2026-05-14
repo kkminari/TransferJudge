@@ -1,0 +1,77 @@
+{
+  "user_id": "AHKPNLA7X47VK4B4KPEDELRW4WGA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, mystery",
+      "evidence": [
+        "\"One of THE best shows ever made! If you want to laugh and cry...\"",
+        "\"A movie to make you laugh while you think - an excellent movie that you'll want to watch more than once!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Overrated and a bit weird - what am I missing? - it's worth the time if you can watch a movie that does not makes sense.\"",
+        "\"Broadchurch delivers - what a ride!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This program is truly binge-worthy - you can't stop watching!\"",
+        "\"Just keeps getting more intense with each season - truly the most 'Bingeworthy' show on television!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Heart pounding - excellent movie that exceeded my already high expectations!\"",
+        "\"Heartrendingly beautiful, this episode was note perfect.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"As an author of over thirty books, it's hard for me to not guess every plot twist and turn.\"",
+        "\"I LOVE everything about Crazy Heart!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"This is a brilliant movie that, like a well-worn hat, just gets better the more you wear/see it.\"",
+        "\"The world of the Vampires goes global, in this nail-biting season with a jaw-dropping ending.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A perfect goodbye... We, the viewers, share your pain.\"",
+        "\"This show is so beautifully acted, tightly written and EXCITING that you truly can't stop watching!!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and drama, enjoying fast-paced, binge-worthy content that evokes deep emotional responses. They value high production quality and are drawn to engaging narratives, though they show mixed feelings towards complex storylines."
+}

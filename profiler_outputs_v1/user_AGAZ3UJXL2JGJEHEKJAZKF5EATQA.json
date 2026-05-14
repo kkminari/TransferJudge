@@ -1,0 +1,72 @@
+{
+  "user_id": "AGAZ3UJXL2JGJEHEKJAZKF5EATQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"this show always puts me in a good mood\"",
+        "\"This movie was really well written, another gem from Aaron Sorkin.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Not as funny as I remember. Really there's only about 1 funny sketch per episode, not enough to justify owning it.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"So many laughs per minute, this show always puts me in a good mood.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I own a ton of Blu-ray's, and this is by far the cheapest/shoddiest packaging I've ever come across.\"",
+        "\"The quality is good. A good update to the original series.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Aaron Sorkin",
+      "evidence": [
+        "\"This movie was really well written, another gem from Aaron Sorkin.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "atmospheric music",
+      "evidence": [
+        "\"Outstanding interpretation with an excellent soundtrack to drive the drama.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Not as funny as I remember. Really there's only about 1 funny sketch per episode, not enough to justify owning it.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and dramas, particularly those with fast pacing and high production quality. They show a preference for works by Aaron Sorkin and appreciate atmospheric music, but their emotional engagement appears to be moderate."
+}

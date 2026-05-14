@@ -1,0 +1,77 @@
+{
+  "user_id": "AGMQJSNBAE5V3FJCUCCY46LTBM6Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action",
+      "evidence": [
+        "Love this and all Jane Austen stories!",
+        "Love Star Trek movies (I AM A TREKKIE)."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "Complex character who leads an unconventional life.",
+        "Terrific analysis of a cold blooded killer."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "If you're bored to tears while sitting awaiting jury duty, this movie will seem more entertaining than it actually is.",
+        "Best Rocky movie since Rocky!"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Excellent story and brilliant performance by Bryan Cranston.",
+        "Great movie and spectacular performances from two veteran actors!!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "Love Star Trek movies (I AM A TREKKIE).",
+        "Love this and all Jane Austen stories!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "Great for people who like watching gross stuff. That's me!",
+        "Spectacular performance from Dame Judy Dench."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Sad & terrifying. Should be mandatory viewing for new parents as a warning.",
+        "Love this movie and will watch it 1000 more times."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and action genres, with a strong appreciation for high-quality performances and storytelling. They have a notable loyalty to franchises like Star Trek and Jane Austen adaptations, and their reviews reflect a preference for emotional and sensory experiences in film."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFMF6AM7XP5MWM4HFG2ZYBACDLXQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "slasher, animation, action",
+      "evidence": [
+        "\"A personal favorite of mine in the 80s Slasher genre.\"",
+        "\"Watch one of the animated Justice League movies instead.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I still have no idea what the movie is about.\"",
+        "\"There are definitely worse slashers BUT there are way better.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"As a big action movie it is spectacular to watch.\"",
+        "\"So bad it was hilarious. I wish there were more episodes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I like this movie. Yeah there are plot holes as big as the grand canyon.\"",
+        "\"The only downside is that it doesn't feature the original Beatrix Potter illustrations.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I'm a huge Mike Hammer fan.\"",
+        "\"We love the power rangers at our house.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Some of the stunt work is just amazing.\"",
+        "\"The Blu-ray really brings out the color and the singing is pure greatness.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I wish Roy were still alive so I could hand write him a letter telling how much I love this movie.\"",
+        "\"So bad it was hilarious. I wish there were more episodes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys slasher films and animated content, often favoring fast-paced narratives. They show a preference for entertainment value over production quality, with a strong emotional connection to the content they love."
+}

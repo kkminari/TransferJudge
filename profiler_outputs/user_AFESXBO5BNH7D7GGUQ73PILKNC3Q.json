@@ -1,0 +1,77 @@
+{
+  "user_id": "AFESXBO5BNH7D7GGUQ73PILKNC3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama, comedy, romance",
+      "evidence": [
+        "\"I love the English mysteries. I have watched these several times.\"",
+        "\"I love Agatha Christie mysteries no matter who the start is. They are always fun, full of intrigue and bad people who get by for a while and then cleverly caught.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The mysteries aren't easy to figure out.\"",
+        "\"The plots are complicated but are always saved.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Covert Affairs keeps your interest and is fast paced.\"",
+        "\"It is exciting action and amusing at the same time.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The actors fit their roles and each adds a lot to the relationships and the story.\"",
+        "\"The writing and movie is quite intriguing.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for Agatha Christie and Denzel Washington",
+      "evidence": [
+        "\"I love Denzel.\"",
+        "\"I am a fan of Agatha Christie mysteries.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The cast seems real, not just acting.\"",
+        "\"It is scary, love story, comedy, good analogy of the different crimes.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I was watching it on TV, had to go do something else. Upset I missed the end, so I went on Amazon and bought it so I could watch it to the end.\"",
+        "\"I wish there were more episodes.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for mystery genres, particularly those involving Agatha Christie stories. They enjoy complex narratives with fast pacing and high production quality, often expressing emotional engagement with the content."
+}

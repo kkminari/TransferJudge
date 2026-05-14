@@ -1,0 +1,76 @@
+{
+  "user_id": "AGLKOQZI4GW5FSPFAEK4HK2G5PTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family",
+      "evidence": [
+        "\"great movie. fun for the family... fast shipping\"",
+        "\"Great for family TV time together. Always a terrific story.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Heart warming series that never lets you down!\"",
+        "\"The program speaks for itself. I love a great family movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Good acting. Took a long time to get to the point...\"",
+        "\"Great actors, but real slow start.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"entertaining!!\"",
+        "\"great shipping - movie ???\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Michael Landon",
+      "evidence": [
+        "\"Love Michael Landon's shows. FAST delivery.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "atmospheric",
+      "evidence": [
+        "\"you laugh, you cry and you come out actually with a lesson!\"",
+        "\"really cute video.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"you laugh, you cry and you come out actually with a lesson!\"",
+        "\"Heart warming series that never lets you down!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-oriented content, often enjoying heartwarming stories that evoke laughter and tears. They show some loyalty to Michael Landon's works and prefer simple narratives, although they have mixed feelings about pacing and production quality."
+}

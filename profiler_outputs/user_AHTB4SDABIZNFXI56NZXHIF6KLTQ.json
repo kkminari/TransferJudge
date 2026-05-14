@@ -1,0 +1,77 @@
+{
+  "user_id": "AHTB4SDABIZNFXI56NZXHIF6KLTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, comedy, family, drama",
+      "evidence": [
+        "I'm a huge horror movie fan & no one can deny that these 4 are true classics.",
+        "I remember owning this as a young kid & watching it innumerable times every year around Christmas."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Overall, it was not fantastic, I understand why it was cancelled, it’s your average teen-drama high school show with nothing overly special to offer.",
+        "The movie itself is creepy & disturbing, it’s raw & feels quite real."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "The performaces alone make at least one viewing worth your while.",
+        "The picture & sound quality is good, obviously not HD, but still good & fun to watch."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The quality is great, the sound, the picture, everything is awesome.",
+        "The DVDs: Good condition, ideally they'd be BluRay, however, that'd cost a lot more money."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I personally preferred the actors performances in the 1978 version, but again, that's just my opinion.",
+        "I love how all 4 DVDs fit in the 1 case, this saves a lot of room on my DVD shelf."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "The DVD: Works great, the menu is straight forward & easy to use.",
+        "The quality is great, the sound, the picture, everything is awesome."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I love this movie, it's fantastic, I've watched it so many times I've lost count.",
+        "It's a good movie for most people & it has some good messages."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of horror, comedy, and family genres, with a strong preference for high-quality productions. They appreciate fast-paced narratives and emotionally resonant stories, often reflecting on their childhood favorites."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHCN72EQRXDTS3YBOGGHD4BUMRTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, western, animation, noir, horror",
+      "evidence": [
+        "\"Early SiFi film that assisted in setting the SiFi standards to today.\"",
+        "\"One of the classic modernish westerns since those of the sixties.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Outlandish, in some cases, the stories in this edition but still seem to hold up.\"",
+        "\"The classic 'punch in the gut' story of a crazed criminal who has a serious problem with 'live and let live' philosophy.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Breathless Pace... On A Bus?\"",
+        "\"Very nice DVD that will certainly keep the viewer awake, and on the edge of their seat!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent movie of corporate 'juggling' at the top of the ladder. All star cast works well together with tight script and direction (Wise.)\"",
+        "\"A modern classic of animation to relate a contemporary philosophy of the time.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Basil Rathbone, Charles Laughton",
+      "evidence": [
+        "\"More of the Sherlock Holmes adventures put on the silver screen by the only real Holmes actor, Basil Rathbone.\"",
+        "\"Great cast, with a 'sideways' offering by the great Charles Laughton.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric storytelling",
+      "evidence": [
+        "\"The idea, special effects, and tight script in this bio-thriller works well today as it did back in the mid-sixties.\"",
+        "\"This movie has not lost a step to date.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The essential statement of futility with real danger mixed with the inability to confront it within the bounds of the law.\"",
+        "\"It is still refreshing to be scared out of your 'pants' (or dress) with a picture that doesn't have to use gallons of blood, knives, guns, hatchets, or monsters to keep you reeling with fear and anticipation.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi, westerns, and animation, appreciating both visual spectacle and high production quality. They enjoy fast-paced narratives with emotional depth, often resonating with classic storytelling and notable actors like Basil Rathbone and Charles Laughton."
+}

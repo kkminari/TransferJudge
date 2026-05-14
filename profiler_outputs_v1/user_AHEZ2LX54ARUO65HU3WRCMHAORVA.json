@@ -1,0 +1,77 @@
+{
+  "user_id": "AHEZ2LX54ARUO65HU3WRCMHAORVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "war, classic, horror",
+      "evidence": [
+        "\"Great film. Lots of underlying meaning of life and its social contradictions. Set during World War 2.\"",
+        "\"A new classic horror film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Great film. Lots of underlying meaning of life and its social contradictions.\"",
+        "\"It is entertaining if you are a Jason fan.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"but it was awfully painful to hang on during the whole film.\"",
+        "\"It is entertaining if you are a Jason fan.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"It is a entertaining movie. Worth a watch.\"",
+        "\"Great movie sets, uniforms, and all around feel of the Third Reich.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Ok, this is a film for the Tom Cruise fan or not.\"",
+        "\"If you are a Jason fan it is a horror flick to pass the time.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Great movie sets, uniforms, and all around feel of the Third Reich.\"",
+        "\"Her screams are legendary even before King Kong!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Great film. Lots of underlying meaning of life and its social contradictions.\"",
+        "\"In my opinion, this is one of the great flicks of the early 90s and is a classic for the history books.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for classic films, particularly those with war themes and horror elements. They appreciate visual spectacle and emotional depth, though their pacing and narrative complexity preferences are mixed, indicating a tolerance for both straightforward and more layered storytelling."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AHEQU6DZYEZMDMLZUEHUGM32QIYA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, action, holiday",
+      "evidence": [
+        "\"always our Christmas eve choice it is a Christmas movie after all\"",
+        "\"the grand kids and grandma to loved this show we like these kind of endings\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"this series is supurb\"",
+        "\"this story line kept me engaged through the entire pilot.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"the story line was riveting cannot wait for the next season!\"",
+        "\"great series to bad its over\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the graphics were stunning\"",
+        "\"super well done\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"the graphics were stunning\"",
+        "\"great movie Stratham is as good as it gets\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"the grand kids and grandma to loved this show we like these kind of endings\"",
+        "\"this story line kept me engaged through the entire pilot.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented and action-packed content, particularly during the holiday season. They appreciate high production quality and engaging storylines, favoring simple narratives that evoke strong emotional responses."
+}

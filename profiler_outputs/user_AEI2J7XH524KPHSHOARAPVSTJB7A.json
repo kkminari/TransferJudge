@@ -1,0 +1,77 @@
+{
+  "user_id": "AEI2J7XH524KPHSHOARAPVSTJB7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, comedy",
+      "evidence": [
+        "Overall the best series on TV for the last 20 years.",
+        "One of the funniest movies ever."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Funny and entertaining.",
+        "Laughed all the way through it."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "One of the funniest movies ever.",
+        "Laughed all the way through it."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "The quality is not the best and they admit it due to the age of the original material.",
+        "Quality of disk is a little sub par but they explained why."
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Dennis Hopper was really good.",
+        "I will probably watch it maybe once a year from now on."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Funny and entertaining.",
+        "Laughed all the way through it."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "I thought, how bad can it be?",
+        "It has The beautiful Autumn Reeser in it."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted fantasy and comedy, often appreciating humor and entertainment over narrative complexity. They show a low sensitivity to production quality and have mixed feelings about emotional engagement."
+}

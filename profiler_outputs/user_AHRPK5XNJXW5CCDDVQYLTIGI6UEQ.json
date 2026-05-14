@@ -1,0 +1,76 @@
+{
+  "user_id": "AHRPK5XNJXW5CCDDVQYLTIGI6UEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action",
+      "evidence": [
+        "\"Lots of action!\"",
+        "\"I enjoyed all three movies. It was very refreshing.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Not what I had expected. Too much of the same!\"",
+        "\"I liked it!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I enjoyed it, but it has too much shooting up.\"",
+        "\"Lots of action!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I liked it!\"",
+        "\"Great movie and well worth watching.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Great movie, Martin Short was awesome!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Awesome! Very funny...a great must see movie!\"",
+        "\"Great movie and I would like to give it more stars!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Awsome and it made me feel better knowing what is waiting for me at the other side....as long as I trust and believe in the Lord.\"",
+        "\"I loved it!!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for action-oriented films with fast pacing and a simple narrative style. They express high emotional resonance with content that provides uplifting messages, though they are less concerned with production quality and brand loyalty."
+}

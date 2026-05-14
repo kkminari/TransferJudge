@@ -1,0 +1,77 @@
+{
+  "user_id": "AGY4TTEXS4A3MZVTGKZT4OVAAGJQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama, comedy",
+      "evidence": [
+        "\"Errol Morris does it again as this documentary is really something to see.\"",
+        "\"This show is awesome. Not for everyone but I found it very entertaining and it has some awesome actors.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Curtis Hanson is able to weaver a complex issue into a compelling drama.\"",
+        "\"While this could have been a little shorter it was a solid movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The pace of the dialogue is breakneck and is really impressive.\"",
+        "\"This was very cool. Compelling, interesting and with enough story lines to fill a Toyota Tundra.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great cast and great job consolidating the story for the big screen.\"",
+        "\"Idris Elba plays a great character.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Happy to report Ridley did a fine job.\"",
+        "\"While I am big fan of Pearlman I just can't give this show a vote of confidence.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This series was amazing. A great look at three of this countries most influential people.\"",
+        "\"It's all about the characters and this one looks like it has some potential.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This should be required viewing in every high school history class.\"",
+        "\"I felt a little cheated on it too.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex narratives and high-quality productions, particularly in documentaries and dramas. They appreciate fast pacing and strong character development, indicating a preference for engaging and emotionally resonant content."
+}

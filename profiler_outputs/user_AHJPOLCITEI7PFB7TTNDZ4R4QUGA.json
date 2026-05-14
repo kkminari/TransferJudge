@@ -1,0 +1,77 @@
+{
+  "user_id": "AHJPOLCITEI7PFB7TTNDZ4R4QUGA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, superhero",
+      "evidence": [
+        "\"Pretty funny for being a super hero movie.\"",
+        "\"Sandler and Wayans were hilarious and play perfectly off each other!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Funnier than I thought it would be.\"",
+        "\"Kids loved it!!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Love these Flicks!!\"",
+        "\"Was easily as good as any other Bill and Teds.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Greatest TV Show in a long time!!\"",
+        "\"Blast from the Past!!  Loved it!!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"The South Park guys always entertain!!\"",
+        "\"Kids loved it!!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Greatest TV show in a long time!!\"",
+        "\"Absolute Classic!!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"My daughter loves this!!\"",
+        "\"As good as the original.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and family-oriented superhero movies, often enjoying light-hearted and fast-paced narratives. They value emotional connections, especially with family, and show a tendency to appreciate simple storytelling without a strong focus on production quality."
+}

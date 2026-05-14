@@ -1,0 +1,77 @@
+{
+  "user_id": "AGK57MCLBL7WCPLBP4WNCCCISSZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, horror, family",
+      "evidence": [
+        "\"It's captivating, exciting, funny, warm and heart warming.\"",
+        "\"If you liked Muriel's Wedding then you will [probably] like this movie; if you like stories about dysfunctional Australian families, then you will [most likely] LOVE this movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Though, a bit predictable, it still draws you in and you can't stop watching.\"",
+        "\"It's quite typical of most disaster programs, but it has its moments...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It's captivating, exciting, funny, warm and heart warming.\"",
+        "\"This series is kick-@$$. I love it; but, don't watch it alone !!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Great cast, excellence story telling.\"",
+        "\"This movie is not so much scary as it is thrilling and I love watching it every Halloween right before The Pit & The Pendulum.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If you liked Twilight Zone, Night Gallery, Tales From The Crypt etc... Then you'll probably love this.\"",
+        "\"I have loved this show since the very first one!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"It's visual spectacle is much more vibrant with the cast and sets dressed and draped in much more color...\"",
+        "\"Funny, funny, funny!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Makes me weep every time.\"",
+        "\"It's absolutely criminal that it is only available on VHS.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of comedy, drama, and horror, with a strong preference for fast-paced and engaging narratives. They appreciate visual spectacle and emotional depth in storytelling, while showing some sensitivity to production quality."
+}

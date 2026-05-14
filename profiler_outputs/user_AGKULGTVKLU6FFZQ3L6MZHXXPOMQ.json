@@ -1,0 +1,77 @@
+{
+  "user_id": "AGKULGTVKLU6FFZQ3L6MZHXXPOMQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"Breaking Bad\" is the most powerful series I've ever seen.",
+        "Kelsey Grammer, is one of the funniest actors I've seen in a long time."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "Walter White is a fun loving father at first, and later becomes a ruthless killer.",
+        "This was such a moving series, I wish he had done another season or two."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Every episode keeps you in your seat, and you never know what to expect.",
+        "I couldn't stop it was that good, and I was totally hooked on the series."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The acting was phenomenal, and all the characters were so believable.",
+        "Mark Harmon is on a roll again, all the characters in this series, are flawless."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "I enjoy it more when there are no more commercials.",
+        "I've always liked Paul Newman, and there are not too many movies he has been in that I haven't liked."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "This was such a moving series.",
+        "If you're looking for a fun filled movie for you and your family, I would recommend this as the one to watch."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "This is the final segment of Breaking Bad, and made this the most powerful series I've ever seen.",
+        "This was such a moving series, I wish he had done another season or two."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and comedy genres, particularly enjoying complex narratives with fast pacing. They value high production quality and have a notable loyalty to specific actors and series, often seeking emotional resonance in their viewing experiences."
+}

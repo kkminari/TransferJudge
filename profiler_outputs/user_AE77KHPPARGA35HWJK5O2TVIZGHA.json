@@ -1,0 +1,77 @@
+{
+  "user_id": "AE77KHPPARGA35HWJK5O2TVIZGHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, psychological, art-house",
+      "evidence": [
+        "\"I generally like depressing movies!\"",
+        "\"It's a devastating 'portrait of the artist as a young man.'\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"It's possible that Ironweed the Pulitzer Prize-winning novel was unfilmable.\"",
+        "\"The film is comprised of focused sequences, punctuated by close-ups of each of the four women that dissolve into blood red as the 'cries and whispers' of their psyches haunt the soundtrack.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This is an unrelentingly bleak and slow 2 1/2-hour film.\"",
+        "\"It's a very basic video with less than ideal production values.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I wanted to see the performances AND the artistry of cinematographer Sven Nykvist--which is ruined in this cropped version.\"",
+        "\"All of the performances are outstanding, as is the design, cinematography and script--and it's rare these days to see such mature, nuanced and intelligent filmmaking.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high to Ingmar Bergman",
+      "evidence": [
+        "\"For Bergman devotees like me, any morsel tossed our way by the great master is a treat.\"",
+        "\"Bergman is reacting to many things here--including his and his nation's own mixed feelings of neutrality and complicity during WWII.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"You leave this film feeling you've been taken somewhere you've never been before.\"",
+        "\"It's Ullmann's performance that overcomes the contrivance.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It literally changed my life.\"",
+        "\"I was moved to tears in the epilogue when Marianne reveals that following her time with Johann and his family, she truly touched her institutionalized daughter for the first time.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex, character-driven dramas, particularly those by Ingmar Bergman. They value high production quality and emotional depth, often seeking films that evoke strong feelings and introspection."
+}

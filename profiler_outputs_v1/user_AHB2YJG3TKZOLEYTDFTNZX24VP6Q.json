@@ -1,0 +1,77 @@
+{
+  "user_id": "AHB2YJG3TKZOLEYTDFTNZX24VP6Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, sci-fi, drama, comedy",
+      "evidence": [
+        "\"the relationship of hate to love is so poetic\"",
+        "\"I love this movie, is my kind of movie, all sci-fi all the way\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I just love that duo forever!\"",
+        "\"It was a little bit weird to see this type of movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This movie is very passionate, even though is about a girl finding out what she wants\"",
+        "\"Great movie to watch alone as much with friends/family.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I love Angelina Jolie\"",
+        "\"I just love that duo forever!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Zac Efron, Tim Burton, Johnny Depp",
+      "evidence": [
+        "\"I fell in love with Zac Efron\"",
+        "\"In any movie that Johnny Depp is in.. will always be amazing\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, emotional depth",
+      "evidence": [
+        "\"It blew my mind!\"",
+        "\"The movie was very moving.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It does gives you so many perspectives about how society and government wants to control you.\"",
+        "\"I can relate a little bit with her, but instead him declaring to her, is the other way around.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for romantic and sci-fi genres, often enjoying films with emotional depth and visual spectacle. They show loyalty to specific actors and directors, particularly Zac Efron and Tim Burton, and appreciate fast-paced narratives that evoke strong feelings."
+}

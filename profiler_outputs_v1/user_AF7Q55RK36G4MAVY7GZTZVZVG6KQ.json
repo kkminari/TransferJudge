@@ -1,0 +1,77 @@
+{
+  "user_id": "AF7Q55RK36G4MAVY7GZTZVZVG6KQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "law enforcement, drama, sci-fi",
+      "evidence": [
+        "\"Best Cop Show Ever\"",
+        "\"Great sci-fi classic\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Four guys get into a bad situation that just keeps getting worse every episode.\"",
+        "\"The bad guys seem to have won, but then there really aren't any good guys in this patch of Royal history.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I hate it when I find myself rooting for the bad guys. In spite of that this is a good series.\"",
+        "\"I generally don't watch Cop Shows. I have watched this show on the network for years, and have enjoyed watching it again on Amazon Prime.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is good and the characters are interesting.\"",
+        "\"The characters and special effects are great. You can almost believe they are real.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I generally avoid FBI shows, this one is good, perhaps because it bears little resemblance to the real FBI.\"",
+        "\"I avoided this series for a long time, but was looking for something with a lot of episodes available on Prime.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Listening to the complex symphonic theme music at the beginning and end of each episode almost makes watching an episode worthwhile.\"",
+        "\"The characters and special effects are great. You can almost believe they are real.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "mixed",
+      "evidence": [
+        "\"The family dynamic is very touching.\"",
+        "\"Can't bring myself to identify with gun running murderers no matter how well they paint them.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys law enforcement dramas and sci-fi series, often appreciating strong character development and production quality. They prefer fast-paced narratives but have mixed feelings about emotional engagement, indicating a focus on entertainment over deep emotional connections."
+}

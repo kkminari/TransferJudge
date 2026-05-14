@@ -1,0 +1,77 @@
+{
+  "user_id": "AHCG4X6RS3XCJVJJ5JBAGWDTIQ3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, thriller",
+      "evidence": [
+        "Great movie. Science fiction and a love story...Perfect",
+        "Another great movie with Denzel. He makes his part very believable. The story was interesting and thrilling."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "What can I say Denzel does it again! Great movie but could be difficult to follow if you do not pay attention.",
+        "I had a hard time following this movie. It was very interesting and in other parts very disturbing."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Great movie! The story was serious, yet funny and the cast was amazing.",
+        "Great movie! So funny and Alec Baldwin is at his best."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Another Christopher Nolan masterpiece!",
+        "Great movie! The story was serious, yet funny and the cast was amazing."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Christopher Nolan, Denzel Washington",
+      "evidence": [
+        "Another Christopher Nolan masterpiece!",
+        "What can I say Denzel does it again!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Great story about what happened to a local girl in a rural town. Great cast. The movie is both exciting and sad.",
+        "A great documentary about addiction and the stigma that still surrounds addiction and recovering addicts."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Great movie! The story was serious, yet funny and the cast was amazing.",
+        "A great documentary about addiction and the stigma that still surrounds addiction and recovering addicts."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for complex narratives, particularly in the sci-fi and thriller genres, often appreciating high-quality production and strong performances from notable actors like Christopher Nolan and Denzel Washington. They value emotional resonance and enjoy stories that evoke deep feelings, indicating a taste for both engaging plots and character-driven storytelling."
+}

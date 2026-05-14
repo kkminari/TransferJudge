@@ -1,0 +1,77 @@
+{
+  "user_id": "AHFPI35UYLZN2PCDGBZZ7EQ6GUNA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, classic, documentary, thriller",
+      "evidence": [
+        "\"If you like the old B/W sci-fi movies of yester-year, then you'll love this collection of sci-fi classics!\"",
+        "\"One of the best thrillers ever made, this classic is a must for any movie collector.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"If you like a great story line and fantastic fight scenes, then this is the movie to watch!\"",
+        "\"This dvd covers actual crime scene investigations and lets the viewer decide at the end, who committed the crime before showing you who actually committed the crime.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The main character fights his way to the top of a gang infested apartment complex while delivering some of the most fantastic fight scenes I have seen in a long time!\"",
+        "\"Great classic movie. The classic duel at the end between the devils guitarist 'Steve Vai' and the kid is priceless!!!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"If your not sure what women want from a man or relationship, then this dvd is a must see! Real-world, in your face interviews with real people, giving real talk!!!\"",
+        "\"This is a great training tool to introduce your students to the various careers available to them in Public Safety.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific directors or actors mentioned.",
+        "No franchises or series mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"If you like a great story line and fantastic fight scenes, then this is the movie to watch!\"",
+        "\"The classic duel at the end between the devils guitarist 'Steve Vai' and the kid is priceless!!!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Old B/W documentary. Not what I expected\"",
+        "\"Wasn't quite what I expected. This is an old film on crime scene investigation and fingerprint detection in (looks like the Phillipines or Malaysia). Was expecting something more current.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys classic and sci-fi genres, particularly appreciating fast-paced narratives with engaging fight scenes. They show a preference for straightforward storytelling and are less concerned with production quality, focusing more on real-world themes and training content."
+}

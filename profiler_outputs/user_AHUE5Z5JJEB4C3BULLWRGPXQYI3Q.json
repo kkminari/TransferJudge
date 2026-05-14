@@ -1,0 +1,77 @@
+{
+  "user_id": "AHUE5Z5JJEB4C3BULLWRGPXQYI3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, romance, drama",
+      "evidence": [
+        "\"This is British humour at one of its best.\"",
+        "\"This is a good film to watch on Valentine's Day or if you are ever in the mood for a good romantic comedy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The storyline is pretty standard (overweight, pessimistic girl think she can't find love - but runs into the man of her dreams)\"",
+        "\"The plot was original and it could have had the potential at becoming a real classic, amusing film, however the hysteria overshadowed the entertainment value of it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The movie has a few funny moments, however it's very cheezy. Truly a disappointment.\"",
+        "\"There was too much predictable shrieking, screaming, and yelling that it just got annoying after awhile.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"It was so refreshing to watch a movie that didn't seem like it came straight from the same old Hollywood recycling bin.\"",
+        "\"The movie is composed of eight dreams, however it flows very nicely, so there is never a sense of hesitation between each of the transitions.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I would not see this movie, but if you must see it, do yourself a favor and rent it first.\"",
+        "\"If you enjoy this film, be sure to check out the rest of the series.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Beautifully (and amazingly!) shot, you will feel like you are flying with the birds in this film.\"",
+        "\"It really makes you use your imagination and look deeper into the storyline, rather than just the obvious.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is a very powerful, moving film.\"",
+        "\"It will not only inspire you but teach you about a culture that is not often talked about.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and romantic films, often appreciating quality production and emotional depth. They tend to prefer straightforward narratives and slower pacing, while showing some skepticism towards brand loyalty in film. Overall, they value films that evoke strong feelings and offer a unique perspective."
+}

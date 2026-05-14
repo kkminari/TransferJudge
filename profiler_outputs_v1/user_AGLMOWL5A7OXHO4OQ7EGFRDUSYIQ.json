@@ -1,0 +1,77 @@
+{
+  "user_id": "AGLMOWL5A7OXHO4OQ7EGFRDUSYIQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"I love this show! I cannot with for each episode to come out.\"",
+        "\"Debra Messing is an awesome actress and Joe Montegna (spelling?) is great.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This was an excellent movie. It was interesting, kept your attention and told a story.\"",
+        "\"I love this show! I cannot with for each episode to come out.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Kept you interested throughout, great ending.\"",
+        "\"This was a fantastic movie. Kept you interested all the way through.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Interesting story lines. Looking forward to watching the full season.\"",
+        "\"I love this show! I cannot with for each episode to come out.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Ryan Reynolds, Debra Messing",
+      "evidence": [
+        "\"Love Ryan Reynolds and he did not disappointed.\"",
+        "\"Debra Messing is an awesome actress and Joe Montegna (spelling?) is great.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, engaging",
+      "evidence": [
+        "\"I love the story line and each episode brings something new and exciting.\"",
+        "\"This was a fantastic movie. Kept you interested all the way through.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Valuable life lesson.\"",
+        "\"I am so addicted to the Walking Dead.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for engaging dramas and comedies, particularly enjoying works featuring Ryan Reynolds and Debra Messing. They appreciate fast-paced narratives that keep them interested, with a high emotional impact and resonance."
+}

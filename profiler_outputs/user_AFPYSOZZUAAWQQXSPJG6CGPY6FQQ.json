@@ -1,0 +1,77 @@
+{
+  "user_id": "AFPYSOZZUAAWQQXSPJG6CGPY6FQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, horror, family-friendly",
+      "evidence": [
+        "\"Stark and emotional. Chonda shares about her great loss with humor and dignity.\"",
+        "\"The action is good. It's family friendly. BIG plus for that.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Except for the constant backtracking on the story line and all the recaps, it's an enjoyable show.\"",
+        "\"I just got really interested in this story line and now find that the series was not continued.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I hate he's such a lonely person. Still wish he didn't cry so much.\"",
+        "\"The focus of the show has shifted from fighting the dead, though that is still a big emphasis.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Great story line; actors are believable. I like the chemistry between Raylen and Boyd.\"",
+        "\"While some of the acting is a bit cheesy, and you can hear the canned sound from the studio voiceovers, it still manages to be one of the scariest movies I've ever watched.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"JJ Abrams has some fantastic ideas.\"",
+        "\"I really thought after sitting through two seasons of The Walking Dead that this movie would not have a strong effect on me.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Stark and emotional. Chonda shares about her great loss with humor and dignity.\"",
+        "\"It's great to learn where these folks started out... This is the only show on tv that I watch regularly.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Stark and emotional. Chonda shares about her great loss with humor and dignity.\"",
+        "\"I Had to Turn it Off... I wasn't sure I could turn it back on.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys emotionally resonant dramas and family-friendly content, often appreciating character-driven narratives. They show a preference for simple storytelling with a focus on relationships, while being sensitive to the emotional impact of the content."
+}

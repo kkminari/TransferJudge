@@ -1,0 +1,74 @@
+{
+  "user_id": "AEVLO2M3BEQJKEUYBWSWLSIGOLDQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, feel-good",
+      "evidence": [
+        "\"Good story about 3 Dutch children that are impacted by those whose families are in the resistance vs those whose families collaborated with the Nazis.\"",
+        "\"Funny, feel-good, heart-warming Christmas story\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The story is complex enough to keep you interested.\"",
+        "\"I like the show because it explores issues from various viewpoints that show how there are often not clear cut lines between right and wrong.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"However, somehow the characters were so one-dimensional it just felt like we were rushed to the ending.\"",
+        "\"The likable characters all seem damaged in different ways making it interesting how they work together to achieve their goal.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Well-told and well acted.\"",
+        "\"It is a well written script and this memorable film is a pleasure to both view and to listen.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Gorgeous setting and definitely faith-based but not preachy.\"",
+        "\"Beautiful film about the lives of the people who played this violin.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Heart-warming\"",
+        "\"Extremely interesting as the stories depict overzealous lawyers... Shows how personal issues get in the way of doing the right thing more often than not.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex, well-written dramas with strong emotional resonance and high production quality. They appreciate stories that explore deep themes and character development, often with a feel-good or heartwarming element."
+}

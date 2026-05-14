@@ -1,0 +1,76 @@
+{
+  "user_id": "AFEZTSMQKO5QMQEOLRROS3UF4NZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical",
+      "evidence": [
+        "\"what a great 'old movie'. wonderful acting with a wonderful story.\"",
+        "\"An interesting story about what happened in the United States during World War 2 in regard to the Holocaust...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"cute show. will continue to watch.\"",
+        "\"It was a fun movie to watch on my kindle on a flight. Very entertaining.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Good story about families that intersect. Involves bullying so very timely.\"",
+        "\"I really like it. Great acting, interesting story, intrigue, kept my interest the whole time.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the acting is absolutely fantastic. Every character is great.\"",
+        "\"wonderful acting with a wonderful story.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I liked this movie and really wanted to see it since it's a true story & I like the cast.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I have not been able to stop thinking about it since I saw it days ago!\"",
+        "\"What a great thing to have! Anyway, very enjoyable to watch.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It's a wonderful, but sad story. I have not been able to stop thinking about it since I saw it days ago!\"",
+        "\"I really enjoyed it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for drama and historical narratives, often appreciating the quality of acting and storytelling. They tend to favor slower-paced, emotionally resonant films that leave a lasting impact."
+}

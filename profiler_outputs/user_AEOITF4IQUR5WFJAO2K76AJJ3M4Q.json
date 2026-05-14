@@ -1,0 +1,77 @@
+{
+  "user_id": "AEOITF4IQUR5WFJAO2K76AJJ3M4Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "biographical, documentary, drama",
+      "evidence": [
+        "\"Incredibly inspiring story about a woman who has clearly made her mark in our country.\"",
+        "\"Thank you, Amazon, for bringing us this terrific documentary of a REAL person who broke the barriers to get his message across.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The first episode I watched, my head was reeling with all the 'time warp' flashbacks.\"",
+        "\"The writing and plot are quite unique - very imaginative.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Exhausting! Very sad, full of turmoil, guilt, regret.\"",
+        "\"Kept us on the edge of our seats at home.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent acting/directing. A story that all our teens should be encouraged to watch.\"",
+        "\"The direction is flawless, the acting is superb, and the message is loud and clear.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"My hat's off to her. And Nicole Kidman!\"",
+        "\"George Clooney's direction was marvelous.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This is one of the most beautiful and touching movies I've seen in a while.\"",
+        "\"A tremendous and powerful portrayal of a politician trampling over civil rights and constitutional rights.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It truly is amazing that he was able to control his addictions and found love and happiness at last.\"",
+        "\"A real story of courage, bravery, and survival instincts.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for biographical and documentary genres, appreciating complex narratives and high production quality. They value emotional resonance in storytelling and have a mixed response to pacing, indicating a preference for engaging and thought-provoking content."
+}

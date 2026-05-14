@@ -1,0 +1,74 @@
+{
+  "user_id": "AE632AJHIPORLCAIOHNEIV4XSY5A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, historical, romantic, thriller",
+      "evidence": [
+        "\"It's nice to have a show we can watch together...\"",
+        "\"If you like a good, creepy ghost story, this one is hard to beat.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Not Oscar-quality production, but not meant to be (and still good production values for TV).\"",
+        "\"The story was just too much a hodge podge of other movies' story lines.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The pacing and building of tension kept me on the edge of my seat in many scenes.\"",
+        "\"This one was too busy with plot lines and spectacle.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Not Oscar-quality production, but not meant to be (and still good production values for TV).\"",
+        "\"While the production values on some of the scenes... can be almost laughable sometimes...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I found myself thinking about the movie and the general 'feel' it gave me afterwards...\"",
+        "\"The characters are fun to get to know and follow.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"The lessons are based on good, universal values.\"",
+        "\"I began to not really care about his life.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and historical narratives with a preference for simple storytelling and mixed pacing. They appreciate emotional and atmospheric experiences but show low loyalty to specific creators or brands."
+}

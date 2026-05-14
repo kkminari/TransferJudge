@@ -1,0 +1,77 @@
+{
+  "user_id": "AFZTSUP6ZWVZSY7OHAGXGEVGRYHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, drama, thriller",
+      "evidence": [
+        "\"I thought this was a horror movie (which I like)\"",
+        "\"I'm a horror fan from way back\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"it's deeper than that. A very good story, well acted, deep.\"",
+        "\"The writing and story are captivating.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The action was suspenseful and emotional...some of it was gut wrenching and difficult to watch.\"",
+        "\"I was really interested to see where this story was going.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"A good plot, well acted (relatable and likable characters) great effects.\"",
+        "\"For an independent film, the production value was good.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"My husband and I are big Coen brothers fans.\"",
+        "\"I love Michael Connelly books and I loved this pilot.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This movie made you come as close to feeling - through a film - what it feels like to be completely at another's mercy...\"",
+        "\"The situations that occur have caused lots of debate and commentary in our house.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie was painful for me because of my experience and enforced how strong people are that face these situations.\"",
+        "\"The horror in this movie is horrific because this is real stuff that could happen.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror, drama, and thriller genres, appreciating complex narratives and high production quality. They value emotional resonance in films, often reflecting on personal experiences, and enjoy fast-paced storytelling that captivates their attention."
+}

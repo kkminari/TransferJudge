@@ -1,0 +1,76 @@
+{
+  "user_id": "AH4LQA6NGNTNCZAXI5URJUXWCFWA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy",
+      "evidence": [
+        "\"Great action-packed movie, very convincing!\"",
+        "\"This is one of the funniest TV Series I have ever seen!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great action-packed, meaningful storie with a message!\"",
+        "\"All around good entertainment! Good job!!!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great action-packed movie, very convincing!\"",
+        "\"the movie is also very well paced.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the directing, and the production is perfect!\"",
+        "\"Has plenty of extra features which I like, and movie is also very well paced.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Victor Salva",
+      "evidence": [
+        "\"I hope that Victor can overcome this set-back and continue to make great movies like this.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Great action-packed movie, very convincing!\"",
+        "\"Great service! Great movie, and Special Features too!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"brings back memories of my College Days, and how wonderful those times were.\"",
+        "\"This brings back such GREAT memories!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and comedy genres, enjoying fast-paced and visually engaging films. They appreciate high production quality and have a fondness for nostalgic content that evokes memories."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHDBE5Z3G7B4T2YSHMHOYSVG3QMQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, thriller, spy",
+      "evidence": [
+        "Cold War spy thrillers always make for an evening of viewing enjoyment.",
+        "This Seagal movie takes you back 30 years when Seagal was young and thinner."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The story on this one was excellent and I loved the other actors in it.",
+        "Great movie."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Statham was so convincing as the mechanic and the story was superior.",
+        "Seagal was fantastic in it and his co-stars were exceptional for unknown actors."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Actors were quality and as always, Statham kept you glued to the show.",
+        "Michael Caine and Pierce Brosnan together in a Cold War spy thriller was just too good to be true."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for specific actors (Statham, Van Damme, Seagal)",
+      "evidence": [
+        "Another fantastic Van Damme movie for my collection.",
+        "This Seagal movie takes you back 30 years when Seagal was young and thinner."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "Statham was so convincing as the mechanic and the story was superior.",
+        "Seagal was fantastic in it and his co-stars were exceptional for unknown actors."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "I have watched it five times since purchasing it.",
+        "Read the book when I was in the 7th Grade and have loved this movie for many years."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and thriller genres, particularly enjoying films featuring actors like Statham, Van Damme, and Seagal. They appreciate high production quality and fast pacing, indicating a taste for engaging and entertaining narratives."
+}

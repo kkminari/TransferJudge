@@ -1,0 +1,77 @@
+{
+  "user_id": "AHLLZYOVY6FS4DVX34IKNUMOZ6VA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"Funny..Not Predictable..Great ending..\"",
+        "\"One of my favorite Movies!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Just ok\"",
+        "\"Found it Boring..\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It was a little slow but worth watching.\"",
+        "\"Hard to follow..Slow..\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great!! Storyline and Acting..\"",
+        "\"Well made but don’t like the music etc.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Usually Love Coen Bros stuff..\"",
+        "\"Big Brian fan..\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual details",
+      "evidence": [
+        "\"The colorized version, So much Better!!\"",
+        "\"The amazing wardrobes that the characters wear etc.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"Luv this Movie.. I've seen it several times.. Always Entertaining!!\"",
+        "\"One of my fav movies..<br />Really funny\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and dramas, often appreciating humor and engaging storylines. They have mixed feelings about pacing and narrative complexity, indicating a preference for straightforward storytelling but can tolerate some slower narratives. Visual details and emotional engagement are important, though they show low brand loyalty to specific creators."
+}

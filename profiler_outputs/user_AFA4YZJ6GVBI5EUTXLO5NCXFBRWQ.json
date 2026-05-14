@@ -1,0 +1,77 @@
+{
+  "user_id": "AFA4YZJ6GVBI5EUTXLO5NCXFBRWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, fantasy, family, animation",
+      "evidence": [
+        "pure indulgence in bad Sci-Fi and fantasy with no particular solid foundation.",
+        "I absolutely love this movie! As a child of the 80's and 90's I saw my childhood flash by in this movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "There's nothing too complicated to comprehend, just one scene poorly connected to the next.",
+        "The story itself is pretty good, Eddie Murphy does a great job of portraying a distressed character."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "The characters were incredibly well developed, but still true to their original 'programmed' purpose.",
+        "I left this movie wanting more."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "it didn't have a huge budget, but the director made up for the lack of budget with quality work and an artistic approach.",
+        "The acting was great, if Tron Legacy didn't do it for me already now I really have the hots for Olivia Wilde."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Dreamworks generally doesn't make bad cartoons as far as I can tell.",
+        "I don't care if you hated the original Planet of the Apes movie series."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I consider this a genuine nerd flick, not because it's nerdy, but because it portrays nerds with all their shortfalls in a positive light.",
+        "The humor was very intelligent - only Kevin Smith rivals this movies ability to make proper use of a running gags."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I left this movie wanting more.",
+        "I can't emphasize enough how much this movie portrays the main character Flint Lockwood as a genuine realistic geek/nerd/dork."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly sci-fi and family-oriented films, often appreciating simple narratives with fast pacing. They value emotional resonance and character development, while showing moderate sensitivity to production quality and low brand loyalty."
+}

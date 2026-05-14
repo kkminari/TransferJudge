@@ -1,0 +1,77 @@
+{
+  "user_id": "AHNENTAZHUAYNA4CEA3JL6VNHBWA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, musical",
+      "evidence": [
+        "\"Best cult classic ever... Great Music...an 80s 'musical'\"",
+        "\"This is a touching movie that depicts that probable reality of the time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Kind of predictable...It was okay...\"",
+        "\"Predictible, and not really one of Bill's best...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This is a touching movie that depicts that probable reality of the time.\"",
+        "\"I thought it was a good movie and gave alot of background perspective on Tonya's life...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting was really solid, the subject matter compelling.\"",
+        "\"Christian Bale and his acting is always amazing!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"If you are a 'Bale Head', you can see where his excellence as actor really began.\"",
+        "\"Whether you loved her as Carmella Soprano, or Nurse Jackie...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It's like the original Pride and Prejudice exponential...\"",
+        "\"The styles, fashion, are beautiful.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is a touching movie that depicts that probable reality of the time.\"",
+        "\"Loved it!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama, comedy, and musicals, often appreciating strong performances and emotional depth. They prefer slower-paced narratives that provide background and character development, while also valuing high production quality."
+}

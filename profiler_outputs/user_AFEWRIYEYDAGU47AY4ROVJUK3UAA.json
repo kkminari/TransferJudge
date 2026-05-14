@@ -1,0 +1,77 @@
+{
+  "user_id": "AFEWRIYEYDAGU47AY4ROVJUK3UAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical drama, romance",
+      "evidence": [
+        "\"Felicity: An American Girl Adventure\" is wonderful filmmaking, sure to capture the attention of anyone who appreciates historical drama with a human touch.",
+        "\"Certified Copy\" is true to life, from first frame to last."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The story of \"Hugo\" is rather predictable and only mildly intriguing.",
+        "The script (by Colin Wellan and Walter Bernstein) is inferior in every way, with a predictable story and far too many stereotypes for my liking."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Certified Copy\" is never that easy. It is unpredictable and will keep you guessing.",
+        "\"ROMANTICS ANONYMOUS is a quiet gem - - a joy to be savored throughout nearly all of its brief 79-minute span."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the acting, script, staging, photography... superb such wholesome, inspiring films can be when in the hands of producers who really care.",
+        "the direction is fluent but not overdone, cinematography is attractive, and acting is uniformly strong throughout the cast."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I am unfamiliar with the series of \"American Girl\" books, so I viewed this film strictly on its own merits.",
+        "I wanted to like \"Saboteur,\" but it fails to deliver the goods."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "What dazzling impact will next make itself be felt? Watch \"Hugo\" and be prepared for an amazing journey.",
+        "the look of authenticity, for the viewer becomes a witness to the filmmaker's travelogue."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I genuinely felt for these characters - even bringing tears to the eyes.",
+        "I liked this film quite a lot for its sensitive depiction of the vulnerability of love."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for historical dramas and romance films, appreciating high production quality and emotional depth. They tend to favor slower-paced narratives that evoke strong feelings, though they show less loyalty to specific creators or franchises."
+}

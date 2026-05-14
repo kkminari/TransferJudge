@@ -1,0 +1,77 @@
+{
+  "user_id": "AEDAJZT7P2FPOG4WZO7SOIVDLJRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, police stories",
+      "evidence": [
+        "If you enjoy gritty, adult police stories, you gotta watch this show.",
+        "Worth watching if you enjoy stories of gritty police work."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "The plots are interesting and well written.",
+        "The absence of any good guys on this series should not deter you from watching the series."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Sappy but with enough action to make stay with it.",
+        "Starts off with you disliking the main character but you kinda learn to like him in a morally incorrect way."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Fairly well written and well acted.",
+        "The quality of the video improved vastly as HD became the norm."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Will watch a few more episodes, then decide.",
+        "Hope you can produce another season that is as good."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "The use of language is nothing short of addictive.",
+        "The subjects are interesting and covered in depth."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "mixed",
+      "evidence": [
+        "Be careful what you wish for.",
+        "A keeper. Hope you can produce another season that is as good."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys gritty police dramas with well-developed characters and interesting plots. They appreciate high production quality and have a mixed response to narrative complexity and pacing, indicating a nuanced taste in storytelling."
+}

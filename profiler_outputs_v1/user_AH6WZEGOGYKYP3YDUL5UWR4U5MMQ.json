@@ -1,0 +1,77 @@
+{
+  "user_id": "AH6WZEGOGYKYP3YDUL5UWR4U5MMQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, royal family, love stories",
+      "evidence": [
+        "\"I enjoy stories of the Royal Family\"",
+        "\"Kinda sad but sweet love story\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good series\"",
+        "\"Great family show\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Kinda sad but sweet love story\"",
+        "\"Love this show\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good show\"",
+        "\"Love this show\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"One of my favs...\"",
+        "\"Best show on tv then and now\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "emotional, family-oriented",
+      "evidence": [
+        "\"Very moving. True stories from Fallen Soldiers.\"",
+        "\"Great show..family values\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Very moving. True stories from Fallen Soldiers.\"",
+        "\"Love this show\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented stories, particularly those involving love and emotional themes. They prefer simple narratives with a slower pace and show a strong emotional resonance with the content they watch."
+}

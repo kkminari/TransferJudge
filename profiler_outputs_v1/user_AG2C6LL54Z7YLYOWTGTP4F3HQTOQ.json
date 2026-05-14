@@ -1,0 +1,77 @@
+{
+  "user_id": "AG2C6LL54Z7YLYOWTGTP4F3HQTOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "dislike for low-quality releases, appreciation for nature documentaries and horror",
+      "evidence": [
+        "What a lame excuse of a release. Who needed or asked for this?",
+        "It's not just the best nature film cinematography it's probably the best in the history of cinema."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Basically nothing happens for not much more than an hour and then just when you are all ready for something to happen the credits roll and it's over and nothing ever happened.",
+        "It pretends to smart but simply being somber and down... doesn't make something intelligent."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Basically nothing happens for not much more than an hour and then just when you are all ready for something to happen the credits roll and it's over and nothing ever happened.",
+        "It was nothing at all like the books I liked as a kid."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Pathetic that BBC has stopped offering nature blu-rays in the U.S. and just offers inferior streaming garbage only now.",
+        "It's absurd that they still have this DVD only and no blu-ray."
+      ],
+      "confidence": 1.0,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "It's a crime Disney didn't let them finish the second half of the season.",
+        "The movie itself is great, but it's absurd that they still have this DVD only."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high for visual quality",
+      "evidence": [
+        "The cinematography in this one is as get as gets and still 100x better.",
+        "What a stupid waste."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "It left me very, very cold though but thankfully I've been able to forget it and recall the wonderful books instead once again.",
+        "I was extremely disappointed to say the least."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user exhibits a strong aversion to low-quality releases, particularly those lacking in blu-ray options, and shows a preference for high production values. They express disappointment in narratives that lack depth and emotional engagement, indicating a desire for more substantial storytelling in their viewing experiences."
+}

@@ -1,0 +1,89 @@
+{
+  "user_id": "AFY75BPDN2HJXIXX5Y55KTGBVDGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "murder mystery, vintage, space, comedy",
+      "evidence": [
+        "\"I love old murder mysteries and I liked these!\"",
+        "\"Good space movie with very good actors.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A lawyer and his wife solve the murders.\"",
+        "\"Interesting story, great scenery, and good actors.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This is a very old movie but the film was perfect.\"",
+        "\"If you like old vintage ‘scary’ movies then this collection is right for you.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"For a 1941 movie it was a great, clear film and good sound.\"",
+        "\"Good film quality. Price was right.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I love William Powell and all the Thin Man movies!\"",
+        "\"I’m a Gene Tierney fan so I like her movies.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory experience",
+      "evidence": [
+        "\"A very young Broderick Crawford!\"",
+        "\"Good actors made this film interesting.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"Fun to watch!\"",
+        "\"I liked it very much.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "nostalgia_preference",
+      "value": "high",
+      "evidence": [
+        "\"Loved Charlie Chan movies as a child and now as an adult!\"",
+        "\"I love old films so it was a very good one!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user has a strong preference for vintage films, particularly murder mysteries and space movies, often appreciating their quality and nostalgic value. They enjoy simple narratives with a slower pace and have a fondness for specific actors and directors, indicating a medium level of brand loyalty."
+}

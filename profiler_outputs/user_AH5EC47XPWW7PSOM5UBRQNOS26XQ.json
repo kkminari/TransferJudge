@@ -1,0 +1,89 @@
+{
+  "user_id": "AH5EC47XPWW7PSOM5UBRQNOS26XQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, action, drama",
+      "evidence": [
+        "\"Hilarious\"",
+        "\"Perfect blend of comedy, action and romance.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot was pretty irritating. Distracted mother loses her kid. I get it.\"",
+        "\"It gets all Stephen Spielberg at the end.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I think I fell asleep on this one, not because it was boring, but because it's been done so many times that it wasn't interesting.\"",
+        "\"This just wasn't a good three-quel. It is much slower than the previous two Berserk movies.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I would not recommend this movie.\"",
+        "\"It should be titled, 'How to Disrespect the Dead'.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific mentions of favorite directors or actors.",
+        "No strong loyalty to franchises or series."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The absolute best ending ever. This movie is super intense for anyone who enjoys music production or was ever a musician.\"",
+        "\"Great character development lets you connect with each story.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I didn't care for this movie much and wouldn't recommend it to anyone.\"",
+        "\"It was all about people gossiping about a dead girl that they didn't know.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "high",
+      "evidence": [
+        "\"It's funny movie.\"",
+        "\"I didn't expect to laugh that much.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys comedies and action films, often appreciating humor and character development. However, they express dissatisfaction with predictable plots and slow pacing, indicating a preference for straightforward narratives without much emotional depth."
+}

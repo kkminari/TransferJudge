@@ -1,0 +1,77 @@
+{
+  "user_id": "AFRJW2VVEFG7Q2JCYPVX745CP7TA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, thriller",
+      "evidence": [
+        "\"This film exudes a sort of beautiful, depressing melancholia\"",
+        "\"I love horror/thriller type fare, and 'Lovely Molly' is one to own.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"It is well written, well directed, well acted, with a story that has many layers to it.\"",
+        "\"The story builds with an artsy slow burn, but it is very effective and the pace is never dull or lacking.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"While some believe the film cruises along at a slower pace, I feel it's very effective...\"",
+        "\"The story builds with an artsy slow burn, but it is very effective...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is superb, especially the unparalleled James Mason...\"",
+        "\"It's a nice, albeit cheaply made horror flick, that is effective in what it sets out to do...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Stephen King, Tobe Hooper",
+      "evidence": [
+        "\"...from the incredible imagination & skill of Stephen King & Tobe Hooper.\"",
+        "\"I found myself immersed in it, straight from the first scene, almost like a good book...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, visual",
+      "evidence": [
+        "\"This film exudes a sort of beautiful, depressing melancholia, from the first scene through the final frame.\"",
+        "\"The creepy scenes are incredibly effective (closets, stairs, doorknobs).\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A good film can really inject you, emotionally, into what's on screen.\"",
+        "\"You care about Molly, and you care about the people that care about her.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror and thriller genres, particularly those with complex narratives and slow pacing. They value high production quality and emotional resonance in films, often appreciating atmospheric and visually engaging storytelling."
+}

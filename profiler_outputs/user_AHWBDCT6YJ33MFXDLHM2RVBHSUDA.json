@@ -1,0 +1,76 @@
+{
+  "user_id": "AHWBDCT6YJ33MFXDLHM2RVBHSUDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "realistic, action",
+      "evidence": [
+        "\"very realistic and great story line, good characters and great actors for the parts !\"",
+        "\"Great action and very realistic, could happen like that in real life !!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"very moving and powerful in such a simplistic way !\"",
+        "\"It is what it is !\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great action and very realistic, could happen like that in real life !!\"",
+        "\"A very very good movie, I must say. Great\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Mr Cage was perfect for the part !\"",
+        "\"great story line, good characters and great actors for the parts !\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"seen all his movies !\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"very moving and powerful in such a simplistic way !\"",
+        "\"enjoyed it and it was very realistic and great story line\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"very moving and powerful in such a simplistic way !\"",
+        "\"It is what it is !\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys realistic and action-oriented content with a preference for simple narratives. They value high production quality and emotional impact, often finding the stories moving and powerful."
+}

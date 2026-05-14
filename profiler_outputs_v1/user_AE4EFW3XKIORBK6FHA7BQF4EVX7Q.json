@@ -1,0 +1,77 @@
+{
+  "user_id": "AE4EFW3XKIORBK6FHA7BQF4EVX7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "noir, western, musical, political thriller",
+      "evidence": [
+        "This is one of the forgotten A film noirs of the 40's, with excellent acting and cinematography.",
+        "I have been a western fan all my life, and in my opinion this is the most accurate tale of the Earps and Tombstone."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "Despite a weak story line, it is a gem for noir lovers.",
+        "The story, casting and photography are excellent in showing the big let down occurring after the big hopes of winning the war were dashed."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Yes, as many have complained, it is very slow moving, but it is in tune with the period setting and the story.",
+        "The many reviewers of this movie have done a good job analyzing it, I am just going to add a few more."
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "It is a political thriller with sad overtunes which reminds one of the Spanish Civil War and Hemingway's For Whom the Bells Toll.",
+        "The direction of Ralph Nelson is superb."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "John Ford, Sergio Leone",
+      "evidence": [
+        "John Ford was able to recreate the real west better than anybody else.",
+        "The Sergio Leone spaghetti westerns were no westerns at all."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, visual spectacle",
+      "evidence": [
+        "The magnificent Nevada's desert locations are very impressive and fit the convoluted story line.",
+        "The musical score is fantastic, and to this day, I find myself whistling it."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "But I am not ashamed to say that it made me cry.",
+        "What a magnificent and fantastic tale of a doomed romance."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for noir and western genres, appreciating both their narrative depth and emotional impact. They value high production quality and are particularly loyal to renowned directors like John Ford and Sergio Leone, indicating a taste for atmospheric storytelling that evokes nostalgia and strong feelings."
+}

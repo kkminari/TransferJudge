@@ -1,0 +1,77 @@
+{
+  "user_id": "AE6BYCS5VMSZYVHAVYJLIDJIM5FA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama, action",
+      "evidence": [
+        "This movie is similar to ,'The Hand That Rocks The Cradle. And, 'Single White Female.",
+        "A gripping tale of two police officers whom share a close bond as friends/brothers in LA fighting and trying to keep peace in the streets go up against tough mobsters and hit-men/women."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It was a good movie, kind of kept you guessing in the beginning.",
+        "Each story gets better and more interesting then previous episodes as the seasons progress."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "However the filming and panning is terrible as it constantly moves in and out too fast ...",
+        "I'd say this movie will keep your interest from the beginning to the end."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "the video quality is very good for mono stereo.",
+        "the filming and panning is terrible as it constantly moves in and out too fast."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I sure hope that WB releases the rest of the seasons.",
+        "What is taking so long for The Hardy Boys-Nancy Drew Mysteries season 3 to come out on dvd??"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "the stories are so much better then the original Kung Fu series by far.",
+        "Each story gets better and more interesting then previous episodes as the seasons progress."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "brought tears",
+        "it now brings back memories of my childhood."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys mystery and drama genres, with a preference for straightforward narratives that keep them engaged. They show a moderate sensitivity to production quality and have a nostalgic connection to classic series, indicating a fondness for character-driven stories."
+}

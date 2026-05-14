@@ -1,0 +1,77 @@
+{
+  "user_id": "AGZUORV4MWQCUE5UJJSE6W5OYTZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "western, comedy, detective",
+      "evidence": [
+        "\"Randolph Scott is one of best western actors ever.\"",
+        "\"This is a great old time detective story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Love these movies. They are worth a million laughs.\"",
+        "\"I love this movie, maybe because it was taken from real experiences.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Always watched this program on tv. I love having my own now so I can watch anytime I want.\"",
+        "\"I was really amazed the way it is sent.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great love all the Jessie Stone movies.\"",
+        "\"What a neat little treasure box it comes in.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "Randolph Scott, Jimmy Stewart",
+      "evidence": [
+        "\"Randolph Scott is one of the best.\"",
+        "\"All Jimmy Stewart movies are good.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "nostalgic, comedic",
+      "evidence": [
+        "\"always loved that program when it was on Tv.\"",
+        "\"I love having my own now so I can watch anytime I want.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I love this movie, maybe because it was taken from real experiences.\"",
+        "\"Love these movies. They are worth a million laughs.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic westerns and comedies, particularly enjoying works by Randolph Scott and Jimmy Stewart. They appreciate simple narratives and nostalgic experiences, often valuing entertainment over production quality."
+}

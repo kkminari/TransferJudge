@@ -1,0 +1,89 @@
+{
+  "user_id": "AF2S7BHR676CE2B6ZR5LCEZDHOWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, comedy",
+      "evidence": [
+        "\"This is one of the best movies of the year!!! I had no idea this was a comedic action movie!!!\"",
+        "\"Great acting for an action movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot is not bad, the acting is not bad.\"",
+        "\"You have to assume this movie is going to be silly.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Starts slow, but is a great movie.\"",
+        "\"The series starts slow, but picks up really well a few episodes in.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Great acting by all, but I suppose this movie wasn't about the acting or the actors.\"",
+        "\"The video quality is surprisingly good.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I always thought Danny Trejo was too serious in his movies.\"",
+        "\"I just don't remember Wonder Woman being as strong as Superman...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Amazing how well little Saroo (Sunny Pawar) and his brother Guddu (Abhishek Bharate) acted on screen.\"",
+        "\"Great acting by Tom Hanks.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"WOW! What a story! It is sad kids have to go through what these kids go through.\"",
+        "\"I am sad Spock is no longer with us, but happy for this story that was shared.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "high",
+      "evidence": [
+        "\"Totally wraps up at the end. Yes, it is stupid, silly, totally moronic!\"",
+        "\"I expected a lot more comedic scenes, but am surprised I like this drama.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys action and drama films with a comedic touch, often appreciating strong performances and emotional storytelling. They have a mixed view on pacing and narrative complexity, indicating a preference for engaging yet straightforward plots."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AFFYPIL2LNFEYQZJKSUTFTS5VQQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, inspirational",
+      "evidence": [
+        "'I LOVED THIS MOVIE!!! IT WAS BASED ON REAL LIFE..& I BELIEVED SHE SAW MARY!!'",
+        "'I JUST LOVED THE MOVIE, SO NOW I HAVE THE VIDEO !!'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'GOOD MOVIE TO SEE,RENTED FROM AMAZON PRIME'",
+        "'I RENTED THIS MOVIE FROM AMAZON PRIME,GOOD MOVIE'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "'IT WAS A VERY GOOD MOVIE..&A CRYER TOO..I BELIEVE IN THIS MOVIE & ALSO MIRACLES FROM HEAVEN!!'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "'I RENTED THIS MOVIE FROM AMAZON PRIME,GOOD MOVIE'",
+        "'I LOVE THIS SERIES.. YOU CAN'T GET THIS ONE WITH THE REST.SO NOW I HAVE IT.. THANKS! WILL BUY AGAIN.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "'I RENTED THIS DVD FROM AMAZON PRIME ,GOOD VIDEO'",
+        "'I BROUGHT THIS FOR MY MOM, SHE HAS BLU-RAY VIDEOS..'"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "'THE MUSIC IS SO COOL, I JUST HAD TO HAVE IT..'"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'IT WAS A VERY GOOD MOVIE..&A CRYER TOO..'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for drama and inspirational films, often enjoying simple narratives that evoke emotional responses. They appreciate sensory experiences, particularly in music, but do not seem particularly loyal to specific brands or creators."
+}

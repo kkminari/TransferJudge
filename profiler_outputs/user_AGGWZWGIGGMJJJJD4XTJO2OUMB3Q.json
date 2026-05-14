@@ -1,0 +1,74 @@
+{
+  "user_id": "AGGWZWGIGGMJJJJD4XTJO2OUMB3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action, historical, comedy",
+      "evidence": [
+        "\"I love this story and they have done a nice job making sure the sets and costuming are true tho the period.\"",
+        "\"Fun, lots of action, and lots of good looking people!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Fun and entertaining. Costuming and sets are done very well.\"",
+        "\"I love this show. Fun, entertaining, and interesting.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Watched the first season in just a few days. Can't stop thinking about it.\"",
+        "\"Fun, lots of action, and lots of good looking people!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great cast as well!\"",
+        "\"Costuming and sets are done very well.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"It is a feast for the eyes. Costumes and sets are gorgeous.\"",
+        "\"Wonderful show with amazing backdrops and costuming.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This show makes you feel empathy for the other side.\"",
+        "\"I have been amazed by this movie ever since I saw it years ago. The story is captivating and the characters are interesting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly drama and action, with a preference for fast-paced narratives. They value high production quality and emotional resonance in their viewing experiences."
+}

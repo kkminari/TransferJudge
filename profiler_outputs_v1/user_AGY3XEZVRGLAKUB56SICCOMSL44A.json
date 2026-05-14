@@ -1,0 +1,77 @@
+{
+  "user_id": "AGY3XEZVRGLAKUB56SICCOMSL44A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, drama, sci-fi",
+      "evidence": [
+        "Great movie, love horror without gore (love both, actually; especially torture porn).",
+        "If you like that ONE song, you will love the group."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "It's about the house, and the characters and the storyline.",
+        "You won't get the full impact until you have watched it to the end."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "It's about time to binge again!!!",
+        "If you love Jessica Lange? This is perfect for you."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The remakes of the Cole Porter songs by contemporary artists is beyond a stroke of genius.",
+        "This is a great film and would have done well at the box office."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Depeche Mode, Jessica Lange",
+      "evidence": [
+        "They hit all of them out of the ballpark, and they aren't 'copying' anyone.",
+        "Classic Jessica Lange, updated!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric music",
+      "evidence": [
+        "The design of the package of 3 DVDs is pure DM.",
+        "If you want to see a brilliantly filmed adult fairy tale, it's 'ink'."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I found myself wondering if I even had a soul after the movie ended.",
+        "Words fail to describe how brilliant this movie is!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror and drama genres, particularly those with complex narratives and high production quality. They appreciate visual spectacle and emotional depth in films, often resonating with the works of specific creators like Depeche Mode and Jessica Lange."
+}

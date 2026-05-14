@@ -1,0 +1,77 @@
+{
+  "user_id": "AEMKTHMCRKYBKAG6FIOXYDV6D3AQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, comedy, drama",
+      "evidence": [
+        "Great show that the whole family enjoys.",
+        "Love this show! Our sons have watched the whole series straight through many times."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good movie!",
+        "Great show."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Fun Series. My husband and sons have enjoyed this show.",
+        "Great Show! Feels like family!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Good movie!",
+        "Great show."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Looking forward to the reboot.",
+        "Love this show and the whole series."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Amazing show. Entertaining and thought provoking.",
+        "Love this show! Our sons have watched the whole series straight through many times."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Great teaching...every married couple, engaged couple, young person should watch this series.",
+        "Our family is enjoying watching."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and comedic content, often favoring simple narratives with fast pacing. They appreciate emotional resonance in their viewing experiences, indicating a preference for shows that evoke strong feelings and are suitable for family enjoyment."
+}

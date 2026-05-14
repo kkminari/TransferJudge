@@ -1,0 +1,77 @@
+{
+  "user_id": "AFAHEPYIWRPNA66DPYU3C3D5KHDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, historical, romance",
+      "evidence": [
+        "\"Quirky and cute, a laugh out loud funny movie\"",
+        "\"A delightful romp with these two super stars!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A well told story with frolicking fun!\"",
+        "\"It is a delightful story performed by a most watchable cast!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Total excitement! The stunts are as well done as any of the Bourne series!\"",
+        "\"A fun Friday evening film\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The actors sparkled in this well-done film!\"",
+        "\"This must be from the studio itself because it is so clean.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Cary Grant, Alfred Hitchcock",
+      "evidence": [
+        "\"Cary Grant and Randolph Scott are delightful!\"",
+        "\"Cary Grant and Alfred Hitchcock make movie magic!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It is a delightful story performed by a most watchable cast!\"",
+        "\"The version I purchased was full-screen. It would have been nice to have gotten wide-screen.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"What an amazing (and true) story!\"",
+        "\"It shows the power an education can make in a person's life as well as what can happen if you squander your potential.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted comedies and dramas with a focus on engaging storytelling and strong performances. They show a preference for fast-paced narratives and high production quality, particularly favoring works featuring Cary Grant and Alfred Hitchcock."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGAGJGT7ORT23UZDSVMQEUL3KDKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family",
+      "evidence": [
+        "Love this show, first because of Tom Selleck but the family togetherness is awesome.",
+        "Just a great fun movie, comedy at its best and cast great."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Just love the partnership between the two guys, one of my favorites.",
+        "Enjoyed watching it plus was good to have something to laugh at for a change."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Enjoy the program, get a lot of laughs.",
+        "Just a great fun movie, comedy at its best and cast great."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "Just like the format and the acting, really great entertainment.",
+        "Thought it was excellent, good watch."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Tom Selleck, Masterpiece Shows",
+      "evidence": [
+        "Love this show, first because of Tom Selleck.",
+        "Like almost all the Masterpiece Shows, this was another good one."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Very moving, highly recommend it.",
+        "good positive movie"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Very moving, highly recommend it.",
+        "Love this show, first because of Tom Selleck but the family togetherness is awesome."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted comedies and family-oriented shows, often appreciating the humor and positive themes. They show a preference for straightforward narratives and fast pacing, with a notable loyalty to specific creators like Tom Selleck and Masterpiece Shows."
+}

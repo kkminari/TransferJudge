@@ -1,0 +1,77 @@
+{
+  "user_id": "AGR3CDU5FHAKX3HIMI7UX63PRPJQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, adventure, comedy",
+      "evidence": [
+        "\"this is a fun, fast moving action adventure movie\"",
+        "\"a charming, witty comedy that actually leaves you with a good feeling\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the plot-line is simple: two grown-up teenagers with broken families are trying to find their way through life\"",
+        "\"not too complex, and not incredibly thought-provoking\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"moves quickly, good ending\"",
+        "\"fun, fast moving action adventure movie\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"well produced, well put together\"",
+        "\"the acting was believable and true, and that's why I liked his character so much\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Herzog is a fantastic director\"",
+        "\"I look forward to future Rob Pattinson movies now\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"the computer graphics; they made up well over 3/4 of the movie, and were done incredibly well\"",
+        "\"the animation- stop-motion- has become quite popular with movie-makers\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"it's a small, touching movie, 'Remember Me' was far better than I expected\"",
+        "\"it's fun to watch a movie and find yourself thinking about it days later\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced action and adventure films, often with comedic elements. They appreciate high production quality and emotional resonance in movies, while showing a preference for simpler narratives that are easy to follow."
+}

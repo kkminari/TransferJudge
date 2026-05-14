@@ -1,0 +1,74 @@
+{
+  "user_id": "AG5ZFHZJZNUHM3PUSR4MS7TFJ46Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama",
+      "evidence": [
+        "One of the best documentaries I have seen in a long time!",
+        "I love this show because of the ability to be real and the acceptance of it."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Well done series, good acting and good/true storyline.",
+        "One of the top shows on TV, in my opinion. To me, there have been so many lessons in it."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "This show demonstrates that there can be respect, caring and free negotiation amongst the adults."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "It was extraordinarily well done!",
+        "Excellent show"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I would like to be able to watch more things, like all in the family, but I am very happy with both you and Netflix."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "Brenda, and her team, make this show - they have diverse personalities yet they work together and compliment each other so well!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I AM SO SORRY SHE WAS KILLED!",
+        "there seems to be a great sense of security and a sense of belonging that occurs there!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and drama series, appreciating well-crafted narratives and high production quality. They value emotional depth and character-driven storytelling, indicating a taste for content that resonates on a personal level."
+}

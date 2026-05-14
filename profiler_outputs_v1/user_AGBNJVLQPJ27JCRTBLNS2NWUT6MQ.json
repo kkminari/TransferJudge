@@ -1,0 +1,77 @@
+{
+  "user_id": "AGBNJVLQPJ27JCRTBLNS2NWUT6MQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, thriller, science fiction, horror",
+      "evidence": [
+        "\"Best thriller/horror show ever\"",
+        "\"I am a science fiction fan. Not of the 'horror' sci fi, but of the science fiction that makes you think\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "medium",
+      "evidence": [
+        "\"You need to pay attention to the story line. You can't keep getting up to get a snack or take a phone call\"",
+        "\"I don't always want a show that makes me analyse every scene and character until my brain hurts\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"Sometimes it's nice to sit back and just enjoy the story, and this series does that for me\"",
+        "\"I found it fascinating. and I've learned quite a lot\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I was very pleased to find it on the Amazon list so I could see it again\"",
+        "\"The actors were not 'stars', but just really good actors that brought the characters to life\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Michael Fassbender is a favorite of mine\"",
+        "\"I am a John Hanna fan so this program suited me just fine\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The writers, cast, direction, all fed the imagination\"",
+        "\"The art work and the way it's done is amazing and quite beautiful\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is bizarre and scary and funny and touching and just plain wonderful\"",
+        "\"I loved this series. I'm tired of the same 'ol, same 'ol. This one is different and kept my attention\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly mystery, thriller, and science fiction, with a strong appreciation for quality storytelling and production. They value emotional resonance and sensory experiences in their viewing choices, often preferring engaging narratives that require attention without being overly complex."
+}

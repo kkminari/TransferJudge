@@ -1,0 +1,77 @@
+{
+  "user_id": "AE3JDQWJPHQYRABXRAHCWHG76UQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "'don't like to watch movies where good people die'",
+        "'do nqt like subs'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'this was a real heart warming story couldn't stop watching'",
+        "'loved it'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "'this one is awesome does not put me to sleep like the other six do.'",
+        "'lots of fun loved it'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "'awesome great cast.'",
+        "'good movie'"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "'I just like Anne Hathaway'",
+        "'loved Julia Stiles'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "'this was a real heart warming story couldn't stop watching'",
+        "'lots of fun loved it'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'this was a real heart warming story couldn't stop watching'",
+        "'loved this movie'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys heartwarming and fast-paced stories, often with a preference for familiar actors like Anne Hathaway and Julia Stiles. They express a strong emotional connection to the content, although they show some mixed feelings towards genres involving tragic elements."
+}

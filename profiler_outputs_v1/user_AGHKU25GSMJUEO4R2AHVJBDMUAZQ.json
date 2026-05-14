@@ -1,0 +1,77 @@
+{
+  "user_id": "AGHKU25GSMJUEO4R2AHVJBDMUAZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, mystery, historical, family",
+      "evidence": [
+        "\"Pretty good British costume soap opera.\"",
+        "\"Good acting. Good mystery show.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Not bad, not great. It held my attention for a couple of episodes.\"",
+        "\"Pretty good but don't expect to learn anything new.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"This show is not for me. Too much violence without purpose.\"",
+        "\"An excellent move. There are already many, many reviews on the web and elsewhere...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent acting. A compelling story line. First rate production.\"",
+        "\"Good acting, good photography and direction.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Olyphant is great!\"",
+        "\"If you are a Paul Newman fan he very good in the movie.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The extra disk is also interesting to find out more about how the show was made, the cast and director.\"",
+        "\"This is a movie that has stood the test of time. We rented this movie through Amazon Prime and could not stop laughing.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Give this show a chance and you will be pleasantly surprised how it will hold your interest and make you come back for more.\"",
+        "\"This is a good movie for a Christian's library.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and mystery genres, particularly those with strong acting and production quality. They have a mixed preference for narrative complexity and pacing, indicating a balance between engaging stories and straightforward storytelling."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEPR3SQKIIPT7EFB4JAN2754V57Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, comedy, drama",
+      "evidence": [
+        "\"Sad but true story about a couple who were nuts enough to let their neighbor take their 12 year old daughter...\"",
+        "\"There is no one funnier and more real than Louie CK...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Writing is a bit uneven but this series is suspenseful and it has kept me watching.\"",
+        "\"Exciting with just the right amount of gore. Frequent plot twists...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Smart and fast moving... The characters are memorable and hilarious.\"",
+        "\"Exciting with just the right amount of gore... will keep you watching!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Greg Kinnear is outstanding! great writing really makes this show worthwhile.\"",
+        "\"Frequent plot twists and great performances by leads will keep you watching!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Louie CK",
+      "evidence": [
+        "\"There is no one funnier and more real than Louie CK...\"",
+        "\"This season is every bit as funny as the previous seasons which also MUST be watched.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual and emotional engagement",
+      "evidence": [
+        "\"So sad but gripping and remindful how adults frequently put their own desires and wants over their own children’s.\"",
+        "\"Exciting with just the right amount of gore.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"So sad but gripping and remindful how adults frequently put their own desires and wants over their own children’s.\"",
+        "\"You won’t believe this story....\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and comedies, particularly those with emotional depth and high production quality. They enjoy fast-paced narratives with engaging characters and are loyal to creators like Louie CK, indicating a taste for both humor and impactful storytelling."
+}

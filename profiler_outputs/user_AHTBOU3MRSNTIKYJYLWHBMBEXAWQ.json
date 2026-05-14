@@ -1,0 +1,74 @@
+{
+  "user_id": "AHTBOU3MRSNTIKYJYLWHBMBEXAWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, mystery, historical, thriller",
+      "evidence": [
+        "\"Good lawyer drama\"",
+        "\"Sad, but uplifting story of how a good man rescues people from death in WWII.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"It is a complicated philosophical point of view, as it involves time travel and the possibility of predetermined incidents creating a complex possibility that defies free will.\"",
+        "\"This is definitely a movie that requires some thinking; during and after the film is done.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"At the beginning, the movie seems slow and jumbled. Once you pick up their pace, which is slow, one begins to understand the series of stories that the show tells.\"",
+        "\"The numerous turns in the story was a bit too much.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Some editing would had helped.\"",
+        "\"Acting is fairly juvenile and the zombies or monsters are not too believable.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It is a sad and wistful series of stories about the reunion of characters that did not do well in their past.\"",
+        "\"A remarkable tale that must not be forgotten\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It was a sentimental story of a retired soldier, now a businessman, during WWII.\"",
+        "\"Sweet and sad movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex dramas and mysteries, often with historical themes, and appreciates emotional depth in storytelling. They have a mixed preference for pacing and production quality, indicating a balance between narrative engagement and technical execution."
+}

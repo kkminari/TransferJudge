@@ -1,0 +1,74 @@
+{
+  "user_id": "AGUC6UQFKQXQ7TGDEDHQUJNOJK6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, documentary",
+      "evidence": [
+        "\"Good cop show. Good cast.\"",
+        "\"Entertaining comedy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good storyline and plot.\"",
+        "\"Good story lines.;\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Action is over the top. Impossible car crashes.\"",
+        "\"Very interesting adventures.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Good acting.\"",
+        "\"Excellent acting.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual storytelling",
+      "evidence": [
+        "\"Good story line. Good actors.\"",
+        "\"Very informative series about how 5000 Navy men and women live and work on the carrier Nimitz..\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Very entertaining. Good acting.\"",
+        "\"Great entertainment without using fowl language\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama, comedy, and documentary genres, with a preference for straightforward narratives and high production quality. They appreciate fast-paced storytelling but do not show strong loyalty to specific creators, focusing more on entertainment value."
+}

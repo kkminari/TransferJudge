@@ -1,0 +1,77 @@
+{
+  "user_id": "AH6AEHVEBNNQZBLFGDCVZDPDGPCQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, mystery, action, comedy",
+      "evidence": [
+        "\"Veronica Mars is about a girl who is about 10 times smarter, sharp witted, and drama filled than anyone else around her...\"",
+        "\"The story is strong and gets its point across like no other I have ever seen...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The story is full of holes, and sometimes it moves too fast and sometimes not fast enough to keep the audiences attention.\"",
+        "\"The film is very interesting and is not that hard to understand.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The movie moves slow, which I don't mind.\"",
+        "\"The action is good. It can look a bit stiff at times, but for the most part its good.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The acting is not bad, the cast is likable for the most part, and the story seems solid.\"",
+        "\"The special effects have been outdone and its dialog is no longer what is said, but its themes are still relevant today.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"The director, Zhang Yimou, is truly a genius.\"",
+        "\"I can't wait for next years Angles and Demons to come to the big screen.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The graphics are amazing. That's it.\"",
+        "\"The landscape is beautiful and the special effects are also great.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This film is amazing. The story is strong and gets its point across like no other I have ever seen.\"",
+        "\"This movie about Superman remains one of the, if not the, best comic based movie ever.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama, mystery, and action films, often appreciating strong narratives and emotional depth. They show a moderate sensitivity to production quality and a preference for engaging storytelling, though they have mixed feelings about pacing and narrative complexity."
+}

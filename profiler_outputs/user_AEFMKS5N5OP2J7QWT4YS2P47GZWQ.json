@@ -1,0 +1,77 @@
+{
+  "user_id": "AEFMKS5N5OP2J7QWT4YS2P47GZWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "biographical, drama, historical, romance",
+      "evidence": [
+        "\"This is a heartbreaking story recommended for viewing about an individual who copes with adversity.\"",
+        "\"The film traces the life of Rossini from the opening night mixed reception to the second night resounding success of his Barber of Seville...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The plot engages in surprising twists and turns and the ending left me so confused as to what happened that I had to check alternate sources for the answer.\"",
+        "\"The unfolding of this plot will keep the viewer engaged throughout the film.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The film gives a beautiful expose of the country of Greece but the dialogue is off putting...\"",
+        "\"The 80 minute film is not a complete biography of the composer but is good in what it does present.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Although the film is in black and white and the quality is not up to 21st century standards, the acting in the above scenes and others are well worth the price of the film.\"",
+        "\"It is sometimes difficult to present a standard repertoire item in a fashion which will bring out hidden beauties...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"The name of this DVD, Old Rococo, comes from Rossini's own characterization of himself in one of his retirement letters.\"",
+        "\"The director, Walter Felsenstein, does a magnificent job in directing this production...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The film gives a beautiful expose of the country of Greece but the dialogue is off putting...\"",
+        "\"This production is one of those which adheres to tradition but conforms to modern scholarship.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is a heartbreaking story recommended for viewing about an individual who copes with adversity.\"",
+        "\"The story involves a Russian Nobleman who begins a relationship with a maid who follows in a downward spiral in life...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for biographical and dramatic films with complex narratives and high production quality. They appreciate emotional depth and resonance in storytelling, often favoring slower-paced films that engage the viewer thoughtfully."
+}

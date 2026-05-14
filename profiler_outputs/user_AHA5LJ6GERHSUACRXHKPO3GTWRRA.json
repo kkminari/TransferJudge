@@ -1,0 +1,75 @@
+{
+  "user_id": "AHA5LJ6GERHSUACRXHKPO3GTWRRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, drama",
+      "evidence": [
+        "\"Great movie!!! A real thriller right up to the last scenes.\"",
+        "\"I like the series and the characters, the plot is pretty convoluted and I have to watch some of the episodes more than once to pick-up on all the nuances.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"the plot is pretty convoluted and I have to watch some of the episodes more than once to pick-up on all the nuances.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great movie!!! A real thriller right up to the last scenes.\"",
+        "\"Intense thriller and perfect ending.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Always loved The Band! And this video was well produced and very enjoyable to watch.\"",
+        "\"Good series but audio level is weak!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Enjoy the story and the period of the show!\"",
+        "\"Good movie but disturbing story.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"WOW! What a great true story, loved it!!\"",
+        "\"A true classic tale and perfect justice in the end.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys thrillers and complex narratives, often appreciating fast-paced storytelling. They value production quality and emotional impact, indicating a preference for engaging and well-crafted stories."
+}

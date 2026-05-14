@@ -1,0 +1,78 @@
+{
+  "user_id": "AHUBS45PJ4MGM76XNJC5PPCTWX2Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, thriller, sci-fi, romance, Christmas movies",
+      "evidence": [
+        "\"I love all the Jesse Stone movies...\"",
+        "\"If you haven't seen it and you like this kind of thriller, sci fy I recommend this.\"",
+        "\"I love all of these movies. I watch them every Christmas...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great story, great movie and great music.\"",
+        "\"This is a great movie with a fantastic cast.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This is such a beautiful story and Shirley Temple's best in my opinion. It makes me laugh and cry.\"",
+        "\"I can watch it over again each month.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The Blu-ray quality was good and he really enjoys the story.\"",
+        "\"I think I have seen it about 10 times back when I had it on VHS.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Robin Williams, Tom Selleck, Shirley Temple",
+      "evidence": [
+        "\"I found this one of Robin Williams maybe the best of all.\"",
+        "\"I love all the Jesse Stone movies and the price for these 3 was really great.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This is a beautiful love story that I'm sure you will enjoy if you haven't seen it yet.\"",
+        "\"It has a message for all. Beauty is in the eye of the beholder.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It always brings a tear to my eye.\"",
+        "\"It makes me laugh and cry. What more could you ask.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for emotional and heartwarming stories across various genres, particularly drama, comedy, and Christmas movies. They appreciate high production quality and have a fondness for specific actors like Robin Williams and Tom Selleck, indicating a loyalty to familiar creators."
+}

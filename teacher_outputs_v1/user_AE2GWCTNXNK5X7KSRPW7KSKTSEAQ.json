@@ -1,0 +1,165 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's strong preference for classic and drama genres directly translates to a preference for literary fiction and classic literature in books. This pattern is about the thematic and narrative qualities that exist in both media.",
+      "transferred_insight": "Prefer classic and literary drama novels",
+      "confidence": 0.8
+    },
+    "narrative_complexity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for simple narratives suggests they may enjoy accessible storytelling in books, but this does not exclude moderately complex narratives that are still engaging. Thus, recommendations should lean towards straightforward plots but can include some depth.",
+      "transferred_insight": "Prefer accessible narratives with some complexity",
+      "confidence": 0.6
+    },
+    "pacing_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The mixed pacing preference indicates that the user is open to both slower and faster narratives, suggesting a flexibility in pacing that can accommodate a variety of book styles. Recommendations should include a mix of pacing.",
+      "transferred_insight": "Open to a variety of pacing in narratives",
+      "confidence": 0.5
+    },
+    "quality_sensitivity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high sensitivity to quality in films suggests they will also appreciate well-crafted books with strong writing and production values. This pattern is directly applicable to book recommendations.",
+      "transferred_insight": "Prefer high-quality, well-written books",
+      "confidence": 0.8
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user's low brand loyalty indicates that they do not have a strong attachment to specific authors or brands, which does not translate well to book recommendations. This pattern is not relevant for driving recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "Sensory preferences related to film do not apply to books, as the reading experience is fundamentally different. This pattern should not influence book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high emotional resonance indicates a preference for books that evoke strong feelings and address vital subjects, which is a quality that can be found in both films and literature.",
+      "transferred_insight": "Prefer emotionally impactful books that address significant themes",
+      "confidence": 0.8
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "B00U6KTQJU",
+      "title": "Charles Dickens’ A Christmas Carol",
+      "score": 0.95,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This classic novella embodies the user's preference for classic literature and drama, with a strong emotional core that resonates with themes of redemption and social responsibility. Its high quality and timeless narrative align perfectly with the user's tastes."
+    },
+    {
+      "rank": 2,
+      "item_id": "034580348X",
+      "title": "The Great Gatsby",
+      "score": 0.9,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "F. Scott Fitzgerald's classic novel is a staple of American literature that explores themes of love, ambition, and the American Dream, resonating emotionally with readers. Its high literary quality makes it a fitting recommendation."
+    },
+    {
+      "rank": 3,
+      "item_id": "1501117696",
+      "title": "Binge",
+      "score": 0.88,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This collection of essays offers a blend of humor and personal reflection, appealing to the user's appreciation for impactful storytelling. The emotional depth and quality of writing align well with their preferences."
+    },
+    {
+      "rank": 4,
+      "item_id": "0066210720",
+      "title": "One Matchless Time: A Life of William Faulkner",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This biography of a classic author provides insight into the life of one of America's greatest writers, appealing to the user's interest in classic literature and high-quality narratives."
+    },
+    {
+      "rank": 5,
+      "item_id": "039332257X",
+      "title": "The Bell Jar",
+      "score": 0.84,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "Sylvia Plath's semi-autobiographical novel explores themes of identity and mental health, resonating emotionally with readers. Its literary quality and classic status make it a strong match for the user's preferences."
+    },
+    {
+      "rank": 6,
+      "item_id": "0743273567",
+      "title": "To Kill a Mockingbird",
+      "score": 0.82,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "Harper Lee's classic novel addresses profound social issues through the lens of childhood innocence, making it both impactful and emotionally resonant. Its high quality aligns with the user's sensitivity to storytelling."
+    },
+    {
+      "rank": 7,
+      "item_id": "0451524934",
+      "title": "Pride and Prejudice",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "Jane Austen's classic novel combines wit and social commentary, appealing to the user's love for classic literature. Its enduring quality and engaging narrative make it a fitting recommendation."
+    },
+    {
+      "rank": 8,
+      "item_id": "0143039431",
+      "title": "The Picture of Dorian Gray",
+      "score": 0.78,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "Oscar Wilde's novel explores themes of beauty, morality, and the human condition, resonating with the user's appreciation for impactful storytelling. Its literary quality aligns with their preferences."
+    },
+    {
+      "rank": 9,
+      "item_id": "0451526341",
+      "title": "Wuthering Heights",
+      "score": 0.76,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "Emily Brontë's classic novel is known for its intense emotional depth and complex characters, appealing to the user's desire for dramatic and impactful narratives."
+    },
+    {
+      "rank": 10,
+      "item_id": "0142437247",
+      "title": "Jane Eyre",
+      "score": 0.75,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "Charlotte Brontë's novel combines elements of romance and social criticism, making it a classic that resonates with the user's literary preferences. Its high quality and strong narrative make it a suitable recommendation."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference were blocked as they do not apply to book recommendations.",
+  "overall_strategy": "Focused on transferring genre preferences and emotional resonance while applying partial insights for narrative complexity and pacing. Recommendations emphasize classic literature with strong emotional and quality elements."
+}

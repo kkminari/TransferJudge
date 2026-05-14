@@ -1,0 +1,77 @@
+{
+  "user_id": "AHKPNLA7X47VK4B4KPEDELRW4WGA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, mystery",
+      "evidence": [
+        "\"One of THE best shows ever made! If you want to laugh and cry...\"",
+        "\"A solid, quiet mystery that is as comfortable as a tea cozy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Overrated and a bit weird - what am I missing? - it's worth the time if you can watch a movie that does not makes sense.\"",
+        "\"The ending will launch many a discussion, so for me it was worth the watch!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This is the BEST movie I've seen in years - truly riveting from start to finish!\"",
+        "\"BEST - SHOW - EVER!!! The equivalent of crack cocaine for the mind - totally BING-WORTHY!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Heart pounding - excellent movie that exceeded my already high expectations!\"",
+        "\"Heartrendingly beautiful, this episode was note perfect.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"As an author of over thirty books, it's hard for me to not guess every plot twist and turn.\"",
+        "\"I LOVE everything about Crazy Heart!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"A movie to make you laugh while you think - an excellent movie that you'll want to watch more than once!\"",
+        "\"This show is so beautifully acted, tightly written and EXCITING that you truly can't stop watching!!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A perfect goodbye... We, the viewers, share your pain.\"",
+        "\"This is a brilliant movie that, like a well-worn hat, just gets better the more you wear/see it.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fast-paced comedies and dramas that evoke deep emotional responses. They appreciate high production quality and enjoy narratives that are engaging, though they have mixed feelings about complex storylines."
+}

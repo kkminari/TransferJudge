@@ -1,0 +1,77 @@
+{
+  "user_id": "AEXHAQGO2SZIW4JMFFMDGDX5CQUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama",
+      "evidence": [
+        "I LOVE murder mysteries in the British style.",
+        "What a joy to watch an absorbing, intelligent series with great performances!"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "I love the complex stories, the fabulous character development and the fact that there are no easy solutions to the problems encountered by all the members of this community.",
+        "I love the intricacy of each plot and appreciate how intelligent the scripts are."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "What a joy to watch an absorbing, intelligent series with great performances!",
+        "This is a series I would gladly watch around the clock until I have seen them all!"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The actors were nothing less than superb!",
+        "I love the intelligent script and the terrific acting."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I could not picture anyone other than Michael Kitchen playing the part of the chief detective.",
+        "What a lovely surprise this Prime series has proved to be and I look forward to seeing many more."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "What a heart warming story - one that I have watched several times since receiving the DVD.",
+        "I found her wonderfully engaging even though I had seen this series many times in the past."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "What a pleasure to finally see an intelligent, inspiring film!",
+        "I found her wonderfully engaging even though I had seen this series many times in the past."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for mystery and drama genres, particularly enjoying complex narratives with rich character development. They value high production quality and emotional resonance in their viewing experiences, often expressing excitement for character-driven stories."
+}

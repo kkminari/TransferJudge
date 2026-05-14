@@ -1,0 +1,89 @@
+{
+  "user_id": "AFWLIZKW74SP25W2HBPHMQ2CS5CA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, anime, action, comedy",
+      "evidence": [
+        "\"Armitage III remixes many genres and movies with a focus on Cyberpunk...\"",
+        "\"The Anime Pagan Version of Little Red Riding Hood\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The plot did not define why they were fighting, which created confusion...\"",
+        "\"It could technically need to be viewed while taking many drugs to make logical sense.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The setup was rushed to develop many of the characters...\"",
+        "\"It is interesting to see how times change and even movie productions do to.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"5-Stars for smart Hollywood Magic, but the premise still feels like a Product Management miscommunication...\"",
+        "\"The visuals are good, the music is decent...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I still think that Futurama holds the answers...\"",
+        "\"I do not always agree with the comedy, but it is a smart comedy from the point of view of engineer.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The animation allows for exaggerations and for using the 'crossing the line twice' trope...\"",
+        "\"The visuals are good, the music is decent...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "mixed",
+      "evidence": [
+        "\"I found myself judging the film more than getting into the fantasy...\"",
+        "\"I guess that is why 'Independence Day' movie made millions of dollars and 'Big Wars' did not.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "high",
+      "evidence": [
+        "\"Silly, but Good Hearted Material around the Founding Fathers...\"",
+        "\"It is interesting to see how times change and even movie productions do to.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys a variety of genres, particularly sci-fi and anime, with a strong appreciation for quality production. They have mixed feelings about narrative complexity and pacing, often valuing humor and sensory experiences in their viewing choices."
+}

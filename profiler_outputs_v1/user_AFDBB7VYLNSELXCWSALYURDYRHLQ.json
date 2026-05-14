@@ -1,0 +1,77 @@
+{
+  "user_id": "AFDBB7VYLNSELXCWSALYURDYRHLQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, thriller",
+      "evidence": [
+        "Possibly the worst excuse for sci-fi since Plan 9 From Outer Space.",
+        "The story isn't linear by any traditional concept, and you have to accept that it gives you questions that it doesn't answer."
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "I suppose the filmmakers were aiming for a cerebral film, but what they ended up with is enigmatic in the extreme and really goes nowhere.",
+        "The story isn't linear by any traditional concept, and you have to accept that it gives you questions that it doesn't answer."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "This 2-hour waste of time could've been cut down to 1 hour and still it would've been boring.",
+        "The film doesn’t take time to build the tension and the storyline."
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The screenplay needed more work, and the editors didn't trim enough.",
+        "If you have never seen this film, you would be better served to find a friend or relative who has the DVD's/BluRay's and watch it unedited."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I actually got SO attached to certain characters that I nearly cried when they were no longer there.",
+        "The director (who does occasional cameos and shows up in the last scene) put together a marvelous goodbye that sticks with you for a while."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "The screenplay seemed to be trying to take the movie through a poorly conceived maze.",
+        "The acting is good, the cinematography is decent, but this is an otherwise completely forgettable film."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It is a rare gem.",
+        "The father-son dynamic, while not ground-breaking original, is very touching and keeps you intrigued as it evolves through the events and the songs and the stories."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for sci-fi and drama genres, often critiquing slow pacing and narrative complexity. They value high production quality and emotional resonance in films, indicating a desire for engaging and well-crafted storytelling."
+}

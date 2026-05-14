@@ -1,0 +1,8 @@
+pattern,A_academic,B_pilot_match,B_top1_pilot_name,C_cross_domain,C_movies_only_hits,D_orthogonality,D_max_sim_to_others,decision
+genre_preference,★5 ○,0.70 (MEDIUM) △,genre_diversity,TRANSFER 후보 ○,0,max sim 0.47 (vs sensory_preference) ○,0.47,ACCEPT
+narrative_complexity,★4 ○,0.80 (STRONG) ○,narrative_complexity,TRANSFER 후보 ○,0,max sim 0.67 (vs pacing_preference) △,0.669,ACCEPT
+pacing_preference,★4 ○,0.81 (STRONG) ○,tolerance_for_slow_pacing,TRANSFER 후보 ○,0,max sim 0.67 (vs narrative_complexity) △,0.669,ACCEPT
+quality_sensitivity,★4 ○,0.55 (MEDIUM) △,variable_rating_on_quality,PARTIAL 후보 △,1,max sim 0.37 (vs sensory_preference) ○,0.365,ACCEPT (조건부)
+brand_loyalty,★3 △,0.70 (MEDIUM) △,franchise_loyalty,BLOCK 후보 ✗,2,max sim 0.33 (vs quality_sensitivity) ○,0.326,ACCEPT (BLOCK 후보)
+sensory_preference,★2 ✗,0.59 (MEDIUM) △,enjoyment_of_action_movies,PARTIAL 후보 △,1,max sim 0.47 (vs genre_preference) ○,0.47,ACCEPT (보완 필요)
+emotional_resonance,★2 ✗,0.82 (STRONG) ○,emotional_resonance,TRANSFER 후보 ○,0,max sim 0.38 (vs sensory_preference) ○,0.375,ACCEPT

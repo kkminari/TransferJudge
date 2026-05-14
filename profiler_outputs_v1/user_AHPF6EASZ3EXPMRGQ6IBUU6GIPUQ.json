@@ -1,0 +1,77 @@
+{
+  "user_id": "AHPF6EASZ3EXPMRGQ6IBUU6GIPUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, historical",
+      "evidence": [
+        "\"Woody Allen is the comedic genius of our time.\"",
+        "\"Extraordinary series, showing what Independent Women everywhere must endure and overcome.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Delightful, beautiful and superbly-cast series.\"",
+        "\"Great mind-bending fun!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"A must-see for every American.\"",
+        "\"A series that should never end.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Superb piece of the film-making art by every measure.\"",
+        "\"Five stars. What did you expect? It's Frasier.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Woody Allen",
+      "evidence": [
+        "\"Woody Allen is the comedic genius of our time.\"",
+        "\"Failure to watch anything he creates, would be like skipping past van Gogh in your art history class.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and emotional engagement",
+      "evidence": [
+        "\"Brilliant, endearing work by a gifted team of true artists.\"",
+        "\"Extraordinary telling of our history.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A must-view in times like today.\"",
+        "\"HIGH PRAISE to all who participated in this slice of contemporary history.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and historical narratives, particularly those that are visually engaging and emotionally resonant. They show high sensitivity to production quality and express loyalty to creators like Woody Allen, indicating a taste for well-crafted, impactful storytelling."
+}

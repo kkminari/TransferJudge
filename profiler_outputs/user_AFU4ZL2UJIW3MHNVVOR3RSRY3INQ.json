@@ -1,0 +1,77 @@
+{
+  "user_id": "AFU4ZL2UJIW3MHNVVOR3RSRY3INQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, foreign film, horror",
+      "evidence": [
+        "\"A really sweet and touching film...\"",
+        "\"If you love foreign film, do not miss this movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Some people will find parts of the film slow-moving...\"",
+        "\"...the storytelling and film-making technique in these movies...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"...some of the effects and acting...are just as forgivable as ever.\"",
+        "\"...the careful, exacting set-up more than pays off once things start to go downhill...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...the movies look and sound fantastic in 4K...\"",
+        "\"...the acting is winning all around, and the use of music...is masterful.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"...the always interesting Peter Yates...\"",
+        "\"...the lead actor is astounding.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"...the upgrade in graphic and aural fidelity.\"",
+        "\"...the decadent visual trappings...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...brought tears...\"",
+        "\"...a palpable sense of both place and time...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly drama and comedy, and appreciates high production quality. They have a mixed preference for narrative complexity and pacing, indicating a tolerance for slower storytelling if it pays off emotionally. Overall, they value emotional resonance and sensory experiences in their viewing choices."
+}

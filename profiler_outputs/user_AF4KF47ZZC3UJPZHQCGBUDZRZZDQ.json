@@ -1,0 +1,77 @@
+{
+  "user_id": "AF4KF47ZZC3UJPZHQCGBUDZRZZDQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy, drama",
+      "evidence": [
+        "\"If you like action, you'll love this one!\"",
+        "\"If you enjoy raunchy comedies this is the one for you!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot is good - easy to follow.\"",
+        "\"The plot is fun and easy to follow and her real life hubby in her movies is always something that I look for.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The movie was fast-paced - the intro was AMAZING!\"",
+        "\"This movie was all it's trumped up to be. Denzel Washington won an Oscar for his role. It was gritty and real with a twist.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"It amazes me how well-directed the fight scenes were as well.\"",
+        "\"What I am even more thankful for is THE BONUS CONTENT!!!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for specific actors (Melissa McCarthy, Jason Bateman, Keanu Reeves)",
+      "evidence": [
+        "\"I love Melissa McCarthy and love the constants that follow her through each film.\"",
+        "\"This movie is Keanu Reeves at his best.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The fight scenes had me yelling at the movie theater and I found myself doing the same as I watched the video.\"",
+        "\"I love all things Bob Ross!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I cried several times while hearing Pacific Islanders speak with such pride and emotion about wanting their culture to be known and appreciated by others.\"",
+        "\"I LOVE THIS MOVIE!!!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and comedy genres, enjoying fast-paced narratives with simple plots. They show high sensitivity to production quality and have a notable loyalty to specific actors, particularly Melissa McCarthy and Jason Bateman, while also valuing emotional resonance in their viewing experiences."
+}

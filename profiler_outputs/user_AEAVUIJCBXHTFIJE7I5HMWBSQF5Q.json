@@ -1,0 +1,77 @@
+{
+  "user_id": "AEAVUIJCBXHTFIJE7I5HMWBSQF5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, romance, melodrama, musical, horror",
+      "evidence": [
+        "\"combines elements of several genres -- romance, musical, melodrama -- to offer something for everyone.\"",
+        "\"a wealth of classic comedy, presented with great care and quality.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the plot is irrelevant, of course, as they toss of their usual brand of punning dialog exchanges.\"",
+        "\"the film itself is as fresh and fun as ever...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"an energetic and fast-paced comedy...\"",
+        "\"exciting chase sequences, and even some swordfighting...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the print used as the source for this DVD edition appeared to be in rough shape throughout...\"",
+        "\"the films are presented chronologically and look better here than I've seen in any previous home video format.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Raoul Walsh, Buster Keaton, Al Jolson",
+      "evidence": [
+        "\"skillfully directed by that versatile craftsman Raoul Walsh...\"",
+        "\"the crowning achievement in the career of its director, writer and star, Buster Keaton.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"vibrant Technicolor photography, good music and romance, and rousing action scenes.\"",
+        "\"the atmospheric, Expressionist cinematography by Karl Freund is one of the most memorable aspects of the film.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"powerful melodrama, and a really strong performance by Jolson make this one a minor classic of its kind.\"",
+        "\"this sublime comedy from 1926 represents the silent cinema at its peak...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic comedies and melodramas, particularly those with fast pacing and high production quality. They appreciate the craftsmanship of notable directors and enjoy films that evoke strong emotional responses."
+}

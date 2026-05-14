@@ -1,0 +1,74 @@
+{
+  "user_id": "AEDVJMVGLO35Y467MAAT4QWGFFBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama",
+      "evidence": [
+        "\"Funny family movie. Many laughs\"",
+        "\"Such a good movie. Sad. But they did a good job at telling her story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The movie jumps around and I did not see a point.\"",
+        "\"So boring that I could not even watch the entire movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Very entertaining, worth watching.\"",
+        "\"Great kids movie. Funny and is actually a good movie to watch as an adult with the kids.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Very low budget...\"",
+        "\"Bad acting, good plot.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Such a good movie. Sad. But they did a good job at telling her story.\"",
+        "\"Awww this is such a good and sad movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Such a good movie. Sad. But they did a good job at telling her story.\"",
+        "\"Awww this is such a good and sad movie!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family and drama films, often appreciating emotional storytelling. They show a preference for fast-paced narratives but have a low tolerance for production quality issues, indicating a focus on story over polish."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AGLDRXJ5QLBSNR3LBRJMCWPLU4HA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, thriller, comedy",
+      "evidence": [
+        "\"Classic French thriller with a beautiful/talented actress in the starring role.\"",
+        "\"Very comical characters in totally unusual circumstances.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Plot moves along at a snail's pace, but production is slick.\"",
+        "\"Time spans were a little bit difficult to discern.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Plot moves along at a snail's pace, but production is slick.\"",
+        "\"The pace seems a bit on the sluggish side -- or perhaps it was the story line itself.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Slick production of a bad story.\"",
+        "\"Filmed well in the grey gloom of Poland and well-acted.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Bale always is good though.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Production is slick.\"",
+        "\"Filmed well in the grey gloom of Poland and well-acted.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Accurate portrayal of a mind-busting real life situation by accomplished actors.\"",
+        "\"The final scenes are outstanding, when the daughter's speech seems garbled to the audience...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys dramas and thrillers with a strong emphasis on production quality and emotional impact. They prefer slower-paced narratives but appreciate visual spectacle, indicating a nuanced taste in storytelling."
+}

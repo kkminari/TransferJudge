@@ -1,0 +1,75 @@
+{
+  "user_id": "AG6YGVSESHELOOIC6W4TWS6IQ5DA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "scary, comedy",
+      "evidence": [
+        "\"very good scary movie\"",
+        "\"the best scary movie of all time..\"",
+        "\"this must be the stupid movie ever...but funny as can be...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"good\"",
+        "\"PERFECT\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"this is one of the scariest movies, I have ever saw....it will scare the death out of you...\"",
+        "\"when you want to party, you need this movie...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"very good quality and very good scary movie\"",
+        "\"love the quality\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"good picture and sound, especially for my BOSE\"",
+        "\"good quality\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"good\"",
+        "\"PERFECT\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for scary and comedic films, valuing high production quality. They enjoy fast-paced narratives but do not demonstrate strong loyalty to specific creators, indicating a more casual engagement with the medium."
+}

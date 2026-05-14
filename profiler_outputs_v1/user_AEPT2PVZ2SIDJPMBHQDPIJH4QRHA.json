@@ -1,0 +1,77 @@
+{
+  "user_id": "AEPT2PVZ2SIDJPMBHQDPIJH4QRHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's, family, musical",
+      "evidence": [
+        "\"Great DVD for kids and adults who enjoy Sesame Street and puppets\"",
+        "\"My son likes Grease and likes all the music from beginning to end.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"it was a fast paced adventure where the good guys win\"",
+        "\"It is a very funny cartoon, it has fast moving action, moves you along through the show\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Very funny, fast paced action, my family watches it repeatedly\"",
+        "\"it has fast moving action, moves you along through the show\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"the DVD was in great shape and the show is fun\"",
+        "\"found it on Amazon at a great price and in great shape\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Scooby-Doo",
+      "evidence": [
+        "\"Scooby-Doo is my sons favorite show\"",
+        "\"Like watching Scooby-Doo, very funny\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "musical, colorful",
+      "evidence": [
+        "\"Colorfulness and musical keeps my kids attention\"",
+        "\"my son likes music and Elmo\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is a safe rated Video so I don't have to worry about what he see's or hears\"",
+        "\"my son loves dogs and talking dogs are better full of action and not scary or sad great ending\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for children's and family-oriented content, particularly those that are musical and colorful. They enjoy fast-paced narratives and show a notable loyalty to the Scooby-Doo franchise, indicating a taste for light-hearted, entertaining stories that are safe for young viewers."
+}

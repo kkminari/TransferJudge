@@ -1,0 +1,77 @@
+{
+  "user_id": "AH5YEAKCVVF3DWORZQCTENLLTLMQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's animation",
+      "evidence": [
+        "My 5 year old (as well as 10 & 8 year old) LOVE watching Peppa.",
+        "My 3 year old daughter LOVES all things Little Einstein."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "These movies are great for long road trips!",
+        "Very Cute!"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "These movies are great for long road trips!",
+        "My daughter loves Bubble Guppies!"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "LOVE this movie!",
+        "My 3 year old has become obsessed with Little People."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Little Einsteins, Little People, Peppa Pig",
+      "evidence": [
+        "My 3 year old daughter LOVES all things Little Einstein.",
+        "My 4 year old LOVES Little People!"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory engagement",
+      "evidence": [
+        "My daughter loves Bubble Guppies!",
+        "These movies are great for long road trips!"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "My 5 year old (as well as 10 & 8 year old) LOVE watching Peppa.",
+        "My 3 year old has become obsessed with Little People."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for children's animated content, particularly shows like Peppa Pig and Little Einsteins. They enjoy simple narratives with fast pacing that engage their children visually and audibly, indicating a high emotional resonance with these shows."
+}

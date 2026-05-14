@@ -1,0 +1,77 @@
+{
+  "user_id": "AHTB4SDABIZNFXI56NZXHIF6KLTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, comedy, family, drama",
+      "evidence": [
+        "\"I'm a huge horror movie fan & no one can deny that these 4 are true classics.\"",
+        "\"I love this show, it’s a classic, I especially enjoy watching it around Halloween.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Overall, it was not fantastic, I understand why it was cancelled, it’s your average teen-drama high school show with nothing overly special to offer.\"",
+        "\"It’s a real shame that the show went on as long as it did though.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I really enjoyed this show all the way from season 1-4, they did a good job; it was mindless entertainment & held my attention.\"",
+        "\"It’s a tad long, but overall it’s entertaining, it has a creepy premise which holds your attention.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The picture & sound quality is good, I have watched each episode & haven’t had any issues with any discs.\"",
+        "\"The quality is great, the sound, the picture, everything is awesome.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I personally preferred the actors performances in the 1978 version, but again, that's just my opinion.\"",
+        "\"I’ve seen some of the remakes & I’m not a fan, the original is by far the best!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, nostalgic",
+      "evidence": [
+        "\"Watching the Silly Symphonies really takes you back, it's so much fun to watch them again.\"",
+        "\"The movie itself is creepy & disturbing, it’s raw & feels quite real.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I love this movie, it's fantastic, I've watched it so many times I've lost count.\"",
+        "\"It deals with real family issues & is something that younger people can relate to (12+).\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror and family-oriented content, often enjoying nostalgic and visually engaging experiences. They appreciate emotional depth in storytelling but tend to favor simpler narratives and slower pacing, indicating a preference for character-driven stories over complex plots."
+}

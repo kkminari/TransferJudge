@@ -1,0 +1,74 @@
+{
+  "user_id": "AGJES4T3D4XUCZVIRJVZE6TQNN5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, horror",
+      "evidence": [
+        "\"Extremely funny and entertaining\"",
+        "\"A very underrated movie you should see...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Familiar Plot. Not top quality acting.\"",
+        "\"Good concept poorly done.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Silly fun. Entertaining b movie.\"",
+        "\"Great Monster Action. Lifeless Actors Suck The Enjoyment...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The writing, casting and cinematography put this movie way above most horror comedies.\"",
+        "\"Very nice transfer but extras that are printed on sleeve as being on the disc are missing.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Picture looks great, a few new extras.\"",
+        "\"Excellent upgrade. Looks wonderful and has many new extras.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Disappointed isn't a strong enough word to use. Rip-off is a better used.\"",
+        "\"Don't waste your time or money...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedy and horror genres, often appreciating fast-paced and entertaining films. They show a strong sensitivity to production quality but have mixed feelings about narrative complexity and emotional engagement."
+}

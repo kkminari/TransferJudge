@@ -1,0 +1,77 @@
+{
+  "user_id": "AHZU2BPHBMYSICRUCQOV362WNHGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, action, thriller, sci-fi",
+      "evidence": [
+        "\"Action packed and great fun\"",
+        "\"Monsters in the tropics…need I say more?\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It gets rite to the point with a group of 8 strangers shackled in separated in cells.\"",
+        "\"The movie opens with a quick news report let’s us know there is a new virus spreading.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The action picks up quickly and doesn’t stop.\"",
+        "\"Almost 90 minutes of action and gore.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The production value here is amazing.\"",
+        "\"The music really adds and the professional Direction of Michael Su as usual doesn’t disappoint.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "The Mahal brothers, Michael Su",
+      "evidence": [
+        "\"I always feel honored and excited when my friend Sonny Mahal contacts me to review his new movies.\"",
+        "\"One of my favorite directors Michael Su of the genre, takes the helm.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric music",
+      "evidence": [
+        "\"The cinematography is so effective it takes you in the action and really put you on the edge of the seat.\"",
+        "\"The pairing up of Douglas Epps and Jack McCord was genius.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie just keeps building and building to a satisfying yet unexpected ending.\"",
+        "\"You feel there Horror. Imagine after being with true friends having fun and coming home to an abused mother and psychotic stepfather.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fast-paced horror and action films, often praising the production quality and direction. They show loyalty to specific filmmakers, particularly the Mahal brothers and Michael Su, and appreciate visual spectacle and emotional depth in storytelling."
+}

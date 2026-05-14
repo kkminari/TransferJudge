@@ -1,0 +1,77 @@
+{
+  "user_id": "AFFW5CGC6VA4W5YAEA4MFXR2YW2A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, drama",
+      "evidence": [
+        "Enjoyed an excellent cast in this thriller.",
+        "Gripping mystery and surprise ending."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "Story a little confusing but still compelling",
+        "Not as strong as season one, but performances and production excellent"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "The chemistry between the doctor and Rose makes each episode exciting.",
+        "Great writing, acting and excitement."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Great writing, wonderful actors, exciting videos",
+        "performances and production excellent"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "David Tennant",
+      "evidence": [
+        "Enjoy watching David Tennant and his wide range of emotions.",
+        "David Tennant great"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Lovely locations.",
+        "Costuming and settings great."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Interesting, surprising, great music and life insights.",
+        "Spellbounding performance by David Tennant and the cast and production were excellent."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for thrillers and dramas, particularly enjoying fast-paced narratives with high production quality. They show loyalty to David Tennant and appreciate emotional depth and sensory experiences in their viewing choices."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AF6VB35ERR4VVPZFKUNHZHYKN2QA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "noir, drama, romantic comedy, thriller",
+      "evidence": [
+        "\"Woman On The Run(1950), is a tight noir gem that deserves much more exposure...\"",
+        "\"The Sure Thing(1985) is my favorite of the two... It is a very warm-hearted romantic comedy delight!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The film also touches on some issues that would come to the forefront in motion pictures in future years...\"",
+        "\"The film features expressionistic visual style, the tortured, morally ambiguous hero...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The film flows down like a nice glass of champagne, but leaves you somewhat thirsty for more.\"",
+        "\"The action moves along very well...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The quality of the transfer is truly pristine, however, and a joy to get lost in the excellent cinematography...\"",
+        "\"The remastered film is an excellent transfer...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for specific directors (e.g., Fellini, Kubrick)",
+      "evidence": [
+        "\"My favorite film of all time is La Dolce Vita, by Fellini...\"",
+        "\"Criterion continues to keep them coming. The Killing(1956), Stanley Kubrick's great noir...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The film is truly a feast for the eyes...\"",
+        "\"The atmosphere, even though mostly created on sets, is truly remarkable...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...I found myself wiping a tear from my eye, much like Anita in the film.\"",
+        "\"...the film remains heartwarming, insightful, poignant, funny and a true feast for the eyes!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for noir and complex narratives, often appreciating high production quality and emotional depth in films. They show loyalty to notable directors like Fellini and Kubrick, and enjoy films that are visually striking and thought-provoking."
+}

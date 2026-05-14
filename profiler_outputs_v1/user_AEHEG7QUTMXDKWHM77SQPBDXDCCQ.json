@@ -1,0 +1,74 @@
+{
+  "user_id": "AEHEG7QUTMXDKWHM77SQPBDXDCCQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, Christmas",
+      "evidence": [
+        "\"Best Christmas movie ever\"",
+        "\"Classic great movie we watch it every year\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great movie\"",
+        "\"Good movie\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Funny movie should be able to keep it for longer\"",
+        "\"Great movie!!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great movie\"",
+        "\"Good movie\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"Great family movie we enjoyed it\"",
+        "\"Classic movie it never gets old\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is on my favorites list and will stay there forever best movie ever\"",
+        "\"One of the best Christmas movie ever in life I watch it every year\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family and Christmas-themed movies, often enjoying simple narratives that evoke emotional resonance. They appreciate films that are entertaining and memorable, indicating a preference for light-hearted, feel-good content."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AFAL7WO6LNKAYTFUFEGOMHUC5ZXQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, historical",
+      "evidence": [
+        "'Great historical perspective'",
+        "'Sociological significant'"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "'Clear demonstration of second and third order effects'",
+        "'Think of Durkheim’s Anomie and Robert Merton’s Strain theory'"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "'This is still occurring today in the never ending world of geopolitics'",
+        "'This explains alot'"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "'Very endearing film'",
+        "'This may to become very real relevant in the near future.'"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "'Goes to show you life in the time Brezhnev’s reign along with the internal battles for power along with rampant corruption.'",
+        "'Humanity is extremely fortunate that this man was on-duty.'"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'Very endearing film'",
+        "'This explains alot'"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for complex, documentary-style narratives that explore historical and sociological themes. They value high production quality and emotional resonance, indicating a taste for thought-provoking content that engages deeply with its subject matter."
+}

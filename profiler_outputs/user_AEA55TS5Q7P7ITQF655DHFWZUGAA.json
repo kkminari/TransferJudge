@@ -1,0 +1,78 @@
+{
+  "user_id": "AEA55TS5Q7P7ITQF655DHFWZUGAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, fantasy romance, dystopian",
+      "evidence": [
+        "\"Great cast -- Kate Beckinsale is wonderful in this role\"",
+        "\"Well done, good story line. If you're a fan of fantasy romance, this show is for you.\"",
+        "\"Not funny -- nothing but slapstick jokes about a very sensitive subject.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Rich, extremely complex characterizations combined with beautiful cinematography.\"",
+        "\"Thoughtful, complex characters, and a twisting and turning plot line make Dig very interesting.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I binge-watched the whole season in two days.\"",
+        "\"I binge-watched the last five episodes -- just couldn't stop.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Beautiful cinematography and extremely complex characters.\"",
+        "\"Great cast -- Kate Beckinsale is wonderful in this role, delivering her character's wildly narcissistic lines with a straight face.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific directors or actors mentioned as favorites.",
+        "No franchises or series indicated as favorites."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Beautiful cinematography and extremely complex characters.\"",
+        "\"Gritty, realistic dystopian future akin to Blad Runner.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Outstanding cast and great performances, including William Hurt.\"",
+        "\"This is about the McCarthy era and the blacklisting of Hollywood actors, screenwriters, and producers who dared to believe that in the U.S.A. you could have freedom of thought and political opinion.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex narratives with strong character development and high production quality, particularly in drama and fantasy romance genres. They prefer fast-paced storytelling and have a high emotional engagement with the content they consume."
+}

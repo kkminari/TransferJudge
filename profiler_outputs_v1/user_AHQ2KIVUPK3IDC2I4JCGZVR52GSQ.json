@@ -1,0 +1,74 @@
+{
+  "user_id": "AHQ2KIVUPK3IDC2I4JCGZVR52GSQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, kids, drama",
+      "evidence": [
+        "\"Great show for kids!\"",
+        "\"Perfect for family movie night!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great story line and definitely entertaining.\"",
+        "\"Easy to get lost into and a fun show to watch with the kids.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It has a great story line and feels so realistic!\"",
+        "\"Definitely recommend!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"It is so engaging and has so many cliffhangers!\"",
+        "\"The quality of everything is just out of this world.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, engaging storytelling",
+      "evidence": [
+        "\"It is hard not to get a little sweaty while watching it because it is so suspenseful and touching.\"",
+        "\"Great story and safe for kids.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is so sweet, touching and entertaining!\"",
+        "\"Definitely recommend!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly and engaging content, particularly suitable for kids. They appreciate high production quality and emotional storytelling, favoring simple narratives with fast pacing."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AGNDFYOEI7CHC6B3GZATQMI63CNQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama",
+      "evidence": [
+        "\"Definitely a kids movie but enjoyed\"",
+        "\"Wonderful movie. I guess we will never know the true depth of sadness this great performer sank to...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Such a delightful movie\"",
+        "\"Fun movie\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Fun movie\"",
+        "\"Great movie\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Well that was an hour of pure painful crap\"",
+        "\"Definitely a kids movie but enjoyed\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"FOREVER QUEEN FAN\""
+      ],
+      "confidence": 0.3,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Wonderful story\"",
+        "\"Such a delightful movie\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I guess we will never know the true depth of sadness this great performer sank to, but I’ll know the great joy his gift gave me\"",
+        "\"Best movie ever\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family and drama genres, particularly simple and fast-paced narratives. They have a low sensitivity to production quality but place high value on emotional resonance and storytelling."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFQQXCM3C46UB4HQ5KACLDE5F6QQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, sci-fi, action, fantasy",
+      "evidence": [
+        "It's a glorious yet calm look into the lives of girls who are cyborg assassins.",
+        "It's a wonderful film, high in its characterizations and interactions."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "The first two episodes are hard to follow as they jump back and forth between scenes happening at different times.",
+        "The story starts to take twists as murders pop up, a mysterious figure keeps showing itself and flashings between fantasy and the real world become more frequent."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "It is about their present lives, how they are handling it, how real they actually are and what kind of lives they live.",
+        "It's a short film, nothing grand and drawn out."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The animation is superb and the blend with CG and animation is very seamless and very well executed.",
+        "The art style, realistic and very beautiful, a worthy Masterpiece of art."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "I'm a very open-minded person. When it comes to Anime, I pretty much look at everything from an objective point of view, without ties into what I wanted it to be... but with Kenshin it's a little different.",
+        "Armitage the Third was one of my more favorite Anime's."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "It is a movie about emotions, and they can be heavy at times.",
+        "The moments of silence reminded me of that uncomfortable moment in Evangelion in the elevator."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I liked the anime. I thought it was very different from what I originally perceived it to be, and so it was a nice surprise later on as I got to understand what it was about.",
+        "It's a wonderful film, high in its characterizations and interactions."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex narratives and character-driven stories across various genres, particularly drama and sci-fi. They appreciate high production quality and emotional depth in their viewing experiences, often favoring slower-paced, introspective content over action-heavy plots."
+}

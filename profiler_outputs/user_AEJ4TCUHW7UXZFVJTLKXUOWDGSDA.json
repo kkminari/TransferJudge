@@ -1,0 +1,78 @@
+{
+  "user_id": "AEJ4TCUHW7UXZFVJTLKXUOWDGSDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama, comedy",
+      "evidence": [
+        "\"Good PBS series about the US Presidents\"",
+        "\"Good documentary of an avoidable tragedy\"",
+        "\"I loved this film. The writing made this a unique and very funny film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story of the open bottle travelling in the van back and forth didn't sound right to me.\"",
+        "\"I found it unengaging, the story drifting, the characters uninteresting and the music jarringly out of place.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The episodes move along quickly but smoothly.\"",
+        "\"I ended up watching 4 episodes last night because I loved it so much.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"This movie is a pleasure to watch every minute.\"",
+        "\"The music swelled loudly in and out, drowning out and muffling the dialogue.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Jeff Bridges made this film worthwhile to see.\"",
+        "\"Kerry Washington is wonderful as the lead actor.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It is filled with stunning visuals and helpful narration that guides us through the purpose and creativity of some examples from the best architects.\"",
+        "\"The sumptuous colour doesn't detract from this being a wonderful modern film noir.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I am so sorry for all the lives lost in this tragedy and for the son who lived.\"",
+        "\"Meryl Streep gave an outstanding performance.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys documentaries and dramas, particularly those with strong narratives and engaging pacing. They appreciate high production quality and emotional depth in their viewing experiences, while showing less loyalty to specific creators."
+}

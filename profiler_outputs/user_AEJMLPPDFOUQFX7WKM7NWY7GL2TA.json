@@ -1,0 +1,77 @@
+{
+  "user_id": "AEJMLPPDFOUQFX7WKM7NWY7GL2TA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary, indie, character-driven",
+      "evidence": [
+        "\"The film examines the ways the American-backed regime under Bautista affected individual Cubans... the essence of a people's revolution.\"",
+        "\"It's really a shame that a movie like this gets so little hype. 'Tape' is completely stripped down... dialogue-driven.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The story also threads characters in and out of the plot, and many seem peripherally related to each other.\"",
+        "\"It presented a multilayered perspective on the different dimensions of the neo-nazi movement in Germany.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Much of 'Calendar' is deliberately paced, and beautifully shot.\"",
+        "\"It builds its tension very slowly, but once it gets going it does not let up.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"It's absolutely some of the best cinematography I have ever seen.\"",
+        "\"The writing is beautiful, and the cinematography is both original and extraordinary.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Atom Egoyan, Agnes Varda",
+      "evidence": [
+        "\"As with other Egoyan films I have seen ('Speaking Parts', 'Exotica', and 'The Sweet Hereafter')...\"",
+        "\"In Agnes Varda's 'Vagabond'...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The gritty unwashed feel of the movie makes it a special experience.\"",
+        "\"The use of the soundtrack is both inventive and emotionally effective.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is by far the most affecting film about war I have ever seen.\"",
+        "\"If you had a few psychology courses as an undergrad, you might see strains of schizophrenia...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for character-driven dramas and documentaries that explore complex narratives and emotional depth. They appreciate high production quality and are particularly loyal to directors like Atom Egoyan and Agnes Varda, indicating a taste for thoughtful, slow-paced storytelling."
+}

@@ -1,0 +1,73 @@
+{
+  "user_id": "AGYIA7T2D4WIGMFWDT2UXZYF4NZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, sci-fi",
+      "evidence": [
+        "\"This is a great kids movie. The animation is wonderful, the story is heartwarming and their are some very nice messages about social responsibilities...\"",
+        "\"I've always liked John Goodman and this show really hits on the hilarity in today's politics...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"As a long time Star Trek fan I enjoyed this but not as much previous movies. The big screen movies seem to go from borrowing heavily from earlier TV plots to some that are really imaginative...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This movie is one of the funniest I've seen. It gets a little crude at times but the laughs are undeniable!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great movie!\"",
+        "\"Sure makes you think about things...\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Kate Winslet never disappoints and Josh Brolin did a good job...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Lots of action and great special effects but the plot wasn't given as much attention...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Sure makes you think about things...\"",
+        "\"The story is heartwarming and their are some very nice messages about social responsibilities...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and comedic films, often appreciating heartwarming stories with positive messages. They show a preference for fast-paced narratives and are less concerned with production quality, indicating a focus on entertainment value."
+}

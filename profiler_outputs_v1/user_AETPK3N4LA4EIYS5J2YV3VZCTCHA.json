@@ -1,0 +1,77 @@
+{
+  "user_id": "AETPK3N4LA4EIYS5J2YV3VZCTCHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, family, sci-fi",
+      "evidence": [
+        "\"I’m a huge British mystery buff and this one doesn’t disappoint.\"",
+        "\"This is one of my favorite sci-fi series!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Very entertaining and a fun watch.\"",
+        "\"It’s not action packed or scary in anyway, but filled with great actors telling a story worth being told.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The storyline was engaging and binge-worthy for mystery viewers.\"",
+        "\"I love the actors and the storylines are engaging.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"It has excellent acting and the story premise draws the viewer in.\"",
+        "\"The actors did a wonderful job and kept me involved in the story!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Martin Clunes, Tom Hanks",
+      "evidence": [
+        "\"First of all, I love Martin Clunes!\"",
+        "\"Another win for Tom Hanks!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual storytelling",
+      "evidence": [
+        "\"I love that it takes place in Australia and how it covers different cultural aspects of life there.\"",
+        "\"The music and characters are a lot of fun!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I could see that it was an important role to her, in her performance.\"",
+        "\"This is definitely the kind of mystery I enjoy.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for mystery and family genres, particularly enjoying engaging storylines with high-quality acting. They appreciate slower pacing and visual storytelling, often highlighting the emotional impact of the narratives."
+}

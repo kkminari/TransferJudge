@@ -1,0 +1,76 @@
+{
+  "user_id": "AHGH5SEZAFGIGEHSXVI6KDKZWI7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary, historical",
+      "evidence": [
+        "\"Nice, light drama & I like British movies.\"",
+        "\"If you're an ancient Egypt fan, this is a terrific choice.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The script is sung instead of spoken. It sounds like the actors are having to 'sing' their lines without a score!\"",
+        "\"The movie seemed more of a Douglas history than an entertaining movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This one is a longer production, giving more character development.\"",
+        "\"The film takes you across the gorgeous landscape & the inside tour is beautiful.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The Blu-ray picture is great as are the actors and cinematography.\"",
+        "\"The special effects look more authentic, also.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have all the collections so far & hope they keep 'em coming!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"You feel like the tour has taken you into parts of the estate that the usual visitor would have missed.\"",
+        "\"The film takes you across the gorgeous landscape & the inside tour is beautiful.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"Helped me understand more clearly the situation over there.\"",
+        "\"I liked it very much. You see how much work & money it costs the families to maintain their ancestral homes.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light dramas and educational documentaries, particularly those with strong production quality. They prefer slower-paced narratives that provide character development and immersive experiences, though they show mixed feelings towards emotional engagement and brand loyalty."
+}

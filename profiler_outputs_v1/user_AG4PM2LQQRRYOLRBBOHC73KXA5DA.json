@@ -1,0 +1,77 @@
+{
+  "user_id": "AG4PM2LQQRRYOLRBBOHC73KXA5DA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, documentary, musical",
+      "evidence": [
+        "\"Timeless comedy surrounding a historical period of darkness.\"",
+        "\"Songs that are meant to sing in the house or shower\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Timeless comedy surrounding a historical period of darkness.\"",
+        "\"The whole package was more than I expected\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great western and chemistry between Characters Brennen spot on effort well deserving of his Oscar for the role\"",
+        "\"Hope at his comedic best and wonderful songs\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Gene's genius and supporting cast is tops.\"",
+        "\"Branagh and the score turns this into a triumph\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Mel Brooks, Gene Kelly",
+      "evidence": [
+        "\"Like Mel Brooks, one remembers the lines and speak it out loud when prompted with life.\"",
+        "\"The genius of Gene Kelly...His finest\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "musical, visual spectacle",
+      "evidence": [
+        "\"Songs that are meant to sing in the house or shower\"",
+        "\"The whole package was more than I expected\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Timeless comedy surrounding a historical period of darkness.\"",
+        "\"The whole package was more than I expected\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies and musicals, particularly those with memorable songs and engaging performances. They appreciate high production quality and show loyalty to creators like Mel Brooks and Gene Kelly, indicating a taste for both humor and musicality in their viewing experiences."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AF7OPVMFVDGRGS3IK52CN72O2SUA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action, comedy",
+      "evidence": [
+        "\"Always enjoyed this series from the 60's.\"",
+        "\"Great comedy of parents who seal themselves off from the rest of the world mistakenly believing a nuclear war has taken place.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A great story that needs to be seen.\"",
+        "\"Not a good story line. It was slow to start, but did pick up on the action.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The action never stops with the rest SG1 team as they battle the Goa'uld and others in exploring the galaxy.\"",
+        "\"Plenty of car chases and some personal moments to add to the mix.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"The only reason I bought the movie was because of Patrick Stewart and Hugh Jackman.\"",
+        "\"A bit cheesy, but this gives you the information on how the guyver really was to be.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Glad to have found. Really a different twist to the old time travel and routine.\"",
+        "\"One of the better marvel movies as of lately.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Really good movie with Tom Cruise at the stick, once again.\"",
+        "\"Interesting way it presented other humans trying to escape robotic terror to get to Earth.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Not a good story line. It was slow to start, but did pick up on the action.\"",
+        "\"A bit cheesy, but this gives you the information on how the guyver really was to be.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action-packed and comedic sci-fi content, often appreciating fast-paced storytelling. They show a preference for visual spectacle but are less concerned with narrative complexity and production quality."
+}

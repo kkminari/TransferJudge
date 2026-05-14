@@ -1,0 +1,77 @@
+{
+  "user_id": "AFKI7FSIR4KAID4VA6YSHQWSOX6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, thriller, documentary, comedy",
+      "evidence": [
+        "\"spooky and on the edge of your seat horror/thriller\"",
+        "\"It's Chuck Berry......Own It......100% A Documentary Though\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great Movie.......spooky and on the edge of your seat horror/thriller\"",
+        "\"Funny Movie\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"spooky and on the edge of your seat horror/thriller\"",
+        "\"Balls To The Wall Movie\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Shout Select can definitely remaster Movies the quality is great\"",
+        "\"4K Is A Major Upgrade\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "General praise for classics without specific names."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"4K upgrade for a classic horror icon\"",
+        "\"Great Movie 4K Is A Major Upgrade\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Not a great film it's a ok watch\"",
+        "\"Glad to own but very censored\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for horror and thriller genres, particularly enjoying fast-paced narratives with high production quality. They appreciate visual upgrades like 4K remasters but do not express strong loyalty to specific creators or franchises."
+}

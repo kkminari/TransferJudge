@@ -1,0 +1,77 @@
+{
+  "user_id": "AHTACEYMMZKPSL3PIOJUJD2RYBIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, drama, comedy",
+      "evidence": [
+        "\"Highly recommended for fans of fantasy and fans of the book\"",
+        "\"A lovely Machiavellian love story\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Smart, intriguing, full of twists, very suspenseful\"",
+        "\"Everything opens up like a peony revealing layers on layers of lush petals\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It's not a laugh-out-loud sort of movie, at least not for me\"",
+        "\"It's a beautiful movie, and the cast does a wonderful job\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is great, the story is fantastic, love the setting\"",
+        "\"I'm very sensitive to writing/dialogue issues, so that kept me from giving this the five stars\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Miyazaki",
+      "evidence": [
+        "\"This is one of three favorite Miyazaki movies\"",
+        "\"I believe I have all of them, as well as a few that he was involved in as a producer\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric music",
+      "evidence": [
+        "\"The art (as always) is stunning\"",
+        "\"Some of the music in this piece is so indescribably beautiful\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It affects me deeply, stirring up feelings about watching Jacques Cousteau documentaries\"",
+        "\"A timeless love story that makes your heart bleed and rejoice at the end\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy and drama genres, particularly enjoying complex narratives with emotional depth. They appreciate high production quality and are loyal to creators like Miyazaki, often valuing visual and musical elements in their viewing experiences."
+}

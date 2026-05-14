@@ -1,0 +1,77 @@
+{
+  "user_id": "AF3ZVOE2U7EXX3MS7OROUFLVHQ5A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, sci-fi, mystery, horror",
+      "evidence": [
+        "\"One of my favorite movies ever.\"",
+        "\"A really well written and directed farce.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The obtuse nature of how the story unfolds is part of that atmosphere.\"",
+        "\"It's a Tone poem and not a blunt instrument.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"You ease into it like a warm bath, and soak up the vibes and frequencies it gives off...\"",
+        "\"The obtuse nature of how the story unfolds is part of that atmosphere.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"A beautiful region free steelbook of the Kubrick classic...\"",
+        "\"The transfer is very good.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for Kubrick and Fincher",
+      "evidence": [
+        "\"A beautiful steelbook of the Kubrick classic...\"",
+        "\"A great David Fincher film. It has all his technical craft...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"You ease into it like a warm bath, and soak up the vibes and frequencies it gives off...\"",
+        "\"The obtuse nature of how the story unfolds is part of that atmosphere.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It's just a nice piece of filmmaking and storytelling that sadly, we rarely get anymore.\"",
+        "\"I saw it when it opened with no influence, positive or negative, going in. And that was my honest reaction.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong appreciation for classic and well-crafted films, particularly those by directors like Kubrick and Fincher. They favor complex narratives with a slow pacing that allows for deep emotional engagement and high production quality."
+}

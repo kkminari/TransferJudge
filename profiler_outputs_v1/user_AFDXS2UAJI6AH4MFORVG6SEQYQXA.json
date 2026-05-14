@@ -1,0 +1,74 @@
+{
+  "user_id": "AFDXS2UAJI6AH4MFORVG6SEQYQXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, cute",
+      "evidence": [
+        "We love all the Descendant movies. The cast is great."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good movie",
+        "Cute movie"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Good movie",
+        "Okay movie"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Good movie",
+        "Cute movie"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Descendants",
+      "evidence": [
+        "We love all the Descendant movies."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "light-hearted, family-friendly",
+      "evidence": [
+        "Cute movie",
+        "My daughter enjoyed."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "My daughter enjoyed."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted and family-friendly movies, particularly those in the Descendants franchise. They prefer simple narratives and have a moderate emotional engagement with the content."
+}

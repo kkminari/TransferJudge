@@ -1,0 +1,77 @@
+{
+  "user_id": "AFFQJRTRZKRATWDH4E63VAOTN7DQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "Christmas, Christian, Comedy",
+      "evidence": [
+        "\"A must for the Christmas movie lover...\"",
+        "\"Excellent faith-based, i.e. Christian, flick...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A really good 'feel' movie and Sorbo is excellent as usual...\"",
+        "\"...the story is wonderful and this is, indeed, a movie you could watch several times...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"...takes a lot of concentration and patience to view: rather boring in many parts...\"",
+        "\"...gets pretty interesting towards the end...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Although rather amateurish acting, the story is wonderful...\"",
+        "\"Not great acting but worth a watch.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"...highly recommended for the Christmas season or any season.\"",
+        "\"...a must for the film history fan...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, humorous",
+      "evidence": [
+        "\"...added bits of humor to the study...\"",
+        "\"...the duck scenes are hilarious...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Touching story with some very good acting...\"",
+        "\"...a story about 'what if' I had done things differently...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for Christmas and Christian-themed movies, often enjoying simple narratives with a humorous touch. They appreciate emotional resonance in storytelling but show less concern for production quality, indicating a focus on the overall message and enjoyment of the content."
+}

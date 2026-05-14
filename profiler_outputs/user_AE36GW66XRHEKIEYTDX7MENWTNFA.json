@@ -1,0 +1,77 @@
+{
+  "user_id": "AE36GW66XRHEKIEYTDX7MENWTNFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama",
+      "evidence": [
+        "I am hooked on British mysteries (Morse, Lynley, Lewis, Campion, Jack Taylor, Poirot, Marple, Rumpole, et al)",
+        "Happy, if predictable, tale. Just a nice, feel-good film with beautiful locales and engaging characters."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Just a nice, feel-good film with beautiful locales and engaging characters.",
+        "The power of the story was lost and it turned into just another tear-jerker."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "As much as I enjoy Laura Dern, et al, this show was just too top-of ones-lungs-poor-me. Really just too much screaming.",
+        "I will never watch The Shell Seekers again, and am putting mine up for sale (cheap!)."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Happy, if predictable, tale. Just a nice, feel-good film with beautiful locales and engaging characters.",
+        "Great story lines, great acting, beautiful locations, good mysteries!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for British mysteries",
+      "evidence": [
+        "I am hooked on British mysteries (Morse, Lynley, Lewis, Campion, Jack Taylor, Poirot, Marple, Rumpole, et al)",
+        "If I can't have John Thaw as Morse, then this will do just fine."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Visually beautiful!",
+        "Lovely costumes and sets."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I have loved Robert Stephens as Sherlock. He has just the right amount of theatrics and tongue-in-cheekness.",
+        "The power of the story was lost and it turned into just another tear-jerker."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys British mysteries and values high production quality, often appreciating beautiful settings and engaging characters. They prefer simpler narratives and slower pacing, with a strong emotional connection to the stories they watch."
+}

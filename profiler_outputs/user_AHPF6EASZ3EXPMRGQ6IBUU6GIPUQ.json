@@ -1,0 +1,76 @@
+{
+  "user_id": "AHPF6EASZ3EXPMRGQ6IBUU6GIPUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"Woody Allen is the comedic genius of our time.\"",
+        "\"Extraordinary series, showing what Independent Women everywhere must endure and overcome.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Delightful, beautiful and superbly-cast series.\"",
+        "\"Brilliant, endearing work by a gifted team of true artists.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great mind-bending fun!\"",
+        "\"Without a single spoken word, this hilarious series delivers smiles for every person, every age, everywhere.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Superb piece of the film-making art by every measure.\"",
+        "\"Five stars. What did you expect? It's Frasier.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Woody Allen",
+      "evidence": [
+        "\"Woody Allen is the comedic genius of our time.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Brilliant, endearing work by a gifted team of true artists.\"",
+        "\"Extraordinary series, showing what Independent Women everywhere must endure and overcome.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A must-view in times like today.\"",
+        "\"Delightful, beautiful and superbly-cast series.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and drama, particularly valuing high-quality production and emotional resonance in storytelling. They appreciate fast-paced narratives and show loyalty to creators like Woody Allen, indicating a taste for engaging and well-crafted content."
+}

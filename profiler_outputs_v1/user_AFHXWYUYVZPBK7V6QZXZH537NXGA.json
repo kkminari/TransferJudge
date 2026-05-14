@@ -1,0 +1,77 @@
+{
+  "user_id": "AFHXWYUYVZPBK7V6QZXZH537NXGA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animated, family, fantasy",
+      "evidence": [
+        "\"Always loved Balto!\"",
+        "\"Love anything Harry Potter related!\"",
+        "\"Sounds cheesy; but actually one of my favorite vampire movies!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good movie\"",
+        "\"It was ok to watch once...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Mostly the last half was annoying - DECIDE IF YOU’RE GONNA SINK WITH THE SHIP OR NOT!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good\"",
+        "\"Good movie\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Ryan Reynolds, Gerard Butler, Harry Potter",
+      "evidence": [
+        "\"I love this movie, Sandra Bullock, and Ryan Reynolds\"",
+        "\"Always love Gerard Butler\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, nostalgic",
+      "evidence": [
+        "\"Grew up watching these movies; I’ve always loved them!\"",
+        "\"I think this was my first dragon movie; loved it as a kid!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Love anything Harry Potter related!\"",
+        "\"Always loved the Old West one as a kid\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for animated and family-friendly films, often expressing nostalgia for childhood favorites. They show loyalty to specific actors like Ryan Reynolds and enjoy content that evokes emotional resonance, particularly in fantasy genres."
+}

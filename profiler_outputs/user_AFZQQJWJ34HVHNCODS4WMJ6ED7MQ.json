@@ -1,0 +1,77 @@
+{
+  "user_id": "AFZQQJWJ34HVHNCODS4WMJ6ED7MQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, thriller, drama, comedy",
+      "evidence": [
+        "\"I thoroughly enjoyed this action packed movie... the story line was just complex enough to hold my interest between action scenes...\"",
+        "\"Always violent and always captivating - it draws you in despite the violence with touches of humanity\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"the story line was just complex enough to hold my interest between action scenes...\"",
+        "\"The plot line was hard to follow and I received no enjoyment watching the first chapter...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Excitement, excitement and more excitement .... terrific action thriller\"",
+        "\"I really enjoyed this movie. This storyline captured my interest early and held it...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I can't give anything higher since I did not consider the acting to be above average by any of the cast; however as an action thriller it was good.\"",
+        "\"Very poor script and acting - disappointed by the fragmented disconnected content\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific mentions of favorite directors or actors.",
+        "No strong loyalty to franchises or series."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Wonderfully entertaining .... captures a little romance, drama and comedy in almost every episode\"",
+        "\"Rib hugging funny .... wonderful chemistry between all the characters\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I really enjoyed this movie. This storyline captured my interest early and held it...\"",
+        "\"Wonderfully entertaining .... captures a little romance, drama and comedy in almost every episode\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and thriller genres, enjoying fast-paced narratives with some complexity. They appreciate emotional resonance and character-driven stories but show low sensitivity to production quality and brand loyalty."
+}

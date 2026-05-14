@@ -1,0 +1,77 @@
+{
+  "user_id": "AGK55ZZZ3T3DFGTQU3SFCKDIQRSA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"I genuinely thought this would be funny. Boy was I wrong. Mostly I was bored...\"",
+        "\"I simply adore this! The idea of having a priest as the main character...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"lots and lots of time wasted on introductions, then more introductions...\"",
+        "\"it is hard to pack a story into only 15 min... but writer/director Aimee Powell pulls it off.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I fast fowarded quite a lot, then just bailed.\"",
+        "\"you have to pay attention... it is hard to pack a story into only 15 min...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I mean literally, laughed so hard that you fell down in your chair...\"",
+        "\"It's worth a look.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Paul had a lot of potential. It has some supremely talented people associated with it.\"",
+        "\"Michelle Dockery shines in this short film...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"the visuals are great, the story of the siege is very compelling...\"",
+        "\"the ambiguity of some of his actions is well played.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Dockery's Jodie is neither a pitiful figure overwhelmed... she's just someone who's doing her best...\"",
+        "\"This is one of the very few movies that I can honestly say changed the way I think.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for comedy and drama, often enjoying emotional and impactful storytelling. They tend to favor slower pacing and simpler narratives, while their sensitivity to production quality appears low. Overall, they appreciate content that resonates emotionally and offers a strong sensory experience."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AF7LBUD2YEIJHBS7DPJIM5SWGQZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "educational, family-friendly",
+      "evidence": [
+        "I love this series because it keeps him interested and it's educational.",
+        "Always entertaining. Love that there is no foul language so it's safe to have on when the kids are around."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Always entertaining. Love that there is no foul language so it's safe to have on when the kids are around.",
+        "Hate the beards but I love the family and their friends."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "EXCELLENT BUY. EDUCATIONAL, ENTERTAINING, AND FUN.",
+        "Same characters with a few straglers here and there."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "wish they made these on DVD but i enjoyed this show from my childhood.",
+        "we do the stress relief portion several times a week before bed."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "if your child likes science and stuff- these are a must have!",
+        "MY SON LOVED THE WHOLE SERIES."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "love the family and their friends.",
+        "keeps him interested and it's educational."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "EXCELLENT BUY. EDUCATIONAL, ENTERTAINING, AND FUN.",
+        "love this video- we do the stress relief portion several times a week before bed."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for educational and family-friendly content, often enjoying shows that are entertaining and safe for children. They appreciate simple narratives and fast pacing, indicating a taste for engaging and light-hearted experiences."
+}

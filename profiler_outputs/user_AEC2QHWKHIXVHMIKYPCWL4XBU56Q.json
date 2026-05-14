@@ -1,0 +1,74 @@
+{
+  "user_id": "AEC2QHWKHIXVHMIKYPCWL4XBU56Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical fiction, comedy, sci-fi",
+      "evidence": [
+        "Enjoy historical fiction. Beautiful clothes and scenery, indoors and out.",
+        "fun sy fy"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good writing and acting. Try it.",
+        "Good yarn"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "was a good series, never long enough to satisfy me",
+        "Wish it had continued, loved location and actors"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "Good writing and acting. Try it.",
+        "Best place to get movies"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Beautiful clothes and scenery, indoors and out.",
+        "Weird and great."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "so sorry this show is being cancelled. One of the more intelligent",
+        "too bad it didn't continue"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of historical fiction, comedy, and sci-fi, with a preference for slower-paced narratives that emphasize character development. They appreciate good writing and acting, and their reviews reflect a strong emotional connection to the shows they watch."
+}

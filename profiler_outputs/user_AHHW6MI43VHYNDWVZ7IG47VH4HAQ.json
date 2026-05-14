@@ -1,0 +1,77 @@
+{
+  "user_id": "AHHW6MI43VHYNDWVZ7IG47VH4HAQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, adventure, family, animation",
+      "evidence": [
+        "\"I love 'Lord of the Rings', I love unicorns and dragons and magical amulets, I love adventure and romance and humor\"",
+        "\"I absolutely love it. I can watch it over and over again, and I don't think I'd ever get tired of it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The animation is beautiful, and the music is superb. Lex de Azevedo is a brilliant songwriter, and Richard Rich is a terrific director.\"",
+        "\"This movie is very innocent and genuine, something that you don't see very much of these days; with all these R-rated movies packed with violence and vulgarity and sexuality and heaven knows what else.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I know this is based on what really happened, and I know this is supposed to be a dramatic love story (I'm a sucker for romance), but there are certain things you just don't care to see on-screen.\"",
+        "\"This movie is wonderful. Although it didn't exactly make me cry, it did touch me in a sentimental way.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The animation is superior (I'm especially impressed with how they animated Tarzan himself--all those muscles look real convincing; Glen Keane, the designer of Tarzan, must really know his anatomy)\"",
+        "\"The animation is brilliant, the music is flawless, and the actors are superb.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"I fell in love with Frodo and Sam (I am now officially a fan of Elijah Wood, and a fan of Sean Astin)\"",
+        "\"The people at Disney certainly did an excellent job on improving the original movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The animation is beautiful, and the music is superb.\"",
+        "\"This movie is a perfect Easter treat for the whole family. It's beautiful and heartwarming, from the beginning to the very end.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Anyone who is not affected by this scene would have to have a heart of stone.\"",
+        "\"This movie is just so beautiful. And the story it teaches is simply priceless.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy and family-oriented films, particularly those with beautiful animation and emotional depth. They appreciate high production quality and are loyal to creators like Disney, often enjoying simple narratives that evoke strong feelings."
+}

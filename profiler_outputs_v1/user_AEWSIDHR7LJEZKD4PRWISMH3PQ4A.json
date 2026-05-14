@@ -1,0 +1,77 @@
+{
+  "user_id": "AEWSIDHR7LJEZKD4PRWISMH3PQ4A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, legal, medical",
+      "evidence": [
+        "It presented a view of another part of the medical field I knew little about",
+        "Great series if your interest is in the life of high power lawyers."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "a very suspenceful story with a number of twists and turns",
+        "The stories intertwine between corporate law issues and then there are people oriented issues dealing with child advadacy"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Enjoyed this series. We hope it will be renewed for a 7th season.",
+        "It's sad that the series did not get picked up for continuation."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "I especially enjoyed that the use of the F..... bomb was in very limited use.",
+        "Good movie overall, but they could have restrained the use of the F--- word."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Have enjoyed Simon Baker's character.",
+        "I hope the public likes this series, so that another season and Bosch story can be told."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "Suspenseful, and Humorous.",
+        "The characters are enjoyable watch and the story lines are usually quite interesting."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "It's sad that the series did not get picked up for continuation.",
+        "I really enjoy this series."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys series that delve into drama, particularly in medical and legal contexts, appreciating character development and intertwining storylines. They show a moderate sensitivity to production quality and have a mixed emotional engagement with the content."
+}

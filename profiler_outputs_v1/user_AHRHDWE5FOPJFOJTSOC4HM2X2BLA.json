@@ -1,0 +1,76 @@
+{
+  "user_id": "AHRHDWE5FOPJFOJTSOC4HM2X2BLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, historical, musicals",
+      "evidence": [
+        "\"If you don't like musicals or screenplays, you won't like this movie.\"",
+        "\"Love historically based movies!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story was pretty good but not great.\"",
+        "\"Good but not great. It was pretty funny.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I like to be entertained.\"",
+        "\"Interesting but kinda sad\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Perfect casting in looks and voice.\"",
+        "\"Cate Blanchett did a great job with presenting the quirky character.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I'm a Russel Crowe fan but the story is awesome, riveting\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The wardrobe played as big a part as the scenery.\"",
+        "\"I was glued to screen and had the volume up.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I cried.\"",
+        "\"You cry, you laugh and you shout for joy at her successes.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for romantic and historical films, particularly those that are musicals. They appreciate high production quality and emotional storytelling, often leading to a deep emotional engagement with the content."
+}

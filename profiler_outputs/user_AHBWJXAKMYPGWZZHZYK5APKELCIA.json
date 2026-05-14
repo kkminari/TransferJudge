@@ -1,0 +1,77 @@
+{
+  "user_id": "AHBWJXAKMYPGWZZHZYK5APKELCIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, psychological, action, thriller",
+      "evidence": [
+        "\"This is one of the most beautifully written and soulful series out there (anime or non)\"",
+        "\"A movie for the hopeless romantic. Even translated, every line in this movie is pure poetry.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Each episode is an independent (but loosely continuous and connected) short story. Endings are often surprising and thoughtful.\"",
+        "\"The story follows a small group of hired absestos removers as they spend a week to remove absestos from a shut-down insane asylum, as things fall apart between the workers during the week.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This isn't particularly a tear-jerker either, but there are stories of profound sadness. What it is, is a drama that lets itself take itself to develop the story.\"",
+        "\"The pace is not as action-oriented in the first few episodes, and the series itself is not wall-to-wall NINJA SCROLL action, but there's enough excitement and of different types.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The picture quality may not be HDTV but it's still crisper and more clear than when it was broadcast back in the '80s.\"",
+        "\"The animated movie itself follows the book very closely - all the way down to the 'rabbit language' which the book provides a glossary for.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"ARC THE LAD numbers among COWBOY BEBOP, GASARAKI, and NEON GENESIS EVANGELION as one of the few anime series that I have to get the COMPLETE set.\"",
+        "\"I loved this much more than Kore-Eda's first movie Maborosi.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It's definitely grisly and mysterious with a lot of background on Japanese culture.\"",
+        "\"The way it's animated is not traditional and very emotionally abstract, so don't call this a cartoon or even a family film.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It's especially touching how Kore-Eda deals with how we see ourselves through memories and how that can change from moment-to-moment.\"",
+        "\"The end of the series is especially touching, but what makes the series great is how the characters get to know each other from beginning to end.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for beautifully crafted dramas with complex narratives and emotional depth. They appreciate high production quality and tend to favor slower pacing that allows for character development and storytelling. Their reviews indicate a fondness for psychological themes and a mix of genres, particularly drama and thriller."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHZNTSKVCBC7W4BG6Z5663ZGI4LQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, action, horror, family",
+      "evidence": [
+        "\"1 of the best shows ever\"",
+        "\"great for your twilight collection\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Interesting movie\"",
+        "\"This movie was good to see\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"a must have for power ranger fans\"",
+        "\"Another Addams family classic\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good purchase, but some episodes have sound issues\"",
+        "\"this finished my Hellraiser collection\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to specific franchises",
+      "evidence": [
+        "\"1 of the best shows ever\"",
+        "\"a must have for blade fans\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic sensory",
+      "evidence": [
+        "\"for those who have the same illness and for those who want to understand someone with the same illness.\"",
+        "\"1 of the best Christian Movies\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"for those who have the same illness and for those who want to understand someone with the same illness.\"",
+        "\"1 of the best Christian Movies\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for fantasy, action, and horror genres, with a notable loyalty to specific franchises like Twilight and Blade. They appreciate fast-paced narratives and have a high emotional resonance with content that connects to personal experiences."
+}

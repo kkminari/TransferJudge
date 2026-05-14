@@ -1,0 +1,76 @@
+{
+  "user_id": "AFB2ANUCQUKOSZJCGY2FWEW7IIBA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "love having the full TV series in my collection...",
+        "great movie...read the book years ago and wanted to get the movie..."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "good movie..",
+        "great movie.."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "very cool show...",
+        "great movie..."
+      ],
+      "confidence": 0.3,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "love having the series...but the closed captioning is terrible...",
+        "good movie.."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "great movie...read the book years ago and wanted to get the movie..."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "love having the full TV series in my collection...",
+        "great movie..."
+      ],
+      "confidence": 0.3,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "good movie..",
+        "great movie..."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of movies and TV shows, often expressing satisfaction with their choices. They seem to prefer fast-paced narratives and are less concerned with production quality, indicating a focus on entertainment value."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AH24AXIG2WSMXXKEJWCZOCCBYP4A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"great show!\"",
+        "\"good stuff. a few missed opportunities but a good flick over all.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"painfully slow. love floyd, didn't love this.\"",
+        "\"not quite Shindlers list... but enough mindless violence to keep the kiddies pumping each other for days to come!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Kicks and Fists! (and a little bit of story too)\"",
+        "\"great flick! funny,. low budget, actors were the writers and directors.. wow!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"painfully slow. love floyd, didn't love this.\"",
+        "\"bla bla bla. ben affleck, love, drama, crime... bla bla bla... we all know the story...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Kevin spacey is great as the main character.\"",
+        "\"smart people stuff.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"great show!\"",
+        "\"good stuff. a few missed opportunities but a good flick over all.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"sorry guys,. this show was not funny.\"",
+        "\"painfully slow. love floyd, didn't love this.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and dramas, often favoring fast-paced narratives. They show a low sensitivity to production quality and have mixed feelings about emotional engagement in the content they consume."
+}

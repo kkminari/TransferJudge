@@ -1,0 +1,74 @@
+{
+  "user_id": "AE42GNIYRNOIJFVRS7SUQR64HPUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"Well done drama with an interesting story.\"",
+        "\"This British comedy drama presents a very interesting look at life in a little fishing village in the British Isles.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story was easy-going and very well acted.\"",
+        "\"A amusing and interesting story without a lot of unnecessary drama.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Drags a little at times.\"",
+        "\"The plot never gets tiring and new twists appear in almost every episode.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Very well written and acted.\"",
+        "\"Great acting and directing!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The story contains a lot of funny situations as well as some fascinating drama.\"",
+        "\"Their day-to-day struggles are beautifully documented by a British film crew, and I found this story extremely interesting.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Sorry to see it end.\"",
+        "\"Very well done drama based on a fictional White House administration.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys well-crafted dramas and comedies, appreciating strong writing and acting. They prefer straightforward narratives with a slower pace, valuing emotional depth and production quality highly."
+}

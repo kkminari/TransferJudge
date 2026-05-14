@@ -1,0 +1,77 @@
+{
+  "user_id": "AFHWINUSEYHFEPO5MGYEZBWNDMZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, adventure, drama",
+      "evidence": [
+        "\"Naruto is the best!\"",
+        "\"WOW!! great action!! Great characters!! and Great world!!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Not as good as the first 4 seasons but still pretty good if not a tad too complicated at times.\"",
+        "\"It was very intriguing where season one left off and it showed season two could have been great!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"not only did they manage to make a show that was both fun and suspensfull, but they also managed to make it interesting and full of action.\"",
+        "\"a fun rollicking roller coaster of a ride!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"WOW!! great action!! Great characters!! and Great world!!! was totally amazed by this and kudos to AMC and Daniel Wu!!!\"",
+        "\"Finally Wonder woman on the big screen!! And yes it does the franchise good!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I remember loving this movie as a kid and still loved it as an adult!\"",
+        "\"Weeds has done it and hit me over the head again!!!! Wonderfull season with great acting from all the cast!!!!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"a surprisingly strong and touching story!! gets you in the feels!!\"",
+        "\"a classic! a fun adventure!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A GREAT reboot and reimaging of a very good old show that manages to be current as well as honoring the source material.\"",
+        "\"Amazing show both me and my mom loved watching!!! Timeless story, timeless humor and timeless heart!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and adventure genres, enjoying fast-paced narratives with high production quality. They value emotional resonance and sensory experiences in their viewing choices, often expressing loyalty to beloved franchises and characters."
+}

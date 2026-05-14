@@ -1,0 +1,77 @@
+{
+  "user_id": "AG3HCLAOWPI44WPSBNQTZOZZF76Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "'Classic 60s sitcom'",
+        "'Depressing show.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'Overacting and dated.'",
+        "'Since there's no recurring characters, there's nothing to hold on to.'"
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "'It bored me.'",
+        "'Take it or leave it.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "'Everything about this movie, from the acting, to the casting, to the soundtrack, is DREADFUL.'",
+        "'Waste of money.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "'Highly recommended.'",
+        "'Recommended'"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "'Waste of money.'",
+        "'Everything about this movie, from the acting, to the casting, to the soundtrack, is DREADFUL.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "'Depressing show.'",
+        "'I can't believe I wasted 2 hours and 21 minutes of my life on this piece of trash.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a mixed preference for genres, with a notable dislike for depressing themes. They are sensitive to production quality and tend to favor straightforward narratives, indicating a preference for entertainment over emotional depth."
+}

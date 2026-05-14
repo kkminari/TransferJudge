@@ -1,0 +1,74 @@
+{
+  "user_id": "AH4QEEYRW2SUXJDHS3PTT3VV32NQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, classic",
+      "evidence": [
+        "Grand kids favorite movie - one of ours also.",
+        "This is a CLASSIC!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great message!",
+        "Love this movie."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "once we start a season we sit until it's done - just can't wait to see what's going to happen."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "What can I say - missed this season and had to buy it.",
+        "This is well worth the money."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "So glad we are on Amazon Instant Video as we never saw any of the Sons."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high visual appeal",
+      "evidence": [
+        "Who doesn't like King Kong!",
+        "It's Prince - so it's GREAT!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Robin has a way to make you laugh and cry - this is one of his best and he has many."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and classic movies, often watching them multiple times with their grandchildren. They prefer simple narratives with high emotional resonance and a fast pacing, valuing entertainment over production quality."
+}

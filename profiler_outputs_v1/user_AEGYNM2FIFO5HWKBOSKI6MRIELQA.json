@@ -1,0 +1,72 @@
+{
+  "user_id": "AEGYNM2FIFO5HWKBOSKI6MRIELQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror",
+      "evidence": [
+        "'the Thing'",
+        "'Demons movie'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'great movie for a great value'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "'great movie for a great value'"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "'a ton of extra goodies with this box set'",
+        "'the special features are okay'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Arrow Video",
+      "evidence": [
+        "'Arrow Video snoozed on this one'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "'special features are okay'"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "'great movie for a great value'"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for horror films, particularly valuing special features and collector's editions. They appreciate straightforward storytelling and fast pacing, while also demonstrating a notable sensitivity to production quality."
+}

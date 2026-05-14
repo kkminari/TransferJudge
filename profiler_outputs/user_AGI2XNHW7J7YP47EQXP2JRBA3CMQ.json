@@ -1,0 +1,78 @@
+{
+  "user_id": "AGI2XNHW7J7YP47EQXP2JRBA3CMQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, fantasy, historical drama, comedy",
+      "evidence": [
+        "I'm a syfy lover so occupied my time",
+        "love sci fi and fantasy",
+        "Love historical fiction, nonfiction and period drama."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Didn't hold my interest, didn't finish.",
+        "Not for me, sappy, bad acting."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Didn't finish, lost interest",
+        "Needed to pass some time while recuperating."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Hilarious, good family entertainment",
+        "Well done, enjoyable period historical drama"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "This did not disappoint.",
+        "Love period dramas with a twist"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Very moving",
+        "Tearjerker with a happy ending."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Very moving",
+        "Good reminder that life can change in seconds."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi, fantasy, and historical dramas, often enjoying family-oriented and comedic content. They value emotional resonance in their viewing experiences but show mixed feelings towards narrative complexity and pacing."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHCLOODSKQ3RNDPAAK4K73F5BZWA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, mystery",
+      "evidence": [
+        "\"Delightful 'chick flick' in a beautiful setting\"",
+        "\"Love the old British mysteries and Margaret Rutherford was a fantastic Miss Marple.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This slap-stick movie was very well cast and Crowe and Gosling were ideally suited.\"",
+        "\"Love this series: perfectly cast; good writing and intricate plotting; good humor.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Loved it. Denzel never disappoints and he determinedly kicked a** throughout.\"",
+        "\"This is a laugh-out-loud bizarre cast of characters in a slap-stick kind of farce.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Hanks always does a remarkable job as an actor and it was interesting finding out how little the public actually was aware of what transpired.\"",
+        "\"Loved the movie and thought the casting was superb. Very entertaining.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"David Suchet is Poirot and Agatha Christie was one of the greatest mystery authors.\"",
+        "\"Denzel never disappoints and he determinedly kicked a** throughout.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"Hitchcock always knew how to bring humor and suspense to the screen.\"",
+        "\"Loved the first season and think the casting is superb.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A good story, a true look at life, a plausible ending.\"",
+        "\"It's really amazing that these productions are so great seeing that the time period is 75 to 100 years ago.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly comedy, drama, and mystery, with a strong preference for fast-paced narratives. They value high production quality and have a notable appreciation for well-cast performances, often highlighting emotional resonance in the stories they enjoy."
+}

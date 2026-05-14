@@ -1,0 +1,89 @@
+{
+  "user_id": "AGJGK5LOEJNBS3XKL2JHYGON7XPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, romance",
+      "evidence": [
+        "\"Galsworthy ain't Shakespeare but it is good entertainment\"",
+        "\"This makes the most of Dickens's story and highlights its strengths.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the dialogue for all was pathetically cliche\"",
+        "\"formulaic and banal dialogue\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I could not even finish it, so slow and poorly done and silly.\"",
+        "\"this is a real nothing-ball of a movie, not worth your time.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the production values are OK, so they spent too too much money on a weak script\"",
+        "\"good production values that keep one interested in staying attuned\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I wish they made more good movies that were not woke into inanity\"",
+        "\"before the woke madness made garbage of all productions, this one escaped.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory quality",
+      "evidence": [
+        "\"gorgeous scenery and winsome story\"",
+        "\"glorious music and a fine, clean production.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"the screenplay employs crude explicative, sh-t\"",
+        "\"the story shows the wreckage of 'progressive' religion that so values the life of a population of those judged and sentenced to death\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "character_development",
+      "value": "mixed",
+      "evidence": [
+        "\"the couple grows on you\"",
+        "\"the leads connect believably after an extended tension and shyness.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user shows a strong preference for drama and historical genres, appreciating high production quality but often criticizing narrative simplicity and pacing. They express mixed feelings about character development and brand loyalty, indicating a desire for well-crafted stories that resonate emotionally, yet often find themselves disappointed by the execution."
+}

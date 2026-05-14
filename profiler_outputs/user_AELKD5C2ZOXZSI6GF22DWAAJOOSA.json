@@ -1,0 +1,76 @@
+{
+  "user_id": "AELKD5C2ZOXZSI6GF22DWAAJOOSA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family, musical, fantasy",
+      "evidence": [
+        "\"This is a touching story of family survival.\"",
+        "\"I especially enjoy Bing Crosby's western songs.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good clean stories.\"",
+        "\"There is a sense of lighthearted innocence throughout the story.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The way the kids work together, and the way their situation eventually resolves, is heartwarming.\"",
+        "\"The story has interest from the viewpoint of a young boy...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is superb.\"",
+        "\"The quality of this VHS format is good, although not 'High-Def'.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have to admit that my interest in Peter Gunn is influenced by the appearance of Lola Albright.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The flavor of the presentation is that of a comic book.\"",
+        "\"The music still has a haunting quality.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is a touching story of family survival.\"",
+        "\"The way the kids work together... is heartwarming.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented dramas and musicals with a strong emotional core. They appreciate high production quality and simple narratives that evoke warmth and heart. While they show some brand loyalty, it is not a dominant theme in their reviews."
+}

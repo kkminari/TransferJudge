@@ -1,0 +1,77 @@
+{
+  "user_id": "AGRGT5MM7B7W3DOZR5WB6FEONVQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, sci-fi, western",
+      "evidence": [
+        "\"The Tomorrow War is a Sci Fi action flick. It's fun.\"",
+        "\"My favorite John Wayne movie, Rio Bravo, in my opinion, is the perfect Western.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Just sit back and enjoy the movie. It's lots of action and the characters are more than likeable.\"",
+        "\"If you like cliffhangers then you might like this version of Dune.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The action is nearly non-stop.\"",
+        "\"If you like action, 'Skyscraper' delivers.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"If you're going to tear the movie apart looking for inconsistencies or logic holes, then you're sabotaging your own fun.\"",
+        "\"The acting seemed good to me, either I'm not picky (which I am) or some people who reviewed this are off base.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Diehard is my favorite movie, which makes me a Bruce Willis fan for life I guess.\"",
+        "\"I really only like Liam Neeson movies when he's a total bad ass.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Robots fight Giant Monsters ... again. But isn't that the point.\"",
+        "\"There is plenty of action.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I haven't finished it yet to be sure that it is as bad as I think it is.\"",
+        "\"Too much crying in this movie.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and sci-fi genres, enjoying fast-paced narratives with a focus on visual spectacle. They show some brand loyalty to actors like Bruce Willis and Liam Neeson, but are less concerned with production quality and emotional depth."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AG6QTGMY7DNPPLZUJKSKO56N47DA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, romance",
+      "evidence": [
+        "Romance for the older characters is provocative.",
+        "A good interpretation of the story."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "Plots, though entertaining, are repetitious.",
+        "The characters were ambiguous and the language was unreal."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "It's slow moving, and the intrigue is contrived.",
+        "Each episode having several complete stories, plus the running story for the regular cast is a great format."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Actors are really good.",
+        "This series is very well written and acted."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I watched it because it was free and because I am housebound.",
+        "It's fun to watch, and certainly hard to wait for the next episode."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "The actors were quite good at maintaining the surreal atmosphere.",
+        "It was a difficult story to watch, but one that reminds of our duty to present military personnel."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It was a difficult story to watch, but one that reminds of our duty to present military personnel.",
+        "This series is very well written and acted."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and historical narratives, particularly those with romantic elements. They appreciate high-quality production and emotional depth, though they have mixed feelings about narrative complexity and pacing."
+}

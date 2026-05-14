@@ -1,0 +1,77 @@
+{
+  "user_id": "AHFG4BHCLAZX6TMGBSWX3BW4224A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family",
+      "evidence": [
+        "\"Great series with drama going on upstairs and down!\"",
+        "\"A wonderful moving movie. A must for all the family!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I can watch anything that Tom Selleck is in but this one is just one that I love to see over and over!\"",
+        "\"Great series. Can't wait to see what happens next!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It does keep you on the edge of your seat~!\"",
+        "\"Best movie ever! Never saw that ending coming!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I loved all the seasons. It's sad to see it end\"",
+        "\"Great movie\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Tim Olyphant is so good in this.\"",
+        "\"I can watch anything that Tom Selleck is in...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"A wonderful moving movie. A must for all the family!\"",
+        "\"Funny thruout but had a great story line.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Fantastic series with loveable characters that I watch over and over!\"",
+        "\"The kids love it and the music is great\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and family-oriented content, often favoring fast-paced narratives with lovable characters. They show a preference for simple storytelling and have a strong emotional connection to the series and movies they watch."
+}

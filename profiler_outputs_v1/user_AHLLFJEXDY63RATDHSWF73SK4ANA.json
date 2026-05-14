@@ -1,0 +1,77 @@
+{
+  "user_id": "AHLLFJEXDY63RATDHSWF73SK4ANA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, documentary, action-adventure",
+      "evidence": [
+        "\"Good flick. Love at any age with all its snags.\"",
+        "\"Good documentary. Am looking forward to Season 2.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Somewhat simplistic, but a good movie. We need more of these.\"",
+        "\"...it's a good story that should be told...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Good documentary. Am looking forward to Season 2.\"",
+        "\"A love story, pure and simple.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Acting is good. Special effects are awesome.\"",
+        "\"Unrealistic acting and directing. Sorry.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Philip Seymour Hoffman is superb. Good flic.\"",
+        "\"at his best. woody harrelson at his best worst.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Special effects are awesome.\"",
+        "\"Great acting all around.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Hate him or love him, Treadwell touches one's sense of belonging.\"",
+        "\"Wonderful movie . . .Am glad I watched this . . .\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly drama and romance, with a preference for simple narratives and slower pacing. They appreciate good acting and visual spectacle, while also valuing emotional resonance in the films they watch."
+}

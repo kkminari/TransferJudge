@@ -1,0 +1,100 @@
+{
+  "user_id": "AFKWWISVVQQU6TAUQN56CJXINEZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "science fiction, British humor",
+      "evidence": [
+        "I am a sucker for B-Grade Science Fiction of all sorts.",
+        "Either you love British humour or you hate Brit humor."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "The film continues to follow our subjects over the decades until, well - you just have to watch it to find out.",
+        "The interplay among the scientists begins with the usual professional courtesy, but soon degenerates into a clash of the huge egos."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "This show is not 'perfect' in that it probably would not work as well without the brutality contained within it.",
+        "The combination of an emotional drama and a technologically dense science fiction play are merged extremely well."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The production was very well done, easing the viewer from one state of mind to the next.",
+        "The special effects are rather cheesy compared to today's standards - still they get the point across."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Terry Gilliam, Arthur C. Clarke",
+      "evidence": [
+        "I am a Terry Gilliam Fan.",
+        "I have a great deal of admiration and respect for Arthur C. Clarke."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric music",
+      "evidence": [
+        "I could not help but marvel at what a visual feast the film really is.",
+        "The writing was lucid and took its time to tell its tale."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It has some disturbing information in it, about our consensus ideas of our culture versus what might be happening behind the scenes.",
+        "The film was extraordinary, almost fanatical, in its attention to the details of its script."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "British humor",
+      "evidence": [
+        "Rowan Atkinson is simply brilliant in this roll.",
+        "If you love English Humour you will love this show as well as I."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    {
+      "name": "nostalgia",
+      "value": "nostalgic for classic sci-fi",
+      "evidence": [
+        "This collection is mostly nostalgic for me.",
+        "If you have only heard of this film, watch it now will all speed."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user has a strong preference for science fiction and British humor, often appreciating complex narratives and high production quality. They show loyalty to notable creators like Terry Gilliam and Arthur C. Clarke, and their reviews reflect a deep emotional engagement with the content they consume."
+}

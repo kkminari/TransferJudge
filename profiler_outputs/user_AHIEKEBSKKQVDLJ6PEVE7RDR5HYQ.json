@@ -1,0 +1,77 @@
+{
+  "user_id": "AHIEKEBSKKQVDLJ6PEVE7RDR5HYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "K-drama, romance, drama",
+      "evidence": [
+        "\"The epitome of most heartfelt romances in K-drama history.\"",
+        "\"I love the Korean films and shows because they dare to show the personal growth of characters...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"...unexpected plot twists occur that make the process VERY intense.\"",
+        "\"...the actors are just so darn good they'd be convincingly seamless in anything!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I marathoned Shark (2013) over two days and couldn't even sleep all night because it was so packed with tension on every episode.\"",
+        "\"...the drama showcases much of more recent Korean history...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...the cinematography was lustrous and enchanting, some of the images were like paintings!\"",
+        "\"...it's ALWAYS worth it to get the YA Entertainment box sets instead of questionable, most likely bootleg versions of Korean dramas.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to K-drama actors and directors",
+      "evidence": [
+        "\"So Jisub and Su Jeong Im create beauty and sweetness in every scene.\"",
+        "\"...the creative Hong Sisters, so you know you will get a good mix of drama and humor.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic sensory",
+      "evidence": [
+        "\"...the music soundtrack is to die for!\"",
+        "\"...the ending is exquisite.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...it's one of the best, if not THE best, kiss I have seen in cinematic history.\"",
+        "\"...the acting and particularly the music soundtrack are well done.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for K-dramas, particularly those that feature heartfelt romances and complex narratives. They value high production quality and have a notable loyalty to specific actors and directors within the genre, often highlighting the emotional impact of the stories they watch."
+}

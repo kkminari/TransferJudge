@@ -1,0 +1,76 @@
+{
+  "user_id": "AFD2RCXZQGSNGXKTRAI3PV26WIEA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed (likes comedy, dislikes excessive violence and sex)",
+      "evidence": [
+        "\"I don't get why there is so much sex in this show. It seems like a lazy way to entertain.\"",
+        "\"The sex is over done and porn-ish and unnecessary, the violence is gratuitous but I still watched a lot of it and enjoyed it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the stories are not deep or complicated.\"",
+        "\"It's a great show but it's not perfect. Watch it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed (prefers some fast-paced, dislikes slow)",
+      "evidence": [
+        "\"I found this movie to be a little creepy, slow and sad.\"",
+        "\"This is a show you just can't look away from even though is can be really bad at times.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I like this show though.\"",
+        "\"Meh...\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I know this is how this director works since I have seen several of his other films.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I use as cinema therapy for depression and avoidance.\"",
+        "\"This show has the potential to be excellent.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I couldn't stop watching.\"",
+        "\"brought tears\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted and comedic content but has a strong aversion to excessive violence and sexual content. They prefer straightforward narratives and are sensitive to pacing, indicating a preference for engaging but not overly complex storytelling."
+}

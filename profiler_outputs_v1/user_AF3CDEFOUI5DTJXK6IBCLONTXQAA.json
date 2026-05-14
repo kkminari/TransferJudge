@@ -1,0 +1,77 @@
+{
+  "user_id": "AF3CDEFOUI5DTJXK6IBCLONTXQAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, holiday, cozy mystery",
+      "evidence": [
+        "\"A great mother/daughter film\"",
+        "\"Perfect cozy mystery that is fun, charming, and suspensful.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The film is constanly moving and I rooted for the protagonist right from that start!\"",
+        "\"The plot has a nice pace and the acting is great.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The film is constanly moving and I rooted for the protagonist right from that start!\"",
+        "\"The movie has a nice pacing, is funny, charming, and all around entertaining!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The music and scenery are beautiful and makes you want to hop on a plane to Ireland!\"",
+        "\"A great special effects and cinematic movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Hallmark",
+      "evidence": [
+        "\"One of the best Hallmark movies I've seen, and there are lots of them!\"",
+        "\"A great collection for Hallmark fans who like a touch of magic in their movies!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and musical appeal",
+      "evidence": [
+        "\"The music and scenery are beautiful and makes you want to hop on a plane to Ireland!\"",
+        "\"The film is visually pleasant and appealing and the music is superb as it moves the story along.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A very heart-warming family film!\"",
+        "\"An extremely hilarious movie appropriate for a family movie night!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly films, particularly those from Hallmark, with a strong preference for fast-paced, simple narratives that evoke emotional responses. They appreciate visual and musical elements, indicating a taste for engaging sensory experiences."
+}

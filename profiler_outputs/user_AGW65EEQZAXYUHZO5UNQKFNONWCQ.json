@@ -1,0 +1,77 @@
+{
+  "user_id": "AGW65EEQZAXYUHZO5UNQKFNONWCQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, war",
+      "evidence": [
+        "\"Great look at what took place in Europe toward the close of WWII.\"",
+        "\"One of my favorite historical figures. The DVD is great with exciting battles scenes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great acting. Super great plot twist!!\"",
+        "\"Wonderful series. Very well done, exciting and factual.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The DVD is great with exciting battles scenes.\"",
+        "\"Super movie. The wife and I thoroughly enjoyed it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great acting. Super great plot twist!!\"",
+        "\"Very well done, exciting and factual.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Death Hunt is one of my favorite DVDs.\"",
+        "\"Wonderful addition to my favorites collection.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The DVD is great with exciting battles scenes.\"",
+        "\"Great acting. Super great plot twist!!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Very well done, exciting and factual. All the more meaningful because my Uncle was a member of E Company and is portrayed in the series.\"",
+        "\"Super movie. The wife and I thoroughly enjoyed it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for historical and war genres, appreciating fast-paced narratives with high production quality. They value emotional resonance in their viewing experiences, often connecting personally to the content."
+}

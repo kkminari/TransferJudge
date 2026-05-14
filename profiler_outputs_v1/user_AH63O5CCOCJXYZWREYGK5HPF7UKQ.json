@@ -1,0 +1,77 @@
+{
+  "user_id": "AH63O5CCOCJXYZWREYGK5HPF7UKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"I love silly comedies and this fits the bill.\"",
+        "\"With no particular political nuance, this heavy handed comedy lampoons republicans non-stop.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The movie struggles with tone. Dafoe is wasted, he could have added a whole level of creepiness and instead just phones it in.\"",
+        "\"A fairly pedestrian tale solvable 30 minutes in.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Plot pacing comes off as plodding rather than suspenseful.\"",
+        "\"By episode 7 the show has gone full 'Lost' in style where stuff just sort of start going off into any old tangent that seems expedient.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"The entire cast is top notch and the scripting is excellent. So why two stars?\"",
+        "\"The movie itself is competently executed. like a koontz novel.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Viggo Mortensen fan here and, once again, can't fault the man for his acting.\"",
+        "\"I actually give this 5 stars for its potential rather than its realization.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Gilliam is almost unmatched in world building, every prop and detail belongs and is part of the narrative itself.\"",
+        "\"The soundtrack is indie-rock heavy, which I found to be a little too hipster for my tastes but you may like it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"The jokes are weak and the acting weaker. Give it a miss.\"",
+        "\"I could go on about the movie's many flaws but you know what you are getting.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for light-hearted comedies but is critical of narrative complexity and pacing, often finding them slow and predictable. They value entertainment but are less concerned with production quality, indicating a taste for straightforward storytelling over emotional depth."
+}

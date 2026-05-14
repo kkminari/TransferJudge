@@ -1,0 +1,77 @@
+{
+  "user_id": "AEB3FFGFI5H37NBEIROPDUR2HDPA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "dislikes adult themes, comedy, and remakes",
+      "evidence": [
+        "\"It's just a dumb idea. What’s next? Remake Godfather?\"",
+        "\"It's not appropriate for kids. One episode has the sheep drunk at a rave.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's just dumb from the beginning.\"",
+        "\"The writing is no better - it flows like mud and comes across like an amateur work across the board.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It's so slow, boring, meaningless.\"",
+        "\"If I want to hear an old man talk, I'll read a book out loud.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"One of the easiest ways to spot a bad director is reliance on a narrator.\"",
+        "\"The director tells rather than shows the story, which means the director doesn't know how to make a film.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"very disappointing film from the Coen brothers.\"",
+        "\"Anne Hathaway should stick to drama.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"The soundtrack is awful.\"",
+        "\"They put so many nasty sounds in this - high pitch feedback, weird thunder sounds between scenes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"It's just a piece of fiction, so why try to make it a 'parody'?\"",
+        "\"It's not clever and they sure shouldn't have spent the money on it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong aversion to adult themes and poorly executed remakes, often criticizing narrative simplicity and pacing. They value high production quality but express disappointment in many films, indicating a preference for well-crafted stories over entertainment value."
+}

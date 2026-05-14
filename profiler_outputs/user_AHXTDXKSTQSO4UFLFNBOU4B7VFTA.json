@@ -1,0 +1,76 @@
+{
+  "user_id": "AHXTDXKSTQSO4UFLFNBOU4B7VFTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary",
+      "evidence": [
+        "\"Best thing since West Wing. Great way to get the real story on many current events.\"",
+        "\"This is a documentary that you wish everybody in the country would see.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"There were several surprising turns and outcomes that I had already made my mind up about, and thought I knew how it was going to go, but then was proven wrong.\"",
+        "\"It's raw in places, but gives us insight into how people in poverty have to survive.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Good movie! Fast moving and challenging.\"",
+        "\"The film maker did some good work here re-creating the story of her family, But, she dragged it out so long I almost left it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent; again. Film making at it's very best.\"",
+        "\"I loved the unusual way this was filmed.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "HBO",
+      "evidence": [
+        "\"Told as only HBO can.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It proved to me that somebody can achieve greatness no matter what circumstance they grew up in.\"",
+        "\"It's something we all need to see before we make blanket judgments about people we only see from afar.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It's very true to life.\"",
+        "\"It gives us insight into how people in poverty have to survive.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for engaging dramas and documentaries that feature complex narratives and high production quality. They appreciate fast pacing but have mixed feelings about length, indicating a desire for concise storytelling. Overall, they value emotional resonance and insightful content that reflects real-life experiences."
+}

@@ -1,0 +1,72 @@
+{
+  "user_id": "AGOUSTJCK62KQ5WRJSWYP6Z5TUYA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, thriller",
+      "evidence": [
+        "funny British humor, a bit cheeky.",
+        "good suspense thriller..."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "well done story of a very complex man."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "be ready to binge watch!",
+        "Terrific show!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "great writing and casting....",
+        "excellent cast and direction"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "great cast & movie about an important time in our history"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "one of the best I've seen.",
+        "brought tears"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and thrillers, appreciating fast-paced narratives with high production quality. They value emotional resonance in their viewing experiences, often highlighting excellent casting and writing."
+}

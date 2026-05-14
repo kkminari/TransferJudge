@@ -1,0 +1,77 @@
+{
+  "user_id": "AFLAKSK3CPICE6XUJJVPP7TU4SWA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, classic, holiday",
+      "evidence": [
+        "\"Great young actresses, good story plot, music and a flash back into years gone by for gen x crowd\"",
+        "\"Great Christmas classic, can’t go a holiday season without watching\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great movie, seen it years ago when I was a child, rediscovered it and remember how much I liked it!\"",
+        "\"Great movie for kids and adults\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Just like a lot of other peoples comments, this isn’t a uplifting movie, but I thought I’d get it anyway.\"",
+        "\"Great movie, very poor transfer to disc, gave it two stars because of how much I like the movie otherwise I recommend buying from a company who knows how to transfer film\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great movie, very poor transfer to disc, gave it two stars because of how much I like the movie otherwise I recommend buying from a company who knows how to transfer film\"",
+        "\"Good movie depending on your taste, I can only give it 4 stars, maybe 3 1/2\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Who doesn’t like Doris day, great movies, all of them!\"",
+        "\"Love Charles kuralt, always watched him on the road and Sunday morning, miss hearing his voice, this is a most have!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "atmospheric music",
+      "evidence": [
+        "\"Great young actresses, good story plot, music and a flash back into years gone by for gen x crowd\"",
+        "\"Great movie for kids and adults\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Great movie, seen it years ago when I was a child, rediscovered it and remember how much I liked it!\"",
+        "\"Great movie and great actors and actresses!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly and classic films, often enjoying nostalgic and holiday-themed content. They appreciate simple narratives with emotional resonance, though they show some sensitivity to production quality."
+}

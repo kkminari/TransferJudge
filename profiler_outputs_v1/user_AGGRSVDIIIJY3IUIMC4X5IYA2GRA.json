@@ -1,0 +1,77 @@
+{
+  "user_id": "AGGRSVDIIIJY3IUIMC4X5IYA2GRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animation, superhero, comedy",
+      "evidence": [
+        "\"The Young Justice is what the Teen Titans television series should have been.\"",
+        "\"This was the first of the Warner Brothers DC Universe full-length movies, released in 1993...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The plot has several twists and turns, including a new threat that arises just when they think that everything is back to normal.\"",
+        "\"The movie is short, at just 53 minutes.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The pacing is a bit uneven, with some episodes feeling rushed while others drag on.\"",
+        "\"The movie opens with an eerie journey through an underwater Arctic world...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The animation is very good, the portrayal of Wonder Woman spot on, the action and battle sequences are superb...\"",
+        "\"The animation was acceptable for its time, 16 years ago, but it looks a little dated today.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I can still wholeheartedly recommend this movie, though, as one of the best in the DC Universe canon.\"",
+        "\"The voice acting is superb, with the ever-reliable Kevin Conroy as Batman...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The animation is very good, the portrayal of Wonder Woman spot on, the action and battle sequences are superb...\"",
+        "\"The graphics in this movie are good but I have to ding them for two things...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I really liked that the movie kept me guessing...\"",
+        "\"I have to confess I teared up just a bit at the end.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys animated superhero content, particularly from the DC Universe, and appreciates high-quality production values. They have a mixed preference for narrative complexity and pacing, indicating a desire for engaging stories that balance action with character development."
+}

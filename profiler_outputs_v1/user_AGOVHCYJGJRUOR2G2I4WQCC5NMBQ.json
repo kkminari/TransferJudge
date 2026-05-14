@@ -1,0 +1,89 @@
+{
+  "user_id": "AGOVHCYJGJRUOR2G2I4WQCC5NMBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, documentary, drama",
+      "evidence": [
+        "Rediscovering Rossellini is always a great way to spend some time in front of the TV.",
+        "Any history buff will want to watch these episodes."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The dialogues are absolutely ridiculous, in terms of the words used.",
+        "The directing of the actors seems lifeless."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Too often the directorial trend is more of a theater-like delivery, instead of a more life-like.",
+        "A lot of action, not very well coordinated, and a very thin intrigue."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the sound is bad in Italian, worse in German and worst in English.",
+        "the quality of the two transfers is dismal."
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Criterion",
+      "evidence": [
+        "I think criterion needs to redo the second disc.",
+        "Don't be fooled by the Criterion label."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual quality",
+      "evidence": [
+        "the cinematography is awesome, excellent acting and photography.",
+        "the audio, at least of my copy, has a very annoying click."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "I would not recommend it in this version.",
+        "Waste of my time."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "disappointment_with_dubbing",
+      "value": "high",
+      "evidence": [
+        "I think it’s a bad idea to have it dubbed in English instead of having subtitles.",
+        "it is terrible that, in 2005, anybody would dare to release such a poor quality DVD."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user shows a strong preference for historical and documentary genres, often appreciating the content but expressing significant dissatisfaction with production quality. They are sensitive to audio and visual elements, indicating a high quality sensitivity, while their emotional engagement appears to be low, focusing more on technical aspects than on narrative depth."
+}

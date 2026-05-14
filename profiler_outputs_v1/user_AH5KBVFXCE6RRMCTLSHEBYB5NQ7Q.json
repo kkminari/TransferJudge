@@ -1,0 +1,74 @@
+{
+  "user_id": "AH5KBVFXCE6RRMCTLSHEBYB5NQ7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama",
+      "evidence": [
+        "\"Excellent mysteries,great characters and amazing acting\"",
+        "\"the stories are well written and not run of the mill murder mysteries\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story was so well told\"",
+        "\"I liked this show,it was quick and entertaining to watch\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I have a short attention span. So if it doesn't catch me quick I move on\"",
+        "\"The stories are always well written,and has great actors\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Quality as good as the movies\"",
+        "\"The camera work was excellent\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"It was a beautiful movie to watch though\"",
+        "\"good acting,beautiful scenery\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I felt like I knew these people\"",
+        "\"this is the film I'd show them\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for mystery and drama genres, appreciating well-written stories with good acting. They value high production quality and enjoy visual spectacles, while favoring fast-paced narratives that engage quickly."
+}

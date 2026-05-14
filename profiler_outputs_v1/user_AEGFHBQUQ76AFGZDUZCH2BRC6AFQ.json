@@ -1,0 +1,87 @@
+{
+  "user_id": "AEGFHBQUQ76AFGZDUZCH2BRC6AFQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, action, comedy, biopic",
+      "evidence": [
+        "\"A very good and thorough documentary of Janis Joplin but a sad story to say the least.\"",
+        "\"A humorous look at a serious event in any adults life.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A fun movie\"",
+        "\"Good action flick. Statham kicks butt!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Alot of action, very good acting.\"",
+        "\"A frustrating, suspenseful, true account of what happened in Benghazi.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great actors and story had potential but moved too slow for me to sit and finish movie.\"",
+        "\"Anyone who's into surfing will enjoy this flick.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Tom Hanks",
+      "evidence": [
+        "\"Tom Hanks is one of my favorite actors and I found this movie to be fun and enjoyable to watch.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The car/train chase is one of a few classic car chases in cinema (Bullet and The Seven-Ups).\"",
+        "\"A believeable fictional account of the drug trade battles along our border.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It saddens me to think with all the success and fame one achieves in life it can never fill the emptiness of a heart broken by either family or the world.\"",
+        "\"An inspirational story of students beating the odds.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "favorite_actor",
+      "value": "Tom Hanks",
+      "evidence": [
+        "\"Tom Hanks is one of my favorite actors and I found this movie to be fun and enjoyable to watch.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user enjoys a variety of genres, particularly documentaries, action films, and comedies, often appreciating fast-paced narratives. They have a strong emotional connection to the stories they watch, valuing personal resonance and relatable themes."
+}

@@ -1,0 +1,86 @@
+{
+  "user_id": "AFZJ5QFLH2HK2SWZP7QA3PA67XHQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama, comedy",
+      "evidence": [
+        "\"Simply excellent and creative documentary TV making.\"",
+        "\"TV drama doesn't get better than this.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the plots work out along a too-predictable formula\"",
+        "\"Poorly executed.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"it seems to drag\"",
+        "\"Crisp dialog and good pacing.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Production values are those of a local Community-Access-Cable Channel!\"",
+        "\"Astonishing excellence Directing Writing Production values.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high production quality",
+      "evidence": [
+        "\"the music choice and final audio mix are stunning-terrible.\"",
+        "\"Just good TV that happens to be about food.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It feels real. It IS fun.\"",
+        "\"Brilliant.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "appreciates humor",
+      "evidence": [
+        "\"Funny at other times.\"",
+        "\"The mix of human-realities insights with humor just works.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user has a strong preference for high-quality documentaries and dramas, valuing production values and emotional resonance. They appreciate humor but are critical of predictable narratives and poor execution in shows."
+}

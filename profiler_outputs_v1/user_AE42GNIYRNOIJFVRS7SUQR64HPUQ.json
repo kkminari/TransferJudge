@@ -1,0 +1,74 @@
+{
+  "user_id": "AE42GNIYRNOIJFVRS7SUQR64HPUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"Well done drama with an interesting story.\"",
+        "\"This British comedy drama presents a very interesting look at life in a little fishing village in the British Isles.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story was easy-going and very well acted.\"",
+        "\"A amusing and interesting story without a lot of unnecessary drama.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Mildly amusing story. Drags a little at times.\"",
+        "\"Interesting, but much too brief.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Very well written and acted. Always interesting in intriguing.\"",
+        "\"Great acting and directing!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual storytelling",
+      "evidence": [
+        "\"The story contains a lot of funny situations as well as some fascinating drama.\"",
+        "\"Their day-to-day struggles are beautifully documented by a British film crew.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Sorry to see it end.\"",
+        "\"I think there was material there for a whole lot more.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys well-crafted dramas and comedies, appreciating strong writing and acting. They prefer stories that are easy-going and visually engaging, with a high sensitivity to production quality. Emotional impact is significant for them, as they express sadness when shows conclude."
+}

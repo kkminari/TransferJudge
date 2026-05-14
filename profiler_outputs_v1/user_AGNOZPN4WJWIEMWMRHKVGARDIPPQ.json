@@ -1,0 +1,74 @@
+{
+  "user_id": "AGNOZPN4WJWIEMWMRHKVGARDIPPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, mystery",
+      "evidence": [
+        "\"Intelligent drama sensitively acted by all involved.\"",
+        "\"Enjoyable, engrossing mysteries.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Thoughtful, well-paced and well-acted.\"",
+        "\"Carefully thought out plots and excellent acting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Thoughtful, well-paced and well-acted.\"",
+        "\"These hour-long episodes are to movies what excellent short stories are to okay novels.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Intelligent drama, well acted, suspenseful and altogether engrossing.\"",
+        "\"Each episode is written, directed, and acted better than most movies.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "atmospheric music, character development",
+      "evidence": [
+        "\"Some lovely music in each segment.\"",
+        "\"Very good character development.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Engrossing and beautifully thought out and executed.\"",
+        "\"Intelligent drama, well acted, suspenseful and altogether engrossing.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for intelligent dramas and mysteries that are well-acted and thoughtfully crafted. They appreciate complex narratives and character development, valuing high production quality and emotional resonance in their viewing experiences."
+}

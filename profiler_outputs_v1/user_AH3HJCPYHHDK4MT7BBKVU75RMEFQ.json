@@ -1,0 +1,76 @@
+{
+  "user_id": "AH3HJCPYHHDK4MT7BBKVU75RMEFQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy",
+      "evidence": [
+        "\"Funny and heartfelt movie!\"",
+        "\"Such a funny movie! Love it!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Funny yet silly movie!\"",
+        "\"This movie never bores me! Love this!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Keeps you on your toes!\"",
+        "\"This movie cracks me up!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Fantastic quality!\"",
+        "\"Great movie and story - very interesting story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Adam Sandler",
+      "evidence": [
+        "\"Love Adam Sandler!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "humor",
+      "evidence": [
+        "\"Funny and entertaining movie!\"",
+        "\"Funny and entertaining show!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Heart felt and a classic movie!\"",
+        "\"Excellent movie dedicated to an exceptional woman!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy films, particularly those that are funny and entertaining. They appreciate high production quality and show some loyalty to Adam Sandler, indicating a taste for light-hearted, humorous narratives."
+}

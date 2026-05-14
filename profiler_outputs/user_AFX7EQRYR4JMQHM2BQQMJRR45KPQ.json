@@ -1,0 +1,77 @@
+{
+  "user_id": "AFX7EQRYR4JMQHM2BQQMJRR45KPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama",
+      "evidence": [
+        "GREAT ONE, drama packed, dark, good mystery, acting the best Brits own that sector.",
+        "Top of the line series as should be expected from this cast of characters."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "the plot seems overcome by the great acting actuall y don't know what the plot was or should of been",
+        "confusing plot too many loose threads looked like the writers got side tracked with their own complicated plots."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "slow pace of the story line tossing abbreviated forms of the involvement of the agencies which bogged down the story even more.",
+        "got boring half way through the first season."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Acting superb writing the best all Brit mystery writers I know or have viewed or read have this quality.",
+        "cinematography is definetly done in Masterpiece PBS brilliance keeping with the on going grand tradition."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "Love this series. Great work is always its own reward.",
+        "Cumberbatch and Freeman do a great job as many of their predecessors have."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "could feel as a trope John Keats in this work.",
+        "camera work is superb ....well worth a look see."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "the acting, the characters the magnificent script is highly worthy of my humble praise.",
+        "It was fun to watch but the plot seems overcome by the great acting."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for mystery and drama genres, appreciating high-quality production and emotional resonance in storytelling. They tend to favor slower-paced narratives but have mixed feelings about narrative complexity, indicating a desire for engaging plots without excessive complication."
+}

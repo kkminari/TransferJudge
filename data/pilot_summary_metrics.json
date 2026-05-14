@@ -1,0 +1,39 @@
+{
+  "n_predefined_patterns": 7,
+  "n_pilot_canonical": 391,
+  "n_pilot_users": 100,
+  "hypotheses": {
+    "H1": {
+      "statement": "사전 정의 7개가 Pilot에서 sim ≥ 0.5로 발현",
+      "result": "7/7 통과",
+      "passed": true
+    },
+    "H2": {
+      "statement": "Pilot 자유 추출의 ≥60%가 비-CDR-적합",
+      "result": "90.8% 비-CDR-적합",
+      "passed": true
+    },
+    "H3": {
+      "statement": "7개 직교성 max similarity ≤ 0.7",
+      "result": "max off-diag = 0.669",
+      "passed": true
+    },
+    "H4": {
+      "statement": "sensory_preference Movies-only 키워드 자동 검출 (BLOCK 후보)",
+      "result": "검출 키워드 1개",
+      "passed": true
+    },
+    "H5": {
+      "statement": "emotional_resonance 직접 매칭 (Pilot에서 동일 이름 발현)",
+      "result": "sim = 0.820 (top-1 = emotional_resonance)",
+      "passed": true
+    }
+  },
+  "decision_summary": {
+    "ACCEPT": 4,
+    "ACCEPT_조건부": 1,
+    "ACCEPT_BLOCK_후보": 1,
+    "ACCEPT_보완필요": 1,
+    "REJECT": 0
+  }
+}

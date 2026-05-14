@@ -1,0 +1,77 @@
+{
+  "user_id": "AE6GMD7HUUHP3QWKBV5FQYGYWJOA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"Sad to see what goes on in prisons on a regular basis.\"",
+        "\"This movie is funny to any woman who ever wore an outfit or a pair of heels that killed them.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Don't watch this movie expecting, 'Step Brothers!'\"",
+        "\"It showed me Will can handle any role.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This movie is funny to any woman who ever wore an outfit or a pair of heels that killed them.\"",
+        "\"Love this movie! Will and Kevin have great chemistry!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I loved this series! Great dvd.\"",
+        "\"I don't know why it wasn't continued.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "Kristoffer Tabori, Will Ferrell",
+      "evidence": [
+        "\"My favorite actor, Kristoffer Tabori is in it as the youngest guy in a prison.\"",
+        "\"I love Will Ferrell!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "emotional engagement",
+      "evidence": [
+        "\"I found this movie so incredibly sad.\"",
+        "\"It included the, 'Blue Oyster Cult', skit!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I hope he is at peace.\"",
+        "\"Tearjerker for any Fans of Arthur and/or The Dolls\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for drama and comedy, particularly enjoying works featuring Kristoffer Tabori and Will Ferrell. They appreciate emotional engagement and fast pacing, while being less concerned about production quality."
+}

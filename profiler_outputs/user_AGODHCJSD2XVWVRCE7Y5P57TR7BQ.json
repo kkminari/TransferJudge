@@ -1,0 +1,77 @@
+{
+  "user_id": "AGODHCJSD2XVWVRCE7Y5P57TR7BQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, thriller",
+      "evidence": [
+        "\"This film gives another insight into this most fascinating of serial killers.\"",
+        "\"I adore world cinema as it concentrates so much more on the characters than on the 20 minute car chases and 20 million dollar effects.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The twists in it are amazing and the story develops in such a way that it draws you into it.\"",
+        "\"This film highlights how well they can blend into society as a 'normal' member of the community.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This shows the difficulty of recognising signs of a disturbed mind without the benefit of hindsight.\"",
+        "\"The dynamics between the characters is beautifully handled and make their relationships totally believable.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The camera can turn the most ordinary surroundings into magic.\"",
+        "\"The acting is top notch and ones sympathies are drawn all over the place.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific directors or actors mentioned.",
+        "No franchises or series indicated."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Hauntingly filmed, this film is like a moving work of art.\"",
+        "\"The setting is both claustrophobic and liberated and the situations that the main character finds himself in are designed to show the diversity of life in all ways.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This film evokes our sympathy as well as our disgust but the veracity of it leaves us informed.\"",
+        "\"The dynamics between the characters is beautifully handled and make their relationships totally believable.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex dramas and thrillers that emphasize character development and emotional depth. They appreciate high production quality and are drawn to films that evoke strong emotional responses, often favoring slower-paced narratives that allow for deeper exploration of themes and characters."
+}

@@ -1,0 +1,160 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's strong preference for family and fantasy genres directly translates to a desire for similar themes in books. This suggests a preference for family-friendly and fantastical narratives in literature.",
+      "transferred_insight": "Prefer family-friendly and fantasy-themed books",
+      "confidence": 0.85
+    },
+    "narrative_complexity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's preference for simple narratives indicates a desire for straightforward storytelling in books. This applies well to genres that favor clear plots and accessible writing.",
+      "transferred_insight": "Prefer straightforward and simple narratives",
+      "confidence": 0.75
+    },
+    "pacing_preference": {
+      "decision": "TRANSFER",
+      "rationale": "A preference for fast pacing suggests the user enjoys quick, engaging reads that maintain a high level of excitement. This can be applied to action-packed or fast-moving stories in books.",
+      "transferred_insight": "Prefer fast-paced books that keep the reader engaged",
+      "confidence": 0.7
+    },
+    "quality_sensitivity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's low quality sensitivity indicates that while they appreciate well-rated books, they are not overly concerned with literary prestige. This suggests a preference for enjoyable reads over critically acclaimed ones.",
+      "transferred_insight": "Enjoyable books are prioritized over critically acclaimed ones",
+      "confidence": 0.6
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "Brand loyalty to franchises like Power Rangers and Twilight does not translate to authors or book series in a meaningful way. This pattern is too specific to film and television.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's preference for visual spectacle is specific to film and does not apply to books, which rely on text rather than visual elements. This pattern should not influence book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "emotional_resonance": {
+      "decision": "BLOCK",
+      "rationale": "The user's low emotional resonance suggests they do not seek deep emotional engagement in their media. This pattern is not conducive to recommending books that rely on emotional depth.",
+      "transferred_insight": null,
+      "confidence": 0.85
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "1608877086",
+      "title": "Tobin's Spirit Guide: Official Ghostbusters Edition",
+      "score": 0.9,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference"
+      ],
+      "reasoning": "This book combines elements of fantasy and humor, appealing to the user's preference for family-friendly content. Its straightforward narrative and engaging pacing make it a suitable choice."
+    },
+    {
+      "rank": 2,
+      "item_id": "0260000000",
+      "title": "Dark Angel Alliance: Gargoyles III",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference"
+      ],
+      "reasoning": "This fantasy book features a simple narrative structure and fast-paced action, aligning well with the user's preferences for family-friendly and engaging stories."
+    },
+    {
+      "rank": 3,
+      "item_id": "0410000000",
+      "title": "Strong Head Sam the Cowgirl Hero",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference"
+      ],
+      "reasoning": "This children's book offers a fun and adventurous story that is easy to follow, making it a great fit for the user's love of family-friendly narratives."
+    },
+    {
+      "rank": 4,
+      "item_id": "0490000000",
+      "title": "Guiding Lights",
+      "score": 0.78,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This children's book features a simple narrative and themes of guidance and support, appealing to the user's preference for family-oriented stories."
+    },
+    {
+      "rank": 5,
+      "item_id": "0350000000",
+      "title": "Mother Goose and Grimm's Night of the Living Vacuum!",
+      "score": 0.75,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This humorous collection of comic strips is family-friendly and features straightforward storytelling, making it a good match for the user's preferences."
+    },
+    {
+      "rank": 6,
+      "item_id": "0490000001",
+      "title": "The Great Dimpole Oak",
+      "score": 0.73,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This children's book tells a simple story about community and history, aligning with the user's interest in family-friendly narratives."
+    },
+    {
+      "rank": 7,
+      "item_id": "0450000000",
+      "title": "Blame It On The Mistletoe (Sugarplum Falls)",
+      "score": 0.7,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This book offers a light-hearted story set during the holidays, appealing to the user's preference for family-friendly and simple narratives."
+    },
+    {
+      "rank": 8,
+      "item_id": "0460000000",
+      "title": "Absolutely Chocolate: Irresistible Excuses to Indulge",
+      "score": 0.68,
+      "applied_patterns": [
+        "genre_preference"
+      ],
+      "reasoning": "While not a narrative book, this cookbook appeals to the user's family-friendly interests and offers simple recipes that can be enjoyed by all ages."
+    },
+    {
+      "rank": 9,
+      "item_id": "0470000000",
+      "title": "The Hands-On Parish: Reflections and Suggestions for Fostering Community",
+      "score": 0.65,
+      "applied_patterns": [
+        "genre_preference"
+      ],
+      "reasoning": "This book focuses on community and family values, which aligns with the user's interest in family-oriented content."
+    },
+    {
+      "rank": 10,
+      "item_id": "0480000000",
+      "title": "Dark & Twisty: A Twisted Anthology of Short Stories",
+      "score": 0.6,
+      "applied_patterns": [
+        "genre_preference"
+      ],
+      "reasoning": "This anthology offers a variety of stories that are easy to read and can appeal to the user's preference for straightforward narratives."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preferences were blocked due to their specific nature to film and visual media, which do not translate to book recommendations. Emotional resonance was also blocked due to low engagement signals.",
+  "overall_strategy": "Focused on transferring genre preferences and narrative simplicity while blocking patterns that do not apply to books. Recommendations emphasize family-friendly and straightforward narratives that align with the user's interests."
+}

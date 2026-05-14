@@ -1,0 +1,77 @@
+{
+  "user_id": "AGZOR7B2FJA2W42RJL3P4QIUGFEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, mystery, family",
+      "evidence": [
+        "Loved this show as a kid on the NBC mystery wheel and love to pull them out to this day.",
+        "This season has them dealing with lots of serious subjects but still a great season."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Endless laughs with the gang!",
+        "Love this show! Will watch again and again."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "This season has them dealing with lots of serious subjects but still a great season.",
+        "Love this show! Will watch again and again."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Watched this show from Episode 1, Season 1 to the very end.",
+        "Came new and well packaged."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "moderate loyalty to specific shows",
+      "evidence": [
+        "Loved this show when it was on.",
+        "One of my favorite shows growing up."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic sensory",
+      "evidence": [
+        "Love this show! Will watch again and again.",
+        "Love these! Loved this show as a kid on the NBC mystery wheel."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "One of my favorite shows growing up. Love the messages it taught!",
+        "Ordered this for my son and he loved it. Thank you for all the laughs."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and family-oriented shows, often enjoying simple narratives with emotional depth. They exhibit moderate loyalty to specific series and appreciate shows that evoke nostalgia and positive feelings."
+}

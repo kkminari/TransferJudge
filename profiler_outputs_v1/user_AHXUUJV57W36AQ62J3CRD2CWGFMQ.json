@@ -1,0 +1,77 @@
+{
+  "user_id": "AHXUUJV57W36AQ62J3CRD2CWGFMQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, holiday, spiritual",
+      "evidence": [
+        "\"Good Christmas movie.\"",
+        "\"Absolutely loved this movie. The acting was great, and we loved the story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great Thanksgiving story.\"",
+        "\"Very inspiring!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Absolutely loved this movie. The acting was great, and we loved the story.\"",
+        "\"We love this series. I wish they would put out all of them.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting was great, and we loved the story.\"",
+        "\"I loved this series and am so sad they did not bring it back.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"We love this series. I wish they would put out all of them.\"",
+        "\"I loved this series and am so sad they did not bring it back.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "emotional, heartwarming",
+      "evidence": [
+        "\"Very inspiring!\"",
+        "\"Absolutely loved this movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Absolutely loved this movie. The acting was great, and we loved the story.\"",
+        "\"Very inspiring!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for family-oriented, holiday-themed, and spiritual content, often valuing emotional resonance and simplicity in storytelling. They appreciate high production quality and enjoy heartwarming narratives that evoke inspiration and joy."
+}

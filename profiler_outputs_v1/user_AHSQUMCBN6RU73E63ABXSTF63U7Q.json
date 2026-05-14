@@ -1,0 +1,77 @@
+{
+  "user_id": "AHSQUMCBN6RU73E63ABXSTF63U7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "holiday, classic",
+      "evidence": [
+        "\"adding to my holiday collection, and this was a great value\"",
+        "\"I thought the plot looked interesting and somewhat related to Christmas\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I can’t really describe how disappointed we were with this addition.\"",
+        "\"we both also wondered why we had never heard of it because it was so good.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"too much of this was close-ups of Sam Shepard with a blank look on his face.\"",
+        "\"I thought the plot looked interesting and somewhat related to Christmas\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"good deal to complete my collection\"",
+        "\"good addition to my holiday film collection\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"love Matt Damon in this\"",
+        "\"Wonderful cast; loved the series, and this is a great addition.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"None of the actresses seemed interesting or interested in the story or each other.\"",
+        "\"I thought the plot looked interesting and somewhat related to Christmas\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"we both also wondered why we had never heard of it because it was so good.\"",
+        "\"adding to my holiday collection, and this was a great value\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys holiday and classic films, often valuing them for their nostalgic and emotional impact. They show a preference for simpler narratives and slower pacing, while being less concerned with production quality and specific creators."
+}

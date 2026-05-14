@@ -1,0 +1,73 @@
+{
+  "user_id": "AFKKKCRV3XWHWQOKOBASPHKX3MTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "reality, comedy",
+      "evidence": [
+        "'Survivor is AWESOME'",
+        "'stupid humor is the best'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'Sometimes you just need to laugh..........stupid humor is the best'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "'The fights, the glamor - RuPaul RULES!!!!!!!'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "'Just plain awful'"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "Melissa McCarthy, RuPaul",
+      "evidence": [
+        "'Melissa McCarthy is a GEM!!!!'",
+        "'RuPaul RULES!!!!!!!'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "'Gore & chills'",
+        "'SO FUNNY'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "'Uggghhhhh! Pretty Boys - stupid as hell.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted and comedic content, particularly reality shows and humorous films. They show a preference for fast-paced narratives and have a low sensitivity to production quality, focusing more on entertainment value."
+}

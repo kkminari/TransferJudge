@@ -1,0 +1,77 @@
+{
+  "user_id": "AGPHGRYKFG467XFJNWPORCXVMROQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, supernatural",
+      "evidence": [
+        "\"historically accurate, the subject deserves better treatment.\"",
+        "\"Great supernatural movie\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Story did not satisfy.\"",
+        "\"Story was farfetched, but believable.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"A very entertaining and engrossing movie.\"",
+        "\"A little over the top in terms of special effects and story\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Cinematography was excellent.\"",
+        "\"Great movie, with wonderful music and excellent story line.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Movie did not work.\"",
+        "\"It has to be one of the worst movies I have ever seen\""
+      ],
+      "confidence": 0.2,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"scenery and music were good\"",
+        "\"Cinematography was excellent.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"produces many memories.\"",
+        "\"A movie with a real message.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for historical and supernatural genres, valuing high production quality and emotional resonance in films. They have mixed feelings about narrative complexity and pacing, indicating a desire for engaging stories but with some reservations about execution."
+}

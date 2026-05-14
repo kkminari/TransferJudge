@@ -1,0 +1,77 @@
+{
+  "user_id": "AHB2YJG3TKZOLEYTDFTNZX24VP6Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, sci-fi, drama, comedy",
+      "evidence": [
+        "\"I love this movie, is my kind of movie, all sci-fi all the way...\"",
+        "\"...the relationship of hate to love is so poetic.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This movie is very passionate... it comes into a sad tragedy.\"",
+        "\"...it gives you different perspectives in life and how to cherish it...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"...it was fun movie to watch!\"",
+        "\"...the relationship of hate to love is so poetic.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I just love that duo forever!\"",
+        "\"...it was so fun to watch plus the cute couple...\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"In any movie that Johnny Depp is in.. will always be amazing...\"",
+        "\"...I love Angelina Jolie :3\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"...it does gives you so many perspectives about how society and government wants to control you...\"",
+        "\"...the main actress reminds me of my best friend...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...it was very moving. It was something out of this world...\"",
+        "\"...the relationship of hate to love is so poetic.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for romance and sci-fi genres, often enjoying simple narratives with emotional depth. They show loyalty to specific actors like Johnny Depp and Angelina Jolie, and appreciate films that evoke strong feelings and relatable experiences."
+}

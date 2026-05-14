@@ -1,0 +1,76 @@
+{
+  "user_id": "AGLMDYLBU22CTEJCA3CV3KF6MEGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, thriller, documentary, horror",
+      "evidence": [
+        "\"I enjoy the homage to Hitchcock that it strived for.\"",
+        "\"This is one of the best Prime movies on here; it's so good I would have happily paid to watch it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"It had a lot of fun twists that just kept coming.\"",
+        "\"I never knew what was going to happen next -- which is rare, because I watch a lot of movies and can usually figure out what's going to happen in the first 15 minutes.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"This movie is SLOW -- but Dennis Quaid is very creepy.\"",
+        "\"I fell asleep both times I tried watching this.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The movie shows the progression of the illness as Steve races to make journal entries to communicate with his son...\"",
+        "\"The animation is GORGEOUS too, especially the scenes shot on Easter Island...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I personally enjoy a movie more when there are unknowns so they can just be characters without your remembering them from other things.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I found myself wanting to scream for help for her and I felt frustrated that not only was this just a movie but it was also set so far in the past that there's nothing I could have ever done for this girl.\"",
+        "\"The kind of horror this is is not the Scream or Friday the 13th variety...it is somber, sober, and plays out slowly...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I was so invested emotionally in a character like that.\"",
+        "\"This movie will leave you numb, horrified, and maybe a little depressed.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex narratives, particularly in the mystery and thriller genres, and values high production quality. They enjoy emotional and thought-provoking content, often resonating deeply with the characters and stories presented. However, they have mixed feelings about pacing, indicating a tolerance for both slow and fast narratives depending on the context."
+}

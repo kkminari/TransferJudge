@@ -1,0 +1,77 @@
+{
+  "user_id": "AG4NI7ISAAXAGN5V6SFKUH2QN3SQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "A heartbreaking story well done!!!",
+        "This is a must watch tv show, fun, intense, and full of excitement, and suspense."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "fun, heartwarming and a great cast!!!!",
+        "This is a must watch tv show, fun, intense, and full of excitement, and suspense."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "This is a must watch tv show, fun, intense, and full of excitement, and suspense.",
+        "The suspense is real and keeps you guessing, what will Harvey do now!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Cate Blanchett so deserved the Oscar for her role! she was BRILLIANT!",
+        "The whole cast was great and I would definitely recommend seeing this movie!!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "Maggie is awesome ( as usual).",
+        "Love Harvey! The whole cast is great."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "A heartbreaking story well done!!!",
+        "The suspense is real and keeps you guessing, what will Harvey do now!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "A very moving film..",
+        "A very powerful book and movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and comedy genres, enjoying fast-paced narratives with high production quality. They appreciate emotional depth in storytelling and show loyalty to certain actors, indicating a taste for engaging and well-crafted content."
+}

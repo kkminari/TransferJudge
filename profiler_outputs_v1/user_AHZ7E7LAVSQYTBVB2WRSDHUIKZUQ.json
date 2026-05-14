@@ -1,0 +1,77 @@
+{
+  "user_id": "AHZ7E7LAVSQYTBVB2WRSDHUIKZUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "noir, classic",
+      "evidence": [
+        "\"Good Noir movie with great acting from Victor Mature and Brian Donlevy.\"",
+        "\"Excellent Dana Andrew's Noir movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot of the movie is weak and hard to sit through.\"",
+        "\"Good acting with a plot that was just fair.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The plot of the movie is weak and hard to sit through.\"",
+        "\"Movie is just okay.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Poor plot for good actors!\"",
+        "\"I was disappointed in the acting and the story line in this movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Barbara Stanwyck, Victor Mature, Hedy LaMarr",
+      "evidence": [
+        "\"She is one of my favorite actresses of the classic Hollywood era.\"",
+        "\"Hedy was a good actress that was given sub-par roles.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "acting",
+      "evidence": [
+        "\"Good Noir movie with great acting from Victor Mature and Brian Donlevy.\"",
+        "\"Paul Newman and Sally Field played their parts well!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"The plot of the movie is weak and hard to sit through.\"",
+        "\"I was disappointed in the acting and the story line in this movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic and noir films, particularly appreciating the acting quality. They show a high sensitivity to production quality and express disappointment when the plot does not meet their expectations, indicating a preference for straightforward narratives."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AELG6GLYTI5KKLCHPGXVJ7NZRAPA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, romance, historical",
+      "evidence": [
+        "\"It's a little slow at times, but the movie will stir up some emotions.\"",
+        "\"This is a GREAT movie, especially for teenagers ~ but I think all ages would enjoy it!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The plot is okay, but aside from the characters listed above, the acting [is bad].\"",
+        "\"It's a little slow at times, but the movie will stir up some emotions.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It's a little slow at times, but the movie will stir up some emotions.\"",
+        "\"This is one of the cutest movies ever ~ Like many other husbands in Manhattan during the summer, Richard Sherman...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"the bad hair and fashion looks like something out of a late 80's movie.\"",
+        "\"the resolution wasn't that good (it was kind of grainy), but it has a few decent features.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Kidman fans will go crazy over this film because it is one of her most ravishing performances to date!\"",
+        "\"Is there anything Denzel Washington can't achieve in the acting world?!!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"THE SOUNDTRACK WAS LOVELY: the piano playing was amazingly splendid.\"",
+        "\"the music video 'As If' from Blaque and some clips of Kirsten and Eliza Dushku from the Wardrobe & Make up tests!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"the movie will stir up some emotions.\"",
+        "\"What an AMAZING and inspirational story ~ and it ACTUALLY happened!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama, comedy, and romance, often appreciating films that evoke strong emotions and feature good soundtracks. They show a moderate sensitivity to production quality and have mixed feelings about narrative complexity and pacing."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AE74ODB6TAE52CGRAVWRL7HZN6FA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, romance",
+      "evidence": [
+        "'Great kids movie!'",
+        "'Romantic Comedy at it's best.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'Excellent theme and message although it was a bit strange at times with the plot.'",
+        "'Slow moving, but excellent theme and story.'"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "'Slow moving, but excellent theme and story.'",
+        "'Cute movie, slow mover.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "'Typical lower budget Christian movie.'",
+        "'Excellent message! A bit slow moving and at times seemed to \"rabbit trail\".'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "'Excellent theme and story.'",
+        "'Cute movie with a great message!'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'Best movie ever!!'",
+        "'Excellent message!'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly movies, particularly in the comedy and romance genres. They appreciate simple narratives with strong themes, though they tend to prefer slower pacing. Emotional impact is important to them, as they often highlight messages and feelings in their reviews."
+}

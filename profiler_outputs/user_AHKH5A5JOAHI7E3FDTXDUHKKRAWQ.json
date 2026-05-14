@@ -1,0 +1,77 @@
+{
+  "user_id": "AHKH5A5JOAHI7E3FDTXDUHKKRAWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, science fiction, fantasy",
+      "evidence": [
+        "\"The show is hilarious; it's laugh out loud funny.\"",
+        "\"It's a story of a family holding on by a thread, and it grows thinner every second only to break in the end.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"It takes a common religious story or myth and turns into an epic fantasy.\"",
+        "\"The story was done very well, and Ryan Reynolds does surprisingly well.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I struggled with a 3 and a 4 star because it has a good cast and good acting.\"",
+        "\"The way they tease you is brilliant. That part I love.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The presentation, the writing, the score, EVERYTHING!\"",
+        "\"The level of quality this show maintains is spectacular.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I look forward to the remake. We have the genius of Ann Druyan to help bring back the amazing touch that existed in the original.\"",
+        "\"Whedon is the best.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The Blu-ray, the detail is amazing. 1080p is a small step up, but it really adds to the experience.\"",
+        "\"The visual effects were great, and the 3D was magnificent.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It really makes you appreciate your own family, or at least it did for me.\"",
+        "\"It's hilarious, but it's also heart wrenching and heartbreaking.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies and dramas, particularly those that blend humor with emotional depth. They appreciate high production quality and are sensitive to narrative complexity, though they have mixed feelings about pacing. Overall, they enjoy engaging stories that evoke strong emotional responses."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFG7R467Q3SSTYVZYMRXJZDFFPNA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, horror",
+      "evidence": [
+        "\"I liked that they also really tell the back story to both agents too! Definitely worth renting!\"",
+        "\"Breaking bad does a fabulous job of showing how dark things can be and how quickly your goal becomes your nightmare.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"waste of money and 3 hours!!!! all over the place and in 2 of the time frames featured, we could not understand a damn thing they said\"",
+        "\"I like it as a series on it's own but if I try to think of it as an extension of psycho I don't care for it much.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"soap opera... like anyone needs that?\"",
+        "\"this season was pretty interesting. The crew on this season had some stand outs that I would want to survive the end of the world with!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"waste of money and 3 hours!!!! all over the place and in 2 of the time frames featured, we could not understand a damn thing they said\"",
+        "\"Great movie! Well worth watching if you liked all of the others in the series.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I bought this for my daughter for Christmas since I got her hooked on AHS Asylum - she comes over just to watch it!\"",
+        "\"Absolutely the best show around and very sad it is no longer but it went out on top with a bang and it was worth every minute!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Breaking bad does a fabulous job of showing how dark things can be and how quickly your goal becomes your nightmare.\"",
+        "\"Great movie! Well worth watching if you liked all of the others in the series.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"What a great show!\"",
+        "\"Absolutely the best show around and very sad it is no longer but it went out on top with a bang and it was worth every minute!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for sci-fi and drama genres, particularly enjoying shows with strong emotional resonance and sensory experiences. They have mixed feelings about narrative complexity and pacing, indicating a nuanced taste in storytelling."
+}

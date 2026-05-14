@@ -1,0 +1,162 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's strong preference for crime and drama genres directly translates to a desire for similar themes in books. This pattern is about the type of stories they enjoy, which exists in both media.",
+      "transferred_insight": "Prefer crime and drama novels with engaging plots and strong character development.",
+      "confidence": 0.8
+    },
+    "narrative_complexity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's preference for simple narratives suggests they enjoy straightforward storytelling, which is applicable to books as well. This pattern indicates a desire for accessible plots without excessive complexity.",
+      "transferred_insight": "Prefer books with straightforward, uncomplicated narratives.",
+      "confidence": 0.7
+    },
+    "pacing_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's mixed pacing preference indicates they can enjoy both fast-paced and slower narratives. This suggests a flexibility in pacing that can inform book recommendations but should not dominate them.",
+      "transferred_insight": "Open to a range of pacing, but likely prefers engaging narratives that maintain interest.",
+      "confidence": 0.6
+    },
+    "quality_sensitivity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high sensitivity to quality, particularly in acting, suggests they will appreciate well-written and well-reviewed books. This pattern is relevant as it indicates a preference for high-quality narratives.",
+      "transferred_insight": "Prefer highly-rated books with strong writing and character development.",
+      "confidence": 0.8
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user's low brand loyalty indicates they do not have a strong attachment to specific authors or creators, which does not translate well to book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's preference for visual spectacle is specific to film and does not apply to books, which rely on text rather than visual elements.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high emotional engagement with stories suggests they seek books that evoke strong feelings and resonate on a deeper level. This pattern is applicable across both media.",
+      "transferred_insight": "Prefer emotionally impactful books that evoke strong feelings.",
+      "confidence": 0.9
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "1451695195",
+      "title": "Proof of Heaven: A Neurosurgeon's Journey into the Afterlife",
+      "score": 0.95,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book combines elements of personal narrative and emotional depth, appealing to the user's preference for impactful stories. Its straightforward narrative style aligns with their preference for simple storytelling."
+    },
+    {
+      "rank": 2,
+      "item_id": "0425281234",
+      "title": "The Bonesetter's Daughter",
+      "score": 0.9,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This novel features a compelling family drama with elements of mystery, aligning well with the user's interest in crime and drama. The emotional depth of the characters resonates with their high emotional engagement."
+    },
+    {
+      "rank": 3,
+      "item_id": "1491750707",
+      "title": "Stealing Ho Chi Minh's Gold",
+      "score": 0.88,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This thriller combines elements of crime and suspense, appealing to the user's genre preferences. Its straightforward narrative style and high ratings suggest quality storytelling."
+    },
+    {
+      "rank": 4,
+      "item_id": "0367331234",
+      "title": "Dating a Chance: A Mystery",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This mystery novel offers a gripping plot that aligns with the user's interest in crime stories. The emotional stakes involved in the narrative cater to their preference for impactful storytelling."
+    },
+    {
+      "rank": 5,
+      "item_id": "0671791109",
+      "title": "Gripping Hand",
+      "score": 0.82,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This book features a straightforward narrative within a science fiction context, which may appeal to the user's preference for simple storytelling while still engaging with a crime-related theme."
+    },
+    {
+      "rank": 6,
+      "item_id": "1999179099",
+      "title": "ROXI the Rescue Dog - Helps the Cows",
+      "score": 0.8,
+      "applied_patterns": [
+        "emotional_resonance"
+      ],
+      "reasoning": "While this book is aimed at a younger audience, its themes of compassion and emotional engagement may resonate with the user's preference for stories that evoke strong feelings."
+    },
+    {
+      "rank": 7,
+      "item_id": "1609361040",
+      "title": "Love Finds You in Tombstone, Arizona",
+      "score": 0.78,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book combines elements of romance and drama, which may appeal to the user's interest in emotional narratives, even if it strays slightly from their primary genre preference."
+    },
+    {
+      "rank": 8,
+      "item_id": "B08NDR18BV",
+      "title": "The Pet Gala",
+      "score": 0.75,
+      "applied_patterns": [
+        "emotional_resonance"
+      ],
+      "reasoning": "This children's book, while not directly aligned with the user's primary interests, offers themes of joy and emotional connection that may resonate with their preference for impactful stories."
+    },
+    {
+      "rank": 9,
+      "item_id": "B003AYYKUO",
+      "title": "CRECER EN PAREJA EROS Y PSIQUE",
+      "score": 0.73,
+      "applied_patterns": [
+        "emotional_resonance"
+      ],
+      "reasoning": "This book may provide insights into relationships and emotional depth, appealing to the user's interest in stories that evoke strong feelings."
+    },
+    {
+      "rank": 10,
+      "item_id": "B07J3MDS1W",
+      "title": "Somewhere In-Between",
+      "score": 0.7,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This novel explores themes of life and death, which may resonate with the user's emotional engagement preferences while also touching on dramatic elements."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference were blocked as they do not translate well to book recommendations.",
+  "overall_strategy": "Focused on transferring genre preferences, narrative simplicity, and emotional engagement while blocking non-transferable patterns. Recommendations emphasize crime and drama themes with strong emotional resonance."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AELACBZASH7TWZCB2X753Q5ZGY5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama, romance",
+      "evidence": [
+        "\"Great documentary illuminating the plight of Pit Bulls and their owners.\"",
+        "\"Very nice but sad love story!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Touching, but predictable story about a comatose girl who can't decide whether to stay (alive) or go....\"",
+        "\"The ending of this movie kind of fell flat!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Movie was slow at times, but it seemed to create the mood for this time of life.\"",
+        "\"Interesting theme, but the film dragged quite a bit.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Tatiana is amazing as she plays all the characters.\"",
+        "\"Tim Curry has a great voice and presence.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Woody Allen makes great films, but should stay out of them.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high sensory experience",
+      "evidence": [
+        "\"Love her music and costumes and sets.....\"",
+        "\"Great movie. Brings the issue of animal cruelty perpetrated by scientists to the public's attention.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The content brings you to tears at times, but it is important for people to realize how many wonderful pets are being slaughtered due to ignorance.\"",
+        "\"Great movie. Brings the issue of animal cruelty perpetrated by scientists to the public's attention.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and dramas, particularly those that evoke emotional responses and highlight social issues. They appreciate high production quality and tend to favor slower-paced narratives that create a mood, although they also enjoy engaging sensory experiences."
+}

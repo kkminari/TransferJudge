@@ -1,0 +1,77 @@
+{
+  "user_id": "AHXLUU4ZQTMD4XIUEZGZNK2Q3O6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, western",
+      "evidence": [
+        "\"Hard to follow the main characters. Didn't care for it much and I'm a big western fan.\"",
+        "\"This movie is hilarious. I laugh everytime I watch it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Stupid movie.\"",
+        "\"Pretty good.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This movie is hilarious. I laugh everytime I watch it.\"",
+        "\"Curse of Frankenstein scared the crap out of me as a kid. Tremendous shock value.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Didn't get a lot of press, but it's a very entertaining movie. Can't miss with Edward Norton.\"",
+        "\"Very good TV Series.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Chris Noth, Edward Norton",
+      "evidence": [
+        "\"Love Chris Noth as Logan\"",
+        "\"Can't miss with Edward Norton\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"This movie kind of sticks with you. Very good\"",
+        "\"I laugh everytime I watch it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The poor man was thrust into a situation not of his making, but he truly showed extreme leadership.\"",
+        "\"This movie kind of sticks with you. Very good\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama and comedy, with a preference for fast-paced narratives that evoke strong emotional responses. They show loyalty to specific actors like Chris Noth and Edward Norton, indicating a preference for familiar faces in their viewing experience."
+}

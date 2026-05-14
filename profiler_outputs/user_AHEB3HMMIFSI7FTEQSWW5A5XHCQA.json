@@ -1,0 +1,77 @@
+{
+  "user_id": "AHEB3HMMIFSI7FTEQSWW5A5XHCQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, drama, western, family",
+      "evidence": [
+        "If you love your American history, and are an avid Civil War buff, then this is the movie for you!",
+        "It's hard to beat Tom Selleck and Sam Elliott in a good ol' western."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "This is a wonderful, heartwarming movie with a great cast.",
+        "The story is really good but the movie just ends too quickly."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "The movie, because of the content, the telling of the story of Genghis Kahn's life and what he did, was very long.",
+        "This is a wonderful Christmas movie about Thomas Kinkade and his struggles growing up."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The CGI in the movie is so fantastic, so real!",
+        "The story, the music and the characters are priceless!!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "I have always been a huge Charlton Heston fan, and this movie doesn't disappoint.",
+        "Tom Hanks is so fantastic in this film."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "A haunting story. The story lets you into an Irish family and warms your heart.",
+        "The scenery is just beautiful, and the actors are quaint."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "The strength of those people in WW2, and what they had to endure is what this story is all about.",
+        "It is an incredibly heartwarming story."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for historical and family-oriented films, particularly those with heartwarming stories and strong emotional resonance. They appreciate high production quality and enjoy simple narratives, often favoring slower pacing that allows for character development."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFYNOOVX45ZRV3N3SUP57R6RBDZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, comedy, drama, fantasy, spy",
+      "evidence": [
+        "\"Excellent documentary of actual participants of the war.\"",
+        "\"Really one of the best of the spy genre ever made.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Never a dull moment once she falls through to Wonderland and meets Hatter.\"",
+        "\"The entire cast and the stories are sweet and very likable.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It hits the ground running and never disappoints.\"",
+        "\"Fun, fast paced, exciting. It has it all.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The normal widescreen HD look of today is beautifully done throughout.\"",
+        "\"All the actors give top performances.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "JJ Abrams, Simon Pegg",
+      "evidence": [
+        "\"Dare I say it-it may be better than the original films. Fresh, hip, cool, now.\"",
+        "\"Simon Pegg's reactions alone are worth the price of admission.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"The interplay between them in any situation is a lesson in something that can’t be taught.\"",
+        "\"The creatures, Eddie Redmayne, Colin Farrel et al. are all wonderful.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This film will stay with you long after it's over.\"",
+        "\"I love this film. It's fun and exciting and you will have a great time watching it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for documentaries, comedies, and fantasy films, appreciating both humor and emotional depth. They favor fast-paced narratives with high production quality and show loyalty to notable creators like JJ Abrams and Simon Pegg."
+}

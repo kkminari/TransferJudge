@@ -1,0 +1,77 @@
+{
+  "user_id": "AFO6O46A66BIESDOWFLESHCAYD7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama",
+      "evidence": [
+        "Love this movie now I have all three movies",
+        "Just love this movie hard to keep dry eyes haven't been able to yet one of my favorite movies"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great movie kept my attention through entire show one I will watch again",
+        "Not a bad movie kept my attention"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Great movie kept my attention through entire show one I will watch again",
+        "Not a bad movie kept my attention"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Good movie",
+        "Didn't care for movie was more of a documentary"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Love this movie have all three",
+        "I really liked this movie but you do need to watch other two to total understand it which I have"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Brings back memories when I was a little girl fun to watch again",
+        "This is such cute movies makes me forget I'm watching a kids movie"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "hard to keep dry eyes haven't been able to yet one of my favorite movies",
+        "I just love this brings back memories when I was a little girl fun to watch again"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family and drama movies, often enjoying simple narratives that keep their attention. They value emotional resonance highly, as many reviews reflect a deep connection to the films, often evoking nostalgia and joy."
+}

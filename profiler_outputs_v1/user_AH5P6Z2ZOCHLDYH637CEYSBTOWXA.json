@@ -1,0 +1,77 @@
+{
+  "user_id": "AH5P6Z2ZOCHLDYH637CEYSBTOWXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's education, family-friendly",
+      "evidence": [
+        "\"Life sciences disguised as entertainment!\"",
+        "\"Great to watch and educational!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Thoughtful and satisfying, we enjoyed it very much.\"",
+        "\"This is a brilliant series that children love, and we don't mind watching it with them!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Three generations of our family like this movie.\"",
+        "\"We watch it over and over...and over.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I really enjoy watching these with my preschool and primary school-age grandchildren!\"",
+        "\"Jodie Foster, Anthony Hopkins and Ted Levine (Monk) do a superb job of making this movie creepy.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"We love Wallace & Grommit and this one was no exception.\"",
+        "\"Great rendition of a wonderful story, our family enjoyed this very much.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual and educational",
+      "evidence": [
+        "\"It's a great way to introduce a child to great music without them even realizing it!\"",
+        "\"I love how my granddaughter is receiving a music education while watching Barbie.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This story inspired my daughter to become a nurse.\"",
+        "\"A true story about a father finding a cure for his son when all else fails...a really great movie.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for children's educational content that is family-friendly and visually engaging. They appreciate high production quality and emotional resonance in stories, often enjoying simple narratives that can be shared across generations."
+}

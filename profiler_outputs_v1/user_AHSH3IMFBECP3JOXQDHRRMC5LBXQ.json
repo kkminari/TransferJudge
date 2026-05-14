@@ -1,0 +1,77 @@
+{
+  "user_id": "AHSH3IMFBECP3JOXQDHRRMC5LBXQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "reality TV, sci-fi, horror",
+      "evidence": [
+        "I love this genre of movies too. So much fun.",
+        "Gore to the max and I loved it. This is sci-fi horror with total gore and I loved it."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The series started out so good. Lately it's sorta boring, their lives aren't fabulous to watch.",
+        "The new actors, yes actors, are not real, their storylines are fake."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Didn't finish the series this year. Only gave it one episode. So boring.",
+        "The ladies are getting too long in the tooth. They are drunk, evil and were so mean to poor Tinsley."
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Bad acting. Bad camera work. Bad editing. Stilted dialogue.",
+        "The rest of the cast is mean, ugly, and not entertaining."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Let's face it, LVP was Beverly Hills. The rest of the ladies just don't have the same panache.",
+        "I thought I'd miss Nene not being on the show, but I don't."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, emotional engagement",
+      "evidence": [
+        "If you like horror movies that are different, not cliche, and different than this is the movie for you!",
+        "this documentary will change your life."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "I don't have fun with this show anymore or enjoy it.",
+        "The series started out so good. Lately it's sorta boring."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for reality TV and sci-fi horror, but shows a significant dislike for slow-paced and low-quality productions. They value emotional engagement but often find the content lacking in this area, leading to a mixed overall experience."
+}

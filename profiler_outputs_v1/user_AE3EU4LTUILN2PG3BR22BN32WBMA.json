@@ -1,0 +1,74 @@
+{
+  "user_id": "AE3EU4LTUILN2PG3BR22BN32WBMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, animation",
+      "evidence": [
+        "\"Hilarious.\"",
+        "\"The animation is ahead of its time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great series\"",
+        "\"Great movie\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great show\"",
+        "\"Watch this show.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great.\"",
+        "\"Overall great show.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The animation is ahead of its time.\"",
+        "\"I never heard people talk backwards and forwards.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"It is interesting.\"",
+        "\"Long\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for comedy and animation, enjoying fast-paced and straightforward narratives. They appreciate visual spectacle but do not seem particularly loyal to specific creators or sensitive to production quality."
+}

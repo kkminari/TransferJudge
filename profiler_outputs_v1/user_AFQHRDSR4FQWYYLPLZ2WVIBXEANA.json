@@ -1,0 +1,77 @@
+{
+  "user_id": "AFQHRDSR4FQWYYLPLZ2WVIBXEANA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, 80s nostalgia",
+      "evidence": [
+        "\"This show is such a great throwback to 80's culture...\"",
+        "\"This drama is fascinating.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Nothing unusual or gripping.....\"",
+        "\"...sometimes it's like these guys make such bad choices...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The movie is so fast and furious in lifestyle...\"",
+        "\"...it was thrilling and terrifying and sad all at the same time.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...well acted, edited and written.\"",
+        "\"Everything about it, acting, writing, editing seems top notch.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Been a fan of Gael Garcia Bernal since Motorcycle Diaries...\"",
+        "\"...great movie making as usual by Scorsese with DiCaprio.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, emotional depth",
+      "evidence": [
+        "\"...the impact was nonetheless forceful.\"",
+        "\"...you could feel their change thru Alice's eyes.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...brought tears...\"",
+        "\"...the most Hopeful movie I've seen in a while.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and shows with an 80s nostalgia, appreciating high production quality and fast pacing. They value emotional depth and are sensitive to narrative simplicity, often favoring engaging storytelling that resonates on a personal level."
+}

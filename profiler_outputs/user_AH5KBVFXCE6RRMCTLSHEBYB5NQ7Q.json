@@ -1,0 +1,74 @@
+{
+  "user_id": "AH5KBVFXCE6RRMCTLSHEBYB5NQ7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama",
+      "evidence": [
+        "\"Excellent mysteries,great characters and amazing acing\"",
+        "\"the stories are well written and not run of the mill murder mysteries\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story was so well told\"",
+        "\"These episodes are always well written and I love seeing people are the same all over the world\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I liked this show,it was quick and entertaining to watch.I have a short attention span\"",
+        "\"Always great acting,and the mysteries are always different.Not cookie cutter.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Quality as good as the movies\"",
+        "\"The camera work was excellent.I felt like I knew these people.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"great acting,beautiful sets,really well written\"",
+        "\"Shakespeare really comes alive in this film,good acting,beautiful scenery.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I enjoyed this whole series when it was on cable,great acting,beautiful sets,really well written.\"",
+        "\"Such a funny,clueless bunch of politicians. They run around supposedly doing the job of a vice president and staff,but everyone has their own agenda.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for well-written mystery and drama series, appreciating high production quality and fast pacing. They value emotional resonance and sensory experiences, particularly through acting and visual elements, while showing little brand loyalty to specific creators."
+}

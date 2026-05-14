@@ -1,0 +1,77 @@
+{
+  "user_id": "AFZ7BZEAOB6JK3T4HGIATK2GQDBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "war, documentary, action, comedy",
+      "evidence": [
+        "\"Great stories of submarine warfare and the captains and crews that fought.\"",
+        "\"Ron is the X-rated portion of the Blue Collar Comedy Tour.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's an OK decent flick.\"",
+        "\"Not the best AVENGERS movie, but still very entertaining.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Another exciting installment of the John Wick series.\"",
+        "\"A GREAT ACTION ADVENTURE.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"At it's very best, this allegedly X rated DVD should be a PG=13 at best.\"",
+        "\"It's OK, but no academy award in it's future.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"My wife loves everything about Outlander.\"",
+        "\"This is a great series. I really appreciated the realism!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"It's nice to get the view that this documentary offers.\"",
+        "\"I like watching every minute of this.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I was disappointed with this movie.\"",
+        "\"I disliked being duped thinking I was buying an X rated DVD.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys war and documentary genres, particularly those with fast pacing and visual spectacle. They show some brand loyalty but are less concerned with production quality and emotional depth."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFPSAWLN73V655UUHMNDRBIQNCXQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, sci-fi, paranormal",
+      "evidence": [
+        "\"Strife, drama, sexual tension: the three necessities of a great show.\"",
+        "\"I enjoy science fiction and paranormal books and movies.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"This plot is convoluted therefore always interesting.\"",
+        "\"This show is difficult to get into.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The show is exciting rather than boring.\"",
+        "\"This season of Big Love has lost some of its fire.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting was superb and the storylines were great.\"",
+        "\"The actors are great and play their respective parts with conviction.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I would like to see Cinemax produce more of this series.\"",
+        "\"Amazon needs to make sure that all of the seasons and episodes are put on Amazon Prime.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The episodes are always entertaining and stirring to my imagination.\"",
+        "\"The show has romance, intrigue, animosity, and humor-- everything that makes up real life.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The show has romance, intrigue, animosity, and humor-- everything that makes up real life.\"",
+        "\"This show is definitely a keeper.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and romance, particularly in shows that feature strong acting and engaging storylines. They have a mixed response to narrative complexity and pacing, indicating a preference for both straightforward and more intricate plots, while valuing high production quality and emotional resonance in their viewing experiences."
+}

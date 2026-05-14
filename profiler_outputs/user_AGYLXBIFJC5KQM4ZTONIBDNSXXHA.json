@@ -1,0 +1,77 @@
+{
+  "user_id": "AGYLXBIFJC5KQM4ZTONIBDNSXXHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, period pieces",
+      "evidence": [
+        "\"If you like period pieces this gives a good lesson on the Edwardian period...\"",
+        "\"I love both Judi Dench and Maggie Smith so that's why I didn't turn it off.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"...maybe if I was just watching a show weekly and not watching back to back I would think it was a little show in the beginning...\"",
+        "\"...it could not be better but wish it could have been longer.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"...but I love Maggie Smith...with anyone else in that role it would have only been a 2-3 Star.\"",
+        "\"...it really is a Fantastic, well written and well played show...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...it really is a Fantastic, well written and well played show...\"",
+        "\"...Jeffrey Tambor what a beautiful performance.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"I love both Judi Dench and Maggie Smith so that's why I didn't turn it off.\"",
+        "\"My all time favorite Steven King movie!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"...I felt I was sitting with old friends, so enjoyed it...\"",
+        "\"...it could not be better but wish it could have been longer.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...it really is a Fantastic, well written and well played show...\"",
+        "\"...brought tears, stayed with me.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for drama and period pieces, particularly enjoying works featuring notable actors like Judi Dench and Maggie Smith. They appreciate high production quality and emotional resonance, often feeling a deep connection to the characters and narratives."
+}

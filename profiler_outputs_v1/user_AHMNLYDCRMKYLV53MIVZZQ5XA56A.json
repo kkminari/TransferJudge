@@ -1,0 +1,75 @@
+{
+  "user_id": "AHMNLYDCRMKYLV53MIVZZQ5XA56A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, satire",
+      "evidence": [
+        "great historical story",
+        "Fun satire."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "Hard to follow story great delivery",
+        "some important points made by non-verbal cues in their acting."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Way different, slow moving and indirect connections."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Excellent vehicle of both stars skills",
+        "great historical story"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Russell Crowe",
+      "evidence": [
+        "Some interesting Russell Crowe historical points to catch.",
+        "One of Crowe's best."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual storytelling",
+      "evidence": [
+        "some important points made by non-verbal cues in their acting."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "not that ground breaking",
+        "the idea of letting issues between people go instead of resolving them is more about getting along than improving mental health"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys historical narratives and satire, showing a preference for well-crafted stories with high production quality. They appreciate visual storytelling but have mixed feelings about narrative complexity and emotional depth."
+}

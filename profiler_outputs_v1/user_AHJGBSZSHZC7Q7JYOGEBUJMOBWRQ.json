@@ -1,0 +1,77 @@
+{
+  "user_id": "AHJGBSZSHZC7Q7JYOGEBUJMOBWRQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "detective, drama",
+      "evidence": [
+        "For those of us who like Scandinavian detective thrillers, this ought to do it for you.",
+        "This series was wonderfully enjoyable with so many of Dickens' memorable characters..."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "This is a curious film that describes a mind committed to finding itself amidst political view points...",
+        "It drags on in the weirdness."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "It drags on in the weirdness.",
+        "Some fine actors here, but they couldn't seem to be coaxed out of a flimsy script."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "This is a deeply unfortunate production. Everything about it is completely dreadful.",
+        "A splendid film done with tremendous respect for Hogarth's work..."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "If you like his acting, see The Painted Veil and Infamous.",
+        "Emily Watson has... lived up to the challenge of telling us some of the most difficult stories..."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "Wonderful to watch...so many sparkling visual touches...",
+        "There are beautiful scenes of a strange natural world..."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It's always the best to discover a new Scandinavian detective thriller.",
+        "Emily Watson has... lived up to the challenge of telling us some of the most difficult stories..."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for detective and drama genres, particularly enjoying Scandinavian thrillers and Dickensian themes. They value high production quality and have a strong emotional connection to the content, often appreciating visual aesthetics and complex narratives, though they express some dissatisfaction with pacing in certain films."
+}

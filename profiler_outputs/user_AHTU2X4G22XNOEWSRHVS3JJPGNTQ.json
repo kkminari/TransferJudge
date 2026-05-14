@@ -1,0 +1,77 @@
+{
+  "user_id": "AHTU2X4G22XNOEWSRHVS3JJPGNTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, thriller",
+      "evidence": [
+        "I enjoyed this movie very much. It was a thriller that kept you guessing up until the end.",
+        "I love this series as it follows the book so closely."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "The story was a little hard to follow, and very dark.",
+        "It had a lot of flashbacks and I sometimes got lost in these transitions."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "The plot was predictable, and the acting good with a fair and just ending.",
+        "I enjoyed this series and hope that there will be a Season 2."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Everything about this production was wonderful -- the actors, the storyline, the filming.",
+        "The acting and story were great, and I would like to see it evolve into a series."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I love this series as it follows the book so closely.",
+        "I really enjoyed this series and hope that there will be a Season 2."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I enjoy the various plots and the scenery of a part of the world that I will probably not get to visit.",
+        "The story and acting is top notch."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Great acting, but a very sad story.",
+        "It was a sad story where you didn't really know what had happened until the end."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and thriller genres, appreciating high production quality and emotional depth in storytelling. They have mixed feelings about narrative complexity and pacing, indicating a preference for engaging plots that may sometimes be hard to follow."
+}

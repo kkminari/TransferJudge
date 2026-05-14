@@ -1,0 +1,77 @@
+{
+  "user_id": "AECDFP3R73WCEN6RFLPGUSU3DNMQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama, comedy",
+      "evidence": [
+        "\"Very interesting story, I enjoyed this.\"",
+        "\"Hilarious movie, Johnny Knoxville approaches Borat territory with this epic story & performance.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Supremely entertaining, if unbelievable, from beginning to end.\"",
+        "\"Great casting, great visuals & locations.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Highly recommend this program\"",
+        "\"Great 3D, great movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great casting, great visuals & locations.\"",
+        "\"Best 3D experience possible for home theaters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Quentin Tarantino, Chris Nolan",
+      "evidence": [
+        "\"I like Quentin Tarantino's take on basically everything.\"",
+        "\"Chris Nolan gets Batman. He should have to do every Batman movie from now on.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"WOW, it looks absolutely fantastic!!\"",
+        "\"Great 3D, great movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I laughed, I cried, I think I shat myself.....\"",
+        "\"One of my all time favorites, even if it is a little sappy at certain points.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly documentaries and comedies, with a strong preference for fast-paced narratives. They value high production quality and show loyalty to notable directors like Quentin Tarantino and Chris Nolan, while also seeking emotional engagement in their viewing experiences."
+}

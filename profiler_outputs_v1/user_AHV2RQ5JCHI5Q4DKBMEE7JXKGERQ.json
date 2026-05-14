@@ -1,0 +1,77 @@
+{
+  "user_id": "AHV2RQ5JCHI5Q4DKBMEE7JXKGERQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, drama",
+      "evidence": [
+        "\"Funny family movie with a plot.\"",
+        "\"Great little movie! Shows how a couple can split but still remain a family and love one another.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"An easy movie that you don't have to think through.\"",
+        "\"It is especially enjoyable for a mother-daughter watch and brings back warm memories for those of us who grew up in the sixties.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great story, moves fast and has lots of excitement and friendship without the undercurrent of sexy as seen in so many current films.\"",
+        "\"This was one of my daughter's favorite movies when experiencing a divorce in the family.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Don't know why, but thoroughly enjoyed this movie, explosions gunfire and all.\"",
+        "\"Loved this holiday movie and was happy to add it to the collection.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Was so disappointed being a Bruce Willis fan.\"",
+        "\"If you were a fan, you will be left with your hands out wanting to grab more!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "light-hearted, humorous",
+      "evidence": [
+        "\"Good humor lightens the subject.\"",
+        "\"Funny, but I usually don't like things blowing up or action movies.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This was one of my daughter's favorite movies when experiencing a divorce in the family.\"",
+        "\"It is especially enjoyable for a mother-daughter watch and brings back warm memories for those of us who grew up in the sixties.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted family comedies with simple narratives and fast pacing. They value emotional connections in stories, particularly those that resonate with family themes, and show a preference for humor over action or complexity."
+}

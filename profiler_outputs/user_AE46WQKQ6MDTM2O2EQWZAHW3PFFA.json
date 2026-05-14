@@ -1,0 +1,77 @@
+{
+  "user_id": "AE46WQKQ6MDTM2O2EQWZAHW3PFFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, animated, religious",
+      "evidence": [
+        "\"Wonderful, fun, and entertaining. The world as seen through the eyes of our pets. Cute.\"",
+        "\"Students love the animated Bibleman series. Very clever videos that are engaging.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Enjoyable movie with likable characters.\"",
+        "\"Good explanation of values.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Episode was short. Make class want more.\"",
+        "\"Content of Story was good and Was close to original book.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Exceptional DVD. Beyond expectation. A must have for every Religion class!\"",
+        "\"Unbelievably well done. Students enjoyed the incredible graphics and prayerful presentation.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to specific series",
+      "evidence": [
+        "\"Love the Little Angel Series. Its a hit with K/1/2.\"",
+        "\"Brother Francis videos are the best.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Absolutely engaging and heartwarming.\"",
+        "\"It's always a pleasure to learn from Buck and the gang.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Wonderful, fun, and entertaining.\"",
+        "\"Absolutely engaging and heartwarming.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly, animated, and religious content, often valuing emotional engagement and production quality. They prefer simple narratives with a slower pace, showing loyalty to specific series and characters that resonate well with children."
+}

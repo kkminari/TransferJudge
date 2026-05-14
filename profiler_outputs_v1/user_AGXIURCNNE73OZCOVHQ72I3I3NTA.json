@@ -1,0 +1,77 @@
+{
+  "user_id": "AGXIURCNNE73OZCOVHQ72I3I3NTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, sci-fi, western",
+      "evidence": [
+        "\"I would classify this as an action-thriller movie.\"",
+        "\"It is a well thought out western, reminiscent of movies like The Unforgiven.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The characters seem to be stereotypes stolen from other animated films over the years.\"",
+        "\"The storyline is clear and easy to follow, the villain is not too scary for most children.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"This movie drags compared to the original.\"",
+        "\"I wish there was just a little more of both.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The acting was top notch.\"",
+        "\"This is not a show to watch with the kids, unless they're teens or older (the ratings should make this obvious).\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I loved that they chose one of my favorite actresses, Jodie Whittaker, from Broadchurch.\"",
+        "\"I have watched all previous seasons of Endeavor Morse.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Between the effects, the well choreographed fight scenes and the masterful acting this movie is destined to be a classic.\"",
+        "\"Their self-deprecating humor is refreshing.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"The idea that living your life to the fullest vs. dreaming about doing it resonates with the viewer.\"",
+        "\"This is not a family movie. R-ratings should give you enough hint on that.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and sci-fi genres, with a particular fondness for westerns. They prefer straightforward narratives and have a mixed view on pacing, often appreciating sensory experiences like effects and humor, while showing moderate sensitivity to production quality."
+}

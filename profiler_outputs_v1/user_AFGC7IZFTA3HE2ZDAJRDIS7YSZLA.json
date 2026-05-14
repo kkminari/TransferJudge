@@ -1,0 +1,77 @@
+{
+  "user_id": "AFGC7IZFTA3HE2ZDAJRDIS7YSZLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family, comedy",
+      "evidence": [
+        "\"This movie was so sad but it was really good.\"",
+        "\"Awesome movie! Wonderful for children and adults alike.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Enjoyed this movie from start to finish.\"",
+        "\"It was an ok movie!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Kind of slow but good.\"",
+        "\"Not what I expected. It was ok but could've been better.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Loved this movie! Awesome\"",
+        "\"Awesome series! I do wish the other seasons were as cheap for the series...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I do wish the other seasons were as cheap for the series...\"",
+        "\"We love The Backyardigans! They are so Awesome.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Great make believe and story line\"",
+        "\"Nice dances, songs, not too much dirty language, entertaining for an 80's movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie was so sad but it was really good.\"",
+        "\"It was good to share something with my child that was funny and had some life facts in it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and family-oriented films, often appreciating emotional depth and simple narratives. They prefer slower pacing and are less concerned with production quality, focusing more on the overall enjoyment and sensory experience."
+}

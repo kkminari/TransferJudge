@@ -1,0 +1,76 @@
+{
+  "user_id": "AGIUO5OZZ5T4DKBKH7RHMHVZB75Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action, documentary",
+      "evidence": [
+        "\"A great music and coming of age documentary you've never heard of.\"",
+        "\"It is an action packed and intrigue filled joy ride...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"An over looked classic... Tense and very entertaining.\"",
+        "\"A feel good story well done.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It is an action packed and intrigue filled joy ride...\"",
+        "\"Tense and very entertaining.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The casting and performances are first rate.\"",
+        "\"Excellent writing by Aaron Sorkin combined with great casting and great acting...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Aaron Sorkin",
+      "evidence": [
+        "\"Excellent writing by Aaron Sorkin combined with great casting...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual storytelling, emotional depth",
+      "evidence": [
+        "\"It will make you laugh and cry, what more can you ask for a movie.\"",
+        "\"The producers have gone to great lengths to get the details right and it shows.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It will make you laugh and cry, what more can you ask for a movie.\"",
+        "\"Together they form a friendship that allows them to learn from one another and grow.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and action genres, appreciating fast-paced narratives with high production quality. They value emotional depth and storytelling that evokes strong feelings, often highlighting the performances and writing of specific creators like Aaron Sorkin."
+}

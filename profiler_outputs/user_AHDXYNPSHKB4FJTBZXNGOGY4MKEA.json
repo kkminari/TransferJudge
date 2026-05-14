@@ -1,0 +1,77 @@
+{
+  "user_id": "AHDXYNPSHKB4FJTBZXNGOGY4MKEA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary, crime, fantasy, romance",
+      "evidence": [
+        "\"I love nature having grown up in Alaska and learning about the earth's seasons all over the world was fascinating.\"",
+        "\"If you are looking for complicated heart wrenching movie you have to watch this one.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Most murder mystery movies don't have the intricate story this one has.\"",
+        "\"The story is beautifully crafted, the characters have soul depth and a gorgeous setting.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"this is a fast moving European police series I thoroughly enjoyed.\"",
+        "\"I was hoping for a better story but couldn't get past the main character who was a fireman and leader seemed to be all over the place.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the quality of DVD excellent.\"",
+        "\"the picture is crisp on my 4K tv.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for specific franchises",
+      "evidence": [
+        "\"I'm a trekkie and still enjoy the original versions.\"",
+        "\"having watched Law & Order (Dick Wolf) for so many years I thought I'd check out this one.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"the personal struggle the star went through to make her way made me feel I was struggling with her.\"",
+        "\"I cried, sobbed really, wondering what would it be like to have someone love me like that.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I cried, sobbed really, wondering what would it be like to have someone love me like that.\"",
+        "\"I watched the whole documentary with both dread and hope.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex narratives across various genres, particularly drama and documentaries. They value high production quality and have a notable loyalty to specific franchises like Star Trek and Law & Order, while also seeking emotional depth in their viewing experiences."
+}

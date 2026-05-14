@@ -1,0 +1,77 @@
+{
+  "user_id": "AGVYGWXL62PPGGE6UTNSNVQ7NXMQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, drama",
+      "evidence": [
+        "Excellent period movie",
+        "Thought provoking movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The emphasis is the constant drive to produce, improve resolve and then define the next step.",
+        "fun, doesn't try to be anything other than entertaining"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "a tad slow at the onset",
+        "fun, doesn't try to be anything other than entertaining"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "extraordinarily produced and presented miniseries.",
+        "the camera work is some of the best I've seen"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Kudos to Glenn Henry.",
+        "best done Moses movie I've seen!"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "the camera work is some of the best I've seen",
+        "stylistically unique"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "human pathos is a real",
+        "very intriguing."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for historical and dramatic films, appreciating high production quality and visual spectacle. They enjoy simple narratives that are entertaining, though they have mixed feelings about pacing, indicating a tolerance for slower starts if the content remains engaging."
+}

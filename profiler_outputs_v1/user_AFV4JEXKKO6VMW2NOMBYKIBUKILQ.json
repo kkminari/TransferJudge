@@ -1,0 +1,77 @@
+{
+  "user_id": "AFV4JEXKKO6VMW2NOMBYKIBUKILQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, sci-fi, action, comedy",
+      "evidence": [
+        "\"This movie is a Horror Gem, it is a fairy tale combined with a slasher.\"",
+        "\"I love these kind of movies but this was terrible the aliens looked like et.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story begins with pictures and trophies of garfield then him getting out of his bed and doing hilarious stuff to john.\"",
+        "\"This movie is Based on one of my favorite rides at disney world.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The fights made the whole movie what it is.\"",
+        "\"The open invitational was one of my favorites and the monsters ball.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I saw this movie today and it was terrible the cgi was bad and there wasn't a good gorilla instead there's dragons.\"",
+        "\"This was a terrible movie the special effects were bad, the acting was bad.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I always been a fan of wishbone ever since it began this happens to be a adaptation of my favorite book.\"",
+        "\"I am a huge fan of sci-fi fan and of godzilla.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The throwing people off the log, T-rex battle, empire state building climb.\"",
+        "\"The special effects are good once and a while and the creatures idea is very cool.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I thought that this movie was funny.\"",
+        "\"Boy was this movie boring.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced horror and sci-fi films, often appreciating visual spectacle but showing little concern for production quality. They have a mixed emotional engagement with the content, indicating a preference for entertainment over deep emotional resonance."
+}

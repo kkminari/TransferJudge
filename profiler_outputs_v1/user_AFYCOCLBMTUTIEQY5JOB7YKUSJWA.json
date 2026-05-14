@@ -1,0 +1,75 @@
+{
+  "user_id": "AFYCOCLBMTUTIEQY5JOB7YKUSJWA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama",
+      "evidence": [
+        "Love it, good action and drama!",
+        "Love this series. Good action and drama."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "i was a little slow for me but i did watch it all.",
+        "Its an old movie that is entertain but would only want to see it once."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "i was a little slow for me but i did watch it all.",
+        "too silly!"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "good movie but think it would have been better if the producer had stuck to the real facts of the people and escape",
+        "Its an old movie that is entertain but would only want to see it once."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "love it,first series i have watched since Lost."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "Silly movie but most of Mel Brooks movies are silly. will make u laugh if u are in a good mood."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "I feel sorry for the women who live in a Muslim controlled countries and other asian countries.",
+        "good movie but think it would have been better if the producer had stuck to the real facts of the people and escape"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and drama genres, often appreciating straightforward storytelling. They have mixed feelings about pacing and production quality, indicating a preference for entertainment over high production values."
+}

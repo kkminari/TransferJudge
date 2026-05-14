@@ -1,0 +1,77 @@
+{
+  "user_id": "AGMIET677L6WDQV2RTSNRTTGCASQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, family, drama",
+      "evidence": [
+        "\"Good action movie if you enjoy you typically enjoy the cast.\"",
+        "\"Great family movie, highly recommend.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"If you watch this for entertain and the good movie it is, you will enjoy it.\"",
+        "\"Just good ole fashioned get even movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Good action movie if you enjoy you typically enjoy the cast.\"",
+        "\"Great movie, great add to our collection!!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"If you watch this for entertain and the good movie it is, you will enjoy it.\"",
+        "\"Just have to look past the under tones of a few things.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Good Denzel movie.\"",
+        "\"if you like Mel Gibson you should like this one.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"This movie reset the bar for Hollywood, recommend.\"",
+        "\"Great movies with good aspect ratio.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Good movie for kids and adults a like, recommend.\"",
+        "\"Great Movie, better than expected.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and family-oriented films, often favoring straightforward narratives with fast pacing. They appreciate visual spectacle but show less concern for production quality and emotional depth."
+}

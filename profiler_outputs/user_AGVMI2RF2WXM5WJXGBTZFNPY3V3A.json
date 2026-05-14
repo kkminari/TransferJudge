@@ -1,0 +1,76 @@
+{
+  "user_id": "AGVMI2RF2WXM5WJXGBTZFNPY3V3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama, romance, spiritual",
+      "evidence": [
+        "\"Good movie. It's a spiritual journey for a man after losing his daughter to a predator\"",
+        "\"Cinderella story again. fairy tale all the way. Loved it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"long drawn out movie. Did not like it. Gave it away.\"",
+        "\"this film does not keep your interest. Halfway through you want to snooze.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"drawn out film could have been filmed on a twenty minute dvd.\"",
+        "\"long drawn out movie. Did not like it. Gave it away.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"good story line. A must for family value libraries\"",
+        "\"good movie. Worth buying. Girls basketball, nuns and caring folks.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Sean does a typically great job. Writer who stopped writing after his first book.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Good movie. Movie brings disabilities and war and family together. Heartwarming.\"",
+        "\"a young mans journey with a dynamite dog. Good story about a lost boy and his trial and tribulations.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Good movie. Movie brings disabilities and war and family together. Heartwarming.\"",
+        "\"Son goes off to war and dies. 12 years later son comes back and guides family to happiness and contentment.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented, heartwarming stories with a focus on drama and romance. They prefer simple narratives with slower pacing, often valuing emotional resonance over production quality. Overall, they lean towards uplifting and spiritual themes in their viewing choices."
+}

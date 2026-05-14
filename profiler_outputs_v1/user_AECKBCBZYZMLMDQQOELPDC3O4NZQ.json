@@ -1,0 +1,77 @@
+{
+  "user_id": "AECKBCBZYZMLMDQQOELPDC3O4NZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, romance, action",
+      "evidence": [
+        "I tend to like sci-fi shows and this has quite a combination of factors, love story, action and extra-terrestrials.",
+        "I am a sucker for a love story with SciFi."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "the writers need to look over the books, because there is a reason why, despite the many characters, convoluted plots, and to some extent boring drawn out stories the books are read.",
+        "the story line could be improved."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "my daughter thought it was slow, but that is how some shows are.",
+        "When you first start to watch it does not hold your interest, but as the movie progresses there is something about it that resonates with you."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Well acted and written.",
+        "the all consuming love of a woman for a man above all else."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Ashley Judd is always a favourite with me.",
+        "I just love Sean Connery."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "This is a show to be watched on a large screen to fully appreciate.",
+        "An emotional story about the plight in Ireland and the love engendered by the people for their country."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It appeals to me because the cause is one worth fighting for.",
+        "A lovely love story. Recommended for people who loves love stories."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi, drama, and romance genres, often appreciating well-acted and emotionally resonant stories. They enjoy narratives that combine action with deeper themes, although they have mixed feelings about pacing and narrative complexity."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGUDNNUCCC6TBAAGQDUM5QKAH3DA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, crime, romance",
+      "evidence": [
+        "\"a story about deepest love, in a gorgeous setting\"",
+        "\"a tragic true story, well acted, portrayed, and filmed\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the story development is a bit simple, superficial\"",
+        "\"not dark, not thriller, not psychological drama\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I kept looking for ways to like him, but in every way he turned out to be a selfish unsatisfying sneak to the very end\"",
+        "\"Only watched ten minutes before I was bored\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"well acted, portrayed, and filmed\"",
+        "\"the acting by everyone I thought excellent\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Carey Elwes is better than this\"",
+        "\"the acting by Garner and Cranston is superb\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Poignant, sad, lovely and then...joy!\"",
+        "\"the cinematography quite interesting when it could be\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Beautifully done, compelling, heartbreaking\"",
+        "\"It reveals many things about the interconnectedness of evil\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and historical narratives with a focus on emotional depth and quality acting. They prefer slower-paced stories that evoke strong feelings, while showing a clear dislike for overly simplistic or poorly executed plots."
+}

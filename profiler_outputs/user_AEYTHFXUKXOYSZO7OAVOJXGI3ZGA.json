@@ -1,0 +1,77 @@
+{
+  "user_id": "AEYTHFXUKXOYSZO7OAVOJXGI3ZGA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, action",
+      "evidence": [
+        "\"Fun and suspenseful!\"",
+        "\"Brilliantly written, very funny and unique story line.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"easy to watch without going marathon mode.\"",
+        "\"I want to know what is going to happen!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"a little slow but steady moving.\"",
+        "\"the story speeds up a bit unexpectedly at the end.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"good acting.\"",
+        "\"Awesome must see for any sales person.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "General enjoyment of various actors and storylines."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I was immediately hooked!\"",
+        "\"I want to know what is going to happen!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I want to know what is going to happen!\"",
+        "\"Loved the casting and the gradual tension that increased on several problems.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fun and suspenseful content, particularly in the comedy and drama genres. They appreciate good acting and production quality, while favoring straightforward narratives that keep them engaged and emotionally invested."
+}

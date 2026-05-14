@@ -1,0 +1,166 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's strong preference for horror, classic, and sci-fi genres can partially translate to books, particularly in the horror and classic literature categories. However, the nuances of genre tropes differ between film and literature, so recommendations should focus on these genres while being mindful of the differences.",
+      "transferred_insight": "Prefer horror and classic literature, with an openness to sci-fi themes",
+      "confidence": 0.85
+    },
+    "narrative_complexity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's appreciation for complex narratives in films directly applies to literature. They are likely to enjoy books with intricate plots and well-developed characters, which are common in both mediums.",
+      "transferred_insight": "Prefer books with intricate plots and deep character development",
+      "confidence": 0.9
+    },
+    "pacing_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for fast-paced stories can inform book recommendations, but pacing in literature can vary significantly. While they may enjoy fast-paced thrillers, some literary works may not adhere to this preference.",
+      "transferred_insight": "Prefer fast-paced narratives, but open to varying pacing in literature",
+      "confidence": 0.7
+    },
+    "quality_sensitivity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high sensitivity to quality in films suggests they will also seek well-crafted, high-quality books. This preference can guide recommendations towards critically acclaimed and well-reviewed titles.",
+      "transferred_insight": "Prioritize high-quality, well-reviewed books",
+      "confidence": 0.9
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user's loyalty to specific creators in film does not translate to literature, as there is no direct equivalent in authors. Recommending based on brand loyalty would likely lead to negative transfer.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's preference for visual spectacle and emotional depth is specific to film and does not apply to books. This pattern is not relevant for book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high emotional engagement with films suggests they will appreciate books that evoke strong feelings and emotional depth. This preference is applicable across both mediums.",
+      "transferred_insight": "Prefer emotionally resonant literature with depth",
+      "confidence": 0.9
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "B07CKQV675",
+      "title": "Hush Hush: From the million-copy bestseller comes her most gripping crime thriller yet (DS Grace Allendale, Book 1) (DS Grace Allendale Series)",
+      "score": 0.88,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "pacing_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This gripping crime thriller aligns with the user's interest in crime and complex narratives. The fast-paced nature of the story matches their pacing preference, and its high average rating indicates quality."
+    },
+    {
+      "rank": 2,
+      "item_id": "B000K0OMYU",
+      "title": "Destiny is a Flower",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book likely contains elements of emotional depth and complexity, appealing to the user's preference for narratives that resonate emotionally and are intricately crafted."
+    },
+    {
+      "rank": 3,
+      "item_id": "B26",
+      "title": "Children of Men (Constellations)",
+      "score": 0.84,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book's dystopian themes and complex narrative structure align well with the user's interests in sci-fi and emotional depth, making it a strong candidate."
+    },
+    {
+      "rank": 4,
+      "item_id": "B005B1GDBI",
+      "title": "Ghost Hero: A Lydia Chin/Bill Smith Novel (Bill Smith/Lydia Chin Novels)",
+      "score": 0.82,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This novel features a complex plot and is part of a well-regarded series, appealing to the user's taste for quality and intricate storytelling."
+    },
+    {
+      "rank": 5,
+      "item_id": "B31",
+      "title": "A Complete History of the Spanish-American War of 1898 (Classic Reprint)",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This historical account may offer a complex narrative structure, appealing to the user's interest in classic literature and intricate storytelling."
+    },
+    {
+      "rank": 6,
+      "item_id": "B26",
+      "title": "Mistaken Identity: What the Warren Commission Did Not Want You to Know",
+      "score": 0.78,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book presents a complex narrative that critiques historical events, aligning with the user's preference for intricate storytelling and high-quality content."
+    },
+    {
+      "rank": 7,
+      "item_id": "B26",
+      "title": "Aliens in the Mind",
+      "score": 0.76,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This sci-fi novel features complex themes and narratives, appealing to the user's interest in both sci-fi and intricate storytelling."
+    },
+    {
+      "rank": 8,
+      "item_id": "B26",
+      "title": "The James Bond Archives",
+      "score": 0.75,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book offers a deep dive into the world of James Bond, appealing to the user's interest in classic cinema and high-quality content."
+    },
+    {
+      "rank": 9,
+      "item_id": "B26",
+      "title": "Admiral Richard E. Byrd",
+      "score": 0.74,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This biography may provide a complex narrative structure, appealing to the user's interest in intricate storytelling."
+    },
+    {
+      "rank": 10,
+      "item_id": "B26",
+      "title": "Kiss Tomorrow Goodbye, The Barbara Payton Story - Second Edition",
+      "score": 0.72,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This biography likely contains elements of emotional depth and quality storytelling, appealing to the user's preferences."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference patterns were blocked as they do not translate to book recommendations.",
+  "overall_strategy": "Focused on transferring genre preferences, narrative complexity, pacing, and emotional resonance while blocking non-transferable patterns. Recommendations emphasize high-quality, complex narratives in genres aligned with the user's interests."
+}

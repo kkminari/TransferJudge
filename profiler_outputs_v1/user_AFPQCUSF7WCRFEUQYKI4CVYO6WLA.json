@@ -1,0 +1,77 @@
+{
+  "user_id": "AFPQCUSF7WCRFEUQYKI4CVYO6WLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama",
+      "evidence": [
+        "highly recommendend if u like sci fi",
+        "i love this movie it's my favorite stephen king movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "it helps to have seen the other seasons first.",
+        "the movie looks and sounds great."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "the running time seem to go by much quicker because you are so taken by the movie itself.",
+        "it looks and sounds awesome in the living room."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "it looks and sounds amazing on blu-ray",
+        "the transfer is sweet and sound is great."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "not as good as the first one but still a nice remake with some surprises.",
+        "wow! all of these are so good it's just too hard to pick out a favorite."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "the colors are so vibrant and the feathers are so real looking.",
+        "it looks like you are under the water and makes me want to go to the beach so bad."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "i was too scared to finish it.",
+        "it turned out to be a real good movie."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and drama genres, appreciating fast-paced narratives with high production quality. They enjoy visually and sonically impressive experiences but show low emotional engagement and brand loyalty."
+}

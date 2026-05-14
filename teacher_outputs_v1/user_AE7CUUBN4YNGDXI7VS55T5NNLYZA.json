@@ -1,0 +1,160 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's enjoyment of comedy, drama, and romance directly translates to a preference for light-hearted and emotionally engaging books in similar genres. This pattern is highly transferable as both media share thematic elements.",
+      "transferred_insight": "Prefer light-hearted comedies, dramas, and romantic novels",
+      "confidence": 0.8
+    },
+    "narrative_complexity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for simple narratives suggests they may enjoy accessible storytelling in books, but the complexity of literary works can vary. This pattern informs recommendations but does not dominate them.",
+      "transferred_insight": "Prefer accessible narratives with moderate complexity",
+      "confidence": 0.6
+    },
+    "pacing_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's fast pacing preference indicates a desire for engaging and quick reads, but pacing in books can differ from film. This pattern can guide recommendations towards more dynamic narratives.",
+      "transferred_insight": "Prefer fast-paced books that maintain engagement",
+      "confidence": 0.7
+    },
+    "quality_sensitivity": {
+      "decision": "BLOCK",
+      "rationale": "The user's low sensitivity to quality in film suggests they may not prioritize high literary standards in books either. This pattern is not applicable as it could lead to recommending lower-quality works.",
+      "transferred_insight": null,
+      "confidence": 0.5
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user's low brand loyalty indicates they do not favor specific authors or creators, which does not translate well to book recommendations. This pattern is not useful for guiding choices.",
+      "transferred_insight": null,
+      "confidence": 0.3
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's high sensory preference for film does not apply to books, as the sensory experience is fundamentally different. This pattern should not influence book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.7
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's appreciation for emotional depth and heartwarming stories is a strong indicator for selecting books that evoke similar feelings. This pattern is highly transferable across media.",
+      "transferred_insight": "Prefer emotionally resonant books with depth and humor",
+      "confidence": 0.8
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "B0062GMX38",
+      "title": "Ask the Animals: A Vet's-Eye View of Pets and the People They Love",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book combines humor and emotional depth through the lens of a veterinarian's experiences, aligning well with the user's preference for light-hearted and heartwarming narratives."
+    },
+    {
+      "rank": 2,
+      "item_id": "B12",
+      "title": "Hotter Than Ever: Middle-Aged Hottie",
+      "score": 0.82,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This humorous take on societal expectations and personal growth resonates with the user's love for comedy and emotional depth, making it a fitting recommendation."
+    },
+    {
+      "rank": 3,
+      "item_id": "B12",
+      "title": "Beach Etiquette",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This light-hearted book about beach experiences combines humor and relatable situations, appealing to the user's taste for comedy and emotional engagement."
+    },
+    {
+      "rank": 4,
+      "item_id": "B12",
+      "title": "Counting Sheep - Corbett Style: from Shanagolden to Sydney",
+      "score": 0.78,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "While primarily a historical account, the engaging storytelling style may appeal to the user's preference for accessible narratives and light-hearted content."
+    },
+    {
+      "rank": 5,
+      "item_id": "B12",
+      "title": "Dopefiend",
+      "score": 0.76,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book offers a raw and emotional perspective on urban life, which may resonate with the user's appreciation for depth and humor in storytelling."
+    },
+    {
+      "rank": 6,
+      "item_id": "B12",
+      "title": "Tears of Like Souls (A Julie Madigan Thriller)",
+      "score": 0.74,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This thriller combines elements of suspense with emotional depth, appealing to the user's desire for engaging narratives that are not overly complex."
+    },
+    {
+      "rank": 7,
+      "item_id": "B12",
+      "title": "Savior: Book One",
+      "score": 0.72,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This romantic suspense novel offers a blend of romance and emotional stakes, aligning well with the user's preferences for comedy and drama."
+    },
+    {
+      "rank": 8,
+      "item_id": "B12",
+      "title": "Incredible Bodies",
+      "score": 0.7,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This contemporary fiction book may provide a humorous and engaging narrative that aligns with the user's taste for light-hearted stories."
+    },
+    {
+      "rank": 9,
+      "item_id": "B12",
+      "title": "Crimson Snow: Winter Mysteries",
+      "score": 0.68,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This collection of mysteries may offer engaging and accessible narratives that appeal to the user's preference for simple storytelling."
+    },
+    {
+      "rank": 10,
+      "item_id": "B12",
+      "title": "Hank Ketcham's Complete Dennis the Menace 1950-1954 Box Set",
+      "score": 0.66,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This classic comic collection provides humor and nostalgia, aligning with the user's love for light-hearted and funny narratives."
+    }
+  ],
+  "blocked_patterns_summary": "Quality sensitivity, brand loyalty, and sensory preference were blocked due to their low relevance to book recommendations.",
+  "overall_strategy": "Focused on transferring genre preferences and emotional resonance while applying partial insights for narrative complexity and pacing. Blocked patterns that could lead to negative transfer."
+}

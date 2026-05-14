@@ -1,0 +1,76 @@
+{
+  "user_id": "AEFR5WYT3D4CLFWH2UFJC4TEDH3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, historical, drama",
+      "evidence": [
+        "\"This is a great comedy. I recommend it to everyone who likes a spoof.\"",
+        "\"Excellent adaptation of the book, though the happy ending created suspicion - not very John le Carre.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Great Sherlock tale. Good to see a different actor in the role. Excellent story, very complex, but totally worth it.\"",
+        "\"I went back to the novel and compared the written with the filmed and was satisfied that the film had done no great damage.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Not a lot of energy.\"",
+        "\"I look forward to reading the book. Great cast, great mood.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great characters, great story. The best of black and white.\"",
+        "\"Fascinating premise. I look forward to reading the book. Great cast, great mood.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I'm a big Stanley Tucci fan and he really outdid himself on this film.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Great music. This musical is a wonderful use of the music of Alexander Borodin.\"",
+        "\"The cast of characters, the plot twists, the culture, it is just captivating.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I look forward to refreshing my memory of it in the near future.\"",
+        "\"It is a delightful bit of nonsense. Pure recreation. Fills the need.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies and historical dramas, appreciating complex narratives and high production quality. They enjoy engaging characters and captivating stories, indicating a taste for emotionally resonant content."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGDNXWRHHLXT2SCEY5TIL5YWJTLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's, comedy, creature, sci-fi",
+      "evidence": [
+        "\"One the best children's movies I'm 28 almost 29 and I still love this movies and it's still the be of my favorites!\"",
+        "\"I love this series, it's basically sci-fi sea adventure series\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the movies are not to be taken seriously they are suppose some silliness to the movies more in each sequel.\"",
+        "\"If you like the others then this is worth watching.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Funny, creature movie with charm.\"",
+        "\"One of the best action ever and dinosaurs need say more?\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I just wish the person that owned it before didn't write their name on the DVD but I did buy a used one so I can't really complain.\"",
+        "\"the problem is most of if not all of the movie scenes the lighting is very dark.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If you like the others then this is worth watching.\"",
+        "\"I love Ted Dekker and his books and I feel that they translated it from the book quite well.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"One of the best action ever and dinosaurs need say more?\"",
+        "\"the musical numbers(songs) are all great!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Love this movie. It's one of my favorite childhood movies!\"",
+        "\"A must see movie! One the best children's movies I'm 28 almost 29 and I still love this movies and it's still the be of my favorites!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for children's and creature comedies, often enjoying fast-paced narratives with simple storytelling. They value emotional resonance and nostalgia in their viewing experiences, particularly favoring films that evoke fond childhood memories."
+}

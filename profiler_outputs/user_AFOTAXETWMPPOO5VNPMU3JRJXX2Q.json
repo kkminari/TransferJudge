@@ -1,0 +1,77 @@
+{
+  "user_id": "AFOTAXETWMPPOO5VNPMU3JRJXX2Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, horror, drama, comedy, manga",
+      "evidence": [
+        "\"I'm a huge fan of model-effects, and this has loads of them.\"",
+        "\"This is my favorite Bergman film. It's got horror, humor, drama and strangeness.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Sometimes it becomes totally nonsensical, like they're fighting inside, then suddenly they're outside.\"",
+        "\"If you didn't get it, just watch it 4 times or so.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"There isn't tons of action (definitely not 'non-stop' like the cover says...) but what there is, is great.\"",
+        "\"I only wish there were a bit more a-battlin', but I can always watch it again.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I'm not sure what other people are talking about with the lighting (I thought it was dogma '95, too)...\"",
+        "\"Oh so slowly did this film coax a tear from each my eyes.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"After I saw this I bought all of Mr. Kurosawa's available films.\"",
+        "\"I pretty much saw that this was the director of Godzilla vs Gigan and Godzilla vs Megalon and took the plunge.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"I'm a huge fan of model-effects, and this has loads of them. And first-rate explosions.\"",
+        "\"This must have been amazing in a theater... (as I presume most of these kaiju/model epics are...)\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Oh so slowly did this film coax a tear from each my eyes.\"",
+        "\"I enjoyed it utterly, remain rather haunted, and would recommend its study...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a diverse range of genres, particularly sci-fi, horror, and drama, often appreciating the emotional depth and quality of production. They show a preference for visually engaging experiences and have a notable loyalty to specific directors, particularly in the realm of manga and kaiju films."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AF5TXMSUUSZFJRNXWZXGSLGAAKSA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "biography, concert, classic TV shows",
+      "evidence": [
+        "\"This bio is well produced and a pleasure to watch.\"",
+        "\"It was amazing being able to 'be there' and witness something special from such an amazing musical group.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's entertaining, fun to watch, has an awesome theme song that still rocks...\"",
+        "\"It feels transformative to be there vicariously.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Jane's voice is so pleasant to listen to. She moves slowly and deliberately...\"",
+        "\"...the routines are a tougher workout than the description...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"...it does not stand up to later concerts in the technological sense for cinematography.\"",
+        "\"...the setting is spectacular and soothing...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for specific creators",
+      "evidence": [
+        "\"I buy all of Peggy's videos and liked this one a lot.\"",
+        "\"This is a very good yoga DVD and it's not my first purchase of a Jane Adams video...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It feels transformative to be there vicariously.\"",
+        "\"...conducts the class outside in a beautiful flower garden in the warm sunlight.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...makes a boring task easy to do. I still laugh out loud to Lucy and always will.\"",
+        "\"...I feel focused and restored when I am done.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys classic films, concerts, and light-hearted TV shows, often reflecting on nostalgia and emotional connections. They prefer simple narratives with a slower pace, valuing creators like Jane Adams and Peggy. Their reviews indicate a strong appreciation for sensory experiences that evoke positive feelings."
+}

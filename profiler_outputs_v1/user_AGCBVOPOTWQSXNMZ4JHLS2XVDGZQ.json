@@ -1,0 +1,77 @@
+{
+  "user_id": "AGCBVOPOTWQSXNMZ4JHLS2XVDGZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, mystery, western",
+      "evidence": [
+        "\"I love Red Green. It is great to see a show where the men are 'normal' everyday men...\"",
+        "\"This has to be one of my all-time favorite westerns...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"If you enjoy action, adventure and a little romance then you will love this. It is excellent!\"",
+        "\"This is life pure and simple. The joys, pains, glories and heartaches with God being the focal point in everything that happens\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I absolutely loved this movie. If you enjoy Jerry Lewis antics at their best then you'll love this movie.\"",
+        "\"This is a super comedy. I first saw it on TCM and would watch it each chance that I had to.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I really enjoyed the storyline but wish that the language had been family friendly.\"",
+        "\"I get tired of series that do this.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for Red Green and Jerry Lewis",
+      "evidence": [
+        "\"I love it, of course I consider myself a big fan of Red Green so I really enjoy anything that Red is in.\"",
+        "\"How can you rate a classic? the memories Jerry Lewis' movies have for my children and myself are wonderful.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual humor, family-friendly atmosphere",
+      "evidence": [
+        "\"Always made to make you laugh and feel great no matter how your day has been going.\"",
+        "\"My kids really enjoyed this movie as they were growing up.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I absolutely adore this movie. Burt Lancaster is so different than in most of his roles...\"",
+        "\"An amazing telling of how the Savior of the World sacrificed Himself for all of humanity.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies and dramas, particularly those that are family-friendly and feature beloved actors like Red Green and Jerry Lewis. They appreciate fast-paced narratives with emotional depth, while showing less concern for production quality."
+}

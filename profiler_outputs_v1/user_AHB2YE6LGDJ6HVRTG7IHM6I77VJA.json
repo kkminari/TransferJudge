@@ -1,0 +1,77 @@
+{
+  "user_id": "AHB2YE6LGDJ6HVRTG7IHM6I77VJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, horror, romance, found footage",
+      "evidence": [
+        "\"This is a must see if you are into thrillers and mysteries.\"",
+        "\"I love found footage horror films and this Halloween season, I've watched a lot of them.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I was wrong. I am so impressed, surprised and just plain overwhelmed by this film.\"",
+        "\"Good story and very scary!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I jumped, I screamed and I yelled at my TV.\"",
+        "\"I literally screamed twice.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"I feel that they could have transferred it better for bluray quality.\"",
+        "\"If it wasn't for the horrid acting, this film MIGHT have been really good.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I am a HUGE fan of the first film and have told literally everyone I know to watch it.\"",
+        "\"I am a huge William Petersen and Jorja Fox fan.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"This is just gloriously wonderful and I am pleased to say that this works great in my dvd player.\"",
+        "\"I was shocked at how good it was.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I'm telling everyone in my movie & tv group on Facebook to watch it.\"",
+        "\"I hope we have many more seasons of Lore to enjoy!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for thrillers and horror, particularly found footage films, and enjoys fast-paced narratives that evoke strong emotional responses. They show a moderate sensitivity to production quality and have a notable loyalty to specific films and actors."
+}

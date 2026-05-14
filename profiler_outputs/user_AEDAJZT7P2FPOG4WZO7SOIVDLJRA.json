@@ -1,0 +1,77 @@
+{
+  "user_id": "AEDAJZT7P2FPOG4WZO7SOIVDLJRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, police stories",
+      "evidence": [
+        "If you enjoy gritty, adult police stories, you gotta watch this show.",
+        "Worth watching if you enjoy stories of gritty police work."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Plots are beginning to look a lot like The Good Wife.",
+        "The endings are too predictable to watch for more than a few episodes."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Sappy but with enough action to make stay with it.",
+        "Starts off with you disliking the main character but you kinda learn to like him in a morally incorrect way."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Fairly well written and well acted.",
+        "The quality of the video improved vastly as HD became the norm."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I have seen most of these episodes before but it is still entertaining to watch character development.",
+        "Hope you can produce another season that is as good."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "The use of language is nothing short of addictive.",
+        "It is quite entertaining to see how the Vic will get out of the latest hole."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "Be careful what you wish for. The absence of any good guys on this series should not deter you from watching the series.",
+        "A difficult movie to find on Netflix or Amazon."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys gritty police dramas with a focus on character development and well-written narratives. They appreciate high production quality but have mixed feelings about narrative complexity and pacing, often finding plots predictable."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AG72YYZQAJC74K2AGL4NA73ZU7EA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, action, thriller",
+      "evidence": [
+        "\"Outstanding War Film, and another great addition to my DVD collection.\"",
+        "\"As a child the movie scared me to death, and as an adult parts still scare me, but I mostly laugh at the antics of this comedy duo.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great Purchase, and one of the best series on TV.\"",
+        "\"Great Series to go with my collection!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great Purchase to go with my Fast & Furious collection!\"",
+        "\"Great Purchase!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great Purchase!\"",
+        "\"Great Series DVD & C.D, Great Purchase! 100% satisfied!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to Jason Statham",
+      "evidence": [
+        "\"Great Purchase to go with my Jason Statham Collection!\"",
+        "\"Loved this movie so much I purchased it twice.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific sensory",
+      "evidence": [
+        "\"This movie gave me nightmares, and even though its a few hours away, I never want to visit Turkey.\"",
+        "\"As a child the movie scared me to death, and as an adult parts still scare me, but I mostly laugh at the antics of this comedy duo.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"Outstanding War Film, and another great addition to my DVD collection.\"",
+        "\"Great Movie to go with my collection!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly drama, comedy, and action, with a strong preference for fast-paced narratives. They show high loyalty to Jason Statham films and appreciate engaging stories, though they are less concerned with production quality."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGCUO6GATMFYDICZ5JJTURPLXVLQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, classic",
+      "evidence": [
+        "\"Classic restored! It has beautiful quality and audio clarity. Something the whole family enjoys.\"",
+        "\"Home Improvement is a great show and this DVD does not disappoint.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I mainly just watch the episodes.\"",
+        "\"These DVD's don't have much going for them in bonus material, but the show was enough for me!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I mainly just watch the episodes.\"",
+        "\"Solid purchase! Quality is great and came just as expected.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"It has beautiful quality and audio clarity.\"",
+        "\"The quality and audio on this Blu-ray release of LHOTP is fantastic!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"One Tree Hill is one of the best things to happen to the world...\"",
+        "\"Home Improvement is a great show and this DVD does not disappoint.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The picture and sound are both amazing!\"",
+        "\"The quality and audio on this Blu-ray release of LHOTP is fantastic!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I mainly just watch the episodes.\"",
+        "\"Solid purchase! Quality is great and came just as expected.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys classic family-oriented content with a strong emphasis on quality. They prefer straightforward narratives and slower pacing, focusing on the overall experience rather than deep emotional engagement."
+}

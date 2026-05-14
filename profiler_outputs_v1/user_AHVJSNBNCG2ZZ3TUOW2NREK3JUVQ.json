@@ -1,0 +1,76 @@
+{
+  "user_id": "AHVJSNBNCG2ZZ3TUOW2NREK3JUVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romcom, thriller",
+      "evidence": [
+        "\"Love 80s romcoms!\"",
+        "\"Descent thriller. Not a feel good movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Wish there were surprises or twists in the story line. Very predictable.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Fell asleep several times.\"",
+        "\"I couldn’t get through them.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Not my favorite Jennifer Lopez movie. Fell asleep several times.\"",
+        "\"I love Adam Sandler movies.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Adam Sandler, Jackie Chan",
+      "evidence": [
+        "\"I love Adam Sandler movies.\"",
+        "\"I like all Jackie chan movies.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "music, humor",
+      "evidence": [
+        "\"Love the 80s songs in this movie.\"",
+        "\"Schumer is funny. Cute movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Not a feel good movie.\"",
+        "\"I fell asleep.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted romantic comedies and thrillers, showing a preference for familiar brands like Adam Sandler and Jackie Chan. They tend to favor straightforward narratives and are less concerned with production quality, often prioritizing humor and music over emotional depth."
+}

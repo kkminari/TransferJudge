@@ -1,0 +1,74 @@
+{
+  "user_id": "AGYAMBEYDO2Y2D4HWDE5IQ5PO6VQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy, western",
+      "evidence": [
+        "\"Martial Arts, Hot Babes, what else do you want ?\"",
+        "\"BEST WESTERN, BEST COWBOY ACTOR !\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This movie rocks !\"",
+        "\"Great Movie !\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"FUNNY & TRUE MOVIE, EVER!\"",
+        "\"This is a classic and fricken FUNNY, FORGET THE KIDS watch it as an adult !\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Could have been made better.\"",
+        "\"Great movie could have been made better !\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Great & Funny Show\"",
+        "\"Great movie, where is Bradley now ?\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Kinda Gay , sent it to a friend !\"",
+        "\"WASTE OF TIME & MONEY !\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action-packed and comedic films, particularly in the western genre. They prefer straightforward narratives with fast pacing and show a low sensitivity to production quality."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AGLEZ2AKM22ZUNLECCWXKNNBNMCQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, sci-fi, camp, independent films",
+      "evidence": [
+        "\"Nice departure from the usual vampire flicks\"",
+        "\"If you're a fan of old horror and SciFi movies and Drive-In's than you'll appreciate this.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Funny and light entertainment. No message or hidden agenda.\"",
+        "\"Just plain ol' camp at it's best.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This is one of the best movies I have seen in a long time. Even if you're not a history buff; you will like this film.\"",
+        "\"Enjoy a trip down memory lane....make some (real) popcorn and turn the lights out.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"With all the crap that is on TV/Cable these days - you actually have a well made intelligent show...\"",
+        "\"Nice to see A list actors doing smaller movies well.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If you spent rainy Saturdays watching old horror and science fiction movies of the 50s & 60s than you will love this.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Felt like I was 12 again !\"",
+        "\"Great eye candy for all concerned !\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This was one of those movies that you never heard about but was a really great film. Nothing Oscar worthy; just a little feel good story.\"",
+        "\"If you're looking for Star Wars special effects - skip it. Enjoy a trip down memory lane....\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly horror and sci-fi, with a preference for light, simple narratives. They appreciate emotional resonance and a nostalgic sensory experience, often favoring independent films and campy classics."
+}

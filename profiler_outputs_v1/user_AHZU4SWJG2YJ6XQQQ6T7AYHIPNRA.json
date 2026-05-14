@@ -1,0 +1,77 @@
+{
+  "user_id": "AHZU4SWJG2YJ6XQQQ6T7AYHIPNRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama",
+      "evidence": [
+        "\"This is a great series especially if you love Agatha Christie.\"",
+        "\"I love the series and our family is enjoying it all over again.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It is a good show is does justice to the original series but it is quite different in a good way.\"",
+        "\"This movie was ok, I wasn't thrilled about it.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I had a hard time getting into this movie.\"",
+        "\"It is a good show is does justice to the original series but it is quite different in a good way.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"it was excellent a lot of great actors are involved in this series.\"",
+        "\"I read the book and I was not disappointed by the DVD it was very good.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Agatha Christie, Dr. Who",
+      "evidence": [
+        "\"This is a great series especially if you love Agatha Christie.\"",
+        "\"This is a great show of course it is a spin off of Dr. Who so any one who is a Dr. Who fan will enjoy this show.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual storytelling",
+      "evidence": [
+        "\"Peter Capaldi's Dr. Who character interacted wonderfully with River Song I though this was a great episode of Dr. Who.\"",
+        "\"the movies are great they are as good as the series.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I love the series and our family is enjoying it all over again.\"",
+        "\"The movie was great of course it is the continuing story of the Tai Pan.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for mystery and drama genres, particularly enjoying works by Agatha Christie and the Dr. Who franchise. They appreciate high production quality and emotional storytelling, often enjoying series that are family-friendly and engaging."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEFAAOAXQ7D767UDEV3EDVHTPCOA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama",
+      "evidence": [
+        "\"Action and chemistry between characters was done well.\"",
+        "\"Fast Five is definitely exciting and action packed with a good fight scene.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Pacing kept my attention for the entire movie.\"",
+        "\"The storyline was a little blah and the pacing wasn't the best.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Good pacing and the action was excellent.\"",
+        "\"Pacing kept my attention for the entire movie.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"You can tell from his eyes what he was feeling before he even spoke a word.\"",
+        "\"Good performances and good pacing.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Henry Cavill was an excellent discovery to portray the new Superman.\"",
+        "\"It's the closet to the game then any of the other movies in this franchise.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Color adds more life to the movie because its a fun happy movie.\"",
+        "\"The action was excellent.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"Didn't like it completely, but glad I saw it.\"",
+        "\"It's a good series and the first season starts it off on the right foot.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and drama genres, favoring fast-paced narratives with high production quality. They appreciate visual spectacle and character chemistry, though their emotional engagement varies."
+}

@@ -1,0 +1,89 @@
+{
+  "user_id": "AHJDWJIM3VQALAP5KOW6MDHIJNUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, horror, thriller, drama, fantasy",
+      "evidence": [
+        "\"It's a must see for anyone with a childhood at chuckie cheese or major magics... Not very scary, more comedic and blassay, I expected more.\"",
+        "\"If you like a good story line with creep added in then this is for you.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's a must see for anyone with a childhood at chuckie cheese or major magics... Not very scary, more comedic and blassay, I expected more.\"",
+        "\"Absolutely no story line. Nothing is explained. Bore, bore, bore.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The movies kind of slow and hum-drum.\"",
+        "\"This movie was not anything like I expected but surprisingly enough I liked it. It drew you in from the start with intrigue.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"It's Guillermo at his finest with his suspense and storyline.\"",
+        "\"Very well made story. It's about these children in this orphanage / estate for wayward boys.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Guillermo del Toro",
+      "evidence": [
+        "\"It's Guillermo at his finest with his suspense and storyline.\"",
+        "\"Like most of Guillermos work, there's always a mimic or comparison.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"Great cg, and storyline. It is a futuristic adventure with plenty of action, humor and imagination.\"",
+        "\"The actors are putting on a stage play and have all sorts of problems.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"Brings back memories.\"",
+        "\"If you like a good story line with creep added in then this is for you.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "high",
+      "evidence": [
+        "\"Super funny and well made.\"",
+        "\"Very funny movie. The actors are putting on a stage play and have all sorts of problems.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys a mix of comedy, horror, and fantasy genres, with a particular fondness for Guillermo del Toro's works. They appreciate humor and visual spectacle but have mixed feelings about narrative complexity and pacing, often preferring straightforward storytelling."
+}

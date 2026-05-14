@@ -1,0 +1,77 @@
+{
+  "user_id": "AGM22RUMI5NGMIY2Z75XM44MYBWA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "inspirational, historical",
+      "evidence": [
+        "\"Completely enjoyed watching this little slice into America\"",
+        "\"made me cry and then cry and then cry .. and then book a flight to see my parents... a great movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"ok so 3/4 through the movie I thought .. I got it already .. not bad, not good, but a mindless entertaining movie\"",
+        "\"you have no choice but to love this movie... great acting... great story ... yep worth the buy\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"love the Ali story but this drags on, but still worth the watch\"",
+        "\"a good surprise .... enjoyed!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"great acting... great story ... yep worth the buy\"",
+        "\"made me cry... made me snort ... made me reevaluated my priorities .. love it does express the impact of this movie\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "No strong loyalty to directors or actors evident."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"made me cry and then cry and then cry .. and then book a flight to see my parents... a great movie\"",
+        "\"history pull us in many directions. this take us on emotional journey that begs for us to know more.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"made me cry... made me snort ... made me reevaluated my priorities .. love it does express the impact of this movie\"",
+        "\"smile and feel the happiness\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys inspirational and historical narratives that evoke strong emotions, often leading to personal reflections. They prefer straightforward storytelling with a focus on emotional impact rather than complex plots or high production values. Overall, their reviews indicate a strong appreciation for films that resonate on a personal level."
+}

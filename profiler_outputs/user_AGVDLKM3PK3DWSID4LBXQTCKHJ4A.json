@@ -1,0 +1,77 @@
+{
+  "user_id": "AGVDLKM3PK3DWSID4LBXQTCKHJ4A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "suspense, thriller, drama, WWII",
+      "evidence": [
+        "\"Great Movie ! Lots of suspense and plot twists\"",
+        "\"I like this series. Lots of suspense and drama. Well acted.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I found this a bit boring in parts but it had it's moments of interest\"",
+        "\"If your expecting Bonnie and Clyde forget it. This was fairly mundane and characters uninteresting.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great Movie ! Lots of suspense and plot twists\"",
+        "\"Film just draws you in. I thought it was a very good film.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Film & sound quality are super ! Worth adding to any collection.\"",
+        "\"On time and in good condition. Sound and picture quality Okay but could be better.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Tarantino, Sherlock Holmes",
+      "evidence": [
+        "\"great WWII film from Tarantino\"",
+        "\"Great Idea and another wonderful Sherlock !\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Fantastic film picture quality was pretty good\"",
+        "\"Film & sound quality are super ! Worth adding to any collection.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I thought it was a very good film.\"",
+        "\"Great Movie ! Lots of suspense and plot twists\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys suspenseful and thrilling films, particularly those with high production quality and engaging narratives. They show a preference for fast-paced storytelling and have a notable loyalty to directors like Tarantino and the Sherlock Holmes franchise."
+}

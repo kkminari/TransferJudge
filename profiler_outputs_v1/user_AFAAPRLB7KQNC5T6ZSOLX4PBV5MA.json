@@ -1,0 +1,74 @@
+{
+  "user_id": "AFAAPRLB7KQNC5T6ZSOLX4PBV5MA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, noir",
+      "evidence": [
+        "Best Noir around!!!",
+        "Funny as hell"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Perfect for what it is",
+        "Cool"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Funny as hell",
+        "Awesome...Great purchase"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Perfect for what it is",
+        "Great Transaction!!!  Perfect. Glad to have it.  Thanks!!"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "none",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual humor",
+      "evidence": [
+        "Funny as hell",
+        "Love this movie"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Brings back Memories",
+        "Loved this as a kid"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and noir genres, enjoying fast-paced narratives with simple storytelling. They value emotional resonance, often reflecting on nostalgic experiences, but show less concern for production quality."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AGMLW2BIEI6B6LE7MIJUPPQ7HGLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"Great series\"",
+        "\"Highly recommend watching this TV series if you are looking for a lot of laughs.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great story lines and acting.\"",
+        "\"This show starts slow and seems a little hokey. Keep watching, it gets better with each episode.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This show starts slow and seems a little hokey. Keep watching, it gets better with each episode.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Written very well and the 2 main characters are unbelievable!\"",
+        "\"Great story lines and acting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If you haven't watched Breaking Bad please do so immediately.\"",
+        "\"Dr. Who. Enough said!!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Fabulous TV. HIGHLY recommend watching this series\"",
+        "\"Great story lines and acting.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A MUST see!\"",
+        "\"LOVED IT!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and comedy series, often praising the quality of writing and acting. They enjoy slower-paced narratives that build over time and have a high emotional impact, indicating a desire for meaningful storytelling."
+}

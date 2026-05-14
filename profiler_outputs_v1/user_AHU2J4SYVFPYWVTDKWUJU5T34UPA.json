@@ -1,0 +1,77 @@
+{
+  "user_id": "AHU2J4SYVFPYWVTDKWUJU5T34UPA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "Christian",
+      "evidence": [
+        "this Christian movie was inspiring and full of hope.",
+        "Loved the movie and Corben Bensen in this Christian movie"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great movie",
+        "very interesting of how people can be drawn into the wrong thing"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "great movie",
+        "Great collection to share with my friend who loves Jesse Sone movies"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great movie",
+        "Another great Christian movie"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "Jesse Sone, Corben Bensen",
+      "evidence": [
+        "Great collection to share with my friend who loves Jesse Sone movies",
+        "Loved the movie and Corben Bensen in this Christian movie"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "emotional and inspirational",
+      "evidence": [
+        "very inspiring we need to not only try to live by the Word",
+        "this Christian movie was inspiring and full of hope."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "very inspiring we need to not only try to live by the Word",
+        "this Christian movie was inspiring and full of hope."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for Christian-themed movies, often highlighting their inspirational and emotional qualities. They exhibit some brand loyalty towards specific creators in this genre, while their narrative complexity and pacing preferences remain less defined."
+}

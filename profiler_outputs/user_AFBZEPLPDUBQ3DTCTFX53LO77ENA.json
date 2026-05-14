@@ -1,0 +1,77 @@
+{
+  "user_id": "AFBZEPLPDUBQ3DTCTFX53LO77ENA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, holiday, drama",
+      "evidence": [
+        "\"This is the best movie about Santa Claus.\"",
+        "\"A very good family movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This movie has a great story, great actors and make you stop and think about the hard time and lives our ancestors had to endure.\"",
+        "\"A very good story and I really liked all of the characters in the movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This movie makes you stop and think.\"",
+        "\"A Hallmark movie that is great.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is fantastic and the film is fabulous without commercial interruptions.\"",
+        "\"This is a wonderful movie, great actors - I am sure it will be a classic like so many others.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Hallmark",
+      "evidence": [
+        "\"I have been adding my favorite Hallmark movies to my collection.\"",
+        "\"I love James Garner and anything he is in.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This movie makes you stop and think.\"",
+        "\"The story is so well put together ..be sure to watch with kleenex.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is a Hallmark movie that is great.\"",
+        "\"This movie has a great story, great actors and make you stop and think about the hard time and lives our ancestors had to endure.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-oriented and holiday-themed movies, particularly those from Hallmark. They appreciate simple narratives with emotional depth and high production quality, often enjoying films that evoke nostalgia and reflection."
+}

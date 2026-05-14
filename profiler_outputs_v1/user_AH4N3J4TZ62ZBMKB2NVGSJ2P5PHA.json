@@ -1,0 +1,77 @@
+{
+  "user_id": "AH4N3J4TZ62ZBMKB2NVGSJ2P5PHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action, comedy, cultural, documentary",
+      "evidence": [
+        "\"Coming 2 America depicts a fictional royalty of a peaceful kingdom... a cultural bath, a masterpiece.\"",
+        "\"I found the closure too simplistic. I mean, I would have expected more fights.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The story-line is perfect. There is no foul play; everyone is fighting for honor.\"",
+        "\"It combines faith, meaning of our existence...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I found the closure too simplistic. I mean, I would have expected more fights.\"",
+        "\"The rythm matched the milieu.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"It is very emotional. I love it. It is passionate and well played.\"",
+        "\"The characters played their role with perfection. The plot is marvelous.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Perhaps it is my fifth time seeing The Devil's Advocate.\"",
+        "\"I do not know who else can play it so well.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"I was so in dept that I realized I was watching a movie only when the screen went blank.\"",
+        "\"It is educational and informative. Psychological: it presents different evil personalities.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"EMOTIONALLY INTENSE... COURAGEOUSLY HUMANE\"",
+        "\"It is very emotional. I love it.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for emotionally resonant dramas and cultural narratives, often appreciating high production quality. They enjoy complex themes but have mixed feelings about pacing, indicating a balance between action and character-driven stories."
+}

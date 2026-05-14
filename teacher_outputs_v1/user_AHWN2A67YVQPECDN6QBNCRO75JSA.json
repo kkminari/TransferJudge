@@ -1,0 +1,159 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's mixed genre preference lacks specificity, making it difficult to translate into book recommendations. Without clear genre inclinations, this pattern does not provide actionable insights for book selection.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "narrative_complexity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for simple narratives suggests a tendency towards straightforward storytelling. This can inform recommendations, but the lack of strong evidence means it should not dominate the selection process.",
+      "transferred_insight": "Prefer straightforward, accessible narratives",
+      "confidence": 0.6
+    },
+    "pacing_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's mixed pacing preference does not provide a clear direction for book recommendations. Without specific pacing signals, this pattern is not useful for guiding selections.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "quality_sensitivity": {
+      "decision": "PARTIAL",
+      "rationale": "The user shows low quality sensitivity, focusing more on enjoyment than production quality. This suggests that while they may appreciate well-rated books, it should not be a primary driver in recommendations.",
+      "transferred_insight": "Moderate preference for enjoyable, well-rated books",
+      "confidence": 0.55
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user has low brand loyalty with no specific creators or franchises mentioned. This pattern does not translate into actionable insights for book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's mixed sensory preferences do not apply to books, as sensory experiences are specific to film and do not translate into the literary domain.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "emotional_resonance": {
+      "decision": "PARTIAL",
+      "rationale": "The user expresses low emotional engagement, indicating a preference for enjoyable content without deep emotional depth. This can inform recommendations but should not dominate the selection.",
+      "transferred_insight": "Preference for light, enjoyable reads without heavy emotional themes",
+      "confidence": 0.6
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "B008UGZS4O",
+      "title": "When Queens Ride By",
+      "score": 0.85,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book offers a straightforward narrative that is both accessible and enjoyable, aligning with the user's preference for simple storytelling. Its positive reception suggests it will be an enjoyable read."
+    },
+    {
+      "rank": 2,
+      "item_id": "B0011VGFPG",
+      "title": "Coastal Carolina Cooking",
+      "score": 0.8,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "With a high average rating, this cookbook is likely to provide enjoyable content that aligns with the user's focus on enjoyment rather than complexity or depth."
+    },
+    {
+      "rank": 3,
+      "item_id": "B09GXD83R5",
+      "title": "Albert the Octopus Accountant",
+      "score": 0.78,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This children's book features a simple narrative that is both fun and educational, making it an enjoyable read that aligns with the user's preference for straightforward storytelling."
+    },
+    {
+      "rank": 4,
+      "item_id": "B0BKC9ZQK3",
+      "title": "Don't Give Up, Yeti: Yeti Learns to Tie His Shoes",
+      "score": 0.75,
+      "applied_patterns": [
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This children's book offers a simple and relatable story about learning and perseverance, which can be enjoyable without heavy emotional themes, fitting the user's profile."
+    },
+    {
+      "rank": 5,
+      "item_id": "C12",
+      "title": "Where the Survivors are Buried",
+      "score": 0.73,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book contains two novellas that explore relationships, providing accessible narratives that can be enjoyed without deep emotional engagement, aligning with the user's preferences."
+    },
+    {
+      "rank": 6,
+      "item_id": "C10",
+      "title": "Hubbub: Filth, Noise, and Stench in England, 1600-1770",
+      "score": 0.7,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "With a high average rating, this historical exploration offers engaging content that is likely to be enjoyable for the user, fitting their focus on enjoyment."
+    },
+    {
+      "rank": 7,
+      "item_id": "C38",
+      "title": "The Redeemer: A Harry Hole Novel (6) (Harry Hole Series)",
+      "score": 0.68,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This thriller offers a straightforward plot that is engaging and well-rated, making it a suitable choice for the user's preference for enjoyable reads."
+    },
+    {
+      "rank": 8,
+      "item_id": "C28",
+      "title": "The Bancroft Strategy: A Novel",
+      "score": 0.66,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This thriller novel features a compelling plot that is likely to be enjoyable for the user, aligning with their preference for straightforward narratives."
+    },
+    {
+      "rank": 9,
+      "item_id": "C27",
+      "title": "New Atlantis: Kingdom of Youth",
+      "score": 0.65,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This fantasy novel offers a simple narrative that is engaging and well-rated, making it a good fit for the user's enjoyment-focused reading style."
+    },
+    {
+      "rank": 10,
+      "item_id": "C26",
+      "title": "The Legend of Nance Dude",
+      "score": 0.63,
+      "applied_patterns": [
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This true crime biography provides an accessible narrative that is likely to be engaging and enjoyable, aligning with the user's preferences."
+    }
+  ],
+  "blocked_patterns_summary": "Genre preference, pacing preference, brand loyalty, and sensory preference were blocked due to lack of specificity or applicability to books.",
+  "overall_strategy": "Focused on recommending books with straightforward narratives and high enjoyment potential while blocking patterns that did not provide actionable insights. Emphasized accessible and enjoyable reads to align with the user's overall enjoyment of content."
+}

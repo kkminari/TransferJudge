@@ -1,0 +1,77 @@
+{
+  "user_id": "AHVFJUPGA2HM5OY3XZT2MGJIZF6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action, comedy, drama",
+      "evidence": [
+        "If you like good Sci-Fi give this a try, there is a lot going on so at times you just have to roll with it, but it's 'FUN'",
+        "the stories are typical TV fare but the twist with 2 female leads and the family drama continue to be fun to watch."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "the story centers around baseball business it really is a story about family.",
+        "there is a descent story, lots of action, and a couple of twists that made for a good time."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "the thing that made me love this movie was it immediately switched to comedic problems for Costner's character",
+        "this movie is not really a remake of the Arnold movie. I found it fun, fast paced, and had enough chases and explosions to keep me entertained."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "I was also pleased that the language was not as bad as I expected",
+        "the graphics are great."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Even though I'm not a Tom Cruise fan he just keeps putting out good movies.",
+        "I bought this DVD because it had a great cast with Kate Beckinsale, Jessica Biel, and Colin Farrell."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "the special effects were well done and the acting is good as well.",
+        "the special effects and dialogue are laughable but at the same time this classic black and white film still was entertaining."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "the stories are both intriguing and funny as they solve cases in their own unique way.",
+        "the story centers around baseball business it really is a story about family."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of sci-fi, action, and comedy genres, favoring fast-paced narratives with simple storytelling. They appreciate good production quality but do not show strong loyalty to specific creators, indicating a preference for engaging and entertaining content."
+}

@@ -1,0 +1,89 @@
+{
+  "user_id": "AGOIW4H4DTL2B7QPMG5BZYC3PO2A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "psychological thriller, horror, mystery",
+      "evidence": [
+        "\"One of my favorite contemporary horror films\"",
+        "\"Great psychological thriller\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"the plot itself isn’t that complicated, but the presentation is so convoluted\"",
+        "\"the ending still felt like a sucker punch to me\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It’s slow burn for sure\"",
+        "\"It is definitely a slow burn, psychological thriller\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Well acted, solid production, but good grief the plot\"",
+        "\"the quality of this film seems rather poor, given who is in it\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have a soft spot for Browning\"",
+        "\"I freaking love Toni Collette\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, eerie ambiance",
+      "evidence": [
+        "\"This is a masterpiece of eerie ambiance and tension\"",
+        "\"It’s beautifully shot, in Norway presumably\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"this one really stuck with me, and I’ve watched it over and over again\"",
+        "\"it is a true twist, at least emotionally, without a bunch of complicated, half-baked turns\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "plot_twists",
+      "value": "mixed",
+      "evidence": [
+        "\"the ending fell apart for me\"",
+        "\"the resolution basically stomped all over my emotional build up\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user enjoys psychological thrillers and horror films, particularly those with slow pacing and atmospheric qualities. They appreciate emotional depth in storytelling but have mixed feelings about narrative complexity and plot resolutions."
+}

@@ -1,0 +1,75 @@
+{
+  "user_id": "AECINSHID7APLX6Q2WID23ZXDYFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, feel-good",
+      "evidence": [
+        "\"Fun show, the supporting characters are the best part, however.\"",
+        "\"Feel good movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's basically the same show, which is ok, but it could have been better.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The technical content of these presentations is good but rather protracted and presenter seemed stiff and did not keep my attention.\"",
+        "\"It's getting long in the tooth.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I think they should have written this with more change to the time and lives of the characters.\"",
+        "\"The writing is a little heavy-handed for my tastes.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I like Jude Law but not this\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Feel good movie\"",
+        "\"Another feel good\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I enjoyed this show very much; looking forward to more seasons.\"",
+        "\"All time fave!!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys feel-good comedies with simple narratives and a preference for slower pacing. They show a strong emotional connection to the content they enjoy, often highlighting their favorites, though they are less concerned with production quality and brand loyalty."
+}

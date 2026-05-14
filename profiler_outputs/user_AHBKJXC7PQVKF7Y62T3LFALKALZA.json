@@ -1,0 +1,77 @@
+{
+  "user_id": "AHBKJXC7PQVKF7Y62T3LFALKALZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, thriller, comedy",
+      "evidence": [
+        "\"THE SHOP AROUND THE CORNER is an utterly charming romantic comedy...\"",
+        "\"DAYS OF WINE AND ROSES...is one of the great examples of black-and-white realism in the American cinema.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"...a script with a profound moral, uncanny direction...\"",
+        "\"...the stunning conclusion of 'To Serve Man' is one of the most unforgettable examples in ZONE history of a 'twist' ending...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"...the hour-long episode unfolds at a slow pace, enhancing the suspense.\"",
+        "\"...the movie presents several unforgettable images...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...the gritty look of the film fits the sordid nature of the subject matter...\"",
+        "\"...the direction of John Ford and Mervyn Le Roy strikes an ideal balance...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"...Rod Serling's 'The Fever' is one of the few true tragedies in THE TWILIGHT ZONE...\"",
+        "\"...Henry Fonda was never more believable than when he portrayed Abraham Lincoln...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"...the movie presents several unforgettable images...\"",
+        "\"...the atmosphere of the film is haunting and immersive...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...DAYS OF WINE AND ROSES is a movie which once seen is never forgotten.\"",
+        "\"...the answer, coming as it does in the last moments of the movie, will shock you.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex narratives and emotional resonance, particularly in dramas and romantic comedies. They appreciate high production quality and are loyal to notable creators like Rod Serling and Henry Fonda, indicating a refined taste in storytelling and character development."
+}

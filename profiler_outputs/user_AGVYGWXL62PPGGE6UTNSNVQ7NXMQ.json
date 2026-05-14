@@ -1,0 +1,77 @@
+{
+  "user_id": "AGVYGWXL62PPGGE6UTNSNVQ7NXMQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "The human pathos is real.",
+        "best done Moses movie I've seen!"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "clear, straightforward and completely counter cultural.",
+        "does not attempt to be 'realistic'."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "a tad slow at the onset.",
+        "fun, doesn't try to be anything other than entertaining."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the camera work is some of the best I've seen.",
+        "extraordinarily produced and presented miniseries."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Kudos to Glenn Henry.",
+        "best done Moses movie I've seen!"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "thought provoking movie.",
+        "very intriguing."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "human pathos is a real.",
+        "brought tears."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys thought-provoking content with a preference for high production quality and emotional resonance. They appreciate straightforward narratives and are open to slower pacing, though they show mixed feelings about specific genres and brand loyalty."
+}

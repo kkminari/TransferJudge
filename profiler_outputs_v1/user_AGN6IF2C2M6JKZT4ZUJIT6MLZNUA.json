@@ -1,0 +1,77 @@
+{
+  "user_id": "AGN6IF2C2M6JKZT4ZUJIT6MLZNUA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, mystery, classic",
+      "evidence": [
+        "\"This is a great action pack movie.\"",
+        "\"a very good Sherlock Holmes portrayal for a perplexing mystery\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This is a great action pack movie, it keeps you guessing what will be next\"",
+        "\"I think this sequel is better than the first.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This is a great action pack movie.\"",
+        "\"Hitchcock and the Cold War = exciting exploits\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I enjoyed the acting of both Joseph Cotten and Ingrid Bergman portraying life in1800s Australia.\"",
+        "\"classic Hitchcock - always worth watching\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Hitchcock",
+      "evidence": [
+        "\"Hitchcock at his best.\"",
+        "\"classic Hitchcock - always worth watching\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"This is a great action pack movie, it keeps you guessing what will be next\"",
+        "\"This is a very realistic film!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I bought because it was a Tom Selleck movie. It sucks!!!\"",
+        "\"not as good as RIO 1 but still very enjoyable.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and mystery genres, particularly enjoying fast-paced narratives. They show a high sensitivity to production quality and express loyalty to Hitchcock's works, indicating a taste for classic cinema."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFWQBETR2FLMH5FLLIG7LHXOLP3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, drama, documentary",
+      "evidence": [
+        "\"Loved this movie, I had seen it in the theatre, but wanted to see it a second time. It has heart and the acting is brillant. It is a very good thriller without the car chases and fire fights.\"",
+        "\"Great! Should be required watching. Even if you don't have an interest in economics, it is a wonderful and scary history lesson...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The pacing falters and the 'revolutionary get away' story was so-so.\"",
+        "\"Sometimes the plot was a little outlandish, but wow what a cast! I enjoyed it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The pacing falters and the 'revolutionary get away' story was so-so.\"",
+        "\"It is an addicting show... I want to see how it all resolves.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Great performances. sometimes the plot was a little outlandish, but wow what a cast! I enjoyed it.\"",
+        "\"Interesting historical story, not such a great production.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Love Bryan Cranston\"",
+        "\"I always like Paul Reiser.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Loved the sets, colors costumes etc..\"",
+        "\"Gives you a glimpse into the art world outside of New York City.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"It has heart and the acting is brillant.\"",
+        "\"Interesting psychological profile of a very strange man... worth seeing, if you have an interest in the world of art and art museums.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys thrillers and dramas, often appreciating strong performances and character depth. They have mixed feelings about narrative complexity and pacing, indicating a preference for engaging stories but with some reservations about execution."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AF2O4WWI566MWUBA5PGI2LR7E2GQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, suspense, family, western",
+      "evidence": [
+        "\"Great suspense murder mystery cop story.\"",
+        "\"Great hallmark movie love story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great story -- and I believe it's based on a true story.\"",
+        "\"Great story for all horse gals out there.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Not worth the 2 hours it took to watch, tho I am a Don Johnson fan - it is not his greatest work.\"",
+        "\"Great movie. I like all of her movies.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Don Johnson is impressive. I think he got labeled from Miami Vice and is under-rated when it comes to talent.\"",
+        "\"Very well done. Excellent portrayal of how to defend God.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Don Johnson, C.S. Lewis",
+      "evidence": [
+        "\"I am a Don Johnson fan - it is not his greatest work.\"",
+        "\"I love C.S. Lewis.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual storytelling, emotional engagement",
+      "evidence": [
+        "\"There are some ghastly scenes that I do not know how they film without injuring an animal that were very hard for me to watch.\"",
+        "\"Awesome series. I hated to see it end. Fell in love with the characters and wanted to become part of the family.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I hated to see it end. Fell in love with the characters and wanted to become part of the family.\"",
+        "\"I can't stand harm coming to an animal, especially our noble creature the horse.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and romance genres, particularly those with strong emotional narratives and character-driven stories. They show a preference for high-quality production and have a fondness for specific actors like Don Johnson and C.S. Lewis, indicating a strong emotional connection to the content they consume."
+}

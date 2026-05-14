@@ -1,0 +1,77 @@
+{
+  "user_id": "AHRFELX3INKLCUURFRAYFLEATJLQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, comedy",
+      "evidence": [
+        "Best sci-fi series of the past 6 years.",
+        "Hilarious, fast paced and great Easter Eggs through the series."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "the story was weak, but violent with no redeeming qualities.",
+        "It makes sense."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Hilarious, fast paced and great Easter Eggs through the series.",
+        "It makes you uncomfortable while at the same time, helps you understand loneliness."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Quality of blu-ray is excellent.",
+        "the quality of the Blu-ray is pathetic."
+      ],
+      "confidence": 0.9,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Star Trek",
+      "evidence": [
+        "Great addition to the Star Trek mythology.",
+        "Star Trek satire at its best."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual quality",
+      "evidence": [
+        "the quality of the picture and audio in HD blu-ray is outstanding.",
+        "the lack of a digital copy so I could view it on my iPad."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "the story was weak, but violent with no redeeming qualities.",
+        "I wasn’t happy about how one character died."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for sci-fi and comedy genres, particularly enjoying fast-paced narratives. They are sensitive to production quality and have a notable loyalty to the Star Trek franchise, although they express mixed feelings about emotional engagement in the content."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AG5CWHNIKKHNFBBDGWXYNL4J2WKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, comedy",
+      "evidence": [
+        "\"Humorous - family friendly\"",
+        "\"Old school comedy, slapstick silliness ... Light hearted amusement ... Popcorn and family fun together time\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Doesn’t take a high IQ to figure out plot.\"",
+        "\"Simplistic, contrived... Predictable\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Popcorn adventure light action much carnage\"",
+        "\"Wild adventure\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Delivers\"",
+        "\"Informative\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Good movie for parents to watch with children old enough to understand the 'plot.'\"",
+        "\"A fun visual to encourage children of all ages to explore history and the people who made it.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"So-so.... No real plot\"",
+        "\"Predictable unbelievable\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and comedic content, favoring light-hearted and humorous narratives. They prefer simple plots with fast pacing but show low sensitivity to production quality and emotional depth."
+}

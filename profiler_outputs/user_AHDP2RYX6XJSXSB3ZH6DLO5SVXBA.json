@@ -1,0 +1,77 @@
+{
+  "user_id": "AHDP2RYX6XJSXSB3ZH6DLO5SVXBA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "war, action, comedy",
+      "evidence": [
+        "would recommend it for any one that likes WWII war movies.",
+        "love john wayne and his comedies are the best."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "a little slow at times but ended up very entertaining.",
+        "the action was excellent, the quality of the film was fine for the era."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "a little slow at times, and the plane gliding for 1/2 the movie was a little much.",
+        "a little slow at times but ended up very entertaining."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "good quality film and acting.",
+        "the quality of the film was a little grainy, but the film was pretty good."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "John Wayne",
+      "evidence": [
+        "love john wayne and his movies are the best.",
+        "another John Wayne classic movie."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "action scenes were wonderful.",
+        "the action was excellent."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I almost cried when the star of the movie, the pig died.",
+        "made my day."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for war and action movies, particularly those featuring John Wayne. They appreciate good production quality and emotional impact, though they have mixed feelings about pacing, sometimes finding films slow yet ultimately entertaining."
+}

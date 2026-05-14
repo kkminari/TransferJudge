@@ -1,0 +1,77 @@
+{
+  "user_id": "AEZWK7VZX4DKZ4VIB4YRCSF3HKZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, comedy, action",
+      "evidence": [
+        "\"I like me some DREDD! Great movie, not what I expected. Very harsh, and violent...but some great sci-fi action.\"",
+        "\"A fantastic, fun movie full of out-of-this-world creatures and battles that are beyond belief...OF COURSE!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's good for most of the reasons given. It's also bad for the bad reasons given.\"",
+        "\"Just watch it, it's fun, fast-paced, and has all the cursing & skinny dipping one needs.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Just watch it, it's fun, fast-paced, and has all the cursing & skinny dipping one needs.\"",
+        "\"Just keeps getting better\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I liked it. Nothing grand, but good story.\"",
+        "\"Watch the trailer, and you've seen enough. This movie has no redeeming value.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Life-long Star Wars fan. YES, since 1977.\"",
+        "\"Forget the nay sayers and just have a good time watching it\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"A fantastic, fun movie full of out-of-this-world creatures and battles that are beyond belief...\"",
+        "\"Great movie! No better way to spend your lunch hour than HIMYM.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie is GREAT, possibly better than the 1st. All 3 of my kids loved it as much as me.\"",
+        "\"So YES, this Star Wars movie is different. O M G, the world may come to an end.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced, entertaining movies, particularly in the sci-fi and comedy genres. They have a low sensitivity to production quality and show a strong emotional connection to films that resonate with them and their family."
+}

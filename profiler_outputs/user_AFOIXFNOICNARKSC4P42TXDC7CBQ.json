@@ -1,0 +1,77 @@
+{
+  "user_id": "AFOIXFNOICNARKSC4P42TXDC7CBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, inspirational, historical, LGBTQ+",
+      "evidence": [
+        "\"This is definitely one of them. Highly recommended. Lovely film.\"",
+        "\"I love this film! Really entertaining and inspiring.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I do not find this movie at all difficult to follow...\"",
+        "\"It's nice that you get to know all of the characters and they all have their own things going on...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It's nice that you get to know all of the characters and they all have their own things going on...\"",
+        "\"I was very sad when I'd watched all the episodes because I really wanted more.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the acting is superb\"",
+        "\"I think the acting is really good.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Aaron Sorkin, Hrithik Roshan",
+      "evidence": [
+        "\"If you want smart fast dialogue and exceptionally good television, you can't go wrong with Aaron Sorkin.\"",
+        "\"Hrithik Roshan - there is nothing more I need say.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It feels like you are a fly on the wall - it's very real.\"",
+        "\"It has a really unique feel and I think the acting is really good.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It will bring joy to your heart...\"",
+        "\"I was very sad when I'd watched all the episodes because I really wanted more.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for inspirational and character-driven dramas, often appreciating high-quality acting and storytelling. They exhibit loyalty to specific creators like Aaron Sorkin and Hrithik Roshan, and their reviews reflect a deep emotional engagement with the content they consume."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AERSI4SRDXY4Y2Z4VGTNWQVY643A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, drama, thriller",
+      "evidence": [
+        "\"I love horror movies and will sit through even most bad ones in search of a scare.\"",
+        "\"Absolutely perfect historical drama series!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The whodunit isn't rocket science, but with some luck you might make it to the end surprised.\"",
+        "\"Generic, perhaps with some slightly better acting from a few of the cast.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Excellent acting, well paced.\"",
+        "\"Fun premise, terrific cast, kept you guessing...more than adequate escapism.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Everything about this series is excellent - story, casting, acting, writing, sets, historical accuracy.\"",
+        "\"Well acted, eerily atmospheric, genuinely creepy, with characters you believe.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Josh Radnor and Mary Elizabeth Winstead, both remarkable actors, have incredible on-screen chemistry.\"",
+        "\"That Andrew Lincoln has not been showered with industry awards is criminal.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Creepy and sad, but not structured very well.\"",
+        "\"Adorable for kids and adults. Well voice.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Surprisingly engrossing and moving.\"",
+        "\"Everything about this series is excellent - story, casting, acting, writing, sets, historical accuracy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys horror, drama, and thrillers, with a preference for fast-paced narratives that are well-acted and produced. They appreciate emotional depth and quality in storytelling, indicating a strong engagement with character-driven plots."
+}

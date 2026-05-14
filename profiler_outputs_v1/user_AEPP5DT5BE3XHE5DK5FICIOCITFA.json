@@ -1,0 +1,77 @@
+{
+  "user_id": "AEPP5DT5BE3XHE5DK5FICIOCITFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, sci-fi, action",
+      "evidence": [
+        "\"Game of Thrones action! Fantastic Beasts creatures!\"",
+        "\"Disney could have called their film THE WAR FOR MARS or Martian Warrior : John Carter.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Hope after the last GAME OF THRONES season book gets filmed, HBO may hire Peter Jackson to make a Prequel film on the Beginning story of Westeros...\"",
+        "\"Lord of the Rings like theme/huge materials to gather stories from the first Dragon Age video game...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Fast and Furious Audi R8 sports car zooming across the highway...\"",
+        "\"Game of Thrones fans, Fast and Furious fans, Dungeons and Dragons fans will love this!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Peter Jackson has done another amazing film to the world of the Lord of the Rings.\"",
+        "\"Great visuals\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for Peter Jackson, Gal Gadot, Patty Jenkins",
+      "evidence": [
+        "\"Excited to see what Director Jenkins will make on STAR WARS Rogue Squadron for Disney!\"",
+        "\"Peter Jackson did it again!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Amazing visuals\"",
+        "\"Great visuals\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"To see how people we lost come back and change us by existing in our lives again.\"",
+        "\"Taking a stand to fight for something you believe.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy and sci-fi genres, particularly enjoying complex narratives with fast pacing. They exhibit high sensitivity to production quality and have a notable loyalty to creators like Peter Jackson and Patty Jenkins, appreciating visual spectacle and emotional depth in their viewing experiences."
+}

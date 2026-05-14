@@ -1,0 +1,89 @@
+{
+  "user_id": "AEJ2WUKHGU5EEDEJD5J3OQYJOS5A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, action, family, war",
+      "evidence": [
+        "\"A great classic Cary Grant movie with Tony Curtis in a hilarious WW2 movie about a submarine Captain and a hustler for a supply officer.\"",
+        "\"A classic Cary Grant not playing his normal suave clean cut persona he usually plays.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great movie, classic. They don't make them like this anymore.\"",
+        "\"A good family movie and very funny.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The movie rocked. The soundtrack was awesome.\"",
+        "\"A great story and visuals that didn't take away from the story but contributed to the story.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I bought the DVD when I was watching a performance of Cirque in DC.\"",
+        "\"I have it on DVD, and BluRay as well so you can tell I am a fan.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Cary Grant, Danny Kaye",
+      "evidence": [
+        "\"It's a Old classic but a great demonstration of Danny Kaye's range as an actor.\"",
+        "\"A classic Cary Grant not playing his normal suave clean cut persona he usually plays.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Great story and visuals that didn't take away from the story but contributed to the story.\"",
+        "\"The soundtrack was awesome.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A great glimpse back in the day.\"",
+        "\"A must see for the whole family.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "nostalgia_preference",
+      "value": "high",
+      "evidence": [
+        "\"A great glimpse back in the day.\"",
+        "\"They don't make them like this anymore.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user has a strong preference for classic comedies and dramas, particularly those featuring Cary Grant and Danny Kaye. They enjoy fast-paced narratives with a focus on family-friendly themes and emotional resonance, often reflecting a sense of nostalgia for older films."
+}

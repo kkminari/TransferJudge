@@ -1,0 +1,77 @@
+{
+  "user_id": "AEF6EYWX2VTBQR3FXOQAO4MWNR6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, thriller, drama",
+      "evidence": [
+        "\"Tense dramatic thriller. Somewhat reminiscent of The Incident with Beau Bridges.\"",
+        "\"More need to know about this overlooked horror gem.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"No budget. No story. No talent. Gives indie films a bad name.\"",
+        "\"I thought it would at least have been a fun spoof of the popular TV show. Instead, it was a grim, depressing angst story that didn't interest me one bit.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"If you stick with it, you'll see a rewarding masterpiece. I remained engrossed by it and the hours flew by to the end.\"",
+        "\"I thought it would at least have been a fun spoof of the popular TV show. Instead, it was a grim, depressing angst story that didn't interest me one bit.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I was expecting something better than this. This movie is CRAP!!\"",
+        "\"No budget. No story. No talent. Gives indie films a bad name.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "No strong loyalty to directors or actors evident."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Exceptional atmosphere. A genuinely scary score.\"",
+        "\"Tense dramatic thriller. Somewhat reminiscent of The Incident with Beau Bridges.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I was expecting something better than this. This movie is CRAP!!\"",
+        "\"I thought it would at least have been a fun spoof of the popular TV show. Instead, it was a grim, depressing angst story that didn't interest me one bit.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for horror and thriller genres, appreciating atmospheric and sensory experiences. However, they tend to dislike films with complex narratives and high production values, often expressing disappointment in the quality of storytelling and emotional engagement."
+}

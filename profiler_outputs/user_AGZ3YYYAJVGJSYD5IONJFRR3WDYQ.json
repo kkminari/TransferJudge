@@ -1,0 +1,77 @@
+{
+  "user_id": "AGZ3YYYAJVGJSYD5IONJFRR3WDYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "Sad story.",
+        "OMG!! Too funny and the storyline is just hilarious!!!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great! Great! Great! Series!  Soooo entertaining and full of twists and turns!",
+        "Good acting and interesting outcome."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "This show gets better and better every season!",
+        "Great Series!  Waiting for Season 3 now!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Loved it.",
+        "It was an OK movie.  Not even that \"cute\"."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Love the BBC and Australian tv series.",
+        "I love this program!  Wish there were more episodes!!!!"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "A \"feel good\" movie.  Loved it.",
+        "Very interesting story.  Had it's ups and downs, but overall good watching."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Loved it.",
+        "Sad story."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and comedy genres, often appreciating fast-paced narratives with emotional depth. They show a preference for feel-good stories and engaging characters, while being less concerned about production quality."
+}

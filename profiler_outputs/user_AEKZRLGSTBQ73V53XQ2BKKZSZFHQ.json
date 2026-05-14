@@ -1,0 +1,77 @@
+{
+  "user_id": "AEKZRLGSTBQ73V53XQ2BKKZSZFHQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, romance",
+      "evidence": [
+        "Even though I love almost anything Jim Jarmusch has ever done, I almost didn't see this film. Another vampire movie? Why?",
+        "I have never considered this movie a 'romance' in the usual way the word is used."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "This is a film you have to think about.",
+        "Easily Wes' best film yet... it is hilarious and heartbreaking at the same time."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "A little uneven (couldn't seem to decide when to use a laugh track or not, which was unnerving sometimes)",
+        "Dark and beautiful but very violent (so be warned)."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The writing was amazing, and look at the cast and writers and everyone else related to this.",
+        "Beautiful in all respects."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for Jim Jarmusch and Wes Anderson",
+      "evidence": [
+        "Even though I love almost anything Jim Jarmusch has ever done.",
+        "Easily Wes' best film yet."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "This series is absolutely beautiful on any level.",
+        "Beautiful and almost as impressive on a smaller screen as it was in theaters."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I wept. I didn't think it could be realized on film.",
+        "It amazes me that some people think this is a 'chick flick'--apparently people who have never seen the film."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex dramas and comedies, particularly those by Jim Jarmusch and Wes Anderson. They value high production quality and emotional depth in their viewing experiences, often reflecting on the beauty and intricacies of the narratives."
+}

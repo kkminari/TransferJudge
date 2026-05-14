@@ -1,0 +1,75 @@
+{
+  "user_id": "AHBECLF435WXNJECE43QABPRS3JA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "I thought the artwork was poor",
+        "there was nothing to profound about this. the plot was thin."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "there was nothing to profound about this. the plot was thin."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "I have watched this many, many times.",
+        "this cartoon appealed to me for some reason or another."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The story line and the acting…. Very good",
+        "you can see why these stars were stars"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Gene Kelly---watch those moves and action when he doing the fight scenes."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Excellent stories. Well worth watching.",
+        "A film from the early 'fifties. As good now as it was then"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "there was nothing to profound about this. the plot was thin.",
+        "I thought the artwork was poor"
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys well-acted films with a focus on quality storytelling but shows a preference for simpler narratives. They have mixed feelings about genre and pacing, indicating a broad but selective taste in movies and TV shows."
+}

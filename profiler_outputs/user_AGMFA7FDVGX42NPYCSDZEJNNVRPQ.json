@@ -1,0 +1,76 @@
+{
+  "user_id": "AGMFA7FDVGX42NPYCSDZEJNNVRPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "spiritual, documentary",
+      "evidence": [
+        "\"If you're on the spiritual path and you're looking for substance for digest - digest this.\"",
+        "\"...if you've danced in this field through 'new age' books and seminars this movie puts it into action for one to digest.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"...a nice wrap up.\"",
+        "\"...the story is 'unbelievable' (and that's very subjective)...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"...a nice wrap up.\"",
+        "\"...if you can't do the hike yourself - well then allow these good people to take you there.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Well shot, well edited, well told tale.\"",
+        "\"Aya does a wonderful job demonstrating the topic using his assortment of simple geometric shapes...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Raghubir Kaur Khalsa",
+      "evidence": [
+        "\"...I ordered the DVD - obviously I am now a Raghubir Kaur Khalsa fan.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"...a powerfully aware crystal clear mind.\"",
+        "\"...the presentation a very digestible study.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...maybe it will even help with your own up side transformation.\"",
+        "\"...it may help you with the digest and understanding of the issues on your path.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for spiritual and documentary genres, appreciating well-produced content that offers deep emotional and intellectual engagement. They favor slower-paced narratives that allow for reflection and personal transformation, and they show loyalty to specific creators like Raghubir Kaur Khalsa."
+}

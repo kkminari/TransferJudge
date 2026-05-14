@@ -1,0 +1,76 @@
+{
+  "user_id": "AF6G2INURHKHE5RBEGODYPK6PU4Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"Nuanced exploration of friends helping friends overcome the deficiencies of their circumstance.\"",
+        "\"Funny and very human. Very solid performances from Mr. Rock and Ms. Dawes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Excellent, nuanced storytelling and acting.\"",
+        "\"The direction reflects Miles Davis' comment that its not the notes you play but the space you leave between the notes.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The second bogged down for me and got slower and I began to lose interest.\"",
+        "\"Above Suspicion moves at a somnolent pace with the actors underplaying their roles massively.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The artistry is very moving in its difference from more standard fare.\"",
+        "\"The director's cut satisfies more than the theatrical version, offering more nuances and insights into characters and their motivations.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I purchased this because Ridley Scott spoke of the greater breadth of vision and enjoyment contained in his director's cut.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The artistry is very moving in its difference from more standard fare.\"",
+        "\"Takes you into the time--of King Henry VIII and Thomas Cromwell--and its conceptions.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Left with a very pleasant satisfied feeling at the end.\"",
+        "\"Very lovely and distinctive animated film which conveys much about courage, love and reverence for the uniqueness of others.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex dramas and comedies with strong emotional resonance and high production quality. They appreciate nuanced storytelling and are sensitive to pacing, showing mixed feelings about slower narratives. Overall, they seek engaging and meaningful content that evokes deep feelings."
+}

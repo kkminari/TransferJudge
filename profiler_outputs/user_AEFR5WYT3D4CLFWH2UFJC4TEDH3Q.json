@@ -1,0 +1,77 @@
+{
+  "user_id": "AEFR5WYT3D4CLFWH2UFJC4TEDH3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, historical, musical",
+      "evidence": [
+        "This is a great comedy. I recommend it to everyone who likes a spoof.",
+        "Great music. This musical is a wonderful use of the music of Alexander Borodin."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "Excellent story, very complex, but totally worth it.",
+        "Good lead character. Painful. Non love life."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Could do without about 90 percent of the 'F' bombs, but I guess we're just old fashioned.",
+        "Sad, sad."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "I went back to the novel and compared the written with the filmed and was satisfied that the film had done no great damage.",
+        "Great cast, great mood."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "For George C. Scott fans, this is a must.",
+        "I'm a big Stanley Tucci fan and he really outdid himself on this film."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Great cast, great mood.",
+        "The cast of characters, the plot twists, the culture, it is just captivating."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It is great to revisit them at my leisure.",
+        "The ending is a must."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and musicals, often appreciating complex narratives and high production quality. They have a strong emotional connection to the content they consume, indicating a preference for engaging and captivating stories."
+}

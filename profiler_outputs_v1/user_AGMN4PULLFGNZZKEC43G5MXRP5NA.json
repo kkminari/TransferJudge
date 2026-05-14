@@ -1,0 +1,77 @@
+{
+  "user_id": "AGMN4PULLFGNZZKEC43G5MXRP5NA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, classic",
+      "evidence": [
+        "\"This is about as good as it gets for sitcoms.\"",
+        "\"I love The Office (UK) but to me this is the apex of the Gervais/Merchant team.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story is very engaging and the performances are all top notch.\"",
+        "\"The story holds together pretty well and for the most part the action and the actors are all good.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The story holds together pretty well and for the most part the action and the actors are all good.\"",
+        "\"I am giving this boxed set 5 stars for one simple reason: the last half of 'A Tale Of Two Cities'...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The transfer of this film to Blu-Ray is done with great care and attention to detail.\"",
+        "\"The picture is vivid and clear. The scan/transfer is immaculate.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Ricky Gervais, Billy Wilder",
+      "evidence": [
+        "\"I love The Office (UK) but to me this is the apex of the Gervais/Merchant team.\"",
+        "\"Yes, you can definitely make a list of the four top Billy Wilder movies...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory quality",
+      "evidence": [
+        "\"The transfer is pristine, both in sound and picture.\"",
+        "\"The choices that the director and team made back in the 1952 are preserved and presented exactly as they chose.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Ronald Coleman... is devastating in this one. He absolutely transcends the inherent melodrama.\"",
+        "\"What it has to say about war, family and loyalty still resonates.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies and dramas, particularly those with engaging stories and high production quality. They appreciate the works of specific creators like Ricky Gervais and Billy Wilder, and they value emotional depth in the content they consume."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGBCR4VWZNF2T62P2AUJ72XVNOXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, christian",
+      "evidence": [
+        "\"Funny show, entertaining and old time humor.\"",
+        "\"Great Christian Movie for the entire family. Wonderful values and great entertainment.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"We enjoyed the show.\"",
+        "\"Good movie! Good quality.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Quality story line, quality actors, drama and humor.\"",
+        "\"It is a great movie, but it hangs up in the middle.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Good quality.\"",
+        "\"Quality story line, quality actors, drama and humor.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I bought it as a gift.\"",
+        "\"We are enjoying the antics of Cliff Barnes and the conniving of JR Ewing.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "atmospheric humor",
+      "evidence": [
+        "\"Just to funny. Makes for a great evening of laughter!\"",
+        "\"You might pee a little when you laugh!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is a personal thing for me b/c my dad was the pilot who flew the generals to their meetings with Pres. Kennedy.\"",
+        "\"He really enjoys the memories and the movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted comedies and family-friendly dramas, particularly those with Christian themes. They appreciate quality storytelling and emotional connections, often valuing personal experiences tied to the content."
+}

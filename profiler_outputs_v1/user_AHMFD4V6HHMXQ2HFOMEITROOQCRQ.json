@@ -1,0 +1,78 @@
+{
+  "user_id": "AHMFD4V6HHMXQ2HFOMEITROOQCRQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama",
+      "evidence": [
+        "I enjoy the actors and the drama in this movie.",
+        "Love this series - arrived on quickly and on time - great value"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great series, service and shipping - thanks",
+        "Fun series to watch - great service and shipping - would highly recommend."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I was sad when this series ended - great final season - worth having.",
+        "Not my favorite season - great service and shipping."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great series - excellent service and shipping - thanks",
+        "Timely service - great final season dvd - I've watched several times already - thanks"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "Nicholas Sparks, Tom Selleck, Robert Redford",
+      "evidence": [
+        "love Nichols Sparks movies",
+        "love Tom Selleck",
+        "Robert Redford is so handsome in this movie"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual appeal",
+      "evidence": [
+        "Great cast, Great movie classic.",
+        "I was thrilled when it arrived - Robert Redford is so handsome in this movie - thanks"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I was sad when this series ended - great final season - worth having.",
+        "I love, love, loved this series."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and emotionally resonant content, often expressing loyalty to specific creators like Nicholas Sparks and Tom Selleck. They enjoy simple narratives with a slower pacing, focusing more on the emotional impact than on production quality."
+}

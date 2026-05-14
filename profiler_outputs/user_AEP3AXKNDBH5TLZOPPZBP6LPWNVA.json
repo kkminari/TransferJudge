@@ -1,0 +1,74 @@
+{
+  "user_id": "AEP3AXKNDBH5TLZOPPZBP6LPWNVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, family, drama",
+      "evidence": [
+        "This was a good si-fi movie if you are looking for a movie with a lot of action and suspense watch this.",
+        "The kids love this movie"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "You can determine the story line but nice graphics Morgan Freeman was good in his role the action and fight scenes were nice as well.",
+        "It had some good parts in it keep my attention it was a good spin off for a fairy tale"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "This was a good si-fi movie if you are looking for a movie with a lot of action and suspense watch this.",
+        "A lot of action it was okay to watch the overall story line was kinda blurred but I must say I like watching the two of them"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "I like the way they connected Chronicles of Riddick and Pitch Black the animation of the creature was good as well.",
+        "You can determine the story line but nice graphics Morgan Freeman was good in his role the action and fight scenes were nice as well."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "the animation of the creature was good as well.",
+        "the action and fight scenes were nice as well."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "It was a lot of loving and artistic creativity going on in this movie.",
+        "Even if they come up with some crazy story."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced sci-fi and family movies, often appreciating action and suspense. They show a moderate sensitivity to production quality but do not exhibit strong loyalty to specific creators."
+}

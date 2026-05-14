@@ -1,0 +1,78 @@
+{
+  "user_id": "AGZ3YYYAJVGJSYD5IONJFRR3WDYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, action",
+      "evidence": [
+        "\"Sad story.\"",
+        "\"Too funny and the storyline is just hilarious!!!\"",
+        "\"Good action movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Great! Great! Great! Series! Soooo entertaining and full of twists and turns!\"",
+        "\"Good acting and interesting outcome.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This show gets better and better every season!\"",
+        "\"Soooo entertaining and full of twists and turns!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Loved it.\"",
+        "\"It was an OK movie. Not even that 'cute'...\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "No strong loyalty evident."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Great Series! Waiting for Season 3 now!\"",
+        "\"I love this series. I'm hoping there are more seasons than just 3!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A 'feel good' movie. Loved it.\"",
+        "\"I got it!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama, comedy, and action, with a preference for fast-paced narratives that are entertaining and emotionally resonant. They show a low sensitivity to production quality and do not exhibit strong loyalty to specific creators or franchises."
+}

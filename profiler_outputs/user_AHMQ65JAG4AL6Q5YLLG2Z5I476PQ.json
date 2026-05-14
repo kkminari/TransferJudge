@@ -1,0 +1,77 @@
+{
+  "user_id": "AHMQ65JAG4AL6Q5YLLG2Z5I476PQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy",
+      "evidence": [
+        "\"Good movie for kids of all ages\"",
+        "\"Great series for little kids, my two boys love this series.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the story and animation really held their attention.\"",
+        "\"Good story telling\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"the film sort of plateaued at around a quarter or a third of the way in.\"",
+        "\"I wouldn't recommend buying this film, but it's not bad to watch for free or to rent for a few bucks.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"there were some funny parts, but a lot of it just seemed too forced to me.\"",
+        "\"I wouldn't recommend buying this film, but it's not bad to watch for free or to rent for a few bucks.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I bought this because I like Dave Grohl.\"",
+        "\"My wife loves this series of movies\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"the story and animation really held their attention.\"",
+        "\"Great series for little kids, my two boys love this series.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Not terribly funny\"",
+        "\"I wouldn't recommend buying this film, but it's not bad to watch for free or to rent for a few bucks.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for family-friendly and comedic content, often enjoying simple narratives that engage children. They exhibit a low sensitivity to production quality and emotional resonance, indicating a focus on entertainment value over depth."
+}

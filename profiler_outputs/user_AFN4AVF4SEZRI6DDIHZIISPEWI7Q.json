@@ -1,0 +1,77 @@
+{
+  "user_id": "AFN4AVF4SEZRI6DDIHZIISPEWI7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama",
+      "evidence": [
+        "\"My 5 year old granddaughter LOVES it!\"",
+        "\"The characters are so well developed and interesting, the acting is that of truly master thespians.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"nothing blues up and there are no car chases, Kung Fu fights or special effects!\"",
+        "\"Just bad. Boring and bland.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Checked out after 10 minutes. Turned it off after 15.\"",
+        "\"Not as dark as the trailer suggests but it is the pilot. Probably needs time for the characters to develop.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"the acting is that of truly master thespians, and the subject rife with potential for exploration - which the series has done with aplomb.\"",
+        "\"I was in a hotel and didn't have my copy so I rented because I couldn't wait until I got home.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Keri Russell doesn't hurt either!\"",
+        "\"Tom Hanks and Tim Allen, how can you go wrong?\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"the characters are so well developed and interesting\"",
+        "\"the subject is so much more interesting now than it was back in high school days.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I wish I'd found this series sooner! It's fantastic!\"",
+        "\"Always enjoyable. Probably the 20th time I've watched it over the years and it never disappoints.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented and drama genres, often favoring simple narratives with slower pacing. They appreciate well-developed characters and emotional resonance, indicating a preference for engaging storytelling over high production values."
+}

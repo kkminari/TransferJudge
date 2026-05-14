@@ -1,0 +1,76 @@
+{
+  "user_id": "AFJPOA3K5BV3HUW4MSTPNQS3T76A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "biopic, drama",
+      "evidence": [
+        "\"A great film of a great actor and jubject.\"",
+        "\"Superb Series!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great production of the play.\"",
+        "\"Silly movie, but fun.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"slow in places and does not close the story.\"",
+        "\"Great film!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Super cast, great film!\"",
+        "\"Great production of the play.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"OUTSTANDING!\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Superb, enough said!\"",
+        "\"Great Version of this Film!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Great film of a great actor and jubject.\"",
+        "\"OUTSTANDING!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for biopics and dramas, appreciating high production quality and emotional resonance. They enjoy simple narratives and have a mixed view on pacing, indicating a preference for engaging yet straightforward storytelling."
+}

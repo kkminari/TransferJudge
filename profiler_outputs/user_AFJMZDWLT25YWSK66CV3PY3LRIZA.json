@@ -1,0 +1,77 @@
+{
+  "user_id": "AFJMZDWLT25YWSK66CV3PY3LRIZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, romance, war",
+      "evidence": [
+        "\"This is more than a classic. It is one of the greatest romantic comedies ever made...\"",
+        "\"This is such a great film, one of the greatest war films ever and well-deserving of its many awards.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"...it is about parallel lives...\"",
+        "\"...the cinematography is spectacular---the equal to the best MGM epics.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This is one of the most tedious and pretentious films ever made...\"",
+        "\"...the visuals are accompanied by the most obnoxious music score ever.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"They don't write screenplays like this any more...\"",
+        "\"...the cinematography is spectacular---the equal to the best MGM epics.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"...Cary Grant, Jimmy Stewart and Katherine Hepburn never were better.\"",
+        "\"...Gene Wilder considers Young Frankenstein his best role ever.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"...the cinematography is spectacular---the equal to the best MGM epics.\"",
+        "\"...the visuals are accompanied by the most obnoxious music score ever.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This series was so good and such a great piece of modern American history...\"",
+        "\"...it is one of the greatest romantic comedies ever made...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex narratives across genres like drama, comedy, and romance, valuing high production quality. They appreciate emotional depth in films, though they have shown some aversion to slow pacing in certain contexts."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AETOFNVOMJB7HR64ZVYDS7RDEVCA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, comedy",
+      "evidence": [
+        "\"Excellent well done movie. History, tense drama, excellent script, well paced this flick had it all.\"",
+        "\"This was a wonderful movie I recommend most heartily. Hilarious!!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Just another Bond movie. Did not really hold my interest. Very much the old formula see it many times.\"",
+        "\"The poor reproduction quality caused us to stop watching about twenty minutes into the movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The movie held my interest to end and it was quite amazing.\"",
+        "\"The poor reproduction quality caused us to stop watching about twenty minutes into the movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent well done movie. History, tense drama, excellent script, well paced this flick had it all.\"",
+        "\"Not very well done by today's standards but it held the interest and ended up enjoying it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Almost any movie with Charles Bronson gets my approval but this one did not.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This was a wonderful movie I recommend most heartily. Hilarious!!!\"",
+        "\"The only downside were the accents, very hard to pick up at times.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"My wife and I spent a half an hour discussing the movie after it was over.\"",
+        "\"This was a wonderful movie I recommend most heartily. Hilarious!!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys well-crafted dramas and comedies, often appreciating strong narratives and production quality. They have mixed feelings about pacing and narrative complexity, indicating a preference for engaging stories that hold their interest without being overly complicated."
+}

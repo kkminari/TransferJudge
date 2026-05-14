@@ -1,0 +1,77 @@
+{
+  "user_id": "AHNF6SGUCYLEA35ULQYYCVLJMGXQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, extreme horror, art house",
+      "evidence": [
+        "I do love shocking, disturbing and extreme horror",
+        "If you're a fan of real horror - not Blumhouse style of horror - you should check it out."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It's another low budget indie film that does a good job with what is has to offer.",
+        "The plot was just to try and gross people out with sexual perversion."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Yes, this movie is slow paced and takes time to develop story and character.",
+        "It starts off pretty slow and doesn't really deliver on anything shocking."
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I could never be high enough to watch this and actually enjoy it.",
+        "It's supposed to be about a group of college students who go on an ecology research trip to the woods."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Gasper Noe is obviously one of the most overrated directors working in film today.",
+        "I decided to watch this because I'm a fan of Astron 6's other films."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "It's a well made movie with great practical effects, NOT CGI.",
+        "This is what real horror movies should do; shock the audience and make them feel as uncomfortable as possible."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "I probably wouldn't purchase this as I think one viewing of this movie is enough.",
+        "It's just soooooooo bad."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror, particularly extreme and art house styles, but shows a tendency towards simple narratives and slow pacing. They express low sensitivity to production quality and brand loyalty, indicating a focus on the shock value and emotional impact of the films they watch."
+}

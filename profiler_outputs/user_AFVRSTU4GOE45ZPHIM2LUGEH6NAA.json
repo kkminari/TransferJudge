@@ -1,0 +1,77 @@
+{
+  "user_id": "AFVRSTU4GOE45ZPHIM2LUGEH6NAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, music, horror, true crime",
+      "evidence": [
+        "\"If you're a fan of the band and looking for an in depth history of their career...\"",
+        "\"If you're a fan of horror or true crime you'll enjoy this movie.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's a great document of a point in time that changed not only Brets life but changed the WWF too.\"",
+        "\"They do a good job of keeping everything in chronological order...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"A nice addition to the other classic pay per views released by WWE.\"",
+        "\"They do a good job of going through the history and giving you some the highlight matches...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The sound of these releases is nothing short of amazing...\"",
+        "\"The quality of the discs themselves were fine but I felt the packaging and the effort into the overall product left a little to be desired.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Definitely recommended to any Hendrix fan new or old.\"",
+        "\"If you're a fan of the Friday the 13th films or even just the genre you'll enjoy this.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It's very in depth and there's not much they don't touch on.\"",
+        "\"The way it's put together is what makes it worth it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I'm sure everyone will have some band that they wish could've been discussed more...\"",
+        "\"Definitely worth the price on here especially with the bonus footage and interviews included.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for documentaries, particularly those related to music and true crime. They appreciate high production quality and emotional depth in storytelling, favoring slower-paced narratives that provide in-depth insights into their subjects."
+}

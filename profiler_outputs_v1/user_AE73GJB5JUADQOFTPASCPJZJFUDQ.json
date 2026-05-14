@@ -1,0 +1,74 @@
+{
+  "user_id": "AE73GJB5JUADQOFTPASCPJZJFUDQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy",
+      "evidence": [
+        "\"Classic kids movie, a lot of slapstick comedy for the family.\"",
+        "\"Good story for the of age girls\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good story just a little predictable, however enjoyable.\"",
+        "\"Love this classic & just showed it to our older grandchildren - they loved it!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I love that they mix so called history into the story line - yet always keep it fresh.\"",
+        "\"Enjoyment when things were simpler from a true Hero.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Wonderfully written & acted.\"",
+        "\"The writers, direction & actors all make you want to keep coming back to see what will be next.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, family-friendly atmosphere",
+      "evidence": [
+        "\"Excellent family dvd for any age.\"",
+        "\"funtime to share with my grandchildren.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Everyone loved this in our family, great for all.\"",
+        "\"Love it for a great time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented and comedic content, often appreciating simple narratives that evoke strong emotional connections. They value high production quality and prefer slower-paced storytelling that is suitable for all ages."
+}

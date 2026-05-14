@@ -1,0 +1,77 @@
+{
+  "user_id": "AEB5QK6OSLJQ5GZRFOEXBPJ7ASVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, children",
+      "evidence": [
+        "\"Good family movie for the Rock fan.\"",
+        "\"Grandkids loved the video and it is good clean entertainment for the little ones.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Enjoy the movie at a good price.\"",
+        "\"Love this movie from beginning to end.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Still enjoy watching.\"",
+        "\"Was something we could watch as a family when I was growing up.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The set was delivered sooner than expected and in great shape.\"",
+        "\"Delivered quickly and in great condition.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"One of my favorite roles for Morgan Freeman.\"",
+        "\"Enjoy every season.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual, nostalgic",
+      "evidence": [
+        "\"Fantasy Island and it reminded me how much I enjoyed it.\"",
+        "\"Music keeps them interested and it is a break from what is normally on television.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Love this movie from beginning to end.\"",
+        "\"Still enjoy watching.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly and children's content, often enjoying simple narratives that evoke nostalgia. They appreciate quality in terms of delivery and condition but show low brand loyalty, focusing more on the overall enjoyment of the viewing experience."
+}

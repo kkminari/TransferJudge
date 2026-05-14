@@ -1,0 +1,77 @@
+{
+  "user_id": "AGCHDOVAPXCNXJGXF73TK6ZIMYZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "cozy mystery, comedy",
+      "evidence": [
+        "\"Love British cozies!\"",
+        "\"This is Hugh Laurie and Stephen Fry at their best.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Characters are great, stories well done.\"",
+        "\"Interesting plots and characters\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Great characters and pure escapism\"",
+        "\"This series has consistently stood the test of time.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Only wish the dvds had been remastered.\"",
+        "\"I was sorry to see John Nettles to leave, but his replacement will do well.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Hugh Laurie, Stephen Fry",
+      "evidence": [
+        "\"This is Hugh Laurie and Stephen Fry at their best.\"",
+        "\"I really think Edward Petherbridge was a better Wimsey than Ian Carmichael.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual storytelling",
+      "evidence": [
+        "\"Completed my collection\"",
+        "\"Been trying to replace my VHS tape of this movie for some time.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I'll watch these over and over again\"",
+        "\"This series has consistently stood the test of time.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for cozy mysteries and comedies, often appreciating character-driven narratives. They show a moderate sensitivity to production quality and have a fondness for specific creators like Hugh Laurie and Stephen Fry, indicating a taste for engaging and emotionally resonant storytelling."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AHK5ZKAYCZIJPY4FPNMHACPC3S5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, historical, biographical",
+      "evidence": [
+        "\"Interesting overview of the Celts.\"",
+        "\"Well documented research. Keeps to the point.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The flashing back and forth between the time periods was very effective.\"",
+        "\"Some interesting paradoxes touched upon but not well defined or well developed.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Interesting but overly simplified presentation. Feeds the imagination more than the intellect.\"",
+        "\"The two very traumatic events were not convincing due to the haste needed to get everything in a short movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Bad story line, bad special effects, bad acting.\"",
+        "\"Distorted visuals. Interesting history.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Star Trek",
+      "evidence": [
+        "\"I enjoy Star Trek. This movie did not disappoint.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory experience",
+      "evidence": [
+        "\"The advances in aeronautics were amazing.\"",
+        "\"Great children's book. Excellent biographical material.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Fascinating presentation of Brian Wilson's slide into mental illness...\"",
+        "\"This was a very interesting self narrative of this racing driver's career...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and historical narratives, appreciating complex storytelling and high production quality. They have a notable loyalty to the Star Trek franchise and value emotional resonance in their viewing experiences."
+}

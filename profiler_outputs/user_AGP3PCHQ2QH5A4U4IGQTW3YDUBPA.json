@@ -1,0 +1,77 @@
+{
+  "user_id": "AGP3PCHQ2QH5A4U4IGQTW3YDUBPA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, political thriller, documentary",
+      "evidence": [
+        "\"Gotta love those wily Underwoods, always fascinating story line.\"",
+        "\"It's a semi-satirical look at how Socialism is creeping into every aspect of American lives...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Sometimes plodding and seemingly disconnected. Sometimes doesnt make sense at first but then 'ahah' moment comes up...\"",
+        "\"It's an interesting work, somewhat entertaining, but nothing I will want to hang onto...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Sometimes plodding and seemingly disconnected...\"",
+        "\"It's not a great movie, but somewhat entertaining, worth a look...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Acting is pretty good. Characters are fairly believable...\"",
+        "\"Others have said plenty about quality of movies here, both aesthetically and artistically, and I concur...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Same guy who produced 'Dreams From My REAL Father' made this film; Joel Gilbert...\"",
+        "\"Not huge King fan. I hadn't seen Shawshank or Dreamcatcher before...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"You feel bad for Walt cuz he gets teased and s*** on by everyone...\"",
+        "\"If you long for some good old-fashioned entertainment at a reasonable price...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"If you love to see a lot of ass kicking, you'll love it! Sold it on e-bay already...\"",
+        "\"I like to watch these on gloomy Sunday mornings now to brighten my day!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex narratives with a focus on drama and political themes, often appreciating high production quality. They have a mixed preference for pacing and show a strong emotional engagement with the content, while demonstrating low brand loyalty to specific creators."
+}

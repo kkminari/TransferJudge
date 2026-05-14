@@ -1,0 +1,77 @@
+{
+  "user_id": "AGB5RQID6GGARBH6TKY4SDAKOMPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "reality, drama",
+      "evidence": [
+        "Love Survivor!",
+        "A must for The Walking Dead fan"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good quality.",
+        "Great cast, enjoyable movie"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Good action movie.",
+        "Great season. Lots of good blindsides."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Good quality.",
+        "Great cast, enjoyable movie"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Survivor",
+      "evidence": [
+        "Love Survivor.",
+        "Can't get enough survivor"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "Beautiful color",
+        "Great ending"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Great ending",
+        "It was quite entertaining."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys reality and drama genres, particularly favoring the 'Survivor' series. They appreciate good production quality and fast-paced storytelling, while also valuing emotional engagement in their viewing experiences."
+}

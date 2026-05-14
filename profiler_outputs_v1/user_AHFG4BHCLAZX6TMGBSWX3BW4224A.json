@@ -1,0 +1,77 @@
+{
+  "user_id": "AHFG4BHCLAZX6TMGBSWX3BW4224A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family, comedy",
+      "evidence": [
+        "\"A wonderful moving movie. A must for all the family!\"",
+        "\"Fantastic series with loveable characters that I watch over and over!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Funny thruout but had a great story line.\"",
+        "\"Great series with drama going on upstairs and down!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It does keep you on the edge of your seat~!\"",
+        "\"Great nail biting season!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I can watch anything that Tom Selleck is in but this one is just one that I love to see over and over!\"",
+        "\"I have enjoyed this program\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Tom Selleck, Shirley",
+      "evidence": [
+        "\"I can watch anything that Tom Selleck is in...\"",
+        "\"Shirley is a real national treasure and you can't beat her movies for a good role model.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "atmospheric music, engaging characters",
+      "evidence": [
+        "\"The kids love it and the music is great\"",
+        "\"Delightful. I hope they have a 4th season soon!!! You just want to follow the characters thru their whole lives!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A wonderful moving movie. A must for all the family!\"",
+        "\"Best movie ever! Never saw that ending coming!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama, family, and comedy genres, often favoring simple narratives with fast pacing. They show loyalty to specific actors like Tom Selleck and appreciate engaging characters and emotional resonance in their viewing experiences."
+}

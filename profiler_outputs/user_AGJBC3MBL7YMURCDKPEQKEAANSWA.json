@@ -1,0 +1,76 @@
+{
+  "user_id": "AGJBC3MBL7YMURCDKPEQKEAANSWA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family",
+      "evidence": [
+        "\"Not many movies based on prohibition.\"",
+        "\"This is a guy movie\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good movie\"",
+        "\"Great movie based on truth\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Glad it started where first left off.\"",
+        "\"Earning respect is tough as a kid.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great movie\"",
+        "\"You never know who people really are\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Larry never disappoints.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"What all moms go through\"",
+        "\"My daughter loves this movie!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"You never know who people really are\"",
+        "\"Didnt have cable so I had to watch this as I do every year.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family and drama genres, with a preference for simple narratives and slower pacing. They value emotional resonance in films, often reflecting on personal experiences and connections."
+}

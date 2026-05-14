@@ -1,0 +1,76 @@
+{
+  "user_id": "AFBQE2YOMQU5VSTNQZVM5TATAQQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, drama, holiday",
+      "evidence": [
+        "\"clean family show we watch with our son\"",
+        "\"great funny show.DVD work great\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"good movie !!!\"",
+        "\"good movie ..great performance and appropriate for child too watch too\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"few were little too slow for me to get into movie but all still good\"",
+        "\"great Christmas movies....\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"great cast and clean show !\"",
+        "\"David white and all actors did great job...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I'm huge fan of Kevin sorbo and he did great role as so did the other actors....\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"full of laughs .....wonderful funny show....\"",
+        "\"captures our 9yr son enjoys and even his father.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"so cute .charming funny and good story.....one on my favorite list of movies .all the actors were wonderful ...can watch over and over again...\"",
+        "\"my 9 your old watch it with me and he said wow that a nice thing he does at ending .actors all did a good job...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly, comedic, and holiday-themed content, often enjoying simple narratives that evoke laughter and emotional warmth. They show a low sensitivity to production quality, focusing more on the enjoyment and appropriateness of the content for family viewing."
+}

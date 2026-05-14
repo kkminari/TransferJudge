@@ -1,0 +1,76 @@
+{
+  "user_id": "AFDZU5HCDZTKTC6LL2KI5DQHQ2IA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, drama",
+      "evidence": [
+        "Just a classic movie that can play in the background without having to worry about what's on.",
+        "I just felt it was advocating (to have affairs)."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I just felt it was advocating (to have affairs).",
+        "This was fine. . . . . . . . . . . . . . .. . . . . . . . .  ..... . . . . ..."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Just a time capsule that I get lost in every time.",
+        "If you don't turn that unit off you will be a zombie like some of these folks."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I pay to watch the Amazon Prime, and IMDB is apart of this, what do I need to pay to watch commercials in the first place.",
+        "I can't think if any cuss words were every mentioned."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Tom Hanks",
+      "evidence": [
+        "Hollywood needs more actors like Tom Hanks."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I get lost in every time.",
+        "Life was so much simpler without all the confusion the way it is now."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I just felt, there needs to be more value movies to strengthen a marriage.",
+        "I miss shows like these."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys classic romance and drama films, often reflecting on simpler times and emotional narratives. They show a preference for slower pacing and are sensitive to the emotional impact of the stories, while also expressing some loyalty to actors like Tom Hanks."
+}

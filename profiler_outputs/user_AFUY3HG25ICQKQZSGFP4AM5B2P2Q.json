@@ -1,0 +1,77 @@
+{
+  "user_id": "AFUY3HG25ICQKQZSGFP4AM5B2P2Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"This show was so funny I hate that it was cancelled...\"",
+        "\"I like this movie it really sheds a light on the issues we as woman can have with each other as mothers and daughters\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I couldn't really follow at times\"",
+        "\"I felt that she was really sad I guess both husband and wife were sad.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I felt as though the movie was a little slow and really didn't give enough information about each character\"",
+        "\"I had to stop watching it it was too boring for me\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"MGH did a beautiful job portraying a mentally ill individual and its really hard to do that\"",
+        "\"the performance is out of this world I love Lily Tomlin\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for specific actors",
+      "evidence": [
+        "\"If it weren't for Margo Martindale and Meryl Streep I wouldn't have even given this movie a second glance\"",
+        "\"Mama Bennett scared the living daylights out of me and I love it I am so glad Margo Martindale won that emmy\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I held back the tears as much as I could\"",
+        "\"this movie here touched me\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I never, well rarely cry when I see a sad movie or touching movie this movie here touched me\"",
+        "\"brought tears\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and drama, often appreciating emotional depth and high-quality performances. They show a tendency towards slower-paced narratives and have a notable loyalty to specific actors, particularly Margo Martindale and Meryl Streep."
+}

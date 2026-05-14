@@ -1,0 +1,72 @@
+{
+  "user_id": "AHJG2FSL5NVWBZWG6HT5MYQRJJFQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"What a great movie about moving through loss with a funny side.\"",
+        "\"Funny and cute movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It took a while to get the show rolling, but episode 7 & 8 made it worth watching the season. Everything tied together.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It took a while to get the show rolling, but episode 7 & 8 made it worth watching the season.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"It was just ok.\"",
+        "\"I like stupid humor, but this was pathetic.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"What a great thought provoking movie!\"",
+        "\"Very cute movie and touching.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"What a great thought provoking movie!\"",
+        "\"Love, love, love this movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and dramas, often appreciating films that are funny and touching. They prefer simple narratives with a slower pacing, and while they show some emotional engagement, they are less concerned with production quality."
+}

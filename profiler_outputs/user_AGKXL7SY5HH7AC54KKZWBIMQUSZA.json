@@ -1,0 +1,75 @@
+{
+  "user_id": "AGKXL7SY5HH7AC54KKZWBIMQUSZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "crime, drama",
+      "evidence": [
+        "Love my CSI",
+        "I am a CSI fanatic"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Love my CSI",
+        "I can sit and watch a whole season in a weekend"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "I can sit and watch a whole season in a weekend"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Not with amazon! My next seasons will be the original CSI."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "CSI franchise",
+      "evidence": [
+        "Love my CSI",
+        "I have ordered all of CSI Miami"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Love my CSI",
+        "I can sit and watch a whole season in a weekend"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Love my CSI",
+        "I might have to order three at a time"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for crime dramas, particularly the CSI franchise, indicating a loyalty to this series. They enjoy fast-paced, straightforward narratives and are less concerned with production quality, focusing more on the entertainment value."
+}

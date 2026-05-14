@@ -1,0 +1,74 @@
+{
+  "user_id": "AHPF3TWR2TEDVOAEMW52A7ZM5WQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's shows, documentaries, romantic comedies",
+      "evidence": [
+        "A fun series. All of my children have grown up on Curious George.",
+        "This documentary revealed the extent of GMO foods that have entered our food chain."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "A fun series. All of my children have grown up on Curious George.",
+        "The movie did not drag."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "The movie did not drag.",
+        "This documentary revealed the extent of GMO foods that have entered our food chain."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "I was especially impressed by the video quality and production.",
+        "This documentary revealed the extent of GMO foods that have entered our food chain."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual quality",
+      "evidence": [
+        "The details in the faces of the characters is crisp.",
+        "I was especially impressed by the video quality and production."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "My son lost interest after 10 minutes.",
+        "The singing and dancing talent was amazing, but not enough to carry the movie."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys children's shows and well-produced documentaries, showing a preference for high-quality visuals and straightforward narratives. They appreciate fast pacing and are sensitive to production quality, but do not exhibit strong loyalty to specific creators."
+}

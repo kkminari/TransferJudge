@@ -1,0 +1,76 @@
+{
+  "user_id": "AF6JKBDUVDBMV4RRYCRGJTKVUYLQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "film noir",
+      "evidence": [
+        "Good film noir, thank you, Rick",
+        "Great film noir, thank you, Rick"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "A splendid film!",
+        "Great"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "A fun movie, Thank you, Rick",
+        "Great"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great",
+        "Good"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Hitchcock",
+      "evidence": [
+        "Another great Hitchcock film, thank you, Rick"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "atmospheric",
+      "evidence": [
+        "Good film noir, thank you, Rick",
+        "Great film noir, thank you, Rick"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Great",
+        "Good"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for film noir, particularly enjoying works by Hitchcock. They tend to favor simple narratives and fast pacing, with a low sensitivity to production quality."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AF2DZ74HUPAMTXCF6CHCAX4ROQTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, sci-fi",
+      "evidence": [
+        "\"This is typical Bill Murray, slap stick, a fun movie.\"",
+        "\"My favorite Star Trek movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Enjoyed this movie, was good.\"",
+        "\"Fun movie, loved it.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Just enough action to keep it believable\"",
+        "\"This is typical Bill Murray, slap stick, a fun movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Enjoyed this season\"",
+        "\"I thoroughly enjoyed this collection.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Bill Murray, Star Trek",
+      "evidence": [
+        "\"This is typical Bill Murray, slap stick, a fun movie.\"",
+        "\"My favorite Star Trek movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Touching study in growing older, finding companionship in an unusual way\"",
+        "\"Enjoyed the math applications. Stories are very interesting.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Touching study in growing older, finding companionship in an unusual way\"",
+        "\"This Season had a sweet ending\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and comedic films, particularly those featuring Bill Murray and the Star Trek franchise. They prefer simple narratives with fast pacing and show a strong emotional engagement with the content."
+}

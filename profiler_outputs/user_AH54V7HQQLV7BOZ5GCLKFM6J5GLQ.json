@@ -1,0 +1,74 @@
+{
+  "user_id": "AH54V7HQQLV7BOZ5GCLKFM6J5GLQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "educational, family-friendly, sci-fi",
+      "evidence": [
+        "any sci fi movie about time travel is always interesting",
+        "great colorful and educational stuffs for my kids"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "i love the twist of this movie",
+        "makes kids and entertain curiosity and adventure time"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "i didn't get bored at all",
+        "my teen like it. he found it funny on some part and interesting on some part"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "Good Quality picure. HD copy",
+        "4 star as i didn't get bored watching it but i like the set up of the movie"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "interesting and learned lesson behalf of my kids",
+        "they learned a lot of languages and colors letters and dance"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "i love this movie and i am watching it again tonight",
+        "Fascinating movies. interesting and learned lesson behalf of my kids"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys educational and family-friendly content, particularly in the sci-fi genre. They prefer fast-paced narratives that are engaging for children, with a strong emphasis on emotional resonance and learning experiences."
+}

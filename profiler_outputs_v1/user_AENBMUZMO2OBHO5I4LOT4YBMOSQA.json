@@ -1,0 +1,77 @@
+{
+  "user_id": "AENBMUZMO2OBHO5I4LOT4YBMOSQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "western, family",
+      "evidence": [
+        "\"Great Western Story. Worth time to watch\"",
+        "\"Good Family Movie with great stars!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"They don't make great stories like this anymore. Highly Recommend!\"",
+        "\"Wonderful series with plot twists that keep you engaged the entire movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Edge of your seat action all the way through.\"",
+        "\"Not a boring minute.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Wonderful scenery and score and story!\"",
+        "\"A first class production and we were on edge of our seats the entire film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If you liked 'The Shooter' movie with Mark Warburg you will like this.\"",
+        "\"We thought Brando was perfection!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The beautiful scenery along the California coast was worth the price of the movie.\"",
+        "\"Remember the 'good old westerns' we watched as kids that had beautiful color and bigger than life heroes!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Lose yourself in the 'good old days' when there were movies with wonderful stories and clear lessons between good and evil and a good dose of humor.\"",
+        "\"It's the kind of film that you think about for several days after you see it!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for western and family genres, enjoying fast-paced narratives with high production quality. They value visual spectacle and emotional resonance in their viewing experiences, often reminiscing about the storytelling of the past."
+}

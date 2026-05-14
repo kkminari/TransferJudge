@@ -1,0 +1,77 @@
+{
+  "user_id": "AE7ISF3XUEA3BXGYEZRSXCU2NN7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama",
+      "evidence": [
+        "I love scifi and wanted to treat myself one night so I chose this movie.",
+        "I am a sci-fi fan and when you take a drama, put in some humor, and add dinos and other creatures - I'm a sucker."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "I really like the way this series keep building upon past episodes.",
+        "It is enjoyable to watch the characters grow and learn to work together."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "For me the season started slowly but as it grew and the characters emerged it captured me.",
+        "Sort of a slow start but it will draw you in."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The quality of this video is excellent.",
+        "The acting was good - it was the script that suffered."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I am a Jackie Chan fan so wanted to see this even with a low rating.",
+        "Sandra is one of my favorite actresses and this was a wonderful find."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "This is indeed a masterpiece bringing the viewer with it through so many different emotions.",
+        "I do highly recommend seeing this movie."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I did shed tears several times.",
+        "This was a quite fascinating movie and the acting excellent."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and drama genres, appreciating complex narratives and high production quality. They enjoy emotional and immersive experiences, often resonating deeply with the content they watch."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEVGWNXKL4NCYMAZJ3MAWRGHXDZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, anime",
+      "evidence": [
+        "I love this anime one of the greatest ones",
+        "One of the great ANIME I've seen in a long time"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good storyline good action",
+        "Great movie"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Good storyline good action",
+        "Great movie"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I love this series it's great",
+        "Good movie"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I love this anime one of the greatest ones",
+        "I love this movie"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Good storyline good action",
+        "One of the funniest shows ever"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I love this series it's great",
+        "I love this movie"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and anime genres, enjoying fast-paced and straightforward narratives. They express high emotional engagement with the content, often stating their love for specific movies and series."
+}

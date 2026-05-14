@@ -1,0 +1,77 @@
+{
+  "user_id": "AGOCBLEKEOSVO3DUZZAMWQAK3J4A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama",
+      "evidence": [
+        "\"This was a tragic and haunting documentary about the woman who caused the terrible car accident...\"",
+        "\"This was an excellent documentary. For those who may be unfamiliar or are very young, this film will educate you.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This was an entertaining movie about the elderly falling in love...\"",
+        "\"I found this film fascinating as I traveled to New York City this year via Penn Station.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This was a tragic and haunting documentary...\"",
+        "\"The portrayal by Drew Barrymore and Jessica Lange were outstanding.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Angela Bassett who is an excellent actress did a great job of portraying this American icon.\"",
+        "\"The pictures of the destruction and the stories told by those affected are unforgettable.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I saw this movie years ago, but it remains a favorite because of the late actor Steve McQueen.\"",
+        "\"I became very interested in the life of Dorothy Dandridge after the Halle Berry film...\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The interviews with family members were priceless.\"",
+        "\"The pictures of the destruction and the stories told by those affected are unforgettable.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It was revealed in the story that she had drug and alcohol problems...\"",
+        "\"This was a tragic and haunting documentary...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for documentaries and dramas, particularly those that evoke emotional depth and are well-produced. They appreciate character-driven narratives and tend to favor slower pacing, indicating a taste for thoughtful storytelling."
+}

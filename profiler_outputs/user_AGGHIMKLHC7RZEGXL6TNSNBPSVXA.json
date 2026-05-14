@@ -1,0 +1,77 @@
+{
+  "user_id": "AGGHIMKLHC7RZEGXL6TNSNBPSVXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, Christmas",
+      "evidence": [
+        "\"I love all Christmas movie. I watch this at least twice a month.\"",
+        "\"I love this movie it is so funny.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This is a classic. I had it on VHS and needed it on DVD, this movie will never be out dated it will leave you in stitches every time you watch it.\"",
+        "\"It's fun to watch the Rock be cute, this movie and the Tooth Fairy are great for the kids to watch.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great very intense movie. It arrived before the time stated. It was in great shape and I've watched it several times.\"",
+        "\"I love this movie, watched it several time.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"received it fast and in excellent condition. Watch it over and over again, love it.\"",
+        "\"arrived in record time, I've watched it over 100 times, LOVE IT\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love Rudd, so he makes this movie great.\"",
+        "\"Stergis is great in this movie, how they created the movie is interesting (towns, people upside down)\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"this movie is just a little different but if you have an imagination you will love this movie.\"",
+        "\"I really love this movie, I've watched it over and over again.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"He realize he LOVES his daughter, he's evil, and he doesn't want to be caged. Great acting.\"",
+        "\"I love this movie it is so funny. I have even loaned it out to my friends who have told me they loved it also.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and family-oriented films, particularly Christmas movies. They enjoy simple narratives with fast pacing and high emotional resonance, often watching their favorite films multiple times."
+}

@@ -1,0 +1,75 @@
+{
+  "user_id": "AFLA3DMY7C6LOQBLICQFZ5ARMNNA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi",
+      "evidence": [
+        "This is an awesome tv show! I highly recommend it to anyone (not just sci/fi fans)."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "A magnificently Great Story!!",
+        "A magnificent show!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "This is a must see for everyone! Check it out! you will never regret it. :)",
+        "A great classic and always a fantastic show!!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Good stuff!!",
+        "I highly recommend it to any Star Trek fan!!"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Amy Jo Johnson is a very awesome and talented actress in the role of this tv series!"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "It makes her happy, though, so I am impressed.",
+        "A great classic and always a fantastic show!!"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It makes her happy, though, so I am impressed.",
+        "A magnificently Great Story!!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi content and enjoys emotionally intense stories. They appreciate fast-paced narratives and are less concerned with production quality, focusing more on the enjoyment and emotional impact of the shows."
+}

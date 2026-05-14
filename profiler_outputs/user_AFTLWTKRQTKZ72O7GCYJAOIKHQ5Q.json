@@ -1,0 +1,77 @@
+{
+  "user_id": "AFTLWTKRQTKZ72O7GCYJAOIKHQ5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, family, romance",
+      "evidence": [
+        "I thought this was an enjoyable and fun futuristic sci fi series",
+        "I liked how the female character was able to see through her self-absorbed dream man and chooses another man who really truly cares about her."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "the story was easy to follow with a happy ending",
+        "it was pretty simple as much as the story and acting were concerned."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I enjoyed the old-fashioned straightforward story of romance and music.",
+        "There was a clear line between good and evil."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "the subtitles were garbled at times while watching the drama",
+        "I actually re-watched it recently and enjoyed it much more than when I was younger."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Gerry Anderson",
+      "evidence": [
+        "I am a fan of Gerry Anderson",
+        "this title is among my top Gerry-Sylvia Anderson favorites"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I love the fact I can watch a modern movie in Mandarin that's funny with great characters!",
+        "I find myself remembering my childhood T.V. days when exciting stories of family adventures and friendships 'won' the day."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I loved the actors - perfect for their parts.",
+        "I wanted to see a happy ending with all romance angles explored and finalized."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly sci-fi and romance genres, favoring simple narratives with happy endings. They show a strong loyalty to Gerry Anderson's works and appreciate emotional resonance in their viewing experiences."
+}

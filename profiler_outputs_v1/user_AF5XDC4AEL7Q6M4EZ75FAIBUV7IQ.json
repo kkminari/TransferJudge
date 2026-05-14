@@ -1,0 +1,77 @@
+{
+  "user_id": "AF5XDC4AEL7Q6M4EZ75FAIBUV7IQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "crime, drama",
+      "evidence": [
+        "Every Law & Order (CI/SVU/L&O/LA/UK/etc) that is on DVD I have and will on every DVD they put out.",
+        "Marion Berry is a well educated country boy, ghetto and a bourgeoise (Boule')negro member of the AOA fraternity."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Acting isn't the best but the point is well taken, take yours.",
+        "Good it shows the reality off what cops do and think they can get away with."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Maybe I'll get used to the 360 style this DVD is set in but so far its ok.",
+        "Good only issue I had was Ike was supposed to be a Army Master Sergeant."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Decent Product this was supposed to go directly to DVD and should never be in the movies.",
+        "Good, product enjoyed the TV show as well as the dvd."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Dick Wolf",
+      "evidence": [
+        "That Wolf, (Dick Wolf) really did his homework with this franchise of Law and order.",
+        "Great, Vincent plays his part very well."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, realistic",
+      "evidence": [
+        "Good it shows the reality off what cops do and think they can get away with.",
+        "Street thug keeping it real with street cats and street females I can appreciate that."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "Marion Berry is a well educated country boy, ghetto and a bourgeoise (Boule')negro member of the AOA fraternity.",
+        "Good, product . Sociology at its best."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for crime and drama genres, particularly enjoying the Law & Order franchise. They appreciate realistic portrayals and sociological themes, but their reviews indicate a mixed response to narrative complexity and pacing."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AE76SOZABDKBKUGYAZVBRKBXSFUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, mystery, adventure, comedy",
+      "evidence": [
+        "\"Delightful for the whole family (me and my husband, our 13 year old daughter are explainable)\"",
+        "\"The episodes are a mix between adventure and comedy and are delightful to watch for our teenagers, not to mention their young-at-heart parents\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "medium",
+      "evidence": [
+        "\"The overarching mystery 'What happened to/how can we help Kelly's grandmother?' is intriguing, the clues tantalizing\"",
+        "\"The mysteries are engaging and the characters are well-defined\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"The stories build on one another\"",
+        "\"The plots and story arcs which are hinted at in this season are more fully developed in the second season\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I do not agree with folks who criticized the acting, which I believe is 'just right' for the show\"",
+        "\"It's been funny, touching, all the good stuff\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"We are big fans of Gortimer Gibbons and Life on Normal Street--this is another gem\"",
+        "\"I do not know how the writers captured a true 'kid's eye' view of the world\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Lovely music, complex and beautiful world, intriguing and very compelling story\"",
+        "\"The cinematography was lovely\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The movie rang true in terms of having to deal with loss, but eventually recapturing joy\"",
+        "\"Extraordinarily rich portrayals of characters who have lost important things in their lives, with ultimately hopeful ending\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly content that combines elements of mystery, adventure, and comedy. They appreciate high production quality and emotional depth in storytelling, often resonating with themes of loss and joy."
+}

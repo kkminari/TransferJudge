@@ -1,0 +1,78 @@
+{
+  "user_id": "AFIYNZTEG6LJEOKIIGP446BXRB6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "suspense, psychological thriller, science fiction",
+      "evidence": [
+        "\"It was suspenseful & held my attention the entire movie.\"",
+        "\"Good science fiction show.\"",
+        "\"psychological thriller with great performances from Jake Gyllenhaal\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"the trial outcome kept me guessing until the end.\"",
+        "\"the end was perplexing. No closure between Edward & Susan.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Kept me on the edge of my seat.\"",
+        "\"An interesting story that keeps you in suspense...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Tom Wilkinson and Rachel Weisz gave great performances.\"",
+        "\"Jeff Bridges deserved his Oscar nomination.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I like Gerard Butler & he didn't disappoint.\"",
+        "\"I've been an admirer of Andrew Garfield since I watched his mesmerizing performance in Boy A.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Very good special effects.\"",
+        "\"Visually beautiful.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It was painful to watch people lose their homes.\"",
+        "\"It was heartbreaking, suspenseful, angered me.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for suspenseful and psychological thriller genres, often appreciating complex narratives and fast pacing. They value high production quality and emotional resonance in their viewing experiences, showing some loyalty to specific actors."
+}

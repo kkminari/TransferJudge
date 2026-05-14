@@ -1,0 +1,72 @@
+{
+  "user_id": "AHVACD4EVTTNVJATEZLIA2V2CKGA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama",
+      "evidence": [
+        "THIS SHOW IS THE GREATEST TV DRAMA OF ALL-TIME."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "HARD TO KEEP IT UP TO THAT QUALITY -- BUT SEASON 3 WAS EXCELLENT."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "SEASON 4 BEGAN A DOWNWARD, 'SOAP-OPERA'-ish TAKE TO THE SHOW."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "EXCELLENT QUALITY! GREAT VALUE!!!",
+        "Fabulous film -- fabulous Blu-ray!"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Criterion Collection",
+      "evidence": [
+        "Criterion is the FINEST in ALL VDV/Blu-ray manufacturers!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and audio quality",
+      "evidence": [
+        "BEAUTIFULLY RESTORED PICTURE AND AUDIO.",
+        "EXCELLENT PICTURE AND AUDIO!!!!"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "A FIVE STAR -- AAAAA+++++ -- MASTERWORK. PERFECT. JUST PERFECT."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for high-quality films and TV dramas, particularly valuing visual and audio excellence. They show loyalty to the Criterion Collection and appreciate emotional resonance in their viewing experiences."
+}

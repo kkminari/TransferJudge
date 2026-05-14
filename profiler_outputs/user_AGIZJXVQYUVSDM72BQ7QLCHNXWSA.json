@@ -1,0 +1,75 @@
+{
+  "user_id": "AGIZJXVQYUVSDM72BQ7QLCHNXWSA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, '80 movies",
+      "evidence": [
+        "'80 movies",
+        "Awesome family program"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Awesome family program",
+        "Adoringly cute"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Awesome movie. One of the best WWE movies yet"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Not as good as the original but not bad"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Kevin Sorbo, Randy Orton",
+      "evidence": [
+        "My favorite Kevin Sorbo movie",
+        "Anything with Randy Orton is always good"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Adoringly cute",
+        "Awesome family program"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I am glad that I can pass down great movies from my generation to another generation",
+        "My mom loves it"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly films and '80 movies, often enjoying simple narratives that are fast-paced. They show loyalty to specific actors like Kevin Sorbo and Randy Orton, and their reviews reflect a high emotional resonance with the content."
+}

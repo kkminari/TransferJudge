@@ -1,0 +1,77 @@
+{
+  "user_id": "AEO23P7FHDKBBIDYID7FGVJEPKVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama",
+      "evidence": [
+        "'What a great movie with Vin Diesel.'",
+        "'I love all things to do with this show'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'Great movie.'",
+        "'Wonderful movie.'"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "'This show is so spectacular it keeps you guessing for more and more.'",
+        "'It keeps you guessing for more.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "'Love the movie and I had it only on dvd now I have it on blu-ray.'",
+        "'Great deal.'"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Vin Diesel, Covert Affairs",
+      "evidence": [
+        "'What a great movie with Vin Diesel.'",
+        "'I love Covert Affairs.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "'This show is so spectacular it keeps you guessing for more and more.'",
+        "'I have been a fan for years and I have started collecting movies and tv shows.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'I just wanted to say that this is the best show on Tv right now in regards to horror shows.'",
+        "'Bones is such a wonderful addition to my collection.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and drama genres, particularly enjoying works featuring Vin Diesel and the series Covert Affairs. They favor fast-paced narratives with a simple structure, showing a high emotional engagement with the content they consume."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFPGXAZPZGVZMH2YKMSVMGTDQOPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "supernatural, action, drama, comedy, horror",
+      "evidence": [
+        "\"I lean towards the supernatural themes when it comes to movies and series.\"",
+        "\"If you like horror then I recommend this one!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It has it all! Laughter, drama and triumph!\"",
+        "\"I really enjoyed this movie! I'm so glad I now own it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I had to bail about half way through but could hear my friend laughing his butt off in the other room!\"",
+        "\"It's funny, sad and emotional!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I highly recommend it for anyone who is looking for a fun uplifting movie!\"",
+        "\"I love having added this to my collection! It's very good.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to actors and franchises",
+      "evidence": [
+        "\"I'm a HUGE Hobbit fan and this one rocks!\"",
+        "\"I adore Johnny Depp and I think this is one of his best!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, emotional engagement",
+      "evidence": [
+        "\"It's great!\"",
+        "\"I love this movie! It has it all!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It's funny, sad and emotional!\"",
+        "\"I LOVE this movie! It has it all!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for supernatural and action genres, often enjoying fast-paced narratives with emotional depth. They exhibit loyalty to specific actors and franchises, indicating a taste for engaging and entertaining content."
+}

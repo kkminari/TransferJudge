@@ -1,0 +1,77 @@
+{
+  "user_id": "AEUEV26TBN7P3RDX3IHMFSG54DBA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, action",
+      "evidence": [
+        "\"Wow Amazon, as a lifelong fan from the 70's when i first read the hobbit...\"",
+        "\"the dwarf army was totally cool wrecking the elf army...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"kind of a dumb storyline, an insult to my slightly above average intelligence.\"",
+        "\"the story writing is getting a bit silly, but still entertaining.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It starts out with a bang, gets boring and dumb in the middle, then ends pretty well.\"",
+        "\"had to skip some of the boring acting parts, but fun for a sat morning watch.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"great acting directing & writing. You killed it!!!\"",
+        "\"Great finale, writers, actors, directors, special effects killed it!!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Tom Hanks is exceptional!\"",
+        "\"Ultron makes the show, the rest of the actors pale in comparison.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"the music was great, they definitely stole from star wars, indiana, & matrix soundtracks and mixed them together, very well done!\"",
+        "\"the final battle scene on the war chariot was fantastic...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "mixed",
+      "evidence": [
+        "\"I love all the actors & the aes sedai are perfect...\"",
+        "\"Dull\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy and action genres, appreciating high production quality and sensory experiences. However, they exhibit mixed feelings towards narrative complexity and pacing, indicating a nuanced taste in storytelling."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AF7CGF73LZSYAKZ2GAQGIIALUBDQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, thriller, romance, propaganda",
+      "evidence": [
+        "\"It is a beautiful movie that shows a Middle East seen by the eyes of a connaisseur...\"",
+        "\"It's a good action film, but it is a lie, just like cowboys killing indians...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"...using always the same set, almost always the same angles, actors and repeated actions...\"",
+        "\"...the film is a fake, because his subject was Wagstaff and not Mapplethorpe...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"...there are some memories, glimpses of his old lover, brief meetings with people he knows and doesn't know...\"",
+        "\"...the script is very good, the direction too, but still...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...the direction too, but still...\"",
+        "\"...the cinematography quality...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Orson Welles, Wong Kar Wai",
+      "evidence": [
+        "\"...it is one of his greatest movies, along with Citizen Kane...\"",
+        "\"...Wong Kar Wai movie. He is one of the greatest directors of our time...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric music",
+      "evidence": [
+        "\"...a very personal moviemaker in a collective society, a genius of cinema...\"",
+        "\"...you can feel it...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...you must have a cold heart if you are not moved by this very simple and unpretentious film...\"",
+        "\"...their amour fou... left us a very important heritage...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex dramas and thrillers, often appreciating high production quality and emotional depth. They show loyalty to renowned directors like Orson Welles and Wong Kar Wai, and their reviews indicate a fondness for visually striking and atmospheric storytelling."
+}

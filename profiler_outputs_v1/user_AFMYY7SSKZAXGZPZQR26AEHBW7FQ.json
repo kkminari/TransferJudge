@@ -1,0 +1,66 @@
+{
+  "user_id": "AFMYY7SSKZAXGZPZQR26AEHBW7FQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "old movies and TV shows",
+      "evidence": [
+        "I'm a big fan of old movies and TV shows."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It has a great story line and the studio did a good job getting the message across."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the studio did a good job getting the message across."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "Great movie."
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I recommend it to my friends and family."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys old movies and TV shows, indicating a preference for classic storytelling. They appreciate quality production and emotional resonance, often recommending content to friends and family. However, their specific genre preferences and brand loyalty are less clear from the reviews."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFA4AOWG75JHFV7I4ST27H5DPDQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, clean, religious, romance",
+      "evidence": [
+        "\"very good for the whole family and great for watching on those cold days when family can gather and watch good clean movies\"",
+        "\"this movie has lessons on the way we treat others and how they are humans with feelings\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"this is a good clean movie for the whole family and it has lessons to be learned\"",
+        "\"this movie depicts the life in olden days when life was more simplistic\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"this movie is a good movie and it teaches people to love and forgive\"",
+        "\"this was bought for a loved and they enjoyed watching it. with their family. good spiritual food for the mind\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"this movie is such a good movie and i was pleased with it\"",
+        "\"this is a delightful movie and it has adventures and suspense for the whole family to enjoy\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I enjoy this actor\"",
+        "\"i really like jane eyre and this is such a lovely older movie\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"this movie has lessons on the way we treat others and how they are humans with feelings\"",
+        "\"this is a delightful movie and my grandchildren love to watch this, this is entertainment for the whole family thanks\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"this movie is a good movie and it teaches people to love and forgive\"",
+        "\"this was bought for a loved and they enjoyed watching it. with their family. good spiritual food for the mind\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly, clean, and wholesome movies, often with moral lessons. They enjoy simple narratives with a slow pacing that evoke emotional resonance, indicating a preference for content that is both entertaining and meaningful."
+}

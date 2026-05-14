@@ -1,0 +1,73 @@
+{
+  "user_id": "AG3NEONCJH3X7RQUQY3KEMOS6ZXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical",
+      "evidence": [
+        "Abraham Lincoln is one of my favorite historical characters.",
+        "The Elizabethan period is one of my favorites."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great",
+        "Wonderful"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "riveting",
+        "so funny"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "You always provide excellent service and quality.",
+        "Service and quality are absolutely great!!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "This is a great movie that gives a new and probably more realistic portrayal of the outlaw Jesse James."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I really enjoyed it.",
+        "Everything was as promised."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for historical genres, particularly enjoying films set in the Elizabethan period and about figures like Abraham Lincoln. They value high production quality and tend to favor fast-paced, engaging narratives that evoke strong emotional responses."
+}

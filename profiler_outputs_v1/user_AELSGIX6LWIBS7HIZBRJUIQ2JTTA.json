@@ -1,0 +1,77 @@
+{
+  "user_id": "AELSGIX6LWIBS7HIZBRJUIQ2JTTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action, comedy",
+      "evidence": [
+        "\"It was fun to watch Colin Firth as a deadly action hero.\"",
+        "\"A sad movie with amazing performances.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The script is silly. The directing is chaotic.\"",
+        "\"The various heroic activities that took place outside the plane... were simply too ludicrous.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Perhaps, good for a rainy day if you want to have chips and beer while using no part of your brain.\"",
+        "\"I gave up with thirty minutes to go.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The special effects could never have been called 'special'; they were simply awful.\"",
+        "\"A good cast that was wasted on a bad script, bad directing, or all of the above.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I don't know if it's a Hallmark movie but it has the feel of a Hallmark movie.\"",
+        "\"I have watched several times to see if I could understand it.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"The actors/actresses did a good job with what they had to work.\"",
+        "\"I can understand why some would find the musical score distracting.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"There's nothing offensive are of the sort to get us stirred up emotionally.\"",
+        "\"Watched it all; wish I hadn't. No redeeming characters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for simple narratives with a focus on drama and action, but they are highly critical of production quality. They tend to enjoy light-hearted content but express dissatisfaction with emotional engagement and pacing, often finding films lacking in substance."
+}

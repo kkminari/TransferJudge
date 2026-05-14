@@ -1,0 +1,77 @@
+{
+  "user_id": "AG6MKX2GW66D2JJCGXOS7HNDOJEA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"It's Super depressing. Bad after Bad after Bad.\"",
+        "\"What a fun show!!!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It does not keep up with time lines or people.\"",
+        "\"It was a move!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"If it would not rush the sad and grow slower this could be great.\"",
+        "\"It's Super depressing. Bad after Bad after Bad.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good Move.\"",
+        "\"Fast shipping and fun to work with. It was cool to see Ducky from NCIS young!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Next to Firefly this is one of the best shows out there.\"",
+        "\"I have all of them and just love them all!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"Fast shipping! Great to work with!! This is a fun movie.\"",
+        "\"Fast shipping and great to work with!!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"It's Super depressing. Bad after Bad after Bad.\"",
+        "\"The boy is happy now! Thank you!!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a mixed preference for drama and comedy, with a notable sensitivity to pacing, favoring slower narratives. They express a low sensitivity to production quality and emotional resonance, indicating a focus on entertainment rather than deep engagement."
+}

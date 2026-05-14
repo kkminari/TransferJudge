@@ -1,0 +1,77 @@
+{
+  "user_id": "AHVOT6DGXCJK6NVLMAINYP2JZS3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's animation",
+      "evidence": [
+        "My daughter loves mermaids and loves this show.",
+        "Daughter loves Care Bears."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Simple and entertaining.",
+        "No complaints and worth the purchase."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Not as flashy as others but holds her attention.",
+        "It is okay. My daughter still loves the Princess and the Pauper best of all the Barbie movies."
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Video quality is excellent.",
+        "Looks fabulous on the mini iPad."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Daughter loves this video. We've had no problems with it at all.",
+        "My daughter loves the Care Bears."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic sensory",
+      "evidence": [
+        "Great viewing and animation especially for my 4yo.",
+        "Clear video."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Daughter loves this video. We've had no problems with it at all.",
+        "A classic that still teaches valuable lessons."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for children's animated shows, particularly those that are simple and engaging for young viewers. They value high production quality and emotional resonance in the content, indicating a focus on safe and educational entertainment for their child."
+}

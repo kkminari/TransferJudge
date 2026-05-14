@@ -1,0 +1,77 @@
+{
+  "user_id": "AGFM5VWLENZH4DBUUGH2J3L3PVUA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, documentary, historical, fantasy",
+      "evidence": [
+        "\"I've been a Trekkie since the its beginning.\"",
+        "\"This series is doing a better job of fitting together and answering the questions suggested by the Ring Trilogy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's not as free moving as his other documentaries, but well worth the price.\"",
+        "\"It almost seems like the writer were putting it together chapter by chapter.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This is all Michael Moore. It's not as free moving as his other documentaries, but well worth the price.\"",
+        "\"This season also has to have a 'Baltar' character to muddy otherwise good story line.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The discs were well mastered and each has extra features that explain some of the historical background and stage info that was involved in the making of these films.\"",
+        "\"This copy has the full movie, not the broadcast edit and also has a real life documentary of the film featuring the real Rudy.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Cameron's coming out with three more sequels and I'm looking forward to seeing them.\"",
+        "\"I was watching the old movies and saw the trailer for this tape.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The graphics are great with really good sound.\"",
+        "\"Great filming; exciting footage\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I just watched Avatar again and am already wanting to see it again.\"",
+        "\"It was great seeing the old cast relive their work on the Star Trek set and equally great seeing Leonard Nimoy since his recent death.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and fantasy genres, particularly enjoying series like Star Trek and Doctor Who. They value high production quality and visual spectacle, while showing a tendency towards slower-paced narratives that evoke emotional resonance."
+}

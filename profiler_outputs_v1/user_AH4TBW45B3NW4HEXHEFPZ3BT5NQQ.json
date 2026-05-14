@@ -1,0 +1,77 @@
+{
+  "user_id": "AH4TBW45B3NW4HEXHEFPZ3BT5NQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "anime, isekai, classic cartoons",
+      "evidence": [
+        "\"I enjoy watching a Good or Funny (plus Action battle like) Isekai story.\"",
+        "\"this anime was made for Adults, and I'm in my 60ths.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the other SAO, where Nobody die if U play the Game.\"",
+        "\"this anime was made for Adults, and I'm in my 60ths.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I enjoy watching a Good or Funny (plus Action battle like) Isekai story.\"",
+        "\"this make me laugh...!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Yes I made the mistake of Buying a Blu-ray without Reading the Information.\"",
+        "\"the sound track was to low on the DVD\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Toho",
+      "evidence": [
+        "\"this is by the same folks who gave us the movies of 'Godzilla', 'Rodan', 'King Kong escape' and *'the Thing'\"",
+        "\"before Ultraman, there was Ultra Q.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"this anime was made for Adults, and I'm in my 60ths.\"",
+        "\"before Ultraman, there was Ultra Q.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"this make me laugh...!\"",
+        "\"please note: I can't spell to save your life.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for anime, particularly isekai stories, and enjoys fast-paced narratives that evoke laughter and fun. They show some brand loyalty to Toho and have a low sensitivity to production quality, focusing more on entertainment value."
+}

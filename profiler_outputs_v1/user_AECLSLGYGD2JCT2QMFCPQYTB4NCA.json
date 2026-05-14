@@ -1,0 +1,77 @@
+{
+  "user_id": "AECLSLGYGD2JCT2QMFCPQYTB4NCA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, war, drama",
+      "evidence": [
+        "\"This is one of the best horror films ever made.\"",
+        "\"Probably the best WW2 film ever made\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the amount of meaningless conversation and horrible droning foreboding background music have made this my goto film to fall asleep to.\"",
+        "\"Not good.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"OMG what a slow SLOW story.\"",
+        "\"the amount of meaningless conversation and horrible droning foreboding background music have made this my goto film to fall asleep to.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"You can tell they put time and love in it.\"",
+        "\"Really well done, produced and acted.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I feel bad for Anthony Perkins, hosting such fluff\"",
+        "\"I was really impressed with this film.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric music",
+      "evidence": [
+        "\"This is a great series!\"",
+        "\"Not a big fan of Horror but this is definitely the exception.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I think one of the reasons I adore it so much is the intelligence and depth with which it was made.\"",
+        "\"My wife had never seen this movie before and needless to say she will never forget her experience watching this movie either lol.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for horror and war genres, appreciating well-produced films with emotional depth. They tend to dislike slow-paced narratives and have mixed feelings about brand loyalty, indicating a focus on quality storytelling over specific creators."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFICAGRTZ35NNISHRFM7RKCJMCDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, classic, comedy",
+      "evidence": [
+        "\"This is a classic sci-fi movie. One of the best. AAA+\"",
+        "\"Black Adder is one of the best British comedies\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Classic!\"",
+        "\"Great set. Required.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I have had the set in vhs for years and have waited for it to come out on dvd.\"",
+        "\"It's really great to see these once missing episodes.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Important set. Required.\"",
+        "\"Now I can watch it on my hd tv.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Dr. Who, Black Adder",
+      "evidence": [
+        "\"I am in the process of collecting all of the early Dr. Who stories.\"",
+        "\"This is one of the best British Comedies out there\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It's really great to see these once missing episodes.\"",
+        "\"Now I can watch it on my hd tv.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Classic!\"",
+        "\"Great remake.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic sci-fi and British comedies, showing loyalty to series like Dr. Who and Black Adder. They appreciate high production quality but tend to favor simple narratives and have mixed feelings about pacing."
+}

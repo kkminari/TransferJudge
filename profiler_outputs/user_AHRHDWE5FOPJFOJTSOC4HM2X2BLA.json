@@ -1,0 +1,77 @@
+{
+  "user_id": "AHRHDWE5FOPJFOJTSOC4HM2X2BLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, romance, comedy",
+      "evidence": [
+        "Love historically based movies!",
+        "Sweet love story about a girl's love of her country and her man"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The story was pretty good but not great.",
+        "Good but not great. It was pretty funny."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "I like to be entertained.",
+        "This movie is absolutely amazing."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Cate Blanchett did a great job with presenting the quirky character.",
+        "DeNiro and Hathaway are fantastic"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "I'm a Russel Crowe fan",
+        "I love Rebel Wilson"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "you cry, you laugh and you shout for joy at her successes.",
+        "This movie says so much about the treatment of human beings"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "you cry, you laugh and you shout for joy at her successes.",
+        "it's a feel good movie."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys historical and romantic films, often appreciating strong performances and engaging stories. They prefer fast-paced narratives that evoke strong emotional responses, indicating a taste for feel-good and entertaining content."
+}

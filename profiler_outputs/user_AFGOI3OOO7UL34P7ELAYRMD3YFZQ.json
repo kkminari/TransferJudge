@@ -1,0 +1,77 @@
+{
+  "user_id": "AFGOI3OOO7UL34P7ELAYRMD3YFZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "opera, classical music",
+      "evidence": [
+        "\"I thoroughly recommend this opera Maria Stuarda.\"",
+        "\"I can recommend this bluray.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The idea behind this Ring was what I was looking for.\"",
+        "\"Dorst writes for the stage and has often directed his own plays.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The tempo's are quick. He plays with emotion and passion where required.\"",
+        "\"Conducted quickly and passionately by Carlo Rizzi.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The staging is traditional, with orange walls, which has a green tree, and deep blue sky matching the tonal value of the orange.\"",
+        "\"The bluray is amazing, probably one of my best.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to specific conductors and performers",
+      "evidence": [
+        "\"Barenboim at his best\"",
+        "\"Jurowski and Grimaud a heavenly duo\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic sensory",
+      "evidence": [
+        "\"Beauty is such a fragile flower. For on knowing it, we have touched a forgotten part of ourselves, a peace beyond this realm.\"",
+        "\"The scenery and the colours are the best, very sophisticated.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I sat and wept. Never since du Pre have I been so touched by this piece.\"",
+        "\"This divine movement. May you enjoy this sublime Bluray as I have.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for opera and classical music, particularly valuing high-quality productions and emotional depth in performances. They appreciate complex narratives and fast pacing, often highlighting the work of specific conductors and performers they admire."
+}

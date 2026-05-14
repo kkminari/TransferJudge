@@ -1,0 +1,77 @@
+{
+  "user_id": "AE42YXAXNVXAYWRD5OZXIOU7JQRQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama, comedy, action, thriller",
+      "evidence": [
+        "\"Into The Wind\" puts you in the pilot's seat... taking you on a spiritually calming, yet thrilling white-knuckle ride.",
+        "I dig Steve Martin from back in the days of \"The Jerk\", \"Planes Trains & Automobiles\", \"Parenthood\" and \"Dirty Rotten Scoundrels\"..."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The movie starts off slowly. Establishing the characters is a must... and Eastwood knows his trade.",
+        "The story is all dialogue (and it's none of that trademark witty Coen dialogue we've come to love and expect)."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Slow, boring and again disappointing.",
+        "How long can we sit and watch the main character drive his car, sit on the sofa, read his mail, stare out the window (without dialogue or any background music)?"
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The cinematography, the music, the learn-to approach... the entire journey is an A+ effort.",
+        "The film is shot in beautiful anamorphic widescreen accompanied with 5.1 digital sound."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "I really had to scratch my head with his \"Lost In Translation\" (2003).",
+        "I dig Steve Martin from back in the days of \"The Jerk\", \"Planes Trains & Automobiles\"..."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "The special effects were awesome. The huge waves coming into NYC looked incredible.",
+        "The cinematography is grand."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "The story starts off with Maggie wandering into the gym, trying to work out, looking to be trained.",
+        "The film conveys the message that 'anyone' with a sense of adventure can take to the sky."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys documentaries and dramas with high production quality, but shows a strong preference for simple narratives and slow pacing. They have mixed feelings about brand loyalty, indicating a nuanced appreciation for certain actors and directors, while also valuing emotional resonance in their viewing experiences."
+}

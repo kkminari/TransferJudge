@@ -1,0 +1,77 @@
+{
+  "user_id": "AF3TBTPDKDA22LKSDAU7AIUKLZUA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, fantasy, classic, comedy",
+      "evidence": [
+        "\"The Color Purple has to be one of the most emotional movies I have ever seen.\"",
+        "\"This movie is a lot a like to Romy and Michelle's high school reunion, but it has it's own ideas and history.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The story that evolves in the events that transform a small African country in the mid-90's...\"",
+        "\"The plot of Mean Girls is just a great way to exemplify the little world of teenage girls in High School.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"This movie is great and has a lot of material that is real and shows how can you get up after a very berrie hurtful relationship.\"",
+        "\"Although there's a problem, 'Mean Girls' is not far to be a TEENAGE MOVIE... so many clichés...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The craft use by all the crew and actors is palpable and objective, a great movie for anyone who wants to learn what it is to act and do Hollywood.\"",
+        "\"This movie really gets the melancoly of xmas, the portrait of the king of Halloween tryin' to steal xmas, and make it scary it's just hilarious, and the movie art becomes a masterpiece.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Directed by Cuarón (The Little Princess) the vistosity of the movie is higher and the euro feelin' is more established...\"",
+        "\"Can Tim Burton be more creative and bright than this!, he's the man!...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The story is known, two sisters battle for the fame and fortune of the entertainment business, both succeed in their own time...\"",
+        "\"This movie takes you to a different world and the portrait of this story in cinema is so well done you end up believing that somehow, this place exist.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This pure film art. Mr. Spielberg understand the human intimate emotions, and this movie really reaches to your every sense.\"",
+        "\"Aaaahhhhhh, yes that's the perfect mock for a movie so touchy.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for emotional and dramatic narratives, particularly those that explore complex themes and character dynamics. They appreciate high production quality and sensory experiences in film, often favoring classic and fantasy genres."
+}

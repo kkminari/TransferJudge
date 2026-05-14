@@ -1,0 +1,77 @@
+{
+  "user_id": "AHKH5A5JOAHI7E3FDTXDUHKKRAWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, sci-fi, fantasy",
+      "evidence": [
+        "\"Derek isn't like other shows. Other shows master in drama or comedy and often attempt to mix the two, but none do it to the level of perfection that Derek does.\"",
+        "\"The level of quality this show maintains is spectacular.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"It seems like most of the outcry is that it isn't biblical accurate, but it never claims to be an historical reenactment.\"",
+        "\"The story was done very well, and Ryan Reynolds does surprisingly well.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I just didn't like all the unanswered questions. His family, where he really was, who put him there.\"",
+        "\"I want to like this one, but its off in too many ways.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting was spectacular. They played their parts well; it was like I was watching a few real teenagers goofing around.\"",
+        "\"The level of quality this show maintains is spectacular.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "mixed",
+      "evidence": [
+        "\"I think the actor who plays Ash is a good actor. He is great in Misfits and in Game of Thrones, but I think he isn't as skilled in the sitcom setting.\"",
+        "\"I can't say I spend all my time around GOT. However, GOT is the best show I have ever seen.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The presentation, the writing, the score, EVERYTHING!\"",
+        "\"The locations engulf you into the world of GOT, and leave you begging for more.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It really makes you appreciate your own family, or at least it did for me.\"",
+        "\"It's a story of a family holding on by a thread, and it grows thinner every second only to break in the end.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and drama, appreciating high-quality production and emotional depth in storytelling. They enjoy unique narratives and sensory experiences, though their views on pacing and narrative complexity are mixed."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFWQTO44QOEFRASYXN7W55X4EMLQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, horror, comedy",
+      "evidence": [
+        "\"Doctor Who was one of the greatest science fiction/fantasy franchises for decades before being hijacked by political ideologues...\"",
+        "\"The original Wrong Turn movies were goofy horror fun. This is not that. Not at all.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"...the writing is weak and the show is truly unrecognizable as a version of Doctor Who.\"",
+        "\"It has a great story with interesting, well written characters and a cool story that shows love for the original.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"...the characters speak in political ideology from the extreme left side and make everyone else out to be far right wack jobs. Not fun to watch...\"",
+        "\"...the show has had fans for 55 years. I've been a fan since I was 5 years old...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...the writing is weak and the show is truly unrecognizable as a version of Doctor Who.\"",
+        "\"...the camera work and directing are top notch and the actors do a fine job.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"...the current regime at the BBC and staff of Doctor Who have caused the show to lose fans in droves.\"",
+        "\"...the original Wrong Turn movies were goofy horror fun. This is not that.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"...the camera work and directing are top notch and the actors do a fine job.\"",
+        "\"...the show has had fans for 55 years. I've been a fan since I was 5 years old...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Don't waste your money on this garbage. There are years and years worth of quality science fiction shows, movies and books out there just waiting to be discovered...\"",
+        "\"...the writing is weak and the show is truly unrecognizable as a version of Doctor Who.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong aversion to politically charged narratives in genres like sci-fi and horror, often expressing disappointment in recent iterations of beloved franchises. They appreciate quality production but seem to prefer straightforward storytelling over complex narratives, indicating a preference for fast-paced entertainment."
+}

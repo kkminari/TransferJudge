@@ -1,0 +1,77 @@
+{
+  "user_id": "AHQGLA5TOBHNUBUZRT5LKTN6YIEA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, crime, family",
+      "evidence": [
+        "\"It's still one of the best crime, detective series, ever.\"",
+        "\"This is such a fun, family movie to watch.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Three separate stories cleverly interwoven.\"",
+        "\"At times, a little hard to follow, but patience leads you to the real heart of this story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Pace is slow, but helps to define the characters...\"",
+        "\"the direction was unbearably slow paced.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Acting is perfect by each character.\"",
+        "\"Exquisite scenery, acting and story line.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "No strong loyalty to specific actors or directors."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"You feel their limitations becoming unbearable until she decides it must end.\"",
+        "\"Created such a strong sense of place, I almost felt I was in the rooms with Holmes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Incredibly intense as you enter this artists' personal and creative world.\"",
+        "\"You feel their limitations becoming unbearable until she decides it must end.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex narratives, particularly in the drama and crime genres, and appreciates high production quality. They have a strong preference for emotional resonance in storytelling, though their pacing preference is mixed, indicating they can appreciate both slow and fast-paced narratives depending on execution."
+}

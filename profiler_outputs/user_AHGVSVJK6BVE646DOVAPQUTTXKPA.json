@@ -1,0 +1,73 @@
+{
+  "user_id": "AHGVSVJK6BVE646DOVAPQUTTXKPA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's shows, family movies",
+      "evidence": [
+        "\"Great show for little ones\"",
+        "\"Really nice family movie!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Such a great kids show\"",
+        "\"Adorable movie!!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This movie is so funny. Glad I found it. Good price.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good price!\"",
+        "\"Great price!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Love this show for the little ones\"",
+        "\"Such a cute movie!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"She loves this show and so do I.\"",
+        "\"Great show. Glad we found this season\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for children's shows and family movies, often expressing joy and satisfaction with their choices. They favor simple narratives and fast pacing, valuing emotional resonance over production quality."
+}

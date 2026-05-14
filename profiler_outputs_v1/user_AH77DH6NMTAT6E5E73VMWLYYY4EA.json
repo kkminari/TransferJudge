@@ -1,0 +1,77 @@
+{
+  "user_id": "AH77DH6NMTAT6E5E73VMWLYYY4EA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, historical, comedy",
+      "evidence": [
+        "\"One of the best doc's Ken Burns has done!\"",
+        "\"I'm a big Ronald Colman fan and this movie is him at his best.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"This film goes deeper into the person who was U.S. Grant than most any other I've seen.\"",
+        "\"The histories and presentations of some of the older cemeteries are really interesting and informative.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The story is entertaining and fast paced.\"",
+        "\"These programs are so fun to watch.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The casting is perfect and the viewing quality of the DVD is top notch.\"",
+        "\"The extent of research done on this doc really shows.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Ken Burns, Rick Sebak, Ronald Colman",
+      "evidence": [
+        "\"Anything Rick Sebak does is o.k. with me!\"",
+        "\"As usual a sterling achievement by one of the best documentary filmmakers of our time.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual storytelling, immersive experiences",
+      "evidence": [
+        "\"It makes you want to find an adventure of your own.\"",
+        "\"There truly is a presence in that place.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Brings back lots of good memories...\"",
+        "\"We visited the Battlefield two years ago and were deeply moved.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for documentaries, particularly those that are historical in nature. They appreciate complex narratives and high production quality, often highlighting their emotional impact and the immersive experiences these films provide."
+}

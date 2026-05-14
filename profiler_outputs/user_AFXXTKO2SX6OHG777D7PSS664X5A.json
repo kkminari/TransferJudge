@@ -1,0 +1,74 @@
+{
+  "user_id": "AFXXTKO2SX6OHG777D7PSS664X5A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, animation",
+      "evidence": [
+        "granddaughter just loves this movie - in 2 days she watched it 5 times",
+        "funny cartoons - grandkids love it"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "good movie",
+        "cute movie - grandkids just love it"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "grandkids just watch this movie over and over",
+        "grandson watches over and over"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "great movie",
+        "good movie for the grandson"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "great music",
+        "granddaughter just loves the music"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "grandkids love it",
+        "grandson loved it"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly and animated movies that are simple in narrative complexity. They value emotional engagement and enjoy music, indicating a taste for uplifting and enjoyable experiences."
+}

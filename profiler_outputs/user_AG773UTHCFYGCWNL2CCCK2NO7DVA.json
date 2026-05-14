@@ -1,0 +1,77 @@
+{
+  "user_id": "AG773UTHCFYGCWNL2CCCK2NO7DVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "anime, drama, romance, action, sci-fi",
+      "evidence": [
+        "\"Kakushigoto is a fun series... a simple, mostly funny story about family dedication and manga production.\"",
+        "\"The quintessential high school comedy/drama/romance anime every weeb must see.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's a simple, mostly funny story...\"",
+        "\"Mardock Scramble fall short in delivery... character development is lacking.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"At times its brilliant, at times its annoying but it keeps you coming back to see what happens next.\"",
+        "\"Filled with kiddy fluff, the story gets off track and never really resolves.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The animation is very good as is the premise but it suffers from a few overdone scenes...\"",
+        "\"The hand work part of the animation and backgrounds are quite good and at time striking...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If you like My Hero Academia and Full Metal Alchemist Brotherhood, try this one.\"",
+        "\"Weathering with You is from the writer/creator of Your Name...\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The artwork is impressive, the characters develop into noble antagonists and you will shed a tear.\"",
+        "\"The animation and artwork are striking along with its action sequences graphic violence.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Keep a box of tissues nearby at the end.\"",
+        "\"If the goal of art is to affect the viewer and leave them with an impression, this does that as much as any classic literature does.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of anime genres, particularly drama, romance, and action, with a preference for simpler narratives that evoke emotional responses. They appreciate good animation quality but are not overly concerned with production polish, indicating a balanced taste in storytelling and visual artistry."
+}

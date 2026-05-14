@@ -1,0 +1,77 @@
+{
+  "user_id": "AFDM6TNCSETQ2LGR2NNHJGFLXDTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action, historical",
+      "evidence": [
+        "\"drama & action in almost every episode.\"",
+        "\"the epitome of historical re-creation. kudos.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"some episodes are concise, accurate, educational, entertaining.\"",
+        "\"the story line and acting suck. but there are some good episodes.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"white knuckling terror as the french swat team storms the plane...\"",
+        "\"thrills, chills, bravery, professionals excelling in adversity.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"very comprehensive and detailed true crime stories.\"",
+        "\"this is the most accurate recreation of actual warfare I've ever seen...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"mick jagger's best movie. andy garcia is always good.\"",
+        "\"the 4 finest actors star together...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"stunning, gorgeous.\"",
+        "\"the language as actually spoken in the late 1800's.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"so sad\"",
+        "\"everybody falls back & regroups.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and action genres, particularly those with historical elements. They prefer fast-paced narratives with high production quality and emotional impact, although they show low loyalty to specific creators."
+}

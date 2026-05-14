@@ -1,0 +1,77 @@
+{
+  "user_id": "AFPEMKBLV2THEZ5ZIKBT5SA7WNHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romantic comedy, psychological thriller, drama",
+      "evidence": [
+        "\"I love Julia Stiles, and I loved the happily ever after on her own terms.\"",
+        "\"For psychological horror/thriller, this was actually really good.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The storyline was outrageous and unbelievable, the acting was bad, and there was no Julia Stiles.\"",
+        "\"It's kind of strange, but you don't really figure out what's going on until about the end, which is good.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"This is a slow movie so if you're not completely focused, it will lose you about 1/4 of the way in.\"",
+        "\"For psychological horror/thriller, this was actually really good.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The actors did a great job of sucking you into their unorthodox lives and making you cringe or laugh out loud.\"",
+        "\"Angelina is the only person I could have seen playing the role of Gia.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I love Julia Stiles, and I loved the happily ever after on her own terms.\"",
+        "\"Angelina is the only person I could have seen playing the role of Gia.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This movie made me want to write poetry again. Made me believe. And hope.\"",
+        "\"It's beautiful, sensual, tragic and pure...even amid such treacherous betrayal.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It's a journey into how autistic brains experience the world around them, and the cruelty of people with neurotypical brains.\"",
+        "\"This movie made me want to write poetry again. Made me believe. And hope.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys romantic comedies and psychological thrillers, often appreciating strong performances and emotional depth in storytelling. They have a mixed response to narrative complexity and pacing, indicating a preference for engaging plots that evoke strong feelings."
+}

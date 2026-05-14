@@ -1,0 +1,87 @@
+{
+  "user_id": "AEGTMCDYE4YLEDU23P7VHI2CGCJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "opera, drama",
+      "evidence": [
+        "\"I think the other reviewer... gave an excellent review. Although this is a magnificent work...\"",
+        "\"Mozart is the real winner here. Many consider DG the finest opera ever written; I cannot make a good argument against that belief.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Mozart uses many comedic devises to point out many serious shortcomings in 18th century society.\"",
+        "\"The story is sort of complex, off the wall. Think of a 'Class B' 'Lucia'...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The conducting, orchestral playing and the singing are all one could expect from all of the principals.\"",
+        "\"The story is pretty thin and tawdry and the music sounds like Puccini, but has perhaps two or three really good arias.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The sound and videography were also excellent;\"",
+        "\"The audio is 1990 non dts High Def or 5.1 surround and the video is a little grainy non Blu Ray.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I purchased the Barenboim- La Scala set as the reviews seemed to be pretty good...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, immersive experience",
+      "evidence": [
+        "\"The stage direction, camera work, lighting scenery, costumes and videography, audio are all first rate.\"",
+        "\"The video and lighting effects were very effective adding to the fantasy of the opera.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Emotionally Riveting!\"",
+        "\"The final scene's intensity will make the hairs on the back of your neck stand up.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "production_quality",
+      "value": "high",
+      "evidence": [
+        "\"The quality of the productions which took place between 2010 and 2013 were pretty consistent but with some inconsistencies in some roles.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user has a strong preference for opera and complex narratives, appreciating high production quality and immersive sensory experiences. They value emotional resonance in performances, indicating a deep engagement with the material."
+}

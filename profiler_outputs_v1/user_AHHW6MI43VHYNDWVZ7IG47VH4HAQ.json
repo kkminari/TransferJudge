@@ -1,0 +1,77 @@
+{
+  "user_id": "AHHW6MI43VHYNDWVZ7IG47VH4HAQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, animation, family, drama",
+      "evidence": [
+        "\"I love 'Lord of the Rings', I love unicorns and dragons and magical amulets...\"",
+        "\"I simply adore 'Jesus, the Son of God'.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's cool to see Janine and Alex try to live each other's lives...\"",
+        "\"The animation is great, the music is absolutely superb...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This movie was so stupid, so downright lame, it nearly made me gag...\"",
+        "\"The movie itself is simply too long and way, way too scary and emotional...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The animation is beautiful, and the music is superb...\"",
+        "\"The animation is superior, the acting is stunning, and the music is powerful...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Disney, J.R.R. Tolkien",
+      "evidence": [
+        "\"The people at Disney sure made one heck of a family film...\"",
+        "\"I very highly recommend this DVD to anyone who's a fan of J.R.R. Tolkien...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, music",
+      "evidence": [
+        "\"The visual effects are dynamite, the music is excellent...\"",
+        "\"The animation is brilliant, the music is flawless...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie is just so beautiful...\"",
+        "\"Anyone who is not affected by this scene would have to have a heart of stone...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy and animated family films, particularly those with high production quality and emotional depth. They enjoy simple narratives that evoke strong feelings, while showing a notable loyalty to Disney and J.R.R. Tolkien's works."
+}

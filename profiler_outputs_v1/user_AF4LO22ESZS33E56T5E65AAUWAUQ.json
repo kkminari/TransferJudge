@@ -1,0 +1,77 @@
+{
+  "user_id": "AF4LO22ESZS33E56T5E65AAUWAUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family",
+      "evidence": [
+        "\"funny movie, I liked the first one better.\"",
+        "\"great movie the kids really enjoyed it!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"No real dialogue. Tons of fight scenes that were insanely unrealistic.\"",
+        "\"Kids loved this movie. Very good\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Tons of fight scenes that were insanely unrealistic.\"",
+        "\"funny classic bill murray!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"No real dialogue. Tons of fight scenes that were insanely unrealistic.\"",
+        "\"A very good family move. Our little ones loved it\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Monkey nailed his role as usual\"",
+        "\"classic funny good ol sponeBob\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Tons of fight scenes that were insanely unrealistic.\"",
+        "\"Kids loved this movie. Very good\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Corny show not bad girl movie though\"",
+        "\"liked the first one better\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly comedies, often favoring humor and fast pacing. They show a preference for simple narratives and are less concerned with production quality, indicating a focus on entertainment value."
+}

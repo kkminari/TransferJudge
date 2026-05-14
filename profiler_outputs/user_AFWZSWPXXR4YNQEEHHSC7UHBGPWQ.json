@@ -1,0 +1,76 @@
+{
+  "user_id": "AFWZSWPXXR4YNQEEHHSC7UHBGPWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama, history",
+      "evidence": [
+        "\"this is by far the best history series that was ever produced\"",
+        "\"I so loved this documentary as I have all of his other ones.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"it is full of so many ups and downs for this wonderful women\"",
+        "\"They always had me guessing who did it?\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"this is a must for those who have children.\"",
+        "\"I really enjoyed this movie, it is full of so many ups and downs\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the acting was very good too\"",
+        "\"the acting was really good, would recommend it to others.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Ken Burns",
+      "evidence": [
+        "\"Ken Burns does it again and again, he is the best ever\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"it gives hope to others not to give up\"",
+        "\"had me sitting on the edge of my couch\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It gives hope to others not to give up\"",
+        "\"this movie had me on the edge all through it\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for documentaries and historical dramas, often appreciating the quality of acting and storytelling. They enjoy narratives that are emotionally resonant and provide hope, while showing loyalty to creators like Ken Burns."
+}

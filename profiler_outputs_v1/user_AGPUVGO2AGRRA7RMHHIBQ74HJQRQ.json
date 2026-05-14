@@ -1,0 +1,89 @@
+{
+  "user_id": "AGPUVGO2AGRRA7RMHHIBQ74HJQRQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, sci-fi, fantasy, drama",
+      "evidence": [
+        "If you love GoT, then you need to watch Black Sails!",
+        "Great paced with plenty of action, comedy and even a little romance."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "Great characters with interwoven storylines!",
+        "The Plot is disjointed, and the relationships are forced in some ways."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Great paced with plenty of action, comedy and even a little romance.",
+        "The film has an 'R' rating, and it truly is a hard R - meaning it is packed full of violence, strong language, and some nudity."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "Acting is fine, but I'm not thrilled about The Tick's suit (too much texture?)",
+        "It's too bad this doesn't have better writing."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "If you are a Star Wars fan like me, then this is a no-brainer.",
+        "I love Arrow! This is the show that made it possible for CW to have 4 DC franchise titles."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "Great performances, poor story and plots.",
+        "The film itself is pretty good. Vin does what Vin does best - being a mostly silent bad-ass throughout most of the film."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "Lots of great twists in this season, as well as various drama to get your heart wrenched.",
+        "What a great short musical film!!!"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "high",
+      "evidence": [
+        "Deadpool is NOT for kids. Don't even think about it. The film has an 'R' rating, and it truly is a hard R - meaning it is packed full of violence, strong language, and some nudity.",
+        "It's funny-as-hell!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys action-packed and character-driven narratives, particularly in the sci-fi and fantasy genres. They show a preference for fast pacing and have a strong loyalty to popular franchises, while also appreciating humor and sensory experiences in their viewing choices."
+}

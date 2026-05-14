@@ -1,0 +1,77 @@
+{
+  "user_id": "AGB7ALW6UGQ3HMACBTDPK72H45QQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "period drama",
+      "evidence": [
+        "Just wonderful period piece. 4 episodes depicting the broke upper crust and arranged marriages to gain money in order to keep status quo.",
+        "Great story of two class systems. The little poverty stricken hamlet and the well to do town."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great story telling. A small hamlet and a well to do town co-exist and cope with English Victorian life.",
+        "Nice little story of redemption after a life of wasted non effort"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Great story telling. A small hamlet and a well to do town co-exist and cope with English Victorian life.",
+        "Just wonderful period piece."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Brilliant writing and a great cast!",
+        "Great 60's period piece. Well written and acted with a good story line."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for specific actors",
+      "evidence": [
+        "Love Nighy in everything he does",
+        "loved Alicia"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Dark, but good",
+        "suspensful"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Nice little story of redemption after a life of wasted non effort",
+        "just like the books"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for period dramas, particularly those with well-written narratives and high production quality. They appreciate character-driven stories with emotional depth and have a fondness for specific actors, indicating a loyalty to their performances."
+}

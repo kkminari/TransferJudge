@@ -1,0 +1,77 @@
+{
+  "user_id": "AGVEL72AXRMXRCAHEJ46BLC2M5DA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, romance",
+      "evidence": [
+        "\"This is really a great movie... the story and script are well written and intelligent... If you liked Solaris or Vanilla Sky (with Tom Cruise) you will like this one.\"",
+        "\"Good for a movie night at home... it is an interesting spy movie with WWII history, intrigue, and romance.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Big disappointment. Movie does not come across as an intelligent film, not well scripted nor well made for the caliber of actors and complex subject matter.\"",
+        "\"I was disappointed. This could have been really good. Good actors... bad screenplay.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I was also expecting a big surprise in the end or a twist... it was missing something throughout.\"",
+        "\"This movie was poorly scripted, very predictable, and mostly boring.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Terrific movie... amazing cinematography and music, intelligent storyline.\"",
+        "\"Excellent special effects and actors!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I love Ray Bradbury stories. This movie is right on track with the book.\"",
+        "\"Love this side of Jim Carrey - very serious side, calm, with subtle, circumstantial humor.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The cinematography seems to reflect a graininess like weathered wood so that you feel like you are really back in time.\"",
+        "\"Soundtrack is good, love the Beck song.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"What a great movie! My 17 year old daughter and I both watched it together and she enjoyed it as much as I did.\"",
+        "\"This is really a great movie... it's the kind of movie to discuss afterwards and then watch again.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for sci-fi and drama genres, valuing high production quality and emotional resonance in films. They express mixed feelings about narrative complexity and pacing, indicating a desire for engaging storytelling that is well-crafted and visually appealing."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AHMJ23TEA37LCI5WZCGZAUFDFNOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "classics",
+      "evidence": [
+        "love the non violent violence off these old movies",
+        "great performance and addition for classics"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "great service and price"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "love the non violent violence off these old movies"
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "great performance and addition for classics",
+        "unbelievable collection"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Great Movies from the best"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "touches the heart",
+        "Happy to find this wonderful delight"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "touches the heart",
+        "such a treasure"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for classic films, particularly those that are non-violent and emotionally resonant. They value high production quality and enjoy simple narratives that evoke strong feelings."
+}

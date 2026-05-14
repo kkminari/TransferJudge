@@ -1,0 +1,77 @@
+{
+  "user_id": "AEVWHXWAOEJS62IHKLQYES7XMQZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "superhero, documentary, drama",
+      "evidence": [
+        "\"I have to put this in my top 3 Superhero films ever made.\"",
+        "\"This was a very well done and enlightening historical account...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"This is a complex story that is extremely well executed.\"",
+        "\"The story was executed... with great potential.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The only problem that I had with the movie is that it seemed to rush to a premature ending.\"",
+        "\"Every time I watch it I never notice the length.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The creators took care to keep this movie educational and entertaining.\"",
+        "\"The film received widespread critical acclaim at the time of its' release.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Zack Snyder, Marvel",
+      "evidence": [
+        "\"I love Zack Snyder's work... I liked 300. I loved Watchmen and Man of Steel.\"",
+        "\"I love Marvel movies.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, immersive experience",
+      "evidence": [
+        "\"It looks great. It looks really, really great.\"",
+        "\"The music score was fantastic... masterful in the way it drove the tone of the scenes in the film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I was thoroughly emotionally invested in the outcome and the ending surpassed my expectations.\"",
+        "\"This film is a gift to the public... I am moved is an incredible understatement.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for superhero films and documentaries, appreciating complex narratives and high production quality. They exhibit brand loyalty to creators like Zack Snyder and Marvel, and their reviews reflect a deep emotional engagement with the content they consume."
+}

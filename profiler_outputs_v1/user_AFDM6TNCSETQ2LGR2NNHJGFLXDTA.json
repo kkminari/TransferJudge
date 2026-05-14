@@ -1,0 +1,89 @@
+{
+  "user_id": "AFDM6TNCSETQ2LGR2NNHJGFLXDTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, romance",
+      "evidence": [
+        "action, drama, romance.",
+        "drama & action in almost every episode."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "some episodes are concise, accurate, educational, entertaining.",
+        "the story line and acting suck. but there are some good episodes."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "white knuckling terror as the french swat team storms the plane.",
+        "the airline shoot-out @ point blank range in france is intense!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "very comprehensive and detailed true crime stories.",
+        "this is the most accurate recreation of actual warfare."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "mick jagger's best movie. andy garcia is always good.",
+        "powers boothe, val kilmer, kurt russel, sam elliot, charlton heston."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "stunning, gorgeous.",
+        "the skill, the passion. awesome."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "drama, excitement, victims.",
+        "so sad"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "high",
+      "evidence": [
+        "funny how the 2 very best Halloween movies are both star johnny depp!",
+        "outstanding E R drama & comedy!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user enjoys action-packed dramas with elements of romance, often appreciating high production quality and sensory experiences. They have a strong emotional connection to the content, valuing humor and fast pacing in their viewing choices."
+}

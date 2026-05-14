@@ -1,0 +1,77 @@
+{
+  "user_id": "AHCBDPXWGAXKEIURBK3NEZJU2IKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy, drama",
+      "evidence": [
+        "Classic revenge film. Lots of violence and bad language... loved it ;-)",
+        "Great detective show. Love the actors."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It is the same schtick as Top Gear, so it is somewhat predictable, but still funny all the same.",
+        "This is a fun series, but it lacks any substance and becomes quickly predictable."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "This a great film. I loved both story lines and the way that they were blended together.",
+        "Great detective show. Love the actors."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Well acted, well written, well directed and very well shot! This is simply a great show",
+        "I know, I know. So many people love this show. Well, there is a reason… it is brilliantly done! The lighting, the casting, the costumes, oh my!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "one of my all time favorite John Cusack films.",
+        "I really love this show."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "The lighting, the casting, the costumes, oh my!",
+        "Well acted, well written, well directed and very well shot!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "One of the most inspirational films of all time.",
+        "This is just a brilliant series."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action, comedy, and drama genres, favoring fast-paced narratives with high production quality. They appreciate emotional resonance in films but show low loyalty to specific creators."
+}

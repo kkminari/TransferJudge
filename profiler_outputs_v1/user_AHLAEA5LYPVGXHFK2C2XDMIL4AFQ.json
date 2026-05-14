@@ -1,0 +1,77 @@
+{
+  "user_id": "AHLAEA5LYPVGXHFK2C2XDMIL4AFQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical drama, mystery, musical",
+      "evidence": [
+        "\"Fantastic British television series...just what you would expect.\"",
+        "\"Best ever depiction of Sherlock Holmes\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"...a storyline that twists when you least expect it and keeps you interested from the very first episode.\"",
+        "\"...has fantastic recreations from the books that show Sherlock's ingenuity and skill...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"...character development, a great cast, wonderful and extremely detailed sets...\"",
+        "\"...excellent acting. Stick with it is all I can say, it gets a little better.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...fantastic character development, a great cast, wonderful and extremely detailed sets...\"",
+        "\"...has fantastic recreations from the books that show Sherlock's ingenuity and skill...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Jeremy Brett, Downton Abbey",
+      "evidence": [
+        "\"...Jeremy Brett took his character and portrayal of Sherlock Holmes very well.\"",
+        "\"...I love to see some of the Downton Abbey actors, they are so good.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, immersive experience",
+      "evidence": [
+        "\"...was like being at a theater and watching a musical front row.\"",
+        "\"...great costumes, good quality actors and actresses.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...I felt like we were there with the actors.\"",
+        "\"...it encompasses religion in a fun and humorous way.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for historical dramas and mysteries, particularly those with rich character development and intricate storylines. They appreciate high production quality and emotional depth in their viewing experiences, often resonating with performances that evoke a sense of immersion and nostalgia."
+}

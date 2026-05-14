@@ -1,0 +1,100 @@
+{
+  "user_id": "AGEWPRC5THVC54W6EEDLR5WSM5AA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, comedy, thriller, fantasy",
+      "evidence": [
+        "I thought this was a great monster film",
+        "I believe most Fantasy lovers will enjoy this film."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "I believe that if this aspect of the film was removed we would have that incredible monster movie",
+        "There are many more dimensions to this film."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "the film makes fun of every part of the lives of musicians... fast-paced",
+        "the pace and timing of the film was superb."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the Coen Brothers and Roger Deakins do a superb job",
+        "the cinematography buffs you will have a field day."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Cameron Crowe, Coen Brothers, Spike Lee",
+      "evidence": [
+        "I am a film nut, currently watching a dozen director's films in the order that they were made.",
+        "I am going through all of Spike's films chronologically."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "visually stimulating; the mannerisms of the characters in the film are so natural and pleasing to the eyes",
+        "the dreamscapes are delectable and the end is beautiful."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Tommy Lee Jones haunting words at the end of this film echo in my mind, days later.",
+        "the film has the obvious twists and turns and really does not do anything new, however, because of the cast, the music, the direction, this film will surely bring to you that good-good feeling all over."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "clever, campy",
+      "evidence": [
+        "the film makes fun of every part of the lives of musicians... cleverly funny",
+        "the songs are hysterical."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    {
+      "name": "character_development",
+      "value": "high",
+      "evidence": [
+        "the main characters and their personalities are so well-developed",
+        "the characters that these two actors play are just fantastic Coen Brothers creations."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys a diverse range of genres, particularly sci-fi, drama, and comedy, with a strong appreciation for the works of directors like Cameron Crowe and the Coen Brothers. They value high production quality and character development, while also favoring fast-paced narratives that evoke strong emotional responses."
+}

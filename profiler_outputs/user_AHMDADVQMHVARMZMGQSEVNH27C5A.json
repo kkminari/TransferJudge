@@ -1,0 +1,75 @@
+{
+  "user_id": "AHMDADVQMHVARMZMGQSEVNH27C5A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, horror, comedy, action",
+      "evidence": [
+        "\"One of the best sci-fi films of all time.\"",
+        "\"Good horror movie. Brings back childhood memories.\"",
+        "\"Funny movie with plenty of laughs.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Boring.\"",
+        "\"Boring movie with a predictable outcome.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This movie never gets dull, always great fun to watch this.\"",
+        "\"Entertaining action film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Blu ray quality is excellent and the sound is superior as well.\"",
+        "\"Great movie....comes with Digital Copy code redemption through iTunes, Vudu or Amazon Instant Video.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Excellent movie, excellent blu ray quality....but, the sound varies from very high music to low whispered dialogue.\"",
+        "\"Great bluray product and my wife and son love Johnny Depp as the clever Jack Sparrow.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Okay movie, rather dull and sending a wrong message to fathers as well.\"",
+        "\"Boring.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for sci-fi, horror, and comedy genres, appreciating fast-paced narratives with high production quality. However, they express dissatisfaction with narrative complexity and emotional engagement, indicating a preference for straightforward storytelling."
+}

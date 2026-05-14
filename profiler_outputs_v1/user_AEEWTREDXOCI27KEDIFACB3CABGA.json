@@ -1,0 +1,77 @@
+{
+  "user_id": "AEEWTREDXOCI27KEDIFACB3CABGA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, mystery",
+      "evidence": [
+        "\"An interesting profile on one of the biggest drug lords of Colombia...\"",
+        "\"Excellent twist on the traditional Sherlock Holmes mysteries.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Plot is often difficult to follow, but you get used to it and actually start enjoying it.\"",
+        "\"Thoroughly enjoyed this program! It deals with questions that at one time or another flitted through my mind but I never asked about.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The subject matter is great but the movie itself is jumpy and confusing.\"",
+        "\"The story line is fast moving, believable and entertaining.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Totally refreshing to get another perspective than the 'pyramids are tombs' and the 'timeline is sacred'.\"",
+        "\"The casting is spot on! Benedict Cumberbatch IS the modern version of the great detective.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Personally, the three Harriet Vane mysteries are my favorites.\"",
+        "\"Simcha Jacobovici never disappoints.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The joy and tears of the performers, the gut wrenching anticipation...\"",
+        "\"An amazing feat of preservation of a body over 2000 years old.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"At that moment you love the world and everybody in it.\"",
+        "\"It is down-to-earth in its presentation and conclusions, solicits the opinions of many diverse people...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex documentaries and mysteries, often appreciating high production quality and emotional depth. They have a mixed preference for pacing and show some loyalty to specific creators, but overall, they value insightful and thought-provoking content."
+}

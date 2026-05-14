@@ -1,0 +1,89 @@
+{
+  "user_id": "AHFQM7EFBT2DQLAY6EYIEWJCAXTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "yoga",
+      "evidence": [
+        "I will stick to Ana Brett and Ravi Singh Kundalini Yoga tapes.",
+        "I prefer Bryan Kest Power Yoga of all my DVDs."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "If you know nothing about yoga and need a very slow routine, go for it.",
+        "This is a quick yoga routine that is slower paced but gave me a mild workout without killing me."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "this was very slow and way too basic.",
+        "This is a quick yoga routine that is slower paced but gave me a mild workout without killing me."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "The quality is bad, the acting is like a campy cheesy soap opera.",
+        "I guess it's too dated for me to really enjoy."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "Kundalini Yoga, Bryan Kest",
+      "evidence": [
+        "I will stick to Ana Brett and Ravi Singh Kundalini Yoga tapes.",
+        "I prefer Bryan Kest Power Yoga of all my DVDs."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "moderate physical engagement",
+      "evidence": [
+        "I worked up a good sweat doing Practice #3 and then followed with the core practice.",
+        "I find that they keep my interest and I always work up a sweat and have a good workout."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "If you want something to bring up your heart rate or give you a feeling of a hard yoga workout this isn't it.",
+        "I guess it's too dated for me to really enjoy."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "exercise_preference",
+      "value": "yoga-focused",
+      "evidence": [
+        "I have several of this couple's dvds and try to do this one weekly in the rotation.",
+        "I have three of their yoga videos and enjoy all very much."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user has a strong preference for yoga, particularly Kundalini and Bryan Kest styles, indicating a focus on moderate physical engagement rather than high-intensity workouts. They tend to favor simpler, slower-paced routines and show a low sensitivity to production quality, suggesting they prioritize the exercise experience over entertainment value."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGS3TIRWV4IFRICYY2W5ZK2VRUKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's, family-friendly",
+      "evidence": [
+        "Can't help but LOVE this show. Creative, simple, easy to watch.",
+        "We love the sibling bond and that they are always using their minds to pretend."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "easy and simple to watch.",
+        "Creative, simple, easy to watch."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "it seems slow but not disappointed in the end.",
+        "it's easy to watch - boys enjoyed it- story line was fine."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Had some topics we disagreed with soo... depends on what you stand for.",
+        "Storyline was too old for the audience I think they wanted to try."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "huge fans. boys love them. as parents we learned a bunch too.",
+        "I enjoy the Marvel - good, interesting storyline."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual, imaginative",
+      "evidence": [
+        "The animated animals and drawings were great.",
+        "Creative, simple, easy to watch."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "My oldest 3 year old almost acts out/ pretending with his toys the whole story all over again.",
+        "We love the sibling bond and that they are always using their minds to pretend."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for simple, imaginative children's content that is easy to watch and resonates emotionally with their kids. They appreciate family-friendly themes and visual creativity, while being less concerned about production quality or brand loyalty."
+}

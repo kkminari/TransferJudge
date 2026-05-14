@@ -1,0 +1,76 @@
+{
+  "user_id": "AFTTXYKN7HROFTFYFVU5FC7JVOHQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"Hilarious cring-worthy comedy!\"",
+        "\"Excellent and timely drama concerning our current technology addictions and advancements.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"It does move a little too quickly for such a complex story but still a superb film.\"",
+        "\"some story lines are slow and far fetched.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Many quick plot twists, and never a dull moment.\"",
+        "\"This series has been exceptional from start to present and season six continues that excellence.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the story, script, and casting are excellent except Elvis!\"",
+        "\"Romola Gorai and Jonny Lee Miller are superbly cast and shine in every scene.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Darren Star",
+      "evidence": [
+        "\"Darren Star always creates magic.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It manages to be incredibly educational, enlightening, and highly addictive!\"",
+        "\"The narrator is not annoying at all and the scenic quality is very well done.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I love this series and have never missed an episode.\"",
+        "\"This series has been exceptional from start to present and season six continues that excellence.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for engaging comedies and dramas, often appreciating high production quality and fast pacing. They exhibit loyalty to creators like Darren Star and value emotional resonance in their viewing experiences."
+}

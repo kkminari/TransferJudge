@@ -1,0 +1,77 @@
+{
+  "user_id": "AEYICSLKPEUQBAS7CFOT75R7VRIQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama, romance",
+      "evidence": [
+        "\"There is enough suspense and drama, along with romance, to make this series move along quickly.\"",
+        "\"I wish Hollywood would make more wholesome movies.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It is entertaining to watch, with enough twists and turns in the story line that keeps one coming back for more.\"",
+        "\"This movie is pretty predictable, but it does keep your interest and entertains.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Season 6 has 18 episodes, which is more than some, and they move along quickly.\"",
+        "\"This is a fast paced movie...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Quality is good, and we had no issues with picture or sound.\"",
+        "\"I was surprised that this movie was as good as it was.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Rizzoli & Isles, Bones",
+      "evidence": [
+        "\"We love Rizzoli & Isles, and have all seasons.\"",
+        "\"Love Bones!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory experience",
+      "evidence": [
+        "\"I can't really tell the difference on my 46 inch TV, and it is considerably less expensive this way.\"",
+        "\"This movie was very touching.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie was very touching. Kept my interest all the way through...\"",
+        "\"I will miss this series when it is done...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced mystery and drama series, particularly those with elements of romance. They show a strong preference for familiar series like Rizzoli & Isles and Bones, and value emotional engagement in their viewing experiences."
+}

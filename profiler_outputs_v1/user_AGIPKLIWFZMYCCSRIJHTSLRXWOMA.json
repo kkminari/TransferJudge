@@ -1,0 +1,73 @@
+{
+  "user_id": "AGIPKLIWFZMYCCSRIJHTSLRXWOMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy",
+      "evidence": [
+        "'Pretty funny alot.'",
+        "'Karl Pilkington is a very funny man'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'Very good show! Shipped quick'"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "'Very thrilling selection.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "'The price is maybe $5 cheaper than a store.'",
+        "'Good for Tremor lovers'"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "Ricky Gervais, Karl Pilkington",
+      "evidence": [
+        "'Karl Pilkington is a very funny man and compared with Ricky Gervais, excellent.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "'Excellent packaging.'",
+        "'Good case and good selection.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "'Very good movies, excellent packaging.'"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for comedy, particularly enjoying the works of Ricky Gervais and Karl Pilkington. They appreciate fast-paced content with good visual presentation but do not prioritize high production quality or deep emotional engagement."
+}

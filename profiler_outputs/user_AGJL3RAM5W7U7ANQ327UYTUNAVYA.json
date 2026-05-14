@@ -1,0 +1,77 @@
+{
+  "user_id": "AGJL3RAM5W7U7ANQ327UYTUNAVYA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, educational",
+      "evidence": [
+        "\"Was unaware of transhumanism and this certainly educated me on the subject.\"",
+        "\"if you are into this subject, this is worth seeing, especially at reduced 'used' price\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Unnecessarily long. Perhaps I'm not sophisticated enough to appreciate the 'art' behind this movie, but I found it alternately uninteresting and boring.\"",
+        "\"Just like two other DVDs from this mfg/distributor, after 20 odd minutes into disc, picture starts breaking down, eventually becoming unwatchable.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Unnecessarily long. Perhaps I'm not sophisticated enough to appreciate the 'art' behind this movie, but I found it alternately uninteresting and boring.\"",
+        "\"after about an hour and ten minutes, I yawned and shut it off.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Bad production, bad sound, fell asleep half way thru first viewing.\"",
+        "\"Production values low. Information very old.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Suggest you avoid anything with 'the UFO guy' associated with it.\"",
+        "\"anything directed by, produced by, or in any way associated with Bill Knell should be avoided.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Very poor film with even worse transfer to DVD.\"",
+        "\"I literally had to turn up the volume to its loudest just to barely hear what was being said.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I found it alternately uninteresting and boring.\"",
+        "\"Save your money...any DVD with Bill Knell's name attached should be avoided.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for educational and documentary-style content, but has a strong aversion to poor production quality and slow pacing. They express disappointment in works associated with specific creators, indicating a low tolerance for subpar experiences."
+}

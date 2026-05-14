@@ -1,0 +1,76 @@
+{
+  "user_id": "AEKYAYGT7KQX77UQFE6MMZ3HLEOA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "psychological thriller, drama",
+      "evidence": [
+        "\"Damn this was a tense movie. More a suspense or thriller than a horror film... One of the best psychological thrillers I've seen in a long time.\"",
+        "\"So beautiful it's painful. A very intense and real character study.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The chronology was off, watching clip of him that you know is from '85 but the story line was at 91.\"",
+        "\"This movie just didn't capture that. It was disconnected and hard to really get into.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I thought the pace of the film was perfect. I don't think it was too slow or that there were any unnecessary scenes.\"",
+        "\"This movie was sooooo boring it was painful. I cannot believe all the hype.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Some bad casting decisions ruined parts of the film.\"",
+        "\"I really want a hopeful ending to this and the parents reaction when she is found just isn't what I would expect.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I only watched this because it was written by the writer of Beasts of the Southern Wild...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Such an incredible film, just beautiful.\"",
+        "\"This is one of those painful movies that stays with you for quite awhile.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"My heart hurt knowing how the film would end and hoping it just wouldn't.\"",
+        "\"This was so hard to watch that I had to take a few breaks.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for psychological thrillers and dramas, often valuing emotional depth and resonance in films. They have mixed feelings about narrative complexity and pacing, indicating a nuanced taste that appreciates both engaging storytelling and character studies."
+}

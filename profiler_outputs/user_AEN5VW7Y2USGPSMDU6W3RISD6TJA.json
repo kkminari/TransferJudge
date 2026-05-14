@@ -1,0 +1,77 @@
+{
+  "user_id": "AEN5VW7Y2USGPSMDU6W3RISD6TJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, sci-fi, supernatural",
+      "evidence": [
+        "\"Great kids show with a twist of magic!\"",
+        "\"Awesome series, Steven King at his best!!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Funny family movie but some of the things they did to the little girl actually happen.\"",
+        "\"Awesome family movie, lots of lessons taught in this one.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Very funny and a real pleasure to watch. Good clean fun!\"",
+        "\"Awesome show with a little bit of everything in it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Not particularly pleased with the show, not what I thought it would be.\"",
+        "\"Enjoyed the beginning of the movie but the longer it played the more lost I became.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"It's Kiefer Sutherland what's not to like. Great show\"",
+        "\"Stephen King at his best!!!!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Awesome show that actually teaches children something.\"",
+        "\"This series is mind blowing, great if you like the supernatural this one's for you.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"Awesome family movie, lots of lessons taught in this one.\"",
+        "\"Great show if you like sci/fi. Great actors with a little bit of everything\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted and family-friendly content, particularly in the comedy and sci-fi genres. They appreciate shows that are engaging and entertaining, often with a moral lesson, but do not prioritize high production quality or complex narratives."
+}

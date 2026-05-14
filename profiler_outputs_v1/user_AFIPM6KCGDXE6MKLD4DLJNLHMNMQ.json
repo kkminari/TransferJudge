@@ -1,0 +1,76 @@
+{
+  "user_id": "AFIPM6KCGDXE6MKLD4DLJNLHMNMQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, comedy",
+      "evidence": [
+        "\"Excellent film about the final days of Hitler\"",
+        "\"If you are looking for a comedy that has some substance, this is a good one.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Got bored and turned it off after about 20 minutes\"",
+        "\"tedious\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"tedious\"",
+        "\"dated, didn't do much for me\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"good script, wonderfully acted\"",
+        "\"Well done; however, lots of characters, British accent, spoken fairly quickly...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"My partner loved it. I declined to watch because I knew there to be scenes of violence.\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"Enagaging, very well done. A fascinating story.\"",
+        "\"sweet, touching story\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Well done movie, one of those movies that you think about after.\"",
+        "\"sweet, touching story\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for historical and comedic films, valuing high production quality and emotional resonance. They tend to dislike slow-paced narratives and complex storytelling, often finding them tedious."
+}

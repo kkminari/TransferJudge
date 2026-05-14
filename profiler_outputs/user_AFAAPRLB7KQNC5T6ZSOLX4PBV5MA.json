@@ -1,0 +1,72 @@
+{
+  "user_id": "AFAAPRLB7KQNC5T6ZSOLX4PBV5MA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "noir",
+      "evidence": [
+        "Best Noir around!!!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Perfect",
+        "Awesome...Great purchase"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Funny as hell",
+        "Killer Flick"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great Transaction!!!  Perfect. Glad to have it.  Thanks!!"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "none",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Brings back Memories",
+        "Loved this as a kid"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Brings back Memories",
+        "Love this movie"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for noir films and enjoys fast-paced narratives that evoke nostalgia and emotional resonance. They seem less concerned with production quality and do not exhibit loyalty to specific creators."
+}

@@ -1,0 +1,156 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's enjoyment of drama, action, thriller, and romance suggests a preference for character-driven narratives and emotional stakes in books. However, the translation from film to literature may require adjustments in tropes and storytelling styles.",
+      "transferred_insight": "Prefer character-driven novels with elements of drama, action, and romance.",
+      "confidence": 0.75
+    },
+    "narrative_complexity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's mixed preference for narrative complexity indicates they appreciate both straightforward and more intricate storytelling. This suggests a preference for accessible yet engaging narratives in books.",
+      "transferred_insight": "Prefer accessible narratives that balance complexity and engagement.",
+      "confidence": 0.65
+    },
+    "pacing_preference": {
+      "decision": "PARTIAL",
+      "rationale": "With a mixed pacing preference, the user may enjoy both slow-burn stories and faster-paced narratives. This indicates a flexibility in pacing that can be applied to a variety of book recommendations.",
+      "transferred_insight": "Open to both slow-burn and fast-paced narratives.",
+      "confidence": 0.55
+    },
+    "quality_sensitivity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's medium sensitivity to quality suggests they appreciate well-crafted stories and performances, which can translate to a preference for well-reviewed books. However, this does not guarantee a strong correlation with specific authors or styles.",
+      "transferred_insight": "Prefer well-reviewed books with strong storytelling.",
+      "confidence": 0.7
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user's brand loyalty is mixed and does not strongly indicate a preference for specific authors. This pattern is not transferable to book recommendations as it may lead to negative transfer.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "Sensory preferences related to film do not apply to books, as the reading experience is fundamentally different. This pattern should not influence book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high emotional resonance indicates a strong preference for stories that evoke deep feelings and connect on an emotional level. This quality is highly transferable to literature.",
+      "transferred_insight": "Prefer emotionally impactful narratives that resonate deeply.",
+      "confidence": 0.9
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "B07G9N9TJN",
+      "title": "Let's Make It Real: Playing for Keeps: Just Keepin It Real, Volume 3",
+      "score": 0.92,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book likely features a mix of drama and romance, appealing to the user's genre preferences. The emotional depth aligns well with their desire for impactful storytelling."
+    },
+    {
+      "rank": 2,
+      "item_id": "0471234567",
+      "title": "Devoted in Death",
+      "score": 0.88,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This thriller combines action and emotional stakes, fitting the user's interest in drama and thrillers while providing a gripping narrative."
+    },
+    {
+      "rank": 3,
+      "item_id": "B0CBD73ZHW",
+      "title": "Glow of the Everflame (The Kindred's Curse Saga)",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This fantasy novel likely includes elements of action and drama, appealing to the user's genre preferences while offering a complex narrative structure."
+    },
+    {
+      "rank": 4,
+      "item_id": "A123456789",
+      "title": "A Stone for Bread",
+      "score": 0.84,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book's themes of love and personal struggle resonate with the user's emotional engagement preferences, while also fitting within their favored genres."
+    },
+    {
+      "rank": 5,
+      "item_id": "B0B7XHN8Z5",
+      "title": "Undetected: (A Contemporary Suspense Thriller and Friends-to-Lovers Romance)",
+      "score": 0.82,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book combines suspense with romantic elements, aligning well with the user's interests in both action and romance, while also providing emotional depth."
+    },
+    {
+      "rank": 6,
+      "item_id": "B095DLJP7C",
+      "title": "Brutal Blueblood (Hellfire Club)",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This novel likely features a mix of drama and intrigue, appealing to the user's taste for complex narratives and emotional storytelling."
+    },
+    {
+      "rank": 7,
+      "item_id": "B0B6KRCNPY",
+      "title": "Pasadena Restaurant Guide 2023",
+      "score": 0.78,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "While not a narrative book, this guide's high ratings suggest quality content, appealing to the user's sensitivity to well-crafted works."
+    },
+    {
+      "rank": 8,
+      "item_id": "B08KXRS5ZH",
+      "title": "Sorry I can't I have plans with my Squirrel journal",
+      "score": 0.75,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "This humorous journal may not fit the user's primary genres but offers a light-hearted approach that could resonate emotionally."
+    },
+    {
+      "rank": 9,
+      "item_id": "B08C8R9T6G",
+      "title": "SULCATA TORTOISE: Every detailed thing about the sulcata tortoise.",
+      "score": 0.7,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "This informative book may not align with the user's primary interests but offers quality content that could appeal to their curiosity."
+    },
+    {
+      "rank": 10,
+      "item_id": "B000GLFFB2",
+      "title": "3500 NAMES FOR BABY",
+      "score": 0.65,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "While not a narrative work, this book's high rating suggests quality content, which may appeal to the user's preference for well-crafted works."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference were blocked due to their medium-specific nature and lack of relevance to book recommendations.",
+  "overall_strategy": "Focused on the user's transferable preferences for genre, emotional resonance, and narrative complexity while blocking non-transferable patterns. Recommendations emphasize character-driven narratives with emotional depth."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFPYO4S5VVC3S4WK2VHYEG4M3WOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, thriller, film noir",
+      "evidence": [
+        "\"My favorite Jack Nicolson Film. This is Film Noir at its absolute best.\"",
+        "\"National Treasure is a fun movie and fast paced from beginning to end\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"National Treasure is a fun movie and fast paced from beginning to end\"",
+        "\"A brilliant film, not always easy to watch, with gorgeous cinematography and fantastic acting.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"National Treasure is a fun movie and fast paced from beginning to end\"",
+        "\"the last hour of the movie was so tense and exciting that I gave it 4 stars.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"gorgeous cinematography and fantastic acting.\"",
+        "\"the cinematography and special effects are amazing.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific directors or actors mentioned as favorites.",
+        "General praise for various films without specific loyalty."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"the cinematography and special effects are amazing.\"",
+        "\"gorgeous cinematography and fantastic acting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It's a wonderful feel good movie with a sad ending sort of like 'Bambi' and 'Old Yeller.'\"",
+        "\"This is one of the funniest and most tender Christmas movies of all time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced action and drama films, particularly those with high production quality and emotional depth. They appreciate film noir and are sensitive to cinematography and acting quality, but show little loyalty to specific creators."
+}

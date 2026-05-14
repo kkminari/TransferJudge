@@ -1,0 +1,74 @@
+{
+  "user_id": "AHJJSAOQEKOG42VTVERKERCRKZBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, horror, drama",
+      "evidence": [
+        "Big 50's B/B- Horror/Sci-Fi movie fan here, and this entry was one of the better ones",
+        "I recommend this for horror fans, especially if you adore 'mad scientist' and man-made monster stories ala 'Frankenstein.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "Dickens' marvelous characters and complex story",
+        "Atypical sci-fi 'monster' movie that focuses most attention on the humans...and 'humanity' across species"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "the story and pacing are somewhat on the tedious side",
+        "the story is strange but interesting"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Admirable attention to building something significant on the foundation of the original story",
+        "Quality, quality, quality in EVERY role!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "The visuals in HD are stunning",
+        "the images and sound were spectacular"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "the movie makes depiction of the disturbing events very authentic and engrossing",
+        "captivating characters in every direction and intertwined stories that leave you virtually breathless"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and horror genres, appreciating complex narratives and high production quality. They enjoy visually stunning content that evokes deep emotional responses, while their loyalty to specific creators is not strongly indicated."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEYJRKXKYHHZEZ6NGCABTROTBUOA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy, family",
+      "evidence": [
+        "\"Great fun! We are currently finishing up Volume 4. Can't wait for the new season coming in 2015!\"",
+        "\"Funny stuff but you gotta like silly humor, which our family does!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Don't look for any deep messages or meaning. Fast cars and fun.\"",
+        "\"If you liked Ace Ventura 1 you'll like Ace Ventura When Nature Calls.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Fast cars and fun. If you're watching with young viewers there is a few more short skirts and shorts that I think was necessary.\"",
+        "\"Great fun! We are currently finishing up Volume 4. Can't wait for the new season coming in 2015!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Don't look for any deep messages or meaning. Fast cars and fun.\"",
+        "\"Was excited to see it, I lived through the real news. This movie was just not my cup of tea.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Thoroughly enjoy Sherlock, happy to see the third season.\"",
+        "\"Love this series. Happy to know we can catch up on any episodes we missed!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Holds up over the years. My kids were babies when this hit the theaters, they enjoyed watching it.\"",
+        "\"Great movie! Forgot how often I got tears in my eyes.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Great movie! Forgot how often I got tears in my eyes.\"",
+        "\"Holds up well over the years. Watched with my teenaged kids and they laughed a lot.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and comedy genres, often favoring fast-paced narratives with simple storytelling. They appreciate emotional resonance in their viewing experiences, particularly when shared with family, but show less concern for production quality and brand loyalty."
+}

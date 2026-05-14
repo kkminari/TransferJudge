@@ -1,0 +1,77 @@
+{
+  "user_id": "AEKUFIQBLCGPEO7JIWIW6KQDFI6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, crime, action",
+      "evidence": [
+        "I love this show. I grew up in the 1980's decade.",
+        "I enjoyed this show because of the dynamics between the characters."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I love this show. I can watch it over and over.",
+        "This is an interesting show because the relationship between FBI Agent Seely Booth & Dr. Temperance Brennan."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I enjoyed this show because of the dynamics between the characters.",
+        "I can watch it over and over."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I love this show. I can watch it over and over.",
+        "I enjoyed this show that I often watched the episodes, repeatedly."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "I am a huge fan of this show.",
+        "I have been following The Closer series since it began in 2005."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "This show touches on the social issues that was an on-going problem when I was in high school.",
+        "I love this show. The relationship between Kate Beckett and Richard Castle is what got me 'hooked' up to this show."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I love this show. I grew up in the 1980's decade.",
+        "I enjoyed this show that I often watched the episodes, repeatedly."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and crime genres, often enjoying character-driven narratives with emotional depth. They demonstrate brand loyalty to specific shows and appreciate the dynamics between characters, indicating a preference for slower-paced storytelling."
+}

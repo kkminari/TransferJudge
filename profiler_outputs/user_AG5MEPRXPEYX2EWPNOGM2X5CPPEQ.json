@@ -1,0 +1,77 @@
+{
+  "user_id": "AG5MEPRXPEYX2EWPNOGM2X5CPPEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, thriller",
+      "evidence": [
+        "\"Elvis and Nixon is a great movie; its a mini snapshot of a moment when a big singer met with an electric leader.\"",
+        "\"Wow, Harry Bosch has always been an complicated intriguing character.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"It was just okay, it wasn't horrible but it wasn't another great Tarantino film either.\"",
+        "\"The whole show is great this season doesn't disappoint.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"perfect pacing, I loved the use of the black and the white; it made it feel more intimate...\"",
+        "\"Wow intriguing show, just watched episode one and I have no doubt it'll be awesome.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The music was good. The cast was brilliant. The dialogue was good yet in places felt forced.\"",
+        "\"Great writing. Lots of twists and turns. Laugh out loud hilarious.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Usually I love his movies but this one felt like a three hours of hoping something great would come of all the incredible dialogue...\"",
+        "\"I am not going to spoil anything but I just finished the entire season after waiting for what felt like forever and it was worth it!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It has that classic wonder years feel with great writing and characters.\"",
+        "\"Wow one word 'speechless', loved season one and season two was even more incredible.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Wow! I was pleasantly surprised, the preview didn't really do the show justice...\"",
+        "\"Ignore the lousy reviews. This is a great movie. Great writing. Great acting. A powerful story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama, comedy, and thrillers, with a strong preference for fast-paced narratives and high production quality. They value emotional resonance in their viewing experiences, often expressing strong recommendations for shows and movies they find engaging."
+}

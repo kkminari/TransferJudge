@@ -1,0 +1,77 @@
+{
+  "user_id": "AEM6XSGJUHBGXM2AMWN6WOGUTA5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, clean humor, suspense",
+      "evidence": [
+        "\"It's so difficult to find a good, clean movie nowadays.\"",
+        "\"Enjoyed the intensity throughout the film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story lines are simple and fun.\"",
+        "\"The concept is fun, but the movie didn't make us laugh, cry, awww, or feel great.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This one is my daughter least favorite of the series because it's slow going.\"",
+        "\"The movie didn't deliver on feelings.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I focus on the story/entertainment regardless of production polish.\"",
+        "\"Even though it has a scripted feel to it, they still make me laugh.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Look forward to more John Krasinski films.\"",
+        "\"Emily Blunt's is my new favorite actress.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual and humorous",
+      "evidence": [
+        "\"The cast is great. They're all very funny and make the film work.\"",
+        "\"Antonio made gun shooting look artful and poetic in one slo-mo scene.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"The movie didn't deliver on feelings.\"",
+        "\"I don't feel right letting her watch this.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly films with clean humor and simple storylines, often prioritizing entertainment over production quality. They appreciate suspenseful elements but have mixed feelings about emotional engagement, indicating a preference for light-hearted content."
+}

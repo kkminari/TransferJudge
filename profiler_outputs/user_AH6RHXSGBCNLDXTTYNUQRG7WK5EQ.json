@@ -1,0 +1,76 @@
+{
+  "user_id": "AH6RHXSGBCNLDXTTYNUQRG7WK5EQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy",
+      "evidence": [
+        "\"Hilarious. Recipient loved it.\"",
+        "\"hilarious!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"love it. I hope they never make a remake.\"",
+        "\"Great movie. I never tire of watching, over and over again.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"hilarious!\"",
+        "\"Funny\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"great seller of a great movie.\"",
+        "\"Love this dvd\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Alec Guinness",
+      "evidence": [
+        "\"Alec Guinness was a genius.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"very interesting.\"",
+        "\"adorable movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"One part made me cry.\"",
+        "\"a family favorite.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies, particularly those that are fast-paced and evoke emotional responses. They show loyalty to specific actors like Alec Guinness and appreciate simple narratives that are entertaining and engaging."
+}

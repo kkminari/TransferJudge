@@ -1,0 +1,77 @@
+{
+  "user_id": "AF6KLCTI3F3YWFANA4RXQZYYB4KA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Terrible script, terrible acting and terrible special effects....move on...this is a real stinker.\"",
+        "\"First movie was excellent. This simply falters into oblivion.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Script was horrible. Acting was just as bad.\"",
+        "\"Story line very weak. Simply a waste of time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Huge fan of Liam Neeson, but this movie was boring and predictable.\"",
+        "\"Waste of an hour and a half. Only fished watching because I held out hope that the movie would in some way become better.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Terrible script, terrible acting and terrible special effects....move on...this is a real stinker.\"",
+        "\"Acting was extremely weak (coming from some high profile actors, i.e. Diane Lane)......really a waste of time.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Am a fan of Liam and others in this film...really weak story-line...quite disappointing.\"",
+        "\"Huge fan of Liam Neeson, but this movie was boring and predictable.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"Don't waste your time. Very misleading.\"",
+        "\"All actors were lacking in skills. Story line very weak. Simply a waste of time.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Yawn...boring...\"",
+        "\"Waste of an hour and a half. Only fished watching because I held out hope that the movie would in some way become better.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user exhibits a strong preference for straightforward narratives and is highly sensitive to production quality, often expressing disappointment in both. They show a tendency towards slow pacing and lack emotional engagement with the content, indicating a critical view of the films they watch."
+}

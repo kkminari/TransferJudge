@@ -1,0 +1,76 @@
+{
+  "user_id": "AGYIA7T2D4WIGMFWDT2UXZYF4NZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, animation",
+      "evidence": [
+        "This is a great kids movie.",
+        "Kids love it as much as the original."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Lots of action and great special effects but the plot wasn't given as much attention..."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Great movie, lots of fun and action!",
+        "This movie is one of the funniest I've seen."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great movie!",
+        "Great version and finally on DVD at a reasonable price..."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Pixar, Kate Winslet",
+      "evidence": [
+        "this, like other Pixar movies, does.",
+        "Kate Winslet never disappoints."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "The animation is wonderful, the story is heartwarming.",
+        "This movie is one of the funniest I've seen."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Sure makes you think about things...",
+        "the story is heartwarming and there are some very nice messages about social responsibilities."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly movies, particularly those with humor and animation. They appreciate fast-paced storytelling and have a preference for well-known creators like Pixar and Kate Winslet, while also valuing emotional depth in the narratives."
+}

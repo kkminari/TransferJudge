@@ -1,0 +1,77 @@
+{
+  "user_id": "AFLO3S2MCJ4TUFYQSBSTQYS7GQQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, educational",
+      "evidence": [
+        "\"Great show. Amazing photography using robots disguised as animals. We enthusiastically recommend for anyone, all ages.\"",
+        "\"Very much worth your time for the whole family. Fascinating, beautiful, educational.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Fun and entertaining. Not 'deep', but creative, personality.\"",
+        "\"This is not fast paced, exciting. But it is 1950s/1960s wonderful.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It is big, slow, 'deep'. I like it, but it isn't light or cheery.\"",
+        "\"This is not fast paced, exciting. But it is 1950s/1960s wonderful.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Amazing photography using robots disguised as animals.\"",
+        "\"Very much worth your time for the whole family. Fascinating, beautiful, educational.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific mentions of favorite directors, actors, or franchises.",
+        "General enjoyment of various family-friendly content."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Fascinating, beautiful, educational.\"",
+        "\"Great adaptation of the Gilbert & Sullivan operetta (if you cut them just a little slack).\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Afterwards, our young child went around singing the songs.\"",
+        "\"Very much worth your time for the whole family. Fascinating, beautiful, educational.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and educational content, often appreciating beautiful visuals and simple narratives. They prefer slower pacing and have a high sensitivity to production quality, indicating a strong emotional resonance with the material."
+}

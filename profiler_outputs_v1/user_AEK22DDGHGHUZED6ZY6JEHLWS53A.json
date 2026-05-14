@@ -1,0 +1,76 @@
+{
+  "user_id": "AEK22DDGHGHUZED6ZY6JEHLWS53A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, cute",
+      "evidence": [
+        "\"Great family movie for all ages\"",
+        "\"Wholesome messages & lessons\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Nonstop fun for all ages\"",
+        "\"Funny for everyone!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Nonstop fun for all ages\"",
+        "\"Funny for all ages\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good family movie.\"",
+        "\"Nothing bad to say..... but from a mom who grew up watching the original shows, this was a bit disappointing\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love Amy Schumer, but this felt like she tried too hard. Still funny\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual, emotional",
+      "evidence": [
+        "\"Very cute. My 4 year old wasn’t scared at all. Very sweet for animal lover and Halloween 🎃 lovers!\"",
+        "\"Cute for animal lovers of all ages\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Great tradition in our house\"",
+        "\"Wholesome messages & lessons\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly and cute content, often enjoying simple narratives that are fast-paced and visually appealing. They value emotional resonance and wholesome messages, indicating a taste for light-hearted entertainment suitable for all ages."
+}

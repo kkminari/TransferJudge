@@ -1,0 +1,76 @@
+{
+  "user_id": "AE7SURQXNTXVKIRAROMBZ36JI6BA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, drama",
+      "evidence": [
+        "This is a fun and cheesy family superhero movie.",
+        "It is a good drama, and I recommended it to those who enjoy emotional movies."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It is predicable, but the whole family will love it.",
+        "Very predictable, but it is enjoyable to watch."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I find it slow.",
+        "It is not the movie that I remembered."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The product quality was great. No scratches on DVD, and the case was in perfect shape.",
+        "DVD and case were in perfect condition."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I am not a fan of romantic comedies, but I am a fan of Harrison Ford."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "This movie has funny parts, but it also has sad parts.",
+        "It is a good drama, and I recommended it to those who enjoy emotional movies."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It is a good drama, and I recommended it to those who enjoy emotional movies.",
+        "Funny movie. I will put a disclaimer on it though that there are serious parts that may make some upset."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and family-oriented films, often appreciating emotional depth in dramas. They prefer simple narratives and are sensitive to production quality, though they have mixed feelings about romantic comedies."
+}

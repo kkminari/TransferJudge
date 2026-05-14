@@ -1,0 +1,77 @@
+{
+  "user_id": "AH2OBLYZXUMMVFP3DZI4IXDYEAQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed (likes adventure, fantasy; dislikes poorly executed comedies)",
+      "evidence": [
+        "I like fantasy films and would give Legend a higher rating except that a lot of the footage originally produced was cut from the final film.",
+        "The movie is supposed to be funny, but just doesn't cut it."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Despite the predictable plot (and outcome), the movies raises some interesting points.",
+        "The movie has its points but suffers from a case of lack of proper plot development."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "The ending should not have been so abrupt, though, there should have been more.",
+        "The movie is about a boy who finds himself used by a rich girl and a stablehand in their desire to have a romantic affair, and how it winds up traumatizing him."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "Meticulous attention to detail and proper use of black and white photography gives this story of the self-destructive life of pro-boxer Jake LaMotta extra-added emphasis.",
+        "The special effects in the movie are good, the acting very good."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Fans of the Harry Potter book series will find 'Harry Potter and the Sorcerer's Stone' an excellent adaption of the book series.",
+        "I remember seeing this movie back in 1962."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "It is not meant for children, not so much for its language, nudity or exotic (and sometimes bizarre) sex scenes, rather it is an adult film that stars adults.",
+        "The meticulous attention to detail and proper use of black and white photography gives this story extra-added emphasis."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "The ending touching, but the movie just doesn't cut the mustard.",
+        "It makes for good discussions."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of adventure and fantasy films but is critical of poorly executed comedies. They appreciate quality production and detail but prefer straightforward narratives and pacing, indicating a balanced taste in movies."
+}

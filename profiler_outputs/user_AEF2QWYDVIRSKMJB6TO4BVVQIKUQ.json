@@ -1,0 +1,72 @@
+{
+  "user_id": "AEF2QWYDVIRSKMJB6TO4BVVQIKUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly",
+      "evidence": [
+        "my husband's favorite",
+        "kids loved it"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "excellent love the series have watched it 3 times"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "excellent love the series have watched it 3 times"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "the 3D is not as good as some of the other Disney movies"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "love the series have watched it 3 times"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "I like the underwater colors they are very bright"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "excellent",
+        "great loved it"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly content, particularly series that are simple and engaging for children. They appreciate bright visuals but show mixed feelings about production quality, indicating a preference for entertainment over emotional depth."
+}

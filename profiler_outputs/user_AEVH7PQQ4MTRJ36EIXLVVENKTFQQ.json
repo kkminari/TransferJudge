@@ -1,0 +1,77 @@
+{
+  "user_id": "AEVH7PQQ4MTRJ36EIXLVVENKTFQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama",
+      "evidence": [
+        "\"This documentary describes positive building code changes...\"",
+        "\"An excellent classic film on the life of Jesus.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I wanted to like this movie, but it is long, tedious and boring.\"",
+        "\"This is a rather slow moving script...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I wanted to like this movie, but it is long, tedious and boring.\"",
+        "\"This is a rather slow moving script...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"superb acting. excellent book\"",
+        "\"This was very well done...... photography, sets, acting.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Juliette captures Mother's mannerism, her speech patterns and even her walk.\"",
+        "\"Liam Neeson is excellent in the lead role.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Beautifully filmed. Considerable number of errors in time estimations...\"",
+        "\"This was very well done...... photography, sets, acting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"the reading of letters from the titanic families was very powerful\"",
+        "\"the story of Cecilia's life was very moving.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and dramas, valuing high production quality and emotional resonance. They tend to prefer simpler narratives with slower pacing, and while they appreciate good acting, they do not exhibit strong loyalty to specific creators."
+}

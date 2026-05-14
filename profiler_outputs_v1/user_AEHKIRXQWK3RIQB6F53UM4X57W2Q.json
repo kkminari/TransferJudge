@@ -1,0 +1,77 @@
+{
+  "user_id": "AEHKIRXQWK3RIQB6F53UM4X57W2Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family, action",
+      "evidence": [
+        "\"I love American horror story and I am beyond excited that I can watch this with Amazon.\"",
+        "\"I love love love this show!!!! I can not wait till next season!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The story left me scratching my head from time to time but everyone did an amazing job!\"",
+        "\"I think I need to watch a few episodes to really determine if I actually like it or not...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I was blown away by season 1 and this season did not disappoint!\"",
+        "\"This show along w/ breaking bad was just cast perfectly!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is top notch!!!\"",
+        "\"The music was terrific!!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Breaking Bad",
+      "evidence": [
+        "\"I'm a big Breaking Bad fan so naturally I had to watch this!\"",
+        "\"This show along w/ breaking bad was just cast perfectly!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, immersive experience",
+      "evidence": [
+        "\"I love that there is truth behind this show. that is one of my favorite things about it!\"",
+        "\"The acting is top notch!!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I'm dying for season 4!!!! OMG!!!!! I can watch this show all day long!!\"",
+        "\"It really makes you think.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and family genres, particularly enjoying shows with fast pacing and high production quality. They exhibit brand loyalty to 'Breaking Bad' and appreciate immersive storytelling that evokes strong emotions."
+}

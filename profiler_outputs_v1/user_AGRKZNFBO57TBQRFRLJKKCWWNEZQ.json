@@ -1,0 +1,77 @@
+{
+  "user_id": "AGRKZNFBO57TBQRFRLJKKCWWNEZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "cult, classic, yakuza",
+      "evidence": [
+        "worth owning, definitely, for fans of the movie and ridiculous rubber octopus-man genre.",
+        "Blind Woman's Curse is a unique Yakuza-themed movie starring Meiko Kaji."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "the movie seems to repeat the same concept over and over again therefore being very predictable in where it is going.",
+        "a boring plot plus heavy-handed political drivel makes Cars 2 a loser."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "the content of this movie could have been narrated in 15 minutes; as a result, the movie seems to repeat the same concept over and over again.",
+        "the story drags and is nowhere near as interesting as Cars 1."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the Blu-ray version of this is a travesty.",
+        "the best traffic has ever looked."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I cannot support this release and cancelled my order.",
+        "Cult Epics for finally releasing this on Blu-ray but sadly the release is highly flawed."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "the images are very captivating in nature and the panning motion is enough to keep the program interesting.",
+        "the animation and special effects is about all this movie has going for it."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "the movie itself is lacking.",
+        "I thought Pixar had a principal never to include politics in their films?"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for cult and classic films, particularly in the yakuza genre, but has a low tolerance for slow pacing and predictable narratives. They are highly sensitive to production quality, often expressing disappointment when releases do not meet their expectations."
+}

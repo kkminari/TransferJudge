@@ -1,0 +1,77 @@
+{
+  "user_id": "AHLZN7ZEFXPRIAMZI4DPC3RSHPAQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, detective, comedy",
+      "evidence": [
+        "\"Fun romantic movie that is suitable for all ages.\"",
+        "\"I thoroughly enjoyed spending my time with this show. I recommend this to my fellow detective show followers.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"JUST PLAIN FUN! Hahaha! Love all the actors. Enjoyed this movie -- not deep -- just a very fun watch!\"",
+        "\"The characters, the plots, sub plots, too much not to keep watching.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Had planned on small doses . . . but once I resumed watching the newest season I couldn't stop.\"",
+        "\"Extremely entertaining. Love observing the characters & their interactions.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"The music, the characters, scenery . . . all very entertaining.\"",
+        "\"I liked it then and I like it now. Very entertaining and sad to see a hint of how the Native Americans have been treated in this county.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Kate Winslet is a fantastic Mildred.\"",
+        "No strong mentions of specific directors or franchises."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The animation is fabulous.\"",
+        "\"Beautiful clothing. Great stories. Great escape from daily life.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I thoroughly enjoyed spending my time with this show.\"",
+        "\"Love the characters, their interactions. . .can't stop watching.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted and entertaining content, particularly in the romance and detective genres. They prefer fast-paced narratives with engaging characters and a strong sensory experience, while not being overly concerned with production quality."
+}

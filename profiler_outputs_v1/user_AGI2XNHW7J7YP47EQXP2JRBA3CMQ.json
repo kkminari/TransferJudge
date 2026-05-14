@@ -1,0 +1,74 @@
+{
+  "user_id": "AGI2XNHW7J7YP47EQXP2JRBA3CMQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, fantasy, historical drama, period drama",
+      "evidence": [
+        "\"love sci fi and fantasy\"",
+        "\"Love historical fiction, nonfiction and period drama.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Not for me, sappy, bad acting.\"",
+        "\"Didn't hold my interest, didn't finish.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Didn't hold my interest, didn't finish.\"",
+        "\"So, so. Didn't finish, lost interest.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Well done, enjoyable period historical drama\"",
+        "\"bad acting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high emotional impact",
+      "evidence": [
+        "\"Tearjerker with a happy ending.\"",
+        "\"Very moving\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Good reminder that life can change in seconds,\"",
+        "\"Very moving\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi, fantasy, and historical dramas, often appreciating works with high emotional impact. They tend to favor slower-paced narratives but are sensitive to production quality, indicating a desire for well-crafted stories."
+}

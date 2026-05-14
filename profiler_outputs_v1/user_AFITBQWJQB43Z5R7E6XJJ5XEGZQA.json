@@ -1,0 +1,77 @@
+{
+  "user_id": "AFITBQWJQB43Z5R7E6XJJ5XEGZQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, horror",
+      "evidence": [
+        "\"It reminds me of all the teen horror movies from the 90's. Love it!\"",
+        "\"Robin brings out a great performance as a Russian musician who defects to the USA. There is drama and comedy in this film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"It is full of comedy, drama and a great story.\"",
+        "\"You get a great double feature of Robin Williams.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It has a good redemption story.\"",
+        "\"You will need tissue.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Robin is extraordinary in his portrayal of a Jewish man trying to lift the spirits of his friends in the Nazi occupied ghetto.\"",
+        "\"This is a Terry Gilliam masterpiece. Jeff Bridges performance was remarkable.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Robin Williams",
+      "evidence": [
+        "\"I love Robin Williams!\"",
+        "\"Robin was awesome as usual!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The music is great. The story line cont from season 4.\"",
+        "\"It shows how comedy affects people who are battling illnesses.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It will make you laugh and cry!!\"",
+        "\"You will need tissue.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and drama, particularly enjoying the works of Robin Williams. They appreciate high production quality and emotional storytelling, often resonating deeply with the content they consume."
+}

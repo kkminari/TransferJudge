@@ -1,0 +1,77 @@
+{
+  "user_id": "AHY56ZNDIASRQKMKGQ5ZGWW43JZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, soap opera, police stories",
+      "evidence": [
+        "\"It is just another soap opera, perhaps a little more interesting.\"",
+        "\"I love English movies and police stories.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It is just another soap opera, perhaps a little more interesting.\"",
+        "\"I liked Nurse Rattchit and Jack Nicholson the contest that went on between the two was very interesting.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I did enjoy it in the beginning, but it did get a little boring later in the show I was bored.\"",
+        "\"The continuing story is interesting and sometimes a little confusing but I am enjoying the show.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I love Downton Abbey, all the episodes this far have been great.\"",
+        "\"I found it very interesting, the children that worked in the factories, I guess I never really knew that. Very good show.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love Downton Abbey, all the episodes this far have been great.\"",
+        "\"I love English movies and police stories.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I found it very interesting, the children that worked in the factories, I guess I never really knew that.\"",
+        "\"I really liked the program and was sorry to see it end.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I loved it, but it must have been heart breaking for the parents. It should never have happened.\"",
+        "\"I really liked the program and was sorry to see it end.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and police stories, often favoring simple narratives with a slower pace. They appreciate emotional depth in their viewing experiences, indicating a preference for content that resonates on a personal level."
+}

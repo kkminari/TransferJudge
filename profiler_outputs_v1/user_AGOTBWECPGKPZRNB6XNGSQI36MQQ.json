@@ -1,0 +1,77 @@
+{
+  "user_id": "AGOTBWECPGKPZRNB6XNGSQI36MQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, thriller",
+      "evidence": [
+        "\"I love all of Jason Statham's movies & this was a great deal!\"",
+        "\"This movie is truly frightening! The fact that racism is the key component here.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great movie, good story, scary, but I loved it!\"",
+        "\"I really enjoyed this movie. It was however very sad.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Fantastic movie!!! Very funny, I don't know how many times I have watched it, but it is so good I have to keep watching it!\"",
+        "\"Great movie, good story, scary, but I loved it!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I love the music, I love everything about the movie the actors & actresses are outstanding.\"",
+        "\"Robert Downey Jr. & Jude Law are exceptional in their roles.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Jason Statham, Ryan Reynolds, Denzel Washington",
+      "evidence": [
+        "\"I enjoy all of Ryan Reynolds movies\"",
+        "\"I love Jason Statham!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, emotional depth",
+      "evidence": [
+        "\"This movie is truly frightening! The fact that racism is the key component here.\"",
+        "\"Sad movie, scary that this actually happened. It was very well done\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Ths movie made me cry\"",
+        "\"I really enjoyed this movie. It was however very sad.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and drama films, particularly enjoying works featuring Jason Statham and Ryan Reynolds. They appreciate high production quality and emotional depth in storytelling, often favoring fast-paced narratives that evoke strong feelings."
+}

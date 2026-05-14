@@ -1,0 +1,77 @@
+{
+  "user_id": "AFNHP3FB663SN5QAK6KK27YMSTMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy, drama, western",
+      "evidence": [
+        "I love westerns and this was one of the best in years.",
+        "Great story and a great movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Was nothing like the others. Slow moving and very bad script.",
+        "Started a bit slow but became a good movie."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Slow moving and very bad script.",
+        "To slow and old."
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "Even the effects were not as good.",
+        "Very good effects in the blu ray."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "Best show on TV. We own every season even the 2 that where on the 8th. season of JAG.",
+        "Great season. Owe every season plus the 2 intros in the Jag series 8."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "The love of family and the need for a dad.",
+        "It is the way we can learn that we can love."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "This is a timeless movie and one of touching heart.",
+        "It is the way we can learn that we can love."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action, comedy, and drama genres, with a particular fondness for westerns. They prefer slower-paced narratives and show a strong emotional resonance with stories that evoke family themes and personal connections."
+}

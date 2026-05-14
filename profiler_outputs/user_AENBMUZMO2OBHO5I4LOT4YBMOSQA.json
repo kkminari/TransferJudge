@@ -1,0 +1,74 @@
+{
+  "user_id": "AENBMUZMO2OBHO5I4LOT4YBMOSQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "western, family, adventure",
+      "evidence": [
+        "\"Great Western Story. Worth time to watch\"",
+        "\"Good Family Movie with great stars!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"They don't make great stories like this anymore. Highly Recommend!\"",
+        "\"Wonderful series with plot twists that keep you engaged the entire movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Edge of your seat action all the way through.\"",
+        "\"Not a boring minute.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Wonderful scenery and score and story!\"",
+        "\"A first class production and we were on edge of our seats the entire film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Lose yourself in the 'good old days' when there were movies with wonderful stories and clear lessons between good and evil and a good dose of humor.\"",
+        "\"The beautiful scenery along the California coast was worth the price of the movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Brings back memories of the 50's Sat. afternoon matinee. So much fun to watch.\"",
+        "\"Great for whole family\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for westerns and family-oriented films, appreciating fast-paced narratives with high production quality. They value emotional resonance and enjoy stories that evoke nostalgia and clear moral lessons."
+}

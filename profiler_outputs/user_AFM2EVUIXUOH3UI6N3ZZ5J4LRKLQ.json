@@ -1,0 +1,75 @@
+{
+  "user_id": "AFM2EVUIXUOH3UI6N3ZZ5J4LRKLQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance",
+      "evidence": [
+        "\"It is a good story about love after loss.\"",
+        "\"A very sad story about a woman who had a disease called alcoholism...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Classic movie to watch with the kids, lots of fun parts\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The story was too old for me too much like the thinking in the past, too much old reality.\"",
+        "\"Lost interest after half hour, husband watched all of it. Said it was fine.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I thought it did not have much humor, was not very interesting...\"",
+        "\"Not my cup of tea, a little too much for me\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"My husband thought it was good, he likes Tom Hanks\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Interesting story line, something that me and hubby can watch together.\"",
+        "\"It speaks to a problem that America needs to address...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It makes you realize what can happen to all of us with our parents.\"",
+        "\"A very sad story about a woman who had a disease called alcoholism...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and romance genres, often gravitating towards stories that evoke emotional depth and personal connections. They prefer slower-paced narratives that focus on character development, though they show some indifference to production quality and brand loyalty."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGG4OBZXST7ENRMKN55I53NJKNVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, animation, family, horror",
+      "evidence": [
+        "\"I love this movie! I do love many of this persons work however like repo the genetic opera!\"",
+        "\"Funny classic I watch every year for Thanksgiving. Must have for those who love the oddities in life\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great series and ended up getting this just in time for the holiday\"",
+        "\"This is an excellent movie. Rocking comedy that involves time travel! Must see\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Love this movie so much! Very underated\"",
+        "\"This show is what I need on a weekend night. This girl has the craziest life, and keeps getting in trouble\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"It was good for the first time watching it and glad to add it to my collection, not too predictable and great actors.\"",
+        "\"I still quote the movie whenever I can. I love the romantic comedy that everyone should watch once in there life.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I do love many of this persons work however like repo the genetic opera!\"",
+        "\"Always been intrigued in the concept of the string of how death worked and this particular movie goes pretty in depth.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The graphics are amazing and the story is so ripe and full of originality despite it classic vampire plot\"",
+        "\"This cute comedy shows the hardships of coming out to a big family. I'm glad to add it to my collection!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I love this and now my kid loves this as well!\"",
+        "\"Who doesn't love this classic! Dark humor and great story plot all while keeping up with who or what the Addam's family is!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and family-oriented content, often enjoying animated and nostalgic films. They appreciate fast-paced narratives with high emotional resonance, indicating a taste for engaging and entertaining stories."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AFI2C5XLOIXFST7UG4AQUNLAEG6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, adventure",
+      "evidence": [
+        "\"Great for kids and adults because I enjoy them too lol\"",
+        "\"Great movie full of adventure. Highly recommended.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Always enjoy this movie. Exciting and fun.\"",
+        "\"Good movie. One of my daughters favorites!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Absolutely fun movie to watch!\"",
+        "\"Funny and great for Christmas time.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Plays well and sound and picture are great too.\"",
+        "\"Great movies and good price. Highly recommended for a Christmas collection.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Harrison Ford",
+      "evidence": [
+        "\"Love Harrison Ford and enjoy his movies. Good buy!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory enjoyment",
+      "evidence": [
+        "\"Plays well and sound and picture are great too.\"",
+        "\"Great for everyone!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Love this movie! Could watch it all the time.\"",
+        "\"Kids love it and watch it all the time lol. Good buy and great price!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly movies that are fun and exciting, often enjoying comedies and adventures. They appreciate simple narratives and fast pacing, with a focus on entertainment rather than high production quality."
+}

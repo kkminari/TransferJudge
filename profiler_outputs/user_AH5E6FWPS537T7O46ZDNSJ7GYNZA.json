@@ -1,0 +1,77 @@
+{
+  "user_id": "AH5E6FWPS537T7O46ZDNSJ7GYNZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, fantasy",
+      "evidence": [
+        "All the Bourne movies are top rate",
+        "Must have series. Extremely entertaining. Thrones, swords, mystical stuff, feuds, bonds to be broken, liars."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "good one, enjoyed it.",
+        "Middle was great. Beginning and end .....eh."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Best of the new breed.",
+        "Extremely entertaining."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Was really hoping for a better movie from two of my favorite actors.",
+        "Quite cheesy both in costumes, special effects, acting, and script."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "waiting for the 7th final season price to drop.",
+        "I had to admit this was one classy flick."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "Blew my mind first time. Still raised the hair on back of my neck the next 5 times I saw it.",
+        "Quite cheesy both in costumes, special effects, acting, and script."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I laughed. I cried. I whatevered.",
+        "This couch tater's favorite show's end is one of the most disasterest events of my life."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and fantasy genres, often favoring fast-paced narratives. They show a strong emotional connection to the content, although they are less concerned with production quality and brand loyalty."
+}

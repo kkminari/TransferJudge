@@ -1,0 +1,74 @@
+{
+  "user_id": "AGZKEQWELIL3PQZFQXU3EKEOZ7XQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, documentary",
+      "evidence": [
+        "\"Great characterizations, solid plotting and dialogue, and an interesting ensemble of actors.\"",
+        "\"Very well done, interesting documentary about British children who were sent to the US to escape the bombing in England during WWII.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"After 15 minutes of incredibly mundane scenes and one anything-but-lively dialogue, I had to bail.\"",
+        "\"It's just a zombie movie this season, no more, no less.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"After 15 minutes of incredibly mundane scenes and one anything-but-lively dialogue, I had to bail.\"",
+        "\"The subtitles are flashed on so fast you have to pause and go back if you want to read them, too annoying to even try to follow.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is superb, ditto the filming.\"",
+        "\"It's well written and produced, great cast, fine screenplay.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual appeal",
+      "evidence": [
+        "\"It looks wonderful but who can read the subtitles that fast, and hopefully get a tiny look at what else is on the screen!\"",
+        "\"Great characterizations, solid plotting and dialogue, and an interesting ensemble of actors.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I had to bail.\"",
+        "\"Misogynistic garbage, blaming unknown nervous system disorders in women on hysteria. Harmful and disgusting.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for drama and comedy genres, appreciating high production quality but expressing dissatisfaction with slow pacing and simple narratives. They have mixed feelings about brand loyalty and emotional engagement, often focusing on visual appeal and character development."
+}

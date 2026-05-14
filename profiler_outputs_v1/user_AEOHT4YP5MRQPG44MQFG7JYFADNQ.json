@@ -1,0 +1,77 @@
+{
+  "user_id": "AEOHT4YP5MRQPG44MQFG7JYFADNQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, family, educational",
+      "evidence": [
+        "\"Good series; a bit gruesome though.\"",
+        "\"Nice movie for the kids but, I also enjoyed watching\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Exciting streaming video. Suspenseful and fast moving.\"",
+        "\"Good series exciting and action packed.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Fast fun and dramatic.\"",
+        "\"Suspenseful and fast moving.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent streaming quality.\"",
+        "\"Quality of the streaming is excellent.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I will continue to watch it for the current season.\"",
+        "\"I will watch the sequels.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual quality, action",
+      "evidence": [
+        "\"Streaming quality is excellent; the movie was enjoyable.\"",
+        "\"Good acting. good sound, picture is clear.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I note Season four is returning to the screen. Excited\"",
+        "\"I enjoyed the movie; will watch it again.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action-packed and family-friendly content with a strong emphasis on streaming quality. They prefer fast-paced narratives and show a moderate interest in educational programming, though they do not exhibit strong loyalty to specific creators or deep emotional engagement with the material."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHLAFGCYVN64N4ECMG7HISS7YMBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family",
+      "evidence": [
+        "\"A blast from the past! Soooo funny and totally old school.\"",
+        "\"Great movie. Had a family Movie night and this was a total hit.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A blast from the past! Soooo funny and totally old school.\"",
+        "\"Great movie. Had a family Movie night and this was a total hit.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Very funny, but not as good as some of his earlier works. Still enjoyed a gut busting time though.\"",
+        "\"Great action and superb graphics abound in this flick.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"A++ Classic movie! Gary Graham is superb and although this is a lower budget movie, it is still quite good.\"",
+        "\"Great movie. Had a family Movie night and this was a total hit.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Chipmunks",
+      "evidence": [
+        "\"What can I say, Its the Chipmunks! Kids and adults always love them and always will.\"",
+        "\"Bought them all for our collection.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Great action and superb graphics abound in this flick.\"",
+        "\"A++ Classic movie! Gary Graham is superb and although this is a lower budget movie, it is still quite good.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Would highly recommend! My kids wanted to watch it again and again!\"",
+        "\"Great movie. Had a family Movie night and this was a total hit.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and family-oriented films, often enjoying light-hearted and humorous content. They value emotional engagement, particularly in family settings, and show loyalty to the Chipmunks franchise, indicating a taste for nostalgic and entertaining experiences."
+}

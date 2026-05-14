@@ -1,0 +1,77 @@
+{
+  "user_id": "AH2WWQOELYQQKKEGDRKD4E6Z2DEA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy",
+      "evidence": [
+        "Tyler Perry is a genius!!! Love all his plays.",
+        "Katt Williams is a FOOL!!!!!!!! One of the funniest comedians of my time."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Cute movie. This storyline spoke to me since I'm an Accountant. Loved it!",
+        "Another one of my all time favs. I know nearly every line."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "I couldn't stop & stayed up until 5am to finish.",
+        "Poor Tink Tink. OMG...my side is still hurting from laughing so hard."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The quality of the episodes were very clear.",
+        "Tyler Perry is a genius!!! Love all his plays."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Tyler Perry, Katt Williams, Jamie Foxx",
+      "evidence": [
+        "Tyler Perry is a genius!!! Love all his plays.",
+        "Purchased this DVD because JAMIE FOXX is an absolute fool."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I know nearly every line. Can watch over & over & over again.",
+        "OMG...my side is still hurting from laughing so hard."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "This storyline spoke to me since I'm an Accountant. Loved it!",
+        "I couldn't stop & stayed up until 5am to finish."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy, particularly enjoying works by Tyler Perry and stand-up performances by Katt Williams and Jamie Foxx. They appreciate high production quality and tend to favor simple narratives that evoke strong emotional responses."
+}

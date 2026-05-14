@@ -1,0 +1,77 @@
+{
+  "user_id": "AGNMFOOAGZ6ZZBH2QLMJ5COZ7I5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's shows, family-friendly",
+      "evidence": [
+        "We love the Poldark series",
+        "My 3yr old loves Tumble Leaf."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Not a great plot, lots of jumping around",
+        "Seems like a cute show."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "We think it could be a really good show. Would definitely be interested in watching more episodes.",
+        "My 3 and 5 yr old loved the animals and music."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "It was mediocre at best in my opinion.",
+        "My kids didn't like it. They couldn't even finish watching it."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "We love the Poldark series",
+        "Husband likes it."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "My 3 and 5 yr old loved the animals and music.",
+        "Cute show!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "It was mediocre at best in my opinion.",
+        "My kids didn't like it. They couldn't even finish watching it."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys children's and family-friendly shows, particularly those that engage younger audiences. They prefer simple narratives with a slower pace, showing a low sensitivity to production quality and emotional depth."
+}

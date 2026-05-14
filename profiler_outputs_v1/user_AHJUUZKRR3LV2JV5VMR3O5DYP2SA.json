@@ -1,0 +1,74 @@
+{
+  "user_id": "AHJUUZKRR3LV2JV5VMR3O5DYP2SA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, war, romance",
+      "evidence": [
+        "\"An intriguing film dealing with lesbian love and relationships.\"",
+        "\"I'd recommend to any one who enjoys war movies.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Average story line mediocre acting.\"",
+        "\"Not waht I expected\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"A little slow in parts but a strange freaky movie!\"",
+        "\"Not very good\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent acting and story line\"",
+        "\"Great acting, great plot, good storyline, great soundtrack.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"well acted..vefry violent..true to the character portrayed!\"",
+        "\"Penelope does a amazing characterization of this woman.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A well done vision of what drone warfare is all about and the human toll is exerts on those involved and impacted by!\"",
+        "\"good acting - good scripting - entertaining.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for high-quality dramas and war films, appreciating excellent acting and storytelling. They have mixed feelings about narrative complexity and pacing, indicating a preference for engaging yet straightforward narratives."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFIVFLNS3BO2KTJNJT6UX2RV6JEA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "survival, drama, romance",
+      "evidence": [
+        "\"I love survival movies, especially if there is a little romance involved\"",
+        "\"One of the best police dramas\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good movie\"",
+        "\"Extremely entertaining and very well done!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"OK action\"",
+        "\"Not as good as THE CLOSER\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Extremely well done. Great plot\"",
+        "\"One of the best TV dramas ever made, and very contemporary.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "General praise for various movies and series."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Great story telling; admirable characters\"",
+        "\"Poignant!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A great, inspiring story!\"",
+        "\"Have seen it many times--and always enjoyable.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for survival and drama genres, often appreciating stories with emotional depth and high production quality. They enjoy simple narratives that are entertaining and resonate emotionally, though they show little brand loyalty to specific creators."
+}

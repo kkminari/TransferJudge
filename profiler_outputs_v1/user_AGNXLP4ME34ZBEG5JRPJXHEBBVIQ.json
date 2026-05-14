@@ -1,0 +1,77 @@
+{
+  "user_id": "AGNXLP4ME34ZBEG5JRPJXHEBBVIQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, western, family",
+      "evidence": [
+        "I really like westerns",
+        "Despite reviews on other sites, You gotta to stay happy is a good romantic comedy."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Funny funny funny",
+        "Great movie."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "I like runaway train but I liked convict cowboy better.",
+        "Just a great movie and the dvd played great."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the new remastered picture and sound, are outstanding",
+        "DVD played great."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I had bought the first season of crime story, 5 years ago.",
+        "I am glad to see this oft overlooked gem."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "we were just amazed at the color",
+        "I could almost feel like being blown away watching sac planes take off!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "it is one of those movie that touches you and keeps on touching you",
+        "I plan to buy the movie for myself because I just love this movie."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted comedies and westerns, often appreciating visual quality and emotional impact in films. They prefer straightforward narratives with fast pacing, indicating a taste for engaging yet uncomplicated storytelling."
+}

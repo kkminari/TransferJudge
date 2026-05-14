@@ -1,0 +1,77 @@
+{
+  "user_id": "AGC2D4CF73AGBMN2UC3QXMUTVUJQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, comedy, drama",
+      "evidence": [
+        "\"I do not know if these three Agatha Christie movies had the same director/producer but they felt like they came from the same makers.\"",
+        "\"Yes, it's about murder but it's so tastefully done! No blood, no bodies, no autopsies--just lots of great dialogue between McMillan, Wife and Maid.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's worth watching and entertaining, just not something I'd bring with me to a desert island.\"",
+        "\"Not great writing, acting or locations but still fun!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The shows were actually about Christmas and the writers wrote dialogue where the characters cared about each other but not in an overly sentimental kind of way.\"",
+        "\"This was a great show, although I didn't appreciate it at the time.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"It's done without violence, blood or gore. Instead The Haunting relies on perfect direction, brilliant writing and amazing acting.\"",
+        "\"Well written, acted, directed--McMillan and Wife was the best spoke on the NBC Mystery Wheel.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I wanted to be Sally McMillan when I was 12 and planned to wear a football jersey and hoop earrings to bed when I married someone like Stuart McMillan.\"",
+        "\"I could watch this show over and over and over and I probably will!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This is truly the scariest movie I have ever seen and it's done without violence, blood or gore.\"",
+        "\"It's like eating at your favorite fast food place--predictable, enjoyable and satisfying.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Neil Simon made heartbreaking material so entertaining.\"",
+        "\"I loved the scene where George explained to Valerie why he slept with her.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys classic mystery and comedy genres, particularly those with strong writing and character development. They appreciate high production quality and emotional depth in storytelling, often favoring slower-paced narratives that evoke nostalgia and warmth."
+}

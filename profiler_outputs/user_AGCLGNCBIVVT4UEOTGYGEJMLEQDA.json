@@ -1,0 +1,77 @@
+{
+  "user_id": "AGCLGNCBIVVT4UEOTGYGEJMLEQDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"Best movie of Little women I have ever seen...\"",
+        "\"Pretty funny...could cut down on the F word usage a bit.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"simply wonderful.\"",
+        "\"I was amazed how this movie touched on some nerves I didn't know I had...excellent!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Call the midwife is truly one of the best series I've watched on PBS, so I've been collecting them all.\"",
+        "\"This show caught my attention on PBS...I missed a few episodes, so I bought the entire series...actually, it's the best 'reality' show I've seen in years... Can't wait for season 2!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I was amazed how this movie touched on some nerves I didn't know I had...excellent!\"",
+        "\"Seem that the British have a good eye for good shows.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to 'Call the Midwife' series",
+      "evidence": [
+        "\"Call the midwife is truly one of the best series I've watched on PBS, so I've been collecting them all.\"",
+        "\"This show caught my attention on PBS...I missed a few episodes, so I bought the entire series...actually, it's the best 'reality' show I've seen in years... Can't wait for season 2!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I was amazed how this movie touched on some nerves I didn't know I had...excellent!\"",
+        "\"even though this one follows the same story line, the fact that there are more outdoor scenes makes this one more enjoyable....Keep them coming!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I was amazed how this movie touched on some nerves I didn't know I had...excellent!\"",
+        "\"It intrigued me then, and with the world's current situation, I wanted to own this movie to see how it bears on today's events.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and comedy, particularly enjoying series like 'Call the Midwife'. They appreciate high production quality and emotional depth in storytelling, favoring slower-paced narratives that resonate on a personal level."
+}

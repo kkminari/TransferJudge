@@ -1,0 +1,77 @@
+{
+  "user_id": "AHQLBHMLANWZI3TSKLMWQ6QMPVSQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "crime, drama",
+      "evidence": [
+        "\"Easily in the top ten of best cop shows ever.\"",
+        "\"Best cop drama since NYPD Blue\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Predictable, of course, but with a very good cast which makes it work.\"",
+        "\"It's predictable but still captivating.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The pace is fast, the casting/acting first rate.\"",
+        "\"Bam, bam, bam pacing make it watchable.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Crisp writing, perfect casting and high production values make this series a cut above.\"",
+        "\"High production values and attention to detail, along with a plausible story line make this a Five Star series.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "David E. Kelley, David Simon, Stephen Bochco",
+      "evidence": [
+        "\"Thank you Amazon Prime for adding this David E. Kelly masterpiece to your lineup.\"",
+        "\"Another worth-watching series from David Simon, this time with Eric Ellis Overmyer.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Beautifully shot, the setting is perfect for the film.\"",
+        "\"High production values and attention to detail, along with a plausible story line make this a Five Star series.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Absolutely Brilliant! A heady, sophisticated drama/comedy that causes grown men to weep.\"",
+        "\"Compelling stories, crisp writing, high production values, perfect casting and innovative camera techniques make this series watchable time after time.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for crime and drama genres, particularly enjoying fast-paced narratives with high production quality. They exhibit loyalty to notable creators like David E. Kelley and Stephen Bochco, and their reviews reflect a deep emotional engagement with the content."
+}

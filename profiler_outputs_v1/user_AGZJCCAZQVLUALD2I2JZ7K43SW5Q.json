@@ -1,0 +1,77 @@
+{
+  "user_id": "AGZJCCAZQVLUALD2I2JZ7K43SW5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I thought this anthology series featuring an ensemble cast set in a weird world would be interesting and at first it was.\"",
+        "\"While the cast performance is great and true to character it seems the whole Star Trek franchise is devolving into dark shoot-em ups.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Bravo! This film's twists and turns forced me to think about the quirky nature of time travel.\"",
+        "\"Most of the episode left me thinking long after watching them but 'Safe and Sound' and 'Kill all Others' were very dark and disturbing.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It did seem to drag a bit but by episode five it came to a screeching halt for me and I found myself skipping forward to the finish.\"",
+        "\"While the cast performance is great and true to character it seems the whole Star Trek franchise is devolving into dark shoot-em ups.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I just watched episode one. This is standard Tom Clancy military propaganda.\"",
+        "\"I enjoyed the portrayal of LBJ by Woody Harrelson but the film was marred for me by the closed captioning.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"While I'm a fan of Tom Hanks and Carrie Fisher I felt this movie was intended for the 8-15 year old male demographic.\"",
+        "\"While the cast performance is great and true to character it seems the whole Star Trek franchise is devolving into dark shoot-em ups.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"Pay close attention to the little details as the story progresses.\"",
+        "\"Most of the episode left me thinking long after watching them but 'Safe and Sound' and 'Kill all Others' were very dark and disturbing.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I didn't feel much empathy toward any of the main characters.\"",
+        "\"This film was boring and a complete waste of time for me.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for complex narratives that provoke thought, but they often find films and series to be slow-paced and lacking emotional engagement. They express mixed feelings towards genres and demonstrate low brand loyalty, indicating a more casual approach to their viewing choices."
+}

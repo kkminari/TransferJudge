@@ -1,0 +1,77 @@
+{
+  "user_id": "AFQEPP7TZINBXHOM7Q27CZ5MRBSQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "inspirational, educational",
+      "evidence": [
+        "\"Very Inspirational.\"",
+        "\"Excellent; very educational.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Makes you wonder why one would enter into such a world.\"",
+        "\"Okay.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Continually warm throughout.\"",
+        "\"Excellent Quality; Simply amazing!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent Quality; Simply amazing!\"",
+        "\"Excellent.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"The DVD enlightens with the truth concerning the Civil Rights Struggle...\"",
+        "\"A GROUP THAT SEEM AS THOUGH LONG FORGOTTEN SURFACED...\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, heartwarming",
+      "evidence": [
+        "\"HE REVEALS ALL.\"",
+        "\"HEART WARMING AND INSPIRATIONAL.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Good gospel message; shows the power of God to change.\"",
+        "\"What a transition.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for inspirational and educational content, valuing high production quality and emotional resonance. They seem to appreciate slower pacing and simple narratives, indicating a taste for heartwarming and atmospheric experiences."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGP6KP452W3JTOXVTIBUFG4DMK7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, horror, drama, comedy",
+      "evidence": [
+        "\"The themes are allegorical and are most relevant to today's surge of xenophobia and right wing nationalism.\"",
+        "\"it's campy. it's classic.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Several moral and political issues are explored and I found the story to be both entertaining and thought provoking.\"",
+        "\"It was gritty, painful and somewhat disturbing... But this was not a fun movie. It was great storytelling and illuminating.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"the bouts and training in this movie are more realistic and the acting and bravado are more subdued.\"",
+        "\"It was a total blast! Fun, exciting, somewhat smart, totally enjoyable\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The script; The characters; the production value: all first rate.\"",
+        "\"the acting was pretty brilliant and the direction and screenplay were inspired.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love anything doctor Who related and Sarah Jane is one of my fav companions.\"",
+        "\"If you enjoy the novels you will be pleased.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It was amazing. Intense and moving.\"",
+        "\"It is a gritty, painful and somewhat disturbing film.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Intense and moving.\"",
+        "\"It will not leave you with a warm and fuzzy feeling.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly fantasy, horror, and drama, with a strong appreciation for high production quality. They value emotional impact and complex storytelling, though they have mixed feelings about pacing. Overall, they seek engaging narratives that provoke thought and evoke strong feelings."
+}

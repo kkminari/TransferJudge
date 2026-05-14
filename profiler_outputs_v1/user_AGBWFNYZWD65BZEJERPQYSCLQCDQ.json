@@ -1,0 +1,89 @@
+{
+  "user_id": "AGBWFNYZWD65BZEJERPQYSCLQCDQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, comedy, suspense, drama",
+      "evidence": [
+        "\"I usually prefer more subtle, psychological horror\"",
+        "\"I love creepy, but this seemed to have more sex than chills.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"There was lots of emotion but no action on any character's part.\"",
+        "\"Good story. Suspenseful. But hasn't held up over time for me.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I found Heredity to be vexing rather than disturbing.\"",
+        "\"Too many amateurs freaking out about 'orbs' and lens anomalies for me.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"This movie is awful. Characters are unlikable and inept.\"",
+        "\"Bad acting, bad cinematography, bad special effects...Wonderful.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "Toni Collette, Rifftrax",
+      "evidence": [
+        "\"I thought I'd give it a try. Almost everything she's in is, well, singular.\"",
+        "\"Like the movie but love to use with Rifftrax.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, immersive",
+      "evidence": [
+        "\"The somber palette and lighting felt sad and claustrophobic.\"",
+        "\"Totally immersive, suspenseful, and the art production is beautiful.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I just couldn't care about these people anymore.\"",
+        "\"I couldn't even get through the first episode.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "dark humor, unintentional comedy",
+      "evidence": [
+        "\"This movie is (unintentionally) hilarious.\"",
+        "\"Great for Rifftrax.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user has a mixed taste in genres, showing a preference for horror and comedy, particularly enjoying dark humor and Rifftrax. They tend to favor simpler narratives with slower pacing, while being less sensitive to production quality. Emotional engagement appears to be low, indicating a focus on entertainment rather than deep emotional connections."
+}

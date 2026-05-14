@@ -1,0 +1,77 @@
+{
+  "user_id": "AHYABY5VWCWMXBEVBEXHN3H7TAHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, thriller, sci-fi",
+      "evidence": [
+        "\"Finally a show about tech startups that is current and has interesting multifaceted characters.\"",
+        "\"If you enjoyed the Aliens series you will enjoy this film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"the story line has developed and I highly recommend that anyone interested in computers, apps, and the world of tech companies.\"",
+        "\"the editing is amazing and key to the entire film.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"I am loving the character development which is not so slow that you get bored with it yet gives you enough information to invested and interested in what they are doing.\"",
+        "\"the plot was well thought out, the acting is very very good, and the special effects are just enough to enhance and not overwhelm the actors.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"This is really well made film with a great story, acting, and clearly a large budget which shows.\"",
+        "\"the acting is very very good, and the special effects are just enough to enhance and not overwhelm the actors.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I stopped watching after the first pathetic episode.\"",
+        "\"the series is nothing without her.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"a visual abstract 'painting' that while seeming unrelated and disjointed when viewed in totality becomes a visual masterpiece and a pleasure to watch.\"",
+        "\"you will learn more than most business majors after watching this creative and engaging film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Watch this and you will be amazed at the story and can't wait to see where it goes next!\"",
+        "\"I really love the way the story line has developed and I highly recommend that anyone interested in computers, apps, and the world of tech companies.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for complex narratives and high-quality productions, particularly in the drama and sci-fi genres. They appreciate well-developed characters and engaging storytelling, while expressing disappointment in productions lacking depth or quality."
+}

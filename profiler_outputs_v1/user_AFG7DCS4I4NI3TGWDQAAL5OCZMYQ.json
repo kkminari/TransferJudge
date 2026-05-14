@@ -1,0 +1,77 @@
+{
+  "user_id": "AFG7DCS4I4NI3TGWDQAAL5OCZMYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, thriller, comedy",
+      "evidence": [
+        "\"Interesting but like watching 007.\"",
+        "\"Great show. So funny!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"It's very interesting and makes you think. It's almost depressing to think of a world or USA being like that.\"",
+        "\"One of the best endings in TV. So nice to have everyone killed off.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"We watch 2 episodes a night to catch up.\"",
+        "\"Did not care for. Made me brain dead.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"We love it. Really good show.\"",
+        "\"Enjoy watching Bosch. One of the best on prime\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Not always Thornton fan but he really does a good job in this show.\"",
+        "\"Hope to see lots more\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Great show. So funny!!\"",
+        "\"The movie it self was very good. Just kinda sad.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"So nice to have everyone killed off. They all went on just how I wanted.\"",
+        "\"I would recommend watching.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama, thriller, and comedy genres, with a preference for shows that evoke strong emotional responses. They appreciate quality production but show low loyalty to specific creators, indicating a diverse taste in content."
+}

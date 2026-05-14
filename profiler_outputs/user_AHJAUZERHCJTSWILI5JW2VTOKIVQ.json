@@ -1,0 +1,77 @@
+{
+  "user_id": "AHJAUZERHCJTSWILI5JW2VTOKIVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, historical, animated",
+      "evidence": [
+        "\"Good acting and I like the fact it is historical.\"",
+        "\"fun for the Grand kids, and maybe Grandpa\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Cheesy, but a good message.\"",
+        "\"Little long, but overall okay.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"in some ways it is a little tedious, but to someone that is really into the development and evolution of devices used in war this may be right up there ally.\"",
+        "\"Little long, but overall okay.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great fun. I wish I was there neighbor. But I would feel inadequate.\"",
+        "\"I got rid of cable, but I was not going to miss out on this show.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Brendan Cumberbatch, Jeremy Camp",
+      "evidence": [
+        "\"What I like is Brendan Cumberbatch. He's one of my favorite actors...\"",
+        "\"If you are a Jeremy Camp fan watch this.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Great fun listening on there lives, and being such wonderful kids makes me very envious of them and there parents.\"",
+        "\"I like the fact that there is classical music featured during the show.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"this is an excellent example of a life as a persecuted Christian. the book is better, but this is good to view.\"",
+        "\"Love the pond and the characters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and historical content, often with a simple narrative style. They show a preference for emotional resonance and have a fondness for specific actors, indicating a strong connection to the characters and stories presented."
+}

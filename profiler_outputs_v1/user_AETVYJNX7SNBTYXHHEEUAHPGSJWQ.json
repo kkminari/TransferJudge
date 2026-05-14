@@ -1,0 +1,77 @@
+{
+  "user_id": "AETVYJNX7SNBTYXHHEEUAHPGSJWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "history, drama",
+      "evidence": [
+        "HISTORY AND DRAMA, GREAT JOB!!",
+        "A great series covering the 2nd war."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I can easily overlook their shortcomings.",
+        "I guess I am happy with the series because it is about something I love."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I do have trouble hearing many of the short remarks at times - usually when it's important!",
+        "I can see now, after reading many other's reviews, the shortcomings of this drama."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I know the series is not historically accurate, but so far at least they haven't just 'STOOPID SLAPPED' us.",
+        "the shooting is decent."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I was honored to be there when the Explorer's Club awarded him their 'LIFETIME ACHIEVEMENT MEDAL!'",
+        "I also HEAVILY recommend 'In Search Of Human Origins' w/ Don Johansen."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "informative",
+      "evidence": [
+        "I LOVE HAVING NEW INTELLIGENT INFORMATION LAID OUT LIKE THIS SHOW DOES.",
+        "This is not only Don Johanson's personal story of how he found 'Lucy,' but also OUR story."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "This history is not to be forgotten!,...EVER!",
+        "I started reading all I could and recording any shows on our human story."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for historical and dramatic content, often valuing informative and educational narratives. They appreciate slower pacing and emotional resonance, indicating a desire for depth and meaning in their viewing experiences."
+}

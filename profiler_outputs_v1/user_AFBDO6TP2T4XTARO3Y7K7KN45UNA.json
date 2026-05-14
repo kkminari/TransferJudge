@@ -1,0 +1,77 @@
+{
+  "user_id": "AFBDO6TP2T4XTARO3Y7K7KN45UNA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's, comedy",
+      "evidence": [
+        "They don't make kids' movies like they used to. This was one of the best!",
+        "Hilarious! Funny, great for good laughs....you'll be bawling"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Too long, a little boring at times. I am looking forward to a re-make, but the story line is great.",
+        "Great plot, and everyone of all ages will like it."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Too long, a little boring at times.",
+        "Hilarious! Funny, great for good laughs....you'll be bawling"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Very educational, it has what most children's shows lack these days.",
+        "Good musical numbers and memorable melodies!"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I told my brother this is the only movie I'll see with Joe Pesci where he's actually funny.",
+        "I love that it's in Spanish."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "Good musical numbers and memorable melodies!",
+        "Hilarious! Funny, great for good laughs....you'll be bawling"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Brings back memories",
+        "Very funny, great for good laughs....you'll be bawling"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys children's comedies that are funny and evoke nostalgia. They appreciate simple narratives and high sensory experiences, particularly in musical elements. While they have mixed feelings about pacing and production quality, their emotional engagement with the content is strong."
+}

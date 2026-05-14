@@ -1,0 +1,76 @@
+{
+  "user_id": "AGUKYLKD3VAFZZTBREMN7I4DEY7A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, comedy",
+      "evidence": [
+        "LOR best ever fantasy series",
+        "Great comic series"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great TV series",
+        "Fun f/u tv series to movies"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Fun tv series from movies",
+        "Watch over & over."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great TV series",
+        "Best $ value found"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "StarWarsLover",
+        "TreckieFan"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual",
+      "evidence": [
+        "great photography"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Enjoyed",
+        "Great TV series"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fantasy and comedy genres, particularly appreciating series that are fun and easy to watch. They show a preference for fast-paced storytelling and are less concerned with production quality, indicating a focus on entertainment value."
+}

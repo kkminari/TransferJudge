@@ -1,0 +1,77 @@
+{
+  "user_id": "AHF5XNQD2MB44YQCAL2UD2ZT5KHQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"It was well acted, but depressing.\"",
+        "\"It tries too hard to be funny or quirky.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"So formulaic. Boring.\"",
+        "\"It just never got going!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The show drags.\"",
+        "\"Just ok. The story needs to speed up a little.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"It was well acted, but depressing.\"",
+        "\"Enunciation is still important!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"We like Michael Connelly a lot!\"",
+        "\"Meryl Streep is fantastic in everything she does.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Bring out the tissues!\"",
+        "\"WOW!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It was very well done but very sad.\"",
+        "\"Bring out the tissues!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and comedy but has a preference for slower-paced narratives. They appreciate emotional depth in storytelling, though they express mixed feelings about production quality and narrative complexity."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFMN7JY35EVWTNHWXZUQT55OAGKA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy",
+      "evidence": [
+        "\"HILARIOUS! Absolutely love anything with Tina Fey!\"",
+        "\"NOT for kids, but overall a very funny, action-packed movie!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Pretty funny! We laughed a lot!\"",
+        "\"Was a great movie- action-packed, kept me interested! Would watch again!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"action-packed, kept me interested!\"",
+        "\"overall a very funny, action-packed movie!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Funny, but not THAT funny.. I lost interest about 10 minutes in.\"",
+        "\"Was a great movie- action-packed, kept me interested! Would watch again!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Tina Fey",
+      "evidence": [
+        "\"Absolutely love anything with Tina Fey!\"",
+        "\"HILARIOUS!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "humor and action",
+      "evidence": [
+        "\"Stinking hilarious!\"",
+        "\"Much funnier than I had expected. Laughed a lot.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Funny, but not THAT funny.. I lost interest about 10 minutes in.\"",
+        "\"Boyfriend ordered it but I loved it as well\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy, particularly enjoying humor and action-packed narratives. They appreciate fast pacing and show loyalty to creators like Tina Fey, but their focus seems to be more on entertainment than on production quality or deep emotional engagement."
+}

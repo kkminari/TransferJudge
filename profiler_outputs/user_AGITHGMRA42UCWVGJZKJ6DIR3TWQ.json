@@ -1,0 +1,77 @@
+{
+  "user_id": "AGITHGMRA42UCWVGJZKJ6DIR3TWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, comedy, family-friendly",
+      "evidence": [
+        "I always like the old sci-fi movies. They are relaxing and bring back memories.",
+        "I always loved Mclintock, comedy, action, drama."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "This is just an enjoyable movie. A nice mind resting evening.",
+        "I consider The Blob a classic from the old sci-fi years, I know they were all a little corny compared to now but this is just enjoyable old sci-fi."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I find The Pioneer Woman very relaxing to watch.",
+        "These shows were so enjoyable and I look forward to watching them again."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I always loved the Superman with George Reeves, watching these bring back so many childhood memories.",
+        "They might be silly to some but I put in a disc and watch these and they relax me."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I have been waiting for what seems like forever for The Father Dowling series to be released.",
+        "I always loved Mamas Family, did not like the first episodes of season 1 or 2 with the kids but season 3 with Naomi and Bubba just added to the fun."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "These shows were so enjoyable and I look forward to watching them again.",
+        "I put in a disc and watch these and they relax me and take me back to a better time."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "They might be silly to some but I put in a disc and watch these and they relax me and take me back to a better time.",
+        "I always like the old sci-fi movies. They are relaxing and bring back memories."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for old sci-fi and family-friendly comedies, enjoying simple narratives that provide relaxation and nostalgia. They value emotional resonance and a slow pacing in their viewing experiences, often prioritizing enjoyment over production quality."
+}

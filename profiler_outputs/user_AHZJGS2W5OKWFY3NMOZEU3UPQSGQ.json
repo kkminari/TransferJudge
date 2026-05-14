@@ -1,0 +1,77 @@
+{
+  "user_id": "AHZJGS2W5OKWFY3NMOZEU3UPQSGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance",
+      "evidence": [
+        "\"Thoughtful and realistic\"",
+        "\"Excellent film except for losing some realism\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It seems to drift around a little in the beginning but you realize this is just to pick up all the threads of the story line.\"",
+        "\"Not believable, but then I have never watched 24 before.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It seems to drift around a little in the beginning but you realize this is just to pick up all the threads of the story line.\"",
+        "\"Excellent film except for losing some realism.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"A classic treatment with powerful stars.\"",
+        "\"Excellent job although a twist on an old familiar plot.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Tom Cruise is not the right actor for this.\"",
+        "\"I wish I knew Korean!!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It was a pleasure to see the earl from Downton Abbey!\"",
+        "\"I watched it twice in order to use my earphones and hear every bit of brogue.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The scene near the end, of breaking down the bullet proof glass is riveting.\"",
+        "\"This is definitely not a coming of age movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for drama and romance genres, appreciating thoughtful and realistic storytelling. They value high production quality and emotional resonance, indicating a taste for well-crafted narratives that evoke strong feelings."
+}

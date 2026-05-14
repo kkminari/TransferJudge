@@ -1,0 +1,77 @@
+{
+  "user_id": "AHISVMPIBD33NVP6K74BYKUHEN2Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, western, film-noir",
+      "evidence": [
+        "\"Caveman is a film that can be watched multiple times & still make you laugh.\"",
+        "\"The Maltese Falcon is one of Hollywood's greatest, if not THE greatest, examples of the film-noir genre.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The story is full of twists & turns & will keep you guessing all the way.\"",
+        "\"Fire Down Below has its moments but never rises above average.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The film is extremely well paced... There's hardly a slow minute nor anything that terribly stretches the credibility of the events that are shown.\"",
+        "\"The film never really takes off. I found myself not really caring that much to what was going on with the characters.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The film is beautifully restored. There are many bonus features...\"",
+        "\"The audio & video are in excellent condition.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "John Huston, Bogart",
+      "evidence": [
+        "\"The director, John Huston, mostly known as a screenwriter to this point, made his directorial debut with a stunning effort.\"",
+        "\"Bogart was cast as the lead when George Raft decided he didn't want the roll; Raft must have regretted that decision for the rest of his life.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, comedic timing",
+      "evidence": [
+        "\"The film can be played in three different languages...\"",
+        "\"The writing was excellent, the acting was excellent & its timing was impeccable.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It's a film you can watch many times.\"",
+        "\"The film is full of witty dialog & innuendos.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of comedy, drama, and western genres, with a particular fondness for film-noir. They appreciate high production quality and strong storytelling, often valuing emotional resonance and visual spectacle in their viewing experiences."
+}

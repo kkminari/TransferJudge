@@ -1,0 +1,77 @@
+{
+  "user_id": "AELEFWRNVLXXKIZTURLLE5KARQVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, children's, drama",
+      "evidence": [
+        "I love Hayley Mills",
+        "Love the shows and all the books written about the family."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It was a really cute movie.",
+        "Had a really cute ending."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I love their show and their family.",
+        "My granddaughter loves these DVD's."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great gift!",
+        "Love the shows and all the books written about the family."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Hayley Mills",
+      "evidence": [
+        "Hayley Mills is good in all of her movies.",
+        "I love Hayley Mills."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I love watching the Little Couple on TV.",
+        "My granddaughter loves these DVD's."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It was a really cute movie.",
+        "Love the shows and all the books written about the family."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-oriented and children's content, particularly enjoying the works of Hayley Mills. They favor simple narratives with a slow pacing that evoke emotional resonance, indicating a deep connection to the stories and characters."
+}

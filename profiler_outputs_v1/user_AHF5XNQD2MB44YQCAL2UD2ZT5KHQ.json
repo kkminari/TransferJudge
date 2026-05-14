@@ -1,0 +1,77 @@
+{
+  "user_id": "AHF5XNQD2MB44YQCAL2UD2ZT5KHQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"It was well acted, but depressing.\"",
+        "\"It tries too hard to be funny or quirky.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"So formulaic. Boring.\"",
+        "\"It just never got going!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The show drags.\"",
+        "\"Just ok. The story needs to speed up a little.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"It was well acted, but depressing.\"",
+        "\"It had a few funny moments, but today, a week later, I had trouble remembering what it was about.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Meryl Streep, Michael Connelly",
+      "evidence": [
+        "\"Meryl Streep is fantastic in everything she does.\"",
+        "\"We like Michael Connelly a lot!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, character-driven",
+      "evidence": [
+        "\"This show has human good guys and really good bad guys.\"",
+        "\"It was very well done but very sad.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Bring out the tissues!\"",
+        "\"WOW!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys character-driven dramas and comedies, often appreciating emotional depth but expressing frustration with slow pacing and formulaic narratives. They show loyalty to specific actors like Meryl Streep and appreciate well-acted performances, even if the content can be depressing."
+}

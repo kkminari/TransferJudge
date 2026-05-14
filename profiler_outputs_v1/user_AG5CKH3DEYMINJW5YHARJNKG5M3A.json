@@ -1,0 +1,77 @@
+{
+  "user_id": "AG5CKH3DEYMINJW5YHARJNKG5M3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary, noir",
+      "evidence": [
+        "\"Wonderful Nordic Noir- Wonderful characterizations\"",
+        "\"True to Life, Painful, Brave, Nuanced, and Suffused with the Sadness of Missed Chances\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The characters are complex and flawed and one's view of them changes constantly...\"",
+        "\"The story was multi-layered. Many times I expected some violent incident but I was immensely relieved that the film never resorted to this type of a device.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The way in which the director leads one from one's initial perceptions... to the revelation of the details of their relationship is artful.\"",
+        "\"The film captures the chess world (male dominated, intimidating, turned inward) well although it is not credible that the protagonist could become so good...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting by Ana Torrent is the best acting work by a child that I have ever seen.\"",
+        "\"The cinematography is lush and beautiful.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love Agatha Christie and had read many of her books, but not this one.\"",
+        "\"I loved Archipelago and Unrelated but this was just awful.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The Swiss mountains are rendered so perfectly that you will feel cold watching the film.\"",
+        "\"The opening credits are wonderful.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This film resonates and lingers.\"",
+        "\"The film is ultimately haunting, affecting and true-to-life.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex dramas and documentaries, particularly those with nuanced characterizations and emotional depth. They appreciate high production quality and sensory experiences, often favoring slow-paced narratives that allow for character development and thematic exploration."
+}

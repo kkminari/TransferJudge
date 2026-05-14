@@ -1,0 +1,77 @@
+{
+  "user_id": "AGHVWKRBJ3FL3WPFEHCGTTAQDKPA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "dislikes drama, crime, action",
+      "evidence": [
+        "\"Boring and anti- climatic film about boring fictional characters.\"",
+        "\"This is not only nowhere near the atmoshper of terror of the original series...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"No overall plot. No acting skills displayed. No real story.\"",
+        "\"Boring, bad movie that goes nowhere.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Boring and anti- climatic film about boring fictional characters.\"",
+        "\"Boring, bad movie that goes nowhere.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"No overall plot. No acting skills displayed. No real story.\"",
+        "\"Bad remake.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"He can act but he cannot write or direct.\"",
+        "\"This is not only nowhere near the atmoshper of terror of the original series...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"Boring and anti- climatic film about boring fictional characters.\"",
+        "\"Boring, bad movie that goes nowhere.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"THIS MOVIE SUCKS! Keep your money.\"",
+        "\"Boring!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong aversion to movies that lack engaging plots and character development, often finding them boring and unworthy of attention. They seem to prefer straightforward narratives and show little appreciation for production quality or emotional depth."
+}

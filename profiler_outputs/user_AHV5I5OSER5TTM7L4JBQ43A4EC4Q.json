@@ -1,0 +1,76 @@
+{
+  "user_id": "AHV5I5OSER5TTM7L4JBQ43A4EC4Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "political drama, historical",
+      "evidence": [
+        "\"I LOVED this show...the new season, the first scenes, delegating people between vax and not.\"",
+        "\"I am a huge history buff, and thought I could stomach Clooneys narration...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Some of it was hard to follow, had to rewind sometimes.\"",
+        "\"It was so hard to follow along. Never sure if Jo was thinking about and acting out scenes from the past, or are they present.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I could feel my anxiety level grow every minute as I watched this.\"",
+        "\"It started out great, but there are way too many America Bashing comments, that have nothing to do with the story.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great acting...Great Story. Way better than some of the others nominated...\"",
+        "\"Well made, very little dialogue, but the visuals are enough.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love Falco, and was happy to see her back.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I was in tears many times, and thinking of all the babies that suffered, its heart wrenching.\"",
+        "\"I could feel my anxiety level grow every minute as I watched this.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Thank you to the people who made this movie. I was in tears many times...\"",
+        "\"It was so hard to watch the self harm and mental anguish.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong aversion to political themes in media, often expressing frustration with political commentary overshadowing storytelling. They appreciate high production quality and emotional depth, indicating a preference for complex narratives that evoke strong feelings, despite sometimes finding them hard to follow."
+}

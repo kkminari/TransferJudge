@@ -1,0 +1,77 @@
+{
+  "user_id": "AGFNSFMLF2XW4TVDS52CHTGLK3RQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, classic, comedy",
+      "evidence": [
+        "\"Old school entertainment kids love it\"",
+        "\"Love this old movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Very entertaining\"",
+        "\"A classic movie very good\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Keeps grandkids entertained\"",
+        "\"We have watched several times very good\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"reproduction of film not so good but just like it was many years ago\"",
+        "\"Looks like it was recorded off of a old vhs tape\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Grandkids love the older toons\"",
+        "\"Older cartoons are better than this crap now a days\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"brought back great memories watching with my parents\"",
+        "\"seems very real life\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"brought back great memories watching with my parents\"",
+        "\"How can kids watch it over and over\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly, classic comedies that are simple and entertaining. They value emotional connections and nostalgia, often reflecting on memories associated with the films, while showing less concern for production quality."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHS3GTIZNWWQT3IQ7KJEE2JR6KCA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "human interest, classic, comedy",
+      "evidence": [
+        "\"good human interest story\"",
+        "\"charming love story\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"good story-- funny and sad\"",
+        "\"just a wholesome show\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"character-driven, contemplative\"",
+        "\"very touching movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"wonderful cast and great acting\"",
+        "\"Joaquin should have gotten an award for his portrayal\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"have watched it several times\"",
+        "\"have always liked this movie\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "emotional, musical",
+      "evidence": [
+        "\"the ending with song 'ave maria' is touching\"",
+        "\"the music as usual by john barry is awesome\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"definitely a tear jerker\"",
+        "\"very touching movie\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for human interest stories and classic films, often highlighting emotional depth and quality acting. They enjoy simple narratives with a slower pace, and their reviews reflect a high sensitivity to production quality and emotional resonance."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHWXFN6LOUPF2QTZR5HMUKEHNGWA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, action, comedy",
+      "evidence": [
+        "\"This movie delivers all the prerequisites, proof that producer Irwin Allen knew what to dole out to enthrall viewers.\"",
+        "\"This is the most entertaining World War II movie ever made.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The story part suffers from lackluster dialog and a slow plot.\"",
+        "\"The movie begins slowly but soon careens into some nail-biting sequences.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The movie begins slowly but soon careens into some nail-biting sequences.\"",
+        "\"The story part suffers from lackluster dialog and a slow plot.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Technical goofs are noticeable.\"",
+        "\"Holden’s performance is mesmerizing.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "William Holden, Billy Wilder",
+      "evidence": [
+        "\"Holden nails it in this movie.\"",
+        "\"Once again brilliant director/writer Billy Wilder peers into the movie business.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The cinematography in the interior scenes is poor.\"",
+        "\"The view of Victoria Peak and Kowloon from Holden’s rooftop pad is breathtaking.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The ending will catch you by surprise.\"",
+        "\"The love scenes on the rooftop overlooking New York City are particularly moving.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and romance, particularly when combined with action and comedy elements. They appreciate high production quality and are emotionally engaged by the performances, especially those of William Holden and the direction of Billy Wilder."
+}

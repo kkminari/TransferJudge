@@ -1,0 +1,77 @@
+{
+  "user_id": "AGLMDYLBU22CTEJCA3CV3KF6MEGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, comedy, drama, horror",
+      "evidence": [
+        "\"I really enjoyed this movie. It had a lot of fun twists that just kept coming.\"",
+        "\"This is one of the best Prime movies on here; it's so good I would have happily paid to watch it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"It's so full of suspense and twists.\"",
+        "\"I never knew what was going to happen next in this movie;\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"There are just long stretches where the movie doesn't work.\"",
+        "\"This movie is a little bit like that...but if you are watching it late at night when you are tired, you will probably fall asleep in parts.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The performances were all great, including a fun cameo by a performer I didn't expect to be in this movie.\"",
+        "\"This movie is so well-acted that as I was watching it I really cared for the young girl Sylvia.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I hope he gets many many seasons in this role.\"",
+        "\"I think it was absolutely stupid to recast this part and ever make an Alex Cross movie without Freeman in the role.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The music in particular is pitch-perfect...the same kind of music you would have heard for different scenes to build tension or deliver scares in a real 80s movie.\"",
+        "\"The animation is GORGEOUS too, especially the scenes shot on Easter Island with all the beautiful egg-motifs.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I found myself wanting to scream for help for her and I felt frustrated that not only was this just a movie but it was also set so far in the past that there's nothing I could have ever done for this girl.\"",
+        "\"This movie is so well-acted that as I was watching it I really cared for the young girl Sylvia.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly thrillers and comedies, with a strong preference for complex narratives filled with suspense and twists. They value high production quality and emotional resonance in films, often seeking out engaging performances and sensory experiences."
+}

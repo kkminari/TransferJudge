@@ -1,0 +1,76 @@
+{
+  "user_id": "AEXGON43ZMS6B6QTC2ZYSK4SL3WQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, family-friendly",
+      "evidence": [
+        "\"Good reboot of the old series.\"",
+        "\"Good for kids.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A bit formulaic but a feel good movie.\"",
+        "\"Just not very interesting or compelling.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"A very weak story with just a few funny parts.\"",
+        "\"Sub titles a bit fast.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"I had forgotten all the visuals that are a part of a 'film'...\"",
+        "\"Less graphic blood and gore and more clean entertainment for the family.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I find the series strangely compelling and I am hoping for a season three and soon.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I laughed I cried it was better than Cats.\"",
+        "\"I had to have the kids watch it so they would understand the new movie and new cartoons.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I laughed I cried it was better than Cats.\"",
+        "\"Very weird but I really liked it and I'm looking forward to the next season...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and fantasy genres, often appreciating simple narratives that evoke emotional responses. They show a moderate sensitivity to production quality and prefer a slower pacing, indicating a taste for feel-good, engaging stories."
+}

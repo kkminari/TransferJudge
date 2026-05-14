@@ -1,0 +1,76 @@
+{
+  "user_id": "AGQMR47EEJ242OJ72UU4JMAD7EDQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, vampire, thriller",
+      "evidence": [
+        "\"What a sexy vampire flick!\"",
+        "\"A terrific Dutch horror flick.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Started off interesting but went into familiar territory with dumb a script\"",
+        "\"DUMB REMAKE!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"SCARY!\"",
+        "\"GREAT 70s scare flick.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Horrible. A true crime against horror.\"",
+        "\"What a piece of crap! Don't waste your time\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Another amazing production showcasing Colm Wilkinson.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"What Jessica excels at is the creepy under your skin scare.\"",
+        "\"The underwater footage is good.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"One of the best horror films EVER!\"",
+        "\"A CLASSIC!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror films, particularly those featuring vampires and thrilling elements. They enjoy fast-paced narratives but show a low sensitivity to production quality, often focusing on the emotional impact of the films."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AFL7LKGVKUSOGMI22RTZFKHRRZDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "old movies",
+      "evidence": [
+        "love old movies love King Creole",
+        "love this old movie"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Love it",
+        "Grandchildren love it"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Love it",
+        "Grandchildren love it"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Love it",
+        "love it"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "King Creole",
+      "evidence": [
+        "love old movies love King Creole"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "love it",
+        "Grandchildren love it"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "love it",
+        "love it"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for old movies, particularly enjoying titles like 'King Creole'. They express high emotional resonance with the content, indicating a fondness for nostalgic and simple storytelling."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AHP7HAMF5LKPHAW3GHUZAMWRKFUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family-friendly",
+      "evidence": [
+        "\"One of the funniest series I've ever seen.\"",
+        "\"Fantastic, family-friendly movie.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's bright and colorful and fun to watch.\"",
+        "\"It is smart, heart-warming, funny, gross (fart jokes) and basically just a joy to watch.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It's a rare occasion that my husband and both want to binge-watch the same show!\"",
+        "\"My son enjoys the show and asks for it often.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great acting!\"",
+        "\"It has the technical genius of a Box Trolls without the gore or scary factor.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Considering I love Jemaine, loved Napoleon Dynamite and Nacho Libre, and there are so many great actors in this film, I can't believe I hated it!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It's bright and colorful and fun to watch.\"",
+        "\"It is smart, heart-warming, funny, gross (fart jokes) and basically just a joy to watch.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I can't recommend it enough.\"",
+        "\"Will be watching it over and over again with my family.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and family-friendly content, often enjoying shows that are bright, colorful, and engaging for both adults and children. They appreciate high production quality and emotional resonance, indicating a taste for well-crafted narratives that evoke joy and laughter."
+}

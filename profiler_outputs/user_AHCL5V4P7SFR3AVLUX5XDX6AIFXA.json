@@ -1,0 +1,77 @@
+{
+  "user_id": "AHCL5V4P7SFR3AVLUX5XDX6AIFXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's, adventure",
+      "evidence": [
+        "My boys love watching this informative show geared towards the curious and innovative!",
+        "2 grandsons who watch this all the time at bedtime. Geared for kids..."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It's taking a long time for her character to mature.....",
+        "I waited for something really cool to happen, then.......... n o t h i n g."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "It's taking a long time for her character to mature.....",
+        "I waited for something really cool to happen, then.......... n o t h i n g."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Yes, I get complaints about the computer graphics but they really like the adventures!",
+        "better than a lot f the junk out there"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "We need to release Knight Rider too!",
+        "BRING ON EPISODE 2!!! AND THE REST!"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "the show is pretty interesting.... it kinda makes you wonder if this stuff happens behind the scenes.",
+        "My boys love watching this informative show geared towards the curious and innovative!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "I waited for something really cool to happen, then.......... n o t h i n g.",
+        "It's taking a long time for her character to mature....."
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for children's adventure shows that engage their kids. They appreciate simple narratives and are less concerned with production quality, though they express some dissatisfaction with pacing and emotional depth."
+}

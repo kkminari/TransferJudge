@@ -1,0 +1,77 @@
+{
+  "user_id": "AGCBVOPOTWQSXNMZ4JHLS2XVDGZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, mystery, western",
+      "evidence": [
+        "\"I love it, of course I consider myself a big fan of Red Green so I really enjoy anything that Red is in.\"",
+        "\"My family and I truly love mysteries and were thrilled when we came across this one.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Always made to make you laugh and feel great no matter how your day has been going.\"",
+        "\"It transcends all ages and proves that once again love overcomes all.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This is a super comedy. I first saw it on TCM and would watch it each chance that I had to.\"",
+        "\"If you enjoy action, adventure and a little romance then you will love this.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I just wish all the seasons would.\"",
+        "\"It was a good family movie.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to Red Green and Tyler Perry",
+      "evidence": [
+        "\"My family can't wait for anything the Red Green Show did to come out on DVD.\"",
+        "\"As with any other Tyler Perry production my family loved this.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic sensory",
+      "evidence": [
+        "\"The joys, pains, glories and heartaches with God being the focal point in everything that happens.\"",
+        "\"It was great!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"An amazing telling of how the Savior of the World sacrificed Himself for all of humanity.\"",
+        "\"I absolutely adore this movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-oriented comedies and mysteries, particularly enjoying works by Red Green and Tyler Perry. They appreciate simple narratives with fast pacing and high emotional resonance, often valuing the overall experience over production quality."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AHJQL2LSGOTVVRTCUXLLLPJTIVSQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, sci-fi, documentary, family-friendly",
+      "evidence": [
+        "\"Twisted good horror fun!\"",
+        "\"One of my favorite documentary movies.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Keeps you wondering until the last 20 minutes or so what he's up against and then it gets better.\"",
+        "\"Interesting surrealistic video effect.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Non-stop excitement!\"",
+        "\"Riveting! Exciting! Never a dull moment!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"It is well acted and very realistic.\"",
+        "\"Standard Asian special effects but well done.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Great twist at the end. Totally engaging movie.\"",
+        "\"Love the music at the end and wish I had caught the name of the performer and song in the credits.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Glad I watched it. Holmes solves his own mystery with a sweet, heartwarming core to the story.\"",
+        "\"Her visits were always welcomed and appreciated.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly horror, sci-fi, and documentaries, with a strong preference for fast-paced narratives. They appreciate engaging stories with emotional depth and sensory experiences, while showing less loyalty to specific creators."
+}

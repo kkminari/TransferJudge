@@ -1,0 +1,77 @@
+{
+  "user_id": "AEQFTHWRKZ2T2LMV47WVHRSOKZGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, romance, horror",
+      "evidence": [
+        "\"This is one of the funniest movies I've ever seen; however, it's not for kids!\"",
+        "\"If you like seeing the challenges that face people and all they have to go thru to overcome them, you'll love this movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It doesn't take long to get you addicted and once that happens, you'll find yourself trying to figure it out which I haven't been able to do.\"",
+        "\"The only reason I give it 3 stars is because I can't really remember what the movie was about.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Slow moving at times but an overall good movie.\"",
+        "\"Sometimes it seems like directors like to give the comedy more emphasis than the plot-line; however, this was not the case with this movie.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Tatiana Maslany is an excellant actor!\"",
+        "\"The director played with the historical facts a little bit; but then again, who knows exactly what happened that long ago.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I'm a big Natalie Portman fan and she plays this part extremely well.\"",
+        "\"I watched this movie primarily because I'm a fan of Jessica Stroup.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It is funny, once the characters are established.\"",
+        "\"I laughed until my sides hurt.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"It is a good movie (she liked it more than I did).\"",
+        "\"This is one of my all time favorites!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of comedy and drama, often appreciating character-driven narratives with emotional depth. They show a moderate sensitivity to production quality and have a fondness for specific actors, indicating a preference for engaging and relatable storytelling."
+}

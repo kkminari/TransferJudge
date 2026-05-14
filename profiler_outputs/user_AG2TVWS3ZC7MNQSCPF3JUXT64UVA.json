@@ -1,0 +1,72 @@
+{
+  "user_id": "AG2TVWS3ZC7MNQSCPF3JUXT64UVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama",
+      "evidence": [
+        "any history buff or drama likers will enjoy this!",
+        "This one tells the tale of a harsh neighborhood and the choices people make (good & bad) to live."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "a little slow paced & a bit hard to follow at times."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "a little slow paced & a bit hard to follow at times."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Excellently written, directed & acted.",
+        "all the actors are top shelf, Gandolfini, bless his soul is excellent!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Downward spiral grittiness, excellent!",
+        "This was a good one, bitter sweet, but good!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "bitter sweet, but good!",
+        "Downward spiral grittiness, excellent!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for drama, particularly enjoying well-crafted narratives with high production quality. They appreciate emotional depth and resonance in storytelling, though they tend to prefer simpler, slower-paced narratives."
+}

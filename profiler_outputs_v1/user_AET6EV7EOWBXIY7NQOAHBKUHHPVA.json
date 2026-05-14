@@ -1,0 +1,72 @@
+{
+  "user_id": "AET6EV7EOWBXIY7NQOAHBKUHHPVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance",
+      "evidence": [
+        "I watched it to see that superb actor Tobias Menzies as a romantic lead, and he did not disappoint."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The story could have been told much better in four episodes."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "The episodes were MUCH too long. What took 90 minutes could have been done in 60 minutes."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the video quality is TERRIBLE",
+        "the video quality of Seasons 4-8 is appalling."
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I adored Michael Kitchen and Honeysuckle Weeks."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "the video quality is TERRIBLE",
+        "the video quality is awful."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "I would have cancelled immediately, but new episodes of Vera happened to be available."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for romance in their viewing choices, particularly enjoying performances by specific actors. However, they are highly sensitive to production quality, often expressing disappointment in poor video quality, which negatively impacts their overall enjoyment."
+}

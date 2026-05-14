@@ -1,0 +1,76 @@
+{
+  "user_id": "AHZYX2WH3YCYF53U5YSSG3SXYOFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "faith-based, family, drama, documentary",
+      "evidence": [
+        "\"...the level of productions in the faith and family genre has improved significantly...\"",
+        "\"...the docu-series...incredibly intimate glimpses into the lives of some very special people.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"...the harmless type of escapism most of us are hoping for at the theater...\"",
+        "\"...the storylines are well above average...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"...providing programs that are even more inspirational because they’re made with excellence...\"",
+        "\"...a beautiful perfectly harmless temporary escape from all the ugliness we’re bombarded with daily.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...the quality of this series is outstanding...\"",
+        "\"...the careful attention to detail and the high but unpretentious standards of quality...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Martha Williamson",
+      "evidence": [
+        "\"Martha Williamson has once again provided a gift to those of us who prefer to spend our precious few R&R minutes on stories that bring hope.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory experience",
+      "evidence": [
+        "\"...breathtaking scenery, intriguing narration, wonderful acting...\"",
+        "\"...beautifully uplifting soundtrack...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...the movie tells that story and wow, what a story it is...\"",
+        "\"...the stories featured in this series are worth the investment of time...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for faith-based and family-oriented dramas and documentaries that emphasize quality production and emotional resonance. They appreciate simple narratives that provide a comforting escape and are particularly loyal to creators like Martha Williamson, valuing visual and auditory experiences in their viewing choices."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AEZHLV3JORB3FE4SFNQB25ZAR6TA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, sci-fi",
+      "evidence": [
+        "\"Good action flick\"",
+        "\"I love science fiction.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"story is a bit weak and overall formulaic\"",
+        "\"All caricatures, no story\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"too long, too slow\"",
+        "\"Slow. Watched for about 45 minutes and just gave it up\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I would have felt cheated\"",
+        "\"If you are just looking for a good guys vs bad guys movie, you might like it\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"all 'in your face' CGI\"",
+        "\"good action flick\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"not memorable\"",
+        "\"I didn't finish it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for action and sci-fi genres but has a low tolerance for slow pacing and weak narratives. They value entertainment but are less concerned with production quality and emotional depth."
+}

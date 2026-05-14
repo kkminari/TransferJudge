@@ -1,0 +1,77 @@
+{
+  "user_id": "AHTSG7OSZSNLY5XX33JWPWKNIBEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, western, drama",
+      "evidence": [
+        "\"Recomending it as a fan of frontier westerns.\"",
+        "\"I purchased this film as a horror film buff...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"the story moves along, Johnny finds himself trapped in an old dark house...\"",
+        "\"this film had a twist ending that didn't reveal itself until the last two minutes of the film.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I usually don't like stuff like this, but this one was on target.\"",
+        "\"For the first twenty minutes or so I was sitting there thinking 'what is this crud' and for the last twenty minutes I was scared out of my skull.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"If Jared Leto doesn't win for best supporting actor, is it too late to nominate him for best actress?\"",
+        "\"the special effects are still incredible...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I found this film on my wanderings and said what the heck.\"",
+        "\"I had hoped the best for Eric Balfour, but the rumors are coming true...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"the special effects are still incredible...\"",
+        "\"the lack of anything like a budget actually adds to the snuff film ambience...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I'm blown away by this film.\"",
+        "\"One of the most moving portrayals I have ever, and perhaps will ever, see.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror and western genres, appreciating complex narratives and high production quality. They value emotional resonance in films, often being moved by performances and storytelling, while showing mixed feelings towards pacing and brand loyalty."
+}

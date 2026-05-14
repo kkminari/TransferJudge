@@ -1,0 +1,74 @@
+{
+  "user_id": "AGYCIKX7HDF5QCRGRVMHB4LD4LAQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance",
+      "evidence": [
+        "Okay low key romance movie ... fortunately not too long",
+        "Interesting story line, good cast, and doesn't have the sappy, cutesy dialogue of most new TV dramas today."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Predictable but comfortable movie.",
+        "Good story with nice ending...kept interest throughout."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Moves quickly with great cast and dialogues.",
+        "Only the unnecessary vulgar language kept it from 5 stars."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "Great cast, good story with Einstein in the mix.",
+        "Interesting but would have preferred more emphasis on historical Israel and related sites."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Our family's favorite movie of all time. But when you watch, make sure you can give it full attention to catch the great dialogues and one liners.",
+        "Great history. Especially enjoyed clips of the vets describing what happened"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "Some redeeming value...does make you wonder",
+        "It was a boring, depressing and too long movie"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and romance genres, favoring simple narratives with fast pacing. They appreciate good storytelling and cast performances but show low loyalty to specific creators, indicating a balanced focus on both quality and emotional engagement."
+}

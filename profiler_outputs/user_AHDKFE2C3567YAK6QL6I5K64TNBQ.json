@@ -1,0 +1,77 @@
+{
+  "user_id": "AHDKFE2C3567YAK6QL6I5K64TNBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, psychological thriller",
+      "evidence": [
+        "\"I found this move to be laugh-out-loud funny.\"",
+        "\"Another excellent production from Dick Wolf. Excellent writing, acting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The writing is good. Rush is likeable though he is a cocaine-sniffing, womanizing rogue.\"",
+        "\"Predictable characters and writing. The actors are beautiful and likeable.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I find his philosophical ramblings incoherent. The story does not hold my interest and I have stopped viewing Real Detectives after the first three episodes.\"",
+        "\"Fast-paced. Attractive protagonist. Beautiful actors and good acting.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent writing, acting. Superb work by actor who plays Goren.\"",
+        "\"Super acting, top-notch writing and storytelling.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Dick Wolf",
+      "evidence": [
+        "\"Another excellent production from Dick Wolf.\"",
+        "\"Dick Wolf rides again!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I found the details of the group's breakup and the tragically high price Frankie paid for fame almost unbearably sad.\"",
+        "\"The words 'It's not your fault' that the therapist spoke to Will, that finally 'cracked' Will open, are imprinted on my memory.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I found the final moment, when his daughter played by Emma Stone forgives him for the neglectful dad he'd been and very touching.\"",
+        "\"I found all of it to be poignant, funny, and touching.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and comedy, particularly those with strong writing and acting. They appreciate emotional depth and high production quality, while showing some loyalty to creators like Dick Wolf. However, they have mixed feelings about narrative complexity and pacing, indicating a preference for straightforward storytelling."
+}

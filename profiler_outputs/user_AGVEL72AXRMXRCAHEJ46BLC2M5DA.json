@@ -1,0 +1,77 @@
+{
+  "user_id": "AGVEL72AXRMXRCAHEJ46BLC2M5DA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, family",
+      "evidence": [
+        "\"This is really a great movie... the music and cinematography are amazing and rich.\"",
+        "\"Great family show! Melissa is very funny and humor is clean...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The story and script are well written and intelligent...\"",
+        "\"It's the kind of movie to discuss afterwards and then watch again...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I was disappointed after it ended so quickly.\"",
+        "\"Got tired of drum sound in the background, but I get why its there.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great acting. We purchased it.\"",
+        "\"Excellent special effects and actors!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I love Ray Bradbury stories. This movie is right on track with the book.\"",
+        "\"Great Michael Mann film! One of my husband's favorites - love to watch this.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"the music and cinematography are amazing and rich.\"",
+        "\"the cinematography seems to reflect a graininess like weathered wood...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It's the kind of movie to discuss afterwards and then watch again...\"",
+        "\"I loved this movie. Feel good movie and a happy ending.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of sci-fi and drama films, often appreciating complex narratives and high production quality. They value emotional resonance and tend to favor films that evoke strong feelings and discussions, while showing some loyalty to specific creators like Ray Bradbury and Michael Mann."
+}

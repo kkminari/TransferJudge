@@ -1,0 +1,76 @@
+{
+  "user_id": "AEDYVI2OKQAVS472ZSQ2OGDDN54A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family",
+      "evidence": [
+        "Nice Family Movie",
+        "Cute family movie"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great Movie!!!!!",
+        "Nice Family Movie"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "this was a great collection. My 3 yeard old son loved all the different stories on each DVD"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great Movie!!!!!",
+        "Purchased to add to our Christmas collection, the price was right!"
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Chipmunks, Scooby Doo",
+      "evidence": [
+        "We have the first Chipmunk DVD and now we got this one",
+        "My son is a huge Scooby Doo fan"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "it brings out the 'Fireman' in all children!",
+        "My son absolutely loves watching this DVD."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "it made his Christmas brighter!",
+        "the child was so excited to receive this"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-oriented movies that are simple and engaging. They appreciate visual spectacle and emotional resonance, particularly in films that bring joy to children."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AE4EFW3XKIORBK6FHA7BQF4EVX7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "western, noir, musical",
+      "evidence": [
+        "Westerns and action movies have been my favorites all my life.",
+        "A magnificent and fantastic tale of a doomed romance."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Despite a weak story line, it is a gem for noir lovers.",
+        "The story, casting and photography are excellent in showing the big let down."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Yes, as many have complained, it is very slow moving, but it is in tune with the period setting.",
+        "The many reviewers of this movie have done a good job analyzing it."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Everything about it is a delight for Western lovers: The story, casting, action, location filming and everything else.",
+        "The direction of Ralph Nelson is superb."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "John Ford, Sergio Leone",
+      "evidence": [
+        "John Ford was a master in presenting the 'spirit of the west' that we all love and cherish.",
+        "The Sergio Leone spaghetti westerns were no westerns at all."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "The atmosphere of elegance and romance.",
+        "The nostalgic escape."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It made me cry.",
+        "What a magnificent tale of a doomed romance."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for westerns and noir films, often appreciating their storytelling and emotional depth. They value high production quality and have a nostalgic connection to classic films, particularly those that evoke strong emotional responses."
+}

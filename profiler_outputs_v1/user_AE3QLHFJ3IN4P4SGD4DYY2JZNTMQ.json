@@ -1,0 +1,74 @@
+{
+  "user_id": "AE3QLHFJ3IN4P4SGD4DYY2JZNTMQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, sci-fi, comedy",
+      "evidence": [
+        "\"This low budget movie looks fabulous, the action is incredible.\"",
+        "\"Nothing is worse than an unfunny comedy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This movie has nothing to offer, until the very end.\"",
+        "\"The plot is hilarious\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"After 10 minutes, it got so dumb that my brain started hurting and I had to stop.\"",
+        "\"The movie is about to show something good, then it cuts away to something else.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"This film makes 'Judge Dredd' look like the tepid, cheesy mess that it is.\"",
+        "\"Good screenplay about a British lawyer trying to free a man convicted of a decade-old murder.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The visuals are stunning, clear, crisp and vibrant.\"",
+        "\"Excellent animation, great voice acting and high-caliber screenplays make this series a real winner.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"This movie is future! Just think: Disney can churn out a dozen of these movies every 6 months.\"",
+        "\"I wouldn't force prisoners in Gitmo to watch homage to bad screenplay writing; no one should volunteer to view Psych.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and sci-fi genres but expresses significant dissatisfaction with poorly executed narratives and pacing. They value high production quality and visual spectacle, yet show little emotional engagement with the content."
+}

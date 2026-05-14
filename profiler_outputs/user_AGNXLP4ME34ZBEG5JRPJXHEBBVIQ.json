@@ -1,0 +1,78 @@
+{
+  "user_id": "AGNXLP4ME34ZBEG5JRPJXHEBBVIQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "baseball, romantic comedy, westerns, action",
+      "evidence": [
+        "\"Very good baseball movie.\"",
+        "\"Despite reviews on other sites, You gotta to stay happy is a good romantic comedy.\"",
+        "\"I really like westerns so when I got these movies...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Funny funny funny... Loved it.\"",
+        "\"Just a great movie and the DVD played great.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I like runaway train but I liked convict cowboy better. Rodeo action.\"",
+        "\"Just a great movie and the DVD played great.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I was blown away!!! Here was my favorite show of my childhood... the new remastered picture and sound are outstanding.\"",
+        "\"I thought chemistry between rock and Mary was great.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I had bought the first season of crime story, 5 years ago...\"",
+        "\"I am glad to see this oft overlooked gem, to finally hit DVD at such a reasonable price.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"We could almost feel like being blown away watching planes take off!\"",
+        "\"The new remastered picture and sound are outstanding.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is one of those movies that touches you and keeps on touching you.\"",
+        "\"We were just amazed at the color.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted genres such as baseball movies, romantic comedies, and westerns, with a preference for fast-paced narratives. They value high production quality and seek emotional resonance in their viewing experiences."
+}

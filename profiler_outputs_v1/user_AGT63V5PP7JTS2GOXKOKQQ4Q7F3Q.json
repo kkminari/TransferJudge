@@ -1,0 +1,76 @@
+{
+  "user_id": "AGT63V5PP7JTS2GOXKOKQQ4Q7F3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, adventure, anime",
+      "evidence": [
+        "\"This movie is graet, I had no high expectations for this but left with high hopes for the next Movie.\"",
+        "\"This Anime is great but incomplete there are three chapters that would close out everything missing.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The only problem in that they left out two time line theories...\"",
+        "\"I gave this three stares because it is good, the problem is unless you have read the book you will be lost.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The Move started out slow and a little Iffy...\"",
+        "\"This is not bad at all and well written and made, I like the twist an turns that happen.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"the acting is good, (on the male lead side the kid so-so) the images for the dinosaurs look good not the best but good...\"",
+        "\"The FX's still hold up today and the story is timeless.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Jim karry play Doctor Egg-man aka Robotnic perfic and the voice acter form sonic sounds spot on.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"this movie has great visuals an the way the sound is used is mind opening.\"",
+        "\"The movie is good with a lot of detail put in to the set design...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I was waiting for this to be just another bad movie but it turned out to be really good like to first.\"",
+        "\"I like this movie for the story and the Transformation seen.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and adventure genres, particularly in movies and anime, appreciating good visuals and sound. They have mixed feelings about narrative complexity and pacing, indicating a preference for engaging stories but with some reservations about execution."
+}

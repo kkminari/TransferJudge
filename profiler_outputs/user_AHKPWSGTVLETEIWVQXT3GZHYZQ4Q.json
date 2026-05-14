@@ -1,0 +1,77 @@
+{
+  "user_id": "AHKPWSGTVLETEIWVQXT3GZHYZQ4Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's, family",
+      "evidence": [
+        "I love all things Cinderella",
+        "My special needs son LOVES The Wiggles"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "My special needs son LOVES The Wiggles",
+        "This TV show was funny at the time"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "My special needs son LOVES The Wiggles",
+        "This TV show was funny at the time"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Saw it on TV and loved it so I had to buy the DVD!!",
+        "Good info."
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for children's content",
+      "evidence": [
+        "We are a Robin Williams fan household",
+        "My special needs son LOVES Shari Lewis & Lamb Chop"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "My special needs son LOVES The Wiggles",
+        "My kids love this movie"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "My special needs son LOVES this movie",
+        "My kids love this movie"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for children's and family-oriented content, particularly enjoying simple narratives that resonate emotionally with their family. They show loyalty to specific creators and prioritize engaging, fast-paced entertainment that is suitable for their special needs son."
+}

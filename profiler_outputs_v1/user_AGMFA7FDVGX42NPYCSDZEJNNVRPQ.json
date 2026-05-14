@@ -1,0 +1,76 @@
+{
+  "user_id": "AGMFA7FDVGX42NPYCSDZEJNNVRPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "spiritual, documentary",
+      "evidence": [
+        "\"If you're on the spiritual path and you're looking for substance for digest - digest this.\"",
+        "\"This brilliant presentation, digestible for the layman, will help you gain a greater understanding of the nature if reality...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Well shot, well edited, well told tale.\"",
+        "\"Aya does a wonderful job demonstrating the topic using his assortment of simple geometric shapes...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"...a nice wrap up.\"",
+        "\"...if you're looking for how paranormal phenomena was experienced and researched in the 70's, and 80's - then this is for you.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Well shot, well edited, well told tale.\"",
+        "\"Ron's films should be on/in the curriculum of every educational institution on the planet.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Raghubir Kaur Khalsa",
+      "evidence": [
+        "\"I ordered the DVD - obviously I am now a Raghubir Kaur Khalsa fan.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual, immersive",
+      "evidence": [
+        "\"...the model is great too - a seasoned pro at the practice who's easy to mimic.\"",
+        "\"...taking us through red rock cut by water in the desert millennia ago, to the rivers and waterfalls of today...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...maybe there's an 'ah ha' moment in it for you...\"",
+        "\"...will inspire the adventurer in you.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for spiritual and documentary genres, appreciating well-crafted narratives that are visually immersive. They value high production quality and often resonate emotionally with the content, indicating a deep engagement with the material."
+}

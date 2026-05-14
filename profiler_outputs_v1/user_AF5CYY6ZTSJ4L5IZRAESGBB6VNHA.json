@@ -1,0 +1,77 @@
+{
+  "user_id": "AF5CYY6ZTSJ4L5IZRAESGBB6VNHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary, film noir, musical",
+      "evidence": [
+        "\"Absolutely skillful and artful 'erotic film noir'...\"",
+        "\"Well acted drama about the life of Chet Baker.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"...every moment will keep you totally engrossed in the mystical plot lines.\"",
+        "\"...the screenplay itself seems a little contrived.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"...the screenplay seems to portray the central character... in an almost one dimensional manner.\"",
+        "\"...the film draws you into the war effort...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting by Michael Caine and the rest of the crew is flawless...\"",
+        "\"Fine performances by Robert DeNiro, Jeremy Irons, and Liam Neeson give this excellent screenplay the acting it truly deserves.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Created with the help of the Stephen Sondheim himself...\"",
+        "\"...the final collaboration between Frances Coppola and Mario Puzo.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The jungle and waterfall scenes are spectacular.\"",
+        "\"...the movie has a remarkable final scene, with the shooting death of Claire Quilty.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is one of these films that will be valuable over time...\"",
+        "\"...the film makes the otherwise potentially uninteresting business of mathematics and code breaking very interesting indeed.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and complex narratives, often appreciating high-quality production and emotional depth in films. They enjoy films that provoke thought and engage with societal issues, while also valuing strong performances from actors and directors."
+}

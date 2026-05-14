@@ -1,0 +1,77 @@
+{
+  "user_id": "AF23Z3HMQSO4YIIUTKZLSRQOPEXQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "good show",
+        "powerful movie with an important truth at the center."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "it has the makings of a really good show, but its uneven.",
+        "everything felt worn like I had seen it all before."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "it quickly got boring.",
+        "the film felt too formulaic."
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "well made",
+        "really well done."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Matt is really getting it done.",
+        "ron Perlman is really good."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "powerful movie with an important truth at the center.",
+        "it felt self consciously produced."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "the hardest challenge any human will face in this life is being who they say they are.",
+        "powerful movie with an important truth at the center."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user appreciates well-crafted shows and movies, often valuing production quality and emotional depth. However, they express mixed feelings about narrative complexity and pacing, indicating a preference for straightforward storytelling that may sometimes feel formulaic."
+}

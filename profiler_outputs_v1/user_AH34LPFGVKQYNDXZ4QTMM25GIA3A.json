@@ -1,0 +1,77 @@
+{
+  "user_id": "AH34LPFGVKQYNDXZ4QTMM25GIA3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy",
+      "evidence": [
+        "\"It's a fun escape for a couple of hours...\"",
+        "\"One of the best comedic films ever. Period.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The characters are dull and the plot's as deep as a bird bath.\"",
+        "\"It's a bit shallow, and the action isn't nearly as satisfying as it could be.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Cool premise, good action, with a fun (though not entirely unpredictable) twist at the end.\"",
+        "\"There's a whole lot going on in this movie and at times it feels a bit disjointed, but it's a pretty good action flick.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Don't waste your time.\"",
+        "\"It sucks. Don't waste your time.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "No strong loyalty to directors or actors."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The weak, uninspiring characters are carried by impressive CGI.\"",
+        "\"It's a fun flick, but there weren't nearly enough dead bad guys.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"It's a fun escape for a couple of hours...\"",
+        "\"What did you expect?\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and comedy films, often favoring fast-paced narratives with visual spectacle. However, they show a low sensitivity to production quality and emotional depth, indicating a preference for entertainment over artistic merit."
+}

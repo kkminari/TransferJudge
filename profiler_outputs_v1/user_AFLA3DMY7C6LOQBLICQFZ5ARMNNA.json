@@ -1,0 +1,77 @@
+{
+  "user_id": "AFLA3DMY7C6LOQBLICQFZ5ARMNNA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "I highly recommend it to any Star Trek fan!!",
+        "This is an awesome tv show! I highly recommend it to anyone (not just sci/fi fans)."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "A magnificent movie!! Must see for everyone!!",
+        "A great movie! :)"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "A magnificently Great Story!!",
+        "This is an awesome tv show! I highly recommend it to anyone (not just sci/fi fans)."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "this is one of the best movies to come out in a very long time.",
+        "A magnificent show!"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I highly recommend it to any Star Trek fan!!",
+        "I am thoroughly enjoying this program!!"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "It is fantastically written and a very emotionally intense story!",
+        "A great classic and always a fantastic show!!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It is fantastically written and a very emotionally intense story!",
+        "This tv series never disappointed way back when it was new; and it is still just as great as it always was."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for emotionally intense and well-written stories, often enjoying fast-paced narratives. They show a general appreciation for classic shows and movies, though they do not express strong loyalty to specific creators or brands."
+}

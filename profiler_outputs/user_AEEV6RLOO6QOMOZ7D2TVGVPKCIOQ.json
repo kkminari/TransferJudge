@@ -1,0 +1,77 @@
+{
+  "user_id": "AEEV6RLOO6QOMOZ7D2TVGVPKCIOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, romance",
+      "evidence": [
+        "\"A woman coming into her own story...very powerful and funny at the same time!\"",
+        "\"Great movie. Very touching and you hate and love the characters though the whole movie...also funny!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Meh, it was ok. It wasn't Gone Girl...but I could relate to the character because she was having to get something going at such a late stage in life.\"",
+        "\"Watching this made me have to smile...more money doesn't make you any happier.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Really good. Sad but close to reality.\"",
+        "\"Beautiful. Really an interesting way of life back in those days...extremely interesting to watch and beautifully shot.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Beautiful film...extremely interesting to watch and beautifully shot.\"",
+        "\"Good movie! Not sure how true to life it is but I watch it all the time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Doesn't hurt that Joaquin is so dreamy either.\"",
+        "\"Woody never disappoints with his whole neuroticism playing out.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Very inspiring and Woody never disappoints with his whole neuroticism playing out.\"",
+        "\"Beautiful. Really an interesting way of life back in those days...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I fell in love with Annie...she reminds me so much of myself, she grows throughout the whole movie into her own woman.\"",
+        "\"Great movie. Very touching and you hate and love the characters though the whole movie...also funny!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and comedy films that are character-driven and emotionally resonant. They appreciate high production quality and prefer slower-paced narratives that evoke deep feelings and personal connections."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHCOQ7U6B7BISDDHJE3JHDHJQHJQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, adventure, romance, fantasy",
+      "evidence": [
+        "\"This is another good family movie.\"",
+        "\"I really enjoy movies that are set in our past.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It is very good with the adventure and the humor thrown in.\"",
+        "\"They did a pretty good job at trying to keep as close to the book as possible.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I think it helps you to understand those times more.\"",
+        "\"It was like a chick movie, but also my boyfriend really liked it too.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Very good quality picture.\"",
+        "\"The cast were done perfectly.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Nicolas Cage, Dwayne Johnson, Robert Downey Jr.",
+      "evidence": [
+        "\"I have always been a fan of Dwayne Johnson.\"",
+        "\"I like the movie just because of Robert Downey Jr.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"I think he does it very well.\"",
+        "\"Funny scenes for kids that are also very funny for the adults.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I love this movie! All the actors are just wonderful.\"",
+        "\"It was really neat.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly movies with elements of adventure and romance, often appreciating strong performances from favorite actors. They prefer straightforward narratives with good production quality and emotional resonance, indicating a taste for engaging and visually appealing stories."
+}

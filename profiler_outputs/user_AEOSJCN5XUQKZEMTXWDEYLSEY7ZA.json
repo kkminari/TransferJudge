@@ -1,0 +1,77 @@
+{
+  "user_id": "AEOSJCN5XUQKZEMTXWDEYLSEY7ZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, historical, romance",
+      "evidence": [
+        "\"I am an incurable sci-fi nut.\"",
+        "\"The film is a love story, which makes the point that intense, sexual love is free...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"each episode is an exciting story in itself.\"",
+        "\"The film has a clear story line.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The genius is in fitting it into one hour segments.\"",
+        "\"This episode is uproariously funny...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The performances in this film are very good.\"",
+        "\"The Archive Collection does a superb job of restoring the films it puts on DVD...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Irwin Allen, Gene Roddenberry",
+      "evidence": [
+        "\"Irwin Allen's masterpiece...\"",
+        "\"We owe Gene Roddenberry a lot, and this is the proof.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It gives one hints of the powerful and beautiful force that love is.\"",
+        "\"This episode is certainly one that children should see...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It deeply moved me.\"",
+        "\"It is heartwarming and moving.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and drama genres, often appreciating clear narratives and high production quality. They value emotional resonance in storytelling and show loyalty to notable creators like Irwin Allen and Gene Roddenberry."
+}

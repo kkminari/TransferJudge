@@ -1,0 +1,77 @@
+{
+  "user_id": "AEXIYSK2MNJR5K6ZHR335J572OHQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, indie, drama",
+      "evidence": [
+        "\"Great indie flick!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\"",
+        "\"This is a low impact sweet modern romance using tons of visuals in an around Manhattan.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The move had great acting, super settings, and even better foreshadowing.\"",
+        "\"One could quibble that the movie could have ended after ten minutes if Rosie had just had opened her heart to Alex to tell him exactly how she felt.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Well-paced movie with a great ending.\"",
+        "\"The movie was serious when it had to be an upbeat when it had to be.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great acting, super settings, and even better foreshadowing.\"",
+        "\"You won't find a better 'tear jerker' ending in movies than in the final Tibby and Bailey hospital scenes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"The list of Costner movies is endless: The Body Costner, Costner in a Bottle...\"",
+        "\"Kudos to the screenwriters.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"This is a low impact sweet modern romance using tons of visuals in an around Manhattan.\"",
+        "\"Great music especially 'Be Be Your Love' and 'Unwritten'.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"You won't find a better 'tear jerker' ending in movies than in the final Tibby and Bailey hospital scenes.\"",
+        "\"This movie will most likely be the every day story of many girls around the U.S. desperate to find a state to have an abortion.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for romantic and indie films, often appreciating emotional depth and visual storytelling. They value high production quality and tend to enjoy slower-paced narratives that evoke strong feelings."
+}

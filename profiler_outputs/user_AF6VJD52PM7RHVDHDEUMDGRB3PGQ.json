@@ -1,0 +1,70 @@
+{
+  "user_id": "AF6VJD52PM7RHVDHDEUMDGRB3PGQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "unknown",
+      "evidence": [
+        "No specific genres mentioned."
+      ],
+      "confidence": 0.0,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "narrative_complexity": {
+      "value": "unknown",
+      "evidence": [
+        "No specific narrative complexity mentioned."
+      ],
+      "confidence": 0.0,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "unknown",
+      "evidence": [
+        "No specific pacing mentioned."
+      ],
+      "confidence": 0.0,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "quality_sensitivity": {
+      "value": "unknown",
+      "evidence": [
+        "No specific quality mentions."
+      ],
+      "confidence": 0.0,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "unknown",
+      "evidence": [
+        "No specific brands or creators mentioned."
+      ],
+      "confidence": 0.0,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "unknown",
+      "evidence": [
+        "No sensory preferences mentioned."
+      ],
+      "confidence": 0.0,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "unknown",
+      "evidence": [
+        "No emotional impact mentioned."
+      ],
+      "confidence": 0.0,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has provided numerous positive ratings but has not expressed any specific preferences or insights regarding genres, narrative complexity, pacing, quality, brand loyalty, sensory experiences, or emotional impact. Overall, their reviews lack detailed content, making it difficult to ascertain their tastes."
+}

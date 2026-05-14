@@ -1,0 +1,76 @@
+{
+  "user_id": "AHLX3WBNK4OTSXLB6AHUWQTTYLXQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary, sci-fi",
+      "evidence": [
+        "\"Sad and incredible true story...\"",
+        "\"Sci-Fi movie. Keeps you guessing.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great movie with a message.\"",
+        "\"Excellent movie. Must watch.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It keep my BF and me on the edge of our seats...\"",
+        "\"Funny and refreshing movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The quality of the picture and the sound outstanding.\"",
+        "\"Excellent documentary. I will watch the recent one in the movies and compare.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"scary special effects get better and better.\"",
+        "\"The quality of the picture and the sound outstanding.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Sad but inspiring. it makes you think about all the things you have and take for granted.\"",
+        "\"What a beautiful movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly drama and documentary films, with a preference for fast-paced narratives that evoke strong emotional responses. They value high production quality and appreciate films that deliver meaningful messages."
+}

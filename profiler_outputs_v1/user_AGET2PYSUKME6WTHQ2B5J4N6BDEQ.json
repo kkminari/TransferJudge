@@ -1,0 +1,76 @@
+{
+  "user_id": "AGET2PYSUKME6WTHQ2B5J4N6BDEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "crime, thriller, action, comedy",
+      "evidence": [
+        "\"Like a Hollywood version of a UK crime series\"",
+        "\"Very funny, wife and I laughed hard at parts.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"could see the angles but they plot twists were not that clever or unexpected.\"",
+        "\"Novel concept and rich plot layers - a visual treat too.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It's an easy movie to watch but not top notch.\"",
+        "\"Good initial premise but deteriorates into tired formulaic sitcom quickly.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"acting and low-budget concessions ruined the movie.\"",
+        "\"Defines unrated movie. Yeah its lower budget than blockbusters but suspenseful and surprisingly well-acted.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I like Craig as Bond and Olga is a solid Bond girl but the movie just lacks what the other 3 Craig Bond movies have.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"a visual treat too - rented but may go back and buy this.\"",
+        "\"some beautiful island scenery, bad fishing CGI\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"passable entertainment if seen for a low cost.\"",
+        "\"I cannot recommend this DVD - not referring to story line or acting, simple the DVD itself is very low quality.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys crime and thriller genres, often appreciating well-acted productions with strong narratives. They show a preference for visual spectacle but are critical of low-quality execution, indicating a balanced taste in entertainment that values both story and production quality."
+}

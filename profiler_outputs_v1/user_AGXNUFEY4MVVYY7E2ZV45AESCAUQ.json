@@ -1,0 +1,74 @@
+{
+  "user_id": "AGXNUFEY4MVVYY7E2ZV45AESCAUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sports, romance",
+      "evidence": [
+        "\"my fiancé loved it and she's a braves fan.\"",
+        "\"the boston RedSox are romantic\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's fight club!!!\"",
+        "\"Love this movie, and it got here fast!!!!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Awesome just awesome!!!!!\"",
+        "\"Great love every second.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Could of been better\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"As a Red Sox fan it was hard to watch but it has a great ending!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Eat before you watch it, you will get hungry lol\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"it was hard to watch but it has a great ending!\"",
+        "\"my fiancé say 'the boston RedSox are romantic'\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys sports and romantic themes in movies, often expressing a preference for fast-paced storytelling. They appreciate emotional resonance and sensory experiences, though they show less concern for production quality."
+}

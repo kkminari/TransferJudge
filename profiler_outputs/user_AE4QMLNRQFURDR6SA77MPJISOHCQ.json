@@ -1,0 +1,77 @@
+{
+  "user_id": "AE4QMLNRQFURDR6SA77MPJISOHCQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, children's, family",
+      "evidence": [
+        "\"The Expanse is my New Favorite TV SciFi series.\"",
+        "\"Grand Daughter Loves all the Mickey Mouse Club House 'Junior' DVD's.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The quality of the three movies varies a lot - with the true Classic 'Things to Come' being the Star.\"",
+        "\"This triple feature collection of 'B' sci-fi movies is of interest of those who 'really' are into the old, 'B' sci-fi movies.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"She enjoys watching and it helps her fall asleep at night.\"",
+        "\"Grand Daughter loves Minnie-rella! Highly recommend this DVD for Families with small children.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Was shipped and received quickly.\"",
+        "\"A great price for 3 Sci Fi movies - each on it's own separate disk!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Found these animated TV Series and decided to give them a try and found that I liked them a lot.\"",
+        "\"I primarily bought this set for the Blu-Ray copy of 'Things to Come'.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"She enjoys watching and it helps her fall asleep at night.\"",
+        "\"Grand Daughter loves Minnie-rella! Highly recommend this DVD for Families with small children.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Was pleasantly surprised when I watched Battle for Terra. Took a chance and bought it as a used DVD - enjoyed it.\"",
+        "\"Grand Daughter loves Minnie-rella! Highly recommend this DVD for Families with small children.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and children's genres, particularly enjoying family-friendly content. They appreciate simple narratives and slower pacing, often valuing emotional resonance over high production quality."
+}

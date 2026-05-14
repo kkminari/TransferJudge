@@ -1,0 +1,77 @@
+{
+  "user_id": "AFKREZMR53I5PZJGMH32RGWIHFRQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, found footage, horror, family-friendly",
+      "evidence": [
+        "\"I love movies based on real life events and this one didn't disappoint.\"",
+        "\"If it's found footage of aliens or bigfoot, I'm a happy girl. Loved it!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Some of the best movies I have ever watched are those which start slowly and immediately pick up speed and grab your whole attention.\"",
+        "\"Really a good movie. No drop outs or slow spots, simply an entertaining movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I show this at the yearly Halloween party... They camp out in the den and watch these movies over-and-over.\"",
+        "\"The fright factor stayed on an even keel throughout the entire film and the ending didn't disappoint!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Well made and well filmed, it holds your attention from beginning to end.\"",
+        "\"This documentary based on true events was mind-blowing.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "John Wayne, David Bowie, Stephen King",
+      "evidence": [
+        "\"I have been a John Wayne fan most of my life...\"",
+        "\"The only one which surpasses it is Misery.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, immersive experience",
+      "evidence": [
+        "\"This was great! I especially liked the ending which left this fan with an X-Files vibe.\"",
+        "\"I happened across this found-footage movie... Great movie! Well made, good plot...just an excellent watch.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This film is as much a documentary as movie.\"",
+        "\"Thoroughly enjoyed watching one of my favorite movies once more...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for documentaries and found footage films, particularly those based on real-life events. They appreciate well-made movies with engaging plots and a fast pace, while also showing loyalty to iconic figures like John Wayne and Stephen King."
+}

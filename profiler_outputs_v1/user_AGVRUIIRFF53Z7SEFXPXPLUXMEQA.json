@@ -1,0 +1,77 @@
+{
+  "user_id": "AGVRUIIRFF53Z7SEFXPXPLUXMEQA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "classic, drama, comedy, romance",
+      "evidence": [
+        "\"I am a deep lover of classic movies...\"",
+        "\"Love the coordination of suspense, comedy and love story all in one movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's a hilarious movie and you will be amazed at how many famous stars were in this movie!\"",
+        "\"It's a joy to find it on DVD now!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"A must have season to complete your collection of all the season Army Wives on DVD\"",
+        "\"You have to get this--- to find out the twists that occurred in the final seasons episodes!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Rosalind Russell did an excellent job portraying Aunti Mame!\"",
+        "\"Haley Mills is excellent in this funny, happy, at times sad movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Clint Eastwood, Sopranos, Army Wives",
+      "evidence": [
+        "\"It's a Clint Eastwood movie what's not to like?\"",
+        "\"Love Sopranos!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, emotional storytelling",
+      "evidence": [
+        "\"It's a wonderful way to view what was a play on Broadway! Love it!\"",
+        "\"This is a very heart warming movie as well as a mystery, You will laugh and will cry!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It's a very heart warming movie as well as a mystery, You will laugh and will cry!\"",
+        "\"I hope many get this CD and enjoy a pure classic!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic movies that blend drama, comedy, and romance, often appreciating high production quality and emotional storytelling. They show loyalty to specific creators like Clint Eastwood and enjoy slow-paced narratives that evoke deep feelings."
+}

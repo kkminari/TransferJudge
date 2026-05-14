@@ -1,0 +1,74 @@
+{
+  "user_id": "AHYMGACLMFYWPAZGY26JXAK5OJAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, comedy, action",
+      "evidence": [
+        "\"Entertaining Thriller with some buddy cop and a touch of romance\"",
+        "\"this movie was such a fun surprise. funny, action packed, lots of popular references, witty.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Well done! Great story, I want more!\"",
+        "\"this movie was such a fun surprise. funny, action packed, lots of popular references, witty.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"this movie was such a fun surprise. funny, action packed, lots of popular references, witty.\"",
+        "\"silly fun for a friday night.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"OK movie. Over-hyped. Too long.\"",
+        "\"I rated it down a star because I couldn't resolve the time travel bit.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"this movie was such a fun surprise. funny, action packed, lots of popular references, witty.\"",
+        "\"This show was a very fun surprise. Funny and endearing.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"you grow to like the quirky geeky characters and root for their success.\"",
+        "\"kind of a sad story line, but I guess I knew that going in.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced thrillers and comedies with simple narratives and a fun, entertaining vibe. They appreciate humor and action, but show mixed feelings towards production quality and emotional depth."
+}

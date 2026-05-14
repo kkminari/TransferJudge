@@ -1,0 +1,77 @@
+{
+  "user_id": "AGISXSWS4RRKIVF2CBVDMOEUN67Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, comedy, horror",
+      "evidence": [
+        "\"This film is already a bonkers 'horror' classic...\"",
+        "\"How do folks not know about Firefly / Serenity?\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"An otherwise very simple, sparse film is filled by first rate jokes.\"",
+        "\"This double-feature is exactly that, and nothing else, which was fine with me.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"RiffTrax Boys set their joke phasers to Kill.\"",
+        "\"The RiffTrax Boys are unrelentingly funny in their send up of this train wreck.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"...production problems are glaring, but there are many moments that show that the Wachowskis really are brilliant...\"",
+        "\"...the DVD itself is full of everything I want as a film / TV fan...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "RiffTrax, Joss Whedon",
+      "evidence": [
+        "\"The RiffTrax Boys do mighty battle...\"",
+        "\"It's simply that good.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "humor, visual spectacle",
+      "evidence": [
+        "\"...filled by first rate jokes.\"",
+        "\"...the Wachowskis' eye for set design is stunningly beautiful.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Deeply moving portrayal by Jeffrey Tambor...\"",
+        "\"...brought tears...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of sci-fi and comedy, particularly appreciating humor and fast pacing in films. They show a strong loyalty to creators like RiffTrax and Joss Whedon, while also valuing emotional depth in storytelling."
+}

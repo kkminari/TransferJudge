@@ -1,0 +1,7 @@
+current,match_type,matched_canonical,n_users,coverage_pct
+genre_preference,PARTIAL,genre_diversity,5,5.0
+narrative_complexity,EXACT,narrative_complexity,1,1.0
+pacing_preference,PARTIAL,narrative_pacing_issues,5,5.0
+quality_sensitivity,PARTIAL,high_quality_production,8,8.0
+brand_loyalty,MISSING,,0,0.0
+sensory_preference,MISSING,,0,0.0

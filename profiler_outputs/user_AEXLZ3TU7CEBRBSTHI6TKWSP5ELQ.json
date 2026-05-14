@@ -1,0 +1,77 @@
+{
+  "user_id": "AEXLZ3TU7CEBRBSTHI6TKWSP5ELQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "musicals, classic films",
+      "evidence": [
+        "\"What a beautiful story. The old Hollywood that will never return!\"",
+        "\"This is still one of my old time favorites. Great acting, breathtaking landscapes, wonderful music score...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This version is absolutely breathtaking, beautiful, stunning to look at...\"",
+        "\"A beautiful story of a time long gone.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This film captures and reminds me so much of the old days at the 'hall.'\"",
+        "\"This is pure entertainment from beginning to end.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The restoration is unbelievably spectacular and the sound in the ATMOS selection is clean, wonderful and crisp.\"",
+        "\"Outstanding, breathtaking, incredible 5.1 stereo, beautiful costumes, wonderful musical actors...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Max Steiner, MGM",
+      "evidence": [
+        "\"...the beautiful sound track by Max Steiner, my favorite movie composer of all times...\"",
+        "\"I’m in my 60s and really like the old MGM musicals the best.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The sound is basically mono until Dorothy lands in Oz. From that point on, you will be blown away.\"",
+        "\"The restoration is even better than I thought it would be. Perfect picture and wonderful 5.1 sound.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...the ending with the original casts, it was enough to make you cry. Pure magic.\"",
+        "\"...you'll laugh and you'll cry and say I remember it well.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic musicals and films, particularly those with high production quality and emotional depth. They appreciate the artistry of older films and express disappointment in modern productions, indicating a nostalgic connection to the past."
+}

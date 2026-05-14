@@ -1,0 +1,77 @@
+{
+  "user_id": "AHCUOXURW4JXMP3PKYZK3RJWHC4Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "cartoons, action",
+      "evidence": [
+        "\"i love this cartoons\"",
+        "\"secret squirrel show my favorite cartoon all time\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"i love dvd\"",
+        "\"it good and cool show\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I like car stunts\"",
+        "\"I like drag racing\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"it ok cartoon\"",
+        "\"it ok dvd\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love the A-team\"",
+        "\"I like hanna barbear cartoons I like collect them\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"I like car stunts\"",
+        "\"I like drag racing\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"i love dvd\"",
+        "\"it good and cool show\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for cartoons and action-oriented content, particularly enjoying simple narratives with fast pacing. They express a low sensitivity to production quality and have a mixed emotional engagement with the content."
+}

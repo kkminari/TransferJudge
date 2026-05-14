@@ -1,0 +1,76 @@
+{
+  "user_id": "AHSQUMCBN6RU73E63ABXSTF63U7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "holiday, drama",
+      "evidence": [
+        "\"adding to my holiday collection, and this was a great value\"",
+        "\"Love horse stories, but too much of this was close-ups of Sam Shepard with a blank look on his face.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"watched it first as a younger man and wanted to add of my collection\"",
+        "\"ok addition to my collection of holiday movies\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"too much of this was close-ups of Sam Shepard with a blank look on his face.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"good deal to complete my collection\"",
+        "\"this was a great value\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Matt Damon, Pierce Brosnan, Steve McQueen",
+      "evidence": [
+        "\"love Matt Damon in this\"",
+        "\"love the Pierce Brosnan version (but only had on VHS)\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Wonderful cast; loved the series, and this is a great addition.\"",
+        "\"happy to find this to add to my holiday collection\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"ok addition to my collection of holiday movies\"",
+        "\"hard to find volleyball movies, so I'll keep it in my collection\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys holiday-themed and drama films, often focusing on value and collection completion rather than high production quality. They show some brand loyalty to specific actors but generally prefer simple narratives with a slower pace."
+}

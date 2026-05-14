@@ -1,0 +1,77 @@
+{
+  "user_id": "AE4M74IMVPBGEXEGRMB7CSU4KJ4A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, family-friendly",
+      "evidence": [
+        "lots of action, story line is good, could be better but all in all it was an enjoyable show to watch",
+        "good for the whole family"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "story line is good, could be better but all in all it was an enjoyable show to watch",
+        "a very good story and full seating on the edge of your seat of excitement and fast paced action story"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "full seating on the edge of your seat of excitement and fast paced action story",
+        "lots of action, story line is good"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The video quality is very good, just like I remember them, maybe even better.",
+        "the picture was crisp and clear, the audio was also perfect."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Chisum is probably one of my favorites, very good show with john and the other actors",
+        "i was so happy to see both of these in a double, she was so good"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "The video quality is very good, just like I remember them, maybe even better.",
+        "the picture was crisp and clear, the audio was also perfect."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "brought back a lot of good memories",
+        "it was well worth the cost the charged"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action-packed, family-friendly content with a focus on visual quality and emotional resonance. They enjoy straightforward narratives that keep them engaged, often reminiscing about the good memories associated with the shows they watch."
+}

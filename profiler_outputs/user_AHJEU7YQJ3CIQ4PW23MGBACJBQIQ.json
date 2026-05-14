@@ -1,0 +1,77 @@
+{
+  "user_id": "AHJEU7YQJ3CIQ4PW23MGBACJBQIQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "anime, old movies",
+      "evidence": [
+        "Good movie if you like anime.",
+        "Good old movie"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good movie just had to replace the one I had.",
+        "Good anime ? Took me a couple of times to view."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "If you have a whole day to watch this anime it about (600) minutes long.",
+        "Nice way to get even with bullies with out really hurting yourself."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Good movie just had to replace the one I had.",
+        "I like reading the Sub titles."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Finish my collection of Full Metal Panic anime and manga so far.",
+        "Now I have to fine Season 1 of Fate/Zero to finish off my full collection."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "It will take make you laugh an maybe cry.",
+        "Good comedy . with strange neighbors."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It will take make you laugh an maybe cry.",
+        "the final ending to a good anime."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for anime and old movies, often enjoying simple narratives that evoke emotional responses. They appreciate content that is engaging and humorous, indicating a taste for light-hearted entertainment."
+}

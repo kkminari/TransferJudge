@@ -1,0 +1,73 @@
+{
+  "user_id": "AE2IIOS7ZHHZHQS6IFELFQURSNJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "'Classic'",
+        "'Good movie'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'I only do \"catch up\" episodes occasionally as my interest has dwindled.'"
+      ],
+      "confidence": 0.4,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "'I think some things are overpriced.'",
+        "'Nice product, of course it comes in wonderfully on Amazon Prime...'"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "'The quality is excellent as always...'",
+        "'The quality of the programs on Amazon is excellent...'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "'Love this program waiting for the next season to start.'"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "'Enjoyed this season and will continue to watch probably to the end of season 7.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "'I started with season 1 and as the seasons have progressed I feel the show has lost a great deal of what it started off with.'"
+      ],
+      "confidence": 0.4,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for high-quality productions and enjoys classic and good movies. However, they express mixed feelings about narrative complexity and pacing, indicating a preference for simpler, more straightforward storytelling."
+}

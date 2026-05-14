@@ -1,0 +1,77 @@
+{
+  "user_id": "AEOOQ6IPGENQDJ5UWSJJ7ECGDQRQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animation, sci-fi",
+      "evidence": [
+        "\"Best Cartoon EVER! Wonderful for both kids and adults.\"",
+        "\"Ben 10: Alien Force is a thoroughly enjoyable sci-fi series that kids and adults can enjoy together!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Entertaining show\"",
+        "\"This cartoon is hilarious!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This cartoon is hilarious! It is so funny that I sometimes laugh out loud...\"",
+        "\"Ben 10: Alien Force is a very enjoyable sci-fi series that kids and adults can enjoy together!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I'm so disappointed :o(\"",
+        "\"What a terrible, terrible movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I'm a big fan of Matt Damon and I like the movie's premise.\"",
+        "\"Salma Hayak is so fine, and Mathew Perry is so funny.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The show's writers are comic geniuses.\"",
+        "\"The whole series is great, and the last season is just incredible.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I would recommend this show to anyone!\"",
+        "\"...me and her are totally bonding over our love of the show.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys animated and sci-fi content, particularly those that are entertaining and humorous. They have a preference for fast-paced narratives that evoke strong emotional connections, often bonding with family over shared viewing experiences."
+}

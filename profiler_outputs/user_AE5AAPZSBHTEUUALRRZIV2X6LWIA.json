@@ -1,0 +1,75 @@
+{
+  "user_id": "AE5AAPZSBHTEUUALRRZIV2X6LWIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, family",
+      "evidence": [
+        "\"It's a really good action movie.\"",
+        "\"I like this spin off of a Cinderella story a lot.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's great!\"",
+        "\"I like this movie and the author of the original book.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It's a really good action movie.\"",
+        "\"I like this spin off of a Cinderella story a lot.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I love this movie. It was delivered in great condition and I love having it in my movie collection.\"",
+        "\"It's really good.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Because it has jeremy renner in it.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I remember watching this as a little kid and loved it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I remember watching this as a little kid and loved it.\"",
+        "\"Grew up watching this and love it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and family-oriented movies, often reflecting on nostalgic experiences from childhood. They prefer straightforward narratives with fast pacing and have a strong emotional connection to the films they watch."
+}

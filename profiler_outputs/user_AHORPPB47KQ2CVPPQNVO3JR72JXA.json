@@ -1,0 +1,77 @@
+{
+  "user_id": "AHORPPB47KQ2CVPPQNVO3JR72JXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, thriller, suspense, drama",
+      "evidence": [
+        "\"Great flick. One of the best classic suspense films ever.\"",
+        "\"Terrific film noir. Great light and cinematography.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"...nonstop action and horrible forgettable characters and stupid plots.\"",
+        "\"...the pacing is just too fast...they fit the entire novel into an hr and 46 mins...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"...the action scenes toward the end were great.\"",
+        "\"...the pacing is just too fast...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...the score by Lorne Balfe might just be the best MI score yet.\"",
+        "\"...the flawless acting...beautiful cinematography and breathtaking score...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"...Tom has a couple more Mission films left in him.\"",
+        "\"...if you're a Claude Rains fan like me you will most certainly enjoy him in this role.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"...the score by Lorne Balfe might just be the best MI score yet.\"",
+        "\"...great light and cinematography.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...never has a film moved me emotionally as much as this...\"",
+        "\"...if not for Gone With the Wind this movie probably would have brought home the oscar...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and suspense films with high production quality and emotional depth. They prefer fast-paced narratives but express disappointment with overly simplistic plots. While they appreciate strong performances and cinematography, they show low loyalty to specific creators."
+}

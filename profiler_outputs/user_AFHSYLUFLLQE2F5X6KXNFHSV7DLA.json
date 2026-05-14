@@ -1,0 +1,77 @@
+{
+  "user_id": "AFHSYLUFLLQE2F5X6KXNFHSV7DLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, horror, action, western, drama",
+      "evidence": [
+        "\"I like westerns, comedies and a lot of the actors\"",
+        "\"If you like horror, buy this movie. Buy it now. Today!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"None of that psychological garbage you get from Dark Knight, that you need a PHD to follow, just pure simple movie enjoying.\"",
+        "\"The movie wallows in its own pretension so much that it was hard to keep one's attention.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The pacing. It was very slow and at no time did I feel much was on the line...\"",
+        "\"I was bored to tears in about five minutes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting was amazing, not just from Nichole 'Give me my Oscar Dammnitt', Kidman, but the performances from all cast members was amazing.\"",
+        "\"The visuals are praiseworthy and stunning.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I used to love this show but it seems like it's running out of steam.\"",
+        "\"I like to start reviews with the good. The acting was great and the storyline dark and edgy.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The visuals are praiseworthy and stunning.\"",
+        "\"The movie itself was beautifully done, and was a visual feast.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I watch a movie to be entertained and all this one did was depress.\"",
+        "\"I wanted to like this movie, but found it unbelievably boring.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for comedies, horror, and action films, but has a low tolerance for slow pacing and complex narratives. They value high production quality and are sensitive to emotional engagement, often feeling disappointed when films fail to entertain or resonate emotionally."
+}

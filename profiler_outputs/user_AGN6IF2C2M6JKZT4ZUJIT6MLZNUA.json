@@ -1,0 +1,77 @@
+{
+  "user_id": "AGN6IF2C2M6JKZT4ZUJIT6MLZNUA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, drama",
+      "evidence": [
+        "Hitchcock at his best.",
+        "Hitchcock and the Cold War = exciting exploits"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "classic Hitchcock - always worth watching",
+        "a very old Hitchcock directorial attempt"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "not as good as RIO 1 but still very enjoyable",
+        "this movie will bring back memories"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "great joy to watch 2 great actors at their best",
+        "Paul Newman at his best, you can seldom go wrong watching one of his movies"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Hitchcock, De Niro, Stallone",
+      "evidence": [
+        "Hitchcock at his best.",
+        "De Niro and Stallone are both great"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "this movie will bring back memories",
+        "a real treat"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "brought back memories",
+        "always worth watching"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for thrillers and dramas, particularly those by Hitchcock, showcasing a high sensitivity to quality and emotional resonance. They appreciate complex narratives and have a fondness for notable actors like De Niro and Stallone."
+}

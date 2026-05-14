@@ -1,0 +1,77 @@
+{
+  "user_id": "AGQETMKUBADZYTGRUOFNEWSCO7KQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, mystery, family, drama, romance",
+      "evidence": [
+        "\"A different type of future noir story.\"",
+        "\"Great story and cast with plenty of drama romance and comedy for all these movies.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This movie is fun and exciting.\"",
+        "\"Great family movie with a great cast.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This movie is fun and exciting.\"",
+        "\"A great mystery movie and a cool type of haunted house story.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Michael Biehn plays a great villain and it’s beautifully directed by johnathan frakes.\"",
+        "\"The quality of the episodes is amazing and the sound is great.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Big time trek fan and this series is awesome from beginning to end.\"",
+        "\"Wrath of khan is the best trek movie ever made.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric music",
+      "evidence": [
+        "\"The directors cut makes it even better.\"",
+        "\"Great story and comedy.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I highly recommend this movie for its great story and comedy.\"",
+        "\"You will love every episode.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly sci-fi, mystery, and family-oriented stories. They appreciate high production quality and fast-paced narratives that evoke strong emotional responses."
+}

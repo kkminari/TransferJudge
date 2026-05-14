@@ -1,0 +1,77 @@
+{
+  "user_id": "AH7FS47ROFXNNDHLAP6UH57QMIBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, mystery, comedy",
+      "evidence": [
+        "\"Excellent Nordic tv drama.\"",
+        "\"Good combination of mystery and comedy. Recommend!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Regular bland tv storyline, directing and acting.\"",
+        "\"Contrived story with stupid, amoral characters.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Good stories. Good acting. Beautiful Naples!\"",
+        "\"Nice film about good people and sad economic times in Italy.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent actors, great director, good story, and beautiful Sicily!\"",
+        "\"Great acting!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "General praise without specific names."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual beauty",
+      "evidence": [
+        "\"beautiful Sicily!\"",
+        "\"Beautiful Naples!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Regular bland tv storyline, directing and acting.\"",
+        "\"Contrived story with stupid, amoral characters.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and mystery genres, particularly those with strong visual elements and good acting. However, they show a low emotional engagement and a preference for straightforward narratives, indicating a focus on quality over complexity."
+}

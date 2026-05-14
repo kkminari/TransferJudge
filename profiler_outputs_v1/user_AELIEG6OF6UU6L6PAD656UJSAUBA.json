@@ -1,0 +1,77 @@
+{
+  "user_id": "AELIEG6OF6UU6L6PAD656UJSAUBA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, comedy, camp, drama",
+      "evidence": [
+        "\"The Orville has the same spirit as created by Gene Roddenberry for Star Trek...\"",
+        "\"I was immensely pleased and overwhelmingly entertained by this marvelous television series that I had bought on DVD. FIREFLY...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"This is a wonderful movie, with fantastic landscapes and a wild environment that should make this a compelling and marvelous addition to your DVD collection...\"",
+        "\"This film does not pull any punches. This is war, in all its horrific worst...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This film is scintilating, action packed and exciting in precisely the same way that watching grass grow isn't...\"",
+        "\"This movie is highly entertaining and just plain fun...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The makers of Lord of the Rings invested incredible time, energy and talent in bringing Fellowship of the Ring to life...\"",
+        "\"The special effects are enormous, and buffeted by incredible CGI work...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I give the series 5 stars, because there isn't much that could make it better than it already is.\"",
+        "\"I suspect those who are fans of foreign karate pictures may be highly upset with Oedekerk and regard this movie with a hypercritically jaundiced eye...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The special effects sequences are astounding and altogether marvelous...\"",
+        "\"The only thing keeping me from giving a 5 star rating is the disappointing audio quality on the DVD...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is a truly magnificent film. My primary criteria for any film is whether it entertained me, and this one did the job handily...\"",
+        "\"I was well entertained...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and comedy genres, particularly enjoying shows like 'The Orville' and 'Firefly'. They value high production quality and fast pacing, while also appreciating emotional resonance in films, indicating a taste for engaging and entertaining narratives."
+}

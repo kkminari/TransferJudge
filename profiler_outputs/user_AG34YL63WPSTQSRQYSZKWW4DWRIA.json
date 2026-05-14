@@ -1,0 +1,75 @@
+{
+  "user_id": "AG34YL63WPSTQSRQYSZKWW4DWRIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fitness, workout",
+      "evidence": [
+        "This is a good pilates inspired workout on the ball.",
+        "Denise Austin leads a terrific doable workout for the beginner."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Previewing the DVD, showed an excellent simple yoga program incorporating props."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "This is an interval style workout.",
+        "No continuity between segments."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Agree that this is an excellently produced video.",
+        "Denise shows proper alignment for each stretch."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Denise Austin, Kathy Smith",
+      "evidence": [
+        "Denise Austin leads a terrific doable workout for the beginner.",
+        "Kathy Smith can physically do anything on this DVD."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "The ball really challenges the abs.",
+        "Kathy Smith, why on earth did you use a ball too small for your height?"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "More beginner's tapes like this should be produced to get everyone moving."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for fitness and workout videos, particularly those that are beginner-friendly. They value production quality and have mixed feelings about pacing, indicating a desire for both structured and flexible workout formats."
+}

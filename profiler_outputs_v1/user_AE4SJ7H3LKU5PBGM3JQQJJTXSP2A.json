@@ -1,0 +1,77 @@
+{
+  "user_id": "AE4SJ7H3LKU5PBGM3JQQJJTXSP2A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy",
+      "evidence": [
+        "\"I like watching the Sopranos, whichever season...great show\"",
+        "\"I find this series hilarious\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This show is so entertaining, probably watch again..\"",
+        "\"I like Chappie, and this maybe a reality in the not so distant future...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Great movie, it captures your attention right away, and you have to see what's going to happen next..\"",
+        "\"I was captivated with this show since I started watching it...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I have always enjoyed this movie, it's a great movie for a lazy Sunday afternoon...\"",
+        "\"Always like to watch this movie, a it explicit for kids, but a good adult movie.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love criminal minds, I watch these programs all the time\"",
+        "\"I like watching the Sopranos, whichever season...great show\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"I was intrigued with first couple of seasons of Longmire, so this just adds to the drama..\"",
+        "\"I love the movie, I read the book and thought the movie was just as gripping...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"At first I thought what a boring movie, but I watched it and it captivated me...\"",
+        "\"I like Chappie, and this maybe a reality in the not so distant future...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys entertaining and captivating shows, particularly in the drama and comedy genres. They prefer fast-paced narratives that evoke strong emotional responses, while showing less concern for production quality and brand loyalty."
+}

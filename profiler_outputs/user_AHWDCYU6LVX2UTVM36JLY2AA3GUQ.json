@@ -1,0 +1,77 @@
+{
+  "user_id": "AHWDCYU6LVX2UTVM36JLY2AA3GUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, drama",
+      "evidence": [
+        "\"It is a nice show and this is very well for the youngsters, there should be more like this instead of all that violence we see nowadays\"",
+        "\"it is gentle and without violence.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"good show with a lot of stars\"",
+        "\"good film\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"it is gentle and without violence.\"",
+        "\"good stories, good stars, the quality of the DVD in sound and image is very good\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"good quality of the DVD\"",
+        "\"good sound, good image and good color\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"good show with a lot of stars\"",
+        "\"good film with a young Robert Taylor\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"the quality of the DVD in sound and image is very good\"",
+        "\"very beautiful scenery\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"good show\"",
+        "\"good film\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user prefers family-friendly and gentle narratives, often enjoying shows and films with good production quality. They appreciate simple storytelling and a slower pace, focusing on the overall experience rather than emotional depth or brand loyalty."
+}

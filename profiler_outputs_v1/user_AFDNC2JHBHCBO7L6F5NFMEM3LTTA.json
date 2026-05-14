@@ -1,0 +1,74 @@
+{
+  "user_id": "AFDNC2JHBHCBO7L6F5NFMEM3LTTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, slice of life, mystery, anime",
+      "evidence": [
+        "\"This is a beautiful show, that has flawed characters grow as the episodes go forward.\"",
+        "\"A good watch.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's the same formula as the first two, and it works.\"",
+        "\"This wasn't bad. You have to realize this is a film without a lot of dialogue.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It's the story of a guy who slowly loses himself to loneliness.\"",
+        "\"This has been great so far.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Gorgeously animated. Got me hooked enough to find the manga to read.\"",
+        "\"This is such a beautiful film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The artwork of the backgrounds is gorgeous.\"",
+        "\"This is such a beautiful film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I loved this movie. The source material is quite deep.\"",
+        "\"This has been great so far.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys visually stunning dramas and slice-of-life narratives, often appreciating deep emotional themes. They prefer slower pacing and simple storytelling, valuing high production quality in their viewing experiences."
+}

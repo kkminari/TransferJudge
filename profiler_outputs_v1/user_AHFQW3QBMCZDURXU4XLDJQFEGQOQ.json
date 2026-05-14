@@ -1,0 +1,71 @@
+{
+  "user_id": "AHFQW3QBMCZDURXU4XLDJQFEGQOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama",
+      "evidence": [
+        "Emotionally rich movie with the ups and downs of real life drama and humor."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Very well done story, main character isn't very likable, but she 'grows' on you."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Emotionally rich movie with the ups and downs of real life drama and humor."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Wish there was a way to get a refund for a movie within 10 minutes or so when it is such a cheaply made, badly acted film like this."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "One of my favorite Harlow and Gable movies."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "performances are intense and real. The interaction between the lawyer and client is both heartbreaking and genuine."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Wonderful, heartfelt movie",
+        "performances are intense and real."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for emotionally rich dramas with high production quality. They appreciate character development and intense performances, while expressing dissatisfaction with poorly made films."
+}

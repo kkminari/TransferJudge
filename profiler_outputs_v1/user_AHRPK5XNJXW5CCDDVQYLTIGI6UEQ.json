@@ -1,0 +1,76 @@
+{
+  "user_id": "AHRPK5XNJXW5CCDDVQYLTIGI6UEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy",
+      "evidence": [
+        "\"Lots of action!\"",
+        "\"Awesome! Very funny...a great must see movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I liked the movie.\"",
+        "\"I enjoyed it, but it has too much shooting up.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Lots of action!\"",
+        "\"Awesome! Very funny...a great must see movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I liked it!\"",
+        "\"Great movie and well worth watching.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Great movie, Martin Short was awesome!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"Awesome! Very funny...a great must see movie!\"",
+        "\"Great movie and I would like to give it more stars!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Awsome and it made me feel better knowing what is waiting for me at the other side....as long as I trust and believe in the Lord.\"",
+        "\"I loved it!!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and comedy genres, enjoying fast-paced narratives with a focus on humor. They value emotional resonance in their viewing experience, often expressing deep feelings about the content."
+}

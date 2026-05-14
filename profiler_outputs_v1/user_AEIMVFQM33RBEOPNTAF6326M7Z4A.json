@@ -1,0 +1,77 @@
+{
+  "user_id": "AEIMVFQM33RBEOPNTAF6326M7Z4A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animation, family, musical",
+      "evidence": [
+        "\"Good Pixar movie. Not my favorite, but better than most.\"",
+        "\"This was a very good Disney movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Interesting storyline and ending.\"",
+        "\"I liked this movie better than the original animated movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Good Pixar movie. Not my favorite, but better than most.\"",
+        "\"The movie was better than I expected it to be.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great concert from Queen's 'Sheer Heart Attack' tour.\"",
+        "\"Great band, songs, and setlist. The video and audio are excellent.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Disney, Pixar",
+      "evidence": [
+        "\"Good Pixar movie. Not my favorite, but better than most.\"",
+        "\"This was a very good Disney movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "musical experience",
+      "evidence": [
+        "\"Love 'Kidnap The Sandy Claws'.\"",
+        "\"The two songs by John Rzeznik are very good.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I watched this for the first time this week and enjoyed the movie.\"",
+        "\"This was a very good Disney movie.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys animated and family-friendly films, particularly from Disney and Pixar, and appreciates musical elements in movies. They show a moderate sensitivity to production quality and prefer simpler narratives with a slower pacing."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEQ4QBAF6RL5WJGY2ZOMGH7P4S2A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama",
+      "evidence": [
+        "\"fascinating storylines; no disappointment here.\"",
+        "\"Wonderful mysteries and story lines.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Entertaining as only Morse can be. Worth many reruns.\"",
+        "\"Interesting story lines; Excellent acting by all major characters; I'm not sure I like the excessive fawning over Harriet Vane...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Whenever everyday tv drivel gets me down, I reach for this delightful series.\"",
+        "\"This is one of those movies that one can watch over and over.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent quality video.\"",
+        "\"Superb actors! The actors In this film are masterful in their individual roles...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Joan Hickson, Jeremy Brett",
+      "evidence": [
+        "\"If you have never seen Joan Hickson as Miss Marple you have really missed a perfect portrayal.\"",
+        "\"Entertaining and true Jeremy Brett\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual quality, acting",
+      "evidence": [
+        "\"The color was sharp.\"",
+        "\"Excellent acting by all actors, all familiar faces of British productions.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"the storyline is so intense it gives me a headache every time after watching it, but it is routinely rewatched.\"",
+        "\"What can I say? Miss Marple always uses her uncanny instinct and mature thought processes...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for mystery and drama genres, particularly enjoying works with high production quality and strong performances. They appreciate slower-paced narratives that evoke emotional responses, often rewatching their favorites for the engaging storylines and characters."
+}

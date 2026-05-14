@@ -1,0 +1,77 @@
+{
+  "user_id": "AHI53GIXRLW4BINTB7YANLNVAO2A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, action, western",
+      "evidence": [
+        "\"If you want 3 films of outrageous stupidity and mess to laugh at, this is for you.\"",
+        "\"A great western! Didn't try to be cute or fancy, just an old fashioned straight forward western.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Just a good 79 minute fight scene.\"",
+        "\"Good guys vs bad guys, no explosions, no social justice, just a good solid western story.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I know some people hate when something different is tried but that's their hang-up.\"",
+        "\"This movie does everything you expect a Rambo movie to do.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"The writing was very weak. The only reason this series lasted this long was the likeability and greatness of the actors.\"",
+        "\"A collection of garbage vignettes, without any continuity of plot or character whatsoever.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I don't get it. People talk bad about this movie-IDK why.\"",
+        "\"The acting, the script, cinematography, story...everything first rate.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The most I've laughed this year!! You want to forget what's going on? Highly recommend this movie.\"",
+        "\"Classic cheese. Greatness.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"If you want some kind of life-changing encounter--wrong movie for you.\"",
+        "\"This is the worst movie I've seen in a decade.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and action films, particularly those with straightforward narratives and fast pacing. They show a preference for visual spectacle but are less concerned with production quality and emotional depth."
+}

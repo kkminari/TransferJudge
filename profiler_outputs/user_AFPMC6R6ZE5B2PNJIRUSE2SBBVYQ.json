@@ -1,0 +1,77 @@
+{
+  "user_id": "AFPMC6R6ZE5B2PNJIRUSE2SBBVYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, documentary",
+      "evidence": [
+        "\"Best ST movie since First Contact\"",
+        "\"Best documentary I've seen on the Conquistadors\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Awesome\"",
+        "\"Great story\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The acting in this movie is simply some of the best I have ever seen.\"",
+        "\"Best of the series\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting in this movie is simply some of the best I have ever seen.\"",
+        "\"Very well done.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Best ST movie since First Contact\"",
+        "\"The best espionage movie I have ever seen!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The acting in this movie is simply some of the best I have ever seen.\"",
+        "\"Awesome\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I had to fight tears! Very good and moving!\"",
+        "\"Disturbing, but we must not forget the truth.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for sci-fi and documentary genres, appreciating high-quality production and emotional depth in storytelling. They favor fast-paced narratives and exhibit a notable sensitivity to acting quality, though they do not demonstrate strong loyalty to specific creators."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGLP7AQIX573W72GZHHEBMGUMTPA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama",
+      "evidence": [
+        "\"Little House on the Prairie grasps the concept of family values better than any other.\"",
+        "\"It's a classic!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's a good movie with a good message.\"",
+        "\"It's just a really good film that has something powerful to say about having faith.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It's very heartrending and emotional, but it is absolutely wonderful.\"",
+        "\"It's a beautiful, beautiful story with all the morality, love, and sensitivity that you could ask for in a movie.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting was very strong and the story was inspiring.\"",
+        "\"The singing was outstanding too--this is a great movie for children as well as adults.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have recently become a huge Little House fan, thanks to my mom who got me hooked on the TV series =)\"",
+        "\"If you are an avid 'Anne' fan like me, by all means watch this edition and enjoy seeing your favorite characters for the third time.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It's a beautiful movie--just beautiful.\"",
+        "\"The acting is so strong--in fact, all of the acting in 'Little House on the Prairie' is amazing.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"What a beautiful and touching movie.\"",
+        "\"It is a truly beautiful story that moved me so deeply.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-oriented dramas with simple narratives and emotional depth. They appreciate high production quality and are particularly moved by stories that convey strong moral messages and family values."
+}

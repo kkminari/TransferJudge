@@ -1,0 +1,77 @@
+{
+  "user_id": "AGFCM5LXQS6NRQOF23YY6PY347YA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family, historical, adventure",
+      "evidence": [
+        "\"A great movie to watch for inspiring holocaust heroes.\"",
+        "\"Another WWII movie about delivering peoples from the Nazis.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This is a good family movie. Nice story.\"",
+        "\"Just a nice dvd to gave and watch anytime\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Not just another escape movie? Based on a true story.\"",
+        "\"A true story.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Good movie, new disk, played as expected.\"",
+        "\"This is a good family movie. Nice story.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "Kurt Russell, Hayley Mills, David Bowie",
+      "evidence": [
+        "\"Love all Kurt Russell movies.\"",
+        "\"Fall in love with David Bowie over again.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, emotional storytelling",
+      "evidence": [
+        "\"A must see.\"",
+        "\"Worth watching.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A great movie to watch for inspiring holocaust heroes.\"",
+        "\"This one is based on the true story of Monsignor Hugh O'Flaherty, who helped hide and rescue refugees and POWs in Germany during the war.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and historical films, particularly those with emotional and inspirational themes. They show loyalty to specific actors like Kurt Russell and Hayley Mills, and appreciate simple narratives that evoke strong feelings."
+}

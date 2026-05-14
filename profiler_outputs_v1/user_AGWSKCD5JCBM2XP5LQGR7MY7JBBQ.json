@@ -1,0 +1,77 @@
+{
+  "user_id": "AGWSKCD5JCBM2XP5LQGR7MY7JBBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, horror, sci-fi",
+      "evidence": [
+        "I liked the sci-fi supernatural aspects of the show.",
+        "Take some of the mother-daughter flashbacks out and I'd give it 5 stars as a horror movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "If you cannot suspend your disbelief then you should not be watching any movie with action heroes.",
+        "When they make pictures like this they are not thinking about academy awards just entertainment."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "The pilot of The After was exciting. I enjoyed it and it went fast.",
+        "This is a fun movie. You can't beat Bruce Willis and Jai Courtney was perfect as his son."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Amazing special effects. This made for a fun evening.",
+        "Finally a clear edition. To top it off a 3D version too!!!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Tom Cruise, Bruce Willis",
+      "evidence": [
+        "Tom Cruise gives his all in a movie, he great.",
+        "You can't beat Bruce Willis and Jai Courtney was perfect as his son."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, immersive experience",
+      "evidence": [
+        "I have a wonderful LG 4K OLED 3D TV and a large 3D collection.",
+        "The 3D was fantastic, especially for the 'side of the cliff action scene'."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "If you cannot suspend your disbelief then you should not be watching any movie with action heroes.",
+        "Just relax and go with it you will enjoy it."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced action and horror films, particularly those that offer a visual spectacle, especially in 3D. They appreciate high production quality and have a preference for straightforward narratives that prioritize entertainment over complexity."
+}

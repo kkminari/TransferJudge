@@ -1,0 +1,77 @@
+{
+  "user_id": "AE3W4YD6AZ5B2ZO3K5XUOVKUZCFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fitness, drama",
+      "evidence": [
+        "I like all of Tony Hortons Power Half Hour Workouts.",
+        "Good film. Very emotional."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good film. Very emotional.",
+        "A very good film. I always like it when the bad guys get caught."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Action moving, from almost the beginning.",
+        "It does keep you on the edge of your seat."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Not worth the money.",
+        "They're low quality as well."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I have several 10 Minute Solution Dvd's, & I've been very pleased with most of them.",
+        "I really like all of the Yoga for Dummies DVD's that I've seen thus far."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Good film. Very emotional.",
+        "It does keep you on the edge of your seat."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Good film. Very emotional.",
+        "A very good film. I always like it when the bad guys get caught."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for fitness-related content and emotional drama films. They enjoy fast-paced narratives but are less concerned with production quality, indicating a focus on the experience rather than polish."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHEQENPHODMAD5YOP3ESQEE3PM3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, horror, action",
+      "evidence": [
+        "\"I was especially surprised at how good this movie was for its budget...\"",
+        "\"This is Rambo for the modern era, and it... was... amazing!!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Cliché plot. Horrid soundtrack. Anti-white racism. Poor character decision due to wretched writing.\"",
+        "\"This was as predictable and dull, to the max.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The pacing was perfect. Dialogue believable. The acting was unexpectedly good...\"",
+        "\"So much wasted screen time. I literally didn't care about any of the characters.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Very good acting, writing, and cinematography.\"",
+        "\"The choreography and monster make-up were meh, but everything else I really quite enjoyed.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"If you like good comedy, this is for you.\"",
+        "\"Ignore the 1-star reviews, their opinions are wrong.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The violence is beautiful.\"",
+        "\"The cinematography and color choices were excellent.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I could've gone my whole life without watching this unintelligent trash...\"",
+        "\"I literally didn't care about any of the characters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for comedies and action films, but has a strong aversion to predictable narratives and poor character development. They value high production quality but often find emotional engagement lacking in the films they review."
+}

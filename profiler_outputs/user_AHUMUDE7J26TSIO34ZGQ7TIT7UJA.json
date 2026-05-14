@@ -1,0 +1,76 @@
+{
+  "user_id": "AHUMUDE7J26TSIO34ZGQ7TIT7UJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, comedy, fantasy",
+      "evidence": [
+        "Very cool sci-fi detective fantasy with a delightful array of characters.",
+        "Humorous movie with such opposite actors."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "If you are the type that picks a film apart for details that are not believable, forget it.",
+        "They could have done so much more with the plot."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Good movie with 2 good actors.",
+        "Awesome!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "I'd give it 5 stars if it were a bigger budget film, so only 4 on a technicality.",
+        "They could have done so much more with the plot."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I typically don't take well to Tom Cruise adventures, but this is well done."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "an enjoyable fantasy with light humor and a dark twist.",
+        "the truth is nice, but a rumor is priceless."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Maybe worth a cult film following ...maybe not.",
+        "Some very good acting. Overall I give it three stars, but there are definitely some five star moments."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys humorous and sci-fi films with a preference for fast pacing and simple narratives. They show some sensitivity to production quality but lack strong loyalty to specific creators, indicating a focus on entertainment value."
+}

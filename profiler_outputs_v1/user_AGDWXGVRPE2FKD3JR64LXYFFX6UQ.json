@@ -1,0 +1,77 @@
+{
+  "user_id": "AGDWXGVRPE2FKD3JR64LXYFFX6UQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romantic comedy, family-friendly",
+      "evidence": [
+        "'this movie is a great romantic comedy'",
+        "'Love this movie and so does my 2 year old'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'great movie kids love it'",
+        "'This movie was adorable!'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "'hilarious!'",
+        "'Great movie in excellent condition for a awesome price'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "'Came packaged neatly and no scratches'",
+        "'Arrived with no scratches in perfect condition'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "'I never knew this existed only the movie'",
+        "'Works well no scratches and perfect for nostalgia lovers'"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual appeal",
+      "evidence": [
+        "'great movie kids love it'",
+        "'Cute movie'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'One of my favorite childhood movies'",
+        "'brought tears'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly romantic comedies that evoke nostalgia and emotional resonance. They appreciate simple narratives and fast pacing, often focusing on the enjoyment of their children. While they value the overall experience, they show less concern for production quality and brand loyalty."
+}

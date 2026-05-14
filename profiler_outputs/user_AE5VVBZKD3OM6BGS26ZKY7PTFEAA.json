@@ -1,0 +1,77 @@
+{
+  "user_id": "AE5VVBZKD3OM6BGS26ZKY7PTFEAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, thriller",
+      "evidence": [
+        "\"A film's story is always the final arbiter for a successful film but acting, directing and production values must provide equal measure for that overall success to transcend.\"",
+        "\"The Martian builds on that philosophy and does an excellent job of describing how both the one left behind and the rescuers go about affecting the rescue...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The story bears the largest responsibility in The Sea of Trees... the audience is provided with the rationale and the necessary back-story...\"",
+        "\"The screenplay writer lifts the premise of seeing ghosts directly from The Sixth Sense... misses the mark entirely.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The story stayed believable... even with all the cards stacked against him, Matt comes home (in one piece)!\"",
+        "\"The audience is drawn into the story to such an extent that individual scenes flow, one to the next, in a seamless movement...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Writing, acting, directing and production are first class and set a very high standard indeed!\"",
+        "\"The production values of the film were great with nearly seamless crossing between real and CGI.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I make it a habit to re-watch the 'Unforgiven' around once a year for the purpose of rekindling my ability to 'smell' the rain.\"",
+        "\"Love Naomi Watts' film work. She provides a lot more than simple female lead creds she carries her films.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I attribute it all to his ability to make me 'smell' the rain throughout the piece.\"",
+        "\"The audience can nod and share the main character's sense of peace.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I will remember and cherish this story and this film for the rest of my life.\"",
+        "\"The film addressed and portrayed this series of events that each and everyone of us will face in some fashion as we age into the future.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex dramas with high production quality and emotional depth. They appreciate slow-paced storytelling that allows for character development and narrative intricacies, often resonating with the emotional themes presented in the films."
+}

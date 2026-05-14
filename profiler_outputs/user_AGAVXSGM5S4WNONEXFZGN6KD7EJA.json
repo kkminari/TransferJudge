@@ -1,0 +1,77 @@
+{
+  "user_id": "AGAVXSGM5S4WNONEXFZGN6KD7EJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, horror, fantasy, drama, feel-good",
+      "evidence": [
+        "This syfy/horror movie is very good with an interesting story to tell.",
+        "It's fun watching fairy tales and myth being turned into a T.V. fantasy, horror, and drama."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I did'nt like the plot, but to be honest it was entertaining.",
+        "Don't take it too seriously, it just entertainment..."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Great way to spend a HOT summer day indoors and cool with a bunch little girls watching something sweet.",
+        "This film was very heart warming, well done and entertaining."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Life is hard enough without having to watch more depression on the big or little screen.",
+        "I love happy ending.."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Luke Evans, Hallmark Movies",
+      "evidence": [
+        "Any movie with Luke Evans can't be bad, right?",
+        "Call me old fashioned but I love feel good movies!!!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Very inspirational, makes you want to do more for others than yourself at the holiday season.",
+        "What a great musical! The music and cast were wonderful."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "So sad, but so good! This would be a great movie to share with the family.",
+        "Very inspirational, makes you want to do more for others than yourself at the holiday season."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of genres, particularly sci-fi, horror, and feel-good narratives. They prefer simple, entertaining stories with a fast pace and high emotional resonance, often valuing heartwarming themes over production quality."
+}

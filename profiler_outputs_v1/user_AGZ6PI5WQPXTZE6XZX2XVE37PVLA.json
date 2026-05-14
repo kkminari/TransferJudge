@@ -1,0 +1,77 @@
+{
+  "user_id": "AGZ6PI5WQPXTZE6XZX2XVE37PVLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, ballet, documentary",
+      "evidence": [
+        "\"I really enjoyed this mini-series. Glenda Jackson made a great Elizabeth I.\"",
+        "\"This is probably the best version of this ballet I have seen. The dancing and music are both superb.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It probably doesn't matter if you see the movie or read the book first. Just do it!\"",
+        "\"The later seasons were more contrived, as it became increasingly difficult to develop fresh, relevant, believable story lines.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I have enjoyed the 24 mini-series, however as it is with most material in this format, the earlier seasons were better.\"",
+        "\"Every time an episode ends, it is difficult to resist the temptation to stay up all night to watch the rest!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The quality of the DVD is good, and I am glad I added it to my collection.\"",
+        "\"Luminous Years was so well done, I wanted to be able to view it over and over to soak up and better understand the art, music, and culture of that era.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Ildar Abdrazakov does a wonderful Igor.\"",
+        "\"Samuel Ramey is at his best in this SF Opera production.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The dancing and music are both superb.\"",
+        "\"I loved the vintage footage, which greatly enhanced the overall impact of this piece.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is a solemn reminder of the dark days of the blacklist in the movie industry and remains very relevant to today's political scenario.\"",
+        "\"I wanted to be able to view it over and over to soak up and better understand the art, music, and culture of that era.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama, ballet, and documentaries, appreciating high production quality and sensory experiences. They enjoy slower-paced narratives that evoke emotional resonance, although they show low brand loyalty to specific creators."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AHLLZYOVY6FS4DVX34IKNUMOZ6VA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "Really funny",
+        "Fun Goofy Movie.."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Just ok",
+        "Found it Boring.."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "It was a little slow but worth watching.",
+        "Hard to follow..Slow.."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Well made but don’t like the music etc.",
+        "Good acting...really slow..."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Coen Brothers",
+      "evidence": [
+        "Usually Love Coen Bros stuff.."
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Let's you see so much more DETAILS than the B/W version.",
+        "The characters and storylines are very interesting."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "One of my favorite Movies!!",
+        "Luv this Movie.. I've seen it several times.. Always Entertaining!!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and dramas, often appreciating humor and engaging storylines. They have mixed feelings about pacing and narrative complexity, indicating a preference for straightforward storytelling but can tolerate some slower narratives if they are entertaining."
+}

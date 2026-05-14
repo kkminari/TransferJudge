@@ -1,0 +1,77 @@
+{
+  "user_id": "AHJOBYVNKL24SQSVFT62DT4XOF6Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, thriller, romance",
+      "evidence": [
+        "A great movie with the right touch of romance and comedy that had a dashing spy theme within its core build up.",
+        "A story of forgiveness, redemption as well as overcoming the monsters in one's life."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "Scramble my noodle. That was wickedly good.",
+        "A movie that checks both your morals and ethical line of thinking."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "It was slow build to the climax of the story but it was worth the wait.",
+        "The movie did not come together as a whole and made a good clear statement."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The acting was on point just wondering how close was the script was to the real event that was told.",
+        "Awesome performance by Teresa Palmer had always been a fan."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I was very excited to see that there was a sequel to the original, but it did not hold up to it not even close.",
+        "I like how Hailee Steinfeld develop her character outside of her identity train agent."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Very touching story base on true events that will shock you knowing the evil that a person can do.",
+        "Good movie that speaks on the sad but true facts."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It makes you ask yourself the question of what would you really have done, in both of those situation in today's society?",
+        "Good movie that speaks on the sad but true facts. Know of many real life situation as such n its still tear at your heart."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex narratives with strong emotional resonance, particularly in drama and thriller genres. They appreciate high production quality and tend to favor slower-paced storytelling that builds to a climax, while showing less loyalty to specific creators."
+}

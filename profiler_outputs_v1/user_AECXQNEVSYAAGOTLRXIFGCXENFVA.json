@@ -1,0 +1,75 @@
+{
+  "user_id": "AECXQNEVSYAAGOTLRXIFGCXENFVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, feel-good",
+      "evidence": [
+        "\"Unique idea for a sci-fi movie.\"",
+        "\"Positive message, real feel-good movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Needed more plot\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Fun action film\"",
+        "\"Great action movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great quality!\"",
+        "\"Great quality!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Great finish to the 4 decade saga!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Great action movie!\"",
+        "\"Fun action film\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"So inspiring\"",
+        "\"Positive message, real feel-good movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys feel-good and sci-fi movies, often appreciating high production quality and fast pacing. They value emotional resonance in films, indicating a preference for content that inspires and entertains."
+}

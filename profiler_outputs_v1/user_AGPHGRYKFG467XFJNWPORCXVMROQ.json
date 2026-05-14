@@ -1,0 +1,76 @@
+{
+  "user_id": "AGPHGRYKFG467XFJNWPORCXVMROQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "'Great supernatural movie'",
+        "'A movie with a real message.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'Story did not satisfy.'",
+        "'Story was farfetched, but believable.'"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "'A very entertaining and engrossing movie.'",
+        "'Suspenseful, but having the wolf speak weakened the movie'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "'Cinematography was excellent.'",
+        "'A great movie, with wonderful music and excellent story line.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "'With the exception of The Money Pit, the other two movies are less than enjoyable.'"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "'While the scenery and music were good.'",
+        "'Cinematography was excellent.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'Movie is exceptional and produces many memories.'",
+        "'A movie with a real message.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a mixed preference for genres, with a notable appreciation for supernatural themes. They value high production quality and sensory experiences, while their narrative complexity and pacing preferences are less defined, indicating a potential openness to various storytelling styles."
+}

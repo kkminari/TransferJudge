@@ -1,0 +1,77 @@
+{
+  "user_id": "AEXPAM55CUZTO6HHS2YKQHM55FPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "general entertainment, history",
+      "evidence": [
+        "I love this show! My favorite, makes me feel like a kid again.",
+        "GOOD FOR HISTORY"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "My fav show!",
+        "LOVE IT!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "SAD TO SEE IT GO!",
+        "GOOD SHOW!"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "LOVE IT!",
+        "Great dvd. Good and informative!"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "My fav show!",
+        "A FAVORITE!"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "I love airplanes so this was great for me.",
+        "LOVE IT!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "makes me feel like a kid again.",
+        "SAD TO SEE IT GO!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for general entertainment and history-themed content, often expressing deep emotional connections to their favorite shows. They enjoy simple narratives and high sensory experiences, indicating a preference for engaging and enjoyable viewing rather than complex storytelling or high production quality."
+}

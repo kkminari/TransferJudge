@@ -1,0 +1,77 @@
+{
+  "user_id": "AE6F6S345T66YHLQGHUYLHMJ5VRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animation, documentary",
+      "evidence": [
+        "\"All the cartoons are great, if you buy this one there will be more volumes.\"",
+        "\"I am sick and tired of Netflix and Prime green lighting pieces of crap like this that should be relegated to a corny youtube channel.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"These are the films that inspired the video game Cuphead.\"",
+        "\"I do not want to hear anal retentive animation 'experts' using the freeze frame button and complaining.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It’s SO nice to see these films as they were originally shown with the best prints available on physical media where you have slow motion and frame advance so you can really appreciate and study the animation.\"",
+        "\"The greatest movie about Mark Twain and one of the best animated films of all time.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The improvements compared to the previous DVD release are HUGE.\"",
+        "\"All three are stellar. Buy all three to support a lot of hard work in restoration and musical scoring.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Thunderbean, Steve Stanchfield",
+      "evidence": [
+        "\"Buy all Thunderbean, Steve Stanchfield can do no wrong.\"",
+        "\"Great work as always from Thunderbean.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, restoration quality",
+      "evidence": [
+        "\"The time and care paid off.\"",
+        "\"My favorite aspect of this release is seeing the detail on the stop-motion puppets, the surreal set design, and Oscar winning makeup.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is better than Golden Collection. Watching this character evolve chronologically with the best animation directors is a huge treat.\"",
+        "\"Fascinating and entertaining!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for animated content, particularly valuing high-quality restorations and the artistry of classic animation. They show a notable loyalty to specific brands and creators, while also appreciating the emotional and visual aspects of the films they review."
+}

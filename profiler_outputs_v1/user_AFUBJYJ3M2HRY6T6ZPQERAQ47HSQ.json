@@ -1,0 +1,77 @@
+{
+  "user_id": "AFUBJYJ3M2HRY6T6ZPQERAQ47HSQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, camp, musical",
+      "evidence": [
+        "\"One of the all time classic SciFi movies. Highly recommended.\"",
+        "\"Singing, dancing, scenery. We need MORE movies like this.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Dull and dreary without much action.\"",
+        "\"This was a disappointment from beginning to end.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The action is great and isn't overwhelmed by the 'love' story.\"",
+        "\"Campy but still a fun movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"The effects and photography were terrific, but this movie left me a bit flat.\"",
+        "\"Average 1950s B style SciFi. Not great but not terrible.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Wolverine is one of my favorite characters.\"",
+        "\"I remember seeing this at the drive-in.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The animation is top notch and the story is good.\"",
+        "\"The effects and photography were terrific.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"This was a disappointment from beginning to end.\"",
+        "\"Not as good as expected it to be.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys sci-fi and campy films with a preference for fast pacing and visual spectacle. They show a low sensitivity to production quality and emotional resonance, indicating a focus on entertainment rather than depth."
+}

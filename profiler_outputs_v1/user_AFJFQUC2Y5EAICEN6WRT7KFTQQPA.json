@@ -1,0 +1,76 @@
+{
+  "user_id": "AFJFQUC2Y5EAICEN6WRT7KFTQQPA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's education",
+      "evidence": [
+        "\"Great educational videos for our toddler.\"",
+        "\"Dora is always thumbs up for the education of the kids...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Cute and educational.\"",
+        "\"Kids love it. Keeps them entertained over and over.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Very good visuals. The kids love it.\"",
+        "\"Awesome piggy. Next step up from Peppa..\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"This series keeps getting better and better.\"",
+        "\"The characters were well played and it is the kind of series that you will definitely watch again.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Dora, Sesame Street",
+      "evidence": [
+        "\"Yay DORA!\"",
+        "\"All Seasons of Sesame Street are awesome!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and educational",
+      "evidence": [
+        "\"Very good visuals. The kids love it.\"",
+        "\"Great stories and lessons teaching many subjects related to the story lines.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It shows the lives of the 'upper' and 'lower' classes in a hotel setting. I watch this series to wind down after a long day at work and it has been quite therapeutic.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for children's educational content, particularly series like Dora and Sesame Street. They appreciate simple narratives with good visuals and educational value, indicating a focus on quality and emotional engagement in their viewing choices."
+}

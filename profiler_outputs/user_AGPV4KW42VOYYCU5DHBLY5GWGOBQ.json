@@ -1,0 +1,77 @@
+{
+  "user_id": "AGPV4KW42VOYYCU5DHBLY5GWGOBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, adventure, comedy, mythology",
+      "evidence": [
+        "\"I love ghost stories and this show had me hooked for the first season.\"",
+        "\"I love mythology any way and this movie was awesome. Full of action and adventure with that hint of romance.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It was okay. Not as good at the first one which was more like the comic book.\"",
+        "\"I wasn't sure what to expect when I got this movie but over all I thought it was really very good.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The graphics were amazing and it moved right along with the story and definitely a cliff hanger.\"",
+        "\"It was fantastic and usually squeals aren't this good. It was just fun and funny.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"I love everyone in this movie. It had a great cast but honestly it was a bit of a let down.\"",
+        "\"I loved the actors and singers in this movie it was true to the original story and yet gave it a good dose of modernization.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love the actors in this film and over all it was okay.\"",
+        "\"I love ghost stories and this show had me hooked for the first season.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The graphics were amazing and it moved right along with the story and definitely a cliff hanger.\"",
+        "\"It was a very cute movie, my boys loved every minute of it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I really enjoyed this movie now I want to read the book. It was great.\"",
+        "\"My kids and I really enjoyed this movie. It was a wonderful addition to our collection and then we watched the third and it was perfect.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly movies with elements of adventure and comedy, often appreciating fast-paced storytelling. They show a strong emotional connection to the films they watch, particularly those that resonate with their children."
+}

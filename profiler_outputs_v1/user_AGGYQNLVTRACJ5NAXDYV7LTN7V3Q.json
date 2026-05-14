@@ -1,0 +1,77 @@
+{
+  "user_id": "AGGYQNLVTRACJ5NAXDYV7LTN7V3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, thriller",
+      "evidence": [
+        "GREAT MOVIE",
+        "Fun plot with a great cast ~ Lots of laughs with lots of unexpected twists & turns that keep you guessing right up to the end."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "full of twists and turns right up to the very end!",
+        "Lots of twists & one line zingers & a great cast !!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "It doesn't drag --- GREAT SHOW!",
+        "GREAT WRITERS and the acting is fantastic!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Fantastic acting, story & beautiful scenery!",
+        "the acting is excellent = as it always is with Julianne Moore!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Julianne Moore, Eddie Murphy, Jennifer Aniston",
+      "evidence": [
+        "Julianne is my favorite actor !!",
+        "AND SHE NAILED IT !!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, emotional depth",
+      "evidence": [
+        "beautiful scenery!",
+        "makes you stop and ponder!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It is a sad story, but extremely well done",
+        "LOVED IT!!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and comedy films with complex narratives and fast pacing. They value high production quality and have a notable loyalty to specific actors, particularly Julianne Moore and Eddie Murphy, while also seeking emotional depth in their viewing experiences."
+}

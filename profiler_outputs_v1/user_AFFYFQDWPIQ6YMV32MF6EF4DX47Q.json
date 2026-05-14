@@ -1,0 +1,74 @@
+{
+  "user_id": "AFFYFQDWPIQ6YMV32MF6EF4DX47Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama",
+      "evidence": [
+        "\"Excellent documentary showing the extremes found on earth.\"",
+        "\"Excellent dramatization of the terrible events in ancient Rome.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Beautiful but boring after a short while.\"",
+        "\"Dated but ok.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Beautiful but boring after a short while.\"",
+        "\"Dated but ok.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Very well done. Great Quality acting by every actor.\"",
+        "\"Really great photography...interesting place.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Really great photography...beautiful place.\"",
+        "\"Great at showing some of the highlights of England.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Lots of fluff. Not much revelations to be found.\"",
+        "\"Religious propaganda. But nice to see this iconic place.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for documentaries and dramas, valuing high production quality and visual spectacle. However, they tend to favor simpler narratives and slower pacing, indicating a potential disinterest in complex storytelling."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AGYSUIRCID5ZAOXMXIVX2IECH5WA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, horse, biblical",
+      "evidence": [
+        "\"A good family movie who love horses.\"",
+        "\"Great Bible movies! I LOVE them!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A good movie, with a good message.\"",
+        "\"A good family movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"A good movie, but very depressing.\"",
+        "\"A warm and touching movie. Wonderful!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"A good movie!\"",
+        "\"A great movie to watch!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "John Schneider, Robert Duvall",
+      "evidence": [
+        "\"John Schneider is a great actor, and this is a wonderful movie!\"",
+        "\"Robert Duvall is a great actor. This is another good movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"A warm and touching movie. Wonderful!\"",
+        "\"A sad movie. I had compassion for the owner of the property.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A sad movie. I had compassion for the owner of the property.\"",
+        "\"A warm and touching movie. Wonderful!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-oriented and horse-related movies, often enjoying simple narratives with emotional depth. They show loyalty to specific actors and appreciate films that evoke compassion and warmth."
+}

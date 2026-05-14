@@ -1,0 +1,76 @@
+{
+  "user_id": "AHLZUU3B6DH2AFDUHJW6CUEV5PSQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, action",
+      "evidence": [
+        "\"If you can get by the unlikely premise, and that the Grounder women can only find low cut t-shirts in the radiated landscape of post apocalyptic Earth, it's a fun, guilty pleasure sci-fi show.\"",
+        "\"I enjoyed watching this series, and while there are some twists and plots that have a Game of Thrones flavor, the show is different enough.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The drama seemed overdone from time to time with closeups, quick camera shaking, and music.\"",
+        "\"The backstory is compelling and the people all seem earnest. Nice people. But, it comes across as being somewhat scripted.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The last season was wonderful - the tension got more intense with each episode.\"",
+        "\"But a show that was so detailed became less and less as season went by and felt very rushed at the end.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Production and effects were top notch, and the acting was strong.\"",
+        "\"I enjoyed the animation, which for the most part was very well done, and having Kevin Conroy as Batman is always a plus.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"For me, BTAS is the best portrayal of Batman alongside Denny O'Neil's portrayal.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The music was very cool -- really takes you back to the older films.\"",
+        "\"The effects are done well overall.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Overall, a terrific show and great series.\"",
+        "\"It is interesting in how each person deals with obstacles, and their success and failure.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of sci-fi and drama genres, appreciating high production quality and emotional depth in storytelling. They have mixed feelings about narrative complexity and pacing, indicating a preference for engaging plots but with some reservations about execution."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AFLK35PGK6OFSYAY33RHC7M4M7XA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romantic, comedy, sci-fi",
+      "evidence": [
+        "\"quirky and romantic\"",
+        "\"I like the science fiction entangled with the past era in this movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Too predictable.\"",
+        "\"It was a nice movie. It 'dragged' somewhat, but still nice.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It 'dragged' somewhat, but still nice.\"",
+        "\"Too predictable.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The setting and scenery was great.\"",
+        "\"The stars make the movie even better!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I like Mark Wahlberg, but not in this movie.\"",
+        "\"Richard Gere is one of my favorites.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It made me laugh so much.\"",
+        "\"I smiled. I laughed. And, it kept my attention.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I smiled. I laughed. And, it kept my attention.\"",
+        "\"Loved it! I really like Bosch's personality.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys romantic and comedic films, particularly those with quirky elements. They appreciate emotional engagement and tend to favor simple narratives, though they have mixed feelings about pacing and production quality."
+}

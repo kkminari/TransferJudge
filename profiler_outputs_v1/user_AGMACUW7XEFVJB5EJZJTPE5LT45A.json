@@ -1,0 +1,77 @@
+{
+  "user_id": "AGMACUW7XEFVJB5EJZJTPE5LT45A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, romance, drama",
+      "evidence": [
+        "\"I love the mystery, the mother daughter relationship but most of all the hard working, thinking relationship of Rizzoli and Isles.\"",
+        "\"if you like cop shows and romance.. as well as extremely well developed characters... this show has it all.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the relationships and characters are heart warming and the cases very believable and interesting to solve...\"",
+        "\"it is mission impossible without so much shoot em up stuff.. and actual thought goes into the solution...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I felt such a connection with each character and can see real life interactions happening from pain, jealousy, wanting to be famous...\"",
+        "\"a good way to understand my mother a lot of the times.. and to see some of the things that I do as well.. both as a grown child and as an adult\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great material and great acting.. love the fact that it mirrors much of what is going on in the world today.\"",
+        "\"wish I hadn't waited so long.. what did I expect with Mr. Sorkin doing the writing.. should have known....\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Aaron Sorkin",
+      "evidence": [
+        "\"hope they stay this good -\"",
+        "\"I hear there are complaints that Sorkin is not reaching us.. but he sure is reaching me..\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, character-driven",
+      "evidence": [
+        "\"the playful romance between the lead characters complete with the challenges of two very different personalities makes me chuckle...\"",
+        "\"each has a razor sharp sense of humor with great come back lines...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"makes me chuckle, recognize, and feel so good about humanity and love.\"",
+        "\"I felt such a connection with each character...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for mystery and romance genres, particularly enjoying character-driven narratives with emotional depth. They appreciate high production quality and have a notable loyalty to Aaron Sorkin's work, indicating a taste for well-crafted storytelling that resonates on a personal level."
+}

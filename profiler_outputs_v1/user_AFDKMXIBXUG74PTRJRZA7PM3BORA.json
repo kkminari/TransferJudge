@@ -1,0 +1,77 @@
+{
+  "user_id": "AFDKMXIBXUG74PTRJRZA7PM3BORA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, drama, comedy",
+      "evidence": [
+        "\"I never tire of stories of Arthur and Merlin and all the other characters of Camelot...\"",
+        "\"It was a love story -- very bittersweet...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the story was told wonderfully!\"",
+        "\"the storyline is great. Just love it!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"the underlying concept of the movie is good -- but it moves so slow.\"",
+        "\"I cannot get enough of this series. I was going to go slow watching the episodes to make it last...NOPE could not do it!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the actors were great - the friendship, love, humor and loyalty...\"",
+        "\"the cast was great!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love this series! It gets better each season!\"",
+        "\"I loved this version of the camelot series.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"I cried the whole last episode -- but I wanted to begin the whole series again.\"",
+        "\"It is a beautiful story and all of the actors appear real and perfect for their roles.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It was a tear jerker --- but it was thought provoking too.\"",
+        "\"I cannot stop watching this show!!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy and drama genres, particularly enjoying heartfelt stories with emotional depth. They appreciate high production quality and are drawn to narratives that evoke strong feelings, although they have mixed feelings about pacing, sometimes finding it slow but also enjoying binge-watching engaging series."
+}

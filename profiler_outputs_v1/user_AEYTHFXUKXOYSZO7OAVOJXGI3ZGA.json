@@ -1,0 +1,74 @@
+{
+  "user_id": "AEYTHFXUKXOYSZO7OAVOJXGI3ZGA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, action",
+      "evidence": [
+        "Fun and suspenseful! I loved the characters...",
+        "Brilliantly written, very funny and unique story line."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "easy to watch without going marathon mode.",
+        "I want to know what is going to happen!"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "a little slow but steady moving.",
+        "this movie started out amazing but then... it lost gas..."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "good acting.",
+        "I loved the casting and the gradual tension that increased on several problems."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "a lot of fun!! much action for a first episode.",
+        "I want to know what is going to happen!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I was immediately hooked!",
+        "I want to know what is going to happen!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fun and suspenseful content, particularly in the comedy and drama genres. They appreciate good acting and production quality, while their pacing preference is mixed, indicating they enjoy both fast-paced and slower narratives depending on the context."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHWG5XH6LYWAVLUY4ZSGLHYSCLPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "dislikes horror, thriller; mixed feelings about drama and romance",
+      "evidence": [
+        "\"Not a horror movie. Hardly even a thriller. Definitely not scary.\"",
+        "\"I hated every character in this movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The storyline was predictible with little to offer in the way of ingenuity or thrill factor.\"",
+        "\"Nothing is explained. Nothing is resolved.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I could have sworn I saw the following scenes... I'm kinda pissed off.\"",
+        "\"I shudder to think that these acting hacks will receive royalties from the continued running of these films.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I truly can't believe how this film can get good reviews.\"",
+        "\"Bad writing. Tentative unfocused generic acting.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"George Lucas brings us terrible dialogue, along with some of the worst acting I've seen in quite some time.\"",
+        "\"I would never believe that anyone could absolutely destroy the Buffyverse like the writers in Season 7 did.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The music was fun and stuck in my head for hours afterward, and the scenery was beautiful as well.\"",
+        "\"The only shining light in this whole movie was Elvira herself...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I have zero empathy for them. No need to watch this.\"",
+        "\"I laughed out loud in the theatre when Kate Beckinsale died.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong aversion to poorly executed horror and thriller genres, often criticizing predictable narratives and low-quality production. They appreciate engaging sensory experiences but generally lack emotional connection to the characters and stories presented in the films they review."
+}

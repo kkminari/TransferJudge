@@ -1,0 +1,75 @@
+{
+  "user_id": "AGK3QFKEW6EELFD3QJ67P7NPBAAQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, drama",
+      "evidence": [
+        "Who doesn’t like Agatha Christie?",
+        "I love David Suchet as Poirot!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Expected a different story plot but thought the acting was good"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Great show….I watch it every chance I get when it comes to the US"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "story was good and the acting excellent!",
+        "this goes to prove that Robert Downey, Jr. can do any part with excellence."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "David Suchet, Agatha Christie",
+      "evidence": [
+        "I love David Suchet as Poirot!",
+        "Love David Suchet and Hercule Poirot"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Funny and yet heartwarming",
+        "Great show….I watch it every chance I get when it comes to the US"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Funny and yet heartwarming",
+        "loved it"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for mystery and drama genres, particularly enjoying works by Agatha Christie and David Suchet. They appreciate high production quality and emotional resonance in storytelling, favoring slower-paced narratives that evoke warmth and heart. Overall, their tastes suggest a love for engaging, character-driven stories."
+}

@@ -1,0 +1,88 @@
+{
+  "user_id": "AH5MFVIGC6MS3VX65QVKWXI7LEOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, sci-fi, disaster, war",
+      "evidence": [
+        "\"Just an absolute, exciting, great action-packed film.\"",
+        "\"I always enjoy sci-fi for the 50's.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Overall, I found the film boring.\"",
+        "\"This film starts off unbelievable from the very start.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"My feeling was that the film dragged and was slow moving.\"",
+        "\"This is a great, fast paced action film that keeps you engaged.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The acting was just ok.\"",
+        "\"Much better, known actors mixed with a good budget and special effects makes this one a great one to watch.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Willis does it again, playing a burned-out cop who saves the day.\"",
+        "\"I have no doubt that Redford made this to compare the emotions of Americans then to the emotions of Americans today.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Great effects for the day as well.\"",
+        "\"Good effects and good acting make this an enjoyable film.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Overall, a fair war movie.\"",
+        "\"I hesitate to write what I really think of this movie as it seems to be so popular.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "disliked_genres",
+      "value": "romance",
+      "evidence": [
+        "\"Too much 'romance' and not enough action.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys action-packed films, particularly in the sci-fi and disaster genres, but has mixed feelings about narrative complexity and pacing. They appreciate visual effects but are less concerned with production quality and emotional depth."
+}

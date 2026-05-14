@@ -1,0 +1,76 @@
+{
+  "user_id": "AFWZSWPXXR4YNQEEHHSC7UHBGPWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "history, documentary, drama",
+      "evidence": [
+        "\"this is by far the best history series that was ever produced\"",
+        "\"I so loved this documentary as I have all of his other ones.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"it gives hope to others not to give up\"",
+        "\"had me sitting on the edge of my couch\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"this movie had me on the edge all through it\"",
+        "\"it was so interesting to learn the ways of the penguin\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the acting was very good too\"",
+        "\"great acting on both parts.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Ken Burns",
+      "evidence": [
+        "\"Ken Burns does it again and again, he is the best ever\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual storytelling",
+      "evidence": [
+        "\"had me sitting on the edge of my couch\"",
+        "\"it was so interesting to learn the ways of the penguin\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"it gives hope to others not to give up\"",
+        "\"I really enjoyed this movie, it is full of so many ups and downs\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for history and documentary genres, often appreciating well-crafted narratives with good acting. They value emotional impact and production quality, showing loyalty to creators like Ken Burns."
+}

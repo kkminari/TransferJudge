@@ -1,0 +1,77 @@
+{
+  "user_id": "AGBKA26VJAMY6N3MYV7PXHBVY33Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animation, comedy, romance",
+      "evidence": [
+        "\"Super cute! This cartoon had us all laughing.\"",
+        "\"so romantic and the country side looks idealic\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I love this series! The scenes, the intrigue! Its AWESOME!\"",
+        "\"Wow wow wubbzy is still one of our favorite shows.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"CRACKS ME UP! sheeny not weenie!\"",
+        "\"this is a classic from my childhood, i love it!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"awesome presentation\"",
+        "\"the theme song is always super catchy!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "No strong loyalty to specific directors or actors."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual and auditory enjoyment",
+      "evidence": [
+        "\"the country side looks idealic\"",
+        "\"makes me want to throw away all my dishes and throw lavish dinners with pretty ones.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"one of my all time favorite movies!\"",
+        "\"i love this series. makes me want to throw away all my dishes and throw lavish dinners with pretty ones.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for animated and comedic content, often enjoying light-hearted and romantic themes. They appreciate high production quality and emotional resonance, indicating a taste for engaging and visually appealing stories."
+}

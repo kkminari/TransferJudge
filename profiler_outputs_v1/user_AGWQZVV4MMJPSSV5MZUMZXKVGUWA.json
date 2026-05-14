@@ -1,0 +1,98 @@
+{
+  "user_id": "AGWQZVV4MMJPSSV5MZUMZXKVGUWA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, black comedy, romance",
+      "evidence": [
+        "\"It's a kleenex box needed movie, but it touches your heart...\"",
+        "\"It is not a Ha Ha comedy, it is a black comedy that the Brits do so well.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"You will also spend some time sorting out who is who as there are about 30 important people to keep track of.\"",
+        "\"Just sit back and enjoy all of them as the writers add new levels to each of these fine actors personalities and histories.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I have to watch this one again anyway just to absorb more of the background.\"",
+        "\"Just enjoy even if you don't like all the characters....\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I do appreciate that everything is not the whites only country club setting, and we see the hard scrabble side as well.\"",
+        "\"...great acting, and super cinematography, in a very lovely setting...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I like Robert Carlyle since seeing him in Full Monty.\"",
+        "\"I fell in love with Tcheky Karyo and already liked Jean Reno...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"...you will need to watch it several times to get really into all the details.\"",
+        "\"...the scenery and the music...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It touches your heart and you don't even have to love dogs to enjoy it...\"",
+        "\"...if you want a movie that ends happy and positive, this isn't it...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "cultural_appreciation",
+      "value": "high",
+      "evidence": [
+        "\"What appealed to me, besides the great cast, was being set in India. I like seeing and learning about other cultures and lifestyles...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    {
+      "name": "character_focus",
+      "value": "high",
+      "evidence": [
+        "\"...the villains deserve what they get, and the good but shady folks usually do right in the end...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user enjoys a mix of drama and comedy, particularly appreciating complex narratives and strong character development. They value high production quality and emotional resonance in their viewing experiences, often reflecting on cultural themes and character dynamics."
+}

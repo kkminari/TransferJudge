@@ -1,0 +1,77 @@
+{
+  "user_id": "AGB7ALW6UGQ3HMACBTDPK72H45QQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "period drama",
+      "evidence": [
+        "\"Set in England, this period piece is very charming.\"",
+        "\"Just wonderful period piece. 4 episodes depicting the broke upper crust and arranged marriages to gain money in order to keep status quo.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great story telling. A small hamlet and a well to do town co-exist and cope with English Victorian life.\"",
+        "\"Nice little story of redemption after a life of wasted non effort.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Great story of two class systems. The little poverty stricken hamlet and the well to do town.\"",
+        "\"Just wonderful period piece. 4 episodes depicting the broke upper crust and arranged marriages to gain money in order to keep status quo.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Brilliant writing and a great cast!\"",
+        "\"Brilliant Writing and acting!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Alicia Vikander, Bill Nighy",
+      "evidence": [
+        "\"Love Nighy in everything he does\"",
+        "\"loved Alicia\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "atmospheric",
+      "evidence": [
+        "\"Dark, but good\"",
+        "\"suspensful\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"scary.\"",
+        "\"just like the books\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for period dramas, particularly those set in England, and appreciates high-quality writing and acting. They enjoy slower-paced narratives that evoke emotional resonance and have a fondness for specific actors like Alicia Vikander and Bill Nighy."
+}

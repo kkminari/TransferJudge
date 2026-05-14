@@ -1,0 +1,77 @@
+{
+  "user_id": "AHVGW6XZP3PEDI3OF6XKQ2DSK6OQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, family",
+      "evidence": [
+        "\"It's a story of an ordinary older woman who decides go into the 'detective' business and does very well.\"",
+        "\"Great book, well done as a movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Not for everyone, I guess, as there's not a lot of 'action'.\"",
+        "\"This is true of this movie. It is hardly true to the short story but is still a delightful movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Not for everyone, I guess, as there's not a lot of 'action'.\"",
+        "\"It is hardly true to the short story but is still a delightful movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Acting, production values, music were all great.\"",
+        "\"Good quality for a very old movie!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I think PGW would approve.\"",
+        "\"All talking Rowan Atkinson at his best (don't look for Mr. Bean!).\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This movie struck a chord with me as I, but for my mum taking me from London to Edinburgh, I might have been one of those kids!\"",
+        "\"Each Christmas, the Choir invites other 'world class' performers, such as Bryn Terfel... Just fantastic talents performing great Christmas music!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie struck a chord with me as I, but for my mum taking me from London to Edinburgh, I might have been one of those kids!\"",
+        "\"Delightful movie. We both enjoyed it very much.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and family-oriented films with a strong emphasis on quality production values. They prefer slower-paced narratives that evoke emotional resonance, often appreciating adaptations of books. Overall, their taste leans towards heartfelt stories with rich character development."
+}

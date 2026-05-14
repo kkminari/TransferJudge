@@ -1,0 +1,77 @@
+{
+  "user_id": "AHO5FMBEYHSSR33V4JQSMQD6SWOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action, animation, fantasy",
+      "evidence": [
+        "\"Very dark drama.\"",
+        "\"Animation at it's best...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Needed more background for the story and needed fill to really get to know the characters.\"",
+        "\"It's one of those that needs to be watched more than once to pick up the fine details of the story and characters.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Film could have been longer.\"",
+        "\"Great film! It's one of those that needs to be watched more than once...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"With these high caliber actor, I expected a better film...\"",
+        "\"Well done cinematography, and great story.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Eastwood delivers another great film.\"",
+        "\"Been a Max fan since the original came out in theatres years ago.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Well done cinematography, and great story.\"",
+        "\"Animation at it's best...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Helps put me in the holiday spirit.\"",
+        "\"Great film! A classic\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly drama, action, and animation, with a strong appreciation for high production quality. They value emotional resonance and sensory experiences in films, while showing mixed feelings towards narrative complexity and pacing."
+}

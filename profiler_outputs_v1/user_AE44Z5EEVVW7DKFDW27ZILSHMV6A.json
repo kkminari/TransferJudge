@@ -1,0 +1,77 @@
+{
+  "user_id": "AE44Z5EEVVW7DKFDW27ZILSHMV6A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, drama, action, thriller",
+      "evidence": [
+        "\"The best part of this somewhat forlorn movie was watching the surviving partner emerge through the various stages of grief.\"",
+        "\"I found this movie a worthy rental of which kept my interest. There is lots of action and no boring parts...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The characters were multi-faceted as individuals, not just some actors emoting lines.\"",
+        "\"The movie takes a sharp left turn to insanity.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Worst part of movie was that it dragged too long\"",
+        "\"I did not see an over abundance of cussing usually featured with similar flicks with low budget restrictions on dialogue and writing.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I liked Lagartha's storyline throughout season 5 and I was surprised to see the Seer's unhappy death.\"",
+        "\"Daniel Radcliffe clearly carries this otherwise dull horror movie through his skillful acting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I have long admired the character development of Katniss Everdeen from the previous three movies.\"",
+        "\"I revisited this series when it became available under Amazon Prime...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The haunting piano accompaniment... make this movie true horror.\"",
+        "\"The enormous spaceship carrying the passengers to the Homestead II planet oh so many light years away was a feast for the eyes...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Love this timeless movie. Have watched it several times.\"",
+        "\"I was kept wondering whether this was a true horror story or was I viewing an entire family's deep descent into further psychiatric madness and oblivion.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of horror, drama, and action films, often appreciating complex characters and high production quality. They have a strong preference for sensory experiences and emotional resonance in storytelling, while their pacing preferences are mixed, indicating a tolerance for both slow and fast narratives depending on execution."
+}

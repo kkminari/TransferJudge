@@ -1,0 +1,77 @@
+{
+  "user_id": "AFG7R467Q3SSTYVZYMRXJZDFFPNA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, horror",
+      "evidence": [
+        "I liked that they also really tell the back story to both agents too!",
+        "AWESOME!!!! look forward to season 3 and season 2 is not finished yet!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I dont want to spoil anything so Ill leave it at that.",
+        "no CIA agent would do what she does and it makes an already hard to believe story over the top."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Absolutely the best show around and very sad it is no longer but it went out on top with a bang and it was worth every minute!",
+        "this season was pretty interesting."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "waste of money and 3 hours!!!! all over the place and in 2 of the time frames featured, we could not understand a damn thing they said",
+        "I didnt care for soaps when my sister was glued to them and I had to watch."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I bought this for my daughter for Christmas since I got her hooked on AHS Asylum - she comes over just to watch it!",
+        "look forward to season 3 and season 2 is not finished yet!"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "What a great show!",
+        "nice that there was a movie with a different take on vampires but I am a bit over the vampire stuff everywhere at this point."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "What a great show!",
+        "Absolutely the best show around and very sad it is no longer but it went out on top with a bang and it was worth every minute!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys sci-fi and drama genres, particularly appreciating fast-paced narratives with high emotional impact. They show a preference for simple storytelling and are less concerned with production quality, indicating a focus on entertainment value."
+}

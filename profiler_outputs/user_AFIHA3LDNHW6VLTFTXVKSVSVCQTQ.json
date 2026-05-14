@@ -1,0 +1,77 @@
+{
+  "user_id": "AFIHA3LDNHW6VLTFTXVKSVSVCQTQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, classic",
+      "evidence": [
+        "\"A classic that doesn't get old - I enjoy this version more than the High Society...\"",
+        "\"It is such a classic that never gets old - I got is when Prime has 'deals'...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It is OK if you have nothing better to watch or want to use it as a background...\"",
+        "\"very slow - non sense plot - no logical flow - very, very bad\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It is OK if you have nothing better to watch or want to use it as a background...\"",
+        "\"very slow - non sense plot - no logical flow - very, very bad\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"very well written, very well acted and very good production value...\"",
+        "\"a lot of new insights and well presented on a high end production...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Lucy Worsley is a master at these historical documentaries...\"",
+        "\"The Brits are very good at this, but Ms Worsley is a master...\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"a very nice surprize - well done, well acted, good script and not far from the truth...\"",
+        "\"is a cute oldie that provides few life lessons in a very nice way...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is a real treat - not only very well made, good acting...\"",
+        "\"The Young Pope would be a 5+1 stars and the New Pope a 5 - both are a delight to watch...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys classic and drama genres, often appreciating high production quality and emotional depth in storytelling. They prefer simple narratives with slower pacing, but have mixed feelings about brand loyalty to specific creators."
+}

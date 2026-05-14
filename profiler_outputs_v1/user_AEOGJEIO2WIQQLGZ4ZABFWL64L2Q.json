@@ -1,0 +1,77 @@
+{
+  "user_id": "AEOGJEIO2WIQQLGZ4ZABFWL64L2Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, drama",
+      "evidence": [
+        "\"I love historically accurate period shows.\"",
+        "\"Fascinating period of our history; may watch again soon.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Just plain awful, and I love historical, romantic stories.\"",
+        "\"This coulda been great, if the writers woulda cared about the fascinating history of Jamestown.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I completely agree with the reviewer who said this is Bramwell with a lobotomy.\"",
+        "\"I made it through the first episode, but may only continue due to mild curiosity.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great casting, scenery.\"",
+        "\"This production of Far From the Madding Crowd is excellent, consisting of fine acting by a well-chosen cast.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Whoever decided to cancel it gets a ZERO star.\"",
+        "\"I wish I had not viewed this disgusting end to a previously well done show.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Into the Deep is one of the most moving and memorable documentaries I have ever seen.\"",
+        "\"Great outdoor scenes and a beautiful soundtrack.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is an incredible production, which is extremely moving, heartbreaking and memorable.\"",
+        "\"This is a great version of Far From the Madding Crowd, although I was disappointed that a few of my favorite lines and scenes were deleted.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for historical dramas with high production quality and emotional resonance. They express dissatisfaction with narratives that lack historical accuracy and complexity, often favoring slower-paced storytelling. Overall, they appreciate well-crafted adaptations and are sensitive to the quality of acting and scenery."
+}

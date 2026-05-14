@@ -1,0 +1,78 @@
+{
+  "user_id": "AHO5FMBEYHSSR33V4JQSMQD6SWOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, action, animation, historical",
+      "evidence": [
+        "\"Katniss rocks!\"",
+        "\"Animation at it's best...\"",
+        "\"Well done history lesson...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great film! It's one of those that needs to be watched more than once to pick up the fine details of the story and characters.\"",
+        "\"Awesome film. Wish they would of made more...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Awesome Series!\"",
+        "\"What a series! Slight departure from the books, but this series is awesome!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Well done cinematography, and great story. Good film!\"",
+        "\"Excellent film! As is all the other films.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Been a Max fan since the original came out in theatres years ago.\"",
+        "\"Mr. Tolkien I think had a big hand in their making.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Great film! A classic\"",
+        "\"Great film, very good sequel to the first film.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"May not be a real person but what they did and went thru and lived helps show us what it probably was like...\"",
+        "\"Enjoyed this film since I first saw it as a youngster in the 70's. Understand it more as an adult.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fantasy, action, and animation genres, appreciating both the storytelling and production quality. They enjoy fast-paced narratives with high emotional resonance, indicating a taste for engaging and immersive experiences."
+}

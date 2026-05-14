@@ -1,0 +1,70 @@
+{
+  "user_id": "AFKQ3MJ4IOY6XWLPUVJM2BBFESKQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, musical",
+      "evidence": [
+        "\"Excellent series. Actors were expertly cast. I enjoyed this very much.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I was expecting more. I was disappointed. Perhaps this dvd was just not long enough for a real in depth look at these queens.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I was a little disappointed the dvd wasn't longer. It seems there could have been much more to show in something like this.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The choices of Helen Mirren as Elizabeth I and Jeremy Iron as Robin Dudley were very appropriate. Both actors did a superb job.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love the music. Love the stage version, the 10th anniversary and the 25th anniversary.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I was really impressed by the clever way the jewels were used. I never knew any of this. It was informative and enjoyable.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It was wonderful. Then the same night it was on PBS. These men, including little Daniel are fantastic. They never disappoint.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for historical and musical genres, appreciating high production quality and emotional resonance in their viewing experiences. They tend to favor slower-paced narratives but express some disappointment when content lacks depth or length."
+}

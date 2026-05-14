@@ -1,0 +1,77 @@
+{
+  "user_id": "AHSH3IMFBECP3JOXQDHRRMC5LBXQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, horror, reality TV",
+      "evidence": [
+        "Best alien movie ever made!",
+        "Gore to the max and I loved it. This is sci-fi horror with total gore and I loved it."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The series started out so good. Lately it's sorta boring, their lives aren't fabulous to watch.",
+        "The new actors, yes actors, are not real, their storylines are fake."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Didn't finish the series this year. Only gave it one episode. So boring.",
+        "The ladies are getting too long in the tooth. They are drunk, evil and were so mean to poor Tinsley."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Bad acting. Bad camera work. Bad editing.",
+        "The rest of the cast is mean, ugly, and not entertaining."
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Let's face it, LVP was Beverly Hills. The rest of the ladies just don't have the same panache.",
+        "I stopped watching after she quit."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "Gore to the max and I loved it. This is sci-fi horror with total gore and I loved it.",
+        "Best alien movie ever made!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "I don't have fun with this show anymore or enjoy it.",
+        "The series started out so good. Lately it's sorta boring."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and horror genres, particularly enjoying films with high levels of gore. They express dissatisfaction with reality TV, indicating a preference for quality and engaging narratives, but often find them lacking in emotional depth and complexity."
+}

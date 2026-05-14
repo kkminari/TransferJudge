@@ -1,0 +1,77 @@
+{
+  "user_id": "AGZ6PI5WQPXTZE6XZX2XVE37PVLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "biography, ballet, documentary",
+      "evidence": [
+        "\"I read the book before seeing the movie - much more detailed than the movie. I enjoyed both immensely.\"",
+        "\"This is probably the best version of this ballet I have seen.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It probably doesn't matter if you see the movie or read the book first. Just do it!\"",
+        "\"The content and overall quality of the movie seem ok.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I have enjoyed the 24 mini-series, however as it is with most material in this format, the earlier seasons were better.\"",
+        "\"It's nice to have the whole series in one place.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The dancing and music are both superb.\"",
+        "\"Quality of the DVD is good, and I am glad I added it to my collection.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Ildar Abdrazakov does a wonderful Igor.\"",
+        "\"Samuel Ramey is at his best in this SF Opera production.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The music was fine, but it was painful to watch the tawdry theatrics.\"",
+        "\"I loved the vintage footage, which greatly enhanced the overall impact of this piece.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This film stays true to Bruce Cook's 1976 biography of Trumbo, although the scope of the movie does not cover the earlier parts of his life in Western Colorado.\"",
+        "\"Luminous Years was so well done, I wanted to be able to view it over and over to soak up and better understand the art, music, and culture of that era.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for biographical and documentary content, particularly enjoying high-quality productions. They appreciate slower pacing and emotional depth in storytelling, while showing some sensitivity to production quality and a mixed loyalty to specific creators."
+}

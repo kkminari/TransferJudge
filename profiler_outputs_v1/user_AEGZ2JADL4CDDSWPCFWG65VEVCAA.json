@@ -1,0 +1,74 @@
+{
+  "user_id": "AEGZ2JADL4CDDSWPCFWG65VEVCAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama",
+      "evidence": [
+        "'Good movie of a women that rises above her circumstances.'",
+        "'Good movie that reminds a person to look beyond the surface.'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'Not much to it.'",
+        "'It just left you hanging, which is what I think it intended to do.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "'Totally boring and goes nowhere.'",
+        "'I kept watching, I guess hoping it would get better.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "'I tried to get past the poor acting.'",
+        "'Main actor either doesn't know how to act, or the director was horrible.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "none",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "'I suffered through the first 36 minutes.'",
+        "'Tried to get past the poor acting.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'Tear jerker.'",
+        "'Good movie that reminds a person to look beyond the surface.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for drama films that evoke emotional responses, often appreciating stories of personal struggle and triumph. However, they tend to dislike slow pacing and poor production quality, indicating a desire for engaging narratives that resonate emotionally."
+}

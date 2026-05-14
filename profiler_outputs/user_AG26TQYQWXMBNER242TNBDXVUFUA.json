@@ -1,0 +1,78 @@
+{
+  "user_id": "AG26TQYQWXMBNER242TNBDXVUFUA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, thriller, comedy, drama",
+      "evidence": [
+        "\"Very funny rom-com.\"",
+        "\"Good and creepy movie.\"",
+        "\"Lovely romance about looking for love amongst intellectuals.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Okay movie.\"",
+        "\"Mildly entertaining.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Touching story of a burglar and the family that loves him.\"",
+        "\"Great performances from entire cast.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great performances from entire cast.\"",
+        "\"Wonderful touching movie about a family struggling to survive.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Such a Ben fan I had to see it.\"",
+        "\"Rutger Hauer is amazing as is rest of cast.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Bittersweet and sad.\"",
+        "\"Great movie about a family struggling to survive.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Amazing arc of character abused as a child and how he copes thru different stages of his life.\"",
+        "\"Wonderful touching movie about a family struggling to survive.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly romance, thriller, and comedy, with a strong appreciation for emotional and quality storytelling. They prefer slower-paced narratives that evoke deep feelings, although they show low brand loyalty to specific creators."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHHJS2CPZNN7K54LRQ7NTAOOCJBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, fantasy, horror",
+      "evidence": [
+        "\"Best show showtime ever had. Great characters & acting.\"",
+        "\"I really liked Jennifer Ulrich's moody depressed character.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"I hope George RR Martin is releasing another book before season 7 starts!\"",
+        "\"An unusual and interesting French film. Good acting and dialogue.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Not holding my interest so far\"",
+        "\"Not as violent as season 1, but still very enjoyable\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"High quality production. Only problem was that Showtime stopped any further seasons...\"",
+        "\"Made & acted very well. High quality sets, filming scripts and acting.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "John Logan, Ridley Scott, Joss Whedon",
+      "evidence": [
+        "\"Logan's a great writer so he could have figured a way for her NOT to die.\"",
+        "\"I wanted to see how Mr. Del Toro did this movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, atmospheric music",
+      "evidence": [
+        "\"I have a very good LED tv with a fast refresh speed and a Sony Blu ray player...\"",
+        "\"The sound track is awesome.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I can hardly wait for more!!!!\"",
+        "\"Very discouraging and sad...yet eye opening\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for high-quality sci-fi and drama series with complex narratives and emotional depth. They appreciate visual spectacle and are loyal to notable creators in the genre, while also expressing mixed feelings about pacing in some shows."
+}

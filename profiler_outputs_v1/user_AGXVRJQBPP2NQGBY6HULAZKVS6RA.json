@@ -1,0 +1,77 @@
+{
+  "user_id": "AGXVRJQBPP2NQGBY6HULAZKVS6RA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, found footage",
+      "evidence": [
+        "\"Gotta love those 50's Sci Fi Movies!\"",
+        "\"...the rest were typical found footage garbage..\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"...the story line was poor too.\"",
+        "\"...the usual 'run for your life - the monster is coming for us' stuff.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This movie seems to drag on forever.\"",
+        "\"...you can easily skip to the one hour mark and not miss anything.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"...the acting was tepid but it did have some plot twists...\"",
+        "\"...it has all the elements of a low budget B movie...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"...the first one was ok but the rest were typical found footage garbage..\"",
+        "\"...I think Survivor has degraded over time...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"...the creature than a tall man in a furry costume.\"",
+        "\"...the CGI and Animatronics that add up to a grand dino romp!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"...root for the Monsters to hurry up and get their work done.\"",
+        "\"...the characters are so awful that you root for the Dino!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for sci-fi and found footage genres, but generally dislikes slow pacing and simple narratives. They express low sensitivity to production quality and emotional engagement, often critiquing the films for their lack of originality and poor execution."
+}

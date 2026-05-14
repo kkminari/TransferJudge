@@ -1,0 +1,74 @@
+{
+  "user_id": "AG725FD252ZCKOGGVZTRZFZAOVYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama",
+      "evidence": [
+        "The best SciFi I've seen for a couple of years.",
+        "A great scifi story."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "A little predictable and the soft spoken public school accent is a little hard to catch.",
+        "Scatter brained. Hard to follow the story line."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "The second season is starting out at a fast pace.",
+        "A good fast paced SciFi story."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Not very entertaining to watch them drive million dollar cars.",
+        "Grossly inaccurate historical melodrama."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "A very nice mix of action, special effects and drama.",
+        "Great effects but the storyline is a little obtuse."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Can't get it with the sound.",
+        "It's hard to make a movie about bored, self-destructive teenagers."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced sci-fi and drama genres, appreciating visual spectacle and action. They show a preference for simpler narratives and have mixed feelings about production quality and emotional engagement."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHI3ZSHZSWXIARRW43G7GHCBIR4Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, drama, sci-fi",
+      "evidence": [
+        "\"Great thriller, and I never even guessed the bad guy.\"",
+        "\"It's definitely good TV and certainly something to think about when we live in the early stages of climate change...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"I appreciate that they are all gray and none black and white.\"",
+        "\"It's become a sci-fi soap opera.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The plot was slow and dull.\"",
+        "\"Orphan Black started slow, but I was binge watching very quickly.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Stellar acting by an ensemble cast.\"",
+        "\"Fantastic story, characters, and acting.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Elmore Leonard, Aaron Sorkin",
+      "evidence": [
+        "\"Another 'Attaboy' for Aaron Sorkin\"",
+        "\"Best TV by best American author: Elmore Leonard.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Great writing, plotline, and actors even feel real.\"",
+        "\"Stellar performances by all cast.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A true gem of a movie. Small, but good things come in small packages.\"",
+        "\"I'm glad to see such strong women.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for thrillers and dramas, particularly those with high production quality and strong performances. They appreciate complex narratives but have mixed feelings about pacing, indicating a tolerance for slower plots if the content is engaging. Their loyalty to creators like Elmore Leonard and Aaron Sorkin suggests a preference for well-crafted stories."
+}

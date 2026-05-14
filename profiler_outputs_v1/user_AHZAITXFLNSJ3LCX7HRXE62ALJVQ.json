@@ -1,0 +1,77 @@
+{
+  "user_id": "AHZAITXFLNSJ3LCX7HRXE62ALJVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "war, drama",
+      "evidence": [
+        "\"This movie shows this on a personal level... a thoughtful and provoking movie that helps you to understand what troops offered in this operation.\"",
+        "\"Heroism comes in strange and unexpected ways. Fury explores this in a way that is believable and engaging...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The themes of how well this movie is written present themselves as an attractive way of mapping out the progress of the movie...\"",
+        "\"The ending was a little sad in that virtue kept wanting to break forth in the lives of these rich folks.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This movie takes you into the heart in the mind of a particular operation...\"",
+        "\"It's a tough movie to get through because of the ennui and sad isolation.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Just watching the images of this movie is worth the time, energy and price if you wish to own it.\"",
+        "\"Tom Sellick's acting in the Jesse Stone series is always thoughtful and well-played.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Tom Sellick's acting in the Jesse Stone series is always thoughtful and well-played.\"",
+        "\"Ever since Lonsome Dove days, Duvall has set something of his acting personae in the grizzled independent Texan 'Gus' McCrae...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Just watching the images of this movie is worth the time, energy and price if you wish to own it.\"",
+        "\"Great location to shooting. Acting above decent.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie shows this on a personal level... a thoughtful and provoking movie that helps you to understand what troops offered in this operation.\"",
+        "\"Heroism comes in strange and unexpected ways. Fury explores this in a way that is believable and engaging...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for war and drama genres, appreciating complex narratives and high production quality. They value emotional resonance and visual spectacle, often highlighting the personal and thoughtful aspects of the films they review."
+}

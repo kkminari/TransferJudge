@@ -1,0 +1,77 @@
+{
+  "user_id": "AF4KFNOH2QT6DQVMCG4SWOPGG6TQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "true crime, documentary",
+      "evidence": [
+        "John Borowski is a master filmmaker of true crime films.",
+        "This series by John Borowski just keeps getting better."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "Borowski presents Panzram from as many angles as possible.",
+        "The film provides an insight into the conditions which created this 'monster', trying to understand his crimes without justifying them."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "The movie really needed a musical score to move the narrative forward.",
+        "This film steps into the dark world of Vincent Castiglia."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Filmed on a low budget, this film looks like it was filmed for a million bucks.",
+        "It is a highly polished independent production that rivals the big studios."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "John Borowski",
+      "evidence": [
+        "Always a great experience watching any work by filmmaker/author John Borowski.",
+        "John Borowski is the master of the true crime documentary film."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "The way his artwork was presented and the education of the process was very classy.",
+        "This film showed Vincent on the other side of his challenges and the scene where he is sitting on a train and has that smile was the scene that assured me that everything is going to be okay."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I was able to experience a dark fearful emotion that represented Vincent's trials and tribulations.",
+        "This film allowed me to experience all those emotions in one."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for true crime documentaries, particularly those by John Borowski, appreciating both their emotional depth and production quality. They enjoy complex narratives that evoke a range of emotions, indicating a preference for well-crafted storytelling."
+}

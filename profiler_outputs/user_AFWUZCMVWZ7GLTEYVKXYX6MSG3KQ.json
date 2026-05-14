@@ -1,0 +1,76 @@
+{
+  "user_id": "AFWUZCMVWZ7GLTEYVKXYX6MSG3KQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical drama, fantasy, adventure",
+      "evidence": [
+        "\"I loved the Outlander books and the series does a very good job of following the books...\"",
+        "\"It's a fun adventure.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"the script wasn't quite as good (IMO) as the first movie...\"",
+        "\"it doesn't follow the book much - they made some changes to the story and to the main characters.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"the movie was very well done...\"",
+        "\"the reality part seemed heavily scripted and rather unlikely.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting was superb.\"",
+        "\"the special effects were stunning.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I would have liked to have seen Will Smith follow up in this one- I did miss him in it- but the movie did fine without him.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"the special effects were stunning.\"",
+        "\"the scenery in this show was stunning, especially in HD.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It gave a well thought out rendition of what likely happened from Mary's perspective...\"",
+        "\"this video made me angry at Monsanto...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys historical dramas and fantasy genres, appreciating well-executed adaptations and high production quality. They have mixed feelings about narrative complexity and pacing, but they value emotional resonance in the content they consume."
+}

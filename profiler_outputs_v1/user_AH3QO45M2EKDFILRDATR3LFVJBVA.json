@@ -1,0 +1,77 @@
+{
+  "user_id": "AH3QO45M2EKDFILRDATR3LFVJBVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Predictable. Think of American Pie, only for suburban Moms.\"",
+        "\"Great action and compelling story.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Not as sharp as I'd expected. Little tension, action, or comic relief.\"",
+        "\"Man this series takes a while to get going...but eventually delivers a solid story.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Man this series takes a while to get going...but eventually delivers a solid story.\"",
+        "\"Doesn't really take off until mud-season.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Better special effects than I had expected.\"",
+        "\"Wonderfully interlocking story lines, great looking sets, and a raft of incredible characters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"James Spader in a role that was meant for him.\"",
+        "\"Bill Murray at his best.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Great, diverse stories.\"",
+        "\"Better special effects than I had expected.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Not as sharp as I'd expected. Little tension, action, or comic relief.\"",
+        "\"From the trailer I thought this would be much funnier than it was.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a mixed taste in genres, showing a preference for simple narratives with slower pacing. They value high production quality and sensory experiences, but their emotional engagement appears to be low."
+}

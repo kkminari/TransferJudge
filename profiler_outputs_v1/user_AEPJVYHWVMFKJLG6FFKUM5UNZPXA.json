@@ -1,0 +1,76 @@
+{
+  "user_id": "AEPJVYHWVMFKJLG6FFKUM5UNZPXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, LGBT",
+      "evidence": [
+        "\"I was impressed by the storyline and the details of it. I would definitely recommend this movie to anyone especially LGBT community.\"",
+        "\"Wow this is one of the best gay movies I've ever seen and I recently just started watching gay movies...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I was pleased with the characters, the story line, and almost everything.\"",
+        "\"I did not like the ending too much because I wanted to know what would happen to the baby...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I did not approve of the early beginning because it gave a false impression that the rest of the movie would be boring.\"",
+        "\"I was more than pleased seeing this video because I found that it was more than what I expected and did not deviate too much from what we are use to seeing in the 24 series.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"If you want more people to watch, rent or buy this movie you should at least give a better product description...\"",
+        "\"I don't usually love regular tv as much as for instance HBO and STARZ but this really caught my attention...\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I was more than pleased seeing this video because I found that it was more than what I expected and did not deviate too much from what we are use to seeing in the 24 series.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"I love the most the moment where Dorothy throws something on the floor and tells Rose to pick it up.\"",
+        "\"The LA Complex just feels like it is in the verge of reality or maybe even based on reality.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I was pleased with the characters, the story line, and almost everything.\"",
+        "\"I'm happy I watched it and hopefully someone will watch it because of my review.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and LGBT-themed content, often appreciating emotional depth and character-driven narratives. They tend to favor slower pacing and are less concerned with production quality, focusing more on the story and emotional impact."
+}

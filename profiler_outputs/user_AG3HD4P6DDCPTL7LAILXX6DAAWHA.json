@@ -1,0 +1,77 @@
+{
+  "user_id": "AG3HD4P6DDCPTL7LAILXX6DAAWHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, romance, drama",
+      "evidence": [
+        "\"Old fashioned comedies are my favorites.\"",
+        "\"The acting is good, the story is entertaining, it is funny and romantic.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot is not strong, the script is not the best, but I enjoyed it.\"",
+        "\"This is not a mind bending movie, not the greatest I've ever seen or even close.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It is a rather long movie and once you begin it you will not want to stop or pause it until the end.\"",
+        "\"If you like happy movies stay away from this.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The acting is good, the story is entertaining, it is funny and romantic.\"",
+        "\"The photography seems good, to me the acting was good, the story was better presented than I would have expected.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I will look at anything if she is in it and have seldom been disappointed.\"",
+        "\"Jane Austen is one of my favorite authors.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"If you like films that express real humor, human feelings and a good story, buy, rent or steal this movie.\"",
+        "\"The scenery is beautiful and if you like story rather than forced nudity and obscenities this is for you.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"If you like happy movies stay away from this.\"",
+        "\"This is worth neither the time nor the money.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for old-fashioned comedies and romantic dramas, often valuing humor and character-driven stories. They appreciate good acting and storytelling but are less concerned with narrative complexity and production quality, indicating a preference for simple, enjoyable films."
+}

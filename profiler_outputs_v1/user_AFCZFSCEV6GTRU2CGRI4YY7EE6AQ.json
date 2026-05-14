@@ -1,0 +1,76 @@
+{
+  "user_id": "AFCZFSCEV6GTRU2CGRI4YY7EE6AQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary, psychological thriller",
+      "evidence": [
+        "\"Perfect for history lovers!\"",
+        "\"This is one of the best dramas on TV.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"It goes way beyond stealing, it explores the psyche of the teens.\"",
+        "\"I enjoyed this movie but hate the way it ended.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I binge watched season 1 in 2 days!\"",
+        "\"I watched season 1 & season 2 in 2 DAYS!!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"You can tell the producers spent a lot of money on the production of this film but the storyline and premise is insulting to my intelligence.\"",
+        "\"Spike Lee gives you enough truth, comedy and food for thought in his films to change your perspective for the better.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Spike Lee",
+      "evidence": [
+        "\"I have watched a lot of Spike Lee films in the past and loved them.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The story lines for this show just keep getting juicier.\"",
+        "\"This film gives much greater insight to the glory days of the Beale ladies before they fell on financial hardships.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I enjoyed getting the backstory on Beth and the shooting.\"",
+        "\"I felt emotionally attached to the younger characters.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for fast-paced dramas and documentaries, particularly those with high production quality and emotional depth. They show loyalty to Spike Lee's work and appreciate narratives that explore complex themes, although they have mixed feelings about certain endings."
+}

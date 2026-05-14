@@ -1,0 +1,75 @@
+{
+  "user_id": "AFB3YQ4OI65EWK33DETTC7DB4OPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "suspense",
+      "evidence": [
+        "a little suspenseful!!",
+        "Very good and suspensefull"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Nice story line",
+        "Slow built up but interesting"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Slow built up but interesting"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great movie!",
+        "Nice movie.."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Billy Bob Thornton",
+      "evidence": [
+        "Love Billy Bob Thornton!!!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "raw and suspensful!",
+        "Nice surprise!!!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Surprisingly a great movie!!!",
+        "Excellent Movie!!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys suspenseful movies with a preference for slower pacing and simple narratives. They have a fondness for Billy Bob Thornton and appreciate emotional resonance in their viewing experiences."
+}

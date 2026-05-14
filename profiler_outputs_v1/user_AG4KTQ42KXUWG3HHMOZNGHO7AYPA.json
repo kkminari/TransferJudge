@@ -1,0 +1,88 @@
+{
+  "user_id": "AG4KTQ42KXUWG3HHMOZNGHO7AYPA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, action, western, drama",
+      "evidence": [
+        "\"I always love the cowboy 'team up' movie.\"",
+        "\"I hate 'uncomfortable' comedy but Eric Andre is so over the top it's gut bustingly funny.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The plot is beyond confusing and doesn't pay off in any real way.\"",
+        "\"The writing is smart and the pacing is crisp.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It's mostly predictable, but the performances are compelling and make for a fun couple of hours.\"",
+        "\"The brooding, break the rules detective has been done to death but there's something about Titus Welliver's demeanor that makes Bosch interesting and not just broody.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The acting is surprisingly good for something shot on the fly with secret cameras.\"",
+        "\"The dialogue and plotting are clever.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Dick Powell has always fascinated me because he somehow managed to go from doing light musical comedies to playing hardboiled tough guys.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The guerilla filming aspect is fantastic and it's fun to think about how they shot various scenes; The scenes toward the end showing an empty park are interesting.\"",
+        "\"This is fascinating stuff for those who love to hear about the craft of acting.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"The writing is smart and the pacing is crisp.\"",
+        "\"I finished the first episode thinking it was cute.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "high",
+      "evidence": [
+        "\"Definately crass. But also smart and darned funny.\"",
+        "\"Eric Andre is so over the top it's gut bustingly funny.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user enjoys a mix of comedy, action, and western genres, with a preference for clever writing and engaging performances. They appreciate sensory experiences in film but have mixed feelings about narrative complexity and pacing, indicating a nuanced taste in storytelling."
+}

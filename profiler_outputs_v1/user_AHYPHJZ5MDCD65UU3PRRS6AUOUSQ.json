@@ -1,0 +1,77 @@
+{
+  "user_id": "AHYPHJZ5MDCD65UU3PRRS6AUOUSQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "reality, comedy, fitness, romance",
+      "evidence": [
+        "\"I love this show. It's funny and moving at times.\"",
+        "\"This is one of my favorite romantic comedies.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I found this easy entertainment like many TLC shows.\"",
+        "\"It never takes itself too seriously.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Every episode is riveting.\"",
+        "\"Always a fun show. I would recommend it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I think as long as they continue to have the participants vote there will continue to be anger from fans.\"",
+        "\"The production is very basic, but she is a talented teacher.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I started watching again after seeing 'Movie Bitches' review it on You Tube.\"",
+        "\"I list to the 'Watch What Crappens' podcast and they were so funny about the series I became curious.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, engaging",
+      "evidence": [
+        "\"I love that they do not take themselves seriously.\"",
+        "\"It makes me feel like I'm part of the class.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The loneliness and sadness is something we have all felt at some point.\"",
+        "\"Snatch Game broke my heart.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys light-hearted and engaging content, particularly in the reality and comedy genres. They appreciate shows that evoke emotional responses while maintaining a simple narrative structure and fast pacing."
+}

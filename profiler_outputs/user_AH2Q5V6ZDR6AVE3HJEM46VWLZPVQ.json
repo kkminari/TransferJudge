@@ -1,0 +1,77 @@
+{
+  "user_id": "AH2Q5V6ZDR6AVE3HJEM46VWLZPVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, action, comedy",
+      "evidence": [
+        "\"This is the best of the Star Trek from an arc and storytelling perspective.\"",
+        "\"I really enjoy Peter Capaldi as the doctor.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"It was intentionally character driven, not plot driven.\"",
+        "\"This episode really has the best of headwriter Steven Moffat's style of storytelling.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"This season has good companions... but doesn't quite have the charisma of some other doctors.\"",
+        "\"This is a very engaging and informative course on the development of the Cathedral.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Superb writing with a few clunkers here and there.\"",
+        "\"The acting is very strong, and some individual scenes are just stellar.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "\"I really enjoy Peter Capaldi as the doctor.\"",
+        "\"Cumberbatch is outstanding as Holmes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It has humor, but it's an emotionally wrenching and very beautiful story about a person who suffered from her beloved father's alcoholism.\"",
+        "\"This is a classic. I just love it.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This one is for teens and adults.\"",
+        "\"It pulls the story from the 'apocraphal' books of Enoch and Jubilees... It makes for a very good story, and makes you think about trying to understand a calling (and getting it wrong).\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi and drama genres, particularly enjoying character-driven narratives with complex storytelling. They value high production quality and emotional resonance in their viewing experiences, often reflecting on the depth and impact of the stories they engage with."
+}

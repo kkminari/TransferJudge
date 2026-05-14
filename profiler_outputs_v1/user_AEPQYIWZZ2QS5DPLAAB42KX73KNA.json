@@ -1,0 +1,77 @@
+{
+  "user_id": "AEPQYIWZZ2QS5DPLAAB42KX73KNA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, family-friendly",
+      "evidence": [
+        "\"I don't like a lot of the new series because of the violence and the language.\"",
+        "\"I would recommend this movie to be seen by anyone, especially families together...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story line was good and kept my interest.\"",
+        "\"I just like this series.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It kept me on the edge of my seat!\"",
+        "\"I thought I would like it, but it's much too slow to keep my interest!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The cast was great and it kept me on the edge of my seat!\"",
+        "\"I really enjoyed it, it was different!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I watched it because I am a Barbra S fan.\"",
+        "\"I can certainly understand why 'Andy Sipowitz' won so many Emmys for this part!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The music also was good.\"",
+        "\"It brought back a lot of childhood memories!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Sad, but we'll worth watching.\"",
+        "\"This is one of the best stories ever written.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and family-friendly content, often preferring fast-paced narratives that keep them engaged. They value high production quality and emotional resonance in their viewing experiences, while showing some brand loyalty to specific actors."
+}

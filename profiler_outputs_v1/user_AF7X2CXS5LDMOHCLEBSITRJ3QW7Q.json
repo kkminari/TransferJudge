@@ -1,0 +1,77 @@
+{
+  "user_id": "AF7X2CXS5LDMOHCLEBSITRJ3QW7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Content is great and deserves 5 stars but there where multiple issues ...",
+        "interesting concept for a godzilla movie."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Was enjoyable and a fun watch.",
+        "Worth watching again and again."
+      ],
+      "confidence": 0.4,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Was enjoyable and a fun watch.",
+        "interesting concept for a godzilla movie."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Content is great and deserves 5 stars but there where multiple issues ...",
+        "Was enjoyable and a fun watch."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No English Dub.",
+        "interesting concept for a godzilla movie."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "Very enjoyable and great bonus content.",
+        "Very funny"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Very enjoyable and touching.",
+        "Worth watching again and again."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys simple, enjoyable content with a preference for humor and emotional resonance. They have a mixed view on genre and pacing, indicating a flexible taste in movies and TV shows."
+}

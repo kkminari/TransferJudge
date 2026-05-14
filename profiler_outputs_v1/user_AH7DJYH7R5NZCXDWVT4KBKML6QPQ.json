@@ -1,0 +1,91 @@
+{
+  "user_id": "AH7DJYH7R5NZCXDWVT4KBKML6QPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, martial arts, drama, sci-fi, comedy",
+      "evidence": [
+        "\"This is one of the finest horror films I have seen in a long time.\"",
+        "\"Great Japanese martial arts revenge movie.\"",
+        "\"If you enjoy police dramas and murder mystery movies you ought to enjoy this one.\"",
+        "\"It's camp, it's satirical and it's hysterically funny in a sick and twisted way.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"A uniquely interesting form of story-telling with martial arts superstar Jet Li in a duel role...\"",
+        "\"The ending seems like an afterthought.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This is old-school wild wire-fu mystical violent cornball Kung Fu entertainment that is about as good as it gets.\"",
+        "\"The action was pretty good and the ladies were pretty pretty.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting, cinematography, sound, special effects, story, etc. are all excellent.\"",
+        "\"The direction, editing and cinematography are amazing.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"If you are a fan of sadist insane murderer movies of the type where the entire film is the action of the murderer...\"",
+        "\"If you are an Argento fan, I am, then you definitely want to check this out.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The musical score and cinematography are brilliant.\"",
+        "\"The use of color, and shadow are masterful.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is terrifying and heartbreaking.\"",
+        "\"I know that I am experiencing a great horror film when I need to take a rest period at some point and then return to it.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "cultural_significance",
+      "value": "high",
+      "evidence": [
+        "\"An American cinema classic.\"",
+        "\"This film will get neither the recognition, nor the distribution it deserves given the theme and the politics of abortion in the mainstream film industry.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user has a strong preference for horror and martial arts genres, appreciating high-quality production and emotional depth in films. They enjoy fast-paced narratives with a mix of complex storytelling, while also valuing cultural significance in cinema."
+}

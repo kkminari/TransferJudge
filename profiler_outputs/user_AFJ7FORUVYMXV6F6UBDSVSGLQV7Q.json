@@ -1,0 +1,68 @@
+{
+  "user_id": "AFJ7FORUVYMXV6F6UBDSVSGLQV7Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, romance",
+      "evidence": [
+        "Great balance of action and tasteful romance."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "There were a lot of scenes that just drug on forever like they needed to fill time in the film."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "There were a lot of scenes that just drug on forever like they needed to fill time in the film."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "The acting wasn't very good, except for the perfume maker, but the plot was pretty good."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Great balance of action and tasteful romance."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "Didn't really care for it."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for action and romance genres, but has a low tolerance for slow pacing and poor production quality. They express mixed feelings about emotional engagement and brand loyalty, indicating a focus on entertainment value over deeper connections."
+}

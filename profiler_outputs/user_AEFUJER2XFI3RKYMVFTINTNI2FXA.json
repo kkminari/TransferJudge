@@ -1,0 +1,77 @@
+{
+  "user_id": "AEFUJER2XFI3RKYMVFTINTNI2FXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy",
+      "evidence": [
+        "\"Great for kids that love dinosaurs and teaching of sharing,caring...\"",
+        "\"Love this Movie! My favorite Disney princess movie!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Cute\"",
+        "\"Funny\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Hilarious\"",
+        "\"Funny\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Love this movie but will no longer play 😢\"",
+        "\"Great movie\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Disney",
+      "evidence": [
+        "\"My favorite Disney princess movie!\"",
+        "\"Love this movie\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Love this movie!\"",
+        "\"So good\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Love this movie!\"",
+        "\"Great for kids that love dinosaurs and teaching of sharing,caring...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly comedies, particularly those from Disney. They enjoy simple narratives with fast pacing and high emotional resonance, often expressing love for the movies they review."
+}

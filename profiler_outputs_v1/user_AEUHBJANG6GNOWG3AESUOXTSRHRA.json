@@ -1,0 +1,77 @@
+{
+  "user_id": "AEUHBJANG6GNOWG3AESUOXTSRHRA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, action",
+      "evidence": [
+        "\"I liked this one better than A Man Called Horse. It had more action etc.\"",
+        "\"Excellent movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good movie. I enjoyed the entire thing. I don't believe there was anything we didn't like.\"",
+        "\"The stories are excellent, but the filming sucks.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Plenty of action and the necessary things to keep a person interested and entertained.\"",
+        "\"An excellent movie. You have to view it. It holds one's attention.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The quality of the filming leaves much to be desired.\"",
+        "\"Well done and interesting. Holds the viewer's interest throughout the entire movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Clint Eastwood, Tom Selleck",
+      "evidence": [
+        "\"Being rather fond of Clint baby, I found this documentary to be interesting.\"",
+        "\"I love, perhaps not a good word, Tom Selleck as an actor. His movies are top notch.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The quality of the filming leaves much to be desired.\"",
+        "\"Excellent movie. Well done and interesting.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I don't believe there was anything we didn't like.\"",
+        "\"I'd rather watch paint dry.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and drama films, particularly those featuring Clint Eastwood and Tom Selleck. They have a strong preference for fast-paced narratives and high production quality, but show less emphasis on emotional depth in the content they consume."
+}

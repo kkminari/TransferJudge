@@ -1,0 +1,77 @@
+{
+  "user_id": "AGDFPNZ6WTUVQ2KQDYEUPFZFQ5GQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Una joya. Estupenda cinta infaltable en cualquier colección...",
+        "Rebuscada y sin chiste..."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Imperdible cinta, y la recibí antes de lo señalado.",
+        "Divertida, aunque se quedó a medias..."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Una producción mediana con un resultado negativo. Un mal guión, problemas graves de iluminación.",
+        "Imperdible film, hermoso, cuidadop, sublime."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Un mal guión, problemas graves de iluminación.",
+        "Estupenda película remasterizada...aunque no está en español pero vale la pena verla."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Amo a Spacek",
+        "Triología insuperable."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "Hermoso, cuidadop, sublime.",
+        "Imperdible pieza..."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Imperdible film, hermoso, cuidadop, sublime.",
+        "Inolvidable cinta, buen producto y en tiempo..."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for high-quality productions and emotional resonance in films, often appreciating beautiful and sublime experiences. However, they express mixed feelings towards narrative complexity and pacing, indicating a varied taste in genres and storytelling styles."
+}

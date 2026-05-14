@@ -1,0 +1,76 @@
+{
+  "user_id": "AFZJ5QFLH2HK2SWZP7QA3PA67XHQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary, comedy",
+      "evidence": [
+        "\"TV drama doesn't get better than this.\"",
+        "\"Simply excellent and creative documentary TV making.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the plots work out along a too-predictable formula\"",
+        "\"Poorly executed.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"it seems to drag\"",
+        "\"the series has lost that.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Production values are those of a local Community-Access-Cable Channel!\"",
+        "\"Astonishing excellence Directing Writing Production values.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"the music choice and final audio mix are stunning-terrible.\"",
+        "\"the directing is often above average; and the acting is mostly good.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It feels real. It IS fun.\"",
+        "\"Brilliant.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for drama and documentary genres, valuing high production quality and emotional resonance. They tend to favor simpler narratives and slower pacing, while exhibiting low brand loyalty and a mixed response to sensory experiences."
+}

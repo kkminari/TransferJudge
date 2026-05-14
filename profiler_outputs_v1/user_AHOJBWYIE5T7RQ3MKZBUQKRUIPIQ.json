@@ -1,0 +1,77 @@
+{
+  "user_id": "AHOJBWYIE5T7RQ3MKZBUQKRUIPIQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, family, comedy",
+      "evidence": [
+        "\"I really enjoyed this movie. It was lovely and realistic love story...\"",
+        "\"Funny, great family movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It was just the right length, just the right amount of corny and not over done.\"",
+        "\"Awesome fun for our whole family.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Entertaining and fun for the family.\"",
+        "\"This was a fun movie to watch with our children.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Definitely low budget, and the acting was just okay...\"",
+        "\"The acting was not Oscar worthy, but still good.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific creators or franchises mentioned.",
+        "General enjoyment of family-friendly content."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual humor, family-friendly atmosphere",
+      "evidence": [
+        "\"Fun for everyone in the family. Very funny, and a good story.\"",
+        "\"Awesome fun for our whole family.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It took a real look at how life can change on you on a dime...\"",
+        "\"The best stories have love at their core, and so does this one.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly movies with a focus on romance and humor. They prefer simple narratives that evoke emotional resonance, while being less concerned about production quality. Overall, their taste leans towards light-hearted, entertaining content suitable for family viewing."
+}

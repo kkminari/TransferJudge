@@ -1,0 +1,71 @@
+{
+  "user_id": "AHENJXNJUGH7A7FSW7AFRC4H2NJQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, classic",
+      "evidence": [
+        "\"One of my all time favorites!\"",
+        "\"Great movie! One of my all time favorites from when I was a kid.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I was surprised with this series it keeps me interested. Its not so much just a kids show.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Very good series. Drags you in.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great series! I have enjoyed it!\"",
+        "\"Great series!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "nostalgic",
+      "evidence": [
+        "\"Plays great and brings back memories of my childhood.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I still laugh hard...lol\"",
+        "\"Great series! I have enjoyed it!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly and classic content, often reflecting nostalgia in their reviews. They enjoy simple narratives that are engaging and fast-paced, with a high emotional resonance, indicating a fondness for entertainment that evokes strong feelings and memories."
+}

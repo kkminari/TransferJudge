@@ -1,0 +1,77 @@
+{
+  "user_id": "AGI7BSFCYVZBUQESL252JX4S6B5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "true crime, drama, British drama",
+      "evidence": [
+        "\"I love these type of true crime shows, so I am definitely giving it 5 stars.\"",
+        "\"If you are a fan of the British Drama (for which I have just recently become from watch Downton Abbey), you will love this show also.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"this is not your typical law and order type show...its classy and keeps your attention.\"",
+        "\"the premise may not be the greatest, but not all life is a fairy tale in that two people get married and live happily ever after.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"this is a show for the young and old when you just want to kick back, relax and laugh!\"",
+        "\"I could hardly wait for Season 3 to come to Prime....and it was great as expected!!!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I think this show is put together well.\"",
+        "\"I kept seeing this show advertised and read the great reviews and still could not bring myself to watch it....until one day....I decided to give it a try.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high for Andy Griffith and British shows",
+      "evidence": [
+        "\"I love Andy Griffith. This is a show for the young and old...\"",
+        "\"I have now become a fan of British TV and film, actually a BIG fan.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"If ever you are feeling down in the dumps just watch this show and it is a pick me up.\"",
+        "\"this show is the essence of great TV. It is wholesome and great for the family.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"this show gets a 10 star instead of 5!!!\"",
+        "\"I would recommend this show to EVERYONE, I even got my fiancé to start watching it, says its addicting...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for true crime and British drama, appreciating shows that are wholesome and family-oriented. They enjoy simple narratives with a slower pace, high production quality, and exhibit loyalty to specific shows like Andy Griffith. Emotional engagement is significant for them, as they seek content that resonates deeply and provides a comforting experience."
+}

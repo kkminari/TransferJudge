@@ -1,0 +1,77 @@
+{
+  "user_id": "AEVOOTBWAKU2INOVDDWIRP7TOF2Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, drama, action",
+      "evidence": [
+        "\"Great movie about love and being able to trust again after being hurt.....\"",
+        "\"I totally love this movie. Full of action and some parts are funny too...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great movie..!!\"",
+        "\"This is a very heart touching movie...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I love the way we sometimes are not happy with our life, but if we get a chance to be on the other side of how it could have been we then realize that our life was perfect to start with...\"",
+        "\"This is a great movie where a lady is used to living the rich life full of shopping... but through all the chaos she found out that life is really so much sweeter on the other side...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Great movie..!!\"",
+        "\"I love this movie!!!!! Very touching and funny in some parts...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "Nicholas Sparks, Danielle Steel",
+      "evidence": [
+        "\"Danielle Steel has been one of my favorite authors and I love her movies....\"",
+        "\"I totally love anything with Nicholas Sparks as the author. These are great movies..\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "emotional engagement",
+      "evidence": [
+        "\"This is a very heart touching movie...\"",
+        "\"It was just magical and I just love the way this movie makes me feel when I watch it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I love, love, love this movie, but can't find it anywhere. Great from the beginning to the end and could watch over and over.\"",
+        "\"Makes you question your own life..\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for romantic and dramatic films that evoke deep emotional responses. They show loyalty to specific authors like Nicholas Sparks and Danielle Steel, indicating a taste for heartfelt narratives. Overall, they enjoy simple storytelling with a focus on emotional engagement rather than production quality."
+}

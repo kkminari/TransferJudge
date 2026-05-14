@@ -1,0 +1,77 @@
+{
+  "user_id": "AGXIURCNNE73OZCOVHQ72I3I3NTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, western, action-thriller, family-friendly",
+      "evidence": [
+        "\"I have been a fan of Doctor Who for a very long time.\"",
+        "\"If you have an affinity for good westerns (of which none exist in modern movies and television), then this is your show!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The characters seem to be stereotypes stolen from other animated films over the years.\"",
+        "\"This movie isn't filled with as much 'hidden' (and corny) humor as you would find in many of the other animated films now-a-days.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I wish there was just a little more of both.\"",
+        "\"It has a unique plot and many of the same things that I liked from the original. However, it seemed to drag on just a little much for me.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting was top notch.\"",
+        "\"Great acting by Tom Cruise!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I loved that they chose one of my favorite actresses, Jodie Whittaker, from Broadchurch.\"",
+        "\"I am a big Jackie Chan fan, so I braved through it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The idea that living your life to the fullest vs. dreaming about doing it resonates with the viewer.\"",
+        "\"Every episode is like a quest to see whose car will survive until the end of the episode.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This was a childhood classic and eventually a cult film for me.\"",
+        "\"It was a good family movie with no swearing or super violent scenes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of genres, particularly sci-fi and westerns, and appreciates high-quality acting and production. They have a preference for simple narratives and family-friendly content, often valuing emotional resonance in their viewing experiences."
+}

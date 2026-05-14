@@ -1,0 +1,77 @@
+{
+  "user_id": "AEY7ZCAPZWJKOOQDUJEHIXYI5HSQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama",
+      "evidence": [
+        "\"This heartbreaking story was unknown to me.\"",
+        "\"I wanted to like this movie. Has actors I really like and follow.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Not a great movie but watchable, especially at 2am.\"",
+        "\"Predictable but safe plot.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It does drag just a tad too slowly for me personally.\"",
+        "\"However, it went WAY too slowly.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Beautiful photography and great depiction of the facts at the time.\"",
+        "\"Story, directing, editing, music all first rate.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Michael Bay, Amy Adams",
+      "evidence": [
+        "\"I initially watched because I really like Michael Bay's movies.\"",
+        "\"Amy Adams is amazing.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Beautiful settings. Sharp differences in color and lighting.\"",
+        "\"Excellent in everyday but for one small thing.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This heartbreaking story was unknown to me.\"",
+        "\"Such a sad story.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user appreciates visually stunning films with strong emotional narratives, particularly in the documentary and drama genres. They prefer slower-paced storytelling but are sensitive to production quality and have a notable loyalty to specific actors and directors."
+}

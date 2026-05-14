@@ -1,0 +1,77 @@
+{
+  "user_id": "AE3ANZQWM7FSE4I5JOCSA6LR5CUA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, comedy",
+      "evidence": [
+        "GREAT action movie!! Keanu Reeves was FANTASTIC",
+        "Fun to watch, ridiculously funny, yet at the same time entertaining!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "cheesy predictable movie totally",
+        "cheesy, & very predictable"
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "GREAT action movie!!",
+        "ABSOLUTELY GREAT MOVIE!!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Unrealistic, and hard to understand the foreign accents.",
+        "The humor or should I say attempt at humor is at best juvenile"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "I ABSOLUTELY LOVE this show!!!",
+        "Keanu Reeves was FANTASTIC, much better than what I thought before watching it."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "GREAT action movie!!",
+        "FABULOUS&lt; EXPLOSIVE!!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Absolutely LOVED every Season of this show!",
+        "Really cute movie!! Positive message."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action-packed and entertaining movies and shows, often favoring simple narratives with fast pacing. They express strong loyalty to specific creators and appreciate emotional resonance in their viewing experiences."
+}

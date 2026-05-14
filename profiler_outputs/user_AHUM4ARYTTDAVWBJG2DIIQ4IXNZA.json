@@ -1,0 +1,77 @@
+{
+  "user_id": "AHUM4ARYTTDAVWBJG2DIIQ4IXNZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "reality competition, drama",
+      "evidence": [
+        "I found a lot of these shows about teen girls nowadays to be a little strange...",
+        "This season had a lot of interesting characters and some pretty good gameplay."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Overall, this was an enjoyable season.",
+        "This season was just okay."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Things started out full speed from the very beginning.",
+        "The ending of this season was very unsatisfying."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "I enjoyed seeing Kelly Wentworth play again.",
+        "The gameplay this season was great."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I was very excited to re-watch this season.",
+        "I hope she comes back and plays one more time in the future."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "This season had a lot of great moments too.",
+        "I enjoyed the moment when she talked about her arranged marriage."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I was sad to see her go.",
+        "It was truly infuriating."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys reality competition shows, particularly those with engaging gameplay and interesting characters. They have a mixed preference for pacing and narrative complexity, often valuing emotional engagement and character development over production quality."
+}

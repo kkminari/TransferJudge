@@ -1,0 +1,76 @@
+{
+  "user_id": "AHJDWJIM3VQALAP5KOW6MDHIJNUQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, horror, sci-fi, thriller",
+      "evidence": [
+        "\"It's a classic comedy. Brings back memories.\"",
+        "\"If you like a good story line with creep added in then this is for you.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Good show, good season.\"",
+        "\"It's a buddy comedy that will make you feel good and laugh at all the crazy things you could get into if you and your friends got wasted.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This movie is not for the faint of heart. It is a great friendship comedy.\"",
+        "\"The irony in the ending made it all worth it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I thought it was creative.\"",
+        "\"If you like crime documentaries, or famous murderers then this is definitely worth a look.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Carol Burnett is her wacky self as usual and john Ritter with his physical comedy really adds to the movie.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It's a type of anthology for me. Each character tells their own story. And they all mesh together.\"",
+        "\"It drew you in from the start with intrigue.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"If your open to a raunchier type of movie, give this one a go.\"",
+        "\"I went into the movie thinking it was going to lack in comparison to the older six, but surprisingly enough I fell in love with it.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and horror films, often appreciating fast-paced narratives with a light-hearted tone. They show a preference for simple storytelling and are less concerned with production quality, indicating a focus on entertainment value."
+}

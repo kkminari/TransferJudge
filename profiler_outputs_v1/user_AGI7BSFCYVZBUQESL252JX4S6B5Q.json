@@ -1,0 +1,77 @@
+{
+  "user_id": "AGI7BSFCYVZBUQESL252JX4S6B5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "true crime, drama, British drama",
+      "evidence": [
+        "\"I love these type of true crime shows...\"",
+        "\"If you are a fan of the British Drama...you will love this show also.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"this is not your typical law and order type show...its classy and keeps your attention.\"",
+        "\"the premise may not be the greatest, but not all life is a fairy tale...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"this is a show for the young and old when you just want to kick back, relax and laugh!\"",
+        "\"I could watch over and over...the simplicity of this show...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I think this show is put together well.\"",
+        "\"I kept seeing this show advertised and read the great reviews...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Andy Griffith, British TV",
+      "evidence": [
+        "\"I love Andy Griffith. This is a show for the young and old...\"",
+        "\"I have now become a fan of British TV and film...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "atmospheric, wholesome",
+      "evidence": [
+        "\"this show is the essence of great TV. It is wholesome and great for the family.\"",
+        "\"the show's theme song is also catchy, I downloaded it on my MP3 player.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"If ever you are feeling down in the dumps just watch this show and it is a pick me up.\"",
+        "\"I would recommend this show to EVERYONE...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for true crime and British dramas, appreciating shows that are wholesome and family-oriented. They value production quality and emotional resonance, often seeking content that is simple and relaxing."
+}

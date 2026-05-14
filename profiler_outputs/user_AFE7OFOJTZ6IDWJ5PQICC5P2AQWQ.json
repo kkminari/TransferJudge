@@ -1,0 +1,77 @@
+{
+  "user_id": "AFE7OFOJTZ6IDWJ5PQICC5P2AQWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, romance, drama",
+      "evidence": [
+        "\"Cute love story.\"",
+        "\"Hilariously funny movie!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Witty, silly, fast-paced and hilarious!!!\"",
+        "\"This is a different take on the traditional fairy tale of Cinderella.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Witty, silly, fast-paced and hilarious!!!\"",
+        "\"Excellent action and plot twists!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Keanu's a little wooden in his acting in spots but who cares!?\"",
+        "\"All the characters nail their parts PERFECTLY!!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"John Cusack and this movie were made for each other!\"",
+        "\"What's NOT to like about Jean Reno?!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Tear jerker alert! LOVE this movie!!\"",
+        "\"Lovely movie to watch! I enjoyed this very much!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Tear jerker alert! LOVE this movie!!\"",
+        "\"I fell in love with the characters after watching the first episode!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies and romantic dramas, often enjoying fast-paced narratives with emotional depth. They appreciate character-driven stories that evoke laughter and heartfelt moments, indicating a taste for engaging and relatable content."
+}

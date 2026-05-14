@@ -1,0 +1,72 @@
+{
+  "user_id": "AE6EFC6GSFSREU2GW53J5OTUH32Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "classic, family-friendly",
+      "evidence": [
+        "I love this classic movie.",
+        "Watched this with my daughter! Great flick!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Not sure I would want to watch it again."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Great series!",
+        "Great flick!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Not bad for a teeny bopper movie"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Matthew McConaughey",
+      "evidence": [
+        "Who does not love Matthew McConaughey????!!!"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "Beautiful images and a rich history explained."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It's great to watch when you're in love and out of love."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys classic and family-friendly films, often watching them with their daughter. They appreciate visual spectacle and emotional resonance, while showing some loyalty to actors like Matthew McConaughey. Their reviews suggest a preference for fast-paced storytelling, though they may not prioritize narrative complexity or production quality."
+}

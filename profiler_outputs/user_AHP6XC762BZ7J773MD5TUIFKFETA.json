@@ -1,0 +1,77 @@
+{
+  "user_id": "AHP6XC762BZ7J773MD5TUIFKFETA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, documentary",
+      "evidence": [
+        "\"An Important Movie to Watch Especially with Young Adults\" discusses the Stalin era purges, indicating a preference for historical drama.",
+        "\"Good Account of a Bad Guy\" shows interest in documentaries."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The book is so much better\" suggests a preference for more complex narratives in literature compared to the film adaptation.",
+        "\"The movie wants to say so much, but the themes are disconnected\" indicates a recognition of narrative complexity but dissatisfaction with execution."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Slow moving film\" indicates a dislike for fast pacing.",
+        "\"Not especially entertaining\" suggests a preference for more engaging pacing."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The sound quality was horrible\" shows concern for production quality.",
+        "\"The cinematography is wonderful\" indicates appreciation for visual quality."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "No specific directors or actors are mentioned as favorites.",
+        "The user expresses disappointment in various films without indicating loyalty."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Hauntingly beautiful as her character\" indicates a preference for emotional and atmospheric experiences.",
+        "\"A very tragic story\" suggests a focus on emotional texture."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A must see for film buffs. Excellent acting.\" indicates a strong emotional connection.",
+        "\"Advise to have tissues on hand\" suggests that the user values emotional impact."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for drama and historical narratives, often valuing emotional depth and complexity. They tend to favor slower-paced films that evoke strong feelings, while expressing mixed feelings about production quality and lacking brand loyalty."
+}

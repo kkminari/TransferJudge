@@ -1,0 +1,77 @@
+{
+  "user_id": "AFZCBID7CRACL7E3O5ZYM632F3CA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama, horror, historical, adventure",
+      "evidence": [
+        "\"The film does a great job in telling a story about getting older, accepting responsibility, and dealing with an alien invasion...\"",
+        "\"Kwaidan is a horror movie in the classic storytelling tradition...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Very enjoyable film which is almost two films in one...\"",
+        "\"The horror is in the atmosphere and in the imagination of the viewer not in the jump cut or special effect.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The attempt to militarize Star Fleet and jump start a war with the Klingons was a more interesting story and should have been developed further.\"",
+        "\"The twist here is too much of a gimmick and doesn't work the way it did with 'Sixth Sense'...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The cinematography in some of the scenes is simply beautiful.\"",
+        "\"The soundtrack was superb. Too often films including fantasy or sci-fi rely on modern soundtracks and horribly date a film...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I should make it clear that though I am fan of the original three Star Wars movies...\"",
+        "\"I've long been an Arthur fan - enjoying his many incarnations thru-out literature and film...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The film is simply gorgeous! It's more like a moving picture scroll than a film.\"",
+        "\"The horror is in the atmosphere and in the imagination of the viewer not in the jump cut or special effect.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"There are some genuine touching moments in the movie with the characters coming to terms with their past and their present...\"",
+        "\"This movie is not for anyone over 12 and who never saw it when they were under 12...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys complex narratives across various genres, particularly sci-fi, drama, and horror, with a strong appreciation for production quality and emotional depth. They exhibit a mixed response to pacing and brand loyalty, indicating a preference for well-crafted stories over specific creators or franchises."
+}

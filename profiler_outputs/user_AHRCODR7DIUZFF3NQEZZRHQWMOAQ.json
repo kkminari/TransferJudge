@@ -1,0 +1,77 @@
+{
+  "user_id": "AHRCODR7DIUZFF3NQEZZRHQWMOAQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Series is okay",
+        "stoped watching it after 20min"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "love it. it\\s a great season!!!",
+        "great series. i'm wating for the next seasons."
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "you get addicted",
+        "I couldn't stop watching it."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "love it. it\\s a great season!!!",
+        "great story- I'm looking forward until the whole season is available"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "One of the best series ever!",
+        "crazy but i liked it"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "great story- I'm looking forward until the whole season is available",
+        "you get addicted"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "love it. it\\s a great season!!!",
+        "excellent series!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for simple, fast-paced narratives that are highly engaging and emotionally resonant. They express enjoyment and excitement for series, although their genre preferences are less clear, indicating a mixed taste."
+}

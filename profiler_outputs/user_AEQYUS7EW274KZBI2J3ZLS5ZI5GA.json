@@ -1,0 +1,77 @@
+{
+  "user_id": "AEQYUS7EW274KZBI2J3ZLS5ZI5GA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, music",
+      "evidence": [
+        "\"I have enjoyed every season of Mozart in the Jungle Seasons. The music is wonderful and all the characters so enjoyable.\"",
+        "\"Love this laid back series of a different time and a different way of life.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I loved this charming story of a window beginning a different life.\"",
+        "\"The story line here is of events leading up to the 1st World War.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I fell in love with Mrs. Palfrey & wish that her story had lasted longer...\"",
+        "\"The acting is good and the characters interesting. The story line is both serious and entertaining...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The writing and acting is outstanding.\"",
+        "\"The acting was brilliant and the story line thought provoking...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have seen all three seasons and it is an excellent show for grown ups.\"",
+        "\"I love the complete series collection and will treasure it.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Five stars alone just for the music!. Very interesting story lines.\"",
+        "\"Love this series. You could watch it several times and find something new.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Passions alternate between joy and despair...\"",
+        "\"I wish that the current north and south could find more things to agree on.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and historical narratives, particularly those with rich character development and emotional depth. They appreciate high-quality production and storytelling that evokes strong feelings, often enjoying slower-paced, character-driven stories."
+}

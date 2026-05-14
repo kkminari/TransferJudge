@@ -1,0 +1,77 @@
+{
+  "user_id": "AGCHAK63S3HNE2TOKREMWAXRHN3Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I thought this movie was about the Manson family murders of 1969. It wasn't at all.\"",
+        "\"I have very little respect for John landis.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It was boring and stupid.\"",
+        "\"the movie, it's average.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It was boring and stupid.\"",
+        "\"I expected better.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I thought my VHS copy of SB 10 was better quality than the one in this set.\"",
+        "\"the quality isn't the greatest, the equipment was not as advanced in 1969 I guess.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I have very little respect for John landis.\"",
+        "\"I think this was the best set of the bunch.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It goes into more depth of the personalities of the 70's Steelers.\"",
+        "\"This is vintage hard to find stuff of the '79 series.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"It was boring and stupid.\"",
+        "\"I expected better.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user exhibits a strong dislike for films that do not meet their expectations, often finding them boring or disrespectful. They show a preference for straightforward narratives and are less concerned with production quality, focusing more on content and personal connections to the material."
+}

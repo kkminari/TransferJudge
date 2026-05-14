@@ -1,0 +1,74 @@
+{
+  "user_id": "AGPYC67NUYCSMROX43KZHPFXUEYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi",
+      "evidence": [
+        "Great ole time sci=fi",
+        "It was fun...old time sci fi. still awesome idea today."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I know it's a classic. but it's boring."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "the run time is 44 minutes but when you watch it you become so engrossed in it that it feels like only five minutes have gone by."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Good show....but highly produced.",
+        "cult classic for a reason."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Love! Please make free on prime again......please.",
+        "My daughter is in this film so it's the best movie ever!"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "the excitement about eclipses becomes contagious when you watch this documentary!",
+        "Great ole time sci=fi"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Great memories of my childhood. Still a great flick."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for sci-fi content, particularly enjoying fast-paced narratives that evoke nostalgia. They appreciate high production quality but show mixed feelings towards narrative complexity and brand loyalty."
+}

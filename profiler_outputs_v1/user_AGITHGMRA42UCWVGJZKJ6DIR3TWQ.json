@@ -1,0 +1,77 @@
+{
+  "user_id": "AGITHGMRA42UCWVGJZKJ6DIR3TWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, comedy, family",
+      "evidence": [
+        "I always like the old sci-fi movies.",
+        "I always loved Mclintock, comedy, action, drama."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I consider The Blob a classic from the old sci-fi years, I know they were all a little corny compared to now.",
+        "This is just an enjoyable movie. A nice mind resting evening."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "I find The Pioneer Woman very relaxing to watch.",
+        "These shows were so enjoyable and I look forward to watching them again."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "They might be silly to some but I put in a disc and watch these and they relax me.",
+        "If you are a fan of old sci-fi this is one to watch."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I have been waiting for what seems like forever for The Father Dowling series to be released.",
+        "I always loved Mamas Family."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "nostalgic, relaxing",
+      "evidence": [
+        "Watching these bring back so many childhood memories.",
+        "I always like the old sci-fi movies. They are relaxing and bring back memories."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "What more could you ask for in entertainment.",
+        "I plan on trying them in the future, the pop pulled pork looks delicious."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys nostalgic and relaxing content, particularly old sci-fi and family-oriented shows. They prefer simple narratives and slow pacing, valuing emotional resonance over high production quality."
+}

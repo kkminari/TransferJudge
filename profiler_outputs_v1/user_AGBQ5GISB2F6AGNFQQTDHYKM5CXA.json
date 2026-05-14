@@ -1,0 +1,77 @@
+{
+  "user_id": "AGBQ5GISB2F6AGNFQQTDHYKM5CXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, drama",
+      "evidence": [
+        "\"One of my all time favorite comedies.\"",
+        "\"I love this movie! I highly recommend this DVD to anyone who hasn't yet seen this movie.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This movie is wonderful!! Granted it is a little long, but such a wonderful movie that you can't help but to think about days later.\"",
+        "\"Okay okay I know there are better movies out there. However, this movie is pretty good...cheesy but good.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Granted it is a little long, but such a wonderful movie that you can't help but to think about days later.\"",
+        "\"This movie has always been a favorite of mine ever since I was young.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"This arrived on time and in perfect condition.\"",
+        "\"This came on time and the packaging was in perfect condition.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Sleepy Hollow is one of my very favorite Johnny Depp movies.\"",
+        "\"I love this movie and Freddie Prinze Jr. and Julia Stiles definitely make this movie.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, emotional engagement",
+      "evidence": [
+        "\"This film deserves more recognition than it got. This movie adaptation is absolutely beautiful.\"",
+        "\"This movie is adorable. Yes, it is a Disney film and yes, it has its cheesy times to it, but hey I am a huge fan of cheesy movies.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie is wonderful! I highly recommend this movie to any teenager and mom out there.\"",
+        "\"This movie is terrific! I absolutely love this movie and highly recommend it to everyone out there, you won't be sorry!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies and family-oriented films, often enjoying movies that are simple in narrative complexity and emotionally engaging. They appreciate visual spectacle and have a fondness for nostalgic and cheesy movies, indicating a taste for light-hearted entertainment."
+}

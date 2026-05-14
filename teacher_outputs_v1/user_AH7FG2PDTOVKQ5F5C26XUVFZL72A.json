@@ -1,0 +1,165 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's enjoyment of drama, comedy, and adventure translates well to books in similar genres. These genres often share thematic and emotional elements that resonate across both media.",
+      "transferred_insight": "Prefer books that are rich in drama, humor, and adventurous narratives.",
+      "confidence": 0.85
+    },
+    "narrative_complexity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's mixed feelings about narrative complexity suggest a preference for accessible stories that are not overly convoluted. This can inform recommendations for books that balance complexity with readability.",
+      "transferred_insight": "Prefer books with moderate complexity that are engaging but not overly intricate.",
+      "confidence": 0.65
+    },
+    "pacing_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's mixed pacing preference indicates they appreciate engaging stories but may be sensitive to pacing issues. Recommendations should focus on books that maintain interest throughout.",
+      "transferred_insight": "Prefer books that maintain a steady and engaging pace.",
+      "confidence": 0.6
+    },
+    "quality_sensitivity": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high sensitivity to quality in film suggests they will also appreciate well-crafted books with strong writing and production values.",
+      "transferred_insight": "Prefer high-quality, well-reviewed books.",
+      "confidence": 0.9
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user's mixed brand loyalty does not translate well to books, as author loyalty is less defined than actor loyalty in film. This pattern is not applicable.",
+      "transferred_insight": null,
+      "confidence": 0.8
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's high sensory preference for visual and auditory elements in film does not apply to books, which rely on text and imagination. This pattern is not transferable.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's appreciation for emotional depth in films suggests they will also seek out books that evoke strong feelings and resonate on a personal level.",
+      "transferred_insight": "Prefer books with strong emotional themes and character development.",
+      "confidence": 0.85
+    },
+    "character_development": {
+      "decision": "PARTIAL",
+      "rationale": "The user's mixed feelings about character development indicate they appreciate well-developed characters but may not require every character to be deeply explored. Recommendations should include books with engaging character arcs.",
+      "transferred_insight": "Prefer books with engaging character development, but not overly complex.",
+      "confidence": 0.65
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "0060117028",
+      "title": "Sum VII: A novel",
+      "score": 0.95,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This novel likely combines elements of drama and emotional depth, aligning with the user's preferences for quality storytelling that resonates emotionally."
+    },
+    {
+      "rank": 2,
+      "item_id": "1501073362",
+      "title": "An Apple A Day: 100 Quick Devotionals When Pressed for Time",
+      "score": 0.85,
+      "applied_patterns": [
+        "quality_sensitivity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book offers quick, meaningful reflections that can resonate emotionally, appealing to the user's appreciation for quality and depth in content."
+    },
+    {
+      "rank": 3,
+      "item_id": "1502767643",
+      "title": "Killer Sudoku 9x9 Deluxe - Easy to Hard - Volume 6 - 462 Puzzles",
+      "score": 0.8,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "While not a narrative book, the quality and challenge of the puzzles may appeal to the user's appreciation for engaging content."
+    },
+    {
+      "rank": 4,
+      "item_id": "1946907723",
+      "title": "The Odd Profession of Jeremy Scratch",
+      "score": 0.78,
+      "applied_patterns": [
+        "genre_preference",
+        "character_development"
+      ],
+      "reasoning": "This thriller features unique character arcs and an engaging plot, aligning with the user's preference for character development and drama."
+    },
+    {
+      "rank": 5,
+      "item_id": "1945769041",
+      "title": "The Breedling and the City in the Garden (Element Odysseys)",
+      "score": 0.75,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This book combines adventure and fantasy elements, appealing to the user's love for drama and adventure while maintaining a moderate complexity."
+    },
+    {
+      "rank": 6,
+      "item_id": "1505589223",
+      "title": "The Art of Redemption",
+      "score": 0.73,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This thriller likely explores themes of redemption and moral complexity, resonating with the user's emotional engagement preferences."
+    },
+    {
+      "rank": 7,
+      "item_id": "1508571384",
+      "title": "Indigo Eyes (Emma Scott Series)",
+      "score": 0.7,
+      "applied_patterns": [
+        "genre_preference",
+        "character_development"
+      ],
+      "reasoning": "This book features character-driven narratives that align with the user's appreciation for character development and emotional depth."
+    },
+    {
+      "rank": 8,
+      "item_id": "1505589223",
+      "title": "The Mermaid's Gift",
+      "score": 0.68,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This adaptation of a folktale likely contains emotional themes and character journeys that resonate with the user's preferences."
+    },
+    {
+      "rank": 9,
+      "item_id": "1501073362",
+      "title": "A Dog Named Christmas and Christmas with Tucker: Special 2-in-1 Holiday Edition",
+      "score": 0.65,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This collection of heartwarming stories aligns with the user's preference for emotional narratives and quality storytelling."
+    },
+    {
+      "rank": 10,
+      "item_id": "1947076108",
+      "title": "Great Battles for Boys: Bunker Hill to WWI",
+      "score": 0.6,
+      "applied_patterns": [
+        "genre_preference"
+      ],
+      "reasoning": "This book may appeal to the user's adventurous side, providing engaging historical narratives that align with their genre preferences."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference were blocked as they do not translate well to book recommendations.",
+  "overall_strategy": "Focused on transferring genre preferences, emotional resonance, and quality sensitivity while applying partial insights for narrative complexity and character development. Blocked patterns that do not apply to the book medium."
+}

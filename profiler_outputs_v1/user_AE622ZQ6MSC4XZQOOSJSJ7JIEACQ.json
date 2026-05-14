@@ -1,0 +1,76 @@
+{
+  "user_id": "AE622ZQ6MSC4XZQOOSJSJ7JIEACQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "historical, family, drama",
+      "evidence": [
+        "\"We really enjoy all of the English history stories.\"",
+        "\"Love Diana Gabaldon's stories.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story line is interesting, sometimes tough to watch, but presents a true-to-life view of the time.\"",
+        "\"I wish there had been a little more character development.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"This is a little boring.\"",
+        "\"I wish there had been a little more character development.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The music is beautiful, and although the story has a sad ending, we get to know 'the voice' and the people who loved him.\"",
+        "\"Maggie Smith is a wonderful actress and holds the story together.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Diana Gabaldon",
+      "evidence": [
+        "\"Love Diana Gabaldon's stories.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual and musical",
+      "evidence": [
+        "\"Great music from great musicians!\"",
+        "\"The music is beautiful, and although the story has a sad ending...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Beautiful, uplifting story you can watch over and over.\"",
+        "\"My heart warms every time I view it.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for historical and family-oriented dramas, often appreciating the emotional depth and quality of storytelling. They show loyalty to specific creators like Diana Gabaldon and value visual and musical elements in their viewing experiences."
+}

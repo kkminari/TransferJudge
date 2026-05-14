@@ -1,0 +1,74 @@
+{
+  "user_id": "AHTYPERRXOVRQSWP7JKBA4J4L6MQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, suspense, novela",
+      "evidence": [
+        "\"AWESOME SERIES. KIND OF REMINDS ME OF THE DRAMA AT WORK.\"",
+        "\"AWSOME NOVELA. THE ENDING WAS A BIT ROUGH.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"THIS NOVELA TELLS THE STORY OF ONE OF MEXICO FINEST HUSTLERS/DRUG KINGPIN.\"",
+        "\"GREAT SERIES. YOU WATCH ONE EPISODE AND FEEL THE NEED TO KEEP WATCHING AS RAYLIN GIVENS WILL KEEP YOU ON EDGE!!\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"THIS NOVELA TELLS THE STORY OF ONE OF MEXICO FINEST HUSTLERS/DRUG KINGPIN. AT BIT SLOW TO START OUT BUT PICKS UP AND KEEPS YOU WANTING TO WATCH ONE MORE EPISODE.\"",
+        "\"HATE THE FACT THAT SERIES TAKES FOREVER TO COME OUT WITH THE NEXT SEASON.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"HATE THE FACT THAT SERIES IS OVER. HAD SOME GOOD LAUGHS A OF COURSE GREAT SUSPENSE AND CLEAN.\"",
+        "\"YOU CAN PLAY THIS DVD AND ENTERTAIN A HOUSE FULL OF SALSA LOVERS.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high tension, immersive",
+      "evidence": [
+        "\"THIS SERIES KEEPS YOU ON THE EDGE OF YOUR SEAT.\"",
+        "\"AWESOME SERIES. KIND OF REMINDS ME OF THE DRAMA AT WORK.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"THE ENDING WAS OBVIOUSLY SAD.\"",
+        "\"HATE THE FACT THAT SERIES IS OVER CAUSE IT GOT GOOD AND KEPT YOU GOING FOR AWHILE BUT SERIES WAS OVERALL GOOD.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and suspenseful narratives, particularly in the form of novelas. They prefer fast-paced storytelling that keeps them engaged, although they show some sensitivity to emotional impact, especially in endings. Overall, they appreciate immersive experiences that evoke strong feelings."
+}

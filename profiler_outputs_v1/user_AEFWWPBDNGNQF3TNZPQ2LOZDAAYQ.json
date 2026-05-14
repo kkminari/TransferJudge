@@ -1,0 +1,76 @@
+{
+  "user_id": "AEFWWPBDNGNQF3TNZPQ2LOZDAAYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, adventure, mystery",
+      "evidence": [
+        "\"This is the story of a strong, adventurous woman...\"",
+        "\"Like the story lines and trying to guess who did it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "medium",
+      "evidence": [
+        "\"Good character development and twists of the plot.\"",
+        "\"Thought generating movie with modern circumstances.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"Enjoyed the relationships development..\"",
+        "\"Good story\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Excellent acting.\"",
+        "\"Quality not very good, but an inspiring story.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Ryan Reynolds - what's not to like?\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"Engaged me enough to hope it was possible to achieve the project.\"",
+        "\"Excellent acting.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Appreciate the first person point of view more than any.\"",
+        "\"Enjoyed the journey.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and adventure genres with a preference for character development and engaging storylines. They appreciate emotional depth and are moderately sensitive to production quality, though they show low brand loyalty to specific creators."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AEESRYUL6F3P5NVPM3DSRZR6LS3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, suspense, action, thriller",
+      "evidence": [
+        "\"If you like high drama and can stand the blood and gore...\"",
+        "\"If you like drama, suspense, intrigue, and a story of the underdog fighting the system...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Around the 8th episode it took a twist that still has me confused...\"",
+        "\"The series shows how barbaric their control of the Greater Reich would have been...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Good storyline, good scripts with a hook at the ending of each episode to keep your interest...\"",
+        "\"There are lots of f bombs and some kinky sex scenes scattered through most every episode.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I thought it would be a good movie with a star like Dennis Hopper starring...\"",
+        "\"Die hard G W Bush fans probably won't like this film as much as non Bush fans...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"The only reason I started watching this show was because it stars Billy Bob Thornton...\"",
+        "\"I really liked the Matrix movies so this one was a no brainer for me...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"I really appreciate that the dialogue is not drowned out by loud background noise/music...\"",
+        "\"The movie also provides a good look at how the normal citizens of the Soviet Union lived in those times.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A sad commentary on how our justice system can be used to the benefit of the criminal...\"",
+        "\"If you like high drama and can stand the blood and gore...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and suspenseful narratives, often enjoying complex plots with twists. They appreciate high production quality and sensory experiences, indicating a taste for engaging and thought-provoking content."
+}

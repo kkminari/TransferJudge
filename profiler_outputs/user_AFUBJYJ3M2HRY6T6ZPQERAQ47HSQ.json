@@ -1,0 +1,77 @@
+{
+  "user_id": "AFUBJYJ3M2HRY6T6ZPQERAQ47HSQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, camp, action",
+      "evidence": [
+        "One of the all time classic SciFi movies. Highly recommended.",
+        "Campy but still a fun movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Dull and dreary without much action.",
+        "This was a disappointment from beginning to end."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "The action is great and isn't overwhelmed by the 'love' story.",
+        "Even after all these many years this is still an exciting film."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "The effects and photography were terrific, but this movie left me a bit flat.",
+        "The 'special effects' are of the usual 50's quality."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Wolverine is one of my favorite characters.",
+        "I remember seeing this at the drive-in."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "The best thing about this movie are the special effects.",
+        "The animation is top notch and the story is good."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "This was a disappointment from beginning to end.",
+        "Dull and dreary without much action."
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for sci-fi and campy films, particularly those with fast pacing and engaging action. However, they express disappointment in narrative complexity and emotional engagement, indicating a focus on entertainment over production quality."
+}

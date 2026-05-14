@@ -1,0 +1,77 @@
+{
+  "user_id": "AEDH34DPNQQFXP7XCUZTTKVJDVFQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, crime",
+      "evidence": [
+        "I really enjoy Vera.",
+        "I am captivated by it."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "It is an awesome entertaining program.",
+        "I really got hooked on this program."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "Couldn't stop watching it.",
+        "I really got hooked on this program."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The actors are fantastic abs the stories engaging.",
+        "Wonderful story and acting!!!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "Completely addicted to The Sopranos!!!!",
+        "I look forward to it always!!!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I am captivated by it.",
+        "I really enjoy the characters and the psychology of this program."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I absolutely loved this series.",
+        "I could watch lots more seasons."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for drama and crime genres, particularly enjoying engaging stories with high-quality acting. They favor fast-paced narratives that evoke strong emotional responses, indicating a deep connection to the characters and plots."
+}

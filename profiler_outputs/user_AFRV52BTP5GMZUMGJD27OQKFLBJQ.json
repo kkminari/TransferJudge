@@ -1,0 +1,74 @@
+{
+  "user_id": "AFRV52BTP5GMZUMGJD27OQKFLBJQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama",
+      "evidence": [
+        "\"Really funny movie.\"",
+        "\"Will and the rest of the cast are just down right hilarious. I love this movie for just pure fun.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Hard to believe at times, but the characters are still captivating.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Always great television. Even though the characters change, the writers and actors keep it real.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great script and acting. Never grows old\"",
+        "\"Well acted, would be an understatement.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "NYPD franchise",
+      "evidence": [
+        "\"NYPD still rocks!\"",
+        "\"Love NYPD!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic sensory",
+      "evidence": [
+        "\"Some of the greatest TV ever made in my opinion. Showed cops like they used to be, that is they cared about people.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Reminds of how police used to really serve and protect.\"",
+        "\"Some of the greatest TV ever made in my opinion.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and drama, particularly enjoying fast-paced narratives with high production quality. They exhibit loyalty to the NYPD franchise and appreciate content that resonates emotionally, often reflecting on the portrayal of characters and their depth."
+}

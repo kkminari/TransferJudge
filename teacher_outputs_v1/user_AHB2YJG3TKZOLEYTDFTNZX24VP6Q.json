@@ -1,0 +1,161 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's strong preference for romance, sci-fi, drama, and comedy directly translates to a desire for similar genres in books. This pattern is highly transferable as these genres exist in both media.",
+      "transferred_insight": "Prefer books in romance, sci-fi, drama, and comedy genres.",
+      "confidence": 0.8
+    },
+    "narrative_complexity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for simple narratives suggests they may enjoy accessible storytelling in books, but the complexity of literary works can vary. This pattern informs recommendations but does not dominate them.",
+      "transferred_insight": "Prefer accessible narratives, but some complexity is acceptable.",
+      "confidence": 0.6
+    },
+    "pacing_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's preference for fast-paced narratives applies directly to books, indicating a desire for engaging, quick reads that maintain momentum.",
+      "transferred_insight": "Prefer fast-paced books that keep the reader engaged.",
+      "confidence": 0.7
+    },
+    "quality_sensitivity": {
+      "decision": "PARTIAL",
+      "rationale": "While the user shows high sensitivity to quality in films, this may translate to a preference for well-reviewed books. However, the criteria for quality in literature can differ from film.",
+      "transferred_insight": "Prefer highly-rated books, but with some flexibility.",
+      "confidence": 0.65
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user's loyalty to specific actors does not translate to authors or books, as this pattern is medium-specific and could lead to negative transfer.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "The user's preference for visual spectacle and emotional depth is film-specific and does not apply to books, which do not provide the same sensory experiences.",
+      "transferred_insight": null,
+      "confidence": 0.85
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high emotional engagement with narratives suggests they will appreciate books that evoke strong feelings and explore deep themes, which is a common quality in literature.",
+      "transferred_insight": "Prefer emotionally resonant books with depth.",
+      "confidence": 0.8
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "1950209032",
+      "title": "Darling Venom: A Standalone Best Friend’s Brother Romance (Limited Edition Cover)",
+      "score": 0.95,
+      "applied_patterns": [
+        "genre_preference",
+        "pacing_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book fits perfectly within the romance genre, which the user enjoys, and promises a fast-paced narrative with emotional depth, aligning with their preferences."
+    },
+    {
+      "rank": 2,
+      "item_id": "0412131307",
+      "title": "Insect Biochemistry (Outline Studies in Biology)",
+      "score": 0.75,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "While primarily a science book, it offers accessible narratives that may appeal to the user's preference for simple storytelling, albeit in a different context."
+    },
+    {
+      "rank": 3,
+      "item_id": "1416589686",
+      "title": "Forces of Fortune: The Rise of the New Muslim Middle Class and What It Will Mean for Our World",
+      "score": 0.7,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book provides insights into social dynamics, which may resonate with the user's interest in drama and emotional depth, while also being well-rated."
+    },
+    {
+      "rank": 4,
+      "item_id": "1857989961",
+      "title": "The Conan Chronicles, Vol. 1: The People of the Black Circle",
+      "score": 0.68,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This collection of fantasy stories may appeal to the user's sci-fi interest, offering engaging narratives that are straightforward and accessible."
+    },
+    {
+      "rank": 5,
+      "item_id": "0679750169",
+      "title": "The Romance of Tristan and Iseult (Vintage Classics)",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This classic romance tale aligns with the user's strong preference for romantic narratives and promises emotional depth, making it a fitting recommendation."
+    },
+    {
+      "rank": 6,
+      "item_id": "1785315242",
+      "title": "The Frying Pan of Spain: Sevilla v Real Betis: Spain's Hottest Football Rivalry",
+      "score": 0.65,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "While not a direct match to the user's core genres, the engaging narrative style may appeal to their interest in drama and well-crafted stories."
+    },
+    {
+      "rank": 7,
+      "item_id": "1512415987",
+      "title": "All Aboard for the Bobo Road",
+      "score": 0.6,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This children's book offers a simple narrative that may resonate with the user's preference for straightforward storytelling, albeit in a lighter context."
+    },
+    {
+      "rank": 8,
+      "item_id": "1493699806",
+      "title": "Sexual Tennis for Yogis",
+      "score": 0.55,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This unique title may intrigue the user with its blend of genres, offering a simple narrative that could align with their preferences."
+    },
+    {
+      "rank": 9,
+      "item_id": "151951607X",
+      "title": "Antiques & Avarice (White Mountain Romantic Mysteries)",
+      "score": 0.72,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This romantic suspense novel combines elements of mystery and romance, appealing to the user's interests in both genres while providing emotional engagement."
+    },
+    {
+      "rank": 10,
+      "item_id": "1981759492",
+      "title": "Minstrel's Call (The Minstrel's Song) (Volume 4)",
+      "score": 0.5,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This book may appeal to the user's interest in drama and storytelling, offering a narrative that is likely to be accessible and engaging."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference patterns were blocked as they do not translate to book recommendations.",
+  "overall_strategy": "Focused on transferring genre preferences and emotional resonance while applying partial insights for narrative complexity and quality sensitivity. Blocked patterns that could lead to negative transfer."
+}

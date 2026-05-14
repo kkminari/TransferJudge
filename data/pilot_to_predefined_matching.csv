@@ -1,0 +1,22 @@
+predefined,rank,pilot_canonical,similarity,strength,pilot_n_users,pilot_avg_conf,pilot_sample_desc
+genre_preference,1,genre_diversity,0.6986,MEDIUM,5,0.78,"The user shows a preference for content that blends different genres, such as action with humor or d"
+genre_preference,2,mixed_reaction_to_science_fiction,0.622,MEDIUM,7,0.8,"The user shows a preference for science fiction elements in films, appreciating them even when the o"
+genre_preference,3,dislike_for_excessive_sappiness,0.5844,MEDIUM,1,0.75,"The user tends to dislike films that are overly sentimental or sappy, preferring narratives with mor"
+narrative_complexity,1,narrative_complexity,0.8028,STRONG,1,0.8,The user enjoys films with intricate plots and complex narratives that keep them engaged.
+narrative_complexity,2,narrative_simplicity,0.7259,STRONG,5,0.83,"The user enjoys shows that offer depth and complexity, often reflecting on their thought-provoking n"
+narrative_complexity,3,preference_for_character_development,0.6927,MEDIUM,3,0.833,"The user appreciates well-developed characters and plots, indicating a preference for depth in story"
+pacing_preference,1,tolerance_for_slow_pacing,0.8068,STRONG,1,0.85,"The user shows a preference for narratives that unfold slowly, allowing for a gradual reveal of plot"
+pacing_preference,2,preference_for_fast_paced_stories,0.8064,STRONG,1,0.85,The user prefers films and shows that maintain a fast pace and engaging narrative flow.
+pacing_preference,3,narrative_pacing_issues,0.7453,STRONG,5,0.79,"The user is sensitive to the pacing of narratives, expressing dissatisfaction when films feel slow o"
+quality_sensitivity,1,variable_rating_on_quality,0.5518,MEDIUM,1,0.75,"The user frequently gives variable ratings, indicating a nuanced view where they can appreciate aspe"
+quality_sensitivity,2,consistent_quality,0.5486,MEDIUM,1,0.9,"The user consistently rates films highly, indicating a preference for quality productions."
+quality_sensitivity,3,production_quality_importance,0.545,MEDIUM,1,0.85,"The user places a high importance on the quality of production in films and operas, often mentioning"
+brand_loyalty,1,franchise_loyalty,0.6958,MEDIUM,2,0.85,"The user shows loyalty to certain franchises, often comparing new entries to previous ones and expre"
+brand_loyalty,2,loyalty_to_favorite_actors,0.6698,MEDIUM,1,0.9,"The user demonstrates a strong loyalty to specific actors, often choosing to watch their films regar"
+brand_loyalty,3,actor_loyalty,0.6385,MEDIUM,1,0.75,"The user shows a preference for films featuring specific actors, indicating that their enjoyment of "
+sensory_preference,1,enjoyment_of_action_movies,0.591,MEDIUM,1,0.8,"The user enjoys action-packed films, suggesting a preference for high-energy entertainment."
+sensory_preference,2,thrill_seeker,0.554,MEDIUM,1,0.8,"The user seeks thrilling experiences in films, particularly those that evoke strong emotional reacti"
+sensory_preference,3,emotional_resonance_preference,0.5534,MEDIUM,1,0.9,"The user is drawn to films and operas that evoke strong emotional responses, appreciating passionate"
+emotional_resonance,1,emotional_resonance,0.8157,STRONG,14,0.857,"The user appreciates films that evoke strong emotions, whether through sadness or empathy, particula"
+emotional_resonance,2,emotional_resonance_value,0.7667,STRONG,1,0.85,"The user values films that evoke strong emotional responses, particularly those that explore themes "
+emotional_resonance,3,emotional_resonance_preference,0.7439,STRONG,1,0.9,"The user is drawn to films and operas that evoke strong emotional responses, appreciating passionate"

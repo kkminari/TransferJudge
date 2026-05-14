@@ -1,0 +1,77 @@
+{
+  "user_id": "AHCECB3GIDLVCZZN2PSSCMSTCPRQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animation, horror, mystery",
+      "evidence": [
+        "\"good animation. only one piece movie ive seen.\"",
+        "\"creepy horror b-movie about the struggles of an actress in Hollywood.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"This movie is exactly that, a mystery you have to figure out. Makes you think.\"",
+        "\"It's king of confusing if you never read the books because this movies takes stuff from the first three books.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It's boring, slow nothing ever happens until the end.\"",
+        "\"I didn't love it but I need to have every of denis villeneuve films.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"good animation. only one piece movie ive seen.\"",
+        "\"The picture is amazing, sometimes it even looks like blu-ray.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Satoshi Kon, Denis Villeneuve, David Fincher",
+      "evidence": [
+        "\"I need to have every of denis villeneuve films.\"",
+        "\"My favorite film from David fincher.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"good animation.\"",
+        "\"The picture is amazing, sometimes it even looks like blu-ray.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I didn't love it but I need to have every of denis villeneuve films.\"",
+        "\"This movie blows big time. It's boring, slow nothing ever happens until the end.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for animation and complex narratives, often appreciating high production quality. They exhibit brand loyalty towards notable directors and have mixed feelings about pacing, indicating a nuanced taste in films."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHQK2LB534XB73SUPIXNBUZH76VA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, fantasy, drama",
+      "evidence": [
+        "\"Nightbreed is unlike anything you've ever seen. There's a unique twist of Barker's combination of Horror and Fantasy...\"",
+        "\"As someone who loves horror and gore from Barker to Evil Dead...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The emotional connections with the characters are built during about 700 pages this is condensed to 1hr...\"",
+        "\"The story in brief, follows Boone, a troubled young man...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The bulk of the story is the journey first to Boulder...\"",
+        "\"There's a lot to marvel at, visually, in season 8... but the creators opted to just jump from plot point to plot point...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The picture is crisp, the camera is steady, it looks and feels like you're there...\"",
+        "\"I was appalled at the grainy, washed-out transfer...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Clive Barker",
+      "evidence": [
+        "\"Clive thought all was lost...\"",
+        "\"Barker weaves a world unlike any other and this may be the best cinematic expression of his world-building...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The non-linear narrative is a buzz kill and the months of journey that is cut hurts...\"",
+        "\"The technical perfection of Gravity is beyond reason...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"You feel everything with her...\"",
+        "\"The emotional connections with the characters are built during about 700 pages...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror and fantasy genres, particularly valuing complex narratives and emotional depth. They are sensitive to production quality and enjoy visual spectacles, but prefer slower pacing that allows for character development."
+}

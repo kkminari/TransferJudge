@@ -1,0 +1,77 @@
+{
+  "user_id": "AFE7OFOJTZ6IDWJ5PQICC5P2AQWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, romance, drama",
+      "evidence": [
+        "\"Cute love story.\"",
+        "\"This movie is in my 'Top 10 Movies To Watch Over And Over'! LOVE IT!!\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Very enjoyable!\"",
+        "\"Hilarious action scenes and comedic banter between lead characters save this movie from being too predictable.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Witty, silly, fast-paced and hilarious!!!\"",
+        "\"This movie has so many plot twists that it keeps you on your toes! Excellent action!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Keanu's a little wooden in his acting in spots but who cares!?\"",
+        "\"A must-see for anyone who loves High School movies and John Cusack.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"John Cusack and this movie were made for each other!\"",
+        "\"I will definitly be buying Seasons 2 and 3!\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, humor",
+      "evidence": [
+        "\"This is such an AWESOME movie!\"",
+        "\"Tear jerker alert! LOVE this movie!!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Tear jerker alert! LOVE this movie!!\"",
+        "\"I fell in love with the characters after watching the first episode!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies and romantic dramas, often enjoying fast-paced narratives with humor. They value emotional resonance in films, frequently expressing love for characters and stories that evoke strong feelings."
+}

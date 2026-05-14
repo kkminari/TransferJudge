@@ -1,0 +1,89 @@
+{
+  "user_id": "AG5KBUJWC64SJJMRZ5QHZ6HO375A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, documentary, drama",
+      "evidence": [
+        "\"This movie is worthwhile if you either have nothing else to watch in the action genre...\"",
+        "\"Excellent, chilling documentary detailing the story of 3 teens in 1994...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"the story lagged and was somewhat boring in its pacing.\"",
+        "\"there are so many random twists and turns that it is simply rendered 'ok'.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"the story lagged and was somewhat boring in its pacing.\"",
+        "\"the journey to the end result is often more fun than the end result itself.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the quality acting in this program probably warrants 5 stars...\"",
+        "\"the whole movie is well cast, well acted, and well directed.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Benecio can do no wrong in my book, the guy is simply the greatest living actor of our time...\"",
+        "\"I'm a huge Ewan fan and would try any of his films.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"there were a number of cool 'pop out' scenes to really get you going;...\"",
+        "\"this one is so perfectly creepy and strange that I can't help give it a perfect score.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "mixed",
+      "evidence": [
+        "\"it leaves you with questions that you are able to provide your own answers to.\"",
+        "\"this is one bizarre, and somewhat sad story.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "mixed",
+      "evidence": [
+        "\"I guess that it's technically a 'rom com', which I don't ordinarily care for.\"",
+        "\"this movie was a bit to lame and nutty to actually recommend.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  ],
+  "summary": "The user enjoys action and documentary genres, showing a preference for high-quality production and sensory experiences. They have mixed feelings about narrative complexity and pacing, indicating a nuanced taste that appreciates both engaging storytelling and emotional depth."
+}

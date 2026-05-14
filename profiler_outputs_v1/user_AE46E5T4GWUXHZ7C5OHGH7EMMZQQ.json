@@ -1,0 +1,77 @@
+{
+  "user_id": "AE46E5T4GWUXHZ7C5OHGH7EMMZQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, thriller",
+      "evidence": [
+        "\"a modern, punchy, funny and entertaining police series\"",
+        "\"depressing but very well acted story of a Jewish holocaust survivor\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"the highpoints are hilarious and the low points quickly forgotten\"",
+        "\"the script has little depth and the characters are thinly drawn\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"the pace quickens and the shocks and black humour continue\"",
+        "\"this long, tedious film is nothing more than a laborious trashy soap opera\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the direction, acting, cinematography quality\"",
+        "\"the performances of Alan Bates and Janet Suzman as parents of a severely mentally and physically disabled little girl carry the show with energy and conviction\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "mixed",
+      "evidence": [
+        "\"High Anxiety (1977) directed and written by and starring Mel Brooks\"",
+        "\"the inimitable (now sadly and regrettably deceased) Richard Griffiths as Henry Crabbe carries each episode\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"the luminous Sheila Florance who is remembered long after the fade-out\"",
+        "\"the glorious duo of Griffiths and Steed, the unbeatable mix of great food & wine and English countryside crime\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"the film packs a punch despite being dated in many ways\"",
+        "\"the performances do... have their rewards\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama and comedy, with a preference for fast-paced narratives and high production quality. They appreciate strong performances and emotional depth in storytelling, while showing some ambivalence towards specific creators."
+}

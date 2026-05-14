@@ -1,0 +1,77 @@
+{
+  "user_id": "AFPY6CSJV4JEB5DI5ALDNUCO223A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "military history, action, drama, sci-fi",
+      "evidence": [
+        "I am a huge fan of military history movies but this one does not cut the mustard.",
+        "I love sci fi."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The story, the characters, good guys, bad guys. All of it totally as expected.",
+        "It is a serious topic with dark overtones but very well done."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "This film is two hours and nineteen minutes long and should not have been more than a sixty minute television documentary.",
+        "Mostly slow and seldom funny."
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Brilliant cinematography.",
+        "The cinematography, script and performances are top notch."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I'd love to see this remade with a better screenwriter and different director.",
+        "Mark Wahlberg probably wasn't the best guy for the part."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "Incredible cinematography. A very good action adventure tale.",
+        "The aeronautical scenes are through the roof."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "This is a film for you. This is an underdog perseveres and defeats both his own demons and the doubts of others to prove himself to the world story that will have you out of your seat cheering with a tear in your eye to boot.",
+        "The ending of this movie makes a powerful statement in our divided times."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys military history and action films, often valuing high production quality and emotional resonance. They prefer straightforward narratives and slower pacing, indicating a taste for character-driven stories rather than complex plots."
+}

@@ -1,0 +1,89 @@
+{
+  "user_id": "AEYP3XXHW5LON337Q4VRQGDK7WFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, animated, superhero",
+      "evidence": [
+        "\"I love The DC Animated Movies, I bought 2 copies of every one good bad or indifferent to support DC's efforts\"",
+        "\"This is the Best Batman Animation Ever\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story was plain and uninteresting.\"",
+        "\"This movie felt like several different stories that did not come completely together.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"this movie felt rushed.\"",
+        "\"it need more time, the blue beetle story felt incomplete.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the animation was great.\"",
+        "\"it is painfully obvious how it could have been better.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "DC Animated Movies",
+      "evidence": [
+        "\"I own them all.\"",
+        "\"I bought 2 copies of every one good bad or indifferent to support DC's efforts.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The Animation was Great.\"",
+        "\"the animation was excellent.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I wanted to really like this movie.\"",
+        "\"it was entertaining it will be in my collection, could have been better.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "franchise_loyalty",
+      "value": "Marvel and DC",
+      "evidence": [
+        "\"I bought because it part of the marvel cinematic universe.\"",
+        "\"I own the complete justice league box set.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user has a strong preference for action and animated superhero movies, particularly from the DC Animated Movies franchise. They appreciate high production quality and visual spectacle but express mixed feelings about narrative complexity and emotional engagement."
+}

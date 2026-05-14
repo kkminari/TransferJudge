@@ -1,0 +1,77 @@
+{
+  "user_id": "AH7DJYH7R5NZCXDWVT4KBKML6QPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, horror, martial arts, sci-fi, drama",
+      "evidence": [
+        "\"It's Godzilla against Mechagodzilla… what more do you need to know? It's awesome !!!\"",
+        "\"This is a great haunted/possessed place movie. I've seen quite a few and I am a discriminating horror cinema fan.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"If you enjoy this genre, then you will love this movie which is lookin' good thanks to Blue Underground.\"",
+        "\"This is a thinking man's action movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This is old-school wild wire-fu mystical violent cornball Kung Fu entertainment that is about as good as it gets.\"",
+        "\"The action was pretty good and the ladies were pretty pretty.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting, cinematography, sound, special effects, story, etc. are all excellent.\"",
+        "\"The direction, editing and cinematography are amazing.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"If you are a fan of sadist insane murderer movies of the type where the entire film is the action of the murderer and his victims...\"",
+        "\"If you are a fan of the great writing of Frank Herbert, you will be gravely disappointed.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The musical score and cinematography are brilliant.\"",
+        "\"The use of color, and shadow are masterful.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It is terrifying and heartbreaking.\"",
+        "\"I know that I am experiencing a great horror film when I need to take a rest period at some point and then return to it.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action-packed and horror films, particularly enjoying martial arts and sci-fi genres. They value high production quality and emotional impact in their viewing experiences, often favoring fast-paced narratives with engaging visuals."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AHBI7FPBAGWPXFBR35NW7MRWVQMA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "biography, drama",
+      "evidence": [
+        "\"Well done biography, but a very sad tale.\"",
+        "\"A lavish costume picture that tells the story of a woman who was born before her time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"This film is an entirely people centered drama that tells the little known story of moral courage and humanity.\"",
+        "\"The story's heart, humor and human drama are felt when we see the toll the fighting takes in the lives of the infantry.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The only real flaw is that while their First Amendment cause was just... the movie did gloss over that...\"",
+        "\"The documentary it is not nearly as rich a telling of the event as it could have been...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"A very well done production that does bring out aspects of Sir Winston Churchill that are not seen in other productions.\"",
+        "\"The film's cinematography was uncomplicated, but on the mark.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The story's heart, humor and human drama are felt when we see the toll the fighting takes in the lives of the infantry.\"",
+        "\"The film makes important points about racism and the everyday effect of misused political power...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The story the 'Spotlight' generation reporting team revealed... will break your heart.\"",
+        "\"The wonder of the true story of the Christmas Truce... was one of the world's true Christmas Miracles.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for biographical and dramatic films that feature complex narratives and high production quality. They appreciate emotional depth and resonance in storytelling, often valuing the human experience and moral courage depicted in the films."
+}

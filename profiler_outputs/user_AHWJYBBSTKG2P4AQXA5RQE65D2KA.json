@@ -1,0 +1,77 @@
+{
+  "user_id": "AHWJYBBSTKG2P4AQXA5RQE65D2KA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, romance, horror",
+      "evidence": [
+        "Great action, story line and actors!!",
+        "I loved this movie!! I have not read the books so had an open mind about it. It was a beautiful love story more than the bedroom scenes..."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "This movie was funny and descent story.",
+        "A very interesting movie that the ending I didnt expect but worth seeing."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Drawn out story, set in the 80s.",
+        "suspenseful...I enjoyed this movie."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Great action, story line and actors!!",
+        "worth the watch!! very scary!!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I like them all and this was another good one!!",
+        "One of the best movies I have seen in forever!!"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "Better if you seen it there instead of TV or if you have an 80 inch or higher for the colors, action, beautiful set.",
+        "This one was the scary one. Reminds you of being scared as a child...takes you back."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "A year jerker for undying love!",
+        "I loved the story, acting, and the ending."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action, drama, and romance genres, often appreciating high production quality and emotional depth in storytelling. They enjoy simple narratives with a mix of pacing, and while they show some brand loyalty, it is not strongly defined."
+}

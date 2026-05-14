@@ -1,0 +1,77 @@
+{
+  "user_id": "AH7EQPRY2DX2JDZQYJNTGGQV7UIA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "dislike LGBT, dislike artsy adaptations, prefer realistic narratives",
+      "evidence": [
+        "\"This is an LGBT movie but manages to miss the important issues of even that.\"",
+        "\"A valiant attempt at artsy-fying Agatha Christie which successfully misses the mark.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The storylines were good, acting was somewhat stilted with not a great deal of character development.\"",
+        "\"Lacks so much, plus (or minus!) there's no group-chemistry with the team.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"The ever-increasing Americanisms in the script did not enter British English until the early 2000s...\"",
+        "\"Unfortunately, the initial, almost complete but charming, detours from the books... have now completely wandered into fatuous pandering to modern TV-watchers.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"What I could not handle was the horrific camera work.\"",
+        "\"It is really, really bad. Not offensive, just poor quality everything.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Julie Andrews was an excellent choice to play Mary Poppins, but her character was warped and twisted...\"",
+        "\"Great cast, some fantastic acting and beautiful photography. But, all in all, terribly disappointing...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"What I could not handle was the horrific camera work.\"",
+        "\"ridiculous music and the nauseating camera-work, but I'm an ancient stick-in-the-mud\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"It is really, really bad. Not offensive, just poor quality everything.\"",
+        "\"The language is oddly Americanized, and the cloying sentimentality is SO nauseatingly unrealistic...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong aversion to poorly executed narratives, particularly those that are artsy or lack authenticity. They prefer realistic storytelling and are sensitive to production quality, often expressing disappointment in films that fail to meet their expectations."
+}

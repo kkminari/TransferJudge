@@ -1,0 +1,76 @@
+{
+  "user_id": "AHAY2IBIT65M4P2A7G7RV2RR2YHA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, thriller",
+      "evidence": [
+        "\"Excellent courtroom drama with twists to spare\"",
+        "\"Perfectly funny oddball farce centered at a funeral\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"It's courtroom drama with a lot of delicious twists\"",
+        "\"Mesmerizing thriller that delivers some good thrills but is undone by murky ending that's too vague\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The final action sequence is also well paced and filled with imaginative touches\"",
+        "\"the relentless kvetching wears thin after a very short time\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"This one is excellent. Each show looks fresh and sharp and bright where it should be\"",
+        "\"the cinematography is excellent, giving a great feel for the vastness of the area\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"While I've always been a Woody fan, sometimes it's best to rest on your laurels\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Astounding images\"",
+        "\"the breathtaking Technicolor cinematography\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I find it to be an interesting new take on racism, particularly set in the West\"",
+        "\"brought tears\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for high-quality drama and comedy, particularly those with engaging narratives and emotional depth. They appreciate well-crafted visuals and storytelling, while also expressing mixed feelings about narrative complexity and pacing in some cases."
+}

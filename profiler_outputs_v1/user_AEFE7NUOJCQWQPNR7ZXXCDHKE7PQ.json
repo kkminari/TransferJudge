@@ -1,0 +1,76 @@
+{
+  "user_id": "AEFE7NUOJCQWQPNR7ZXXCDHKE7PQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "classic, comedy, western",
+      "evidence": [
+        "\"a classic of that era. a must have for serious Wayne fans.\"",
+        "\"the movie isn't going to win any awards but is entertaining and I would recommend it to any one who enjoys light comedy\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"the acting is acceptable and will entertain a lot of people.\"",
+        "\"the only film she really crashes and burns. Weak directing. music awful.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Good story and acting in most episodes. worth the time.\"",
+        "\"Just not my kind of show.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"well above average acting and directing. super filming. good story and writing.\"",
+        "\"Poorly conceived, poorly directed, I guess it is something for everyone and fits no one.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"a classic for sure. I had it on vhs but never on Blu-ray. It is better than expected.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"great casting. Good funny film.\"",
+        "\"exceptional movie. especially for its time.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"the only film she really crashes and burns. Weak directing. music awful.\"",
+        "\"the acting is acceptable and will entertain a lot of people.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys classic films and light comedies, often appreciating good acting and directing. They show a preference for slower-paced narratives and are sensitive to production quality, though they do not exhibit strong loyalty to specific creators."
+}

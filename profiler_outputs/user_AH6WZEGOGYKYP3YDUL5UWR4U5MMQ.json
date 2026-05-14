@@ -1,0 +1,76 @@
+{
+  "user_id": "AH6WZEGOGYKYP3YDUL5UWR4U5MMQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, romance",
+      "evidence": [
+        "Great family show",
+        "Kinda sad but sweet love story"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great show",
+        "Love this show"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "Kinda sad but sweet love story",
+        "Very moving. True stories from Fallen Soldiers."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Great show",
+        "Love this show"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Gotta love little house on the prairie. I will watch repeatly"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Very moving. True stories from Fallen Soldiers.",
+        "Great family show"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Very moving. True stories from Fallen Soldiers.",
+        "Kinda sad but sweet love story"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-oriented and romantic narratives, often appreciating simple storytelling with emotional depth. They value emotional resonance highly, indicating a taste for content that evokes strong feelings."
+}

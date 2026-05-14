@@ -1,0 +1,87 @@
+{
+  "user_id": "AH5MFVIGC6MS3VX65QVKWXI7LEOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, sci-fi, disaster, war",
+      "evidence": [
+        "\"Just an absolute, exciting, great action-packed film.\"",
+        "\"I always enjoy sci-fi for the 50's.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This is a great, fast paced action film that keeps you engaged even though you can guess the outcome.\"",
+        "\"Overall, a good thriller for a slow Saturday afternoon.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Just an absolute, exciting, great action-packed film.\"",
+        "\"This is a great, fast paced action film that keeps you engaged...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"Fairly good acting and effects.\"",
+        "\"Good effects and good acting make this an enjoyable film.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Willis does it again, playing a burned-out cop who saves the day...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Better-than-average disaster flick with some very good special effects.\"",
+        "\"Great acting and camera work.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"A great movie is one where you know the outcome before it even starts yet you sit on the edge of your seat in anticipation...\"",
+        "\"This film is extremely well done. Great acting and the message is convicting.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "disliked_genres",
+      "value": "romance",
+      "evidence": [
+        "\"Too much 'romance' and not enough action.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    }
+  ],
+  "summary": "The user has a strong preference for action-packed films, particularly in the genres of sci-fi, disaster, and war. They enjoy fast pacing and straightforward narratives, while showing some sensitivity to production quality, though they are not particularly loyal to specific creators."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AEKQMGRM53ISEIEQM6QD6Q3R64NQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama",
+      "evidence": [
+        "Family dramas are a favorite of mine.",
+        "This is a Good Family Drama."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "This is a movie that is perfect when you want to just relay and enjoy the ride.",
+        "I enjoyed this series. The dialog was quick and interesting."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "This is a great show with fast talking and fun quips.",
+        "The dialog was quick and interesting."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "no extras of any kind not even language choices or sub titles",
+        "I did not see this when it came out on HBO but I heard that it was a good show and it has not let me down yet."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "I enjoyed watching life unfold as the young kids become adults and find their way in the world.",
+        "It is fun to see the local sites and hear of the local areas mentioned in the show."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "you find yourself wishing the best for each of this TV family's members.",
+        "I enjoyed this show and now will enjoy watching it all over again."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family dramas with fast-paced dialogue and simple narratives. They appreciate emotional engagement and immersive experiences, often reflecting on the characters' journeys and local settings."
+}

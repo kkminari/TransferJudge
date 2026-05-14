@@ -1,0 +1,74 @@
+{
+  "user_id": "AGRG5J4PRBOMRPK4OJBOM7MQISAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, scary",
+      "evidence": [
+        "\"This was a great thriller! Didn't see the end coming!\"",
+        "\"We love scary movies and this was a pretty darn good one!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"Started slow and highly confusing! Really picked up and was quite in awe with the ending!\"",
+        "\"Had a hard time due to the dubbing. Did not finish!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Started slow and highly confusing! Really picked up and was quite in awe with the ending!\"",
+        "\"Had a hard time due to the dubbing. Did not finish!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I love these videos! Now I can watch anytime I want!\"",
+        "\"Great episode!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"This movie is fabulous!\"",
+        "\"We really enjoyed this! Way out of the norm!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is hilarious! Whole family loved it and neighbors too.\"",
+        "\"It has been wonderful for all of us!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys thrillers and scary movies, often appreciating engaging narratives that evoke strong emotional responses. They have a mixed preference for pacing and narrative complexity, indicating a tolerance for slower starts if the payoff is rewarding."
+}

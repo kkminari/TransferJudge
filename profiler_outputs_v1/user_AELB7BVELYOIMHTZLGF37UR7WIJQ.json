@@ -1,0 +1,77 @@
+{
+  "user_id": "AELB7BVELYOIMHTZLGF37UR7WIJQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, heartwarming",
+      "evidence": [
+        "Very good Korean historical drama.",
+        "Great 'heart' movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "GREAT story. Both of us like it, good plot and story.",
+        "Good story, timeless love."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Got kinda long in parts, but overall very good movie.",
+        "Didn't like the ending, made me sad."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Loved this series. It had everything, and was continually interesting to kept my attention.",
+        "Great movie series. a good 'heart' movie."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Got it to complete my wife's 'Buffy' collection.",
+        "Can't wait for the next Tinkerbell installment."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "Pulls at the heart strings, with a little dash and daring, some fun, sorry and silliness all mixed in.",
+        "Finally some background into how all the characters of NeverLand came into being."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Pulls at the heart strings, with a little dash and daring.",
+        "Have always loved this movie, since it first came out."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys heartwarming dramas with simple narratives that evoke strong emotional responses. They appreciate stories that are engaging and memorable, though they show mixed feelings about pacing. Overall, their preferences suggest a strong inclination towards emotionally resonant content."
+}

@@ -1,0 +1,89 @@
+{
+  "user_id": "AHP6XC762BZ7J773MD5TUIFKFETA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, biographical",
+      "evidence": [
+        "\"A must see for film buffs. Excellent acting.\"",
+        "\"This movie portrays the true story of a university literature professor that found herself caught in the whirlwind of the 1930s great purge of academics...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Predictable. Not one of Ben's best.\"",
+        "\"A typical coming of age story. Nothing more.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Slow in some parts (fast forward).\"",
+        "\"It was a very dull and long film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great acting and direction. All the players act well with the purpose of their given parts.\"",
+        "\"The cinematography is wonderful. The ocean shots and close ups of the stars are magnificent.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I was surprised to learn that she won an Oscar for Darling.\"",
+        "\"Giulietta Masina is such an adorable actress. Her facial expressions are hauntingly beautiful...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The music was great but the actual storyline was boring.\"",
+        "\"The movie follows some of her experiences but sadly skims over a majority of the injustices that she endured.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A very tragic story about a young naive woman forced into a world of prostitution and pornography...\"",
+        "\"If you like campiness and gossip then this is great Saturday night mindless movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "humor_preference",
+      "value": "low",
+      "evidence": [
+        "\"Few funny lines, but dragged.\"",
+        "\"The story line is extremely lame.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  ],
+  "summary": "The user enjoys drama and historical films with strong acting and direction, but tends to prefer simpler narratives and slower pacing. They have a high sensitivity to production quality and appreciate emotional depth, though they show little loyalty to specific creators."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AH7YVHUC5KVCYZLN6CXTY6RNOZ5Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "war, comedy, westerns",
+      "evidence": [
+        "THIS IS THE BEST WORLD WAR II MOVIE FOR ME.",
+        "FOR ME HE IS THE ULTIMATE IN COMEDY."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "story is much as i expected from a john wayne movie.",
+        "story line is great."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "couldn't give it a 5 but am completely satisfied with the product.",
+        "not so impressed."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the quality of the movie, if available, is the features provided on the discs.",
+        "DVD WAS IN EXCELLENT CONDITION AND DELIVERED ON TIME AS PROMISED."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I am so well-pleased.",
+        "LOVE THIS SET."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual quality",
+      "evidence": [
+        "the packaging is acceptable.",
+        "this blu-ray edition is simply beautiful."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "FELT SO MOVED.",
+        "brings back nostalgic days."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for war and comedy genres, appreciating visual quality and emotional resonance in their viewing experience. They tend to favor straightforward narratives and exhibit a high sensitivity to production quality, though they demonstrate low brand loyalty."
+}

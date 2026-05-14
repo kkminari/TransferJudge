@@ -1,0 +1,77 @@
+{
+  "user_id": "AHQ7PFPC4UAQW24MKRWFHETDMYLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animated, action",
+      "evidence": [
+        "\"I love DC animated films\"",
+        "\"DC movies are the best animated Comic movies out there.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"it was okay if you want something action packed to watch.\"",
+        "\"Good movie not as good as flash point but nice way to kill a hour.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The action is great, story line doesn't want you to snap your controller in two...\"",
+        "\"it was okay if you want something action packed to watch.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I can see why people liked this movie and didn't like this movie...\"",
+        "\"If you don't mind crappy acting and a weird yet scary story...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "DC",
+      "evidence": [
+        "\"I love DC animated films\"",
+        "\"DC movies are the best animated Comic movies out there.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"The action is great, story line doesn't want you to snap your controller in two...\"",
+        "\"everything is AWESOME i love this movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I cried and laughed so much q.q\"",
+        "\"I will admit I was freighted in some scenes. Laughed at the obvious. May of even cried a bit...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for animated and action genres, particularly enjoying DC films. They appreciate fast-paced storytelling with a focus on visual spectacle, while their emotional engagement is notable, often finding themselves laughing and crying during films."
+}

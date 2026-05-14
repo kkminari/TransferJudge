@@ -1,0 +1,77 @@
+{
+  "user_id": "AG7QZ6BMBB7EHTASSQ7CUSNMOLVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, classic",
+      "evidence": [
+        "\"A true classic! This is one of the best and funniest movies of all time.\"",
+        "\"A classic! I have seen this movie many times and it never gets old.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"A great series to watch, lots of side stories and plots.\"",
+        "\"A cute movie, I watched it many times with my son when he was younger.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"A great show! Obviously the consultants are real SF because this is pretty close to the real thing.\"",
+        "\"The bottom line is that it was the quintessential rock show!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"It's good if you want to hear all about Jon.\"",
+        "\"I hate to say it, but Tommy needs to grow up.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Sorry kids....REO isn't REO without Gary Richrath.\"",
+        "\"Vince didn't take care of his voice or learn to sing properly.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The stage was fantastic, lots of pyro, the backup singers/dancers actually sang rather than be eye candy for the show.\"",
+        "\"I used to run the VCR through the stereo before surround sound was the in-thing and it sounded great.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "\"I was able to relate to it in most aspects.\"",
+        "\"A much better time in life to have been a teen...no cell phones or texting...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedies and classic films, often appreciating their entertainment value. They prefer straightforward narratives with fast pacing, while showing a moderate sensitivity to production quality and emotional resonance."
+}

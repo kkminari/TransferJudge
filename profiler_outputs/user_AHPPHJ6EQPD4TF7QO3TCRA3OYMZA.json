@@ -1,0 +1,76 @@
+{
+  "user_id": "AHPPHJ6EQPD4TF7QO3TCRA3OYMZA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, comedy, romance",
+      "evidence": [
+        "\"Whimsical storyline... Romance, tragedy, drama, and humor are all featured and favorably illuminated.\"",
+        "\"excellent drama, in league with House of Cards...Tea Leoni is brilliant.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Unpredictable! Love the character development, and story lines. Superb writing.\"",
+        "\"The truth about LBJ, Nixon and others is sharper now with the view point of history.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"I am sad to see Don Draper finally fall from grace, but knew that it was bound to happen.\"",
+        "\"You know it is coming, but still, you hate to see ol' Don slipping into total degradation...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Wonderful character development, unique story line, wonderful casting, excellent scripting...\"",
+        "\"Meryl Streep is fantastic in her portrayal.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Shonda Rhimes",
+      "evidence": [
+        "\"Shonda Rimes is a great storyteller, and is a master producer.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Captivating story, excellent made for TV series!\"",
+        "\"This movie has quite a whimsical storyline... I appreciated the role played by Johnny Depp...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Just one of the best made for TV series. Captivating.\"",
+        "\"I really appreciate the perspective of the producers of this series.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly drama and historical narratives, with a strong appreciation for character development and storytelling quality. They show a preference for complex narratives and high production values, indicating a taste for emotionally resonant and engaging content."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AGTXPY3FGH6I6PCECI4FFG7X6CVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mystery, romance, family-oriented, action/adventure",
+      "evidence": [
+        "\"This is a really well-done mystery, that immerses you in the time-period and story from the start.\"",
+        "\"I also like movies that deal with time travel and romance, so that also contributed to me enjoying the movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I found the movie enjoyable and different.\"",
+        "\"This is a sweet movie if you're looking for something simple and uplifting.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I enjoyed the movie. As another reviewer commented, it might not be among the top movies ever made, but I still found it to be a satisfying, family-oriented evening's entertainment.\"",
+        "\"An engaging story that provides good entertainment.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I really enjoyed this movie! It takes you for a good ride, with a culinary theme as the backdrop for life's dramas, and with a pleasing emphasis on the importance of relationships with family and friends.\"",
+        "\"...the success of the show is not only due to the brilliant writing and production, but to the richness and integrity of the actors who bring it to life.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I can't understand the low reviews some people gave this. Maybe it is just a matter of taste.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"What a wonderful, uplifting movie! I'm so glad I gave it a try!\"",
+        "\"...the story pulls you in as it unfolds.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I enjoyed this movie more than I expected to... And only at the end, when the surface-level story-line had concluded, did I realize that my whole interpretation of that story was potentially incorrect.\"",
+        "\"A very enjoyable evening's entertainment!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys well-crafted mysteries and family-oriented films, often appreciating uplifting narratives. They prefer slower-paced stories that emphasize character development and emotional depth, while showing a strong sensitivity to production quality."
+}

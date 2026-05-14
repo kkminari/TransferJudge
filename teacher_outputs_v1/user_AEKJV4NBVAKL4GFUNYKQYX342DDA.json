@@ -1,0 +1,163 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's preference for biographical and inspirational films directly translates to a desire for similar themes in books. This suggests a strong inclination towards biographical and inspirational literature.",
+      "transferred_insight": "Prefer biographical and inspirational books",
+      "confidence": 0.8
+    },
+    "narrative_complexity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for simple narratives suggests they may enjoy straightforward storytelling in books, but this can vary in literature. Recommend accessible narratives without overly complex structures.",
+      "transferred_insight": "Prefer accessible narratives with moderate complexity",
+      "confidence": 0.6
+    },
+    "pacing_preference": {
+      "decision": "TRANSFER",
+      "rationale": "A preference for fast pacing in films indicates a desire for quick, engaging reads in books. This translates well to fast-paced narratives that keep the reader engaged.",
+      "transferred_insight": "Prefer fast-paced books that maintain engagement",
+      "confidence": 0.8
+    },
+    "quality_sensitivity": {
+      "decision": "PARTIAL",
+      "rationale": "High sensitivity to acting quality suggests the user values well-written and well-edited books. While this does not directly translate to acting, it indicates a preference for high-quality writing and storytelling.",
+      "transferred_insight": "Prefer well-written and high-quality books",
+      "confidence": 0.7
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user's low brand loyalty indicates they do not have a strong attachment to specific authors or brands, which does not translate to book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "Sensory preferences related to film do not apply to books, as the reading experience is fundamentally different and does not involve visual or auditory elements in the same way.",
+      "transferred_insight": null,
+      "confidence": 0.9
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high emotional engagement with films suggests they seek books that evoke strong feelings and resonate on a personal level. This preference is applicable across both media.",
+      "transferred_insight": "Prefer emotionally resonant books with depth",
+      "confidence": 0.9
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "B001M9MT8O",
+      "title": "Walt Disney's Mickey Mouse and Pluto Pup (Little Golden Books, D76)",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "pacing_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book captures the spirit of classic storytelling with a focus on beloved characters, appealing to the user's preference for engaging narratives. The fast-paced, light-hearted nature aligns with their desire for quick reads."
+    },
+    {
+      "rank": 2,
+      "item_id": "B0007ER4SA",
+      "title": "John Brown's Body (International Collectors Library)",
+      "score": 0.82,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This poetic narrative about the Civil War offers a biographical perspective that resonates emotionally, aligning with the user's interest in historical and inspirational themes."
+    },
+    {
+      "rank": 3,
+      "item_id": "B07KVKJ4KC",
+      "title": "The Wish Collector",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "pacing_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book's themes of magic and personal growth resonate with the user's preference for inspirational stories. Its engaging narrative style supports fast-paced reading."
+    },
+    {
+      "rank": 4,
+      "item_id": "B001PO6AU4",
+      "title": "Pet Food Nation: The Smart, Easy, and Healthy Way to Feed Your Pet Now",
+      "score": 0.75,
+      "applied_patterns": [
+        "quality_sensitivity",
+        "genre_preference"
+      ],
+      "reasoning": "While not strictly biographical, this book offers practical insights that can inspire pet owners, appealing to the user's interest in informative and quality content."
+    },
+    {
+      "rank": 5,
+      "item_id": "B008G1FGX6",
+      "title": "Should I move to the Algarve? (Good life shorts Book 2)",
+      "score": 0.73,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book provides a personal account of moving to a new place, which can be inspirational and engaging, aligning with the user's preference for biographical narratives."
+    },
+    {
+      "rank": 6,
+      "item_id": "B001UIN6N4",
+      "title": "The Doolittle Raid: America's Daring First Strike Against Japan",
+      "score": 0.7,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This historical account of a significant event in WWII offers both inspiration and emotional depth, appealing to the user's interest in biographical and dramatic narratives."
+    },
+    {
+      "rank": 7,
+      "item_id": "B19D1F1A1",
+      "title": "The Boy Who Would Be King: An Intimate Portrait of Elvis Presley",
+      "score": 0.68,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This biography of Elvis Presley provides an intimate look at a cultural icon, appealing to the user's interest in biographical stories with emotional depth."
+    },
+    {
+      "rank": 8,
+      "item_id": "B07KVKJ4KC",
+      "title": "The Wish Collector",
+      "score": 0.65,
+      "applied_patterns": [
+        "genre_preference",
+        "pacing_preference"
+      ],
+      "reasoning": "This book's themes of magic and personal growth resonate with the user's preference for inspirational stories. Its engaging narrative style supports fast-paced reading."
+    },
+    {
+      "rank": 9,
+      "item_id": "B001M9MT8O",
+      "title": "Walt Disney's Mickey Mouse and Pluto Pup (Little Golden Books, D76)",
+      "score": 0.62,
+      "applied_patterns": [
+        "genre_preference",
+        "pacing_preference"
+      ],
+      "reasoning": "This book captures the spirit of classic storytelling with a focus on beloved characters, appealing to the user's preference for engaging narratives. The fast-paced, light-hearted nature aligns with their desire for quick reads."
+    },
+    {
+      "rank": 10,
+      "item_id": "B001M9MT8O",
+      "title": "Walt Disney's Mickey Mouse and Pluto Pup (Little Golden Books, D76)",
+      "score": 0.6,
+      "applied_patterns": [
+        "genre_preference",
+        "pacing_preference"
+      ],
+      "reasoning": "This book captures the spirit of classic storytelling with a focus on beloved characters, appealing to the user's preference for engaging narratives. The fast-paced, light-hearted nature aligns with their desire for quick reads."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference were blocked due to low relevance for book recommendations.",
+  "overall_strategy": "Focused on the user's strong preferences for biographical and inspirational narratives while ensuring recommendations align with their pacing and emotional engagement desires. Blocked patterns that do not translate well to the book medium."
+}

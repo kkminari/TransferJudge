@@ -1,0 +1,74 @@
+{
+  "user_id": "AFDNC2JHBHCBO7L6F5NFMEM3LTTA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, slice of life, mystery, anime",
+      "evidence": [
+        "\"This is a beautiful show, that has flawed characters grow as the episodes go forward.\"",
+        "\"I like it. The subject matter is very interesting, and the artwork of the backgrounds is gorgeous.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's the same formula as the first two, and it works.\"",
+        "\"This wasn't bad. You have to realize this is a film without a lot of dialogue.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It's the story of a guy who slowly loses himself to loneliness.\"",
+        "\"This is a beautiful show, that has flawed characters grow as the episodes go forward.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Gorgeously animated. Got me hooked enough to find the manga to read.\"",
+        "\"It was a good package, and it looks great on my shelf.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This has been great so far. I just wish I could find the ED to buy online - it's very soothing.\"",
+        "\"The artwork of the backgrounds is gorgeous.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This is such a beautiful film.\"",
+        "\"Wow I'm so happy to finally see this up somewhere!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and slice of life genres, appreciating slow-paced narratives with high production quality. They value emotional resonance and find beauty in the storytelling and visuals, indicating a preference for immersive experiences."
+}

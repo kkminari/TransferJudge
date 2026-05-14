@@ -1,0 +1,77 @@
+{
+  "user_id": "AFQUN3WZ7AVL4P5EAOS2AKJ7W6QA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, Christmas, action, historical, horror",
+      "evidence": [
+        "\"this is a great Christmas movie\"",
+        "\"this is one of the best big foot movies\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"this is a great Christmas movie a great cast a wonderful story\"",
+        "\"another great Elvis Presley movie with lots of great songs.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The Nine kittens of Christmas is to slow i like the first one better.\"",
+        "\"this is a very good movie to watch with the whole family at Christmas time or any time.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the Blu-ray is excellent very good . movie .\"",
+        "\"the movie is excellent Clint Walker is at his best in None But The Brave the Blu-ray is excellent.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Elvis Presley, Clint Eastwood, Clint Walker",
+      "evidence": [
+        "\"another great movie from Clint Eastwood\"",
+        "\"this is Elvis at his best\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, family-friendly atmosphere",
+      "evidence": [
+        "\"this is a very funny Christmas movie for the whole family to enjoy\"",
+        "\"the mountains and the rivers the movie is great\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"this is one of Robert Duvall best movies its a 5 star movie.\"",
+        "\"what a great movie to watch with the whole family alone Yet not Alone a 5 star movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly movies, particularly Christmas films and those featuring Elvis Presley. They appreciate high production quality and have a preference for straightforward narratives, while also valuing emotional resonance in their viewing experiences."
+}

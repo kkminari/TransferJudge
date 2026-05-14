@@ -1,0 +1,76 @@
+{
+  "user_id": "AFV67EPET244JPRAPVGZUYZ64OXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, documentary, romance, comedy",
+      "evidence": [
+        "\"If you like travel shows and/or are interested in learning more about Europe and some interesting places to visit, this is a good DVD.\"",
+        "\"This movie shows that despite the greedy, corrupt and for-profit face that we show the rest of the world, some generous and heroic people in America do exist.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The movie starts off at 1951 and ends in 1980. The movie is good in some parts but eventually, it is a major letdown.\"",
+        "\"There are four intertwined stories. An American couple is visiting Morocco and their children are in the care of a Mexican nanny in the U.S.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The first hour and a half of the movie is spent just getting Rani Mukherjee and Salman Khan married.\"",
+        "\"The movie has a nice love triangle - or more than a triangle. It is fun to see how Viola copes with living in a guys dorm.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"The acting is really good. The songs are ok, I was expected better songs with AR Rehman as the music director.\"",
+        "\"The cinematography, storyline and acting are good.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"The acting across the board is great with Shah Rukh Khan and Amitabh Bachan being the stand out stellar performances.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"The movie has a good plot and twists which keep the viewer entertained.\"",
+        "\"The scenery for South Carolina, Mexico and Greece is nice. The acting and story is good.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The best part of the movie is the ending where during the credits they show parts from the documentary of when this movie actually took place during the late 80s, early 90s and it was nice to see that some actual dialogues and events in the movie actually did happen.\"",
+        "\"The scene where he thanks American soldiers is enough to make anyone teary eyed.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly drama, documentary, and romance, with a preference for engaging narratives that evoke emotional responses. They appreciate quality acting and storytelling but have mixed feelings about pacing and narrative complexity, indicating a balanced taste in entertainment."
+}

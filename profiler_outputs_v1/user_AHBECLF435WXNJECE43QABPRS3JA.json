@@ -1,0 +1,74 @@
+{
+  "user_id": "AHBECLF435WXNJECE43QABPRS3JA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "'this cartoon appealed to me for some reason or another'",
+        "'the plot was thin'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'there was nothing profound about this. the plot was thin.'"
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "'I have watched this many, many times.'",
+        "'Excellent stories. Well worth watching.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "'the story line and the acting…. Very good'",
+        "'you can see why these stars were stars'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "'Gene Kelly---watch those moves and action when he doing the fight scenes.'"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "'W.O.W.'",
+        "'the artwork was poor'"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "'nothing to dislike. I have watched this many, many times.'"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys well-acted films with a focus on quality storytelling, though they express mixed feelings about narrative complexity and emotional depth. They appreciate classic films and shows, indicating a preference for familiar and entertaining content."
+}

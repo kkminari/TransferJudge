@@ -1,0 +1,77 @@
+{
+  "user_id": "AGADQWBDVYHX4BLJ326QQSVAHXXA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, comedy, sci-fi, fantasy",
+      "evidence": [
+        "\"quirky horror comedy that is a interesting take on aging and the tretment of the elderly.\"",
+        "\"very dark satirical take on the superhero genre.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"somewhat incoherent when the plot is concerned.\"",
+        "\"has some cool stories including some i watched for the first time like Kinda.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"fun movie but is somewhat incoherent when the plot is concerned.\"",
+        "\"fantastic transfer of the dvd, with some interesting extras too.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"fantastic transfer of the dvd, with some interesting extras too.\"",
+        "\"very dark satirical take on the superhero genre. also somewhat darkly humorous at times.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Ultraman series",
+      "evidence": [
+        "\"second favorite Ultraman series, right under Nexus.\"",
+        "\"awesome Ultraman series. neat story and some awesome kaiju battles.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"some nice practical effects as well\"",
+        "\"has some of the coolest kaiju fights period.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Fantastic movie. eerie and disturbing.\"",
+        "\"brought tears, stayed with me.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys quirky horror comedies and has a strong preference for the Ultraman series, indicating a fondness for sci-fi and fantasy elements. They appreciate high production quality and emotional resonance in their viewing experiences."
+}

@@ -1,0 +1,74 @@
+{
+  "user_id": "AH2MEKWQNIW464F4HU6MUACV7PUA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "disliked genres: drama, action",
+      "evidence": [
+        "\"This is a real groaner...definitely not for mature and discriminating viewers.\"",
+        "\"Too much killing to be a bed-time story, but too damned juvenile for adults.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It just couldn't seem to decide on a coherent story to tell.\"",
+        "\"There is nothing in this movie to distinguish it from a few hundred others with the same plot.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I watched about half of it hoping something might happen to make me give a damn. It didn't.\"",
+        "\"Very difficult to give a damn about a symbol while so many millions were dying.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The first thing you'll notice is the incredibly bad casting.\"",
+        "\"Third rate acting, and really cheesy special effects.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "low",
+      "evidence": [
+        "\"The sound on some episodes was terrible.\"",
+        "\"I would certainly not recommend this show to anyone.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I had forgotten I had seen it.\"",
+        "\"There just wasn't anything about this movie that I wish to remember.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong aversion to poorly executed dramas and action films, often criticizing bad casting and lack of coherent storytelling. They prefer high production quality but express dissatisfaction with emotional engagement and narrative complexity, indicating a preference for more straightforward content."
+}

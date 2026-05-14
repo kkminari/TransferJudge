@@ -1,0 +1,74 @@
+{
+  "user_id": "AFWPHVWM663UMSEIDATTZZVFWCIQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, opera, historical, political",
+      "evidence": [
+        "\"A chilling reminder of mid-20th century Eastern Europe, with it's ruthless twisted violence of battling ideologies\"",
+        "\"A touching and beautifully sung Boheme\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Chilling and well produced, seems to be a real, and almost sympathetic, exploration of what makes President Obama tick\"",
+        "\"A determined martyr vs a reluctant court\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"A chilling reminder of mid-20th century Eastern Europe, with it's ruthless twisted violence of battling ideologies\"",
+        "\"A romantic-comic-adventure, not to be missed\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great production\"",
+        "\"A delightful classic, and a good quality DVD\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Lovely, and beautifully sung, video of the opera, brings the characters to life\"",
+        "\"Wonderful productions of these once-obscure operas\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A chilling reminder of mid-20th century Eastern Europe, with it's ruthless twisted violence of battling ideologies\"",
+        "\"What a wonderful operatic era is ours!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for complex narratives, particularly in the genres of drama and opera, appreciating high production quality and emotional depth. They enjoy stories that evoke strong feelings and have a historical or political context, though they show little loyalty to specific creators."
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": "AEEV6RLOO6QOMOZ7D2TVGVPKCIOQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, psychological, comedy",
+      "evidence": [
+        "\"The best version of 50 Shades of Gray...it is psychological and more fetish on a psychological bond of the Dom/Sub.\"",
+        "\"Great movie. Very touching and you hate and love the characters though the whole movie...also funny!\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"I wish they would have went into the 3rd secret...sound will transform or murder a person.\"",
+        "\"Meh, it was ok. It wasn't Gone Girl...but I could relate to the character because she was having to get something going at such a late stage in life.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Really good. Sad but close to reality.\"",
+        "\"I have 'served' the wealthy and it is funny because what they want they can't have.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Beautiful. Really an interesting way of life back in those days...beautifully shot. A work of art.\"",
+        "\"Good movie! Not sure how true to life it is but I watch it all the time.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Woody never disappoints with his whole neuroticism playing out.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"sound will transform or murder a person.\"",
+        "\"Beautifully shot. A work of art.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Very inspiring and Woody never disappoints...I think this is one of my favorite movies now.\"",
+        "\"Great movie. Very touching and you hate and love the characters though the whole movie...also funny!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys drama and psychological narratives with a strong emotional impact, often appreciating high production quality. They have mixed feelings about narrative complexity and pacing, indicating a preference for engaging stories that evoke deep feelings."
+}

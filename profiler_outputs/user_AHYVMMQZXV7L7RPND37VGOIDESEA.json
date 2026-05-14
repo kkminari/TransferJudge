@@ -1,0 +1,77 @@
+{
+  "user_id": "AHYVMMQZXV7L7RPND37VGOIDESEA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, thriller, comedy, cult films",
+      "evidence": [
+        "\"Creepy old school horror with Golden Age legend Fred Astaire!\"",
+        "\"A classic slasher with a splash of murder mystery thrown in.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"If you want a movie with such a simple plot that you only need 47 brain cells to follow it...\"",
+        "\"Started off cool, but it began to drag after the 45 minute mark.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"An edge of your seat thrill ride!\"",
+        "\"A Morbidly Fun Flick!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Poorly directed, poorly acted, and poorly written. However, the directors heart was in the right place; so I wouldn't call it terrible.\"",
+        "\"Okay Alien rip off. Only worth watching for Demi Moore's youthful role.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I've been a die hard KotH fan since it's premier when I was a high school senior!\"",
+        "\"Nicholas Cages best film to date!\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Great movie, great special features!\"",
+        "\"The only true sequel to the 70's horror classic!\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"This film pushed the envelope in the early 1970's in terms of gore!\"",
+        "\"While there are many episodes beyond season 11 that were noteworthy...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys horror, thriller, and cult films with a preference for simple narratives and fast pacing. They show low sensitivity to production quality and have mixed feelings about brand loyalty, indicating a focus on entertainment over emotional depth."
+}

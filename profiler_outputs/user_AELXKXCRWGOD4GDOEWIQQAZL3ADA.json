@@ -1,0 +1,77 @@
+{
+  "user_id": "AELXKXCRWGOD4GDOEWIQQAZL3ADA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family",
+      "evidence": [
+        "\"Funny spoof film. I like movies that make me laugh.\"",
+        "\"Great movie for the whole family.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I enjoyed this heart funny and heart warming movie.\"",
+        "\"Make you wish our candidates were as classy as Michael Douglas plays in this movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Action packed and entertaining.\"",
+        "\"This movie always moves my heart.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I would recommend this movie to a friend.\"",
+        "\"Husband loves this movie\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Cary Grant, Ian McKellen, Emma Thompson",
+      "evidence": [
+        "\"I love Cary Grant!\"",
+        "\"Ian McKellen is a wonderful Sherlock Holmes.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"This movie always moves my heart.\"",
+        "\"It is a feel good movie with a happy ending.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie always moves my heart.\"",
+        "\"It would make a great gift.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedy and family-oriented films, often enjoying light-hearted and feel-good narratives. They appreciate emotional resonance and tend to favor simple storytelling with fast pacing, while showing some loyalty to specific actors."
+}

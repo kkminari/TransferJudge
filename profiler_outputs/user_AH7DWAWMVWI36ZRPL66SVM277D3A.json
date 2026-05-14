@@ -1,0 +1,77 @@
+{
+  "user_id": "AH7DWAWMVWI36ZRPL66SVM277D3A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, family, classic",
+      "evidence": [
+        "\"We love all the old patriotic Abbott and Costello movies.\"",
+        "\"The antics of Abbott and Costello are amusing any time I want a light comedy to lift my spirits.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Sometimes the story lines don't even make sense...but I love em.\"",
+        "\"Just a great classic film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I play them as white noise to go to sleep by.\"",
+        "\"A very young Gilligans Island cast member...........can you find him/her?\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I love the series and the DVDs aren't worth the money.\"",
+        "\"They don't make em like this anymore.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Abbott and Costello, John Wayne, Disney",
+      "evidence": [
+        "\"ONE OF MY TOP 3 Abbott and Castello movies.\"",
+        "\"Another great John Wayne movie\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I have these to enter my happy place.\"",
+        "\"The antics of Abbott and Costello are amusing any time I want a light comedy to lift my spirits.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"No matter what is going on in this crazy world, I have these to enter my happy place.\"",
+        "\"A must watch. Another good movie to watch is frankensteer\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic comedies, particularly those featuring Abbott and Costello. They enjoy simple narratives with a slow pacing, often using these films for comfort and emotional resonance."
+}

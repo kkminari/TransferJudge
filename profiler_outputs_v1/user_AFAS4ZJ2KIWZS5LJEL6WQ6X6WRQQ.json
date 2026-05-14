@@ -1,0 +1,77 @@
+{
+  "user_id": "AFAS4ZJ2KIWZS5LJEL6WQ6X6WRQQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "British crime drama, comedy, mystery",
+      "evidence": [
+        "Excellent British Crime Drama. Engrossing stories.",
+        "What a Great British Comedy. Love It."
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "These are Grittty & Gripping Crime Dramas in the way only the British can convey.",
+        "This is a Fun collection of episodes."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "FAST Delivery. Very Pleased with ALL Aspects of Transaction.",
+        "These are some of the Best of the Best of Tom Barnaby's cases."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Please DO NOT take this as dissatisfaction with the Seller, who was and always is Top Shelf.",
+        "The sound was Very Poor. Could Not get enough clear volume."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I'm a Fan of all things British when it comes to Movie & TV.",
+        "I have a Little Crush on Stephanie."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "Of course, I am ALWAYS So Stunned by the Scenery, Houses and Automobiles.",
+        "Great views of Ireland from the early 1900's."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "It's a Unique and Entertaining series. LOVED the Reunion !!",
+        "These are so good, I can watch them twice in the same week."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for British crime dramas and comedies, enjoying engaging stories with fast pacing. They appreciate visual spectacle and emotional resonance in their viewing experiences, while showing less concern for production quality."
+}

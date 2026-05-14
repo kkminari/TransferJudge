@@ -1,0 +1,77 @@
+{
+  "user_id": "AE6TRENDFP27SG2DH3QLXHOEZCBQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action, drama",
+      "evidence": [
+        "\"From good Sci-fi to too much sex... the series was good and now it's not...\"",
+        "\"suspense, drama, action and humor with a successive plot.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"the shows that are real good... this one of them!\"",
+        "\"Excellent actress, show is very good but can be a bit confusing...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Action packed with suspense!\"",
+        "\"exciting show with great plot twits.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the actors, staging and story-line were excellent!\"",
+        "\"A well done show with a great story line...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Just a great show!\"",
+        "\"Worth the watch!\""
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"Awesome series all around!\"",
+        "\"Great movie and great conclusion.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"A very compelling and riveting show! We really enjoy it!\"",
+        "\"Solid show with great characters and story lines.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action-packed and suspenseful shows, often with high production quality. They appreciate compelling narratives and strong character development, although they have mixed feelings about certain sci-fi elements. Overall, they seek engaging and entertaining content that resonates emotionally."
+}

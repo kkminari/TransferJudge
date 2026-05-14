@@ -1,0 +1,77 @@
+{
+  "user_id": "AH5ZGRLMORENBUP4XGAUA3LWZXYA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Too much cursing",
+        "good movie hard to watch due to brutality"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Good plot but too much cursing.",
+        "Good movie hard to watch due to brutality"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "good movie - a little too much silly humor for my taste though",
+        "Good movie hard to watch due to brutality"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "Alright movie",
+        "Good music. OK plot"
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Very good movie",
+        "Excellent movie"
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "A bit sad",
+        "Good movie hard to watch due to brutality"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "A bit sad",
+        "Good movie hard to watch due to brutality"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a mixed taste in movies, enjoying good plots but expressing dissatisfaction with excessive cursing and brutality. They seem to prefer straightforward narratives and are less concerned with production quality, indicating a focus on entertainment value."
+}

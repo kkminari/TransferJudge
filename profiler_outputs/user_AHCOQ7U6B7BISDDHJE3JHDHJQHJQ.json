@@ -1,0 +1,77 @@
+{
+  "user_id": "AHCOQ7U6B7BISDDHJE3JHDHJQHJQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "fantasy, adventure, family, romance",
+      "evidence": [
+        "\"I found out from the movie that this was based off of a comic book which I did not know about.\"",
+        "\"I think it helps you to understand those times more. It has adventure, romance, drama, suspense, and comedy.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It is very good with the adventure and the humor thrown in.\"",
+        "\"I think they do a pretty good job at trying to keep as close to the book as possible.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I think they do a pretty good job at trying to keep as close to the book as possible.\"",
+        "\"It wasn't too bad, better than what I thought it would be.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Very good quality picture.\"",
+        "\"The cast were done perfectly. I couldn't imagine any other actors doing it.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Nicolas Cage, Robert Downey Jr., Colin Firth, Jane Austen",
+      "evidence": [
+        "\"I have always been a fan of Dwayne Johnson.\"",
+        "\"I like the movie just because of Robert Downey Jr.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I think it helps you to understand those times more.\"",
+        "\"It was really neat.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I love this movie! All the actors are just wonderful...\"",
+        "\"I would recommend this movie to anyone who loves Jane Austen or loves romance movies.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a variety of genres, particularly fantasy, adventure, and romance, often appreciating family-friendly content. They value high production quality and have a strong emotional connection to the films they watch, frequently expressing loyalty to specific actors and creators."
+}

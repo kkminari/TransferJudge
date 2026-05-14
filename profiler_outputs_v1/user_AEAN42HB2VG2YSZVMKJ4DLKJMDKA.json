@@ -1,0 +1,89 @@
+{
+  "user_id": "AEAN42HB2VG2YSZVMKJ4DLKJMDKA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, B-movie, documentary",
+      "evidence": [
+        "\"Hilarious and awesome. This movie is a barrel full of laughs.\"",
+        "\"But I will keep an eye out for a higher quality version in the future.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The plot is okay, but it's a trite rehash of films before and only has a few unique elements...\"",
+        "\"While it is intermittently hilarious, there are many scenes that just drag on for a long time...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"While it is intermittently hilarious, there are many scenes that just drag on for a long time...\"",
+        "\"They spend a little too much time on a lot of things, and then rush through some very interesting things.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"I'm very impressed with the image quality of the disc.\"",
+        "\"The scenery and filming was gorgeous.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love you guys, but maybe you need to hire fewer yes-men.\"",
+        "\"I thought 1979's 'Coma' was more original...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual quality",
+      "evidence": [
+        "\"The cinematography is great.\"",
+        "\"The pace was good, the cinematography phenomenal, and the subject very intriguing.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I cannot recommend this movie at all to anyone.\"",
+        "\"It was done in a way that she empathized with and could understand...\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [
+    {
+      "name": "dislike_for_boring_content",
+      "value": "high",
+      "evidence": [
+        "\"I was bored.\"",
+        "\"It felt like something my High School student body would have filmed for an assembly skit 20 years ago.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    }
+  ],
+  "summary": "The user enjoys comedies and B-movies, showing a preference for visual quality and production standards. They tend to favor simple narratives but express frustration with slow pacing and boring content, indicating a desire for engaging and entertaining experiences."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AHJL2T4A2ENOOQ3MJPOOTQL2HGJQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, action",
+      "evidence": [
+        "I loved it....sooo romantic!",
+        "I love anything Jason Statham is in.....this was no exception!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "Seemingly unrelated story lines that interweave and finally conclude in an ah ha moment!",
+        "Predictable story line...but not till about halfway in!"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "I found the story line was dragged out and tedious.",
+        "I loved this, watched it straight through and can't wait for a new one!"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "Poor sound quality, quite violent.",
+        "The acting was really good (Sarah was wonderful) and knowing the hold drugs have on people in the now....this was timely and realistic!"
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high",
+      "evidence": [
+        "Billy Bob Thornton is absolutely superb",
+        "I love anything Jason Statham is in.....this was no exception!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Very touching and very well done.",
+        "This was a new and enlightening perspective."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Hit home with me as an aging female.",
+        "This movie was very sad and also quite depressing."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama, romance, and action genres, with a strong preference for engaging narratives and emotional depth. They show loyalty to specific actors and appreciate quality performances, though they have mixed feelings about pacing and narrative complexity."
+}

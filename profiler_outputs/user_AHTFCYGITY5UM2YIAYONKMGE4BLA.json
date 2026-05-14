@@ -1,0 +1,77 @@
+{
+  "user_id": "AHTFCYGITY5UM2YIAYONKMGE4BLA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animation, family, action",
+      "evidence": [
+        "\"It's so much better than Frozen because it has better music and a coherent plot.\"",
+        "\"DC Animated movies are hit or miss this is a hit.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It moves a bit on the slow side but it needs to.\"",
+        "\"There are better Marvel movies out there.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It moves a bit on the slow side but it needs to.\"",
+        "\"For some reason I enjoyed this show better when I was 10 years old. It does not age well.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The Blu-Ray/DVDs are well done and matches the Japanese show as totally uncut and other cool stuff people go nuts over.\"",
+        "\"Awesome collection that includes the original version of the series and remastered effects.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"DC Animated movies are hit or miss this is a hit.\"",
+        "\"It's so much better than Frozen because it has better music and a coherent plot.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"It moves a bit on the slow side but it needs to.\"",
+        "\"This movie is seriously underrated. It's right up there with the Disney Renaissance films...\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I only bought this movie because my friend and actor Fernando Rosas was an extra in the final scene...\"",
+        "\"The text on the back of the DVD box is the most exciting thing about this film.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for animated and family-friendly films, often valuing production quality. They tend to favor slower-paced narratives but express mixed feelings about emotional engagement, indicating a focus on entertainment rather than deep emotional impact."
+}

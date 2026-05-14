@@ -1,0 +1,77 @@
+{
+  "user_id": "AEAWAXXDJHHRCZVULVBMHAKMTULQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "horror, sci-fi, drama",
+      "evidence": [
+        "\"a MUST for HORROR Fans.\"",
+        "\"I'm all about a scary movie. This qualifies as an interesting sci-if flick.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Great drama, funny and entertaining.\"",
+        "\"Good series, do you doubt HBO??\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Slightly less scary than the original, but the original is my favorite horror movie; and it is definitely better (100%) than Annabel.\"",
+        "\"I wish they could update it or start all over. It was great while it lasted on HBO.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "\"I love all of the Universe seasons. I use them to sleep at night to manipulate my dreams.\"",
+        "\"We never get enough history on WWI.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "HBO",
+      "evidence": [
+        "\"Good series, do you doubt HBO??\"",
+        "\"It was great while it lasted on HBO.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"I love fantasizing about the newest discoveries (and most up-to-date).\"",
+        "\"I use them to sleep at night to manipulate my dreams.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"One of the best movies ever.\"",
+        "\"It still brings joy to my heart.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for horror and sci-fi genres, often enjoying simple narratives that evoke emotional responses. They show loyalty to HBO productions and appreciate sensory experiences that enhance their viewing enjoyment."
+}

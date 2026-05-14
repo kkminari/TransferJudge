@@ -1,0 +1,77 @@
+{
+  "user_id": "AGVSR4LS5CEURVALC5L6NNOWMJSQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, western, action",
+      "evidence": [
+        "\"DORIS DAY WAS INCAPABLE OF GIVING A BAD PERFORMANCE... ONE OF HER BEST DRAMATIC OUTING\"",
+        "\"THIS IS A FAST MOVING WESTERN AND ONE OF THE BEST FROM THE 1950'S\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"TRUE, THE STORY IS NOT A MASTERPIECE OF WRITING, BUT THIS MOVIE DELIVERS IN ACTION AND DRAMA\"",
+        "\"THE STORY WAS ORIGINALLY WRITTEN FOR BOGART AND BACALL, BUT YOU COULD NOT GET BETTER THAN HAYWARD AND DOUGLAS\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"THIS IS A FAST MOVING WESTERN AND ONE OF THE BEST FROM THE 1950'S\"",
+        "\"GREAT ACTION STORY... GOOD STORY AND ACTING TO MATCH\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"THE ENTIRE PRODUCTION IS GREAT... YOU COULD FEEL THE TENSION BETWEEN THE TWO IN THERE SCENES TOGETHER\"",
+        "\"I CAN'T IMAGINE A BETTER PRODUCTION OF THIS MASTERPIECE\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Doris Day, Marilyn Monroe, Charlton Heston",
+      "evidence": [
+        "\"DORIS DAY WAS INCAPABLE OF GIVING A BAD PERFORMANCE\"",
+        "\"THIS HAS GOT TO BE ONE OF CHARLETON HESTONS FINEST PERFORMANCES\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, strong performances",
+      "evidence": [
+        "\"THIS FILM HAS THE ACTION AND ATMOSPHERE OF A GREAT BOOK\"",
+        "\"HER PERFORMANCE RINGS SO VERY TRUE... YOU BELIEVE THAT SHE IS PHILOMENA\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"YOU BELIEVE THAT SHE IS PHILOMENA FROM THE VERY FIRST SCENE\"",
+        "\"I HAVE VIEWED IT MANY TIMES OVER THE YEARS AND ENJOY IT EVERYTIME\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic drama and western films, particularly those featuring iconic actors like Doris Day and Charlton Heston. They appreciate high production quality and fast-paced storytelling, often valuing strong performances that evoke emotional resonance."
+}

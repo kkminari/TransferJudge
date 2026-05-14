@@ -1,0 +1,77 @@
+{
+  "user_id": "AGVSR4LS5CEURVALC5L6NNOWMJSQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "western, drama, adventure",
+      "evidence": [
+        "THIS IS A FAST MOVING WESTERN AND ONE OF THE BEST FROM THE 1950'S.",
+        "THIS MOVIE DELIVERS IN ACTION AND DRAMA."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "TRUE, THE STORY IS NOT A MASTERPIECE OF WRITING, BUT THIS MOVIE DELIVERS IN ACTION AND DRAMA.",
+        "THE STORY IS ADMITTINGLY SMALL."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "THIS IS A FAST MOVING WESTERN AND ONE OF THE BEST FROM THE 1950'S.",
+        "THIS FILM HAS THE ACTION AND ATMOSPHERE OF A GREAT BOOK."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "THE ENTIRE PRODUCTION IS GREAT.",
+        "THE CAST IS PERFECT."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "high loyalty to classic actors",
+      "evidence": [
+        "MITCHUM COULD DO NO WRONG AND MONROE IS UNDERATED.",
+        "HUGH JACKMAN CANNOT DO WRONG."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific sensory",
+      "evidence": [
+        "THE SETS ARE SPLENDED AND YOU HAVE THE FEELING THAT YOU ARE THERE WHEN IT ALL BEGAN.",
+        "THIS FILM HAS THE ACTION AND ATMOSPHERE OF A GREAT BOOK."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I HAVE WATCHED THIS MOVIE WITH MEMBERS OF MY FAMILY MANY, MANY TIMES AND WE JUST LOVE IT.",
+        "THIS IS ONE OF THE FINEST FILMS EVER MADE."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for classic westerns and dramas, appreciating fast-paced narratives with high production quality. They exhibit loyalty to iconic actors and value emotional resonance in their viewing experiences."
+}

@@ -1,0 +1,73 @@
+{
+  "user_id": "AGAM2VCGENO4L6R2G4KDBYOKLYOA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, family",
+      "evidence": [
+        "'Action? Plenty of it!!!'",
+        "'Action, more action, then action. Fit for family viewing.'"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "'Frustratingly predictable.'"
+      ],
+      "confidence": 0.6,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "'Fun from the very first scene, all the way to the ending.'",
+        "'Action, more action, then action.'"
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "'Stellar performances by the leading cast.'",
+        "'Artistic presentation of the martial arts.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "'I'm a fan of Rachel McAdams, and she brings this script to life.'"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "'Artistic presentation of the martial arts.'"
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "'What an inspiring movie . . . not just the film itself, but the making of and behind the scenes story of the story.'"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and family-oriented films, enjoying fast-paced narratives with high production quality. They appreciate emotional resonance in storytelling, though they show some sensitivity to narrative predictability."
+}

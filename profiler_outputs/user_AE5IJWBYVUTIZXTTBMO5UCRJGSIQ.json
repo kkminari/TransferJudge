@@ -1,0 +1,77 @@
+{
+  "user_id": "AE5IJWBYVUTIZXTTBMO5UCRJGSIQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, romance, musical",
+      "evidence": [
+        "\"It's a beautiful story in a beautiful setting... uplifting, and the perfect film for a rainy day...\"",
+        "\"What a wonderful musical. So gorgeous to look at... humor, beauty, storyline, and wonderful Cole Porter music.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"It's much more simple, but much more beautiful.\"",
+        "\"...the plot's a little iffy... for the most part it's a nice way to spend time.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"...the pace is steady.\"",
+        "\"...the storyline, humor, a great supporting crew, and visual beauty.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"...the quality of this vintage Republic film wasn't perfect, but it's well worth watching.\"",
+        "\"...the sets are top-notch.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I love John Payne as the Everyman...\"",
+        "\"...the players were excellent, the location stunning.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"...the colors are so vibrant, the music throughout is wonderful...\"",
+        "\"...the lighting is Siodmak genius, very atmospheric.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"...the sadness of father and son, as if dear dad were going off to the Front somewhere.\"",
+        "\"...I ended up totally admiring her tenacity.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys classic films with a strong emphasis on drama, romance, and musical elements. They appreciate high production quality and emotional depth, favoring simple narratives with steady pacing. Their reviews reflect a fondness for vibrant visuals and atmospheric storytelling."
+}

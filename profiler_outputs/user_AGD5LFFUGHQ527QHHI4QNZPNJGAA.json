@@ -1,0 +1,77 @@
+{
+  "user_id": "AGD5LFFUGHQ527QHHI4QNZPNJGAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, thriller, comedy, drama",
+      "evidence": [
+        "I have been dying for a decent sci fi thriller and I love the stalker genre.",
+        "Freaking hilarious! Me and the fams just watched this again in 2021 and it is freaking hilarious!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "the plot was implausible, the character development was so predictable, the storyline was horrible",
+        "Good until the incredibly predictable ending!"
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "this series is so good! Couldn't wait for Prime to post it - worth every penny! Rarely do you get a tv show where every character is interesting! Well written, perfectly cast, fast paced and just soapy enough!",
+        "the last 30 minutes are so intense I kept jumping off my chaise annoying the crap out of my husband - really good!"
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "I really should have cared about the reviews.",
+        "the writing, the story - its implausibility, the pacing, ugh - it was like scratching a chalkboard."
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I love everything about this movie and I love just about everything from Tennessee Williams - perfection!",
+        "I really love the angle of the story and how they purposely left the 'Hollywood' out of it."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "the views are stunning and the jazz is really nice.",
+        "Beautiful at tragic - well worth the watch."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "This was far more touching than I ever thought it would be - although it moved slow in some parts, it was well worth the wait.",
+        "I have to know what happens next - I liked the chemistry of the players, the plot and storyline."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of comedy, sci-fi, and thriller genres, with a preference for fast-paced narratives. They value emotional resonance and sensory experiences but show less concern for production quality and brand loyalty."
+}

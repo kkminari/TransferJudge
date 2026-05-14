@@ -1,0 +1,77 @@
+{
+  "user_id": "AGYSPOXJ452M66MRXCTPLBMJEXVQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, drama",
+      "evidence": [
+        "\"Thought provoking, dramatic sci-fi ....... was literally in shock after I finished it.\"",
+        "\"Love these type of thought provoking movies, it has taken me a couple viewings to really figure out what is going on here.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"Love these type of thought provoking movies, it has taken me a couple viewings to really figure out what is going on here.\"",
+        "\"This collection has everything in it you could want; sad episodes, happy ones, bittersweet melodrama, lustfull revenge, and even wtf moments.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"The movie starts out really slow … I honestly was about to stop watching it, but I figured I would stay for Jason Mamoa.\"",
+        "\"The movie is very slow and boring, but it does have an excellant portrayl of ones journey to find their sexuality ....\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"There was so much suspense going on here, I was literally on the edge of my seat the whole movie, rooting (or un-rooting) for the chacters.\"",
+        "\"Amazing collection of short films! My favorites were 1, 2, 3, 4, 7 and 9.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Pixar",
+      "evidence": [
+        "\"Anything by Pixar is ingenious!!\"",
+        "\"Anything by Pixar is ingenious!!\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"I was literally on the edge of my seat the whole movie, rooting (or un-rooting) for the chacters.\"",
+        "\"This movie is really weird and out there. It does have some good political commentary sprinkled throughout.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"What an amazing ending.\"",
+        "\"It even made me think of my journey at times.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for thought-provoking and complex narratives, particularly in the sci-fi and drama genres. They appreciate high production quality and have a notable loyalty to Pixar, indicating a taste for visually engaging and emotionally resonant content."
+}

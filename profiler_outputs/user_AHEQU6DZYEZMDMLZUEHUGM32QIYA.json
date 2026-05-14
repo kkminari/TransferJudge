@@ -1,0 +1,74 @@
+{
+  "user_id": "AHEQU6DZYEZMDMLZUEHUGM32QIYA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, action, holiday",
+      "evidence": [
+        "always our Christmas eve choice it is a Christmas movie after all",
+        "the grand kids and grandma to loved this show we like these kind of endings"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "this story line kept me engaged through the entire pilot.",
+        "the story line was riveting cannot wait for the next season!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "this series was most excellent the graphics were stunning.",
+        "great series to bad its over"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the graphics were stunning",
+        "not reproduced well"
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "the graphics were stunning",
+        "super well done"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "this series is supurb",
+        "this story line kept me engaged through the entire pilot."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented and action-packed content, particularly during the holiday season. They appreciate high production quality and simple, engaging narratives that evoke strong emotional responses."
+}

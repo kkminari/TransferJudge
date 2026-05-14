@@ -1,0 +1,74 @@
+{
+  "user_id": "AHZEQIMROV5QJVV23M5USPP6PIAA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, historical, action",
+      "evidence": [
+        "\"Shows what it could be like living under Japanese and Nazi rule if we had lost WWII.\"",
+        "\"Very violent subject matter but somehow keeps your attention.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The writers and actors keep the tension high and you can't wait for another 'fix'.\"",
+        "\"As the story line progresses, you keep wanting more.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Edge of your seat viewing all the way.\"",
+        "\"Started slow but picked up steam with a lot of grizzly action.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"All the actors played their parts to a tee.\"",
+        "\"Great writing. Loved it! Not your usual TV fare.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Very disturbing and emotional subject matter.\"",
+        "\"Shows how the human spirit can endure extreme hardship and the strength of a mothers love for her child.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Hard to watch at times. Get a box of tissues and keep it close by.\"",
+        "\"The strength of a mothers love for her child.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for engaging dramas with complex narratives and fast pacing. They appreciate high production quality and emotional depth in storytelling, often resonating with themes of hardship and resilience."
+}

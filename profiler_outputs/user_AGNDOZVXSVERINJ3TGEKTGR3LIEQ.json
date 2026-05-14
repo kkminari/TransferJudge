@@ -1,0 +1,77 @@
+{
+  "user_id": "AGNDOZVXSVERINJ3TGEKTGR3LIEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, historical, animation",
+      "evidence": [
+        "\"I thoroughly enjoyed this movie that extolls the excesses and degradation of a Wall Street trader.\"",
+        "\"I love the normality of the man with the big yellow hat.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"The character amazes me and the story line is unpredictable.\"",
+        "\"Luther continues to capture my attention and the main character will keep you guessing about his next move.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"It was a bit slow and somewhat predictable, but a good storyline.\"",
+        "\"If you don't know what it's about, start with Season 1 and watch it from the beginning.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"This is Leonardo DiCaprio at one of his very best performances.\"",
+        "\"The program depicts a sharp-shooter's job from the perspective of the individual who has to shoot to kill.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I can't wait for season 4; I sincerely hope that BBC will grant us with more episodes of the machinations of Luther.\"",
+        "\"Watch it from the beginning and get caught up before the next season begins in America in January 2014.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I felt as if I were observing life during that period in real time.\"",
+        "\"I find myself cheering for all of the characters and the issues they are dealing with.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"It allowed me to feel compassion for its main character and understand what it means to experience discrimination from a non-racial perspective.\"",
+        "\"After watching a few episodes, I was totally and mentally involved with the program's characters.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama, comedy, and animation, with a strong preference for complex narratives and high production quality. They are emotionally engaged with the content, often feeling a deep connection to the characters and stories presented."
+}

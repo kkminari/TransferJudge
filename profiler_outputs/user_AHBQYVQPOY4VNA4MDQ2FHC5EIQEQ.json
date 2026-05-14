@@ -1,0 +1,77 @@
+{
+  "user_id": "AHBQYVQPOY4VNA4MDQ2FHC5EIQEQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, comedy, drama, sports",
+      "evidence": [
+        "If you like film noir I should add that it is filmed in black and white.",
+        "A sweet movie about the golden era of baseball."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "While the story line is a bit confusing at times I found this to be a fun movie.",
+        "Enjoyable movie but because of the amount of time allowed for filming it has a 'condensed' feel about it."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "A good rental for a dark and rainy night!!!",
+        "You'll see him cry, not because he is sick, but because he realizes he will lose the wife and children that he loves."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "the Blu-ray coversion is crystal clear and the colors are rich!",
+        "the sound on this movie is nothing short of terrific!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I still watch the 1951 version every Christmas Eve after Midnight Mass.",
+        "If you enjoyed the original Tron motion picture you will enjoy this as well."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "the scenery is breathtaking, and of course we all know the story.",
+        "this darkness adds to the atmosphere of the tale."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Poignant, sad, funny, dramatic, heartwarming, and riveting!",
+        "You'll see him cry, not because he is sick, but because he realizes he will lose the wife and children that he loves."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly films, particularly those with comedic and dramatic elements, often centered around sports or nostalgic themes. They appreciate high production quality and emotional depth, favoring stories that evoke strong feelings, while showing a preference for simpler narratives and slower pacing."
+}

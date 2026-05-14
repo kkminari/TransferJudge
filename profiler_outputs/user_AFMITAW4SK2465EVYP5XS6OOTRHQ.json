@@ -1,0 +1,77 @@
+{
+  "user_id": "AFMITAW4SK2465EVYP5XS6OOTRHQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, comedy",
+      "evidence": [
+        "\"Lots of action, lots of killing, lots of blood.\"",
+        "\"These are very funny satires and will make you laugh.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"If those things don't bother you this is a very entertaining film with some interesting twists.\"",
+        "\"The additional footage makes the story easier to follow.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Very entertaining movie.\"",
+        "\"It doesn't bog down and holds the interest very well.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The movie looks really great on blu-ray and there is some added footage which answers a couple of questions.\"",
+        "\"The picture quality and sound were both excellent.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "Tarantino, Ryan Reynolds",
+      "evidence": [
+        "\"Standard Tarantino. Lots of action and violence.\"",
+        "\"Ryan Reynolds has found his perfect part as this foul mouthed smart-ass killer.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Watching Selma Hayek dance with the clarity of blu-ray is a wonderful thing.\"",
+        "\"The movie looks really great on blu-ray.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"What's not to like?\"",
+        "\"If you grew up watching this, like I did, it will surely bring back some good memories.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for action and comedy genres, particularly enjoying films with fast pacing and high production quality. They show loyalty to creators like Tarantino and Ryan Reynolds, while their emotional engagement appears to be moderate, focusing more on entertainment value."
+}

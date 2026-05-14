@@ -1,0 +1,76 @@
+{
+  "user_id": "AEEVN24EKOLPI6OYLZZIBM6MR3FQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, sci-fi, caper",
+      "evidence": [
+        "\"A great caper movie!\"",
+        "\"this is probably my favorite romantic-comedy of all time\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"the plot is fairly entertaining, with crosses and double-crosses until the last reel\"",
+        "\"the plot of this film made no sense to me at all the first time I saw it\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"this is a fun blockbuster that won't really make you think too much\"",
+        "\"the only problem I had with the film... was that it turns out to be a 'real' movie, as opposed to an out-and-out comedy\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"the directing is top notch as well\"",
+        "\"the film is beautiful... Everything from the colors to the framing was spot-on\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Sean Connery is, of course, a classic. He makes bad movies good and good movies better.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"the film is beautiful\"",
+        "\"the new anamorphic transfer is flawless\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I felt giddy watching it, and you can tell the cast and crew felt the same making it\"",
+        "\"I was moved by Magnolia\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of comedy and drama, with a particular fondness for caper films. They appreciate high production quality and emotional resonance in movies, though their narrative complexity and pacing preferences are more mixed."
+}

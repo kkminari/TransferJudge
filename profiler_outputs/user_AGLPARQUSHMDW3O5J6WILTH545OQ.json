@@ -1,0 +1,77 @@
+{
+  "user_id": "AGLPARQUSHMDW3O5J6WILTH545OQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "children's educational shows",
+      "evidence": [
+        "\"Bubbles Guppies is such a great show... teaches children with a cute storyline and catchy songs.\"",
+        "\"Wild Kratts is such a great show for kids!! It's educational and funny...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Each episode focuses on a different topic and teaches children...\"",
+        "\"Great show for kids, highly recommend.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The songs are catchy and educational and the characters are funny and lovable.\"",
+        "\"Awesome show! My girls have loved it since the show first aired...\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"We like it so much we buy the season pass...\"",
+        "\"Awesome show, my kids LOVE it and have learned so much...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "high for specific children's shows",
+      "evidence": [
+        "\"We love Bubble Guppies and have since the show first came out.\"",
+        "\"My daughter is 5 and loves this show, and honestly, I like it too.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic sensory",
+      "evidence": [
+        "\"The characters are adorable!\"",
+        "\"If your child loves animals this show is the best...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"My daughters, 5 and 7, loved this movie...\"",
+        "\"You can't say anything bad about Curious George. Kids love him and so do I.\""
+      ],
+      "confidence": 1.0,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for children's educational shows that are simple and fast-paced. They value emotional engagement and have a high loyalty to specific shows that their children enjoy, indicating a focus on family-friendly content."
+}

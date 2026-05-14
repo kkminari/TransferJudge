@@ -1,0 +1,77 @@
+{
+  "user_id": "AE72HFUASJVDWEQCUSVYK6N5BT6Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "documentary, drama, comedy",
+      "evidence": [
+        "\"I usually don't like documentary style, but I really enjoyed this show.\"",
+        "\"Although I was expecting a pretty straight-forward goofy Tina Fey movie, this was an absolutely pleasant surprise.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "mixed",
+      "evidence": [
+        "\"The early seasons offered this in spades and it was a novel experience.\"",
+        "\"I found the story to be disturbing without payoff.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"Acting was good, but I just found the story to be disturbing without payoff.\"",
+        "\"I still think the first 4 seasons were better, but there are some real gems this time around.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The acting is good and the story is engaging.\"",
+        "\"I am very impressed with this season so far.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I've felt that the past few seasons of Futurama have relied too heavily on crude humor and not enough on clever science jokes.\"",
+        "\"I found 'Back to Earth' to be a little disappointing the first time I watched it.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"I enjoy learning about the nuance of this time period.\"",
+        "\"The characters were crazy and each had a slew of problems, but they were all likably genuine.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I wish it had a second season, the first (and only season was just disappointingly short.\"",
+        "\"I found the story to be disturbing without payoff.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of documentary and drama genres, appreciating strong acting and engaging stories. They have a high sensitivity to production quality and emotional resonance, while their preferences for narrative complexity and pacing are more mixed."
+}

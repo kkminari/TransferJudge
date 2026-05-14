@@ -1,0 +1,77 @@
+{
+  "user_id": "AFZ3YAVSYJIJMUGMD2XRRVHBI3HQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, science fiction, comedy",
+      "evidence": [
+        "I appreciate the characters being way more focused on just being kids...",
+        "This show gives us the much needed 'Adult TV' once we put our son to bed."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Its not that it takes a huge amount of education to appreciate it...",
+        "Overall, very age appropriate for age 7 to probably 12 or so..."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "The plot lines seem to move very quickly this season...",
+        "Its definitely a 'commitment'. Not something you can just off and on do for a little workout."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "the writing was so refreshing and you can see how so much of it worked at the time...",
+        "the acting was amazing for the age ranges involved..."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I loved the writing and the acting in this series.",
+        "We're 3/4 of the way through the series and have really enjoyed it."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Visually, it is just beautiful to watch...",
+        "the music was beautiful as always."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "medium",
+      "evidence": [
+        "I enjoyed it a lot. Fantastic acting.",
+        "This show is not for the light minded..."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly and science fiction genres, with a preference for fast-paced narratives. They appreciate quality writing and acting but show low brand loyalty, indicating a more general enjoyment of various shows rather than specific creators."
+}

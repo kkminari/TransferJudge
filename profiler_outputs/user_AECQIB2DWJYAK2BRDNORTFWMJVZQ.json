@@ -1,0 +1,77 @@
+{
+  "user_id": "AECQIB2DWJYAK2BRDNORTFWMJVZQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, comedy, western, action",
+      "evidence": [
+        "\"Great WWI drama and Kirk is in fine form\"",
+        "\"I thoroughly enjoyed this little movie - I never really thought about the probability of psychotic personalities wandering the western world of Clint Eastwood or John Wayne\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The ultimate 'the more you try to cover up something, the worse the situation gets' movie\"",
+        "\"It has action aplenty, with Willis doing his Diehard-like best to avoid deletion by the CIA\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"It has action aplenty, with Willis doing his Diehard-like best to avoid deletion by the CIA\"",
+        "\"Great action sequences, unbelievable graphical imaging, and dialogue that definitely holds your interest\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Great acting and good script bring this based on true story to life\"",
+        "\"Excellent camera work, interesting story that kept me involved to the end\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I was expecting more from Melvyn Douglas but he never hit his stride\"",
+        "\"The Directors Cut has a different opening and ending scenes, as well as some character changes and deletions\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"It is amazing what was done with rarely a stunt man substitute or mocked up sets- what you saw was usually what was actually there\"",
+        "\"with great action sequences, unbelievable graphical imaging, and dialogue that definitely holds your interest\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"the consequences of childhood issues erupting in the wrong place at the wrong time- very interesting psychological journey into the mind of unfettered rage\"",
+        "\"a lesson to stay true to your ethics and morals or suffer the consequences\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of drama, comedy, and action films, with a preference for fast-paced narratives and high production quality. They appreciate emotional depth and engaging storytelling, though they show little loyalty to specific creators."
+}

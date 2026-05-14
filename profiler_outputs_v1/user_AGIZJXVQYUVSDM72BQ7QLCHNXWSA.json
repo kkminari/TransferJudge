@@ -1,0 +1,77 @@
+{
+  "user_id": "AGIZJXVQYUVSDM72BQ7QLCHNXWSA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, '80 movies",
+      "evidence": [
+        "\"Awesome family program\"",
+        "\"My 17 year old daughter loves '80 movies\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"My 8 year old loves this movie\"",
+        "\"Awesome movie. One of the best WWE movies yet\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Adoringly cute\"",
+        "\"My four-year-old niece can't get enough of this movie.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"Not as good as the original but not bad. Anything with Randy Orton is always good\"",
+        "\"My mom loves it\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "brand_loyalty": {
+      "value": "Kevin Sorbo, Randy Orton",
+      "evidence": [
+        "\"My favorite Kevin Sorbo movie\"",
+        "\"Anything with Randy Orton is always good\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Awesome movie. One of the best WWE movies yet\"",
+        "\"Adoringly cute\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I am glad that I can pass down great movies from my generation to another generation.\"",
+        "\"My 8 year old loves this movie.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for family-friendly movies and '80s films, often enjoying simple narratives that appeal to younger audiences. They show loyalty to specific actors like Kevin Sorbo and Randy Orton, and value emotional connections in the content they consume."
+}

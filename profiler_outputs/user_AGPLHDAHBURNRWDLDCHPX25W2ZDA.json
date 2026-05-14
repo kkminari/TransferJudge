@@ -1,0 +1,77 @@
+{
+  "user_id": "AGPLHDAHBURNRWDLDCHPX25W2ZDA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "science fiction, supernatural, drama, comedy",
+      "evidence": [
+        "I just love the vampire genre.",
+        "I love it! The alternate reality idea is a great platform for a story."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Interesting story....",
+        "I really enjoyed it! Interesting but rather dark story...good character development both human and alien."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Stopped watching it...after 30 minutes. Too slow!",
+        "I really enjoyed the series. The story kept me on the edge of my seat."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "PBS does a wonderful job of giving realism to the sets and costumes.",
+        "I love this series and I can't wait to see the next season. Interesting story line and great acting!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I am looking forward to Season 3.",
+        "I wish they hadn't ended the series so soon."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Wonderful scenery, story and character development.",
+        "I love the Outlander series and the casting was perfect."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I loved it and want more.",
+        "I thoroughly enjoyed this series but it ended way too soon."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for science fiction and supernatural genres, particularly enjoying stories with engaging characters and interesting plots. They appreciate high production quality and emotional resonance in their viewing experiences, while showing mixed feelings towards pacing and narrative complexity."
+}

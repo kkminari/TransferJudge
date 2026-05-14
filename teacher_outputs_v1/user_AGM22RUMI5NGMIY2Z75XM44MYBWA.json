@@ -1,0 +1,161 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's enjoyment of inspirational and drama genres translates directly to a preference for similar themes in books. This suggests a strong inclination towards literary fiction that evokes emotional responses.",
+      "transferred_insight": "Prefer inspirational and dramatic novels that evoke strong emotions",
+      "confidence": 0.8
+    },
+    "narrative_complexity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for simple narratives indicates a tendency towards straightforward storytelling, but books can still have varying levels of complexity. Recommend accessible narratives that are not overly simplistic.",
+      "transferred_insight": "Prefer accessible narratives with moderate complexity",
+      "confidence": 0.6
+    },
+    "pacing_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The mixed pacing preference suggests that the user enjoys both engaging and slower-paced stories. This indicates a need for a balance in book recommendations, favoring those that maintain interest without dragging.",
+      "transferred_insight": "Prefer books with a balance of engaging and slower-paced narratives",
+      "confidence": 0.5
+    },
+    "quality_sensitivity": {
+      "decision": "PARTIAL",
+      "rationale": "The user shows medium quality sensitivity, indicating they appreciate well-crafted stories but may not be overly critical. This suggests a preference for books with good ratings but allows for some flexibility.",
+      "transferred_insight": "Prefer well-rated books but with some tolerance for lesser-known titles",
+      "confidence": 0.6
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "The user's low brand loyalty indicates that they do not have a strong attachment to specific authors or creators, making this pattern irrelevant for book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.2
+    },
+    "sensory_preference": {
+      "decision": "BLOCK",
+      "rationale": "High sensory preference related to film does not translate to books, as the sensory experience of reading is fundamentally different from watching a movie.",
+      "transferred_insight": null,
+      "confidence": 0.8
+    },
+    "emotional_resonance": {
+      "decision": "TRANSFER",
+      "rationale": "The user's high emotional resonance indicates a strong preference for stories that evoke deep feelings, which is a key quality in many impactful literary works.",
+      "transferred_insight": "Prefer emotionally resonant books that provoke deep feelings",
+      "confidence": 0.9
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "1633220885",
+      "title": "The Art of Painting Sea Life in Watercolor: Master techniques for painting spectacular sea animals in watercolor (Collector's Series)",
+      "score": 0.92,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book combines artistic inspiration with emotional engagement, appealing to the user's preference for inspirational content. The focus on creativity and beauty aligns with their desire for emotional resonance."
+    },
+    {
+      "rank": 2,
+      "item_id": "0123456789",
+      "title": "Shelley in Haiti: One woman's quest for orphan prevention through job creation",
+      "score": 0.88,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This memoir reflects themes of compassion and personal growth, resonating with the user's preference for inspirational narratives. The emotional journey of the author aligns well with their desire for impactful stories."
+    },
+    {
+      "rank": 3,
+      "item_id": "B11",
+      "title": "Saboteur: A Novel of Love and War",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "emotional_resonance"
+      ],
+      "reasoning": "This novel combines elements of love and war, providing a dramatic narrative that is likely to evoke strong emotions. The straightforward storytelling aligns with the user's preference for simple narratives."
+    },
+    {
+      "rank": 4,
+      "item_id": "B12",
+      "title": "Kingdom Come",
+      "score": 0.83,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This book's themes of personal struggle and redemption resonate with the user's preference for inspirational stories. The emotional depth is likely to engage the reader effectively."
+    },
+    {
+      "rank": 5,
+      "item_id": "B13",
+      "title": "What It Is Like to Go to War",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This nonfiction book explores the emotional and psychological impacts of war, aligning with the user's high emotional resonance preference. The narrative is likely to be both engaging and thought-provoking."
+    },
+    {
+      "rank": 6,
+      "item_id": "B14",
+      "title": "Finding the Next Steve Jobs: How to Find, Keep, and Nurture Talent",
+      "score": 0.78,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book offers insights into talent and innovation, which can be inspirational for readers. Its focus on personal and professional growth aligns with the user's interests."
+    },
+    {
+      "rank": 7,
+      "item_id": "B15",
+      "title": "In the Heart of the Highlander (A Ladies Unlaced Novel)",
+      "score": 0.75,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This novel features a straightforward romantic plot that may appeal to the user's preference for simple narratives while still providing emotional engagement."
+    },
+    {
+      "rank": 8,
+      "item_id": "B16",
+      "title": "Every Breath You Take: A True Story of Obsession, Revenge, and Murder",
+      "score": 0.73,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This true crime narrative explores deep emotional themes, which may resonate with the user's preference for impactful stories. The real-life aspect adds an additional layer of engagement."
+    },
+    {
+      "rank": 9,
+      "item_id": "B17",
+      "title": "The Great War in America: World War I and Its Aftermath",
+      "score": 0.7,
+      "applied_patterns": [
+        "genre_preference",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This historical account provides an inspirational look at resilience and change, aligning with the user's interest in dramatic narratives. Its high rating suggests quality content."
+    },
+    {
+      "rank": 10,
+      "item_id": "B18",
+      "title": "A True Man of God: A Biography of Father Ralph William Beiting, Founder of the Christian Appalachian Project",
+      "score": 0.68,
+      "applied_patterns": [
+        "genre_preference",
+        "emotional_resonance"
+      ],
+      "reasoning": "This biography highlights themes of compassion and service, which are likely to resonate with the user's preference for inspirational stories. The emotional journey of the subject aligns with their interests."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty and sensory preference were blocked due to their low relevance to book recommendations.",
+  "overall_strategy": "Focused on transferring genre preferences and emotional resonance while applying partial insights for narrative complexity and pacing. This approach ensures recommendations align with the user's core interests without overfitting to weak signals."
+}

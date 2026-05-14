@@ -1,0 +1,74 @@
+{
+  "user_id": "AEM5N6BEHVUOYOHUVFXGBXO362JA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, drama",
+      "evidence": [
+        "\"Cute chick flick\"",
+        "\"Great Feel Good Movie\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"OK - You know how it will end\"",
+        "\"Different and could figure out the ending\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Worst Movie - Watched to the end to see if it got better - It Did NOtg\"",
+        "\"Don't waste your time\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"the cast must have needed money\"",
+        "\"Big cast - needed $$$$\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium",
+      "evidence": [
+        "\"Beautiful scenery\"",
+        "\"Great Feel Good Movie\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Very disappointed\"",
+        "\"not worth watching\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "low"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a preference for romance and drama genres, particularly enjoying feel-good movies. However, they express disappointment in narrative complexity and pacing, indicating a preference for simpler, slower stories that may lack emotional depth."
+}

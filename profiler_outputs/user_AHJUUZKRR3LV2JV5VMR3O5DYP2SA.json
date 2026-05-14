@@ -1,0 +1,77 @@
+{
+  "user_id": "AHJUUZKRR3LV2JV5VMR3O5DYP2SA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "drama, war, romance",
+      "evidence": [
+        "An intriguing film dealing with lesbian love and relationships.",
+        "This was an exception portrayal of combat action in Vietnam."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Average story line mediocre acting.",
+        "good acting and story line......even with subtitles it kept you engaged."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "A little slow in parts but a strange freaky movie!",
+        "Well done film...well acted..vefry violent..true to the character portrayed!"
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Awesome writing, great acting, well done series I binged through it!",
+        "Great acting, great plot, good storyline, great soundtrack."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "Mel Gibson was great as were all the supporting actors.",
+        "Claude was cool even though he is much older."
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "A well done vision of what drone warfare is all about and the human toll is exerts on those involved and impacted by!",
+        "Great film, plot, actors"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Penelope does a amazing characterization of this woman.",
+        "A well done documentary about climate change and its effects on our oceans."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for drama and war genres, appreciating well-crafted narratives with high production quality. They value emotional depth and character portrayal, while their pacing preference is mixed, indicating a tolerance for both slow and fast narratives."
+}

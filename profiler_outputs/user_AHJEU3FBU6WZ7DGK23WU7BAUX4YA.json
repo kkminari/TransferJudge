@@ -1,0 +1,77 @@
+{
+  "user_id": "AHJEU3FBU6WZ7DGK23WU7BAUX4YA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, escapism",
+      "evidence": [
+        "\"Love this show.\"",
+        "\"Just like the characters and the escapism..\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"I prefer they developed the plot over all the action and special effects.\"",
+        "\"The storyline is too contrived at times but the characters could make up for that.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"I prefer they developed the plot over all the action and special effects.\"",
+        "\"No plot, no likeable characters, all action that is not balanced with anything else.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"I had forgotten I had already had the regular version.\"",
+        "\"Life is too short... a waste of my life.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"addicted to Dr. Pol and have no idea why.\"",
+        "\"I loved all the characters but...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"I instantly like and was engaged by the characters and feel the show is very well written.\"",
+        "\"I prefer they developed the plot over all the action and special effects.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I instantly like and was engaged by the characters...\"",
+        "\"Need my weekly fix.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys comedy and drama, often seeking escapism through engaging characters. They prefer slower-paced narratives with a focus on character development, although they express mixed feelings about production quality and brand loyalty."
+}

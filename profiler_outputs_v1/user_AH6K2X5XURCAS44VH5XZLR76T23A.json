@@ -1,0 +1,77 @@
+{
+  "user_id": "AH6K2X5XURCAS44VH5XZLR76T23A",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "romance, drama, musical",
+      "evidence": [
+        "\"romantic movies are wonderful without graphic sexual scenes.\"",
+        "\"I particularly like Anthony Andrews and Jane Seymour and was not disappointed by their presentation of The Scarlett Pimpernel.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"This is light hearted, simple, and entertaining.\"",
+        "\"Not Oscar worthy, but an extremely enjoyable old movie.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"It's clean fun and reinforces the notion that movies don't have to be filled with violence, gutter speech, or unnecessary sexual scenes to be enjoyable.\"",
+        "\"The theme song and music in this movie is first class.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Every actor performs up to the high standard we have come to expect out of this particular cast.\"",
+        "\"The actors in this movie present nothing less than top quality performances.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I especially miss Doris Day, Sinatra, and Barrymore.\"",
+        "\"I love Kevin Sorbo.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The music of Frank Sinatra and the ever exuberant Jimmy Durante.\"",
+        "\"Mario Lanza's voice is one of the most beautiful of all time.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"I developed a respect for the late King George VI.\"",
+        "\"It's a great representation of a truly kind, just, and merciful God and the people He loves.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for light-hearted romantic and dramatic films, often valuing high production quality and emotional resonance. They enjoy simple narratives and are particularly fond of classic actors and musical elements in movies."
+}

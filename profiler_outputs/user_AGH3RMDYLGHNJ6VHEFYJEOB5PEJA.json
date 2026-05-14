@@ -1,0 +1,77 @@
+{
+  "user_id": "AGH3RMDYLGHNJ6VHEFYJEOB5PEJA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "biography, drama, historical",
+      "evidence": [
+        "Great film. Captures the horror of Ted Bundy without buckets of gore. Very factual.",
+        "This is an excellent adaptation of Tarkington's book."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great film. Not as good as Fargo, but terrific acting and script.",
+        "charming story with a real lesson."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "Acting is stilted and lines bad. BBC used to rule in this area.",
+        "Great film. Better than Costner version."
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "Beautifully acted and costumed.",
+        "Sets are authentic. Actors do a great job."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I do get tired of all the T and A which takes away from an excellent performance by Julia Roberts and Albert Finney.",
+        "Thanks Murdoch!"
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Very intimate views of Dylan in concert which I have not seen at his ones.",
+        "Great film. Sets are authentic."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "This is my 2nd favorite Austen story because I too had to give up matchmaking.",
+        "Alice finally having to accept the fact that she will have to work for a living is so much more powerful."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user shows a strong preference for biographical and dramatic films with high production quality. They appreciate simple narratives that evoke emotional resonance, while their brand loyalty is low, indicating a focus on content over creators."
+}

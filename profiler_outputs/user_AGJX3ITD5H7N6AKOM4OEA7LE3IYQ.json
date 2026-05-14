@@ -1,0 +1,77 @@
+{
+  "user_id": "AGJX3ITD5H7N6AKOM4OEA7LE3IYQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, mystery, comedy",
+      "evidence": [
+        "I do enjoy sci fi so found myself being caught up after the first episode of the first season.",
+        "Such fun - a Harry Potter, Indiana Jones mystery with soap opera tendencies."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "I guessed (correctly) the plot while reading the reviews.",
+        "The writers rushed a threads of the story to complete the ending."
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "A little slow moving but still good.",
+        "Maybe the wait from week to week for a new episode dampened my enthusiasm for this show?"
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The cast is superb with interesting plots.",
+        "Great characters, great plot lines!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I am a fan of Christopher Lambert and of the Highlander series.",
+        "David Suchet is Poirot - and the supporting characters do not disappoint either."
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "The characters are people that you care about.",
+        "I soon discovered its charm!"
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Saying goodbye to favorite characters is usually hard, but this wrap-up eased that pain.",
+        "This show grabs your attention - and keeps it."
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys sci-fi and mystery genres, often appreciating character development and emotional engagement. They prefer slower-paced narratives with a focus on quality production, though they show some ambivalence towards complex plots and brand loyalty."
+}

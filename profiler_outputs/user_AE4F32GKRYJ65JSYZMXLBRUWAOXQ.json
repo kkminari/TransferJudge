@@ -1,0 +1,70 @@
+{
+  "user_id": "AE4F32GKRYJ65JSYZMXLBRUWAOXQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "musicals, action, monster movies",
+      "evidence": [
+        "I love all of the old musicals.",
+        "I love the old monster movies and this is all of them combined!"
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "Great show, lots of action and twisted endings"
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "A great show that is hard to stop watching.",
+        "I have binge watched it for two days and can't seem to stop watching it."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "The quality of the product was outstanding."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "Mesmerizing! You just can't stop watching."
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "I was so excited when I found it in Blu-ray. She was really surprised and happy when I gave it to her."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced, engaging shows, particularly in the genres of musicals and action. They value high production quality and have a strong emotional connection to the content they watch."
+}

@@ -1,0 +1,157 @@
+{
+  "transfer_decisions": {
+    "genre_preference": {
+      "decision": "TRANSFER",
+      "rationale": "The user's strong preference for crime and drama genres directly translates to a preference for similar themes in books. This suggests they will enjoy crime novels and dramatic narratives that reflect these genres.",
+      "transferred_insight": "Prefer crime and drama novels",
+      "confidence": 0.8
+    },
+    "narrative_complexity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's preference for simple narratives suggests they may enjoy straightforward plots in books, but there is room for some complexity as long as it doesn't overwhelm the story. This indicates a preference for accessible storytelling.",
+      "transferred_insight": "Prefer accessible narratives with moderate complexity",
+      "confidence": 0.6
+    },
+    "pacing_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The mixed pacing preference indicates that the user can enjoy both fast-paced and slower narratives, but there is no strong signal to favor one over the other. This allows for a variety of pacing in recommendations.",
+      "transferred_insight": "Open to various pacing styles in narratives",
+      "confidence": 0.4
+    },
+    "quality_sensitivity": {
+      "decision": "PARTIAL",
+      "rationale": "The user's low quality sensitivity suggests they are less concerned with high production values and more focused on the content itself. This means that while they may appreciate well-rated books, they are also open to lesser-known titles.",
+      "transferred_insight": "Moderate preference for content over production quality",
+      "confidence": 0.7
+    },
+    "brand_loyalty": {
+      "decision": "BLOCK",
+      "rationale": "Brand loyalty to Dick Wolf, a television producer, does not translate to the book domain as there is no direct author equivalent. This pattern is too specific to film and would not yield relevant book recommendations.",
+      "transferred_insight": null,
+      "confidence": 0.95
+    },
+    "sensory_preference": {
+      "decision": "PARTIAL",
+      "rationale": "The user's appreciation for atmospheric and realistic portrayals suggests they may enjoy books that evoke a strong sense of place or realism, but this is less critical than narrative content. It can inform the mood of the recommendations.",
+      "transferred_insight": "Prefer books with realistic and atmospheric settings",
+      "confidence": 0.7
+    },
+    "emotional_resonance": {
+      "decision": "PARTIAL",
+      "rationale": "The user's medium emotional resonance indicates they appreciate stories with some emotional depth but are not seeking overly heavy or dramatic narratives. This suggests a preference for books that balance emotional engagement with plot.",
+      "transferred_insight": "Prefer stories with moderate emotional depth",
+      "confidence": 0.5
+    }
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "1481276212",
+      "title": "The Kennedys: Blessed or Cursed?",
+      "score": 0.9,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book offers a dramatic exploration of the Kennedy family's history, aligning well with the user's interest in crime and drama. The narrative is straightforward, making it accessible while still engaging."
+    },
+    {
+      "rank": 2,
+      "item_id": "067187764X",
+      "title": "The Bavarian Gate",
+      "score": 0.85,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This science fiction novel incorporates elements of conspiracy and drama, appealing to the user's taste for crime and straightforward narratives. The plot's focus on conflict and resolution aligns with their preferences."
+    },
+    {
+      "rank": 3,
+      "item_id": "0061720135",
+      "title": "The Last Testament",
+      "score": 0.8,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "As a conspiracy thriller, this book fits the user's crime genre preference while maintaining a simple narrative structure. The suspenseful elements will likely resonate with their interests."
+    },
+    {
+      "rank": 4,
+      "item_id": "1408711257",
+      "title": "Department Of Sensitive Crimes EXPORT",
+      "score": 0.75,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity",
+        "sensory_preference"
+      ],
+      "reasoning": "This novel features a unique take on crime fiction with a blend of humor and drama, which may appeal to the user's taste for crime stories. The realistic portrayal of characters adds to its atmospheric quality."
+    },
+    {
+      "rank": 5,
+      "item_id": "1512342572",
+      "title": "From Author to Entrepreneur: What I Wish Someone Had Told Me",
+      "score": 0.7,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "While not a crime novel, this book offers insights into personal stories and struggles, which may resonate with the user's interest in realistic portrayals and sociological themes."
+    },
+    {
+      "rank": 6,
+      "item_id": "1939828678",
+      "title": "Fanatical at Liberty",
+      "score": 0.65,
+      "applied_patterns": [
+        "quality_sensitivity"
+      ],
+      "reasoning": "This book provides a narrative about business and personal growth, which may appeal to the user's interest in real-life stories and moderate emotional engagement."
+    },
+    {
+      "rank": 7,
+      "item_id": "1451692374",
+      "title": "It Happened at the Fair: A Novel",
+      "score": 0.6,
+      "applied_patterns": [
+        "emotional_resonance"
+      ],
+      "reasoning": "This historical novel includes themes of struggle and personal growth, which may resonate with the user's moderate emotional engagement preference."
+    },
+    {
+      "rank": 8,
+      "item_id": "0674988345",
+      "title": "What Remains: Bringing America’s Missing Home from the Vietnam War",
+      "score": 0.55,
+      "applied_patterns": [
+        "sensory_preference"
+      ],
+      "reasoning": "This book offers a realistic portrayal of the impact of war, aligning with the user's appreciation for atmospheric and realistic narratives."
+    },
+    {
+      "rank": 9,
+      "item_id": "X",
+      "title": "Chloe and the Lighthouse",
+      "score": 0.5,
+      "applied_patterns": [
+        "genre_preference",
+        "narrative_complexity"
+      ],
+      "reasoning": "This mystery novel features elements of suspense and drama, appealing to the user's crime genre preference while maintaining a straightforward narrative."
+    },
+    {
+      "rank": 10,
+      "item_id": "B000SEY26Q",
+      "title": "Careless Corpse a Mike Shayne Mystery",
+      "score": 0.45,
+      "applied_patterns": [
+        "genre_preference"
+      ],
+      "reasoning": "As a classic mystery, this book fits the user's crime genre preference and offers a straightforward narrative that aligns with their tastes."
+    }
+  ],
+  "blocked_patterns_summary": "Brand loyalty to Dick Wolf was blocked due to its specificity to film, and sensory preferences were partially applied as they are less critical than narrative content.",
+  "overall_strategy": "Focused on the user's strong genre preferences for crime and drama while applying partial insights from narrative complexity and emotional resonance. Recommendations prioritize accessible narratives with engaging plots."
+}

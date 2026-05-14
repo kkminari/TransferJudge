@@ -1,0 +1,77 @@
+{
+  "user_id": "AHSTKM4R3N3AXU4F6FUBCEWFZ4PQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family-friendly, comedy, drama",
+      "evidence": [
+        "\"Family friendly show. Have re watched all the way through several times.\"",
+        "\"Family friendly, good values.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Plot is fine and follow able for children yet deep and thoughtful enough for adults.\"",
+        "\"Feels very very rushed, especially at the end almost as if it was meant to be a longer series.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "\"A bit too predictable in places. Feels very very rushed, especially at the end...\"",
+        "\"Not as smart as the others. Could have been much better.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Acting is wonderful and Maggie smith is fantastic as always.\"",
+        "\"Quality, color and aesthetic look very much like the episodes 1-3 Star Wars prequels but not in the bad ways.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Loved the show and actually really didn't like this episode.\"",
+        "\"Not the best follow through or execution overall but not a waste of time either.\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle",
+      "evidence": [
+        "\"Visually stunning and well acted.\"",
+        "\"Excellent show and visually stunning.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Always makes you feel good.\"",
+        "\"Gives fans everything they need in this episode.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly films and shows with strong visual elements and high production quality. They appreciate simple narratives that evoke positive emotions but have mixed feelings about pacing and brand loyalty."
+}

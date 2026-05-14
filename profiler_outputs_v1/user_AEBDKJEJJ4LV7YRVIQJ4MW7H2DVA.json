@@ -1,0 +1,77 @@
+{
+  "user_id": "AEBDKJEJJ4LV7YRVIQJ4MW7H2DVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "comedy, drama, thriller",
+      "evidence": [
+        "\"I found this story hilarious, and the chemistry of the cast was perfect for my taste.\"",
+        "\"The story of a retired cop out to get an extremely violent pedophile murderer pulled me in and kept me riveted through many scenes.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story still holds up as an original narrative (no one's tried to 'remake' it)\"",
+        "\"It's paced like a television movie-of-the-week, and there are long pauses throughout.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"I found it fast-paced and quirky with lots of zippy one-liners.\"",
+        "\"The adventure takes off from this point and the story that unfolds is truly unforgettable.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"The color is vibrant and crisp and the audio transfer is superb - even on a home theater system.\"",
+        "\"I don't know how they do it, but this Blu-Ray version of the movie is so clean, crisp, and clear - it's almost like I'm on the same set as the actors...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"I love Jack Nicholson and saw this film as an undiscovered gem.\"",
+        "\"I loved this movie since first seeing it in 1976, and since then its been released on both VHS and DVD.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "high",
+      "evidence": [
+        "\"The opening credits with all the newspaper highlights backed by eerie music.\"",
+        "\"The audio transfer is also very good.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"The story that unfolds is truly unforgettable.\"",
+        "\"I was genuinely entertained with its flashes of original brilliance.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for comedies and dramas with fast pacing and high production quality. They appreciate engaging narratives and emotional resonance, often highlighting the sensory experiences of the films they enjoy."
+}

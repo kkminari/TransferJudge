@@ -1,0 +1,78 @@
+{
+  "user_id": "AEJVZU37GB3U752QHEFMRNL3KGVA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "sci-fi, action, comedy, historical",
+      "evidence": [
+        "\"Great Sci-Fi episode\"",
+        "\"Love these dinosaurs movies so\"",
+        "\"Great classic with some terrific actors back in the day.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The storyline continues to the next dvd.\"",
+        "\"Terrific story line could almost be credible.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"This movie is so fun to watch and full of action.\"",
+        "\"Great action shots, awesome computer generated scenes and a touch of romance to boot.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Awesome quality for used dvd.\"",
+        "\"The quality of the disk was in excellent condition.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"Have been purchasing 007 movies to complete my collection.\"",
+        "\"Love the Star Wars saga, its like the character become your friends.\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "MEDIUM-SPECIFIC",
+      "evidence": [
+        "\"Had some very good special effects.\"",
+        "\"Great special effects and action shots.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"Was very informative but a little boring.\"",
+        "\"This is not what I thought it was. This is only a bonus disc, not three movies on a disc.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys fast-paced, action-packed films, particularly in the sci-fi and comedy genres. They appreciate high production quality but show mixed feelings towards emotional depth and brand loyalty."
+}

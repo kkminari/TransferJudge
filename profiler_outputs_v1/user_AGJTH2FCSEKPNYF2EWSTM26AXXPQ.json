@@ -1,0 +1,77 @@
+{
+  "user_id": "AGJTH2FCSEKPNYF2EWSTM26AXXPQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, thriller, drama",
+      "evidence": [
+        "\"Funny indeed, enjoyed tremendously watching it along my 8-yr old and 4-yr old grandkids.\"",
+        "\"This is an excellent series, very well done. It surpasses my imagination.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"Such a delight to watch!\"",
+        "\"Riveting, got a thrill with every single episode.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"Riveting, got a thrill with every single episode.\"",
+        "\"it got me hooked since the Masterpiece episode.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"superb acting. A must watch!\"",
+        "\"very well done. I enjoyed tremendously the TV series.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "medium",
+      "evidence": [
+        "\"Craig, along with Sean Connery are my favorites!\"",
+        "\"I missed Series 2 on TV so I'll have to wait many months for that season to become available on Prime.\""
+      ],
+      "confidence": 0.5,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "visual spectacle, engaging storytelling",
+      "evidence": [
+        "\"I couldn't stop watching, great plot, superb acting.\"",
+        "\"As with other previous 007 movies, I enjoyed this one completely!\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Such a delight to watch!\"",
+        "\"Grandkids loved it! they were very entertained.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-friendly content with a preference for thrillers and dramas. They appreciate high production quality and engaging storytelling, often favoring fast-paced narratives that resonate emotionally."
+}

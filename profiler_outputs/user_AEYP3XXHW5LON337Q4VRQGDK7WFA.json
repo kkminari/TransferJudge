@@ -1,0 +1,77 @@
+{
+  "user_id": "AEYP3XXHW5LON337Q4VRQGDK7WFA",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "animated, action, superhero",
+      "evidence": [
+        "\"I love The DC Animated Movies, I bought 2 copies of every one good bad or indifferent to support DC's efforts\"",
+        "\"This is a great action movie. sorly underrated.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"The story was plane and uninteresting.\"",
+        "\"this movie felt rush. This movie had great pieces that were not put together so well.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"this movie should have been longer or done in 2 parts.\"",
+        "\"it need more time, the blue beetle story felt incomplete, and the resolution just happened.\""
+      ],
+      "confidence": 0.8,
+      "polarity": "negative",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"It is painfully obvious how it could have been better.\"",
+        "\"the animation was great. I like Kevin Conroys Voice as Batman so much better.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "DC Animated Movies",
+      "evidence": [
+        "\"I love The DC Animated Movies, I bought 2 copies of every one good bad or indifferent to support DC's efforts\"",
+        "\"I am a fan of all the DC Animated Movies, I own them all.\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"The Animation was Great.\"",
+        "\"the special features will be skimped on I'm sure.\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "low",
+      "evidence": [
+        "\"I wanted to really like this movie.\"",
+        "\"I give it 3 stars because I wont be re-watching this one.\""
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user has a strong preference for animated superhero movies, particularly from the DC Animated franchise, and values production quality highly. They tend to favor straightforward narratives and slower pacing, often expressing disappointment when films feel rushed or incomplete. Overall, their reviews reflect a mix of enjoyment and critique, indicating a desire for better storytelling and character development in their viewing experiences."
+}

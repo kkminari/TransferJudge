@@ -1,0 +1,77 @@
+{
+  "user_id": "AGB5EHFU6E5LNQPHYKCGUTKA2FAQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "family, drama",
+      "evidence": [
+        "\"GREAT, I got it for my grandbabies, I grew up on this show\"",
+        "\"Sweet and touching\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "\"GREAT MOVIE\"",
+        "\"Awesome movie, a must watch for any Denzel Fan\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "slow",
+      "evidence": [
+        "\"Sweet movie\"",
+        "\"Sad but awesome\""
+      ],
+      "confidence": 0.5,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "low",
+      "evidence": [
+        "\"great\"",
+        "\"AWESOME\""
+      ],
+      "confidence": 0.4,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "Denzel Washington",
+      "evidence": [
+        "\"Awesome movie, a must watch for any Denzel Fan\"",
+        "\"who dont like Denzel?\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "\"Sweet and touching\"",
+        "\"Sad but awesome\""
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"Sweet and touching\"",
+        "\"Sad but awesome\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys family-oriented and dramatic content, often reflecting on nostalgic experiences. They show a strong preference for simple narratives and emotional resonance, particularly appreciating works featuring Denzel Washington."
+}

@@ -1,0 +1,77 @@
+{
+  "user_id": "AF623EW7DCSWZWETLUOLTBKX7N6Q",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "thriller, drama, comedy, action, sci-fi",
+      "evidence": [
+        "\"This is an incredibly tense show, always on the edge...\"",
+        "\"This film has it all, it is funny, it is sad...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "complex",
+      "evidence": [
+        "\"One of the most INTRICATE MOVIES I HAVE EVER SEEN...\"",
+        "\"It does capture the viewer to the point that you have to watch everything and not miss one beat...\""
+      ],
+      "confidence": 0.9,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "pacing_preference": {
+      "value": "fast",
+      "evidence": [
+        "\"The cliffhanger suggests death, but he's not dead...\"",
+        "\"This movie could not have been more perfect...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "quality_sensitivity": {
+      "value": "high",
+      "evidence": [
+        "\"Excellent graphics, intriguing story...\"",
+        "\"The excellent performances by Kevin Spacey and the other actors and actresses...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "\"I hate techno and I hate all the stupid Computer Generated Crud...\"",
+        "\"I will be the first to admit, KEANU REEVES IS THE SAME PERSONALITY IN EVERY!!! MOVIE HE'S IN...\""
+      ],
+      "confidence": 0.3,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "sensory_preference": {
+      "value": "medium-specific",
+      "evidence": [
+        "\"Talk about getting you pumped, the music is great...\"",
+        "\"The only real bad thing about the first is the fact that it took 26 episodes for them to form a cool group of central characters...\""
+      ],
+      "confidence": 0.6,
+      "polarity": "positive",
+      "transferability_hint": "low"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "\"This movie is deep. Too hard to explain or even discuss...\"",
+        "\"It kept my attention and interest the entire film...\""
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys a mix of thrillers, dramas, and comedies with complex narratives and fast pacing. They appreciate high production quality and emotional depth in storytelling, while showing some ambivalence towards specific creators."
+}

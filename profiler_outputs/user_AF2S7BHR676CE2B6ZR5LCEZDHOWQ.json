@@ -1,0 +1,77 @@
+{
+  "user_id": "AF2S7BHR676CE2B6ZR5LCEZDHOWQ",
+  "core_patterns": {
+    "genre_preference": {
+      "value": "action, drama, comedy",
+      "evidence": [
+        "I always thought Danny Trejo was too serious in his movies. All start cast. For a farce, this is one awesome movie!!!",
+        "Great acting for an action movie."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "narrative_complexity": {
+      "value": "simple",
+      "evidence": [
+        "The plot is not bad, the acting is not bad.",
+        "It is great watching this show again -- it is like an old friend visiting."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "medium"
+    },
+    "pacing_preference": {
+      "value": "mixed",
+      "evidence": [
+        "The series starts slow, but picks up really well a few episodes in.",
+        "This movie starts slow, but man!!! Totally wraps up at the end."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "quality_sensitivity": {
+      "value": "medium",
+      "evidence": [
+        "The actors and the acting were superb!",
+        "The video quality; however, stinks."
+      ],
+      "confidence": 0.6,
+      "polarity": "mixed",
+      "transferability_hint": "medium"
+    },
+    "brand_loyalty": {
+      "value": "low",
+      "evidence": [
+        "I always saw Michelle as 'Letty', but she looks GOOD in this movie!!",
+        "WoW! Yeah, this is a movie so I'm sure they embellished a little."
+      ],
+      "confidence": 0.2,
+      "polarity": "mixed",
+      "transferability_hint": "low"
+    },
+    "sensory_preference": {
+      "value": "medium-agnostic",
+      "evidence": [
+        "It is sad kids have to go through what these kids go through.",
+        "The story was told in a way most people can understand."
+      ],
+      "confidence": 0.7,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    },
+    "emotional_resonance": {
+      "value": "high",
+      "evidence": [
+        "Totally drew me in, wishing I was that close to my own brother.",
+        "It is heartbreaking to know things were short-cutted."
+      ],
+      "confidence": 0.8,
+      "polarity": "positive",
+      "transferability_hint": "high"
+    }
+  },
+  "additional_patterns": [],
+  "summary": "The user enjoys action and drama films with a comedic touch, appreciating strong performances and emotional storytelling. They have a mixed preference for pacing and narrative complexity, often valuing character development and emotional impact over production quality."
+}
