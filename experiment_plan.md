@@ -14,11 +14,23 @@ Cross-Domain Cold-Start 환경(Movies & TV → Books)에서 TransferJudge의 Pro
 
 ### 1.2 Research Questions
 
+본 연구는 단순 자기 ablation을 넘어 전통 CDR + LLM 기반 CDR baselines를 포함한
+4가지 핵심 질문을 검증한다 (외부 리뷰 권장 반영, 2026-05-15).
+
 | RQ | 질문 | 핵심 비교 |
 |----|------|----------|
-| RQ1 | 구조화된 프로파일이 raw review 대비 추천을 개선하는가? | (c) vs (f) |
-| RQ2 | Transfer Gate 필터링이 추천 성능에 유의미한 영향을 미치는가? | (c) vs (d) |
-| RQ3 | Profiler-Judge 분리 + Judge 파인튜닝이 우수한가? | (a) vs (b) vs (c) |
+| **RQ1** | 구조화된 preference profile은 raw review 입력 및 **전통 CDR baselines** 대비 cold-start CDR 성능을 개선하는가? | (c) vs (f), (c) vs (e1)(e2) |
+| **RQ2** | Pattern-level Transfer Gate는 모든 preference signal을 균일하게 전이하는 방식보다 negative transfer를 줄이고 추천 성능을 높이는가? | (c) vs (d) |
+| **RQ3** | Profiler-Judge 구조와 Judge 파인튜닝은 single-prompt LLM / prompt-only / **LLM-based CDR baseline** 대비 더 효과적인가? | (c) vs (a)(b)(g) |
+| **RQ4** | Movies-to-Books 전이에서 어떤 preference pattern이 transferable, partially transferable, domain-specific으로 작동하는가? | Phase 5a Per-Pattern Ablation |
+
+**Baseline 카테고리** (RQ 문장은 "범주" 중심, 실제 모델명은 §11 실험 설계 표 참조):
+- 단순 LLM: (a) Single LLM zero-shot, (b) Prompt-only zero-shot
+- 본 연구 자기검증: (c) Ours ★, (d) w/o Gate, (f) Raw Review (no Profile)
+- 전통 CDR: (e1) EMCDR (IJCAI 2017), (e2) PTUPCDR (WSDM 2022)
+- **LLM 기반 CDR**: (g) **LLM4CDR-style** single-LLM CDR baseline
+  (TALLRec은 본 연구의 LLM recommendation fine-tuning 기법적 근거로 Related Work에 배치하되,
+   직접 CDR baseline으로는 사용하지 않음 — TALLRec은 single-domain LLM recommendation 논문)
 
 ### 1.3 리소스 예산
 

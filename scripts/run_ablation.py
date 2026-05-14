@@ -12,7 +12,7 @@
     python3 scripts/run_ablation.py --condition e1_emcdr --output results/ablation_e1_emcdr.json
     python3 scripts/run_ablation.py --condition e2_ptupcdr --output results/ablation_e2_ptupcdr.json
     python3 scripts/run_ablation.py --condition f_raw --output results/ablation_f_raw.json
-    python3 scripts/run_ablation.py --condition g_tallrec --output results/ablation_g_tallrec.json
+    python3 scripts/run_ablation.py --condition g_llm4cdr --output results/ablation_g_llm4cdr.json
 
 설계 참고: docs/phase4/Phase4_Evaluation_Plan.pdf §1, §3.2
 """
@@ -29,7 +29,7 @@ CONDITION_FLOWS = {
     "e1_emcdr": "EMCDR (Man et al., IJCAI 2017) — embedding mapping cross-domain",
     "e2_ptupcdr": "PTUPCDR (Zhu et al., WSDM 2022) — personalized transfer + meta-learning",
     "f_raw": "Qwen3-14B를 raw 영화 리뷰로 학습 후 추천 (Profile 없음)",
-    "g_tallrec": "TALLRec (Bao et al., RecSys 2023) — LLM as recommender via instruction SFT",
+    "g_llm4cdr": "LLM4CDR-style (Liu et al., arXiv 2503.07761) — single-LLM cross-domain recommendation",
 }
 
 
@@ -102,17 +102,22 @@ def main():
     5. results/ablation_e2_ptupcdr.json 저장
        참고: https://github.com/easezyc/WSDM2022-PTUPCDR
 """)
-    elif args.condition == "g_tallrec":
+    elif args.condition == "g_llm4cdr":
         print("""
-  (g) TALLRec 구현 (Bao et al., RecSys 2023):
-    1. LLM 기반 추천 — Qwen3-14B (또는 LLaMA-7B) + LoRA
-    2. 입력 형식: "User has watched [movie list]. Will they like [book]?"
-       (각 후보 50권을 개별 binary 분류 → Top-10 ranking)
-    3. 학습 데이터: 본 연구의 train 578명 + GT binary signal
-    4. 추론: 50권 후보에 대해 각각 logit 계산 → 상위 10개
-    5. results/ablation_g_tallrec.json 저장
-       참고: https://github.com/SAI990323/TALLRec
-       주의: TALLRec은 본 연구처럼 Profile·Gate 사용 안 함 → 직접 비교 대상
+  (g) LLM4CDR-style 구현 (Liu et al., arXiv 2503.07761):
+    1. Single-LLM cross-domain recommendation — Qwen3-14B (또는 GPT-4o-mini) + prompt
+    2. 입력 형식: "User has watched [movie list]. Recommend top-10 books from candidates."
+       (CDR을 직접 위한 prompt, Profile·Gate 모두 없음)
+    3. 학습: prompt-only (zero-shot 또는 in-context few-shot)
+       또는 raw review + GT pair로 light fine-tuning (TALLRec 기법 차용)
+    4. 추론: 후보 50권에 대해 LLM이 직접 Top-10 ranking
+    5. results/ablation_g_llm4cdr.json 저장
+
+    주의:
+    - TALLRec과 다름: TALLRec은 single-domain LLM recommendation tuning
+      (Bao et al., RecSys 2023, arXiv 2305.00447). 직접 CDR baseline 아님.
+    - LLM4CDR은 cross-domain 전용으로 더 직접 비교 가능.
+    - 본 baseline은 LLM4CDR의 "Profile 없는 monolithic LLM CDR" 접근 검증용.
 """)
     elif args.condition == "f_raw":
         print("""

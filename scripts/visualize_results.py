@@ -29,7 +29,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 
-CONDITIONS = ["a_single", "b_prompt", "c_ours", "d_no_gate", "e1_emcdr", "e2_ptupcdr", "f_raw", "g_tallrec"]
+CONDITIONS = ["a_single", "b_prompt", "c_ours", "d_no_gate", "e1_emcdr", "e2_ptupcdr", "f_raw", "g_llm4cdr"]
 CONDITION_LABELS = {
     "a_single": "(a) Single LLM",
     "b_prompt": "(b) Prompt-only",
@@ -38,7 +38,7 @@ CONDITION_LABELS = {
     "e1_emcdr": "(e1) EMCDR",
     "e2_ptupcdr": "(e2) PTUPCDR",
     "f_raw": "(f) Raw Review",
-    "g_tallrec": "(g) TALLRec",
+    "g_llm4cdr": "(g) LLM4CDR-style",
 }
 PATTERNS = ["genre_preference", "narrative_complexity", "pacing_preference",
             "quality_sensitivity", "brand_loyalty", "sensory_preference",

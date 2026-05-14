@@ -47,12 +47,15 @@ This work demonstrates that (i) selective transfer outperforms uniform transfer 
 
 ### 1.3 Research Questions
 
-- **RQ1**: 구조화된 Profile이 raw review와 **전통 CDR (EMCDR, PTUPCDR)** 보다 추천을 개선하는가?
-- **RQ2**: Transfer Gate (TRANSFER/PARTIAL/BLOCK)가 실제로 성능에 기여하는가?
-- **RQ3**: Profiler-Judge 분리 + Judge 파인튜닝이 prompt-only, single LLM, **기존 LLM CDR (TALLRec)** 보다 나은가?
+본 연구는 단순 self-ablation을 넘어 전통 CDR + LLM 기반 CDR baselines를 포함한 4가지 핵심 질문을 검증한다.
+RQ 문장은 **비교 범주 중심**으로 기술하며, 구체적 모델명은 §4 실험 설계에서 명시한다.
 
-(외부 검토 반영: 단순 self-ablation을 넘어 전통 CDR 2종 + LLM CDR 1종을 baseline으로 포함하여
-"본 연구만의 selective transfer가 monolithic 접근들과 어떻게 다른가"를 직접 검증)
+- **RQ1**: 구조화된 preference profile은 raw review 입력 및 **전통 CDR baselines** 대비 cold-start CDR 성능을 개선하는가?
+- **RQ2**: Pattern-level Transfer Gate는 모든 preference signal을 균일하게 전이하는 방식보다 negative transfer를 줄이고 추천 성능을 높이는가?
+- **RQ3**: Profiler-Judge 구조와 Judge 파인튜닝은 single-prompt LLM / prompt-only / **LLM-based CDR baseline** 대비 더 효과적인가?
+- **RQ4**: Movies-to-Books 전이에서 어떤 preference pattern이 transferable, partially transferable, domain-specific으로 작동하는가?
+
+(외부 검토 반영, 2026-05-15: RQ4 신설로 패턴 수준 분석을 명시 → Phase 5a Per-Pattern Ablation이 직접 답)
 
 ### 1.4 Contributions (Bullet Points)
 1. **개념적**: Selective transfer 패러다임 제시 — 모든 신호가 전이 가능한 것이 아니다
@@ -75,10 +78,14 @@ This work demonstrates that (i) selective transfer outperforms uniform transfer 
 - BiTGCF (Liu et al., 2020) — bidirectional transfer GCN
 - Limitation: latent feature 전이 가정, **패턴별 선택성 부재**
 
-**LLM-based (최근 흐름)**:
-- **TALLRec (Bao et al., RecSys 2023)** — LLM as recommender via instruction SFT, 가장 인용 많은 LLM CDR
-  → 본 연구 (g) baseline ★
-- LLM4CDR (Zhang et al., 2024) — LLM for CDR with prompt engineering
+**LLM-based Recommendation (CDR이 아닌, single-domain LLM 추천)**:
+- **TALLRec (Bao et al., RecSys 2023)** — LLM as recommender via instruction SFT, 가장 인용 많은 LLM 추천 튜닝 프레임워크
+  → 본 연구의 **LLM SFT 기법 근거**로 인용 (직접 CDR baseline 아님)
+  ※ TALLRec은 single-domain recommendation으로 cross-domain 비교 대상이 아님 (Bao et al. arXiv 2305.00447)
+
+**LLM-based CDR (직접 비교 대상)**:
+- **LLM4CDR (Liu et al., arXiv 2503.07761)** — LLM for cross-domain recommendation with prompt engineering
+  → 본 연구 (g) baseline ★ — direct CDR 비교
 - TrineCDR (Liu et al., 2024) — knowledge distillation for CDR (본 연구와 동일 접근이나 monolithic)
 - Limitation: 단일 prompt에 모든 신호 통합, **transfer 가능성을 명시적으로 모델링하지 않음**
 
@@ -177,10 +184,12 @@ This work demonstrates that (i) selective transfer outperforms uniform transfer 
 - (d) w/o Gate — Qwen3-14B QLoRA, Profile but gate disabled
 - (f) Raw Review — Qwen3-14B trained on raw reviews, no Profile
 
-**외부 baseline (3개)** — Codex 권장 반영:
+**외부 baseline (3개)** — Codex 2차 권장 반영:
 - (e1) **EMCDR (Man et al., IJCAI 2017)** — 고전 cross-domain matrix factorization
 - (e2) **PTUPCDR (Zhu et al., WSDM 2022)** — 최신 personalized transfer + meta-learning
-- (g) **TALLRec (Bao et al., RecSys 2023)** — LLM as recommender via instruction SFT (가장 인용 많은 LLM CDR)
+- (g) **LLM4CDR-style baseline (Liu et al., arXiv 2503.07761)** — single-LLM cross-domain recommendation
+  ※ TALLRec은 single-domain recommendation으로 직접 CDR 비교 대상이 아니라 §2 Related Work에서
+  LLM SFT 기법 근거로만 인용. 본 연구의 직접 LLM CDR 비교는 LLM4CDR-style 접근으로 진행.
 
 8개 모두 동일한 Test 100명, 동일한 후보 50권 (seed=42)에서 평가하여 공정 비교.
 
