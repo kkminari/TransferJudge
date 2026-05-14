@@ -11,8 +11,8 @@
 # ============================================================
 model:
   name: "Qwen/Qwen3-14B"
-  max_seq_length: 8192           # Profile JSON + 50권 후보 = 평균 ~5,000 토큰
-                                  # Phase 2 통계: P95 ~6,500, max ~7,800
+  max_seq_length: 12288          # 실측 (apply_chat_template): 평균 10,653 / max 11,194
+                                  # → 12288로 P99+ 커버. (Phase 2 README 추정치 ~7,800은 underestimate)
 
 # ============================================================
 # 양자화 (Quantization) 설정

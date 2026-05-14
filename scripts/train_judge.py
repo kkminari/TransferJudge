@@ -106,6 +106,120 @@ def measure_token_lengths(dataset: Dataset, tokenizer, n_sample: int = 50) -> tu
 # 3. 모델 로드 (QLoRA)
 # ============================================================
 
+_QWEN3_ASSISTANT_BLOCK_ORIGINAL = """{%- elif message.role == "assistant" %}
+        {%- set reasoning_content = '' %}
+        {%- if message.reasoning_content is string %}
+            {%- set reasoning_content = message.reasoning_content %}
+        {%- else %}
+            {%- if '</think>' in content %}
+                {%- set reasoning_content = content.split('</think>')[0].rstrip('\\n').split('<think>')[-1].lstrip('\\n') %}
+                {%- set content = content.split('</think>')[-1].lstrip('\\n') %}
+            {%- endif %}
+        {%- endif %}
+        {%- if loop.index0 > ns.last_query_index %}
+            {%- if loop.last or (not loop.last and reasoning_content) %}
+                {{- '<|im_start|>' + message.role + '\\n<think>\\n' + reasoning_content.strip('\\n') + '\\n</think>\\n\\n' + content.lstrip('\\n') }}
+            {%- else %}
+                {{- '<|im_start|>' + message.role + '\\n' + content }}
+            {%- endif %}
+        {%- else %}
+            {{- '<|im_start|>' + message.role + '\\n' + content }}
+        {%- endif %}
+        {%- if message.tool_calls %}
+            {%- for tool_call in message.tool_calls %}
+                {%- if (loop.first and content) or (not loop.first) %}
+                    {{- '\\n' }}
+                {%- endif %}
+                {%- if tool_call.function %}
+                    {%- set tool_call = tool_call.function %}
+                {%- endif %}
+                {{- '<tool_call>\\n{"name": "' }}
+                {{- tool_call.name }}
+                {{- '", "arguments": ' }}
+                {%- if tool_call.arguments is string %}
+                    {{- tool_call.arguments }}
+                {%- else %}
+                    {{- tool_call.arguments | tojson }}
+                {%- endif %}
+                {{- '}\\n</tool_call>' }}
+            {%- endfor %}
+        {%- endif %}
+        {{- '<|im_end|>\\n' }}"""
+
+_QWEN3_ASSISTANT_BLOCK_PATCHED = """{%- elif message.role == "assistant" %}
+        {%- set reasoning_content = '' %}
+        {%- if message.reasoning_content is string %}
+            {%- set reasoning_content = message.reasoning_content %}
+        {%- else %}
+            {%- if '</think>' in content %}
+                {%- set reasoning_content = content.split('</think>')[0].rstrip('\\n').split('<think>')[-1].lstrip('\\n') %}
+                {%- set content = content.split('</think>')[-1].lstrip('\\n') %}
+            {%- endif %}
+        {%- endif %}
+        {{- '<|im_start|>' + message.role + '\\n' }}
+        {% generation %}
+        {%- if loop.index0 > ns.last_query_index %}
+            {%- if loop.last or (not loop.last and reasoning_content) %}
+                {{- '<think>\\n' + reasoning_content.strip('\\n') + '\\n</think>\\n\\n' + content.lstrip('\\n') }}
+            {%- else %}
+                {{- content }}
+            {%- endif %}
+        {%- else %}
+            {{- content }}
+        {%- endif %}
+        {%- if message.tool_calls %}
+            {%- for tool_call in message.tool_calls %}
+                {%- if (loop.first and content) or (not loop.first) %}
+                    {{- '\\n' }}
+                {%- endif %}
+                {%- if tool_call.function %}
+                    {%- set tool_call = tool_call.function %}
+                {%- endif %}
+                {{- '<tool_call>\\n{"name": "' }}
+                {{- tool_call.name }}
+                {{- '", "arguments": ' }}
+                {%- if tool_call.arguments is string %}
+                    {{- tool_call.arguments }}
+                {%- else %}
+                    {{- tool_call.arguments | tojson }}
+                {%- endif %}
+                {{- '}\\n</tool_call>' }}
+            {%- endfor %}
+        {%- endif %}
+        {{- '<|im_end|>\\n' }}
+        {% endgeneration %}"""
+
+
+def _patch_chat_template_for_generation(tokenizer):
+    """Qwen3 chat template에 ``{% generation %}`` 마커를 주입.
+
+    TRL ``assistant_only_loss=True``는 ``apply_chat_template(return_assistant_tokens_mask=True)``
+    가 마스크를 반환해야 동작하고, 그 마스크는 템플릿이 ``{% generation %}``/``{% endgeneration %}``
+    로 assistant 응답 영역을 표시해야 생성됨. Qwen3 기본 템플릿은 이 마커가 없어
+    학습 시 ``RuntimeError: at least one example has no assistant tokens`` 가 발생함.
+
+    원본 assistant 블록의 prefix ``<|im_start|>assistant\\n`` 출력을 분리하고 그 뒤로
+    ``{% generation %}`` 을 열어 content와 tool_calls, 닫는 ``<|im_end|>\\n`` 까지
+    전부 포함시킴. system/user/tool 분기는 그대로 보존. 본 함수는 학습 토크나이저에만 적용;
+    Phase 4 추론은 원본 템플릿 사용 권장 (이 패치를 호출하지 않으면 됨).
+    """
+    ct = tokenizer.chat_template
+    if ct is None or "{% generation %}" in ct:
+        return tokenizer
+
+    if _QWEN3_ASSISTANT_BLOCK_ORIGINAL not in ct:
+        raise RuntimeError(
+            "chat_template 패치 실패 — assistant 블록 원본 시그니처가 일치하지 않음. "
+            "Qwen3 템플릿 버전이 바뀌었거나 다른 모델일 수 있음."
+        )
+    tokenizer.chat_template = ct.replace(
+        _QWEN3_ASSISTANT_BLOCK_ORIGINAL,
+        _QWEN3_ASSISTANT_BLOCK_PATCHED,
+        1,
+    )
+    return tokenizer
+
+
 def load_model_and_tokenizer(config: dict):
     model_name = config["model"]["name"]
     quant_cfg = config["quantization"]
@@ -115,6 +229,9 @@ def load_model_and_tokenizer(config: dict):
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
         print(f"  pad_token 설정: {tokenizer.pad_token}")
+
+    _patch_chat_template_for_generation(tokenizer)
+    print("  chat_template: {% generation %} 마커 주입 완료 (assistant_only_loss 활성화 위함)")
 
     bnb_config = BitsAndBytesConfig(
         load_in_4bit=quant_cfg["load_in_4bit"],
