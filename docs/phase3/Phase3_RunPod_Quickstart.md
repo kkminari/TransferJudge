@@ -127,19 +127,70 @@ du -sh checkpoints/
 
 ---
 
-## 6. 학습 종료 후
+## 6. 학습 종료 후 — 어댑터·메트릭을 로컬로 가져오기
+
+### 6-A. 학습 종료 확인
 
 ```bash
-# 완료 확인
 grep "학습 완료" logs/train.log
+du -sh checkpoints/judge_v1/adapter/   # ~50MB 예상
+```
 
-# 어댑터 크기 확인 (~50MB)
-du -sh checkpoints/judge_v1/adapter/
+### 6-B. ★ 어댑터를 HF Hub에 업로드 (RunPod 종료 대비)
 
-# HF Hub로 어댑터 백업 (권장)
-huggingface-cli upload kwaksuobusi/transferjudge-judge-v1 \
-  checkpoints/judge_v1/adapter \
-  --repo-type=model --private
+```bash
+# 자동 스크립트 (private repo 생성·업로드 한 번에)
+python3 scripts/upload_adapter_to_hub.py \
+  --adapter-dir checkpoints/judge_v1/adapter \
+  --repo kwaksuobusi/transferjudge-judge-v1
+
+# 출력 확인:
+#   📦 어댑터 업로드 대상: ...
+#   📤 업로드 중...
+#   🎉 업로드 완료!
+#   https://huggingface.co/kwaksuobusi/transferjudge-judge-v1
+```
+
+### 6-C. ★ 학습 메트릭을 GitHub로 push (논문 분석용)
+
+```bash
+# git config (최초 1회만)
+git config user.email "younggoo209@gmail.com"
+git config user.name "Mina Kwak"
+
+# trainer_state.json (학습 곡선 데이터, ~50KB)은 git push 가능
+# (.gitignore에서 checkpoints/*/trainer_state.json은 예외 처리됨)
+git add checkpoints/judge_v1/trainer_state.json
+git add logs/train.log   # 로그도 같이 (작으면)
+git commit -m "Phase 3 학습 완료 — trainer_state + log"
+
+# GitHub Personal Access Token 필요
+# (https://github.com/settings/tokens 발급 후 비밀번호 대신 입력)
+git push origin main
+```
+
+### 6-D. 로컬(Mac)에서 어댑터 받아 Phase 4 진입
+
+```bash
+# 로컬 터미널에서 (RunPod 아님!)
+cd "/Users/mina/Library/CloudStorage/OneDrive-PMI/.../논문 작업 폴더"
+
+# 1) 코드·trainer_state pull
+git pull origin main
+
+# 2) 어댑터 다운로드 (50MB, ~30초)
+export HF_TOKEN=hf_새토큰
+python3 scripts/download_adapter_from_hub.py \
+  --repo kwaksuobusi/transferjudge-judge-v1 \
+  --output checkpoints/judge_v1/adapter
+
+# 3) 어댑터 검증
+python3 -c "
+from peft import PeftModel
+from transformers import AutoTokenizer
+tok = AutoTokenizer.from_pretrained('checkpoints/judge_v1/adapter')
+print('✅ Adapter 정상 로드')
+"
 ```
 
 ---
@@ -214,13 +265,18 @@ print('✅ Adapter 로드 성공')
 
 ## 9. RunPod 종료 시 (비용 절감)
 
-```bash
-# 1) 어댑터를 HF Hub에 백업 (위 §6)
-# 2) 로그 GitHub에 commit
-git add logs/train.log checkpoints/judge_v1/trainer_state.json
-git commit -m "Phase 3 학습 완료 로그"
-git push origin main
+**필수 체크리스트** — 종료 전 이 순서로:
 
-# 3) RunPod 인스턴스 STOP (콘솔에서)
-# Volume에 어댑터 남아있으므로 다음에 켤 때 재사용 가능
+```bash
+# ☑ 1) 어댑터를 HF Hub에 업로드했나? (§6-B)
+# ☑ 2) trainer_state.json을 git push했나? (§6-C)
+# ☑ 3) 어댑터 검증 가능한 환경 있나? (다른 PC·로컬)
+
+# ☑ 4) 본 학습 디렉토리 크기 확인 (Volume 비용 관련)
+du -sh checkpoints/ logs/
+
+# ☑ 5) RunPod 콘솔에서 인스턴스 Stop
+#   - Stop만 하면 Volume 영속 (재시작 빠름, 약간의 storage 비용)
+#   - Terminate면 Volume까지 삭제 (완전 종료, 무료)
+#   → 어댑터 HF Hub 백업 완료라면 Terminate 권장
 ```

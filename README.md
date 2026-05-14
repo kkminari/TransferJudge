@@ -77,39 +77,104 @@ A Profiler-Judge LLM-Based Framework for Cold-Start CDR (Movies → Books)
     └── eda.ipynb                          # Phase 0 EDA 노트북
 ```
 
-## RunPod 환경 셋업
+## 로컬(Mac) ↔ RunPod 양방향 워크플로우
 
-### 1. 저장소 클론
-
-```bash
-git clone https://github.com/<USERNAME>/transferjudge.git
-cd transferjudge
+```
+┌─────────────────┐       git push        ┌─────────────────┐
+│ 로컬 (Mac)      │ ────────────────────> │ GitHub           │
+│ - 코드 작성      │                       │ kkminari/        │
+│ - 데이터 준비    │ <──────────────────── │ TransferJudge    │
+│ - 평가·분석      │       git pull        └─────────────────┘
+└────────┬────────┘                                │
+         │                                         │ git clone/pull
+         │                                         ▼
+         │  download adapter         ┌─────────────────────┐
+         │ <──────────────────────── │ RunPod GPU          │
+         │                           │ - Phase 3 학습 (8h) │
+         │                           │ - 어댑터 생성        │
+         │                           └──────────┬──────────┘
+         │                                      │ upload adapter
+         │           HF Hub (큰 파일 동기화)     ▼
+         │      ┌─────────────────────────────────┐
+         └────> │ kwaksuobusi/transferjudge-data  │ ← books_meta (2.4GB)
+                │ kwaksuobusi/transferjudge-judge-v1 │ ← LoRA adapter (50MB)
+                └─────────────────────────────────┘
 ```
 
-### 2. Python 환경
+### 양방향 동기화 — 어떤 채널로 무엇을 옮기나
+
+| 자원 | 크기 | 채널 | 명령 |
+|------|-----|------|------|
+| 소스 코드 | <1MB | **GitHub** | `git push` / `git pull` |
+| 학습 데이터 | 25MB | **GitHub** | `git push` (이미 포함) |
+| Profile JSON 1,000개 | 4MB | **GitHub** | `git push` (이미 포함) |
+| books_meta (2.4GB) | 큼 | **HF Hub dataset** | `upload_data_to_hub.py` / `download_data_runpod.py` |
+| **LoRA 어댑터 (50MB)** | 중간 | **HF Hub model** | **`upload_adapter_to_hub.py` / `download_adapter_from_hub.py`** |
+| 학습 로그 (logs/train.log) | <1MB | (옵션) git push | 수동 add |
+| trainer_state.json (메트릭) | <100KB | **GitHub** | git에서 ignore 예외 처리됨 |
+| Phase 4·5 평가 결과 (results/) | 작음 | **GitHub** | git push |
+
+### RunPod 작업 흐름 (Phase 3 학습)
 
 ```bash
+# 1. 인스턴스 SSH 접속 후
+cd /workspace
+git clone https://github.com/kkminari/TransferJudge.git
+cd TransferJudge
+
+# 2. 의존성 설치
 pip install -r requirements.txt
+
+# 3. HF Hub에서 books_meta 다운로드
+export HF_TOKEN=hf_새토큰
+huggingface-cli login --token $HF_TOKEN
+python3 scripts/download_data_runpod.py --repo kwaksuobusi/transferjudge-data
+
+# 4. Smoke test (5-10분, 필수)
+python3 scripts/train_judge.py --smoke-test
+
+# 5. 본 학습 (7-8시간 백그라운드)
+mkdir -p logs checkpoints
+nohup python3 scripts/train_judge.py --config configs/judge_training.yaml \
+  > logs/train.log 2>&1 &
+
+# 6. 학습 종료 후 어댑터 HF Hub 백업
+python3 scripts/upload_adapter_to_hub.py \
+  --adapter-dir checkpoints/judge_v1/adapter \
+  --repo kwaksuobusi/transferjudge-judge-v1
+
+# 7. trainer_state.json + 로그 git push (작은 메트릭만)
+git config user.email "younggoo209@gmail.com"
+git config user.name "Mina Kwak"
+git add checkpoints/judge_v1/trainer_state.json
+git commit -m "Phase 3 학습 완료 — trainer_state"
+git push origin main
+# (GitHub Personal Access Token 입력 필요)
 ```
 
-### 3. books_meta 다운로드 (HF Hub)
+### 로컬(Mac)에서 RunPod 결과 가져오기 (Phase 4 진입)
 
 ```bash
-export HF_TOKEN=hf_...
-python3 scripts/download_data_runpod.py --repo <USERNAME>/transferjudge-data
+# 1. 코드·메트릭 동기화
+cd "/Users/mina/Library/CloudStorage/OneDrive-PMI/.../논문 작업 폴더"
+git pull origin main
+
+# 2. HF Hub에서 어댑터 다운로드 (50MB, ~30초)
+export HF_TOKEN=hf_새토큰
+python3 scripts/download_adapter_from_hub.py \
+  --repo kwaksuobusi/transferjudge-judge-v1 \
+  --output checkpoints/judge_v1/adapter
+
+# 3. Phase 4 평가 시작 (로컬 또는 다시 RunPod)
+# (scripts/evaluate_judge.py는 Phase 4 진입 시 작성 예정)
 ```
 
-### 4. Phase 3 학습 실행
+### RunPod 인스턴스 종료 전 체크리스트
 
-```bash
-python3 scripts/train_judge.py \
-  --training-data data/teacher_train_main.jsonl \
-  --model Qwen/Qwen3-14B \
-  --output checkpoints/judge_v1 \
-  --batch-size 1 --grad-accum 16 --epochs 3 --lr 2e-4
-```
-
-예상: A100 80GB 1대로 6~8시간, $3~$5.
+- [ ] 어댑터를 HF Hub로 업로드 (`upload_adapter_to_hub.py`)
+- [ ] trainer_state.json을 git push
+- [ ] `du -sh checkpoints/` 확인 (Volume 영속 사용 시)
+- [ ] RunPod 콘솔에서 인스턴스 Stop (Volume 유지)
 
 ## 결함 수정 이력 (Codex 외부 리뷰)
 

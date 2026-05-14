@@ -30,9 +30,14 @@ hf_cache/
 
 # ============================================================
 # 모델 체크포인트 (RunPod persistent volume 또는 HuggingFace Hub)
-# Qwen3-14B + QLoRA = ~5GB
+# Qwen3-14B + QLoRA adapter = ~50MB → HF Hub로 동기화
+# 학습 메트릭만 예외로 git에 포함 (작은 JSON, 논문 분석용)
 # ============================================================
 checkpoints/
+!checkpoints/*/trainer_state.json
+!checkpoints/*/training_args.bin
+# 주의: results/ (Phase 4·5 평가 결과)는 git에 push (작은 JSON·CSV)
+# 큰 임시 파일이 results/에 생기면 개별 ignore 추가
 
 # ============================================================
 # 학습/추론 로그
