@@ -86,18 +86,20 @@ def load_dataset_from_jsonl(config: dict) -> tuple[Dataset, Dataset]:
     return Dataset.from_list(train_records), Dataset.from_list(val_records)
 
 
-def apply_chat_template(examples: dict, tokenizer) -> dict:
-    """messages → 텍스트 (chat template 적용)."""
-    texts = []
-    for messages in examples["messages"]:
-        text = tokenizer.apply_chat_template(
+def measure_token_lengths(dataset: Dataset, tokenizer, n_sample: int = 50) -> tuple[float, int]:
+    """messages를 tokenize한 토큰 길이 통계 (max_seq_length 검증용)."""
+    sample_lengths = []
+    for i in range(min(n_sample, len(dataset))):
+        messages = dataset[i]["messages"]
+        ids = tokenizer.apply_chat_template(
             messages,
-            tokenize=False,
+            tokenize=True,
             add_generation_prompt=False,
-            enable_thinking=False,
         )
-        texts.append(text)
-    return {"text": texts}
+        sample_lengths.append(len(ids))
+    avg_len = sum(sample_lengths) / len(sample_lengths)
+    max_len = max(sample_lengths)
+    return avg_len, max_len
 
 
 # ============================================================
@@ -188,30 +190,19 @@ def train(config: dict):
     # --- LoRA ---
     model = apply_lora(model, config)
 
-    # --- Chat template ---
-    print("\nChat template 적용 중...")
-    train_dataset = train_dataset.map(
-        lambda x: apply_chat_template(x, tokenizer),
-        batched=True, desc="train",
-    )
-    val_dataset = val_dataset.map(
-        lambda x: apply_chat_template(x, tokenizer),
-        batched=True, desc="val",
-    )
+    # --- Chat template 적용 ---
+    # ★ Codex P1 반영: messages 컬럼을 그대로 유지하여 TRL이 conversational dataset으로 인식.
+    # 사전에 text로 변환하면 assistant mask가 생성되지 않아 prompt까지 loss 계산됨.
+    # SFTTrainer가 내부에서 tokenizer.apply_chat_template + assistant_only_loss mask를 자동 적용.
+    print("\nConversational format 유지 (messages 컬럼) — TRL이 chat template + assistant mask 자동 처리")
 
-    # --- 토큰 길이 검증 ---
-    sample_lengths = []
-    for text in train_dataset["text"][:50]:
-        tokens = tokenizer(text, return_tensors="pt")
-        sample_lengths.append(tokens["input_ids"].shape[1])
-    avg_len = sum(sample_lengths) / len(sample_lengths)
-    max_len = max(sample_lengths)
+    # --- 토큰 길이 검증 (messages 기반) ---
+    avg_len, max_len = measure_token_lengths(train_dataset, tokenizer, n_sample=50)
     max_seq = config["model"]["max_seq_length"]
     print(f"\n토큰 길이 (샘플 50건):")
     print(f"  평균: {avg_len:.0f}, 최대: {max_len}, max_seq_length: {max_seq}")
     if max_len > max_seq:
-        truncated = sum(1 for l in sample_lengths if l > max_seq)
-        print(f"  ⚠ {truncated}/{len(sample_lengths)} 샘플이 max_seq_length 초과 → 잘림")
+        print(f"  ⚠ 일부 샘플이 max_seq_length 초과 → 잘림 가능")
 
     # --- 학습 설정 ---
     train_cfg = config["training"]
@@ -224,7 +215,8 @@ def train(config: dict):
     )
     warmup_steps = int(total_steps * train_cfg["warmup_ratio"])
 
-    # ★ assistant_only_loss: TRL>=0.13에서 지원. assistant 토큰만 loss 계산.
+    # ★ Codex P1 반영: dataset_text_field 제거 → TRL이 messages를 conversational dataset으로 처리
+    # ★ assistant_only_loss=True: assistant 토큰만 loss 계산 (TRL>=0.13)
     sft_kwargs = dict(
         output_dir=output_cfg["output_dir"],
         num_train_epochs=train_cfg["num_train_epochs"],
@@ -247,10 +239,14 @@ def train(config: dict):
         greater_is_better=train_cfg["greater_is_better"],
         report_to=train_cfg["report_to"],
         seed=train_cfg.get("seed", 42),
-        dataset_text_field="text",
+        # dataset_text_field 제거 — messages 컬럼이 있으면 TRL이 자동으로 conversational 처리
         max_length=config["model"]["max_seq_length"],
     )
-    # 옵션: assistant_only_loss (TRL 버전에 따라 미지원 가능 — 안전하게 try)
+    # smoke test 시 강제 종료 step
+    if train_cfg.get("_max_steps_override"):
+        sft_kwargs["max_steps"] = int(train_cfg["_max_steps_override"])
+        print(f"  🧪 smoke test: max_steps={sft_kwargs['max_steps']}")
+    # assistant_only_loss (TRL 버전에 따라 미지원 가능 — 안전하게 try)
     if train_cfg.get("assistant_only_loss"):
         try:
             sft_config = SFTConfig(**sft_kwargs, assistant_only_loss=True)
@@ -266,14 +262,19 @@ def train(config: dict):
     print(f"  총 스텝: ~{total_steps}, 워밍업: {warmup_steps}")
 
     # --- Trainer ---
-    patience = config.get("early_stopping", {}).get("patience", 2)
+    is_smoke = bool(train_cfg.get("_max_steps_override"))
+    callbacks = []
+    if not is_smoke:
+        patience = config.get("early_stopping", {}).get("patience", 2)
+        callbacks.append(EarlyStoppingCallback(early_stopping_patience=patience))
+
     trainer = SFTTrainer(
         model=model,
         args=sft_config,
         train_dataset=train_dataset,
-        eval_dataset=val_dataset,
+        eval_dataset=None if is_smoke else val_dataset,
         processing_class=tokenizer,
-        callbacks=[EarlyStoppingCallback(early_stopping_patience=patience)],
+        callbacks=callbacks,
     )
 
     # ★ resume_from_checkpoint: output_dir에 이전 checkpoint 있으면 자동 이어서
@@ -325,7 +326,24 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="TransferJudge Phase 3 QLoRA 파인튜닝")
     parser.add_argument("--config", type=str, default=None,
                         help="설정 파일 경로 (기본: configs/judge_training.yaml)")
+    parser.add_argument("--smoke-test", action="store_true",
+                        help="2 step만 학습해 파이프라인 검증 (RunPod 첫 실행 권장)")
     args = parser.parse_args()
 
     config = load_config(args.config)
+
+    # ★ Codex P2 반영: smoke test — 의존성·API 조합·assistant_only_loss 작동 확인
+    if args.smoke_test:
+        print("\n" + "=" * 60)
+        print("🧪 SMOKE TEST MODE — 2 step만 학습해 파이프라인 검증")
+        print("=" * 60)
+        config["training"]["num_train_epochs"] = 1
+        config["training"]["save_strategy"] = "no"
+        config["training"]["eval_strategy"] = "no"
+        config["training"]["load_best_model_at_end"] = False
+        config["training"]["logging_steps"] = 1
+        config["training"]["report_to"] = "none"
+        # max_steps로 강제 2 step
+        config["training"]["_max_steps_override"] = 2
+
     train(config)

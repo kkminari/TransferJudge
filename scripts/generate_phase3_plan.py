@@ -157,7 +157,19 @@ python3 scripts/download_data_runpod.py --repo kwaksuobusi/transferjudge-data
 ls -lh data/books_meta_filtered.parquet
 # 예상: 2.4GB</pre>
 
-<h3>4.3 학습 시작</h3>
+<h3>4.3 ★ Smoke test 먼저 (필수, 5-10분)</h3>
+
+<pre># 2 step만 학습해 의존성·assistant_only_loss·conversational dataset 처리 등 검증
+python3 scripts/train_judge.py --smoke-test
+
+# 성공 신호:
+#   ✅ assistant_only_loss=True (prompt 토큰은 loss에서 제외)
+#   🧪 smoke test: max_steps=2
+#   loss=2.xx (정상값)
+#   학습 완료!
+# 실패 시 → docs/phase3/Phase3_RunPod_Quickstart.md §7 트러블슈팅</pre>
+
+<h3>4.4 본 학습 시작 (smoke test 통과 후)</h3>
 
 <pre># 백그라운드 실행 + 로그 저장
 mkdir -p logs checkpoints
@@ -172,7 +184,7 @@ echo "PID: $!"
 # 진행 모니터링
 tail -f logs/train.log</pre>
 
-<h3>4.4 학습 종료 확인</h3>
+<h3>4.5 학습 종료 확인</h3>
 
 <pre># 종료 감지
 grep "학습 완료" logs/train.log
@@ -202,6 +214,8 @@ grep -E "train_loss|eval_loss" logs/train.log | tail -10</pre>
     <td>전체의 ~0.3%만 학습</td></tr>
 <tr><td>assistant_only_loss</td><td>true</td>
     <td>prompt(system/user) 토큰은 loss에서 제외, assistant만 학습 → 추천 JSON 학습 효율 ↑</td></tr>
+<tr><td>입력 dataset 형식</td><td>conversational (messages 컬럼)</td>
+    <td>사전에 text로 변환하지 않음 → TRL이 chat template + assistant mask 자동 적용 (P1 핵심)</td></tr>
 </table>
 
 <h3>5.2 학습 hyperparameter</h3>

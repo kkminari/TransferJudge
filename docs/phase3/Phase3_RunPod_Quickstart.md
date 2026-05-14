@@ -65,7 +65,28 @@ ls -lh data/books_meta_filtered.parquet
 
 ---
 
-## 4. 학습 시작 (백그라운드)
+## 4. 학습 시작
+
+### 4-A. ★ Smoke test 먼저 (2 step만 학습해 파이프라인 검증)
+
+```bash
+# 의존성·tokenizer·assistant_only_loss·LoRA 적용·dataloader 등 전 흐름 확인
+# 약 5-10분, GPU $0.2 이내
+python3 scripts/train_judge.py --smoke-test
+
+# 성공 신호:
+#   ✅ assistant_only_loss=True (prompt 토큰은 loss에서 제외)
+#   🧪 smoke test: max_steps=2
+#   ... loss=2.xx (정상값)
+#   학습 완료!
+
+# 실패 시:
+#   - TypeError: SFTConfig got unexpected keyword 'assistant_only_loss'
+#     → trl 버전 너무 낮음, pip install -U trl
+#   - CUDA OOM → max_seq_length를 4096으로 축소
+```
+
+### 4-B. 본 학습 (smoke test 통과 후, 백그라운드)
 
 ```bash
 # 로그 디렉토리 생성
