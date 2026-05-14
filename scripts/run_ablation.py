@@ -9,8 +9,10 @@
 사용법:
     python3 scripts/run_ablation.py --condition a_single --output results/ablation_a_single.json
     python3 scripts/run_ablation.py --condition b_prompt --output results/ablation_b_prompt.json
-    python3 scripts/run_ablation.py --condition e_traditional --output results/ablation_e_traditional.json
+    python3 scripts/run_ablation.py --condition e1_emcdr --output results/ablation_e1_emcdr.json
+    python3 scripts/run_ablation.py --condition e2_ptupcdr --output results/ablation_e2_ptupcdr.json
     python3 scripts/run_ablation.py --condition f_raw --output results/ablation_f_raw.json
+    python3 scripts/run_ablation.py --condition g_tallrec --output results/ablation_g_tallrec.json
 
 설계 참고: docs/phase4/Phase4_Evaluation_Plan.pdf §1, §3.2
 """
@@ -24,8 +26,10 @@ from pathlib import Path
 CONDITION_FLOWS = {
     "a_single": "GPT-4o-mini가 raw 영화 리뷰 30개를 직접 보고 Top-10 추천 (Profile 없음, 학습 없음)",
     "b_prompt": "GPT-4o-mini가 Profile JSON을 보고 transfer_decisions + Top-10 추천 (학습 없음)",
-    "e_traditional": "EMCDR 또는 CoNet (matrix factorization 기반 cross-domain)",
+    "e1_emcdr": "EMCDR (Man et al., IJCAI 2017) — embedding mapping cross-domain",
+    "e2_ptupcdr": "PTUPCDR (Zhu et al., WSDM 2022) — personalized transfer + meta-learning",
     "f_raw": "Qwen3-14B를 raw 영화 리뷰로 학습 후 추천 (Profile 없음)",
+    "g_tallrec": "TALLRec (Bao et al., RecSys 2023) — LLM as recommender via instruction SFT",
 }
 
 
@@ -78,16 +82,37 @@ def main():
        - 출력 + 메트릭
     3. results/ablation_b_prompt.json 저장
 """)
-    elif args.condition == "e_traditional":
+    elif args.condition == "e1_emcdr":
         print("""
-  (e) Traditional CDR 구현:
-    1. EMCDR 또는 CoNet 구현 — 가장 단순한 EMCDR 추천:
-       - User-Movie rating matrix + User-Book rating matrix
-       - Matrix factorization → user/item latent vector
-       - Cross-domain mapping (mlp)
-    2. 학습 + 평가 동일 데이터셋 사용 (train 578, test 100)
-    3. results/ablation_e_traditional.json 저장
-       (실제 구현은 https://github.com/Songweiping/EMCDR-pytorch 참고)
+  (e1) EMCDR 구현 (Man et al., IJCAI 2017):
+    1. Source MF: User-Movie rating matrix → user_src, item_src 잠재 벡터
+    2. Target MF: User-Book rating matrix → user_tgt, item_tgt 잠재 벡터
+    3. Mapping MLP: user_src → user_tgt 학습 (overlap user로 supervision)
+    4. Test: user_src → MLP → user_tgt → 후보 50권과 내적 → Top-10
+    5. results/ablation_e1_emcdr.json 저장
+       참고: https://github.com/Songweiping/EMCDR-pytorch
+""")
+    elif args.condition == "e2_ptupcdr":
+        print("""
+  (e2) PTUPCDR 구현 (Zhu et al., WSDM 2022):
+    1. Personalized Transfer: 사용자별 다른 mapping function 학습
+    2. Meta-learning framework (MAML)
+    3. Bridge: source/target embedding 사이의 사용자-specific transformation
+    4. 동일 train/test split 사용
+    5. results/ablation_e2_ptupcdr.json 저장
+       참고: https://github.com/easezyc/WSDM2022-PTUPCDR
+""")
+    elif args.condition == "g_tallrec":
+        print("""
+  (g) TALLRec 구현 (Bao et al., RecSys 2023):
+    1. LLM 기반 추천 — Qwen3-14B (또는 LLaMA-7B) + LoRA
+    2. 입력 형식: "User has watched [movie list]. Will they like [book]?"
+       (각 후보 50권을 개별 binary 분류 → Top-10 ranking)
+    3. 학습 데이터: 본 연구의 train 578명 + GT binary signal
+    4. 추론: 50권 후보에 대해 각각 logit 계산 → 상위 10개
+    5. results/ablation_g_tallrec.json 저장
+       참고: https://github.com/SAI990323/TALLRec
+       주의: TALLRec은 본 연구처럼 Profile·Gate 사용 안 함 → 직접 비교 대상
 """)
     elif args.condition == "f_raw":
         print("""

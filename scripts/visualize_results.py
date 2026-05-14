@@ -29,14 +29,16 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 
-CONDITIONS = ["a_single", "b_prompt", "c_ours", "d_no_gate", "e_traditional", "f_raw"]
+CONDITIONS = ["a_single", "b_prompt", "c_ours", "d_no_gate", "e1_emcdr", "e2_ptupcdr", "f_raw", "g_tallrec"]
 CONDITION_LABELS = {
     "a_single": "(a) Single LLM",
     "b_prompt": "(b) Prompt-only",
     "c_ours": "(c) Ours ★",
     "d_no_gate": "(d) w/o Gate",
-    "e_traditional": "(e) Traditional CDR",
+    "e1_emcdr": "(e1) EMCDR",
+    "e2_ptupcdr": "(e2) PTUPCDR",
     "f_raw": "(f) Raw Review",
+    "g_tallrec": "(g) TALLRec",
 }
 PATTERNS = ["genre_preference", "narrative_complexity", "pacing_preference",
             "quality_sensitivity", "brand_loyalty", "sensory_preference",

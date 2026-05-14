@@ -236,18 +236,21 @@ NTD < 0이면 그 패턴은 BLOCK이 정답 (예: brand_loyalty 예상).
 
 ---
 
-## 8. 조건 간 비교표 (Phase 4 최종)
+## 8. 조건 간 비교표 (Phase 4 최종, 8 conditions)
 
-| 조건 | 모델 | HR@10 | NDCG@10 | PDA | 비고 |
-|------|------|-------|---------|-----|------|
-| (a) Single LLM | GPT-4o-mini (Profile 없이) | ? | ? | N/A | 단순 baseline |
-| (b) Prompt-only | GPT-4o-mini (Profile 있음, gate 없음) | ? | ? | ? | LLM 본인 추론력 |
-| **(c) Ours** | **Qwen3-14B QLoRA (Profile + Gate)** | **?** | **?** | **?** | **본 연구 주장** |
+| 조건 | 모델·방식 | HR@10 | NDCG@10 | PDA | 비고 |
+|------|----------|-------|---------|-----|------|
+| (a) Single LLM | GPT-4o-mini (Profile 없이, zero-shot) | ? | ? | N/A | 단순 LLM baseline |
+| (b) Prompt-only | GPT-4o-mini (Profile 있음, gate·학습 없음) | ? | ? | ? | LLM 본인 추론력 |
+| **(c) Ours** | **Qwen3-14B QLoRA (Profile + Gate + 578줄 SFT)** | **?** | **?** | **?** | **본 연구 주장** |
 | (d) w/o Gate | Qwen3-14B QLoRA (Profile만, gate 비활성) | ? | ? | ? | Gate 효과 측정 |
-| (e) 전통 CDR | EMCDR / CoNet | ? | ? | N/A | 전통 비교 |
-| (f) Raw Review | Qwen3-14B (Profile 없이 raw review) | ? | ? | N/A | Profile 효과 |
+| (e1) EMCDR | Embedding mapping (Man et al., 2017) | ? | ? | N/A | 전통 CDR (고전) |
+| **(e2) PTUPCDR** | **Personalized Transfer (Zhu et al., 2022)** | ? | ? | N/A | **전통 CDR 최신** |
+| (f) Raw Review | Qwen3-14B (Profile 없이 raw review로 SFT) | ? | ? | N/A | Profile 효과 검증 |
+| **(g) TALLRec** | **Bao et al., RecSys 2023 — LLM as recommender** | **?** | **?** | N/A | **LLM CDR SOTA** |
 
-**핵심 가설**:
-1. **(c) > (a)·(b)·(f)**: Profile + Gate 학습 효과
+**핵심 가설** (Codex 권장 반영, 외부 비교 강화):
+1. **(c) > (a)·(b)·(f)**: Profile + Gate 학습 효과 (자기 검증)
 2. **(c) > (d)**: Gate 자체의 효과 (BLOCK·PARTIAL 판단)
-3. **(c) > (e)**: LLM 기반 접근이 전통 CDR 대비 우위
+3. **(c) > (e1)·(e2)**: LLM 기반이 전통 CDR (고전·최신) 대비 우위
+4. **(c) > (g)**: ★ **selective transfer가 monolithic LLM CDR 대비 우위** — 가장 중요한 비교

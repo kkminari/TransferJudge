@@ -53,31 +53,47 @@ HR@k·NDCG@k·MRR + Pattern Decision Accuracy 등 11개 지표로 본 연구의 
 
 <table>
 <tr><th>RQ</th><th>가설</th><th>검증 조건</th></tr>
-<tr><td>RQ1</td><td>구조화된 Profile이 raw review보다 cross-domain 추천을 개선한다</td>
-    <td>(c) vs (f) Raw Review</td></tr>
+<tr><td>RQ1</td><td>구조화된 Profile이 raw review와 전통 CDR보다 cross-domain 추천을 개선한다</td>
+    <td>(c) vs (f) Raw Review, (c) vs (e1)(e2) 전통 CDR</td></tr>
 <tr><td>RQ2</td><td>Transfer Gate (TRANSFER/PARTIAL/BLOCK)가 성능에 기여한다</td>
     <td>(c) vs (d) w/o Gate</td></tr>
-<tr><td>RQ3</td><td>Profiler-Judge 분리 + Judge 파인튜닝이 단일 LLM·prompt-only보다 낫다</td>
-    <td>(c) vs (a), (b)</td></tr>
+<tr><td>RQ3</td><td>Profiler-Judge 분리 + Judge 파인튜닝이 단일 LLM·prompt-only·기존 LLM CDR보다 낫다</td>
+    <td>(c) vs (a), (b), (g) TALLRec</td></tr>
 </table>
 
-<h2>1. 6개 평가 조건 (Conditions)</h2>
+<h2>1. 8개 평가 조건 (Conditions) — Codex 권장 baseline 확장</h2>
 
 <table>
 <tr><th>조건</th><th>모델·방식</th><th>Profile</th><th>Gate</th><th>학습</th><th>환경</th></tr>
 <tr><td>(a) Single LLM</td><td>GPT-4o-mini (raw review 직접 입력 + Top-10 추천)</td>
-    <td>❌</td><td>❌</td><td>없음 (zero-shot)</td><td>💻 Mac (OpenAI API)</td></tr>
+    <td>❌</td><td>❌</td><td>zero-shot</td><td>💻 Mac (OpenAI)</td></tr>
 <tr><td>(b) Prompt-only</td><td>GPT-4o-mini (Profile + 추천, 학습·gate 없음)</td>
-    <td>✅</td><td>❌</td><td>없음 (zero-shot)</td><td>💻 Mac (OpenAI API)</td></tr>
-<tr class="highlight-row"><td>(c) Ours ★</td><td>Qwen3-14B QLoRA (Profile + Gate + 학습)</td>
-    <td>✅</td><td>✅</td><td>578줄 SFT</td><td>☁️ RunPod GPU</td></tr>
+    <td>✅</td><td>❌</td><td>zero-shot</td><td>💻 Mac (OpenAI)</td></tr>
+<tr class="highlight-row"><td><strong>(c) Ours ★</strong></td><td>Qwen3-14B QLoRA (Profile + Gate + 578줄 SFT)</td>
+    <td>✅</td><td>✅</td><td>578줄 SFT</td><td>☁️ RunPod</td></tr>
 <tr><td>(d) w/o Gate</td><td>Qwen3-14B QLoRA (Profile만, gate 비활성)</td>
-    <td>✅</td><td>❌</td><td>578줄 SFT 동일</td><td>☁️ RunPod GPU</td></tr>
-<tr><td>(e) 전통 CDR</td><td>EMCDR 또는 CoNet (collaborative filtering 기반)</td>
-    <td>—</td><td>—</td><td>matrix factorization</td><td>☁️ RunPod GPU</td></tr>
-<tr><td>(f) Raw Review</td><td>Qwen3-14B (Profile 없이 raw review 직접)</td>
-    <td>❌</td><td>❌</td><td>같은 데이터 fine-tune</td><td>☁️ RunPod GPU</td></tr>
+    <td>✅</td><td>❌</td><td>578줄 SFT</td><td>☁️ RunPod</td></tr>
+<tr><td>(e1) EMCDR (2017)</td><td>Embedding mapping (Man et al., IJCAI)</td>
+    <td>—</td><td>—</td><td>matrix factorization</td><td>☁️ RunPod</td></tr>
+<tr><td><strong>(e2) PTUPCDR (2022)</strong></td><td><strong>Personalized Transfer (Zhu et al., WSDM) — 최신 전통 CDR</strong></td>
+    <td>—</td><td>—</td><td>meta-learning</td><td>☁️ RunPod</td></tr>
+<tr><td>(f) Raw Review</td><td>Qwen3-14B (Profile 없이 raw review로 SFT)</td>
+    <td>❌</td><td>❌</td><td>같은 데이터, raw 입력</td><td>☁️ RunPod</td></tr>
+<tr><td><strong>(g) TALLRec (2023)</strong></td><td><strong>Bao et al. (RecSys) — LLM as recommender via instruction SFT</strong></td>
+    <td>—</td><td>❌</td><td>review-based SFT</td><td>☁️ RunPod</td></tr>
 </table>
+
+<div class="callout">
+<strong>baseline 강화 근거 (Codex 권장 반영)</strong><br>
+이전 6 conditions는 (e) 1개 외엔 모두 본 연구의 변형 → 사실상 self-ablation에 가까웠음.
+강화한 baseline 2개:
+<ul>
+<li><strong>(e2) PTUPCDR</strong>: 2017 EMCDR만으로는 최신성 부족. 2022 SOTA 전통 CDR로 spectrum 확장.</li>
+<li><strong>(g) TALLRec</strong>: 본 연구도 LLM 기반인데 다른 LLM CDR 비교 없으면 심사 약함.
+가장 인용 많은 LLM CDR (RecSys 2023).</li>
+</ul>
+추가 비용 +$3, 시간 +2h. 본 연구 차별성(selective transfer)을 명확히 입증.
+</div>
 
 <div class="callout-warn">
 모든 조건은 <strong>동일한 Test 100명</strong> + <strong>동일한 후보 50권 (seed=42)</strong>에서 평가.
@@ -164,8 +180,10 @@ HR@k·NDCG@k·MRR + Pattern Decision Accuracy 등 11개 지표로 본 연구의 
 <tr><td>4b-ii</td><td>(b) Prompt-only</td><td>Mac (OpenAI)</td><td>~2h</td><td>$2~3</td></tr>
 <tr><td>4b-iii</td><td>(d) w/o Gate</td><td>RunPod</td><td>~2h</td><td>$2~3</td></tr>
 <tr><td>4b-iv</td><td>(f) Raw Review</td><td>RunPod</td><td>~2h</td><td>$2~3</td></tr>
-<tr><td>4c</td><td>(e) 전통 CDR (학습 + 평가)</td><td>RunPod</td><td>~4h</td><td>$2~3</td></tr>
-<tr><td><strong>총</strong></td><td>—</td><td>—</td><td><strong>~14h</strong></td><td><strong>$11~17</strong></td></tr>
+<tr><td>4c-i</td><td>(e1) EMCDR</td><td>RunPod</td><td>~2h</td><td>$1~2</td></tr>
+<tr><td><strong>4c-ii</strong></td><td><strong>(e2) PTUPCDR</strong></td><td>RunPod</td><td><strong>~2h</strong></td><td><strong>$1~2</strong></td></tr>
+<tr><td><strong>4d</strong></td><td><strong>(g) TALLRec</strong></td><td>RunPod</td><td><strong>~3h (학습 + 평가)</strong></td><td><strong>$2~3</strong></td></tr>
+<tr><td><strong>총</strong></td><td>—</td><td>—</td><td><strong>~17h</strong></td><td><strong>$13~21</strong></td></tr>
 </table>
 
 <h2>5. 코드 실행 명령어</h2>
@@ -203,12 +221,14 @@ make ablation-all</pre>
 
 <table>
 <tr><th>기준</th><th>판정</th></tr>
-<tr><td>6개 결과 파일 모두 생성</td><td>필수</td></tr>
-<tr><td>HR@10 (c) > HR@10 (a), (b), (f)</td><td>RQ3 부분 검증</td></tr>
-<tr><td>NDCG@10 (c) > NDCG@10 (d)</td><td>RQ2 검증 (Gate 효과)</td></tr>
-<tr><td>NDCG@10 (c) > NDCG@10 (e)</td><td>LLM 우위</td></tr>
+<tr><td>8개 결과 파일 모두 생성</td><td>필수</td></tr>
+<tr><td>HR@10 (c) > HR@10 (a), (b), (f)</td><td>RQ3 부분 (단순 baseline)</td></tr>
+<tr><td><strong>HR@10 (c) > HR@10 (g) TALLRec</strong></td><td><strong>RQ3 핵심 — LLM CDR 대비 우위</strong></td></tr>
+<tr><td>NDCG@10 (c) > NDCG@10 (d)</td><td>RQ2 — Gate 효과</td></tr>
+<tr><td>NDCG@10 (c) > NDCG@10 (e1), (e2)</td><td>RQ1 — Profile 효과 vs 전통 CDR</td></tr>
 <tr><td>Pattern Decision Accuracy ≥ 0.80</td><td>Judge 학습 품질</td></tr>
-<tr><td>paired t-test (c) vs (a) p < 0.05</td><td>통계적 유의성</td></tr>
+<tr><td>paired t-test (c) vs (a) p < 0.05</td><td>통계적 유의성 (vs 단순)</td></tr>
+<tr><td><strong>paired t-test (c) vs (g) TALLRec p < 0.05</strong></td><td><strong>통계적 유의성 (vs LLM SOTA)</strong></td></tr>
 </table>
 
 <div class="callout-green">

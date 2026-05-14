@@ -46,9 +46,13 @@ This work demonstrates that (i) selective transfer outperforms uniform transfer 
 - 두 사례의 차이: **medium-specific vs medium-agnostic**
 
 ### 1.3 Research Questions
-- RQ1: 구조화된 Profile이 raw review보다 추천을 개선하는가?
-- RQ2: Transfer Gate (TRANSFER/PARTIAL/BLOCK)가 실제로 성능에 기여하는가?
-- RQ3: Profiler-Judge 분리 + Judge 파인튜닝이 prompt-only나 single LLM보다 나은가?
+
+- **RQ1**: 구조화된 Profile이 raw review와 **전통 CDR (EMCDR, PTUPCDR)** 보다 추천을 개선하는가?
+- **RQ2**: Transfer Gate (TRANSFER/PARTIAL/BLOCK)가 실제로 성능에 기여하는가?
+- **RQ3**: Profiler-Judge 분리 + Judge 파인튜닝이 prompt-only, single LLM, **기존 LLM CDR (TALLRec)** 보다 나은가?
+
+(외부 검토 반영: 단순 self-ablation을 넘어 전통 CDR 2종 + LLM CDR 1종을 baseline으로 포함하여
+"본 연구만의 selective transfer가 monolithic 접근들과 어떻게 다른가"를 직접 검증)
 
 ### 1.4 Contributions (Bullet Points)
 1. **개념적**: Selective transfer 패러다임 제시 — 모든 신호가 전이 가능한 것이 아니다
@@ -61,17 +65,30 @@ This work demonstrates that (i) selective transfer outperforms uniform transfer 
 ## 2. Related Work (~3-4 pages)
 
 ### 2.1 Cross-Domain Recommendation
-**Traditional**:
-- EMCDR (Man et al., 2017) — embedding mapping
-- CoNet (Hu et al., 2018) — cross-domain neural network
-- PTUPCDR (Zhu et al., 2022) — personalized transfer
-- Limitation: 모든 latent feature 전이 가정
 
-**LLM-based**:
-- TALLRec (Bao et al., RecSys 2023) — LLM as recommender via instruction tuning
+**Traditional (collaborative filtering 기반)**:
+- **EMCDR (Man et al., IJCAI 2017)** — embedding mapping + MLP cross-domain transfer
+  → 본 연구 (e1) baseline
+- CoNet (Hu et al., 2018) — cross-domain neural network
+- **PTUPCDR (Zhu et al., WSDM 2022)** — personalized transfer + meta-learning, SOTA
+  → 본 연구 (e2) baseline
+- BiTGCF (Liu et al., 2020) — bidirectional transfer GCN
+- Limitation: latent feature 전이 가정, **패턴별 선택성 부재**
+
+**LLM-based (최근 흐름)**:
+- **TALLRec (Bao et al., RecSys 2023)** — LLM as recommender via instruction SFT, 가장 인용 많은 LLM CDR
+  → 본 연구 (g) baseline ★
 - LLM4CDR (Zhang et al., 2024) — LLM for CDR with prompt engineering
-- TrineCDR (Liu et al., 2024) — knowledge distillation for CDR
-- Limitation: 단일 prompt에 모든 신호 통합 → 패턴별 선택성 부재
+- TrineCDR (Liu et al., 2024) — knowledge distillation for CDR (본 연구와 동일 접근이나 monolithic)
+- Limitation: 단일 prompt에 모든 신호 통합, **transfer 가능성을 명시적으로 모델링하지 않음**
+
+**본 연구 차별성**:
+| 측면 | Traditional CDR | LLM CDR (TALLRec 등) | **TransferJudge (Ours)** |
+|------|----------------|---------------------|-------------------------|
+| Source 신호 처리 | latent vector | raw review/instruction | **structured 7-pattern profile** |
+| Transfer 결정 | implicit (mapping function) | implicit (LLM 내부) | **explicit per-pattern gate** |
+| 부정 전이 차단 | 불가 | 불가 | **명시적 BLOCK 판정** |
+| Cold-start 적합도 | 제한적 (latent 학습 필요) | 가능 | **검증된 강건성** |
 
 ### 2.2 LLM Knowledge Distillation
 - Self-distillation (Hinton et al., 2015)
@@ -151,13 +168,21 @@ This work demonstrates that (i) selective transfer outperforms uniform transfer 
 - Metrics: HR@1, HR@5, HR@10, NDCG@5, NDCG@10, MRR
 - Plus: JSONValid, SchemaComplete, CandMembership, BLOCKLeakage, PDA, Decision JSD
 
-### 4.3 Baselines (6 Conditions)
-- (a) Single LLM (GPT-4o-mini, raw review → Top-10)
-- (b) Profiler-Judge Prompt-only (GPT-4o-mini, Profile but no gate, no training)
-- (c) **Ours** (Qwen3-14B QLoRA, Profile + Gate + 578-shot training)
-- (d) w/o Gate (Qwen3-14B, Profile but gate disabled)
-- (e) Traditional CDR (EMCDR or CoNet)
-- (f) Raw Review (Qwen3-14B trained on raw reviews, no Profile)
+### 4.3 Baselines (8 Conditions)
+
+**자기 검증용 (4개)**:
+- (a) Single LLM — GPT-4o-mini, raw review → Top-10, zero-shot
+- (b) Profiler-Judge Prompt-only — GPT-4o-mini, Profile + no gate, zero-shot
+- (c) **Ours** ★ — Qwen3-14B QLoRA, Profile + Gate + 578-shot training
+- (d) w/o Gate — Qwen3-14B QLoRA, Profile but gate disabled
+- (f) Raw Review — Qwen3-14B trained on raw reviews, no Profile
+
+**외부 baseline (3개)** — Codex 권장 반영:
+- (e1) **EMCDR (Man et al., IJCAI 2017)** — 고전 cross-domain matrix factorization
+- (e2) **PTUPCDR (Zhu et al., WSDM 2022)** — 최신 personalized transfer + meta-learning
+- (g) **TALLRec (Bao et al., RecSys 2023)** — LLM as recommender via instruction SFT (가장 인용 많은 LLM CDR)
+
+8개 모두 동일한 Test 100명, 동일한 후보 50권 (seed=42)에서 평가하여 공정 비교.
 
 ### 4.4 Implementation Details
 - Profiler: GPT-4o-mini, temp 0.0, seed 42

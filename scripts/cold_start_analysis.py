@@ -48,8 +48,9 @@ def main():
     print(test_df["segment"].value_counts())
     print()
 
-    # 각 ablation 결과 파일 로드
-    conditions = ["a_single", "b_prompt", "c_ours", "d_no_gate", "e_traditional", "f_raw"]
+    # 각 ablation 결과 파일 로드 (Codex 권장 8 conditions)
+    conditions = ["a_single", "b_prompt", "c_ours", "d_no_gate",
+                  "e1_emcdr", "e2_ptupcdr", "f_raw", "g_tallrec"]
     all_results = {}
 
     for cond in conditions:
