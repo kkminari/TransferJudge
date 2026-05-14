@@ -1,0 +1,107 @@
+# ============================================================
+# TransferJudge — Judge 모델 QLoRA 파인튜닝 설정
+# ============================================================
+# 목적: Cross-domain Transfer Judge (TRANSFER/PARTIAL/BLOCK + Top-10 추천)
+# 베이스: Qwen3-14B + QLoRA
+# 데이터: Teacher distillation 578건 (Phase 2 정합성 정리 후)
+# 환경: RunPod A100 80GB 단일 GPU
+
+# ============================================================
+# 모델 설정
+# ============================================================
+model:
+  name: "Qwen/Qwen3-14B"
+  max_seq_length: 8192           # Profile JSON + 50권 후보 = 평균 ~5,000 토큰
+                                  # Phase 2 통계: P95 ~6,500, max ~7,800
+
+# ============================================================
+# 양자화 (Quantization) 설정
+# ============================================================
+# 14B 모델: FP16 ~28GB → 4bit ~8GB로 축소 (A100 80GB에서 여유)
+quantization:
+  load_in_4bit: true
+  bnb_4bit_quant_type: "nf4"
+  bnb_4bit_compute_dtype: "bfloat16"
+  bnb_4bit_use_double_quant: true
+
+# ============================================================
+# LoRA 설정
+# ============================================================
+# 데이터 578건 (소규모) → r=16 적절
+# Codex 가이드: 500~5,000건 → r=16~32, 본 연구는 하한 적용
+lora:
+  r: 16
+  lora_alpha: 32                 # 2 × r
+  lora_dropout: 0.1              # 소규모 데이터 → 과적합 방지 강화
+  target_modules:
+    - q_proj
+    - k_proj
+    - v_proj
+    - o_proj
+    - gate_proj
+    - up_proj
+    - down_proj
+  bias: "none"
+  task_type: "CAUSAL_LM"
+
+# ============================================================
+# 학습 하이퍼파라미터
+# ============================================================
+training:
+  num_train_epochs: 5             # 소규모 데이터 → 3~5 epochs
+  per_device_train_batch_size: 1  # max_seq_length=8192 → 메모리 안전치
+  per_device_eval_batch_size: 1
+  gradient_accumulation_steps: 16 # 실효 배치 = 1 × 16 = 16
+  learning_rate: 2.0e-4           # QLoRA 표준
+  lr_scheduler_type: "cosine"
+  warmup_ratio: 0.05
+  optim: "paged_adamw_8bit"
+  fp16: false
+  bf16: true                      # A100/H100 권장
+  logging_steps: 5
+  eval_strategy: "epoch"
+  save_strategy: "epoch"
+  save_total_limit: 3
+  load_best_model_at_end: true
+  metric_for_best_model: "eval_loss"
+  greater_is_better: false
+  report_to: "wandb"              # wandb 미설정 시 "none"으로 변경
+  gradient_checkpointing: true    # 메모리 절약 (느려지지만 안전)
+  seed: 42
+
+# ============================================================
+# 데이터 설정
+# ============================================================
+data:
+  train_path: "data/teacher_train_main.jsonl"   # 578줄 (정합성 정리 후)
+  # valid 데이터는 train의 마지막 ~10%를 자동 분리 (val_ratio_from_train)
+  val_ratio_from_train: 0.1                     # train 578 × 0.1 = 58줄을 valid로
+  # test는 train_judge.py에서 사용하지 않음 (Phase 4 evaluate_judge.py에서 사용)
+
+# ============================================================
+# Early stopping
+# ============================================================
+early_stopping:
+  patience: 2                    # eval_loss 2 epoch 연속 개선 없으면 종료
+
+# ============================================================
+# WandB (선택)
+# ============================================================
+wandb:
+  project: "transferjudge"
+  run_name: "qwen3-14b-qlora-judge-v1"
+
+# ============================================================
+# 출력 경로
+# ============================================================
+output:
+  output_dir: "checkpoints/judge_v1"
+  adapter_dir: "checkpoints/judge_v1/adapter"   # LoRA 어댑터만 저장 (~50MB)
+
+# ============================================================
+# 추론 설정 (Phase 4 evaluate에서 사용)
+# ============================================================
+inference:
+  temperature: 0.0               # 결정적 출력 (JSON 일관성)
+  max_new_tokens: 2500           # transfer_decisions + Top-10 JSON 충분
+  do_sample: false
