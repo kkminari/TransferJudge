@@ -165,6 +165,17 @@ def apply_lora(model, config: dict):
 # ============================================================
 
 def train(config: dict):
+    # --- 런타임 환경 출력 (Codex 권장: 버전 조합 검증) ---
+    try:
+        import transformers as _hf, trl as _trl, peft as _peft
+        print(f"\n[환경] transformers={_hf.__version__}, trl={_trl.__version__}, peft={_peft.__version__}")
+        # Qwen3 권장 최소 버전 체크
+        hf_v = tuple(int(x) for x in _hf.__version__.split(".")[:2])
+        if hf_v < (4, 46):
+            print(f"  ⚠ transformers < 4.46 — Qwen3 chat template 이슈 가능")
+    except Exception as e:
+        print(f"  ⚠ 버전 출력 실패: {e}")
+
     # --- WandB (선택) ---
     use_wandb = config["training"].get("report_to") == "wandb"
     if use_wandb:
@@ -246,16 +257,21 @@ def train(config: dict):
     if train_cfg.get("_max_steps_override"):
         sft_kwargs["max_steps"] = int(train_cfg["_max_steps_override"])
         print(f"  🧪 smoke test: max_steps={sft_kwargs['max_steps']}")
-    # assistant_only_loss (TRL 버전에 따라 미지원 가능 — 안전하게 try)
+    # ★ assistant_only_loss: 논문용 학습이라 hard fail (조용한 prompt 학습 방지)
     if train_cfg.get("assistant_only_loss"):
         try:
             sft_config = SFTConfig(**sft_kwargs, assistant_only_loss=True)
             print("  ✅ assistant_only_loss=True (prompt 토큰은 loss에서 제외)")
-        except TypeError:
-            print("  ⚠ 현재 TRL 버전이 assistant_only_loss 미지원 — 기본 모드로 진행")
-            sft_config = SFTConfig(**sft_kwargs)
+        except TypeError as e:
+            raise RuntimeError(
+                "현재 TRL 버전이 assistant_only_loss를 지원하지 않습니다. "
+                "본 연구는 prompt 토큰이 loss에 포함되면 학습 품질이 보장되지 않습니다.\n"
+                "조치: pip install -U 'trl>=0.13' 또는 최신 trl 설치 후 재실행.\n"
+                f"원인: {e}"
+            )
     else:
         sft_config = SFTConfig(**sft_kwargs)
+        print("  ⚠ assistant_only_loss 미설정 — prompt 토큰까지 loss에 포함됨 (config 확인 권장)")
 
     print(f"\n학습 설정:")
     print(f"  실효 배치: {train_cfg['per_device_train_batch_size']} × {train_cfg['gradient_accumulation_steps']} = {train_cfg['per_device_train_batch_size'] * train_cfg['gradient_accumulation_steps']}")
@@ -343,7 +359,11 @@ if __name__ == "__main__":
         config["training"]["load_best_model_at_end"] = False
         config["training"]["logging_steps"] = 1
         config["training"]["report_to"] = "none"
-        # max_steps로 강제 2 step
         config["training"]["_max_steps_override"] = 2
+        # ★ smoke test 결과를 본 학습 dir과 분리 — 충돌 방지
+        config["output"]["output_dir"] = "checkpoints/_smoke_test"
+        config["output"]["adapter_dir"] = "checkpoints/_smoke_test/adapter"
+        print(f"  smoke output_dir: {config['output']['output_dir']}")
+        print(f"  (본 학습은 'checkpoints/judge_v1'를 사용 — 충돌 없음)")
 
     train(config)

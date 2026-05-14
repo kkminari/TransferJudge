@@ -72,18 +72,21 @@ ls -lh data/books_meta_filtered.parquet
 ```bash
 # 의존성·tokenizer·assistant_only_loss·LoRA 적용·dataloader 등 전 흐름 확인
 # 약 5-10분, GPU $0.2 이내
+# smoke 결과는 checkpoints/_smoke_test/ 에 저장 (본 학습 dir과 분리)
 python3 scripts/train_judge.py --smoke-test
 
-# 성공 신호:
+# 통과 신호 (이 4개 모두 확인):
+#   [환경] transformers=4.5x.x, trl=0.1x.x, peft=0.1x.x
 #   ✅ assistant_only_loss=True (prompt 토큰은 loss에서 제외)
 #   🧪 smoke test: max_steps=2
-#   ... loss=2.xx (정상값)
+#   loss=2.xx (NaN 아님)
 #   학습 완료!
 
 # 실패 시:
-#   - TypeError: SFTConfig got unexpected keyword 'assistant_only_loss'
-#     → trl 버전 너무 낮음, pip install -U trl
-#   - CUDA OOM → max_seq_length를 4096으로 축소
+#   - RuntimeError: TRL 버전이 assistant_only_loss 미지원
+#     → pip install -U 'trl>=0.16' 후 재실행
+#   - CUDA OOM → configs/judge_training.yaml의 max_seq_length 8192 → 4096
+#   - transformers < 4.51 경고 → pip install -U 'transformers>=4.51'
 ```
 
 ### 4-B. 본 학습 (smoke test 통과 후, 백그라운드)
