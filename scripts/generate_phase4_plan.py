@@ -53,8 +53,8 @@ HR@k·NDCG@k·MRR + Pattern Decision Accuracy 등 11개 지표로 본 연구의 
 
 <table>
 <tr><th>RQ</th><th>가설</th><th>검증 조건</th></tr>
-<tr><td>RQ1</td><td>구조화된 preference profile은 raw review 입력 및 전통 CDR baselines 대비 cold-start CDR 성능을 개선하는가?</td>
-    <td>(c) vs (f), (c) vs (e1)(e2)</td></tr>
+<tr><td>RQ1</td><td>구조화된 preference profile은 raw review 입력 및 전통 CDR baseline 대비 cold-start CDR 성능을 개선하는가?</td>
+    <td>(c) vs (f), (c) vs (e)</td></tr>
 <tr><td>RQ2</td><td>Pattern-level Transfer Gate는 모든 preference signal을 균일하게 전이하는 방식보다 negative transfer를 줄이고 성능을 높이는가?</td>
     <td>(c) vs (d)</td></tr>
 <tr><td>RQ3</td><td>Profiler-Judge 구조와 Judge 파인튜닝은 single-prompt LLM / prompt-only / LLM-based CDR baseline 대비 더 효과적인가?</td>
@@ -68,7 +68,7 @@ RQ 문장은 <strong>"비교 범주" 중심</strong>으로 기술 (특정 논문
 구체적 baseline 모델은 아래 §1 8 conditions 표에서 명시.
 </div>
 
-<h2>1. 8개 평가 조건 (Conditions) — Codex 권장 baseline 확장</h2>
+<h2>1. 7개 평가 조건 (Conditions) — Codex 권장 현실 버전</h2>
 
 <table>
 <tr><th>조건</th><th>모델·방식</th><th>Profile</th><th>Gate</th><th>학습</th><th>환경</th></tr>
@@ -80,10 +80,8 @@ RQ 문장은 <strong>"비교 범주" 중심</strong>으로 기술 (특정 논문
     <td>✅</td><td>✅</td><td>578줄 SFT</td><td>☁️ RunPod</td></tr>
 <tr><td>(d) w/o Gate</td><td>Qwen3-14B QLoRA (Profile만, gate 비활성)</td>
     <td>✅</td><td>❌</td><td>578줄 SFT</td><td>☁️ RunPod</td></tr>
-<tr><td>(e1) EMCDR (2017)</td><td>Embedding mapping (Man et al., IJCAI)</td>
+<tr><td>(e) EMCDR (2017)</td><td>Embedding mapping (Man et al., IJCAI) — 전통 CDR 대표</td>
     <td>—</td><td>—</td><td>matrix factorization</td><td>☁️ RunPod</td></tr>
-<tr><td><strong>(e2) PTUPCDR (2022)</strong></td><td><strong>Personalized Transfer (Zhu et al., WSDM) — 최신 전통 CDR</strong></td>
-    <td>—</td><td>—</td><td>meta-learning</td><td>☁️ RunPod</td></tr>
 <tr><td>(f) Raw Review</td><td>Qwen3-14B (Profile 없이 raw review로 SFT)</td>
     <td>❌</td><td>❌</td><td>같은 데이터, raw 입력</td><td>☁️ RunPod</td></tr>
 <tr><td><strong>(g) LLM4CDR-style</strong></td>
@@ -92,17 +90,20 @@ RQ 문장은 <strong>"비교 범주" 중심</strong>으로 기술 (특정 논문
 </table>
 
 <div class="callout">
-<strong>baseline 강화 근거 (Codex 2차 권장 반영)</strong><br>
-이전 6 conditions는 (e) 1개 외엔 모두 본 연구의 변형 → 사실상 self-ablation에 가까웠음.
-강화한 baseline 2개:
+<strong>baseline 선정 근거 (Codex 3차 권장 — 현실 버전)</strong><br>
+이전 6 conditions는 self-ablation 위주 → 외부 비교 부족.
+이번엔 핵심만 1개씩 추가하여 7 conditions로 정리:
 <ul>
-<li><strong>(e2) PTUPCDR</strong> (WSDM 2022): 2017 EMCDR만으로는 최신성 부족. SOTA 전통 CDR.</li>
-<li><strong>(g) LLM4CDR-style</strong> (arXiv 2503.07761): 본 연구도 LLM 기반인데 직접 LLM CDR 비교 없으면 심사 약함.</li>
+<li><strong>(e) EMCDR</strong> (IJCAI 2017): 전통 CDR 대표. "LLM 기반 vs MF 기반" 검증 1개로 충분.</li>
+<li><strong>(g) LLM4CDR-style</strong> (arXiv 2503.07761): LLM 기반 CDR 직접 비교. 본 연구 핵심 차별성 입증.</li>
 </ul>
-<strong>TALLRec은 직접 baseline이 아님</strong>: TALLRec (Bao et al., RecSys 2023)은 single-domain
-LLM recommendation tuning 논문이며 cross-domain 비교 대상이 아니다. 따라서 본 연구의 LLM SFT 기법
-근거로 §2 Related Work에서만 인용하고, 직접 CDR baseline은 LLM4CDR-style로 채택.<br>
-추가 비용 +$3, 시간 +2h. 본 연구 차별성(selective transfer)을 명확히 입증.
+<strong>제외한 baseline (Related Work에서만 논의)</strong>:
+<ul>
+<li>PTUPCDR (WSDM 2022): meta-learning(MAML) 재현 부담 큼. 본 연구는 전통 CDR SOTA 재현이 목적 아님.</li>
+<li>TALLRec (RecSys 2023): single-domain LLM recommendation tuning. CDR 비교 대상 아님.</li>
+</ul>
+본 연구 핵심은 <strong>selective transfer + pattern gate (RQ2, RQ4)</strong>이므로 외부 비교는
+"방어용으로 충분히"만 가져가고 에너지는 (c) vs (d), (c) vs (g), RQ4 분석에 집중.
 </div>
 
 <div class="callout-warn">
@@ -190,11 +191,15 @@ LLM recommendation tuning 논문이며 cross-domain 비교 대상이 아니다. 
 <tr><td>4b-ii</td><td>(b) Prompt-only</td><td>Mac (OpenAI)</td><td>~2h</td><td>$2~3</td></tr>
 <tr><td>4b-iii</td><td>(d) w/o Gate</td><td>RunPod</td><td>~2h</td><td>$2~3</td></tr>
 <tr><td>4b-iv</td><td>(f) Raw Review</td><td>RunPod</td><td>~2h</td><td>$2~3</td></tr>
-<tr><td>4c-i</td><td>(e1) EMCDR</td><td>RunPod</td><td>~2h</td><td>$1~2</td></tr>
-<tr><td><strong>4c-ii</strong></td><td><strong>(e2) PTUPCDR</strong></td><td>RunPod</td><td><strong>~2h</strong></td><td><strong>$1~2</strong></td></tr>
+<tr><td>4c</td><td>(e) EMCDR</td><td>RunPod</td><td>~2h</td><td>$1~2</td></tr>
 <tr><td><strong>4d</strong></td><td><strong>(g) LLM4CDR-style</strong></td><td>RunPod</td><td><strong>~3h (학습 + 평가)</strong></td><td><strong>$2~3</strong></td></tr>
-<tr><td><strong>총</strong></td><td>—</td><td>—</td><td><strong>~17h</strong></td><td><strong>$13~21</strong></td></tr>
+<tr><td><strong>총</strong></td><td>—</td><td>—</td><td><strong>~15h</strong></td><td><strong>$12~19</strong></td></tr>
 </table>
+
+<div class="callout-green">
+PTUPCDR 제거로 <strong>2-3일 구현 시간 절감</strong>. 절약된 에너지는 Phase 5a Per-Pattern (RQ4)와
+(c) vs (g) LLM4CDR-style 비교 디버깅에 투입.
+</div>
 
 <h2>5. 코드 실행 명령어</h2>
 
@@ -231,11 +236,11 @@ make ablation-all</pre>
 
 <table>
 <tr><th>기준</th><th>판정</th></tr>
-<tr><td>8개 결과 파일 모두 생성</td><td>필수</td></tr>
+<tr><td>7개 결과 파일 모두 생성</td><td>필수</td></tr>
 <tr><td>HR@10 (c) > HR@10 (a), (b), (f)</td><td>RQ3 부분 (단순 baseline)</td></tr>
 <tr><td><strong>HR@10 (c) > HR@10 (g) LLM4CDR-style</strong></td><td><strong>RQ3 핵심 — LLM CDR 대비 우위</strong></td></tr>
 <tr><td>NDCG@10 (c) > NDCG@10 (d)</td><td>RQ2 — Gate 효과</td></tr>
-<tr><td>NDCG@10 (c) > NDCG@10 (e1), (e2)</td><td>RQ1 — Profile 효과 vs 전통 CDR</td></tr>
+<tr><td>NDCG@10 (c) > NDCG@10 (e)</td><td>RQ1 — Profile 효과 vs 전통 CDR</td></tr>
 <tr><td>Pattern Decision Accuracy ≥ 0.80</td><td>Judge 학습 품질</td></tr>
 <tr><td>paired t-test (c) vs (a) p < 0.05</td><td>통계적 유의성 (vs 단순)</td></tr>
 <tr><td><strong>paired t-test (c) vs (g) LLM4CDR-style p < 0.05</strong></td><td><strong>통계적 유의성 (vs LLM CDR)</strong></td></tr>

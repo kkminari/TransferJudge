@@ -50,7 +50,7 @@ def main():
 
     # 각 ablation 결과 파일 로드 (Codex 권장 8 conditions)
     conditions = ["a_single", "b_prompt", "c_ours", "d_no_gate",
-                  "e1_emcdr", "e2_ptupcdr", "f_raw", "g_llm4cdr"]
+                  "e_emcdr", "f_raw", "g_llm4cdr"]
     all_results = {}
 
     for cond in conditions:

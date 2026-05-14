@@ -9,8 +9,7 @@
 사용법:
     python3 scripts/run_ablation.py --condition a_single --output results/ablation_a_single.json
     python3 scripts/run_ablation.py --condition b_prompt --output results/ablation_b_prompt.json
-    python3 scripts/run_ablation.py --condition e1_emcdr --output results/ablation_e1_emcdr.json
-    python3 scripts/run_ablation.py --condition e2_ptupcdr --output results/ablation_e2_ptupcdr.json
+    python3 scripts/run_ablation.py --condition e_emcdr --output results/ablation_e_emcdr.json
     python3 scripts/run_ablation.py --condition f_raw --output results/ablation_f_raw.json
     python3 scripts/run_ablation.py --condition g_llm4cdr --output results/ablation_g_llm4cdr.json
 
@@ -26,8 +25,7 @@ from pathlib import Path
 CONDITION_FLOWS = {
     "a_single": "GPT-4o-mini가 raw 영화 리뷰 30개를 직접 보고 Top-10 추천 (Profile 없음, 학습 없음)",
     "b_prompt": "GPT-4o-mini가 Profile JSON을 보고 transfer_decisions + Top-10 추천 (학습 없음)",
-    "e1_emcdr": "EMCDR (Man et al., IJCAI 2017) — embedding mapping cross-domain",
-    "e2_ptupcdr": "PTUPCDR (Zhu et al., WSDM 2022) — personalized transfer + meta-learning",
+    "e_emcdr": "EMCDR (Man et al., IJCAI 2017) — embedding mapping cross-domain (전통 CDR 대표)",
     "f_raw": "Qwen3-14B를 raw 영화 리뷰로 학습 후 추천 (Profile 없음)",
     "g_llm4cdr": "LLM4CDR-style (Liu et al., arXiv 2503.07761) — single-LLM cross-domain recommendation",
 }
@@ -36,7 +34,8 @@ CONDITION_FLOWS = {
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--condition", type=str, required=True,
-                        choices=list(CONDITION_FLOWS.keys()))
+                        choices=list(CONDITION_FLOWS.keys()),
+                        help="One of: " + ", ".join(CONDITION_FLOWS.keys()))
     parser.add_argument("--test-users", type=Path, default=Path("data/test_users.parquet"))
     parser.add_argument("--profiles", type=Path, default=Path("profiler_outputs"),
                         help="(b) Prompt-only에서만 사용")
@@ -82,25 +81,17 @@ def main():
        - 출력 + 메트릭
     3. results/ablation_b_prompt.json 저장
 """)
-    elif args.condition == "e1_emcdr":
+    elif args.condition == "e_emcdr":
         print("""
-  (e1) EMCDR 구현 (Man et al., IJCAI 2017):
+  (e) EMCDR 구현 (Man et al., IJCAI 2017) — 전통 CDR 대표 baseline:
     1. Source MF: User-Movie rating matrix → user_src, item_src 잠재 벡터
     2. Target MF: User-Book rating matrix → user_tgt, item_tgt 잠재 벡터
     3. Mapping MLP: user_src → user_tgt 학습 (overlap user로 supervision)
     4. Test: user_src → MLP → user_tgt → 후보 50권과 내적 → Top-10
-    5. results/ablation_e1_emcdr.json 저장
+    5. results/ablation_e_emcdr.json 저장
        참고: https://github.com/Songweiping/EMCDR-pytorch
-""")
-    elif args.condition == "e2_ptupcdr":
-        print("""
-  (e2) PTUPCDR 구현 (Zhu et al., WSDM 2022):
-    1. Personalized Transfer: 사용자별 다른 mapping function 학습
-    2. Meta-learning framework (MAML)
-    3. Bridge: source/target embedding 사이의 사용자-specific transformation
-    4. 동일 train/test split 사용
-    5. results/ablation_e2_ptupcdr.json 저장
-       참고: https://github.com/easezyc/WSDM2022-PTUPCDR
+       구현 단순 (MF + MLP), 1-2시간 가능. 본 연구는 LLM 기반 selective transfer가 본질이라
+       전통 CDR 비교는 EMCDR 1개로 "방어용으로 충분히" 진행.
 """)
     elif args.condition == "g_llm4cdr":
         print("""

@@ -236,24 +236,25 @@ NTD < 0이면 그 패턴은 BLOCK이 정답 (예: brand_loyalty 예상).
 
 ---
 
-## 8. 조건 간 비교표 (Phase 4 최종, 8 conditions)
+## 8. 조건 간 비교표 (Phase 4 최종, 7 conditions — 현실 버전)
 
 | 조건 | 모델·방식 | HR@10 | NDCG@10 | PDA | 비고 |
 |------|----------|-------|---------|-----|------|
 | (a) Single LLM | GPT-4o-mini (Profile 없이, zero-shot) | ? | ? | N/A | 단순 LLM baseline |
 | (b) Prompt-only | GPT-4o-mini (Profile 있음, gate·학습 없음) | ? | ? | ? | LLM 본인 추론력 |
 | **(c) Ours** | **Qwen3-14B QLoRA (Profile + Gate + 578줄 SFT)** | **?** | **?** | **?** | **본 연구 주장** |
-| (d) w/o Gate | Qwen3-14B QLoRA (Profile만, gate 비활성) | ? | ? | ? | Gate 효과 측정 |
-| (e1) EMCDR | Embedding mapping (Man et al., 2017) | ? | ? | N/A | 전통 CDR (고전) |
-| **(e2) PTUPCDR** | **Personalized Transfer (Zhu et al., 2022)** | ? | ? | N/A | **전통 CDR 최신** |
-| (f) Raw Review | Qwen3-14B (Profile 없이 raw review로 SFT) | ? | ? | N/A | Profile 효과 검증 |
-| **(g) LLM4CDR-style** | **Liu et al., arXiv 2503.07761 — single-LLM CDR** | **?** | **?** | N/A | **LLM CDR 직접 비교** |
+| (d) w/o Gate | Qwen3-14B QLoRA (Profile만, gate 비활성) | ? | ? | ? | Gate 효과 측정 (RQ2) |
+| (e) EMCDR | Embedding mapping (Man et al., IJCAI 2017) | ? | ? | N/A | 전통 CDR 대표 (RQ1) |
+| (f) Raw Review | Qwen3-14B (Profile 없이 raw review로 SFT) | ? | ? | N/A | Profile 효과 검증 (RQ1) |
+| **(g) LLM4CDR-style** | **Liu et al., arXiv 2503.07761 — single-LLM CDR** | **?** | **?** | N/A | **LLM CDR 직접 비교 (RQ3 핵심)** |
 
-**핵심 가설** (Codex 2차 권장 반영, RQ 4개 + 비교 범주 명시):
+**핵심 가설** (RQ 4개 + 7 conditions):
 1. **(c) > (a)·(b)·(f)**: Profile + Gate 학습 효과 (자기 검증) → RQ3 부분
 2. **(c) > (d)**: Gate 자체의 효과 (BLOCK·PARTIAL 판단) → RQ2
-3. **(c) > (e1)·(e2)**: LLM 기반이 전통 CDR (고전·최신) 대비 우위 → RQ1
+3. **(c) > (e)**: LLM 기반이 전통 CDR 대비 우위 → RQ1
 4. **(c) > (g)**: ★ **selective transfer가 monolithic LLM CDR 대비 우위** → RQ3 핵심
 5. Phase 5a Per-Pattern 결과로 RQ4 답: 어떤 pattern이 transferable·partially·domain-specific
 
-**주의**: TALLRec은 §2 Related Work에서 LLM SFT 기법 근거로만 인용. 직접 CDR baseline 아님.
+**Related Work에서만 다룰 모델**:
+- PTUPCDR (WSDM 2022): meta-learning 기반 최신 전통 CDR. 본 연구 직접 비교 안 함.
+- TALLRec (RecSys 2023): single-domain LLM recommendation tuning. CDR 아님, SFT 기법 근거로만.

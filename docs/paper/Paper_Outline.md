@@ -50,7 +50,7 @@ This work demonstrates that (i) selective transfer outperforms uniform transfer 
 본 연구는 단순 self-ablation을 넘어 전통 CDR + LLM 기반 CDR baselines를 포함한 4가지 핵심 질문을 검증한다.
 RQ 문장은 **비교 범주 중심**으로 기술하며, 구체적 모델명은 §4 실험 설계에서 명시한다.
 
-- **RQ1**: 구조화된 preference profile은 raw review 입력 및 **전통 CDR baselines** 대비 cold-start CDR 성능을 개선하는가?
+- **RQ1**: 구조화된 preference profile은 raw review 입력 및 **전통 CDR baseline** 대비 cold-start CDR 성능을 개선하는가?
 - **RQ2**: Pattern-level Transfer Gate는 모든 preference signal을 균일하게 전이하는 방식보다 negative transfer를 줄이고 추천 성능을 높이는가?
 - **RQ3**: Profiler-Judge 구조와 Judge 파인튜닝은 single-prompt LLM / prompt-only / **LLM-based CDR baseline** 대비 더 효과적인가?
 - **RQ4**: Movies-to-Books 전이에서 어떤 preference pattern이 transferable, partially transferable, domain-specific으로 작동하는가?
@@ -184,14 +184,17 @@ RQ 문장은 **비교 범주 중심**으로 기술하며, 구체적 모델명은
 - (d) w/o Gate — Qwen3-14B QLoRA, Profile but gate disabled
 - (f) Raw Review — Qwen3-14B trained on raw reviews, no Profile
 
-**외부 baseline (3개)** — Codex 2차 권장 반영:
-- (e1) **EMCDR (Man et al., IJCAI 2017)** — 고전 cross-domain matrix factorization
-- (e2) **PTUPCDR (Zhu et al., WSDM 2022)** — 최신 personalized transfer + meta-learning
+**외부 baseline (2개, 현실 버전)** — Codex 3차 권장 반영:
+- (e) **EMCDR (Man et al., IJCAI 2017)** — 고전 cross-domain matrix factorization, 전통 CDR 대표
 - (g) **LLM4CDR-style baseline (Liu et al., arXiv 2503.07761)** — single-LLM cross-domain recommendation
-  ※ TALLRec은 single-domain recommendation으로 직접 CDR 비교 대상이 아니라 §2 Related Work에서
-  LLM SFT 기법 근거로만 인용. 본 연구의 직접 LLM CDR 비교는 LLM4CDR-style 접근으로 진행.
 
-8개 모두 동일한 Test 100명, 동일한 후보 50권 (seed=42)에서 평가하여 공정 비교.
+7개 conditions 모두 동일한 Test 100명, 동일한 후보 50권 (seed=42)에서 평가하여 공정 비교.
+
+**제외한 baseline + 이유**:
+- PTUPCDR (WSDM 2022): meta-learning(MAML) 기반 재현 부담 + 본 연구는 전통 CDR SOTA 재현이
+  목적 아님. §2 Related Work에서 최신 전통 CDR 흐름으로 논의.
+- TALLRec (RecSys 2023): single-domain LLM recommendation으로 직접 CDR 비교 대상 아님.
+  §2 Related Work에서 LLM SFT 기법 근거로만 인용.
 
 ### 4.4 Implementation Details
 - Profiler: GPT-4o-mini, temp 0.0, seed 42

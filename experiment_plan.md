@@ -19,18 +19,24 @@ Cross-Domain Cold-Start 환경(Movies & TV → Books)에서 TransferJudge의 Pro
 
 | RQ | 질문 | 핵심 비교 |
 |----|------|----------|
-| **RQ1** | 구조화된 preference profile은 raw review 입력 및 **전통 CDR baselines** 대비 cold-start CDR 성능을 개선하는가? | (c) vs (f), (c) vs (e1)(e2) |
+| **RQ1** | 구조화된 preference profile은 raw review 입력 및 **전통 CDR baseline** 대비 cold-start CDR 성능을 개선하는가? | (c) vs (f), (c) vs (e) |
 | **RQ2** | Pattern-level Transfer Gate는 모든 preference signal을 균일하게 전이하는 방식보다 negative transfer를 줄이고 추천 성능을 높이는가? | (c) vs (d) |
 | **RQ3** | Profiler-Judge 구조와 Judge 파인튜닝은 single-prompt LLM / prompt-only / **LLM-based CDR baseline** 대비 더 효과적인가? | (c) vs (a)(b)(g) |
 | **RQ4** | Movies-to-Books 전이에서 어떤 preference pattern이 transferable, partially transferable, domain-specific으로 작동하는가? | Phase 5a Per-Pattern Ablation |
 
-**Baseline 카테고리** (RQ 문장은 "범주" 중심, 실제 모델명은 §11 실험 설계 표 참조):
+**Baseline 카테고리 (7 conditions, Codex 권장 현실 버전)**:
 - 단순 LLM: (a) Single LLM zero-shot, (b) Prompt-only zero-shot
 - 본 연구 자기검증: (c) Ours ★, (d) w/o Gate, (f) Raw Review (no Profile)
-- 전통 CDR: (e1) EMCDR (IJCAI 2017), (e2) PTUPCDR (WSDM 2022)
-- **LLM 기반 CDR**: (g) **LLM4CDR-style** single-LLM CDR baseline
-  (TALLRec은 본 연구의 LLM recommendation fine-tuning 기법적 근거로 Related Work에 배치하되,
-   직접 CDR baseline으로는 사용하지 않음 — TALLRec은 single-domain LLM recommendation 논문)
+- **전통 CDR (1개)**: (e) EMCDR (IJCAI 2017) — 가장 인용 많은 고전 baseline
+- **LLM 기반 CDR (1개)**: (g) **LLM4CDR-style** single-LLM CDR baseline
+
+PTUPCDR (WSDM 2022)은 §2 Related Work에서 최신 전통 CDR 흐름으로 논의하되, 직접 baseline에는 포함하지 않음.
+이유: (i) 본 연구의 차별성은 LLM 기반 selective transfer이며 전통 CDR SOTA 재현이 아님,
+(ii) PTUPCDR은 meta-learning(MAML) 기반으로 재현 구현 부담 큼,
+(iii) 전통 CDR 1개로도 "LLM 기반이 전통 대비 효과적인가" 검증 가능.
+
+TALLRec(RecSys 2023)은 single-domain LLM recommendation tuning 논문으로, 본 연구의
+LLM SFT 기법적 근거로 Related Work에서만 인용. 직접 CDR baseline은 LLM4CDR-style로 통일.
 
 ### 1.3 리소스 예산
 
