@@ -33,9 +33,12 @@ hf_cache/
 # Qwen3-14B + QLoRA adapter = ~50MB → HF Hub로 동기화
 # 학습 메트릭만 예외로 git에 포함 (작은 JSON, 논문 분석용)
 # ============================================================
-checkpoints/
+checkpoints/*/*
 !checkpoints/*/trainer_state.json
 !checkpoints/*/training_args.bin
+# 주의: 기존 'checkpoints/' 패턴은 부모 디렉토리 자체를 ignore해 위 negation이
+# 무력화됨 (git docs: parent가 ignore면 child 재포함 불가). 'checkpoints/*/*'로 변경:
+# 'checkpoints/judge_v1/' 자체는 추적하지 않지만 ignore되지도 않아 negation 동작.
 # 주의: results/ (Phase 4·5 평가 결과)는 git에 push (작은 JSON·CSV)
 # 큰 임시 파일이 results/에 생기면 개별 ignore 추가
 
