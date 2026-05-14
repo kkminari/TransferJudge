@@ -17,6 +17,8 @@ import sys
 from collections import Counter
 from pathlib import Path
 
+import random
+
 import torch
 import yaml
 from datasets import Dataset
@@ -26,6 +28,7 @@ from transformers import (
     BitsAndBytesConfig,
     EarlyStoppingCallback,
 )
+from transformers.trainer_utils import get_last_checkpoint
 from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 from trl import SFTConfig, SFTTrainer
 
@@ -59,21 +62,26 @@ def load_jsonl(path: Path) -> list[dict]:
 def load_dataset_from_jsonl(config: dict) -> tuple[Dataset, Dataset]:
     """teacher_train_main.jsonl을 로드하고 train/valid로 분리.
 
-    같은 사용자가 train·valid 양쪽에 들어가지 않도록 단순 마지막 N% 분리.
-    Phase 2 split 재정의에서 valid_users는 이미 학습 데이터에 없는 사용자로 구성됨.
+    seed 고정 shuffle 후 마지막 N% 분리 (분포 치우침 방지).
     여기서 분리하는 valid는 학습 중 monitoring용 (early stopping 트리거).
+    Phase 4 평가용 test 100명은 Phase 2 split 재정의에서 별도 holdout으로 분리됨.
     """
     train_path = Path(config["data"]["train_path"])
     all_records = load_jsonl(train_path)
 
-    # 마지막 N%를 valid로 (re-shuffle 없이 결정적)
+    # ★ seed shuffle 후 split (Codex 피드백 반영)
     ratio = float(config["data"]["val_ratio_from_train"])
-    n_val = int(len(all_records) * ratio)
-    val_records = all_records[-n_val:]
-    train_records = all_records[:-n_val]
+    seed = int(config["data"].get("val_split_seed", 42))
+    rng = random.Random(seed)
+    shuffled = list(all_records)
+    rng.shuffle(shuffled)
+    n_val = int(len(shuffled) * ratio)
+    val_records = shuffled[-n_val:]
+    train_records = shuffled[:-n_val]
 
     print(f"\n데이터 로드: {train_path}")
-    print(f"  train: {len(train_records)}줄, val: {len(val_records)}줄 (총 {len(all_records)}줄)")
+    print(f"  train: {len(train_records)}줄, val: {len(val_records)}줄 "
+          f"(총 {len(all_records)}줄, shuffle seed={seed})")
 
     return Dataset.from_list(train_records), Dataset.from_list(val_records)
 
@@ -216,7 +224,8 @@ def train(config: dict):
     )
     warmup_steps = int(total_steps * train_cfg["warmup_ratio"])
 
-    sft_config = SFTConfig(
+    # ★ assistant_only_loss: TRL>=0.13에서 지원. assistant 토큰만 loss 계산.
+    sft_kwargs = dict(
         output_dir=output_cfg["output_dir"],
         num_train_epochs=train_cfg["num_train_epochs"],
         per_device_train_batch_size=train_cfg["per_device_train_batch_size"],
@@ -241,6 +250,16 @@ def train(config: dict):
         dataset_text_field="text",
         max_length=config["model"]["max_seq_length"],
     )
+    # 옵션: assistant_only_loss (TRL 버전에 따라 미지원 가능 — 안전하게 try)
+    if train_cfg.get("assistant_only_loss"):
+        try:
+            sft_config = SFTConfig(**sft_kwargs, assistant_only_loss=True)
+            print("  ✅ assistant_only_loss=True (prompt 토큰은 loss에서 제외)")
+        except TypeError:
+            print("  ⚠ 현재 TRL 버전이 assistant_only_loss 미지원 — 기본 모드로 진행")
+            sft_config = SFTConfig(**sft_kwargs)
+    else:
+        sft_config = SFTConfig(**sft_kwargs)
 
     print(f"\n학습 설정:")
     print(f"  실효 배치: {train_cfg['per_device_train_batch_size']} × {train_cfg['gradient_accumulation_steps']} = {train_cfg['per_device_train_batch_size'] * train_cfg['gradient_accumulation_steps']}")
@@ -257,10 +276,19 @@ def train(config: dict):
         callbacks=[EarlyStoppingCallback(early_stopping_patience=patience)],
     )
 
+    # ★ resume_from_checkpoint: output_dir에 이전 checkpoint 있으면 자동 이어서
+    resume_ckpt = None
+    output_dir = Path(output_cfg["output_dir"])
+    if output_dir.exists():
+        last = get_last_checkpoint(str(output_dir))
+        if last is not None:
+            resume_ckpt = last
+            print(f"\n🔄 Resume detected: {last}")
+
     print("\n" + "=" * 60)
-    print("학습 시작!")
+    print("학습 시작!" if resume_ckpt is None else f"학습 재개! (from {resume_ckpt})")
     print("=" * 60)
-    trainer.train()
+    trainer.train(resume_from_checkpoint=resume_ckpt)
 
     # --- 어댑터 저장 ---
     adapter_dir = output_cfg["adapter_dir"]

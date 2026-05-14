@@ -44,9 +44,11 @@ pip install -r requirements.txt
 export HF_TOKEN=hf_새토큰값
 huggingface-cli login --token $HF_TOKEN
 
-# (선택) WandB 로그인 — 안 쓰려면 configs/judge_training.yaml의 report_to: "none"으로
-export WANDB_API_KEY=...
-wandb login $WANDB_API_KEY
+# (선택) WandB — 기본은 OFF (config에 report_to: "none")
+# 모니터링 원하면 config 수정 후:
+#   sed -i 's/report_to: "none"/report_to: "wandb"/' configs/judge_training.yaml
+#   export WANDB_API_KEY=...
+#   wandb login $WANDB_API_KEY
 ```
 
 ---
@@ -152,8 +154,9 @@ export WANDB_MODE=offline
 
 ### 학습 중단 후 재개
 ```bash
-# SFTTrainer가 output_dir의 최신 checkpoint를 자동 감지하여 resume
+# train_judge.py가 output_dir의 최신 checkpoint를 자동 감지 + resume_from_checkpoint로 이어감
 python3 scripts/train_judge.py --config configs/judge_training.yaml
+# 로그에 "🔄 Resume detected: checkpoint-XXX" 출력 확인
 ```
 
 ---

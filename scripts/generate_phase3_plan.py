@@ -200,6 +200,8 @@ grep -E "train_loss|eval_loss" logs/train.log | tail -10</pre>
     <td>Attention + MLP 전체 (Qwen3 표준)</td></tr>
 <tr><td>학습 파라미터</td><td>~40M / 14B</td>
     <td>전체의 ~0.3%만 학습</td></tr>
+<tr><td>assistant_only_loss</td><td>true</td>
+    <td>prompt(system/user) 토큰은 loss에서 제외, assistant만 학습 → 추천 JSON 학습 효율 ↑</td></tr>
 </table>
 
 <h3>5.2 학습 hyperparameter</h3>
@@ -235,6 +237,8 @@ grep -E "train_loss|eval_loss" logs/train.log | tail -10</pre>
 <tr><td>monitor</td><td>eval_loss</td></tr>
 <tr><td>patience</td><td>2 epochs</td></tr>
 <tr><td>최종 모델</td><td>load_best_model_at_end=true → 최저 eval_loss epoch 사용</td></tr>
+<tr><td>resume</td><td>train_judge.py가 <code>get_last_checkpoint(output_dir)</code> 자동 감지 후 <code>resume_from_checkpoint</code>로 이어 학습</td></tr>
+<tr><td>val split</td><td>seed=42 shuffle 후 마지막 10% → 분포 치우침 방지</td></tr>
 </table>
 
 <h3>5.4 예상 스텝·시간</h3>

@@ -65,8 +65,9 @@ training:
   load_best_model_at_end: true
   metric_for_best_model: "eval_loss"
   greater_is_better: false
-  report_to: "wandb"              # wandb 미설정 시 "none"으로 변경
+  report_to: "none"               # WandB 쓰려면 "wandb"로 변경 + wandb login 필요
   gradient_checkpointing: true    # 메모리 절약 (느려지지만 안전)
+  assistant_only_loss: true       # ★ assistant 토큰만 loss 계산 (prompt 학습 방지)
   seed: 42
 
 # ============================================================
@@ -74,8 +75,8 @@ training:
 # ============================================================
 data:
   train_path: "data/teacher_train_main.jsonl"   # 578줄 (정합성 정리 후)
-  # valid 데이터는 train의 마지막 ~10%를 자동 분리 (val_ratio_from_train)
   val_ratio_from_train: 0.1                     # train 578 × 0.1 = 58줄을 valid로
+  val_split_seed: 42                            # ★ shuffle 후 split의 seed (재현 가능)
   # test는 train_judge.py에서 사용하지 않음 (Phase 4 evaluate_judge.py에서 사용)
 
 # ============================================================

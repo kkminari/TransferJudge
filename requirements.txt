@@ -22,15 +22,20 @@ weasyprint>=60         # 보고서 PDF 생성
 # ============================================================
 # Phase 3 — Qwen3-14B QLoRA 파인튜닝 (RunPod GPU)
 # ============================================================
-torch>=2.2
-transformers>=4.40
-peft>=0.10            # LoRA adapter
-bitsandbytes>=0.43    # 4-bit quantization (QLoRA)
-accelerate>=0.30
-trl>=0.8              # SFTTrainer
-sentencepiece>=0.2    # tokenizer
+# 주의: TRL SFTConfig의 max_length / processing_class / assistant_only_loss는
+# transformers>=4.46 + trl>=0.13 (이상)에서 안정 지원. Qwen3 chat template도 동일.
+torch>=2.2,<2.6
+transformers>=4.46,<4.55
+peft>=0.13,<0.20
+bitsandbytes>=0.44,<0.46
+accelerate>=0.34,<0.40
+trl>=0.13,<0.20
+sentencepiece>=0.2
 protobuf>=4.25
-einops>=0.7
+einops>=0.8
+
+# Monitoring (선택, configs/judge_training.yaml에서 report_to로 토글)
+wandb>=0.17
 
 # ============================================================
 # Phase 4·5 — 평가
