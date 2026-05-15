@@ -299,6 +299,8 @@ def main():
                         help="기본: results/ablation_{condition}.json")
     parser.add_argument("--n-candidates", type=int, default=50)
     parser.add_argument("--limit", type=int, default=0, help="0 = 전체, >0 = smoke")
+    parser.add_argument("--fixture-dir", type=Path, default=None,
+                        help="평가 fixture 디렉토리 (eval_fixtures/). 권장: baseline과 동일 조건 보장.")
     args = parser.parse_args()
 
     if not os.environ.get("OPENAI_API_KEY"):
@@ -314,7 +316,18 @@ def main():
 
     # 데이터 로드
     print("\nLoading data...")
-    test_users = pd.read_parquet(args.test_users)
+    use_fixture = args.fixture_dir is not None and args.fixture_dir.exists()
+    fixture_data = None
+    if use_fixture:
+        print(f"  ★ FIXTURE 모드: {args.fixture_dir}")
+        fixture_data = {
+            "users": json.load((args.fixture_dir / "test_users.json").open()),
+            "gt": json.load((args.fixture_dir / "gt.json").open()),
+            "cand_dir": args.fixture_dir / "candidates",
+        }
+        test_users = pd.DataFrame({"user_id": fixture_data["users"]})
+    else:
+        test_users = pd.read_parquet(args.test_users)
     if args.limit > 0:
         test_users = test_users.head(args.limit)
         print(f"  ⚠ SMOKE: limit={args.limit}")
@@ -322,7 +335,7 @@ def main():
 
     movies = pd.read_parquet(args.movies_reviews)
     books = pd.read_parquet(args.books_reviews)
-    books_meta = pd.read_parquet(args.books_meta)
+    books_meta = pd.read_parquet(args.books_meta) if not use_fixture else None
 
     from openai import OpenAI
     client = OpenAI(timeout=120.0, max_retries=2)
@@ -340,27 +353,40 @@ def main():
         user_id = getattr(user_row, "user_id")
         user_start = time.time()
 
-        # GT
-        user_books = books[books["user_id"] == user_id]
-        gt_info = pick_gt(user_books)
-        if gt_info is None:
-            print(f"  [{idx+1}/{len(test_users)}] {user_id}: no GT, skip")
-            total_usage["fail"] += 1
-            continue
-        gt_id = gt_info["parent_asin"]
-
-        # 후보 50권
-        try:
-            candidates = sample_candidates(
-                user_id=user_id, gt_item_id=gt_id,
-                books_meta_df=books_meta,
-                user_books_reviews=user_books,
-                n_candidates=args.n_candidates, rng=rng,
-            )
-        except ValueError as e:
-            print(f"  [{idx+1}/{len(test_users)}] {user_id}: candidate err: {e}")
-            total_usage["fail"] += 1
-            continue
+        # GT & candidates: fixture 우선
+        if use_fixture:
+            gt_entry = fixture_data["gt"].get(user_id)
+            if gt_entry is None:
+                print(f"  [{idx+1}/{len(test_users)}] {user_id}: not in fixture, skip")
+                total_usage["fail"] += 1
+                continue
+            gt_id = str(gt_entry["gt_id"])
+            cand_file = fixture_data["cand_dir"] / f"user_{user_id}.json"
+            if not cand_file.exists():
+                print(f"  [{idx+1}/{len(test_users)}] {user_id}: no candidate file")
+                total_usage["fail"] += 1
+                continue
+            candidates = json.load(cand_file.open())
+            user_books = books[books["user_id"] == user_id]  # GT timestamp용
+        else:
+            user_books = books[books["user_id"] == user_id]
+            gt_info = pick_gt(user_books)
+            if gt_info is None:
+                print(f"  [{idx+1}/{len(test_users)}] {user_id}: no GT, skip")
+                total_usage["fail"] += 1
+                continue
+            gt_id = gt_info["parent_asin"]
+            try:
+                candidates = sample_candidates(
+                    user_id=user_id, gt_item_id=gt_id,
+                    books_meta_df=books_meta,
+                    user_books_reviews=user_books,
+                    n_candidates=args.n_candidates, rng=rng,
+                )
+            except ValueError as e:
+                print(f"  [{idx+1}/{len(test_users)}] {user_id}: candidate err: {e}")
+                total_usage["fail"] += 1
+                continue
         cand_set = {str(c.get("parent_asin", "")).strip() for c in candidates}
 
         # User message 구성 (조건별)

@@ -381,6 +381,10 @@ def main():
     parser.add_argument("--books-reviews", type=Path, default=Path("data/books_reviews_filtered.parquet"))
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument("--n-candidates", type=int, default=50)
+    parser.add_argument("--fixture-dir", type=Path, default=None,
+                        help="평가 fixture 디렉토리 (eval_fixtures/). 지정 시 frozen "
+                             "candidates/GT 사용하여 baseline과 동일 조건 보장. "
+                             "미지정 시 매 실행마다 sample_candidates() 재호출 (구버전).")
     parser.add_argument("--limit", type=int, default=None,
                         help="처음 N명만 평가 (smoke test용)")
     parser.add_argument("--max-new-tokens", type=int, default=2500)
@@ -392,12 +396,30 @@ def main():
     print(f"=== Phase 4 Evaluation: {args.condition} ===")
 
     print(f"\n[1/4] 데이터 로드")
-    test_users = pd.read_parquet(args.test_users)
-    books_meta = pd.read_parquet(args.books_meta)
-    books_reviews = pd.read_parquet(args.books_reviews)
+    # Fixture 모드 vs 기존 모드
+    use_fixture = args.fixture_dir is not None and args.fixture_dir.exists()
+    fixture_data = None
+    if use_fixture:
+        print(f"  ★ FIXTURE 모드: {args.fixture_dir}")
+        fixture_data = {
+            "users": json.load((args.fixture_dir / "test_users.json").open()),
+            "gt": json.load((args.fixture_dir / "gt.json").open()),
+            "cand_dir": args.fixture_dir / "candidates",
+        }
+        # test_users dataframe도 동일하게 fixture에서 생성
+        test_users = pd.DataFrame({"user_id": fixture_data["users"]})
+        # books_meta/reviews는 fallback용
+        books_meta = pd.read_parquet(args.books_meta) if args.books_meta.exists() else None
+        books_reviews = pd.read_parquet(args.books_reviews) if args.books_reviews.exists() else None
+    else:
+        test_users = pd.read_parquet(args.test_users)
+        books_meta = pd.read_parquet(args.books_meta)
+        books_reviews = pd.read_parquet(args.books_reviews)
     print(f"  test_users: {len(test_users)}")
-    print(f"  books_meta: {len(books_meta):,}")
-    print(f"  books_reviews: {len(books_reviews):,}")
+    if books_meta is not None:
+        print(f"  books_meta: {len(books_meta):,}")
+    if books_reviews is not None:
+        print(f"  books_reviews: {len(books_reviews):,}")
 
     print(f"\n[2/4] Judge 모델 로드")
     model, tokenizer = load_judge_model(args.adapter, args.base_model)
@@ -425,25 +447,38 @@ def main():
             continue
         profiler_output = json.loads(profile_path.read_text())
 
-        user_books = books_reviews[books_reviews["user_id"] == user_id]
-        gt_info = pick_gt(user_books)
-        if gt_info is None:
-            print(f"  [{idx+1}/{n_eval}] {user_id}: skip (no rating>=4 in target)")
-            continue
-        gt_id = str(gt_info["parent_asin"])
-
-        try:
-            candidates = sample_candidates(
-                user_id=user_id,
-                gt_item_id=gt_id,
-                books_meta_df=books_meta,
-                user_books_reviews=user_books,
-                n_candidates=args.n_candidates,
-                rng=rng,
-            )
-        except ValueError as e:
-            print(f"  [{idx+1}/{n_eval}] {user_id}: skip ({e})")
-            continue
+        # GT & candidates: fixture 우선
+        if use_fixture:
+            gt_entry = fixture_data["gt"].get(user_id)
+            if gt_entry is None:
+                print(f"  [{idx+1}/{n_eval}] {user_id}: skip (not in fixture)")
+                continue
+            gt_id = str(gt_entry["gt_id"])
+            cand_file = fixture_data["cand_dir"] / f"user_{user_id}.json"
+            if not cand_file.exists():
+                print(f"  [{idx+1}/{n_eval}] {user_id}: skip (no candidate file)")
+                continue
+            candidates = json.load(cand_file.open())
+        else:
+            # 구버전: 매번 sample_candidates
+            user_books = books_reviews[books_reviews["user_id"] == user_id]
+            gt_info = pick_gt(user_books)
+            if gt_info is None:
+                print(f"  [{idx+1}/{n_eval}] {user_id}: skip (no rating>=4 in target)")
+                continue
+            gt_id = str(gt_info["parent_asin"])
+            try:
+                candidates = sample_candidates(
+                    user_id=user_id,
+                    gt_item_id=gt_id,
+                    books_meta_df=books_meta,
+                    user_books_reviews=user_books,
+                    n_candidates=args.n_candidates,
+                    rng=rng,
+                )
+            except ValueError as e:
+                print(f"  [{idx+1}/{n_eval}] {user_id}: skip ({e})")
+                continue
 
         candidate_ids = {str(c.get("parent_asin", "")).strip() for c in candidates}
         candidate_ids.discard("")

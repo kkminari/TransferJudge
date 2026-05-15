@@ -1,0 +1,153 @@
+{
+  "summary": {
+    "condition": "a_single",
+    "model": "gpt-4o-mini",
+    "n_evaluated": 3,
+    "n_failed": 0,
+    "metrics": {
+      "HR@1": 0.3333333333333333,
+      "HR@5": 0.6666666666666666,
+      "HR@10": 0.6666666666666666,
+      "NDCG@5": 0.5436432511904858,
+      "NDCG@10": 0.5436432511904858,
+      "MRR": 0.5
+    },
+    "validation_pass_rate": {
+      "is_valid_json": 1.0,
+      "schema_complete": 0.0,
+      "all_in_candidates": 1.0,
+      "no_duplicates": 1.0,
+      "no_block_leakage": 1.0
+    },
+    "decision_distribution_total": {},
+    "tokens": {
+      "input": 20801,
+      "output": 2081,
+      "attempts": 3
+    },
+    "cost_usd": 0.0044,
+    "elapsed_s": 85.5,
+    "params": {
+      "n_candidates": 50,
+      "max_new_tokens": 2500,
+      "seed": 42,
+      "limit": 3
+    }
+  },
+  "per_user": [
+    {
+      "user_id": "AEO5NHFNUTL3IWHAOOKJQCGV47EQ",
+      "gt_id": "0062407317",
+      "rec_ids": [
+        "0062407317",
+        "1405169931",
+        "125008086X",
+        "1400032822",
+        "B07D1CW9VB",
+        "B08JJPDQ85",
+        "B01N5FEKD3",
+        "B08JCK2T9P",
+        "3868286357",
+        "0823422410"
+      ],
+      "metrics": {
+        "HR@1": 1,
+        "HR@5": 1,
+        "HR@10": 1,
+        "NDCG@5": 1.0,
+        "NDCG@10": 1.0,
+        "MRR": 1.0
+      },
+      "validation": {
+        "is_valid_json": true,
+        "schema_complete": false,
+        "all_in_candidates": true,
+        "no_duplicates": true,
+        "no_block_leakage": true
+      },
+      "decision_counts": {},
+      "tokens": {
+        "input_tokens": 7318,
+        "output_tokens": 662,
+        "attempts": 1
+      },
+      "elapsed_s": 43.7
+    },
+    {
+      "user_id": "AHUNW5ZCRGQ7FXIAWJBWXMVVX6CQ",
+      "gt_id": "7540449071",
+      "rec_ids": [
+        "054523154X",
+        "141690381X",
+        "0061148229",
+        "B000H0OFZO",
+        "1582461333",
+        "B09P9PT6ZZ",
+        "1629050229",
+        "B004TRXK2K",
+        "1684336333",
+        "1626928584"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "validation": {
+        "is_valid_json": true,
+        "schema_complete": false,
+        "all_in_candidates": true,
+        "no_duplicates": true,
+        "no_block_leakage": true
+      },
+      "decision_counts": {},
+      "tokens": {
+        "input_tokens": 6510,
+        "output_tokens": 680,
+        "attempts": 1
+      },
+      "elapsed_s": 21.8
+    },
+    {
+      "user_id": "AEIMVFQM33RBEOPNTAF6326M7Z4A",
+      "gt_id": "0062114042",
+      "rec_ids": [
+        "0063021420",
+        "0062114042",
+        "031604749X",
+        "1621139778",
+        "B007PM2D10",
+        "B009JY6BG0",
+        "B019HML2H6",
+        "B086Y3ZXHK",
+        "B007HO86OO",
+        "B001F74XXM"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 1,
+        "HR@10": 1,
+        "NDCG@5": 0.6309297535714575,
+        "NDCG@10": 0.6309297535714575,
+        "MRR": 0.5
+      },
+      "validation": {
+        "is_valid_json": true,
+        "schema_complete": false,
+        "all_in_candidates": true,
+        "no_duplicates": true,
+        "no_block_leakage": true
+      },
+      "decision_counts": {},
+      "tokens": {
+        "input_tokens": 6973,
+        "output_tokens": 739,
+        "attempts": 1
+      },
+      "elapsed_s": 20.0
+    }
+  ]
+}
