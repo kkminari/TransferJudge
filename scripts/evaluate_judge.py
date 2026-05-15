@@ -241,24 +241,43 @@ def _extract_json(text: str) -> dict | None:
         return None
 
 
-def build_eval_messages(profiler_output: dict, candidates: list[dict]) -> list[dict]:
-    """run_teacher.to_sft_record()와 동일한 학습 포맷 (GT hint 제거판)을 만든다.
+def build_eval_messages(profiler_output: dict, candidates: list[dict],
+                        disable_gate: bool = False) -> list[dict]:
+    """학습 포맷과 동일한 (system + user) message 생성.
 
-    to_sft_record는 teacher_output을 assistant role로 함께 묶지만, 여기선 system+user만
-    필요하므로 내부 로직을 재현한다.
+    Args:
+        disable_gate: True면 (d) w/o Gate condition — user message에서
+            'transfer_decisions' 지시 제거. 학습된 모델이 prompt 변경에 어떻게
+            반응하는지 측정. 논문에서는 inference-time gate ablation으로 기술.
     """
     profile_json = json.dumps(profiler_output, ensure_ascii=False, indent=2)
     cand_lines = [format_candidate(c, i + 1) for i, c in enumerate(candidates)]
-    user_msg = (
-        "=== USER PROFILE ===\n"
-        f"{profile_json}\n\n"
-        "=== CANDIDATES (50 Books) ===\n\n"
-        + "\n\n".join(cand_lines)
-        + "\n\n"
-        "=== INSTRUCTION ===\n\n"
-        "Produce transfer_decisions for all patterns in the Profile and recommend Top-10 books.\n"
-        "Output valid JSON following the schema exactly."
-    )
+
+    if disable_gate:
+        # (d) w/o Gate: transfer_decisions 출력 지시 제거
+        user_msg = (
+            "=== USER PROFILE ===\n"
+            f"{profile_json}\n\n"
+            "=== CANDIDATES (50 Books) ===\n\n"
+            + "\n\n".join(cand_lines)
+            + "\n\n"
+            "=== INSTRUCTION ===\n\n"
+            "Recommend Top-10 books from the candidates above. "
+            "Use all preference patterns equally without explicit transferability classification.\n"
+            "Output valid JSON following the schema."
+        )
+    else:
+        # (c) Ours: 본 학습 포맷 그대로
+        user_msg = (
+            "=== USER PROFILE ===\n"
+            f"{profile_json}\n\n"
+            "=== CANDIDATES (50 Books) ===\n\n"
+            + "\n\n".join(cand_lines)
+            + "\n\n"
+            "=== INSTRUCTION ===\n\n"
+            "Produce transfer_decisions for all patterns in the Profile and recommend Top-10 books.\n"
+            "Output valid JSON following the schema exactly."
+        )
     system_training = SYSTEM_PROMPT.replace(
         "## Ground Truth Calibration (for training data quality)\n\n"
         "You will be given a GROUND_TRUTH_HINT: the item the user actually purchased and rated highly in Books.\n"
@@ -429,7 +448,9 @@ def main():
         candidate_ids = {str(c.get("parent_asin", "")).strip() for c in candidates}
         candidate_ids.discard("")
 
-        messages = build_eval_messages(profiler_output, candidates)
+        # condition 또는 --disable-gate 시 (d) w/o Gate
+        disable_gate = (args.condition == "d_no_gate") or args.disable_gate
+        messages = build_eval_messages(profiler_output, candidates, disable_gate=disable_gate)
         t_user = time.time()
         result = predict_for_user(model, tokenizer, messages,
                                   max_new_tokens=args.max_new_tokens)

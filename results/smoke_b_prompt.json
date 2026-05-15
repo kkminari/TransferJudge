@@ -1,0 +1,169 @@
+{
+  "summary": {
+    "condition": "b_prompt",
+    "model": "gpt-4o-mini",
+    "n_evaluated": 3,
+    "n_failed": 0,
+    "metrics": {
+      "HR@1": 0.0,
+      "HR@5": 0.0,
+      "HR@10": 0.3333333333333333,
+      "NDCG@5": 0.0,
+      "NDCG@10": 0.11873572903600739,
+      "MRR": 0.05555555555555555
+    },
+    "validation_pass_rate": {
+      "is_valid_json": 1.0,
+      "schema_complete": 1.0,
+      "all_in_candidates": 1.0,
+      "no_duplicates": 1.0,
+      "no_block_leakage": 1.0
+    },
+    "decision_distribution_total": {
+      "PARTIAL": 7,
+      "TRANSFER": 11,
+      "BLOCK": 3
+    },
+    "tokens": {
+      "input": 20701,
+      "output": 4270,
+      "attempts": 3
+    },
+    "cost_usd": 0.0057,
+    "elapsed_s": 72.6,
+    "params": {
+      "n_candidates": 50,
+      "max_new_tokens": 2500,
+      "seed": 42,
+      "limit": 3
+    }
+  },
+  "per_user": [
+    {
+      "user_id": "AEO5NHFNUTL3IWHAOOKJQCGV47EQ",
+      "gt_id": "0062407317",
+      "rec_ids": [
+        "1400032822",
+        "B07D1CW9VB",
+        "B01N5FEKD3",
+        "B08JCK2T9P",
+        "0451404513",
+        "0062407317",
+        "1495800741",
+        "B08JJPDQ85",
+        "3868286357",
+        "B01MAU1TAU"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 1,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.3562071871080222,
+        "MRR": 0.16666666666666666
+      },
+      "validation": {
+        "is_valid_json": true,
+        "schema_complete": true,
+        "all_in_candidates": true,
+        "no_duplicates": true,
+        "no_block_leakage": true
+      },
+      "decision_counts": {
+        "TRANSFER": 3,
+        "PARTIAL": 3,
+        "BLOCK": 1
+      },
+      "tokens": {
+        "input_tokens": 6992,
+        "output_tokens": 1424,
+        "attempts": 1
+      },
+      "elapsed_s": 23.9
+    },
+    {
+      "user_id": "AHUNW5ZCRGQ7FXIAWJBWXMVVX6CQ",
+      "gt_id": "7540449071",
+      "rec_ids": [
+        "054523154X",
+        "141690381X",
+        "0061148229",
+        "B0000545V9",
+        "B000H0OFZO",
+        "1681062542",
+        "B09P9PT6ZZ",
+        "1469620073",
+        "1629050229",
+        "1459666208"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "validation": {
+        "is_valid_json": true,
+        "schema_complete": true,
+        "all_in_candidates": true,
+        "no_duplicates": true,
+        "no_block_leakage": true
+      },
+      "decision_counts": {
+        "TRANSFER": 5,
+        "PARTIAL": 1,
+        "BLOCK": 1
+      },
+      "tokens": {
+        "input_tokens": 6596,
+        "output_tokens": 1453,
+        "attempts": 1
+      },
+      "elapsed_s": 25.7
+    },
+    {
+      "user_id": "AEIMVFQM33RBEOPNTAF6326M7Z4A",
+      "gt_id": "0062114042",
+      "rec_ids": [
+        "B093HBBJBR",
+        "031604749X",
+        "0228102812",
+        "190543233X",
+        "0369601696",
+        "0578883643",
+        "B0BC518MTH",
+        "B007HO86OO",
+        "B006CDMGMO",
+        "B009JY6BG0"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "validation": {
+        "is_valid_json": true,
+        "schema_complete": true,
+        "all_in_candidates": true,
+        "no_duplicates": true,
+        "no_block_leakage": true
+      },
+      "decision_counts": {
+        "TRANSFER": 3,
+        "PARTIAL": 3,
+        "BLOCK": 1
+      },
+      "tokens": {
+        "input_tokens": 7113,
+        "output_tokens": 1393,
+        "attempts": 1
+      },
+      "elapsed_s": 23.0
+    }
+  ]
+}
