@@ -65,7 +65,7 @@ training:
   load_best_model_at_end: true
   metric_for_best_model: "eval_loss"
   greater_is_better: false
-  report_to: "none"               # WandB 쓰려면 "wandb"로 변경 + wandb login 필요
+  report_to: "wandb"              # WandB 활성 (WANDB_API_KEY 또는 wandb login 필요)
   gradient_checkpointing: true    # 메모리 절약 (느려지지만 안전)
   assistant_only_loss: true       # ★ assistant 토큰만 loss 계산 (prompt 학습 방지)
   seed: 42
