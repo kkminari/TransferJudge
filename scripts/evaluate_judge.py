@@ -1,45 +1,55 @@
-"""Phase 4 — 학습된 Judge로 test set 추천 + 평가 (골격).
+"""Phase 4 — 학습된 Judge로 test set 추천 + 평가.
 
 사용법:
-    # (c) Ours
+    # (c) Ours (with Gate)
     python3 scripts/evaluate_judge.py \\
       --condition c_ours \\
       --adapter checkpoints/judge_v1/adapter \\
       --test-users data/test_users.parquet \\
       --output results/ablation_c_ours.json
 
-    # (d) w/o Gate
+    # smoke (소수 사용자만)
     python3 scripts/evaluate_judge.py \\
-      --condition d_no_gate \\
+      --condition c_ours \\
       --adapter checkpoints/judge_v1/adapter \\
-      --disable-gate \\
-      --output results/ablation_d_no_gate.json
+      --output results/smoke.json \\
+      --limit 3
 
-평가 지표 (자세히: docs/phase4/Phase4_Metrics.md):
-  - HR@1, @5, @10
-  - NDCG@5, @10
-  - MRR
-  - JSONValid, SchemaComplete, CandMembership, BLOCKLeakage
-  - Pattern Decision Accuracy (PDA)
-  - Decision JSD vs Teacher
-  - BrandLoyaltyBLOCK, SensoryTRANSFER
+지표:
+  - HR@1/5/10, NDCG@5/10, MRR
+  - JSONValid, SchemaComplete, CandMembership, BLOCKLeakage, NoDuplicates
+  - Pattern Decision counts (TRANSFER/PARTIAL/BLOCK 분포)
+  - Teacher와 PDA·JSD는 teacher_outputs/ 존재 시에만 (옵션)
 
-TODO (Phase 3 학습 완료 후 채울 부분):
-  1. load_judge_model() — PEFT adapter merge + inference 셋업
-  2. build_user_prompt() — Phase 2 train_judge 입력과 동일 형식 (Profile + 50 candidates)
-  3. predict_for_user() — Judge 추론 + JSON 파싱
-  4. compute_metrics() — 위 모든 지표 계산
+설계 메모:
+  - 입력 포맷은 run_teacher.to_sft_record()와 동일 (GT hint 제거 학습 포맷).
+  - 후보 50권 샘플링은 run_teacher.sample_candidates(seed=42)와 동일 로직.
+  - GT는 run_teacher.pick_gt() — books_reviews에서 rating>=4 최근.
 """
 from __future__ import annotations
 
 import argparse
 import json
 import re
+import sys
+import time
 from pathlib import Path
 from collections import Counter
 
 import pandas as pd
 import numpy as np
+
+# Phase 2 helpers 재사용 (포맷·샘플링 동일성 보장)
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from run_teacher import (
+    SYSTEM_PROMPT,
+    REQUIRED_CORE_PATTERNS,
+    N_RECOMMENDATIONS,
+    format_candidate,
+    sample_candidates,
+    pick_gt,
+    to_sft_record,
+)
 
 
 # ============================================================
@@ -167,68 +177,333 @@ def jensen_shannon_divergence(p: dict, q: dict) -> float:
 
 
 # ============================================================
-# 4. Judge 모델 inference (TODO: Phase 3 후 채움)
+# 4. Judge 모델 inference
 # ============================================================
 
 def load_judge_model(adapter_path: Path, base_model: str = "Qwen/Qwen3-14B"):
-    """LoRA adapter를 base에 merge하여 inference-ready 모델 로드.
+    """학습 시와 동일한 4bit 양자화로 base를 로드하고 LoRA adapter를 부착.
 
-    Returns: (model, tokenizer)
+    Tokenizer는 adapter dir에서 로드 — chat_template은 학습용 generation 마커가
+    포함되어 있지만 추론 시 add_generation_prompt=True 만 쓰면 무방.
+    flash_attention_2가 설치돼 있으면 자동 사용 (~1.3x 가속), 아니면 sdpa.
     """
-    raise NotImplementedError(
-        "Phase 3 학습 완료 후 구현. PEFT model.from_pretrained() 활용."
+    import torch
+    from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+    from peft import PeftModel
+
+    try:
+        import flash_attn  # noqa: F401
+        attn_impl = "flash_attention_2"
+    except ImportError:
+        attn_impl = "sdpa"
+    print(f"  attn_implementation: {attn_impl}")
+
+    bnb = BitsAndBytesConfig(
+        load_in_4bit=True,
+        bnb_4bit_quant_type="nf4",
+        bnb_4bit_compute_dtype=torch.bfloat16,
+        bnb_4bit_use_double_quant=True,
     )
+    print(f"  Base model 로드: {base_model} (4bit)")
+    base = AutoModelForCausalLM.from_pretrained(
+        base_model,
+        quantization_config=bnb,
+        device_map="auto",
+        trust_remote_code=True,
+        attn_implementation=attn_impl,
+    )
+    print(f"  LoRA adapter 부착: {adapter_path}")
+    model = PeftModel.from_pretrained(base, str(adapter_path))
+    model.eval()
+
+    tokenizer = AutoTokenizer.from_pretrained(str(adapter_path), trust_remote_code=True)
+    if tokenizer.pad_token is None:
+        tokenizer.pad_token = tokenizer.eos_token
+
+    return model, tokenizer
 
 
-def predict_for_user(model, tokenizer, profile: dict, candidates: list[dict],
-                     gt_id: str, max_new_tokens: int = 2500) -> dict:
-    """한 사용자에 대해 Judge inference + JSON 파싱.
+_JSON_FENCE_RE = re.compile(r"^```(?:json)?\s*|\s*```\s*$", flags=re.MULTILINE)
 
-    Returns: {"output_json": dict, "raw_text": str}
+
+def _extract_json(text: str) -> dict | None:
+    t = text.strip()
+    t = _JSON_FENCE_RE.sub("", t).strip()
+    # 가장 바깥쪽 중괄호 추출
+    s = t.find("{")
+    e = t.rfind("}")
+    if s < 0 or e <= s:
+        return None
+    candidate = t[s : e + 1]
+    try:
+        return json.loads(candidate)
+    except json.JSONDecodeError:
+        return None
+
+
+def build_eval_messages(profiler_output: dict, candidates: list[dict]) -> list[dict]:
+    """run_teacher.to_sft_record()와 동일한 학습 포맷 (GT hint 제거판)을 만든다.
+
+    to_sft_record는 teacher_output을 assistant role로 함께 묶지만, 여기선 system+user만
+    필요하므로 내부 로직을 재현한다.
     """
-    raise NotImplementedError(
-        "Phase 3 학습 완료 후 구현. tokenizer.apply_chat_template + model.generate."
+    profile_json = json.dumps(profiler_output, ensure_ascii=False, indent=2)
+    cand_lines = [format_candidate(c, i + 1) for i, c in enumerate(candidates)]
+    user_msg = (
+        "=== USER PROFILE ===\n"
+        f"{profile_json}\n\n"
+        "=== CANDIDATES (50 Books) ===\n\n"
+        + "\n\n".join(cand_lines)
+        + "\n\n"
+        "=== INSTRUCTION ===\n\n"
+        "Produce transfer_decisions for all patterns in the Profile and recommend Top-10 books.\n"
+        "Output valid JSON following the schema exactly."
     )
+    system_training = SYSTEM_PROMPT.replace(
+        "## Ground Truth Calibration (for training data quality)\n\n"
+        "You will be given a GROUND_TRUTH_HINT: the item the user actually purchased and rated highly in Books.\n"
+        "This hint is provided ONLY to help you calibrate your reasoning quality — if your pattern decisions\n"
+        "are correct, your Top-10 should naturally include this item.\n\n"
+        "STRICT RULES:\n"
+        "- DO NOT mention the ground truth in your rationale, reasoning, or any output text.\n"
+        "- DO NOT artificially boost the ground truth's score; reason naturally based on Profile.\n"
+        "- If your honest reasoning does not place the ground truth in Top-10, revisit your decisions\n"
+        "  (maybe a BLOCK should be PARTIAL, or vice versa).\n"
+        "- The goal is a Student model that will NEVER see ground truth at inference time.\n\n",
+        "",
+    )
+    return [
+        {"role": "system", "content": system_training},
+        {"role": "user", "content": user_msg},
+    ]
+
+
+def predict_for_user(model, tokenizer, messages: list[dict],
+                     max_new_tokens: int = 2500) -> dict:
+    """Judge inference + JSON 파싱.
+
+    Returns: {"output_json": dict|None, "raw_text": str, "gen_tokens": int}
+    """
+    import torch
+    encoded = tokenizer.apply_chat_template(
+        messages,
+        add_generation_prompt=True,
+        return_tensors="pt",
+        return_dict=True,
+    )
+    input_ids = encoded["input_ids"].to(model.device)
+    attention_mask = encoded.get("attention_mask")
+    if attention_mask is None:
+        attention_mask = torch.ones_like(input_ids)
+    else:
+        attention_mask = attention_mask.to(model.device)
+
+    prompt_len = input_ids.shape[1]
+    with torch.no_grad():
+        out = model.generate(
+            input_ids=input_ids,
+            attention_mask=attention_mask,
+            max_new_tokens=max_new_tokens,
+            do_sample=False,
+            num_beams=1,
+            pad_token_id=tokenizer.pad_token_id,
+            use_cache=True,
+        )
+    gen_ids = out[0][prompt_len:]
+    raw_text = tokenizer.decode(gen_ids, skip_special_tokens=True)
+    output_json = _extract_json(raw_text)
+    return {
+        "output_json": output_json,
+        "raw_text": raw_text,
+        "gen_tokens": int(len(gen_ids)),
+        "prompt_tokens": int(prompt_len),
+    }
 
 
 # ============================================================
-# 5. 메인 — Phase 3 학습 완료 후 채울 부분 표시
+# 5. 추천 추출 + 메인 평가 루프
 # ============================================================
+
+def extract_rec_ids(output_json: dict | None, k: int = 10) -> list[str]:
+    if not isinstance(output_json, dict):
+        return []
+    recs = output_json.get("recommendations", []) or []
+    ids = []
+    for r in recs[:k]:
+        if isinstance(r, dict):
+            rid = str(r.get("item_id", "")).strip()
+            if rid:
+                ids.append(rid)
+    return ids
+
+
+def decision_distribution(output_json: dict | None) -> Counter:
+    counts: Counter = Counter()
+    if not isinstance(output_json, dict):
+        return counts
+    td = output_json.get("transfer_decisions", {}) or {}
+    for p, info in td.items():
+        if isinstance(info, dict):
+            d = info.get("decision")
+            if d in {"TRANSFER", "PARTIAL", "BLOCK"}:
+                counts[d] += 1
+    return counts
+
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--condition", type=str, required=True,
+    parser.add_argument("--condition", type=str, default="c_ours",
                         choices=["c_ours", "d_no_gate"])
     parser.add_argument("--adapter", type=Path, required=True)
+    parser.add_argument("--base-model", type=str, default="Qwen/Qwen3-14B")
     parser.add_argument("--test-users", type=Path, default=Path("data/test_users.parquet"))
     parser.add_argument("--profiles", type=Path, default=Path("profiler_outputs"))
     parser.add_argument("--books-meta", type=Path, default=Path("data/books_meta_filtered.parquet"))
     parser.add_argument("--books-reviews", type=Path, default=Path("data/books_reviews_filtered.parquet"))
-    parser.add_argument("--teacher-outputs", type=Path, default=Path("teacher_outputs"),
-                        help="Teacher 추천 비교용 (PDA 계산에 사용)")
     parser.add_argument("--output", type=Path, required=True)
-    parser.add_argument("--disable-gate", action="store_true",
-                        help="(d) w/o Gate condition")
     parser.add_argument("--n-candidates", type=int, default=50)
+    parser.add_argument("--limit", type=int, default=None,
+                        help="처음 N명만 평가 (smoke test용)")
+    parser.add_argument("--max-new-tokens", type=int, default=2500)
+    parser.add_argument("--seed", type=int, default=42)
+    parser.add_argument("--disable-gate", action="store_true",
+                        help="(d) w/o Gate — Gate filtering 무시 (현 단계 unused)")
     args = parser.parse_args()
 
     print(f"=== Phase 4 Evaluation: {args.condition} ===")
-    print("⚠ 이 스크립트는 Phase 3 학습 완료 후 NotImplementedError 부분을 채워야 동작.")
-    print("  현재는 메트릭 계산·검증 로직만 골격으로 작성됨.")
-    print("  학습 종료 후 evaluate_judge_impl.py에 inference 구현 추가 예정.")
 
-    # TODO: Phase 3 학습 완료 시 실제 inference 구현
-    # 1. test_users 로드
-    # 2. 각 사용자별:
-    #    - Profile 로드 (profiler_outputs/user_{uid}.json)
-    #    - GT 추출 (books_reviews_filtered.parquet의 rating>=4 최근)
-    #    - 후보 50권 sample (seed=42)
-    #    - Judge inference (predict_for_user)
-    #    - 출력 검증 (validate_output)
-    #    - per-user metric (compute_per_user_metrics)
-    # 3. aggregate_metrics로 집계
-    # 4. PDA + JSD + 패턴별 분포 계산
-    # 5. results JSON 저장
+    print(f"\n[1/4] 데이터 로드")
+    test_users = pd.read_parquet(args.test_users)
+    books_meta = pd.read_parquet(args.books_meta)
+    books_reviews = pd.read_parquet(args.books_reviews)
+    print(f"  test_users: {len(test_users)}")
+    print(f"  books_meta: {len(books_meta):,}")
+    print(f"  books_reviews: {len(books_reviews):,}")
+
+    print(f"\n[2/4] Judge 모델 로드")
+    model, tokenizer = load_judge_model(args.adapter, args.base_model)
+
+    args.output.parent.mkdir(parents=True, exist_ok=True)
+    rng = np.random.default_rng(args.seed)
+
+    per_user_records: list[dict] = []
+    metric_rows: list[dict] = []
+    validation_rows: list[dict] = []
+    decision_total: Counter = Counter()
+
+    n_eval = len(test_users) if args.limit is None else min(args.limit, len(test_users))
+    print(f"\n[3/4] 추론 시작 — {n_eval}명")
+    t0 = time.time()
+
+    for idx, row in enumerate(test_users.itertuples(index=False)):
+        if idx >= n_eval:
+            break
+        user_id = getattr(row, "user_id")
+
+        profile_path = args.profiles / f"user_{user_id}.json"
+        if not profile_path.exists():
+            print(f"  [{idx+1}/{n_eval}] {user_id}: skip (no profile)")
+            continue
+        profiler_output = json.loads(profile_path.read_text())
+
+        user_books = books_reviews[books_reviews["user_id"] == user_id]
+        gt_info = pick_gt(user_books)
+        if gt_info is None:
+            print(f"  [{idx+1}/{n_eval}] {user_id}: skip (no rating>=4 in target)")
+            continue
+        gt_id = str(gt_info["parent_asin"])
+
+        try:
+            candidates = sample_candidates(
+                user_id=user_id,
+                gt_item_id=gt_id,
+                books_meta_df=books_meta,
+                user_books_reviews=user_books,
+                n_candidates=args.n_candidates,
+                rng=rng,
+            )
+        except ValueError as e:
+            print(f"  [{idx+1}/{n_eval}] {user_id}: skip ({e})")
+            continue
+
+        candidate_ids = {str(c.get("parent_asin", "")).strip() for c in candidates}
+        candidate_ids.discard("")
+
+        messages = build_eval_messages(profiler_output, candidates)
+        t_user = time.time()
+        result = predict_for_user(model, tokenizer, messages,
+                                  max_new_tokens=args.max_new_tokens)
+        elapsed = time.time() - t_user
+
+        output_json = result["output_json"]
+        rec_ids = extract_rec_ids(output_json, k=10)
+
+        val = validate_output(output_json or {}, candidate_ids, gt_id)
+        if output_json is None:
+            val["is_valid_json"] = False
+        validation_rows.append({"user_id": user_id, **val})
+
+        metrics = compute_per_user_metrics(rec_ids, gt_id)
+        metric_rows.append({"user_id": user_id, **metrics})
+
+        dist = decision_distribution(output_json)
+        decision_total.update(dist)
+
+        per_user_records.append({
+            "user_id": user_id,
+            "gt_id": gt_id,
+            "rec_ids": rec_ids,
+            "metrics": metrics,
+            "validation": val,
+            "decision_counts": dict(dist),
+            "gen_tokens": result["gen_tokens"],
+            "prompt_tokens": result["prompt_tokens"],
+            "elapsed_s": round(elapsed, 1),
+            "output_json": output_json,
+            "raw_text_if_parse_failed": result["raw_text"] if output_json is None else None,
+        })
+
+        print(
+            f"  [{idx+1}/{n_eval}] {user_id} "
+            f"gt={'✓' if gt_id in rec_ids else '✗'} "
+            f"HR@10={metrics['HR@10']} NDCG@10={metrics['NDCG@10']:.3f} "
+            f"valid={val['is_valid_json'] and val['schema_complete']} "
+            f"tokens={result['gen_tokens']} t={elapsed:.1f}s"
+        )
+
+    print(f"\n[4/4] 집계 + 저장 — 총 {len(metric_rows)}명 평가됨, {time.time()-t0:.0f}s 소요")
+
+    aggregated = aggregate_metrics(metric_rows) if metric_rows else {}
+    validation_summary = {}
+    if validation_rows:
+        keys = ["is_valid_json", "schema_complete", "all_in_candidates",
+                "no_duplicates", "no_block_leakage"]
+        validation_summary = {k: float(np.mean([r[k] for r in validation_rows])) for k in keys}
+
+    summary = {
+        "condition": args.condition,
+        "adapter": str(args.adapter),
+        "base_model": args.base_model,
+        "n_evaluated": len(metric_rows),
+        "metrics": aggregated,
+        "validation_pass_rate": validation_summary,
+        "decision_distribution_total": dict(decision_total),
+        "params": {
+            "n_candidates": args.n_candidates,
+            "max_new_tokens": args.max_new_tokens,
+            "seed": args.seed,
+            "limit": args.limit,
+        },
+    }
+
+    out = {
+        "summary": summary,
+        "per_user": per_user_records,
+    }
+    args.output.write_text(json.dumps(out, ensure_ascii=False, indent=2))
+    print(f"\n📁 결과 저장: {args.output}")
+    print(f"\n=== Summary ===")
+    print(json.dumps(summary, ensure_ascii=False, indent=2))
 
 
 if __name__ == "__main__":

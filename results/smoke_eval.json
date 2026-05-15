@@ -1,0 +1,153 @@
+{
+  "summary": {
+    "condition": "c_ours",
+    "adapter": "checkpoints/judge_v1/adapter",
+    "base_model": "Qwen/Qwen3-14B",
+    "n_evaluated": 3,
+    "metrics": {
+      "HR@1": 0.0,
+      "HR@5": 0.0,
+      "HR@10": 0.0,
+      "NDCG@5": 0.0,
+      "NDCG@10": 0.0,
+      "MRR": 0.0
+    },
+    "validation_pass_rate": {
+      "is_valid_json": 1.0,
+      "schema_complete": 1.0,
+      "all_in_candidates": 1.0,
+      "no_duplicates": 1.0,
+      "no_block_leakage": 1.0
+    },
+    "decision_distribution_total": {
+      "PARTIAL": 7,
+      "TRANSFER": 11,
+      "BLOCK": 3
+    },
+    "params": {
+      "n_candidates": 50,
+      "max_new_tokens": 2500,
+      "seed": 42,
+      "limit": 3
+    }
+  },
+  "per_user": [
+    {
+      "user_id": "AEO5NHFNUTL3IWHAOOKJQCGV47EQ",
+      "gt_id": "0062407317",
+      "rec_ids": [
+        "0451404513",
+        "B07D1CW9VB",
+        "1400032822",
+        "B01N5FEKD3",
+        "B08JJPDQ85",
+        "B06XY3LWK8",
+        "B00DV026AS",
+        "B00JW75YL2",
+        "B07RWMGKR2",
+        "B08JCK2T9P"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "validation": {
+        "is_valid_json": true,
+        "schema_complete": true,
+        "all_in_candidates": true,
+        "no_duplicates": true,
+        "no_block_leakage": true
+      },
+      "decision_counts": {
+        "PARTIAL": 3,
+        "TRANSFER": 3,
+        "BLOCK": 1
+      },
+      "gen_tokens": 1515,
+      "prompt_tokens": 9070,
+      "elapsed_s": 201.3
+    },
+    {
+      "user_id": "AHUNW5ZCRGQ7FXIAWJBWXMVVX6CQ",
+      "gt_id": "7540449071",
+      "rec_ids": [
+        "054523154X",
+        "141690381X",
+        "0061148229",
+        "1582461333",
+        "B000H0OFZO",
+        "B09P9PT6ZZ",
+        "1483375579",
+        "1626928584",
+        "1647422833",
+        "1469620073"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "validation": {
+        "is_valid_json": true,
+        "schema_complete": true,
+        "all_in_candidates": true,
+        "no_duplicates": true,
+        "no_block_leakage": true
+      },
+      "decision_counts": {
+        "TRANSFER": 5,
+        "PARTIAL": 1,
+        "BLOCK": 1
+      },
+      "gen_tokens": 1686,
+      "prompt_tokens": 8748,
+      "elapsed_s": 228.5
+    },
+    {
+      "user_id": "AEIMVFQM33RBEOPNTAF6326M7Z4A",
+      "gt_id": "0062114042",
+      "rec_ids": [
+        "B093HBBJBR",
+        "031604749X",
+        "0440343690",
+        "B006CDMGMO",
+        "B009JY6BG0",
+        "B007PM2D10",
+        "B008IT51K4",
+        "B019HML2H6",
+        "B07P573Z8C",
+        "B0BC518MTH"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "validation": {
+        "is_valid_json": true,
+        "schema_complete": true,
+        "all_in_candidates": true,
+        "no_duplicates": true,
+        "no_block_leakage": true
+      },
+      "decision_counts": {
+        "PARTIAL": 3,
+        "TRANSFER": 3,
+        "BLOCK": 1
+      },
+      "gen_tokens": 1589,
+      "prompt_tokens": 9202,
+      "elapsed_s": 210.4
+    }
+  ]
+}
