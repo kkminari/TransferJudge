@@ -1,0 +1,123 @@
+{
+  "experiment": "RQ4 옵션 C — 3단계 vs binary 결정 ablation (정확도 + 다양성)",
+  "ranker_config": {
+    "alpha": 0.7,
+    "beta": 0.3,
+    "gamma": 0.2
+  },
+  "n_evaluated": 100,
+  "longtail_threshold": 13.0,
+  "variants": {
+    "three_level": {
+      "weights": {
+        "TRANSFER": 1.0,
+        "PARTIAL": 0.5,
+        "BLOCK": 0.0
+      },
+      "metrics": {
+        "HR@10": 0.51,
+        "NDCG@10": 0.29735846133403887,
+        "MRR": 0.23290079365079364,
+        "Novelty": 0.6625601023690096,
+        "ILD": 0.7917562610229276,
+        "LongTail_pct": 0.2719999999999999
+      }
+    },
+    "binary_aggressive": {
+      "weights": {
+        "TRANSFER": 1.0,
+        "PARTIAL": 1.0,
+        "BLOCK": 0.0
+      },
+      "metrics": {
+        "HR@10": 0.51,
+        "NDCG@10": 0.29718118208667965,
+        "MRR": 0.23266269841269838,
+        "Novelty": 0.6644436524534123,
+        "ILD": 0.7910599647266313,
+        "LongTail_pct": 0.27599999999999997
+      }
+    },
+    "binary_conservative": {
+      "weights": {
+        "TRANSFER": 1.0,
+        "PARTIAL": 0.0,
+        "BLOCK": 0.0
+      },
+      "metrics": {
+        "HR@10": 0.5,
+        "NDCG@10": 0.29229680863154717,
+        "MRR": 0.22889285714285712,
+        "Novelty": 0.660770253955421,
+        "ILD": 0.7935496472663139,
+        "LongTail_pct": 0.2669999999999999
+      }
+    }
+  },
+  "comparisons": {
+    "three_level_vs_binary_aggressive": {
+      "HR@10": {
+        "delta_mean": 0.0,
+        "ci_lower": 0.0,
+        "ci_upper": 0.0,
+        "significance": "유의차 없음"
+      },
+      "NDCG@10": {
+        "delta_mean": 0.00017727924735924937,
+        "ci_lower": -0.0015051736664648736,
+        "ci_upper": 0.002079703257798208,
+        "significance": "유의차 없음"
+      },
+      "MRR": {
+        "delta_mean": 0.0002380952380952378,
+        "ci_lower": -0.0016904761904761906,
+        "ci_upper": 0.002499999999999999,
+        "significance": "유의차 없음"
+      },
+      "novelty": {
+        "delta_mean": -0.0018835500844025742,
+        "ci_lower": -0.0036479065820822884,
+        "ci_upper": -0.0003605500946259212,
+        "significance": "유의 열위"
+      },
+      "ILD": {
+        "delta_mean": 0.0006962962962962982,
+        "ci_lower": -0.0006698809523809503,
+        "ci_upper": 0.0023667857142857106,
+        "significance": "유의차 없음"
+      }
+    },
+    "three_level_vs_binary_conservative": {
+      "HR@10": {
+        "delta_mean": 0.01,
+        "ci_lower": 0.0,
+        "ci_upper": 0.03,
+        "significance": "유의차 없음"
+      },
+      "NDCG@10": {
+        "delta_mean": 0.0050616527024917365,
+        "ci_lower": -0.003033109138337283,
+        "ci_upper": 0.016108815848138273,
+        "significance": "유의차 없음"
+      },
+      "MRR": {
+        "delta_mean": 0.004007936507936508,
+        "ci_lower": -0.004424702380952381,
+        "ci_upper": 0.016214384920634917,
+        "significance": "유의차 없음"
+      },
+      "novelty": {
+        "delta_mean": 0.001789848413588771,
+        "ci_lower": -0.001636357168184031,
+        "ci_upper": 0.005444694045416455,
+        "significance": "유의차 없음"
+      },
+      "ILD": {
+        "delta_mean": -0.00179338624338624,
+        "ci_lower": -0.005224874338624333,
+        "ci_upper": 0.0015165079365079442,
+        "significance": "유의차 없음"
+      }
+    }
+  }
+}
