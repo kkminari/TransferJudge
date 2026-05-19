@@ -1,0 +1,152 @@
+{
+  "experiment": "RQ4 Framework Ablation — vs 본 연구 C",
+  "n_users": 100,
+  "variants": {
+    "A_gpt4omini": {
+      "label": "A. Raw LLM × gpt-4o-mini",
+      "n": 100,
+      "metrics": {
+        "HR@1": 0.04,
+        "HR@5": 0.16,
+        "HR@10": 0.22,
+        "NDCG@5": 0.10133278053813945,
+        "NDCG@10": 0.12076146487477979,
+        "MRR": 0.09002380952380952
+      },
+      "cost_usd": 0.13591575
+    },
+    "A_gpt4o": {
+      "label": "A. Raw LLM × gpt-4o",
+      "n": 100,
+      "metrics": {
+        "HR@1": 0.08,
+        "HR@5": 0.18,
+        "HR@10": 0.26,
+        "NDCG@5": 0.1327192493766716,
+        "NDCG@10": 0.16002789078990312,
+        "MRR": 0.12912301587301586
+      },
+      "cost_usd": 2.2279225
+    },
+    "B_gpt4omini": {
+      "label": "B. Profile만 × gpt-4o-mini",
+      "n": 100,
+      "metrics": {
+        "HR@1": 0.05,
+        "HR@5": 0.12,
+        "HR@10": 0.23,
+        "NDCG@5": 0.0844020048965254,
+        "NDCG@10": 0.1190750058504224,
+        "MRR": 0.08680158730158731
+      },
+      "cost_usd": 0.13291229999999998
+    },
+    "B_gpt4o": {
+      "label": "B. Profile만 × gpt-4o",
+      "n": 100,
+      "metrics": {
+        "HR@1": 0.02,
+        "HR@5": 0.11,
+        "HR@10": 0.23,
+        "NDCG@5": 0.06353094486919933,
+        "NDCG@10": 0.10284063724913649,
+        "MRR": 0.06498809523809523
+      },
+      "cost_usd": 2.2474149999999997
+    }
+  },
+  "comparisons": {
+    "C_vs_A_gpt4omini": {
+      "HR@10": {
+        "delta_mean": 0.29,
+        "ci_lower": 0.16,
+        "ci_upper": 0.42,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "NDCG@10": {
+        "delta_mean": 0.17972707444677255,
+        "ci_lower": 0.09208973801578699,
+        "ci_upper": 0.2678264635686939,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "MRR": {
+        "delta_mean": 0.14684920634920634,
+        "ci_lower": 0.0652737103174603,
+        "ci_upper": 0.22994930555555554,
+        "significance": "유의 우위",
+        "n_compared": 100
+      }
+    },
+    "C_vs_A_gpt4o": {
+      "HR@10": {
+        "delta_mean": 0.25,
+        "ci_lower": 0.13,
+        "ci_upper": 0.37,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "NDCG@10": {
+        "delta_mean": 0.14046064853164925,
+        "ci_lower": 0.05530104945962927,
+        "ci_upper": 0.22731101647178892,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "MRR": {
+        "delta_mean": 0.10775,
+        "ci_lower": 0.026638194444444444,
+        "ci_upper": 0.19113928571428568,
+        "significance": "유의 우위",
+        "n_compared": 100
+      }
+    },
+    "C_vs_B_gpt4omini": {
+      "HR@10": {
+        "delta_mean": 0.28,
+        "ci_lower": 0.15975000000000222,
+        "ci_upper": 0.41,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "NDCG@10": {
+        "delta_mean": 0.18141353347112996,
+        "ci_lower": 0.09973864947570084,
+        "ci_upper": 0.26562726952769283,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "MRR": {
+        "delta_mean": 0.15007142857142858,
+        "ci_lower": 0.07261041666666668,
+        "ci_upper": 0.23163075396825394,
+        "significance": "유의 우위",
+        "n_compared": 100
+      }
+    },
+    "C_vs_B_gpt4o": {
+      "HR@10": {
+        "delta_mean": 0.28,
+        "ci_lower": 0.16,
+        "ci_upper": 0.4,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "NDCG@10": {
+        "delta_mean": 0.1976479020724159,
+        "ci_lower": 0.12237890974223613,
+        "ci_upper": 0.27715696248283567,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "MRR": {
+        "delta_mean": 0.17188492063492067,
+        "ci_lower": 0.09965386904761905,
+        "ci_upper": 0.24878492063492058,
+        "significance": "유의 우위",
+        "n_compared": 100
+      }
+    }
+  }
+}
