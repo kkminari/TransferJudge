@@ -244,12 +244,18 @@ def main() -> None:
         messages.append({"role": "user", "content": user_msg})
 
         # Apply chat template
-        input_ids = tokenizer.apply_chat_template(
+        encoded = tokenizer.apply_chat_template(
             messages,
             tokenize=True,
             add_generation_prompt=True,
             return_tensors="pt",
-        ).to(model.device)
+            enable_thinking=False,
+        )
+        # transformers 5.x may return BatchEncoding instead of a raw tensor.
+        if hasattr(encoded, "input_ids") or (hasattr(encoded, "keys") and "input_ids" in encoded):
+            input_ids = encoded["input_ids"].to(model.device)
+        else:
+            input_ids = encoded.to(model.device)
 
         if input_ids.shape[1] > args.max_seq_length:
             print(
