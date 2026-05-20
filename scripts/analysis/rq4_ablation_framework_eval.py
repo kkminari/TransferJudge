@@ -19,10 +19,12 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 OUTPUT_PATH = ROOT / "results/analysis/rq4_ablation_framework_summary.json"
 
 VARIANTS = [
-    ("A_gpt4omini", "A. Raw LLM × gpt-4o-mini"),
-    ("A_gpt4o", "A. Raw LLM × gpt-4o"),
+    ("A_gpt4omini", "A. Raw 리뷰 × gpt-4o-mini"),
+    ("A_gpt4o", "A. Raw 리뷰 × gpt-4o"),
     ("B_gpt4omini", "B. Profile만 × gpt-4o-mini"),
     ("B_gpt4o", "B. Profile만 × gpt-4o"),
+    ("D_gpt4omini", "D. Profile + Judge decisions × gpt-4o-mini"),
+    ("D_gpt4o", "D. Profile + Judge decisions × gpt-4o"),
 ]
 
 METRICS = ["HR@10", "NDCG@10", "MRR"]

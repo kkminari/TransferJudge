@@ -60,6 +60,16 @@ SEED = 42
 PRICE_INPUT_PER_1M = 0.15
 PRICE_OUTPUT_PER_1M = 0.60
 
+# Model pricing per 1M tokens (input, output)
+MODEL_PRICING = {
+    "gpt-4o-mini": (0.15, 0.60),
+    "gpt-4o": (2.50, 10.00),
+    "gpt-4o-2024-08-06": (2.50, 10.00),
+    "gpt-4-turbo": (10.00, 30.00),
+    "gpt-4.1": (2.00, 8.00),
+    "gpt-4.1-mini": (0.40, 1.60),
+}
+
 
 # ============================================================
 # Prompt 구성 — Condition별
@@ -285,6 +295,7 @@ def call_openai(client, system_prompt: str, user_message: str, max_retries: int 
 # ============================================================
 
 def main():
+    global MODEL, PRICE_INPUT_PER_1M, PRICE_OUTPUT_PER_1M
     parser = argparse.ArgumentParser()
     parser.add_argument("--condition", required=True, choices=["a_single", "b_prompt", "g_llm4cdr"])
     parser.add_argument("--test-users", type=Path, default=Path("data/test_users.parquet"))
@@ -301,17 +312,27 @@ def main():
     parser.add_argument("--limit", type=int, default=0, help="0 = 전체, >0 = smoke")
     parser.add_argument("--fixture-dir", type=Path, default=None,
                         help="평가 fixture 디렉토리 (eval_fixtures/). 권장: baseline과 동일 조건 보장.")
+    parser.add_argument("--model", type=str, default=None,
+                        help=f"OpenAI 모델 (기본: {MODEL}). 예: gpt-4o, gpt-4o-mini")
     args = parser.parse_args()
 
     if not os.environ.get("OPENAI_API_KEY"):
         print("❌ OPENAI_API_KEY 환경변수 필요")
         sys.exit(1)
 
+    # Override model from CLI
+    if args.model:
+        MODEL = args.model
+        if MODEL in MODEL_PRICING:
+            PRICE_INPUT_PER_1M, PRICE_OUTPUT_PER_1M = MODEL_PRICING[MODEL]
+        else:
+            print(f"⚠ Warning: {MODEL} pricing unknown, using gpt-4o-mini rates")
+
     output_path = args.output or Path(f"results/ablation_{args.condition}.json")
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     print(f"=== Phase 4 Baseline: {args.condition} ===")
-    print(f"  Model: {MODEL}")
+    print(f"  Model: {MODEL}  (${PRICE_INPUT_PER_1M}/M in, ${PRICE_OUTPUT_PER_1M}/M out)")
     print(f"  Output: {output_path}")
 
     # 데이터 로드

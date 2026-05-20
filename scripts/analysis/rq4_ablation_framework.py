@@ -129,7 +129,41 @@ STRICT RULES:
 - Output ONLY the JSON, no prose."""
 
 
-SYSTEM_PROMPTS = {"A": SYSTEM_A_RAW_LLM, "B": SYSTEM_B_PROFILE_ONLY}
+SYSTEM_D_PROFILE_JUDGE = """You are a book recommender. A user's movie preference profile is \
+provided in JSON format with 7 patterns, along with TRANSFER/PARTIAL/BLOCK transfer decisions \
+for each pattern made by an expert Cross-Domain Transfer Judge. Use BOTH the profile and the \
+transfer decisions to recommend a Top-10 list of books from the candidates below.
+
+How to use the transfer decisions:
+- TRANSFER patterns: apply this preference directly to book recommendations.
+- PARTIAL patterns: apply with medium translation (the pattern transfers partially with caveats).
+- BLOCK patterns: do NOT use this pattern as a basis for any recommendation (it is medium-specific).
+
+Output a single JSON object with this exact schema:
+{
+  "recommendations": [
+    {"rank": 1, "item_id": "<exact parent_asin value as shown after 'item_id:' in candidate listing>",
+     "title": "<book title>",
+     "score": <0.0-1.0>, "reasoning": "<1-2 sentences explaining how TRANSFER/PARTIAL patterns drove this rec>"},
+    ...10 items total
+  ]
+}
+
+STRICT RULES:
+- item_id MUST be the actual parent_asin string (e.g., 'B07ABC123' or '0062407317'),
+  NOT the candidate index like 'C1' or '32'.
+- Each candidate is listed as: [C{idx}] item_id: <parent_asin> — use the <parent_asin> value.
+- item_id MUST be one of the 50 candidates listed.
+- All 10 item_ids must be distinct.
+- Recommendations must NOT be based on BLOCK-decision patterns.
+- Output ONLY the JSON, no prose."""
+
+
+SYSTEM_PROMPTS = {
+    "A": SYSTEM_A_RAW_LLM,
+    "B": SYSTEM_B_PROFILE_ONLY,
+    "D": SYSTEM_D_PROFILE_JUDGE,
+}
 
 
 # ============================================================
@@ -160,6 +194,46 @@ def build_user_message_profile(profile_json: dict, candidates: list[dict]) -> st
         f"## Task\nRecommend Top-10 books from the candidates above. "
         f"Use the Profile to infer the user's taste."
     )
+
+
+def build_user_message_profile_judge(
+    profile_json: dict, transfer_decisions: dict, candidates: list[dict]
+) -> str:
+    """변형 D: Profile + Judge transfer_decisions + 후보 50권."""
+    profile_text = json.dumps(profile_json, ensure_ascii=False, indent=2)
+    # Format decisions compactly
+    decisions_summary = {}
+    for pat, d in transfer_decisions.items():
+        decisions_summary[pat] = {
+            "decision": d.get("decision", "UNKNOWN"),
+            "rationale": d.get("rationale", ""),
+            "transferred_insight": d.get("transferred_insight"),
+        }
+    decisions_text = json.dumps(decisions_summary, ensure_ascii=False, indent=2)
+    cand_text = "\n".join(format_candidate(c, idx + 1) for idx, c in enumerate(candidates))
+    return (
+        f"## User's 7-pattern Movie Preference Profile\n{profile_text}\n\n"
+        f"## Transfer Judge Decisions (TRANSFER / PARTIAL / BLOCK per pattern)\n"
+        f"{decisions_text}\n\n"
+        f"## Book Candidates (n={len(candidates)})\n{cand_text}\n\n"
+        f"## Task\nUsing BOTH the Profile and the Transfer Decisions, recommend Top-10 books "
+        f"from the candidates above. Apply TRANSFER patterns directly, apply PARTIAL patterns "
+        f"with medium translation, and do NOT use BLOCK patterns."
+    )
+
+
+def load_transfer_decisions(uid: str) -> dict | None:
+    """본 연구 Judge가 출력한 transfer_decisions 로드 (ablation_c_ours.json output_json)."""
+    cache_file = ROOT / "results/ablation_c_ours.json"
+    if not hasattr(load_transfer_decisions, "_cache"):
+        data = json.loads(cache_file.read_text())
+        cache = {}
+        for r in data["per_user"]:
+            oj = r.get("output_json", {})
+            if isinstance(oj, dict) and "transfer_decisions" in oj:
+                cache[r["user_id"]] = oj["transfer_decisions"]
+        load_transfer_decisions._cache = cache
+    return load_transfer_decisions._cache.get(uid)
 
 
 # ============================================================
@@ -249,7 +323,7 @@ def call_openai(client, model: str, system: str, user_msg: str, max_retries: int
 
 def main():
     p = argparse.ArgumentParser()
-    p.add_argument("--variant", required=True, choices=["A", "B"])
+    p.add_argument("--variant", required=True, choices=["A", "B", "D"])
     p.add_argument("--model", required=True,
                    choices=["gpt-4o-mini", "gpt-4o", "gpt-4o-2024-08-06"])
     p.add_argument("--output", type=Path, required=True)
@@ -316,13 +390,24 @@ def main():
         if args.variant == "A":
             user_reviews = movies[movies["user_id"] == uid].sort_values("timestamp", ascending=False).head(30)
             user_msg = build_user_message_raw_reviews(user_reviews, candidates)
-        else:  # B
+        elif args.variant == "B":
             profile_file = args.profiles_dir / f"user_{uid}.json"
             if not profile_file.exists():
                 print(f"  [{idx+1}/{len(test_users)}] {uid} — profile 없음, skip")
                 continue
             profile = json.loads(profile_file.read_text())
             user_msg = build_user_message_profile(profile, candidates)
+        else:  # D — Profile + Judge decisions
+            profile_file = args.profiles_dir / f"user_{uid}.json"
+            if not profile_file.exists():
+                print(f"  [{idx+1}/{len(test_users)}] {uid} — profile 없음, skip")
+                continue
+            profile = json.loads(profile_file.read_text())
+            decisions = load_transfer_decisions(uid)
+            if not decisions:
+                print(f"  [{idx+1}/{len(test_users)}] {uid} — transfer_decisions 없음, skip")
+                continue
+            user_msg = build_user_message_profile_judge(profile, decisions, candidates)
 
         # Call OpenAI
         try:

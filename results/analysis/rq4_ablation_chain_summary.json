@@ -1,0 +1,338 @@
+{
+  "comparisons": {
+    "profiler_effect_4omini": {
+      "HR@10": {
+        "delta_mean": 0.01,
+        "ci_lower": -0.08,
+        "ci_upper": 0.1,
+        "significance": "유의차 없음",
+        "n_compared": 100
+      },
+      "NDCG@10": {
+        "delta_mean": -0.0016864590243573807,
+        "ci_lower": -0.04104260138632937,
+        "ci_upper": 0.03913857497909173,
+        "significance": "유의차 없음",
+        "n_compared": 100
+      },
+      "MRR": {
+        "delta_mean": -0.003222222222222224,
+        "ci_lower": -0.03435734126984126,
+        "ci_upper": 0.03025228174603171,
+        "significance": "유의차 없음",
+        "n_compared": 100
+      }
+    },
+    "profiler_effect_4o": {
+      "HR@10": {
+        "delta_mean": -0.03,
+        "ci_lower": -0.12,
+        "ci_upper": 0.06,
+        "significance": "유의차 없음",
+        "n_compared": 100
+      },
+      "NDCG@10": {
+        "delta_mean": -0.05718725354076662,
+        "ci_lower": -0.1137092603540106,
+        "ci_upper": -0.006489551358208848,
+        "significance": "유의 열위",
+        "n_compared": 100
+      },
+      "MRR": {
+        "delta_mean": -0.06413492063492064,
+        "ci_lower": -0.11467152777777774,
+        "ci_upper": -0.01951944444444445,
+        "significance": "유의 열위",
+        "n_compared": 100
+      }
+    },
+    "judge_effect_4omini": {
+      "HR@10": {
+        "delta_mean": -0.03,
+        "ci_lower": -0.1,
+        "ci_upper": 0.04,
+        "significance": "유의차 없음",
+        "n_compared": 100
+      },
+      "NDCG@10": {
+        "delta_mean": -0.030819684513150817,
+        "ci_lower": -0.06648224831704859,
+        "ci_upper": 0.0037756042760538327,
+        "significance": "유의차 없음",
+        "n_compared": 100
+      },
+      "MRR": {
+        "delta_mean": -0.03215079365079365,
+        "ci_lower": -0.06721914682539683,
+        "ci_upper": -0.0009879960317460352,
+        "significance": "유의 열위",
+        "n_compared": 100
+      }
+    },
+    "judge_effect_4o": {
+      "HR@10": {
+        "delta_mean": 0.01,
+        "ci_lower": -0.07,
+        "ci_upper": 0.09,
+        "significance": "유의차 없음",
+        "n_compared": 100
+      },
+      "NDCG@10": {
+        "delta_mean": 0.0026475570512488316,
+        "ci_lower": -0.02457263559796129,
+        "ci_upper": 0.031320827969693106,
+        "significance": "유의차 없음",
+        "n_compared": 100
+      },
+      "MRR": {
+        "delta_mean": 0.0008531746031746052,
+        "ci_lower": -0.014218948412698407,
+        "ci_upper": 0.017009325396825377,
+        "significance": "유의차 없음",
+        "n_compared": 100
+      }
+    },
+    "ranker_effect_vs_D_4omini": {
+      "HR@10": {
+        "delta_mean": 0.31,
+        "ci_lower": 0.18,
+        "ci_upper": 0.44,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "NDCG@10": {
+        "delta_mean": 0.21223321798428077,
+        "ci_lower": 0.1327156469950574,
+        "ci_upper": 0.2935943445192585,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "MRR": {
+        "delta_mean": 0.1822222222222222,
+        "ci_lower": 0.10941666666666666,
+        "ci_upper": 0.25833749999999994,
+        "significance": "유의 우위",
+        "n_compared": 100
+      }
+    },
+    "ranker_effect_vs_D_4o": {
+      "HR@10": {
+        "delta_mean": 0.27,
+        "ci_lower": 0.14,
+        "ci_upper": 0.4,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "NDCG@10": {
+        "delta_mean": 0.195000345021167,
+        "ci_lower": 0.11698667955132365,
+        "ci_upper": 0.2772250018368067,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "MRR": {
+        "delta_mean": 0.17103174603174603,
+        "ci_lower": 0.09893154761904764,
+        "ci_upper": 0.24788611111111108,
+        "significance": "유의 우위",
+        "n_compared": 100
+      }
+    },
+    "framework_vs_A_4omini": {
+      "HR@10": {
+        "delta_mean": 0.29,
+        "ci_lower": 0.16,
+        "ci_upper": 0.42,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "NDCG@10": {
+        "delta_mean": 0.17972707444677255,
+        "ci_lower": 0.09208973801578699,
+        "ci_upper": 0.2678264635686939,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "MRR": {
+        "delta_mean": 0.14684920634920634,
+        "ci_lower": 0.0652737103174603,
+        "ci_upper": 0.22994930555555554,
+        "significance": "유의 우위",
+        "n_compared": 100
+      }
+    },
+    "framework_vs_A_4o": {
+      "HR@10": {
+        "delta_mean": 0.25,
+        "ci_lower": 0.13,
+        "ci_upper": 0.37,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "NDCG@10": {
+        "delta_mean": 0.14046064853164925,
+        "ci_lower": 0.05530104945962927,
+        "ci_upper": 0.22731101647178892,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "MRR": {
+        "delta_mean": 0.10775,
+        "ci_lower": 0.026638194444444444,
+        "ci_upper": 0.19113928571428568,
+        "significance": "유의 우위",
+        "n_compared": 100
+      }
+    },
+    "framework_vs_B_4omini": {
+      "HR@10": {
+        "delta_mean": 0.28,
+        "ci_lower": 0.15975000000000222,
+        "ci_upper": 0.41,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "NDCG@10": {
+        "delta_mean": 0.18141353347112996,
+        "ci_lower": 0.09973864947570084,
+        "ci_upper": 0.26562726952769283,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "MRR": {
+        "delta_mean": 0.15007142857142858,
+        "ci_lower": 0.07261041666666668,
+        "ci_upper": 0.23163075396825394,
+        "significance": "유의 우위",
+        "n_compared": 100
+      }
+    },
+    "framework_vs_B_4o": {
+      "HR@10": {
+        "delta_mean": 0.28,
+        "ci_lower": 0.16,
+        "ci_upper": 0.4,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "NDCG@10": {
+        "delta_mean": 0.1976479020724159,
+        "ci_lower": 0.12237890974223613,
+        "ci_upper": 0.27715696248283567,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "MRR": {
+        "delta_mean": 0.17188492063492067,
+        "ci_lower": 0.09965386904761905,
+        "ci_upper": 0.24878492063492058,
+        "significance": "유의 우위",
+        "n_compared": 100
+      }
+    },
+    "framework_vs_D_4omini": {
+      "HR@10": {
+        "delta_mean": 0.31,
+        "ci_lower": 0.18,
+        "ci_upper": 0.44,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "NDCG@10": {
+        "delta_mean": 0.21223321798428077,
+        "ci_lower": 0.1327156469950574,
+        "ci_upper": 0.2935943445192585,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "MRR": {
+        "delta_mean": 0.1822222222222222,
+        "ci_lower": 0.10941666666666666,
+        "ci_upper": 0.25833749999999994,
+        "significance": "유의 우위",
+        "n_compared": 100
+      }
+    },
+    "framework_vs_D_4o": {
+      "HR@10": {
+        "delta_mean": 0.27,
+        "ci_lower": 0.14,
+        "ci_upper": 0.4,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "NDCG@10": {
+        "delta_mean": 0.195000345021167,
+        "ci_lower": 0.11698667955132365,
+        "ci_upper": 0.2772250018368067,
+        "significance": "유의 우위",
+        "n_compared": 100
+      },
+      "MRR": {
+        "delta_mean": 0.17103174603174603,
+        "ci_lower": 0.09893154761904764,
+        "ci_upper": 0.24788611111111108,
+        "significance": "유의 우위",
+        "n_compared": 100
+      }
+    }
+  },
+  "raw_results": {
+    "A_4omini": {
+      "n": 100,
+      "mean_metrics": {
+        "HR@10": 0.22,
+        "NDCG@10": 0.12076146487477979,
+        "MRR": 0.09002380952380952
+      }
+    },
+    "A_4o": {
+      "n": 100,
+      "mean_metrics": {
+        "HR@10": 0.26,
+        "NDCG@10": 0.16002789078990312,
+        "MRR": 0.12912301587301586
+      }
+    },
+    "B_4omini": {
+      "n": 100,
+      "mean_metrics": {
+        "HR@10": 0.23,
+        "NDCG@10": 0.1190750058504224,
+        "MRR": 0.08680158730158731
+      }
+    },
+    "B_4o": {
+      "n": 100,
+      "mean_metrics": {
+        "HR@10": 0.23,
+        "NDCG@10": 0.10284063724913649,
+        "MRR": 0.06498809523809523
+      }
+    },
+    "D_4omini": {
+      "n": 100,
+      "mean_metrics": {
+        "HR@10": 0.2,
+        "NDCG@10": 0.08825532133727158,
+        "MRR": 0.05465079365079365
+      }
+    },
+    "D_4o": {
+      "n": 100,
+      "mean_metrics": {
+        "HR@10": 0.24,
+        "NDCG@10": 0.10548819430038532,
+        "MRR": 0.06584126984126984
+      }
+    },
+    "C": {
+      "n": 100,
+      "mean_metrics": {
+        "HR@10": 0.51,
+        "NDCG@10": 0.30048853932155234,
+        "MRR": 0.23687301587301587
+      }
+    }
+  }
+}
