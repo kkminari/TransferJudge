@@ -1,0 +1,28 @@
+======================================================================
+RQ4 framework ablation × Qwen3-14B (base, 학습 전)
+  변형: A
+  출력: results/analysis/smoke_A_qwen.json
+======================================================================
+Loading Qwen/Qwen3-14B (4-bit)...
+Loading checkpoint shards:   0%|          | 0/8 [00:00<?, ?it/s]Loading checkpoint shards:  12%|█▎        | 1/8 [00:02<00:16,  2.37s/it]Loading checkpoint shards:  25%|██▌       | 2/8 [00:05<00:18,  3.10s/it]Loading checkpoint shards:  38%|███▊      | 3/8 [00:09<00:16,  3.28s/it]Loading checkpoint shards:  50%|█████     | 4/8 [00:13<00:13,  3.41s/it]Loading checkpoint shards:  62%|██████▎   | 5/8 [00:16<00:10,  3.51s/it]Loading checkpoint shards:  75%|███████▌  | 6/8 [00:20<00:07,  3.51s/it]Loading checkpoint shards:  88%|████████▊ | 7/8 [00:23<00:03,  3.55s/it]Loading checkpoint shards: 100%|██████████| 8/8 [00:24<00:00,  2.59s/it]Loading checkpoint shards: 100%|██████████| 8/8 [00:24<00:00,  3.06s/it]
+The following generation flags are not valid and may be ignored: ['top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+The following generation flags are not valid and may be ignored: ['top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+  Model loaded.
+
+  users: 3
+  movies reviews: 30,303
+
+
+======================================================================
+결과 — 변형 A × Qwen3-14B base
+======================================================================
+  n_evaluated: 3
+  n_skipped:   0
+  HR@10:       0.667
+  NDCG@10:     0.4769
+  MRR:         0.4167
+  시간:         178s (3.0m)
+
+저장: results/analysis/smoke_A_qwen.json

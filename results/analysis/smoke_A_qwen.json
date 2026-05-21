@@ -1,0 +1,99 @@
+{
+  "experiment": "RQ4 framework ablation — variant A × Qwen3-14B (base, pre-FT)",
+  "variant": "A",
+  "model": "Qwen/Qwen3-14B",
+  "quantization": "4-bit nf4",
+  "temperature": 0.0,
+  "n_evaluated": 3,
+  "n_skipped": 0,
+  "skipped": [],
+  "summary": {
+    "HR@1": 0.3333333333333333,
+    "HR@5": 0.6666666666666666,
+    "HR@10": 0.6666666666666666,
+    "NDCG@5": 0.47689218602446437,
+    "NDCG@10": 0.47689218602446437,
+    "MRR": 0.4166666666666667
+  },
+  "elapsed_seconds": 178.46592140197754,
+  "per_user": [
+    {
+      "user_id": "AEO5NHFNUTL3IWHAOOKJQCGV47EQ",
+      "gt_id": "0062407317",
+      "rec_ids": [
+        "0062407317",
+        "0380804530",
+        "0692400893",
+        "0989760715",
+        "1501141511",
+        "0520297792",
+        "1468568493",
+        "1495800741",
+        "0937311278",
+        "1518712541"
+      ],
+      "metrics": {
+        "HR@1": 1,
+        "HR@5": 1,
+        "HR@10": 1,
+        "NDCG@5": 1.0,
+        "NDCG@10": 1.0,
+        "MRR": 1.0
+      },
+      "input_tokens": 6628,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0062407317\",\n      \"title\": \"Rabbit: A Memoir\",\n      \"score\": 0.95,\n      \"reasoning\": \"The user's movie reviews often mention emotional depth and strong character development, which aligns with the memoir's personal and reflective n"
+    },
+    {
+      "user_id": "AHUNW5ZCRGQ7FXIAWJBWXMVVX6CQ",
+      "gt_id": "7540449071",
+      "rec_ids": [
+        "054523154X",
+        "0977071502",
+        "0984968210",
+        "1421646994",
+        "0897245652",
+        "0955525586",
+        "1466205458",
+        "1626928584",
+        "1469620073",
+        "141690381X"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 5979,
+      "response_preview": "{\n  \"recommendations\": [\n    {\"rank\": 1, \"item_id\": \"054523154X\", \"title\": \"Dinosaurs Love Underpants\", \"score\": 0.85, \"reasoning\": \"The user's reviews indicate a preference for children's content that is educational and engaging, which aligns with this book's playful and educational approach for yo"
+    },
+    {
+      "user_id": "AEIMVFQM33RBEOPNTAF6326M7Z4A",
+      "gt_id": "0062114042",
+      "rec_ids": [
+        "B006CDMGMO",
+        "B093HBBJBR",
+        "B0BC518MTH",
+        "0062114042",
+        "B008IT51K4",
+        "B007PM2D10",
+        "B019HML2H6",
+        "B003FPNLF8",
+        "B09K4VKSB2",
+        "B07P573Z8C"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 1,
+        "HR@10": 1,
+        "NDCG@5": 0.43067655807339306,
+        "NDCG@10": 0.43067655807339306,
+        "MRR": 0.25
+      },
+      "input_tokens": 6438,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B006CDMGMO\",\n      \"title\": \"Instances of the Number 3\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's movie reviews indicate an appreciation for character-driven narratives and emotional depth, which aligns with the literary st"
+    }
+  ]
+}
