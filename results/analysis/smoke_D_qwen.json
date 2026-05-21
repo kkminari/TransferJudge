@@ -1,0 +1,99 @@
+{
+  "experiment": "RQ4 framework ablation — variant D × Qwen3-14B (base, pre-FT)",
+  "variant": "D",
+  "model": "Qwen/Qwen3-14B",
+  "quantization": "4-bit nf4",
+  "temperature": 0.0,
+  "n_evaluated": 3,
+  "n_skipped": 0,
+  "skipped": [],
+  "summary": {
+    "HR@1": 0.3333333333333333,
+    "HR@5": 0.3333333333333333,
+    "HR@10": 0.3333333333333333,
+    "NDCG@5": 0.3333333333333333,
+    "NDCG@10": 0.3333333333333333,
+    "MRR": 0.3333333333333333
+  },
+  "elapsed_seconds": 193.63532328605652,
+  "per_user": [
+    {
+      "user_id": "AEO5NHFNUTL3IWHAOOKJQCGV47EQ",
+      "gt_id": "0062407317",
+      "rec_ids": [
+        "0062407317",
+        "B00DV026AS",
+        "B01N5FEKD3",
+        "B08JJPDQ85",
+        "B01HAK36DK",
+        "B08JCK2T9P",
+        "B00839FZYQ",
+        "B00JW75YL2",
+        "B07D1CW9VB",
+        "B07RWMGKR2"
+      ],
+      "metrics": {
+        "HR@1": 1,
+        "HR@5": 1,
+        "HR@10": 1,
+        "NDCG@5": 1.0,
+        "NDCG@10": 1.0,
+        "MRR": 1.0
+      },
+      "input_tokens": 7027,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0062407317\",\n      \"title\": \"Rabbit: A Memoir\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for emotional resonance and high-quality storytelling (TRANSFER) aligns with this memoir, which is described as emotionally"
+    },
+    {
+      "user_id": "AHUNW5ZCRGQ7FXIAWJBWXMVVX6CQ",
+      "gt_id": "7540449071",
+      "rec_ids": [
+        "054523154X",
+        "0897245652",
+        "0984968210",
+        "0061148229",
+        "1469620073",
+        "097788001X",
+        "1420313436",
+        "0985049316",
+        "1520150342",
+        "0810841282"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6747,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"054523154X\",\n      \"title\": \"Dinosaurs Love Underpants\",\n      \"score\": 0.9,\n      \"reasoning\": \"This book aligns with the user's preference for family-oriented and educational content, as well as emotionally resonant stories suitable"
+    },
+    {
+      "user_id": "AEIMVFQM33RBEOPNTAF6326M7Z4A",
+      "gt_id": "0062114042",
+      "rec_ids": [
+        "B008IT51K4",
+        "B006CDMGMO",
+        "B093HBBJBR",
+        "B0BC518MTH",
+        "B003FPNLF8",
+        "B007PM2D10",
+        "B01B1IR0F2",
+        "B007HO86OO",
+        "B009JY6BG0",
+        "B09K4VKSB2"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7160,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B008IT51K4\",\n      \"title\": \"Continuemos! (English and Spanish Edition)\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for family-friendly and simple narratives (TRANSFER from narrative_complexity) aligns with this b"
+    }
+  ]
+}

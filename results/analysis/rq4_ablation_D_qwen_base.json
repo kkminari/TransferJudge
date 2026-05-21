@@ -1,0 +1,2621 @@
+{
+  "experiment": "RQ4 framework ablation — variant D × Qwen3-14B (base, pre-FT)",
+  "variant": "D",
+  "model": "Qwen/Qwen3-14B",
+  "quantization": "4-bit nf4",
+  "temperature": 0.0,
+  "n_evaluated": 100,
+  "n_skipped": 0,
+  "skipped": [],
+  "summary": {
+    "HR@1": 0.02,
+    "HR@5": 0.13,
+    "HR@10": 0.22,
+    "NDCG@5": 0.06926546905890951,
+    "NDCG@10": 0.09815717348644877,
+    "MRR": 0.0618015873015873
+  },
+  "elapsed_seconds": 6063.9129803180695,
+  "per_user": [
+    {
+      "user_id": "AEO5NHFNUTL3IWHAOOKJQCGV47EQ",
+      "gt_id": "0062407317",
+      "rec_ids": [
+        "0062407317",
+        "B00DV026AS",
+        "B01N5FEKD3",
+        "B08JJPDQ85",
+        "B01HAK36DK",
+        "B08JCK2T9P",
+        "B00839FZYQ",
+        "B00JW75YL2",
+        "B07D1CW9VB",
+        "B07RWMGKR2"
+      ],
+      "metrics": {
+        "HR@1": 1,
+        "HR@5": 1,
+        "HR@10": 1,
+        "NDCG@5": 1.0,
+        "NDCG@10": 1.0,
+        "MRR": 1.0
+      },
+      "input_tokens": 7027,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0062407317\",\n      \"title\": \"Rabbit: A Memoir\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for emotional resonance and high-quality storytelling (TRANSFER) aligns with this memoir, which is described as emotionally"
+    },
+    {
+      "user_id": "AHUNW5ZCRGQ7FXIAWJBWXMVVX6CQ",
+      "gt_id": "7540449071",
+      "rec_ids": [
+        "054523154X",
+        "0897245652",
+        "0984968210",
+        "0061148229",
+        "1469620073",
+        "097788001X",
+        "1420313436",
+        "0985049316",
+        "1520150342",
+        "0810841282"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6747,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"054523154X\",\n      \"title\": \"Dinosaurs Love Underpants\",\n      \"score\": 0.9,\n      \"reasoning\": \"This book aligns with the user's preference for family-oriented and educational content, as well as emotionally resonant stories suitable"
+    },
+    {
+      "user_id": "AEIMVFQM33RBEOPNTAF6326M7Z4A",
+      "gt_id": "0062114042",
+      "rec_ids": [
+        "B008IT51K4",
+        "B006CDMGMO",
+        "B093HBBJBR",
+        "B0BC518MTH",
+        "B003FPNLF8",
+        "B007PM2D10",
+        "B01B1IR0F2",
+        "B007HO86OO",
+        "B009JY6BG0",
+        "B09K4VKSB2"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7160,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B008IT51K4\",\n      \"title\": \"Continuemos! (English and Spanish Edition)\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for family-friendly and simple narratives (TRANSFER from narrative_complexity) aligns with this b"
+    },
+    {
+      "user_id": "AHXTDXKSTQSO4UFLFNBOU4B7VFTA",
+      "gt_id": "1093357150",
+      "rec_ids": [
+        "B09XFGS2F2",
+        "B00H8BVYBS",
+        "B008JH8RBK",
+        "1523282770",
+        "1405680679",
+        "1559212497",
+        "B009NY4384",
+        "1494938499",
+        "1733589228",
+        "B08P1H4BX9"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7207,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B09XFGS2F2\",\n      \"title\": \"Off the Autoroute: A Personal French Travel Memoir\",\n      \"score\": 0.9,\n      \"reasoning\": \"The user's preference for emotionally resonant and real-life content aligns with this travel memoir, which refle"
+    },
+    {
+      "user_id": "AHJUUZKRR3LV2JV5VMR3O5DYP2SA",
+      "gt_id": "0670026263",
+      "rec_ids": [
+        "0989864820",
+        "0996642234",
+        "0349115664",
+        "0140262431",
+        "099912370X",
+        "0307968103",
+        "1521984646",
+        "0967023467",
+        "0521618754",
+        "1410471330"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7151,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0989864820\",\n      \"title\": \"Ollie's Dilemma\",\n      \"score\": 0.85,\n      \"reasoning\": \"TRANSFER from genre_preference (drama, war, romance) and quality_sensitivity (high-quality narratives). This mystery novel has a strong narrative "
+    },
+    {
+      "user_id": "AGMFA7FDVGX42NPYCSDZEJNNVRPQ",
+      "gt_id": "1631143905",
+      "rec_ids": [
+        "1925946827",
+        "1402791518",
+        "1932733744",
+        "1492611867",
+        "1470024896",
+        "1607105675",
+        "1894936426",
+        "1481857266",
+        "1930092865",
+        "1490525033"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7255,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1925946827\",\n      \"title\": \"Orien's Animal Tarot: 78 card deck and 144 page book\",\n      \"score\": 0.95,\n      \"reasoning\": \"The user's spiritual preference and emotional resonance align with this tarot book, which offers spiritual co"
+    },
+    {
+      "user_id": "AHLLBHY7DKF6RBLKS2CIUM6DHOQA",
+      "gt_id": "0321934946",
+      "rec_ids": [
+        "0941050831",
+        "1976188458",
+        "1594604290",
+        "0983698317",
+        "1408814196",
+        "1593220286",
+        "1450429297",
+        "1543900518",
+        "1945181265",
+        "0385065698"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6960,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0941050831\",\n      \"title\": \"Evoking Sound: Fundamentals of Choral Conducting and Rehearsing\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user is open to a variety of genres and prefers books with high average ratings. This book has"
+    },
+    {
+      "user_id": "AH27JR3GX6XYEMH2K2Y4BFFPGJXA",
+      "gt_id": "0996715002",
+      "rec_ids": [
+        "1947189158",
+        "1257033514",
+        "1500580945",
+        "1406748781",
+        "1934026522",
+        "1537521276",
+        "1925973336",
+        "1449530192",
+        "194638366X",
+        "1519587309"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6986,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1947189158\",\n      \"title\": \"Plus One\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user prefers simple narratives and fast pacing, which aligns with the straightforward, engaging story of 'Plus One' in the romance genre.\"\n    },\n   "
+    },
+    {
+      "user_id": "AFQYKM7MPBUH65MQ4OJLZVPBEOAA",
+      "gt_id": "1424549361",
+      "rec_ids": [
+        "B00HT02BQU",
+        "B09H97CRQK",
+        "B01IQ0A6O0",
+        "B00CGO8Q1S",
+        "B004KAB59G",
+        "B08STTNTNV",
+        "B001OXQL00",
+        "B074Q2845K",
+        "B0B5PPN95R",
+        "1846146755"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6503,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B00HT02BQU\",\n      \"title\": \"The Nocturnal (Book #1 of (The Dead of Night) Series)\",\n      \"score\": 0.9,\n      \"reasoning\": \"Though no direct transferable patterns were available, the high average rating (5.0) and the genre fiction ca"
+    },
+    {
+      "user_id": "AEUW7H5BGEERG43UNRM4PEKSVK7A",
+      "gt_id": "1455525928",
+      "rec_ids": [
+        "0596514476",
+        "1718129300",
+        "1848190581",
+        "146119301X",
+        "1932910271",
+        "1728992311",
+        "1536829668",
+        "1934359203",
+        "1585745391",
+        "1434998894"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6743,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0596514476\",\n      \"title\": \"CJKV Information Processing: Chinese, Japanese, Korean & Vietnamese Computing\",\n      \"score\": 0.9,\n      \"reasoning\": \"The user's high sensitivity to quality suggests a preference for well-reviewed and hi"
+    },
+    {
+      "user_id": "AG2AUOLNO3W34DO356DTUXFMZGJA",
+      "gt_id": "0914171895",
+      "rec_ids": [
+        "B08D54RB2P",
+        "B08JWG1H8L",
+        "B09WQBKTV4",
+        "B06XNSTDH9",
+        "B081NDDSXN",
+        "1588902587",
+        "1579547591",
+        "1795068094",
+        "1788953304",
+        "1582482047"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6816,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B08D54RB2P\",\n      \"title\": \"Juniper: A Worthy Love (Flower Sisters)\",\n      \"score\": 0.9,\n      \"reasoning\": \"The user is open to a variety of genres and narratives, and this book falls into the literature and fiction category with a"
+    },
+    {
+      "user_id": "AGDFPNZ6WTUVQ2KQDYEUPFZFQ5GQ",
+      "gt_id": "849448527X",
+      "rec_ids": [
+        "B004FNK3V4",
+        "B003BOXZ9K",
+        "B01J9PS2G0",
+        "B009UDN6AO",
+        "B00WXYKS3U",
+        "B01LC7FY0K",
+        "B00JHIDOBS",
+        "B0047FK2ZW",
+        "B010P11EH6",
+        "1587296055"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7005,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B004FNK3V4\",\n      \"title\": \"Shift Change The Working Waterfront on San Diego Bay\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for high-quality production and emotional resonance aligns with this book's strong aver"
+    },
+    {
+      "user_id": "AFOC7XRAOCYZE363E22XH2IK2I6A",
+      "gt_id": "1635263735",
+      "rec_ids": [
+        "0989715329",
+        "1418541850",
+        "1597256560",
+        "1935562320",
+        "1416558527",
+        "1928618308",
+        "1590242335",
+        "1635263735",
+        "1936955040",
+        "1481462172"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 1,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.31546487678572877,
+        "MRR": 0.125
+      },
+      "input_tokens": 6876,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0989715329\",\n      \"title\": \"Kaleidoscope City\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user prefers simple narratives and fast pacing, which aligns with the straightforward storytelling of this book. Additionally, the emotional"
+    },
+    {
+      "user_id": "AG6YGVSESHELOOIC6W4TWS6IQ5DA",
+      "gt_id": "0829920412",
+      "rec_ids": [
+        "B00CRYE6CU",
+        "B09M7TG3JH",
+        "B08MSHCL7M",
+        "B007EW6X76",
+        "B084DH5N7J",
+        "B09M552MWD",
+        "B004VB54CI",
+        "B07VCV7TSX",
+        "B0746L5TRW",
+        "B06WW4322R"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7246,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B00CRYE6CU\",\n      \"title\": \"A Murder in Macedon (Alexander the Great Mysteries, Book 1): Intrigue and murder in Ancient Greece\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user prefers fast-paced narratives and suspense, which alig"
+    },
+    {
+      "user_id": "AHDBE5Z3G7B4T2YSHMHOYSVG3QMQ",
+      "gt_id": "0836210425",
+      "rec_ids": [
+        "0394545796",
+        "1442110945",
+        "052524347X",
+        "1907973885",
+        "0763610445",
+        "1615051279",
+        "0380793733",
+        "1455549126",
+        "075660950X",
+        "0976844915"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7065,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0394545796\",\n      \"title\": \"Domestic Pleasures\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for simple narratives (TRANSFER) and fast pacing (TRANSFER) aligns with this book's straightforward, engaging plot. It is"
+    },
+    {
+      "user_id": "AFGHBHM4HV3Y5D6LWZ3SRIN23TPA",
+      "gt_id": "0071748687",
+      "rec_ids": [
+        "B000U2F0AI",
+        "B0C9S7QHRS",
+        "1537134779",
+        "1973220776",
+        "1628455284",
+        "1793195706",
+        "1454946083",
+        "1935099000",
+        "1681983745",
+        "0062067249"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6938,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B000U2F0AI\",\n      \"title\": \"Kitchen Cookbook: Home Canning and Freezing Guide\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for simple narratives and emotional resonance aligns with this practical guide, which offe"
+    },
+    {
+      "user_id": "AH54V7HQQLV7BOZ5GCLKFM6J5GLQ",
+      "gt_id": "B011QILKGC",
+      "rec_ids": [
+        "B0BRMT28ZL",
+        "B08T7L55KQ",
+        "B072N14X8J",
+        "B00355ERSI",
+        "B088T5S6DF",
+        "B01GVNS29A",
+        "B07YSVSMDN",
+        "B089FMLS7B",
+        "0521020247",
+        "B011QILKGC"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 1,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.2890648263178879,
+        "MRR": 0.1
+      },
+      "input_tokens": 6812,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B0BRMT28ZL\",\n      \"title\": \"Savannah's Magical Show and Tell\",\n      \"score\": 0.95,\n      \"reasoning\": \"The user prefers educational and family-friendly content with emotional resonance. This book is designed for children, teaches ab"
+    },
+    {
+      "user_id": "AE7EH53E3JMLHPO6RNGKQRDL3INQ",
+      "gt_id": "1412997178",
+      "rec_ids": [
+        "0985217006",
+        "1631610759",
+        "1503551423",
+        "1498434959",
+        "1611389712",
+        "1561635014",
+        "1412997178",
+        "1981083928",
+        "1444912526",
+        "1693886812"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 1,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.3333333333333333,
+        "MRR": 0.14285714285714285
+      },
+      "input_tokens": 7088,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0985217006\",\n      \"title\": \"Chloe and the Lighthouse\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for emotional resonance and nostalgic themes aligns with this mystery novel, which likely evokes personal memories "
+    },
+    {
+      "user_id": "AHRPK5XNJXW5CCDDVQYLTIGI6UEQ",
+      "gt_id": "1643493361",
+      "rec_ids": [
+        "0140129537",
+        "1933113014",
+        "1547604123",
+        "1937684415",
+        "098992890X",
+        "1573062588",
+        "1633573575",
+        "1420122126",
+        "0896890767",
+        "1511718234"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6936,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0140129537\",\n      \"title\": \"Shroud for a Nightingale\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user prefers action-oriented and fast-paced stories, which aligns with the mystery and suspense elements in this book. The narrative "
+    },
+    {
+      "user_id": "AEPGN7EHB4RSS2CKMQP22DTQ6Y7Q",
+      "gt_id": "0451490037",
+      "rec_ids": [
+        "B003DC02ZK",
+        "B004VB5TBE",
+        "B07QYPM437",
+        "B01N6VIJU3",
+        "B002T5EPAU",
+        "B01MSSQIIM",
+        "B0047EKOFQ",
+        "B07WQVTF5L",
+        "B08L5DJ3JB",
+        "0451490037"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 1,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.2890648263178879,
+        "MRR": 0.1
+      },
+      "input_tokens": 6861,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B003DC02ZK\",\n      \"title\": \"101 Brain Puzzlers\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's mixed preferences for narrative complexity and quality sensitivity suggest openness to a variety of content, including puzzles and b"
+    },
+    {
+      "user_id": "AF5TXMSUUSZFJRNXWZXGSLGAAKSA",
+      "gt_id": "0316113328",
+      "rec_ids": [
+        "1401931235",
+        "067003584X",
+        "0152021035",
+        "0310731712",
+        "1426309201",
+        "0061896373",
+        "1684224284",
+        "148111333X",
+        "1600430171",
+        "1656617307"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6952,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1401931235\",\n      \"title\": \"Beyond Rain of Gold\",\n      \"score\": 0.9,\n      \"reasoning\": \"The user's preference for biographical content (TRANSFER) and emotional resonance (TRANSFER) aligns with this book's narrative about the author"
+    },
+    {
+      "user_id": "AH24AXIG2WSMXXKEJWCZOCCBYP4A",
+      "gt_id": "1118137558",
+      "rec_ids": [
+        "B09WHKPD2Z",
+        "B094N7DQK4",
+        "B096TL8RWP",
+        "B088BHJMPF",
+        "B018ZJPDQS",
+        "B09VWLRGPJ",
+        "B08R8ZSLHR",
+        "B007QABJYS",
+        "1118351177",
+        "031296711X"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7182,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B09WHKPD2Z\",\n      \"title\": \"HOW TO BUILD BARNDOMINIUM FOR BEGINNERS: The Ultimate Guide on Construction and Building Barndominium Including Barndominium Plans and Designs\",\n      \"score\": 0.75,\n      \"reasoning\": \"The user prefers fa"
+    },
+    {
+      "user_id": "AFY75BPDN2HJXIXX5Y55KTGBVDGQ",
+      "gt_id": "B08DHM9VT2",
+      "rec_ids": [
+        "0373815271",
+        "1517586828",
+        "198029416X",
+        "0393343057",
+        "1499512023",
+        "1857802926",
+        "1535041129",
+        "1457640201",
+        "1889833770",
+        "0195076702"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7133,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0373815271\",\n      \"title\": \"Child of Grace (Larger Print Steeple Hill Love Inspired)\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user prefers simple narratives and slow pacing, which aligns with this book's straightforward, charac"
+    },
+    {
+      "user_id": "AG4CS4YO4OJZZB6GE7E4HXGADEAQ",
+      "gt_id": "0991625021",
+      "rec_ids": [
+        "1501181823",
+        "099810227X",
+        "B005NQKD0I",
+        "B08SHNT2JS",
+        "B00724AGUQ",
+        "0998139254",
+        "0300248350",
+        "1797209728",
+        "B09V25NP1B",
+        "077873854X"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6549,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1501181823\",\n      \"title\": \"The Infinite Chakras\",\n      \"score\": 0.92,\n      \"reasoning\": \"The user's preference for emotionally resonant narratives and high-quality writing aligns with this book's spiritual depth and comprehensive "
+    },
+    {
+      "user_id": "AF4KF47ZZC3UJPZHQCGBUDZRZZDQ",
+      "gt_id": "1250124719",
+      "rec_ids": [
+        "B009JE6Z6Q",
+        "B00127QCIO",
+        "0061092185",
+        "B005K5SS7M",
+        "B094QHDNCV",
+        "B003K9IIZW",
+        "B005HKTC70",
+        "B0028IHMEY",
+        "B07S4D2RXB",
+        "B000IX0JQE"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6920,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B009JE6Z6Q\",\n      \"title\": \"Kiss and Tell\",\n      \"score\": 0.9,\n      \"reasoning\": \"The user prefers action-oriented and humorous novels (TRANSFER from genre_preference) and simple, easy-to-follow plots (TRANSFER from narrative_compl"
+    },
+    {
+      "user_id": "AGUKYLKD3VAFZZTBREMN7I4DEY7A",
+      "gt_id": "1476672318",
+      "rec_ids": [
+        "B096YB7YCV",
+        "B0C1J1LTYM",
+        "B09B2FW378",
+        "B000K2AMMY",
+        "B07K8THN81",
+        "B09TZB1622",
+        "B000RF0W7Y",
+        "B071YTDKJ7",
+        "B08QDX9K5J",
+        "B0C2S9D6MP"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6909,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B096YB7YCV\",\n      \"title\": \"The Devils in Alabama\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user prefers fast-paced narratives and emotionally impactful stories, which aligns with this thriller's engaging plot and suspenseful el"
+    },
+    {
+      "user_id": "AEN5VW7Y2USGPSMDU6W3RISD6TJA",
+      "gt_id": "0425285170",
+      "rec_ids": [
+        "1980302871",
+        "0986031208",
+        "1493030086",
+        "1500410365",
+        "0425285170",
+        "1480591807",
+        "0978564235",
+        "1536212148",
+        "1702440540",
+        "0470924128"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 1,
+        "HR@10": 1,
+        "NDCG@5": 0.38685280723454163,
+        "NDCG@10": 0.38685280723454163,
+        "MRR": 0.2
+      },
+      "input_tokens": 7188,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1980302871\",\n      \"title\": \"The King Of Big Sandy\",\n      \"score\": 0.92,\n      \"reasoning\": \"The user prefers fast-paced, engaging stories with simple narratives. This book fits the fast pacing and straightforward storytelling patter"
+    },
+    {
+      "user_id": "AH5C5GAEFYVKKXSO2PQPGQ76RDUA",
+      "gt_id": "0133938271",
+      "rec_ids": [
+        "1979651728",
+        "1956738045",
+        "1532027486",
+        "1932043519",
+        "1939521076",
+        "1931993564",
+        "1975360044",
+        "1945338504",
+        "1589797787",
+        "1483404641"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6983,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1979651728\",\n      \"title\": \"The Namarielle (The Namarielle Trilogy)\",\n      \"score\": 0.9,\n      \"reasoning\": \"While no direct transferable patterns were identified, the high average rating and fantasy genre suggest it could be a well"
+    },
+    {
+      "user_id": "AE7CUUBN4YNGDXI7VS55T5NNLYZA",
+      "gt_id": "B003KH7AWQ",
+      "rec_ids": [
+        "B001OW5NCS",
+        "B08SGWNCPY",
+        "B0006AQLWU",
+        "B003H4RDYW",
+        "B087677JMB",
+        "B003KH7AWQ",
+        "B09251Y6TF",
+        "B001W9UVCA",
+        "B000RN6JW8",
+        "B0C9NKSG56"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 1,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.3562071871080222,
+        "MRR": 0.16666666666666666
+      },
+      "input_tokens": 7084,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B001OW5NCS\",\n      \"title\": \"The Tattoo Encyclopedia: A Guide to Choosing Your Tattoo\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for emotionally resonant and engaging stories (TRANSFER) aligns with this book's na"
+    },
+    {
+      "user_id": "AHTSG7OSZSNLY5XX33JWPWKNIBEQ",
+      "gt_id": "0689715862",
+      "rec_ids": [
+        "B09WQ7J6Q9",
+        "B09674NHJW",
+        "B00NS9FM44",
+        "1693204894",
+        "1943443238",
+        "1680524852",
+        "1770852247",
+        "1633870014",
+        "1949888126",
+        "1606506870"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7079,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B09WQ7J6Q9\",\n      \"title\": \"Decluttering Advice: Easy Ways to Reduce Stress and Declutter Your Home Like a Minimalist\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for complex narratives and emotional resonance ali"
+    },
+    {
+      "user_id": "AHTB4SDABIZNFXI56NZXHIF6KLTQ",
+      "gt_id": "1503366073",
+      "rec_ids": [
+        "B000ZLZX1U",
+        "B09KYHY1B4",
+        "B00361V6X0",
+        "B08Y65462J",
+        "B000JEH0KA",
+        "B08DMXVLZB",
+        "B001AX6DFW",
+        "B004Z8LIAE",
+        "B000H72HAW",
+        "B09R2WRNMY"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7010,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B000ZLZX1U\",\n      \"title\": \"Snow What Fun! When Snowmen Come to Life on Christmas Eve\",\n      \"score\": 0.9,\n      \"reasoning\": \"The user's preference for family and holiday-themed movies translates well to this heartwarming and festi"
+    },
+    {
+      "user_id": "AFZTSUP6ZWVZSY7OHAGXGEVGRYHA",
+      "gt_id": "B00FHCJ6MO",
+      "rec_ids": [
+        "B00FHCJ6MO",
+        "B0B28D1NZY",
+        "B0000CKCD3",
+        "B002R1GW3O",
+        "1493583441",
+        "1567999093",
+        "1450212239",
+        "1884089550",
+        "1099564174",
+        "1497459427"
+      ],
+      "metrics": {
+        "HR@1": 1,
+        "HR@5": 1,
+        "HR@10": 1,
+        "NDCG@5": 1.0,
+        "NDCG@10": 1.0,
+        "MRR": 1.0
+      },
+      "input_tokens": 7238,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B00FHCJ6MO\",\n      \"title\": \"Goodnight, Goodnight Construction Site\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for emotional resonance and sensory experience aligns with this book's heartwarming narrative and imm"
+    },
+    {
+      "user_id": "AEFQMLX72KCIFGZ634KPTI4H4UCQ",
+      "gt_id": "1780671067",
+      "rec_ids": [
+        "B0007E56X0",
+        "B01B99LLBW",
+        "B005F1QPQM",
+        "1471149544",
+        "0971551936",
+        "1409556662",
+        "1718949294",
+        "1530140897",
+        "1925973379",
+        "0375757805"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6862,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B0007E56X0\",\n      \"title\": \"Kyra's Secrets Of Russian Cooking\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user shows a general positive attitude towards content and a preference for emotional resonance. This book, while not explic"
+    },
+    {
+      "user_id": "AHJAUZERHCJTSWILI5JW2VTOKIVQ",
+      "gt_id": "0794848907",
+      "rec_ids": [
+        "1947951262",
+        "159950894X",
+        "1609053362",
+        "1465409726",
+        "1532907192",
+        "1624033881",
+        "1302925628",
+        "1553416821",
+        "1426997485",
+        "1686080360"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7472,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1947951262\",\n      \"title\": \"Ragtime in the White House: War, Race, and the Presidency in the Time of William McKinley\",\n      \"score\": 0.9,\n      \"reasoning\": \"The user's preference for historical content (TRANSFER) aligns with this "
+    },
+    {
+      "user_id": "AEV7DL4ZPEG6UBE6FOWII254H7WA",
+      "gt_id": "0316080993",
+      "rec_ids": [
+        "B00BQEAQ9Y",
+        "1950339149",
+        "B079V24C7M",
+        "1432839713",
+        "1516701259",
+        "172246397X",
+        "1479701084",
+        "1682475379",
+        "1728217229",
+        "1542764122"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7056,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B00BQEAQ9Y\",\n      \"title\": \"The Lies That Bind (The Liar Society)\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user shows a strong emotional resonance with movies, which translates to a preference for emotionally impactful literatu"
+    },
+    {
+      "user_id": "AFNQUAZS5VACMP3C4AQO35TB35TQ",
+      "gt_id": "152476969X",
+      "rec_ids": [
+        "1537768891",
+        "1680321102",
+        "152476969X",
+        "1520277849",
+        "1564775526",
+        "1570629218",
+        "1416030743",
+        "159629051X",
+        "1558321934",
+        "0385057644"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 1,
+        "HR@10": 1,
+        "NDCG@5": 0.5,
+        "NDCG@10": 0.5,
+        "MRR": 0.3333333333333333
+      },
+      "input_tokens": 6805,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1537768891\",\n      \"title\": \"Deadly Revelations: Stories about Love & Murder\",\n      \"score\": 0.9,\n      \"reasoning\": \"The user's preference for action and supernatural genres (TRANSFER) aligns with the thriller and suspense elements "
+    },
+    {
+      "user_id": "AEQ4QBAF6RL5WJGY2ZOMGH7P4S2A",
+      "gt_id": "1591930456",
+      "rec_ids": [
+        "0373877455",
+        "0399154078",
+        "0578445212",
+        "1335426434",
+        "1591930456",
+        "1592481078",
+        "1338531670",
+        "1530539080",
+        "1599989999",
+        "1425949428"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 1,
+        "HR@10": 1,
+        "NDCG@5": 0.38685280723454163,
+        "NDCG@10": 0.38685280723454163,
+        "MRR": 0.2
+      },
+      "input_tokens": 7210,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0373877455\",\n      \"title\": \"The Promise of Home (Mirror Lake, 5)\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for emotional resonance and character-driven narratives aligns with this book's focus on personal growt"
+    },
+    {
+      "user_id": "AH6DYU7RO5VXCJ6X3W6HCRTFYZXA",
+      "gt_id": "1982109580",
+      "rec_ids": [
+        "B000FSS1WG",
+        "1946920991",
+        "0967120306",
+        "1539076318",
+        "1439117977",
+        "1560979151",
+        "0940403552",
+        "1554074215",
+        "1609361288",
+        "1402713754"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6876,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B000FSS1WG\",\n      \"title\": \"Views of Old Rochester and the Genesee Country from Indian Days to 1918\",\n      \"score\": 0.9,\n      \"reasoning\": \"The user's preference for complex narratives and emotional resonance aligns with this book'"
+    },
+    {
+      "user_id": "AFKJ5XBFP42OX67RXDZCN2J2JGZA",
+      "gt_id": "B09NRXFQ2L",
+      "rec_ids": [
+        "B0BQNBVMPN",
+        "1502718766",
+        "131279948X",
+        "1936097206",
+        "1437720242",
+        "1590171160",
+        "0393342603",
+        "1936127342",
+        "1411625536",
+        "1554074606"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6916,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B0BQNBVMPN\",\n      \"title\": \"Grandma's Nuggets: An Inspiring Short Story books for 3-5 Children Inner Strength, Self-Confidence, Family, Friendship, Courage and motivational Bedtime stories for 5-7 years old\",\n      \"score\": 0.85,\n   "
+    },
+    {
+      "user_id": "AHZU2BPHBMYSICRUCQOV362WNHGQ",
+      "gt_id": "1623156122",
+      "rec_ids": [
+        "B00NPOJSSI",
+        "B0006CYYDG",
+        "B01MZFE3X1",
+        "1531642985",
+        "1436388317",
+        "1508887578",
+        "1494358190",
+        "1586380184",
+        "1581807880",
+        "143440305X"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7013,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B00NPOJSSI\",\n      \"title\": \"Luxury Yarn One-Skein Wonders by Judith Durant (2009) Paperback\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for fast-paced narratives (TRANSFER) and high production quality (PARTIAL) a"
+    },
+    {
+      "user_id": "AGNDOZVXSVERINJ3TGEKTGR3LIEQ",
+      "gt_id": "194468414X",
+      "rec_ids": [
+        "177168240X",
+        "1938254090",
+        "1974700615",
+        "1427027277",
+        "1935626396",
+        "1772185035",
+        "1973153254",
+        "1452634181",
+        "1930288328",
+        "0998403784"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7021,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"177168240X\",\n      \"title\": \"The Gentleman’s Daughter (2) (The Gentleman Spy Mysteries)\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for complex narratives (TRANSFER) and high-quality storytelling (TRANSFER) aligns"
+    },
+    {
+      "user_id": "AE74ODB6TAE52CGRAVWRL7HZN6FA",
+      "gt_id": "B00S3OY5QA",
+      "rec_ids": [
+        "0812232240",
+        "0834124092",
+        "0380760509",
+        "0994299966",
+        "0986612707",
+        "1421542617",
+        "0321813707",
+        "193515043X",
+        "1935402129",
+        "0964115301"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7270,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0812232240\",\n      \"title\": \"Food and Drink in Medieval Poland: Rediscovering a Cuisine of the Past\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for emotionally resonant and thematically rich stories (TRANSFER) ali"
+    },
+    {
+      "user_id": "AGIPKLIWFZMYCCSRIJHTSLRXWOMA",
+      "gt_id": "0794828817",
+      "rec_ids": [
+        "B00E23A1B4",
+        "B00MFQIDNS",
+        "B018N7F2PY",
+        "B0057132ES",
+        "B00KOZMCKW",
+        "B015992MWK",
+        "B00F9GN7HS",
+        "B005HI4KQ0",
+        "B000TD1O62",
+        "B073SN7S9R"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6774,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B00E23A1B4\",\n      \"title\": \"The Attorney General\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user prefers fast-paced narratives, and this thriller offers a quick, engaging story with suspenseful elements that align with their pref"
+    },
+    {
+      "user_id": "AF6X7KBTN4NOHFSZ6B3FICJX6JEA",
+      "gt_id": "048644855X",
+      "rec_ids": [
+        "1530090970",
+        "1611944724",
+        "1543959792",
+        "1545512582",
+        "1609806115",
+        "1507562527",
+        "1438968892",
+        "0451168615",
+        "B01K3LK3OS",
+        "1840681012"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7040,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1530090970\",\n      \"title\": \"One to Take (One To Hold)\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user prefers fast-paced narratives and emotional resonance, which aligns with this book's intense, emotionally driven story.\"\n    },"
+    },
+    {
+      "user_id": "AFEKX5ZISN2RVZCZT7QQUYOO3ITQ",
+      "gt_id": "1101933828",
+      "rec_ids": [
+        "1519103050",
+        "1463565445",
+        "1927477581",
+        "1568814518",
+        "194630008X",
+        "1597778052",
+        "1614740232",
+        "1537170678",
+        "1494341131",
+        "164293531X"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7248,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1519103050\",\n      \"title\": \"Adele (In That Dawn)\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user prefers simple narratives, and this book is part of a genre fiction collection, which may align with their preference for straightfo"
+    },
+    {
+      "user_id": "AHZ7E7LAVSQYTBVB2WRSDHUIKZUQ",
+      "gt_id": "191016738X",
+      "rec_ids": [
+        "1504765370",
+        "1519014651",
+        "0983060142",
+        "0880128402",
+        "0971309949",
+        "0989373800",
+        "1284208540",
+        "0939571218",
+        "0312934777",
+        "0979780802"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6966,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1504765370\",\n      \"title\": \"Towards Zero & Ordeal by Innocence\",\n      \"score\": 0.9,\n      \"reasoning\": \"The user's preference for simple narratives (TRANSFER) and high quality (TRANSFER) aligns with Agatha Christie's classic mystery"
+    },
+    {
+      "user_id": "AHK5ZKAYCZIJPY4FPNMHACPC3S5Q",
+      "gt_id": "1418527548",
+      "rec_ids": [
+        "0764135899",
+        "0998697907",
+        "0448437074",
+        "0545417244",
+        "0064603083",
+        "0439855659",
+        "0070244960",
+        "0967793416",
+        "0517374595",
+        "1456895516"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7065,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0764135899\",\n      \"title\": \"CBEST: California Basic Educational Skills Test (Barron's Test Prep CA)\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for high-quality content (TRANSFER) and well-structured narratives ("
+    },
+    {
+      "user_id": "AEBKFM4EQXSDBKN6WC5FPZPFFGHA",
+      "gt_id": "B00GLAEP0E",
+      "rec_ids": [
+        "B0B6XSNS8S",
+        "153779857X",
+        "1735935808",
+        "1451636814",
+        "1620367807",
+        "1731588445",
+        "1433564971",
+        "1521150303",
+        "1635574145",
+        "193408722X"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6878,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B0B6XSNS8S\",\n      \"title\": \"Deadly Vines: A Paranormal Cozy Mystery (A Witch in the Woods)\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for fast-paced narratives and emotional resonance aligns with this mystery no"
+    },
+    {
+      "user_id": "AGBY7XBLJ2HS5BVSZKG56LZ2NM3Q",
+      "gt_id": "0060187557",
+      "rec_ids": [
+        "B002SG6LHA",
+        "B08QBYGLV8",
+        "B000NCZBKY",
+        "B0064CKAY4",
+        "B005K5U1Q8",
+        "B0027J1LYG",
+        "B000LPCKIO",
+        "B003MCV494",
+        "B0738ZG4ZF",
+        "B07RWDM31F"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6718,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B002SG6LHA\",\n      \"title\": \"Faith of a Physicist (Theology and the Sciences)\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for a variety of genres (PARTIAL transfer) and high average ratings (PARTIAL transfer) alig"
+    },
+    {
+      "user_id": "AF3ZVOE2U7EXX3MS7OROUFLVHQ5A",
+      "gt_id": "0007260806",
+      "rec_ids": [
+        "1504689046",
+        "1414104243",
+        "153061659X",
+        "1405098872",
+        "1717744559",
+        "1538737086",
+        "1482660113",
+        "1548682241",
+        "1733818804",
+        "1908541105"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7178,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1504689046\",\n      \"title\": \"Do Not Find Me\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for complex narratives and emotional resonance aligns with this thriller, which features a layered plot and deep character de"
+    },
+    {
+      "user_id": "AGA2GJFX56AT42E2HCDAW46FHB3Q",
+      "gt_id": "1683961137",
+      "rec_ids": [
+        "1912057557",
+        "1526743795",
+        "1979551782",
+        "1890947970",
+        "1519243456",
+        "184188099X",
+        "1400321999",
+        "197754147X",
+        "156639855X",
+        "1337086908"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7231,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1912057557\",\n      \"title\": \"Geese. Geese as pets. Geese Keeping, Care, Pros and Cons, Housing, Diet and Health.\",\n      \"score\": 0.75,\n      \"reasoning\": \"The user prefers fast-paced narratives and straightforward storytelling, which"
+    },
+    {
+      "user_id": "AE4O7IS6XFTDMTZFXLJ37KXI5VPA",
+      "gt_id": "B015J80QNI",
+      "rec_ids": [
+        "B000WMRBUI",
+        "B0000CLHDG",
+        "B08GRLHD1L",
+        "B000B8U9Y8",
+        "1591052297",
+        "B0B3JTX831",
+        "1410414051",
+        "1568585233",
+        "B002N646IQ",
+        "1902636740"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7116,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B000WMRBUI\",\n      \"title\": \"LA PRIMERA NOCHE [NTSC/REGION 1 & 4 DVD. Import-Latin America]\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user prefers fast-paced narratives (TRANSFER) and action-oriented stories (PARTIAL). While this"
+    },
+    {
+      "user_id": "AFO3G5Q53EFQY4OGWG42BUQCOY6A",
+      "gt_id": "0688028470",
+      "rec_ids": [
+        "0316010790",
+        "B00AL3I3CS",
+        "1438234848",
+        "0307274322",
+        "1405145498",
+        "0345009916",
+        "1944335900",
+        "0812456394",
+        "0890412065",
+        "0375865012"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7156,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0316010790\",\n      \"title\": \"Dress Your Family in Corduroy and Denim\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's PARTIAL preference for comedy and the TRANSFER preference for simple narratives and emotional resonance align w"
+    },
+    {
+      "user_id": "AHBQYVQPOY4VNA4MDQ2FHC5EIQEQ",
+      "gt_id": "142313463X",
+      "rec_ids": [
+        "B009Z26UX0",
+        "1938416538",
+        "1421628139",
+        "141281054X",
+        "1890318353",
+        "1942545185",
+        "1404803483",
+        "142313463X",
+        "1641114029",
+        "0385478550"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 1,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.31546487678572877,
+        "MRR": 0.125
+      },
+      "input_tokens": 7158,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B009Z26UX0\",\n      \"title\": \"MADAME SERPENT, A Catherine De'Medici Novel\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for family dramas and humorous narratives (from the PARTIAL transfer of genre_preference) aligns"
+    },
+    {
+      "user_id": "AEM5N6BEHVUOYOHUVFXGBXO362JA",
+      "gt_id": "0961313919",
+      "rec_ids": [
+        "B09779H72H",
+        "1514001160",
+        "1421619350",
+        "1496724356",
+        "1943601895",
+        "0961313919",
+        "1453866574",
+        "1087920183",
+        "0947020268",
+        "146919970X"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 1,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.3562071871080222,
+        "MRR": 0.16666666666666666
+      },
+      "input_tokens": 6601,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B09779H72H\",\n      \"title\": \"A Proper End\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for sensory elements like 'beautiful scenery' and 'feel-good' movies translates well to books with vivid imagery and a pleasant"
+    },
+    {
+      "user_id": "AELXKXCRWGOD4GDOEWIQQAZL3ADA",
+      "gt_id": "1973749122",
+      "rec_ids": [
+        "1595146776",
+        "1772781134",
+        "1981220712",
+        "1536947423",
+        "1415940533",
+        "1597801879",
+        "1973749122",
+        "1508664773",
+        "1559275235",
+        "1450039391"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 1,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.3333333333333333,
+        "MRR": 0.14285714285714285
+      },
+      "input_tokens": 7120,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1595146776\",\n      \"title\": \"By the Grace of Todd\",\n      \"score\": 0.95,\n      \"reasoning\": \"The user prefers comedy and family-oriented films, which directly translates to humorous and family-friendly books. This book is a children's"
+    },
+    {
+      "user_id": "AHOZRXYY6RA6AXAZQD66DXDGIKWQ",
+      "gt_id": "B0179B9L2A",
+      "rec_ids": [
+        "B000U3J3HI",
+        "1491283157",
+        "1439533105",
+        "1532320337",
+        "1450268013",
+        "1596292709",
+        "1490560122",
+        "156011455X",
+        "1933454008",
+        "1787835715"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6762,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B000U3J3HI\",\n      \"title\": \"Watermelon, an eccentric romantic comedy\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for emotional resonance and heartwarming stories aligns with this romantic comedy, which likely evo"
+    },
+    {
+      "user_id": "AE3CFJIE2TRXUOSE7Y35IZM2B35Q",
+      "gt_id": "030746489X",
+      "rec_ids": [
+        "B08FNMPG2C",
+        "B09WXKT512",
+        "1951710118",
+        "146923372X",
+        "1505624355",
+        "195555210X",
+        "B096WDB99D",
+        "0373605242",
+        "1492606820",
+        "052189543X"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7234,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B08FNMPG2C\",\n      \"title\": \"Preschool Math Workbook for Kids Ages 3 and Up: Homeschooling Activity Books, Line Tracing, Numbers & Early Math, And More Activities that Prepare Your Child for School.\",\n      \"score\": 0.9,\n      \"reason"
+    },
+    {
+      "user_id": "AE6XC5CJ4UKGMKLK7SOKDFKUA67Q",
+      "gt_id": "0781808715",
+      "rec_ids": [
+        "0345505689",
+        "1542736455",
+        "1419743686",
+        "1558511555",
+        "1560971711",
+        "1777501407",
+        "143549993X",
+        "1556817495",
+        "1532846347",
+        "0345343298"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7268,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0345505689\",\n      \"title\": \"Deception: An Alex Delaware Novel\",\n      \"score\": 0.92,\n      \"reasoning\": \"TRANSFER from genre_preference and emotional_resonance. The thriller genre and emotionally complex narrative align with the user"
+    },
+    {
+      "user_id": "AHVUJCBV5JGJME4WPV36OSISMP3Q",
+      "gt_id": "1592535615",
+      "rec_ids": [
+        "B0B9QS46D4",
+        "B0074AOMKS",
+        "B08DSYPF6G",
+        "B000QRIHYS",
+        "B09HHM7SQL",
+        "B08D1WR2V1",
+        "B0BCCVC1ZV",
+        "B0006AU7GQ",
+        "B006GQHA9G",
+        "B096LPQ3DV"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6825,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B0B9QS46D4\",\n      \"title\": \"Next of Twin (Wears Valley Witches)\",\n      \"score\": 0.9,\n      \"reasoning\": \"While no specific patterns are transferable, the high average rating (4.6) and mystery genre suggest a well-received book that "
+    },
+    {
+      "user_id": "AERSI4SRDXY4Y2Z4VGTNWQVY643A",
+      "gt_id": "1736313428",
+      "rec_ids": [
+        "B00KY4QOOI",
+        "B01N4EY016",
+        "B001F6KV20",
+        "B08VN5F5XJ",
+        "B01MTZ0XQC",
+        "B000NQ1KX2",
+        "B00CYJ7WHO",
+        "B09NH398Q8",
+        "B09MK38WQH",
+        "1934750093"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6937,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B00KY4QOOI\",\n      \"title\": \"Dollbaby: A Novel\",\n      \"score\": 0.9,\n      \"reasoning\": \"The user's preference for horror, drama, and thriller genres (TRANSFER) aligns with this novel's likely emotional depth and narrative complexity."
+    },
+    {
+      "user_id": "AFXGVD7WFTWTEGQUUMZIGFQ436DQ",
+      "gt_id": "0307387380",
+      "rec_ids": [
+        "1490372296",
+        "1292170247",
+        "1907359176",
+        "1761332597",
+        "1859608132",
+        "1433122898",
+        "156347607X",
+        "1848820410",
+        "1771804041",
+        "1930980434"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7040,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1490372296\",\n      \"title\": \"5 Minute Math Testers - Grade 5\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's low quality sensitivity and focus on overall enjoyment align with this book's high average rating and practical approac"
+    },
+    {
+      "user_id": "AEFUJER2XFI3RKYMVFTINTNI2FXA",
+      "gt_id": "0230753205",
+      "rec_ids": [
+        "0590271431",
+        "0064406423",
+        "0534529569",
+        "1500737283",
+        "0230753205",
+        "1980471711",
+        "1628462019",
+        "146964309X",
+        "1904492088",
+        "0982159943"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 1,
+        "HR@10": 1,
+        "NDCG@5": 0.38685280723454163,
+        "NDCG@10": 0.38685280723454163,
+        "MRR": 0.2
+      },
+      "input_tokens": 7016,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0590271431\",\n      \"title\": \"Counting to Christmas\",\n      \"score\": 0.95,\n      \"reasoning\": \"This book aligns with the user's preference for family-friendly and simple narratives, as well as emotionally resonant content. It is design"
+    },
+    {
+      "user_id": "AHVGW6XZP3PEDI3OF6XKQ2DSK6OQ",
+      "gt_id": "B09FS2VFGV",
+      "rec_ids": [
+        "B01D1VX2W2",
+        "B09FS2VFGV",
+        "B096N5KYJ3",
+        "B00JRFGG8E",
+        "B00U9YFVOW",
+        "B094RGMDZT",
+        "B084ZVMWSB",
+        "B0189DK068",
+        "0312337361",
+        "1846247519"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 1,
+        "HR@10": 1,
+        "NDCG@5": 0.6309297535714575,
+        "NDCG@10": 0.6309297535714575,
+        "MRR": 0.5
+      },
+      "input_tokens": 6987,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B01D1VX2W2\",\n      \"title\": \"The Ripple Effect\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user prefers emotionally resonant stories, and this book falls under the self-help category with a focus on personal transformation, which a"
+    },
+    {
+      "user_id": "AFVQ27NVIXEUO5OFFYB2JE6F2N4Q",
+      "gt_id": "0131994557",
+      "rec_ids": [
+        "0850529263",
+        "1455837547",
+        "140487674X",
+        "0998203815",
+        "039305098X",
+        "1503949850",
+        "1416610588",
+        "1400065240",
+        "0935538097",
+        "1958878731"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7089,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1290664131\",\n      \"title\": \"The Cat in the Hat\",\n      \"score\": 0.95,\n      \"reasoning\": \"The user's preference for children's animation and comedy translates directly to children's books with humorous and engaging content. The TRANS"
+    },
+    {
+      "user_id": "AHBM5ZYEJ6Y4TIYSEVFPDQAEP47A",
+      "gt_id": "0991635329",
+      "rec_ids": [
+        "B08L41B87H",
+        "B002WPYPP2",
+        "B07J48LWHP",
+        "B01GS7KTUO",
+        "B0006XGP46",
+        "B01FGLYJEU",
+        "B07BHVJDP1",
+        "B00E733V2K",
+        "B08TKWKDKP",
+        "B08XP3GP2J"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6873,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B08L41B87H\",\n      \"title\": \"Eternal Moon (Isabella Espinoza)\",\n      \"score\": 0.9,\n      \"reasoning\": \"The user prefers emotionally resonant narratives and high-quality storytelling, which aligns with this fantasy novel's engaging pl"
+    },
+    {
+      "user_id": "AFNRGI7ORHPIDYPCNVEYFEKBU3SA",
+      "gt_id": "0312857586",
+      "rec_ids": [
+        "1646110609",
+        "140022523X",
+        "1420659405",
+        "1449011195",
+        "1456459287",
+        "1426710135",
+        "144142394X",
+        "1534300945",
+        "B01E2J1O1S",
+        "1098306910"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7207,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1646110609\",\n      \"title\": \"The Big Book of Wild Cats: Fun Animal Facts for Kids\",\n      \"score\": 0.9,\n      \"reasoning\": \"The user's preference for simple narratives and family-friendly content aligns with this children's book, whic"
+    },
+    {
+      "user_id": "AHSIFBZXAFVXKG57EEEOLHP4IQEQ",
+      "gt_id": "B00GVFPHQU",
+      "rec_ids": [
+        "0060774819",
+        "0425084094",
+        "1852244135",
+        "0934126526",
+        "1478346744",
+        "0446604275",
+        "1572229594",
+        "1983408891",
+        "0789204363",
+        "1544977662"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7121,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0060774819\",\n      \"title\": \"Araminta Spookie 1: My Haunted House\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for complex narratives and emotional resonance aligns with this book's engaging story and character dev"
+    },
+    {
+      "user_id": "AF3MBYF7AGHFN536HP2KDKLX44EA",
+      "gt_id": "1982138920",
+      "rec_ids": [
+        "1497321727",
+        "1940652162",
+        "0814474004",
+        "1454881402",
+        "1982138920",
+        "0448452553",
+        "1495471594",
+        "0486831701",
+        "1523455845",
+        "1475814860"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 1,
+        "HR@10": 1,
+        "NDCG@5": 0.38685280723454163,
+        "NDCG@10": 0.38685280723454163,
+        "MRR": 0.2
+      },
+      "input_tokens": 7127,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1497321727\",\n      \"title\": \"The Ocean Highway at Night\",\n      \"score\": 0.95,\n      \"reasoning\": \"The user's preference for emotional resonance and slow pacing aligns with this book's atmospheric storytelling, which allows for deep c"
+    },
+    {
+      "user_id": "AFKWWISVVQQU6TAUQN56CJXINEZQ",
+      "gt_id": "0575073624",
+      "rec_ids": [
+        "B0083Z70GQ",
+        "B0BJ4WKW19",
+        "B005SN1MSS",
+        "B0007E4NF2",
+        "B09FFWDY8J",
+        "B000NJS3MK",
+        "B004DKCQ5A",
+        "B003VPX13Y",
+        "1930455003",
+        "069284922X"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7365,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B0083Z70GQ\",\n      \"title\": \"Art in Needlework A Book about Embroidery\",\n      \"score\": 0.75,\n      \"reasoning\": \"The user's preference for complex narratives (TRANSFER) and high-quality production (TRANSFER) aligns with this book's d"
+    },
+    {
+      "user_id": "AG6PCSRM3D4GFU32W5USCCIKO7IA",
+      "gt_id": "1495030032",
+      "rec_ids": [
+        "B016QWNEIK",
+        "1594620105",
+        "0725600810",
+        "0615260241",
+        "149305712X",
+        "0802762417",
+        "1976234697",
+        "1521783780",
+        "1495030032",
+        "1098975618"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 1,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.3010299956639812,
+        "MRR": 0.1111111111111111
+      },
+      "input_tokens": 6842,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B016QWNEIK\",\n      \"title\": \"Mrs. Roosevelt's Confidante: A Maggie Hope Mystery\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for a variety of genres (PARTIAL) and well-rated books (PARTIAL) aligns with this mystery"
+    },
+    {
+      "user_id": "AHNF6SGUCYLEA35ULQYYCVLJMGXQ",
+      "gt_id": "0738212415",
+      "rec_ids": [
+        "B099FVTKLF",
+        "B0B4HJSQP6",
+        "B0B6CCTQNB",
+        "B00UMIJIOO",
+        "B09KXWSQ6B",
+        "B00JPQQY3C",
+        "B0BRYZQWPY",
+        "B078JN8KJB",
+        "038076301X",
+        "059313379X"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7082,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B099FVTKLF\",\n      \"title\": \"Maintaining Boundaries: The coloring book\",\n      \"score\": 0.75,\n      \"reasoning\": \"The user's preference for extreme horror and art house films suggests a need for unconventional or emotionally intense e"
+    },
+    {
+      "user_id": "AFGFWWU5P3JH2LAM4BM2TKESN7OQ",
+      "gt_id": "0739063731",
+      "rec_ids": [
+        "B00ENI9EU2",
+        "B09XFGK4GQ",
+        "B0891453FH",
+        "B003AGTPL6",
+        "B0BCHBZGFF",
+        "1582463174",
+        "1945448512",
+        "1505359333",
+        "1735203246",
+        "157441318X"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7313,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B00ENI9EU2\",\n      \"title\": \"Does Your Child See Sparkles? Help for Parents Guiding Psychic Kids\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for emotional resonance and high-quality storytelling aligns with this b"
+    },
+    {
+      "user_id": "AGFNSFMLF2XW4TVDS52CHTGLK3RQ",
+      "gt_id": "1536643424",
+      "rec_ids": [
+        "1480883999",
+        "0805044469",
+        "1515860914",
+        "1424338638",
+        "0844271055",
+        "1515073173",
+        "1087966906",
+        "0962631000",
+        "1546212574",
+        "1491023481"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6903,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1480883999\",\n      \"title\": \"Dexter's Dreams\",\n      \"score\": 0.95,\n      \"reasoning\": \"The user prefers family-friendly and simple narratives, which aligns with this children's book about a bedtime routine. It also evokes emotional r"
+    },
+    {
+      "user_id": "AHNCRCR3NQLXQ4476RLVVF6RBPBQ",
+      "gt_id": "1646030125",
+      "rec_ids": [
+        "1593101589",
+        "1594330840",
+        "1514777878",
+        "0375840478",
+        "1532894627",
+        "0615987400",
+        "0374362998",
+        "1606842137",
+        "0615811159",
+        "0962191418"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7319,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1593101589\",\n      \"title\": \"God Is in the Small Stuff (Fcs Members)\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for emotionally resonant storytelling (TRANSFER) aligns with this book's potential to evoke deep fee"
+    },
+    {
+      "user_id": "AG6QTGMY7DNPPLZUJKSKO56N47DA",
+      "gt_id": "0393979202",
+      "rec_ids": [
+        "0520246357",
+        "1535273445",
+        "0393979202",
+        "1549841483",
+        "1975359127",
+        "1533044686",
+        "1609114655",
+        "149083351X",
+        "0955318351",
+        "1612787789"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 1,
+        "HR@10": 1,
+        "NDCG@5": 0.5,
+        "NDCG@10": 0.5,
+        "MRR": 0.3333333333333333
+      },
+      "input_tokens": 7206,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0520246357\",\n      \"title\": \"Mary Austin and the American West\",\n      \"score\": 0.95,\n      \"reasoning\": \"TRANSFER: The user's preference for historical narratives and emotional depth aligns with this biography, which explores the lif"
+    },
+    {
+      "user_id": "AE4COEH4FHDCO24XOS4YBW4SIYCA",
+      "gt_id": "1607873311",
+      "rec_ids": [
+        "037550799X",
+        "1501187317",
+        "0373743823",
+        "0930814010",
+        "1493005944",
+        "0374228590",
+        "1585429287",
+        "0062844946",
+        "098536324X",
+        "1505860547"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6817,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"037550799X\",\n      \"title\": \"Our Father Who Art in a Tree: A Novel\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for emotional resonance and simple narratives (TRANSFER) aligns with this novel's metaphorical and emo"
+    },
+    {
+      "user_id": "AE3VEQV5VRHQZ7ZV6JTMTSH6PZBQ",
+      "gt_id": "0760345856",
+      "rec_ids": [
+        "1499239262",
+        "1946577162",
+        "1439201668",
+        "1905400438",
+        "0989700402",
+        "1637821247",
+        "0340924764",
+        "1555662404",
+        "0963607030",
+        "1439117616"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6959,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1499239262\",\n      \"title\": \"Runs Like The Wind\",\n      \"score\": 0.95,\n      \"reasoning\": \"The user prefers fast-paced stories, and this book is a fast-paced animal adventure that aligns with their preference for quick, engaging reads"
+    },
+    {
+      "user_id": "AGBVLWOPQ6P7UIOIISONSNMCXF4A",
+      "gt_id": "1580170277",
+      "rec_ids": [
+        "B00FF6QBFM",
+        "B00RWQSHNW",
+        "B006NLUFLO",
+        "B001JJBOGU",
+        "B09GTP4CVJ",
+        "B002QHD9OO",
+        "B009DWBGOK",
+        "B001M9FV8O",
+        "B092XSVPN8",
+        "B003NSBBBI"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7102,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B00FF6QBFM\",\n      \"title\": \"The Printing Revolution in Early Modern Europe (Canto Classics)\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for fast-paced content and societal themes aligns with this book's explorati"
+    },
+    {
+      "user_id": "AHFSUWJ75CCNYPEQ3C765VSKCNLA",
+      "gt_id": "0025225804",
+      "rec_ids": [
+        "1408426250",
+        "143884154X",
+        "1543933904",
+        "1500968854",
+        "1952069025",
+        "1258247755",
+        "1500240508",
+        "1948340054",
+        "1481200836",
+        "1561450332"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6928,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1408426250\",\n      \"title\": \"Sherlock Holmes: The Rediscovered Railway Mysteries & Other Stories\",\n      \"score\": 0.9,\n      \"reasoning\": \"The user's preference for historical and action dramas (TRANSFER) aligns with the mystery and s"
+    },
+    {
+      "user_id": "AEVNCTPVCTSVFOCENAQPBFAY3QEQ",
+      "gt_id": "048683669X",
+      "rec_ids": [
+        "0884948528",
+        "0765326140",
+        "1435745485",
+        "1631214411",
+        "0192835173",
+        "1562802550",
+        "1463514387",
+        "1683147731",
+        "1434361071",
+        "1736340743"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7055,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0884948528\",\n      \"title\": \"Ravenwood\",\n      \"score\": 0.92,\n      \"reasoning\": \"The user's preference for drama and historical narratives (TRANSFER) aligns with this book's setting in a Scottish estate with themes of adventure and r"
+    },
+    {
+      "user_id": "AFFQNEVBCCC4QJ73BMSND5DCYBYA",
+      "gt_id": "1402792565",
+      "rec_ids": [
+        "B08R31H3NV",
+        "B09HSTSM5J",
+        "B0167ZYAS4",
+        "0986417017",
+        "0986363804",
+        "1559391693",
+        "0988018721",
+        "098306895X",
+        "0999537024",
+        "0060741252"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7043,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B08R31H3NV\",\n      \"title\": \"Nighttime in Berlin\",\n      \"score\": 0.92,\n      \"reasoning\": \"The user prefers fast-paced narratives and thriller genres, which aligns with this book's suspenseful and fast-paced thriller style.\"\n    },\n "
+    },
+    {
+      "user_id": "AF5UOHT3K36JCK5YSBW62QJYXY4A",
+      "gt_id": "1947070711",
+      "rec_ids": [
+        "B005C5HAD8",
+        "1507505515",
+        "0310091004",
+        "0763655333",
+        "1949184064",
+        "0340213922",
+        "1539373010",
+        "0822358069",
+        "1547228520",
+        "0990304507"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7164,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B005C5HAD8\",\n      \"title\": \"On Her Majesty's Secret Service (A James Bond Thriller, Signet P2732)\",\n      \"score\": 0.92,\n      \"reasoning\": \"The user's preference for fast-paced narratives and thriller elements translates well to thi"
+    },
+    {
+      "user_id": "AHULUFMWELQTVCVD277UCDMK6KEQ",
+      "gt_id": "1913484009",
+      "rec_ids": [
+        "B07VHGLLQY",
+        "B000HF9OPA",
+        "B08WJZC4QF",
+        "B000J9Z0OS",
+        "B071V51SLD",
+        "B0BGY8MD63",
+        "B07F81Z9VV",
+        "B07Z48VQMT",
+        "B001TI43GE",
+        "B0753JQKW3"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6535,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B07VHGLLQY\",\n      \"title\": \"Vibrate: A Naomi Soul Mystery-Thriller (Naomi Soul Novels)\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user is open to a variety of genres and both simple and complex narratives. This thriller fits well"
+    },
+    {
+      "user_id": "AEKJV4NBVAKL4GFUNYKQYX342DDA",
+      "gt_id": "B07KVKJ4KC",
+      "rec_ids": [
+        "1561459496",
+        "150118718X",
+        "0393030229",
+        "0151006407",
+        "1561584630",
+        "0373244878",
+        "1424148650",
+        "0394401298",
+        "0969860633",
+        "1454913355"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6992,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1561459496\",\n      \"title\": \"Stanley's Shapes (Stanley Board Books)\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user prefers fast-paced narratives and emotional resonance, which aligns with the engaging and educational storytelling"
+    },
+    {
+      "user_id": "AHTFDW3RS4YR6QSFZIIBON5NF4CQ",
+      "gt_id": "0061806773",
+      "rec_ids": [
+        "B0007XAWG2",
+        "B00VVWBH8K",
+        "0977614204",
+        "0520021576",
+        "1934133566",
+        "1940769205",
+        "1931020507",
+        "190849302X",
+        "0062658808",
+        "1912618583"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7071,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B0007XAWG2\",\n      \"title\": \"Ghosts of Cape Sabine: The Harrowing True Story of the Greely Expedition\",\n      \"score\": 0.92,\n      \"reasoning\": \"The user's preference for historical narratives and high-quality storytelling aligns with"
+    },
+    {
+      "user_id": "AHCBDPXWGAXKEIURBK3NEZJU2IKQ",
+      "gt_id": "1945644036",
+      "rec_ids": [
+        "B008G0R6GM",
+        "B007PNZ4SS",
+        "B01M0YTF14",
+        "B0000CW6EH",
+        "B09PMKKRHB",
+        "B00CQFJ7UG",
+        "B09RWRCGCC",
+        "B00UUCBCRI",
+        "B000GU8HAO",
+        "B07C4HVJZ6"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7069,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B008G0R6GM\",\n      \"title\": \"Blade Song (Colbana Files Series Book 1)\",\n      \"score\": 0.9,\n      \"reasoning\": \"The user prefers fast-paced narratives and emotional resonance, which aligns with the action-packed and engaging story of "
+    },
+    {
+      "user_id": "AELEFWRNVLXXKIZTURLLE5KARQVQ",
+      "gt_id": "1250146550",
+      "rec_ids": [
+        "0393351440",
+        "1423149874",
+        "1904113974",
+        "1588720691",
+        "1945591196",
+        "0803739923",
+        "1717546978",
+        "1416623515",
+        "1920664386",
+        "168377597X"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7341,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0393351440\",\n      \"title\": \"The Wherewithal: A Novel in Verse\",\n      \"score\": 0.95,\n      \"reasoning\": \"The user prefers emotionally resonant stories with depth, which aligns with this book's poetic narrative and emotional themes.\"\n"
+    },
+    {
+      "user_id": "AGLKOQZI4GW5FSPFAEK4HK2G5PTA",
+      "gt_id": "0451473108",
+      "rec_ids": [
+        "B00M1BJQII",
+        "B0031Y9D5K",
+        "B00381B7C8",
+        "B00LB0PGGQ",
+        "B00KQ2G85S",
+        "B0B28D5KNH",
+        "B009R6B304",
+        "B0B5PDZK6C",
+        "B0086HTNKW",
+        "4908906009"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6754,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B00M1BJQII\",\n      \"title\": \"Memoirs of a Caddie: Life and Times of a Misguided Youth\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for family-oriented content and emotional resonance aligns with this memoir's theme"
+    },
+    {
+      "user_id": "AHJDWJIM3VQALAP5KOW6MDHIJNUQ",
+      "gt_id": "0970823649",
+      "rec_ids": [
+        "B000K0D4DU",
+        "B010MVFZZG",
+        "150239359X",
+        "1682891046",
+        "194867159X",
+        "1610722116",
+        "1410462307",
+        "1543115586",
+        "1848092334",
+        "1546753400"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6840,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B000K0D4DU\",\n      \"title\": \"The Published French and Spanish Writings of Pablo Picasso with English Translations\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for engaging narratives (TRANSFER) and immersive storyt"
+    },
+    {
+      "user_id": "AGMLXU3AQKGMEMJVTGV2Q6KLTXUQ",
+      "gt_id": "1476758816",
+      "rec_ids": [
+        "B001O9CBDU",
+        "B0BL56RWFN",
+        "B00ANLS2C4",
+        "B09KN9YJWX",
+        "0973813164",
+        "B0036FU18M",
+        "B0C1TM2FSX",
+        "0316521183",
+        "B002N29CSO",
+        "B00KS5VBQO"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7021,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B001O9CBDU\",\n      \"title\": \"The Big Book of Outdoor Cooking and Entertaining: Spirited Recipes and Expert Tips for Barbecuing, Charcoal and Gas Grilling, Rotisserie Roasting, Smoking, Deep-Frying, and Making Merry\",\n      \"score\": 0."
+    },
+    {
+      "user_id": "AHYVMMQZXV7L7RPND37VGOIDESEA",
+      "gt_id": "B098TX942T",
+      "rec_ids": [
+        "B09BBBL345",
+        "B00AYDVL4M",
+        "B002Q1C9SC",
+        "B098TX942T",
+        "1419727583",
+        "1432740326",
+        "150875215X",
+        "1338304577",
+        "1480801410",
+        "1507566360"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 1,
+        "HR@10": 1,
+        "NDCG@5": 0.43067655807339306,
+        "NDCG@10": 0.43067655807339306,
+        "MRR": 0.25
+      },
+      "input_tokens": 7008,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B09BBBL345\",\n      \"title\": \"Her Wyoming Valentine Wish (Return to the Double C Book 19)\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user prefers fast-paced narratives and thriller elements, which align with the fast-paced, engagin"
+    },
+    {
+      "user_id": "AG773UTHCFYGCWNL2CCCK2NO7DVA",
+      "gt_id": "0881888877",
+      "rec_ids": [
+        "1439254885",
+        "1096674491",
+        "1567261558",
+        "1609452240",
+        "037308532X",
+        "1508778949",
+        "1600100627",
+        "0313242216",
+        "1542683750",
+        "0983964017"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7105,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"1439254885\",\n      \"title\": \"Waiting and Wading: the adventures of Macy the black dog\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for emotional resonance and simple narratives aligns with this children's story, wh"
+    },
+    {
+      "user_id": "AFDA7US2RKW23R5HL2DHIY6SDJ6A",
+      "gt_id": "B0BRM1GBDD",
+      "rec_ids": [
+        "B00580W9ZG",
+        "B01F2PV8RG",
+        "B0BRM1GBDD",
+        "B00C8O8QSO",
+        "B0041HU8W8",
+        "B005P05W9Y",
+        "B002XQFFYA",
+        "B008QB4HTU",
+        "B001V9GPVM",
+        "1412059062"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 1,
+        "HR@10": 1,
+        "NDCG@5": 0.5,
+        "NDCG@10": 0.5,
+        "MRR": 0.3333333333333333
+      },
+      "input_tokens": 7014,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B00580W9ZG\",\n      \"title\": \"The Impenetrable Spy\",\n      \"score\": 0.85,\n      \"reasoning\": \"TRANSFER from narrative complexity and PARTIAL from genre preference. The user prefers simple narratives and enjoys thriller genres, which al"
+    },
+    {
+      "user_id": "AGUXKMC6DWBJGLJAAL65IGL55QNQ",
+      "gt_id": "1563898683",
+      "rec_ids": [
+        "B08K41XVKL",
+        "B08FGGKKX9",
+        "B00T3XNJCG",
+        "B002O5FJZK",
+        "B093WMPX1G",
+        "B079RMZJ2F",
+        "1595231021",
+        "1590050061",
+        "1559360097",
+        "1542966337"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7452,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B08K41XVKL\",\n      \"title\": \"Mosaic Art Color By Number: Vintage Cars Coloring Book for Adults Relaxation and Stress Relief with 3*3 mm sections\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for fast-paced action an"
+    },
+    {
+      "user_id": "AH7DJYH7R5NZCXDWVT4KBKML6QPQ",
+      "gt_id": "0789489163",
+      "rec_ids": [
+        "B0B3RFRT1K",
+        "164332053X",
+        "1532095112",
+        "1665744480",
+        "0891345930",
+        "1418533238",
+        "0851515118",
+        "1530014778",
+        "0989628027",
+        "1494459604"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7343,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B0B3RFRT1K\",\n      \"title\": \"What Lies Beneath\",\n      \"score\": 0.95,\n      \"reasoning\": \"The user's preference for fast-paced narratives and emotional resonance translates well to this thriller, which combines suspense and deep emoti"
+    },
+    {
+      "user_id": "AE42IP67CTNPSYT5GBTOOS53HY4A",
+      "gt_id": "1621452204",
+      "rec_ids": [
+        "B0B2KBS3WL",
+        "B008U4SERO",
+        "B003G93Z22",
+        "B00SHUMN78",
+        "B0026P4KA8",
+        "B00BK9NL4W",
+        "B002NJ06JG",
+        "1443441406",
+        "1492687405",
+        "1840720050"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 6809,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B0B2KBS3WL\",\n      \"title\": \"Local Girl Missing: A totally unputdownable crime thriller and mystery novel (Detective Josie Quinn Book 15)\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user prefers simple narratives with good storytel"
+    },
+    {
+      "user_id": "AE46WQKQ6MDTM2O2EQWZAHW3PFFA",
+      "gt_id": "1932273077",
+      "rec_ids": [
+        "0985196963",
+        "0930410351",
+        "0486247163",
+        "1451697724",
+        "080506494X",
+        "0890963983",
+        "1590581296",
+        "0899065120",
+        "1439249008",
+        "1561006181"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 0,
+        "HR@10": 0,
+        "NDCG@5": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0
+      },
+      "input_tokens": 7159,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"0985196963\",\n      \"title\": \"Wrath of the Caid: Red Hand Adventures, Book 2 (Red Hand Adventures, 2)\",\n      \"score\": 0.95,\n      \"reasoning\": \"The user prefers family-friendly, simple narratives with emotional resonance, which aligns"
+    },
+    {
+      "user_id": "AGFM5VWLENZH4DBUUGH2J3L3PVUA",
+      "gt_id": "1423477758",
+      "rec_ids": [
+        "B08B7H3NLT",
+        "B000H0DHK8",
+        "1450284280",
+        "1423477758",
+        "1538737957",
+        "1461420555",
+        "1575664941",
+        "1579161855",
+        "1467112429",
+        "1584768169"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 1,
+        "HR@10": 1,
+        "NDCG@5": 0.43067655807339306,
+        "NDCG@10": 0.43067655807339306,
+        "MRR": 0.25
+      },
+      "input_tokens": 7197,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B08B7H3NLT\",\n      \"title\": \"INSIDE HOLLYWOOD: THE GREATEST CELEBRITY PHOTOS FROM US WEEKLY\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user's preference for historical narratives and high production quality (TRANSFER) aligns with "
+    },
+    {
+      "user_id": "AEBC6VCYUMAXVK6GIAHRJ7UIMXKQ",
+      "gt_id": "B092HHBFT4",
+      "rec_ids": [
+        "B005WKGN2W",
+        "B08KFYXKK8",
+        "B07ZHHPGPK",
+        "B000H2NB3E",
+        "B092HHBFT4",
+        "B000JZHHLG",
+        "B0874JFMWP",
+        "B005SN5OSW",
+        "B000H4MEH6",
+        "B07NWXWRGD"
+      ],
+      "metrics": {
+        "HR@1": 0,
+        "HR@5": 1,
+        "HR@10": 1,
+        "NDCG@5": 0.38685280723454163,
+        "NDCG@10": 0.38685280723454163,
+        "MRR": 0.2
+      },
+      "input_tokens": 7298,
+      "response_preview": "{\n  \"recommendations\": [\n    {\n      \"rank\": 1,\n      \"item_id\": \"B005WKGN2W\",\n      \"title\": \"The Mother: An absolutely gripping crime thriller\",\n      \"score\": 0.85,\n      \"reasoning\": \"The user prefers fast-paced narratives and emotionally impactful stories. This thriller aligns with their prefer"
+    }
+  ]
+}
